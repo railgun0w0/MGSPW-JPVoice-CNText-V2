@@ -28,20 +28,21 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 
 | Resource class | file_id | Rows | Mapping commit | Mapping path | Notes |
 |---|---:|---:|---|---|---|
-| YPK_GTT | `1C79F42D` | 80 | `1adb7231a2d7048de526a4b821ea1a94865e7180` | `sol_translation_mappings/YPK_GTT/1C79F42D.json` | All 80 rows translated and review flags persisted. Main 28-column CSV remains untouched until safe mechanical merge. |
+| YPK_GTT | `1C79F42D` | 80 | `1adb7231a2d7048de526a4b821ea1a94865e7180` | `sol_translation_mappings/YPK_GTT/1C79F42D.json` | Full file translated; Monster Hunter crossover; shifted auxiliary mappings ignored and review flags retained. |
+| YPK_GTT | `1C79F46D` | 93 | `066f4c34feb13b46a68682977d767775b6884e70` | `sol_translation_mappings/YPK_GTT/1C79F46D.json` | Full file translated. Deliberate AI corruption/test phrases, station names, corrupted pi, MGS2 gibberish and late AI dialogue preserved from JPN rather than repaired from auxiliary references. |
 
 ## Totals
 
 - Completed merged file_ids: 4 / 241
 - Completed merged template rows: 115 / 21041
-- Persisted pending-merge file_ids: 1
-- Persisted pending-merge rows: 80
-- Total translation work safely persisted: 195 rows
-- YPK_GTT translation coverage: 5 / 36 (4 merged + 1 pending merge)
+- Persisted pending-merge file_ids: 2
+- Persisted pending-merge rows: 173
+- Total translation work safely persisted: 288 rows
+- YPK_GTT translation coverage: 6 / 36 (4 merged + 2 pending merge)
 
 ## Current queue
 
-Continue remaining YPK_GTT resources. For larger files, translate complete file -> persist JSON mapping -> mechanically merge later. Next target: `1C79F46D`.
+Continue remaining YPK_GTT resources. For larger files, translate complete file -> persist JSON mapping -> mechanically merge later. Next: choose another unprocessed YPK_GTT resource; prioritize manageable complete files before very large resources.
 
 ## Risk / review log
 
@@ -55,3 +56,7 @@ Continue remaining YPK_GTT resources. For larger files, translate complete file 
 - `1C79F42D`: preserved JPN distinction `耐性` as `抗性`, not auxiliary `免疫`.
 - `1C79F42D`: did not inherit auxiliary bullfighter metaphor for `猪突猛進`; JPN-only translation persisted.
 - `1C79F42D`: review flags persisted for `SOMOZA`, `Cecile`, cat-speech style, Stun Rod terminology, Monster Hunter catchphrase, and onomatopoeia.
+- `1C79F46D`: preserved JPN's corrupted numeric strings literally; did not replace `3.2546373469888888…` with mismatching auxiliary digits.
+- `1C79F46D`: station-name strings were treated as intentional AI/test speech, not replaced by unrelated auxiliary pi text.
+- `1C79F46D`: MGS2-style gibberish (`要ハサミだ`, `61！`) preserved as `我要剪刀！`, `61！`; attached references are visibly shifted and ignored.
+- `1C79F46D`: canonical-lore wording (`绝对之敌`, `相对之敌`, `贤者们`, `Cobra部队`) and `REPTILE` are flagged for global terminology review, not silently normalized.
