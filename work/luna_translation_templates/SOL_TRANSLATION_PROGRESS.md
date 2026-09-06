@@ -13,6 +13,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - Do not modify formal `translations/`, compiled manifest, DAT/KEY, or run a production build from this branch checkpoint.
 - Use pending-review semantics; never mark a translation `APPROVED` merely because Sol produced it.
 - Large files are persisted as complete per-file JSON mappings, sharded when needed, before any mechanical CSV merge.
+- For CSVs with embedded newlines, never use physical line numbers as row identity; anchor work to the logical `unique_index`.
 
 ## Current totals
 
@@ -20,11 +21,11 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **2931 / 21041 rows** |
+| Translation work safely persisted | **3431 / 21041 rows** |
 | file_ids with complete persisted translation | **50 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
-| LOOSE_OLANG | **13 / 14 complete** |
+| LOOSE_OLANG | **13 / 14 complete + 500/1094 rows of final file** |
 | STAGEDAT_OLANG | 0 / 46 |
 | SLOT_OLANG | 0 / 144 |
 
@@ -58,15 +59,25 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 | `00CB1FB7` | 106 | `6aab159d96993753753e1c032d87ac76aee82946` | CO-OPS matchmaking/search UI |
 | `005184E3` | 139 | manifest `cbf434cdb1e0f25d2a53aa7fff17d9eb61614bf1` | camera/menu, soldier chatter, missions, tutorial, versus UI; two shards |
 
-LOOSE_OLANG translated rows: **625 / 1719**.
+Completed LOOSE_OLANG file rows: **625 / 1719**.
+Including current partial `007E2F18`: **1125 / 1719 rows safely persisted**.
 
-## Current queue
+## Current partial target
 
-Only one LOOSE_OLANG file remains:
+`LOOSE_OLANG/007E2F18.csv` — 1094 rows total.
 
-1. `007E2F18` — **1094 rows**
+| Shard | Range | Commit | Status |
+|---|---:|---|---|
+| part01 | 0-99 | `7176c2e05248dcc2594c06657bdac2e0a3248d66` | persisted |
+| part02 | 100-199 | `dc992f94dae894a42b590902e7147b8b76765d08` | persisted |
+| part03 | 200-299 | `41a2f0833ec24752d69fb299710c8d6003e974cb` | persisted |
+| part04 | 300-399 | `9194fa60e1a7094cec586c74804ef953e648f4df` | persisted |
+| part05 | 400-499 | `a615baade644746ef1a894ed4bdd7746d45b2a2a` | persisted |
 
-Persist `007E2F18` in contiguous shards with a manifest. After it is complete, LOOSE_OLANG will be **14 / 14** and total safely persisted translation will be **4025 rows / 51 file_ids**.
+Current file progress: **500 / 1094 rows**.
+Resume at **unique_index 500**.
+
+After `007E2F18` is complete, LOOSE_OLANG will be **14 / 14**, and total safely persisted translation will be **4025 rows / 51 complete file_ids**.
 
 After LOOSE_OLANG, continue STAGEDAT_OLANG, then SLOT_OLANG unless a resource-specific structural problem justifies changing order.
 
@@ -81,10 +92,12 @@ After LOOSE_OLANG, continue STAGEDAT_OLANG, then SLOT_OLANG unless a resource-sp
 - `00D0C740`: multiple auxiliary story quotes contained sentences absent from JPN or omitted JPN clauses. The Boss/Paz/Strangelove-era lines were rebuilt from JPN rather than copying those additions.
 - `00CB1FB7`: `難易度5` had an aggregated auxiliary variant `难度5以上`; exact JPN `难度5` was used. `$1` and `<I=CAN>` preserved.
 - `005184E3`: `<ADD STAGE>` is preserved exactly as a runtime angle token; auxiliary `<添加关卡>` rejected. Literal `BACK` help text is kept instead of auxiliary `<I=SEL>`. Tutorial roll-result additions absent from JPN were omitted. `%d`, `<I=REG>`, color tags and copyright tags preserved.
+- `007E2F18`: because the CSV contains embedded newlines, all work from part03 onward was anchored by logical `unique_index`, not physical line number. Part05 rejected an AXE auxiliary description that did not match the JPN product copy; dynamic controls such as `<I=DIR>`, `<I=AIM>`, `<I=SAW_L>`, `<I=SAW_R>`, color tags, `$1/$2/$3m`, and `<I=CPY>` were preserved.
 
 ## Last safe checkpoint
 
-- Latest completed mapping manifest: `sol_translation_mappings/LOOSE_OLANG/005184E3.manifest.json`
-- Manifest commit: `cbf434cdb1e0f25d2a53aa7fff17d9eb61614bf1`
-- Safe translation total: **2931 rows / 50 file_ids**.
-- Resume next at: **LOOSE_OLANG `007E2F18`, unique_index 0**.
+- Latest persisted shard: `sol_translation_mappings/LOOSE_OLANG/007E2F18.part05.json`
+- Shard commit: `a615baade644746ef1a894ed4bdd7746d45b2a2a`
+- Safe translation total: **3431 rows / 50 complete file_ids**.
+- Current partial file: **007E2F18 500 / 1094 rows**.
+- Resume next at: **LOOSE_OLANG `007E2F18`, unique_index 500**.
