@@ -54,19 +54,23 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 | YPK_GTT | `1C7A72AD` | 35 | `7847679a99b52ae1d341a8f10ff47296f173ed64` | `sol_translation_mappings/YPK_GTT/1C7A72AD.json` | Early-game sneaking/LIFE/Psyche/camo/wall tutorial; D-pad/A-button variants preserved; SNEAKING MISSION/MAP/MOVE/ACT controls normalized. |
 | YPK_GTT | `1C7A73ED` | 79 | `38f88b028fd279bb668c5fd1e95daf8d42a79807` | `sol_translation_mappings/YPK_GTT/1C7A73ED.json` | Mother Base vs ZEKE gun-platform battle, TAGGING/CO-OPS controls, Paz plot and mock-battle guidance; ZEKE ruby normalized; ambiguous Paz line explicitly review-flagged. |
 | YPK_GTT | `1CC276E9` | 88 | `1a7979e8b8dba516d5be59133db5cf56d7d71efd` | `sol_translation_mappings/YPK_GTT/1CC276E9.json` | Generic vehicle-battle/radio library; neutralization vs destruction kept distinct, non-destructive recovery routes preserved, Surround Indicator and fuel-tank tactics normalized. |
+| YPK_GTT | `1C7A736D` | 93 | `5e10d9ff1e2fdb462029deff67dab07eebdd21f1` | `sol_translation_mappings/YPK_GTT/1C7A736D.json` | Cocoon AI battle library; radiators, boarding, turret/arm, missile/cluster-bomb and AI-pod tactics translated from JPN with control variants preserved. |
+| YPK_GTT | `1C677327` | 100 | `667677e5f2ff74fc287c431067ebd75c1117bae0` | `sol_translation_mappings/YPK_GTT/1C677327.json` | Scout/ghillie/ID-card/quetzal/Huey-letter/Strangelove-lab radio library; waterfall semantic reversal in auxiliary corrected from JPN. |
+| YPK_GTT | `1C79F2AD` | 110 | `14f3dfdd86aa19d0364692758d87f4d48fec58b8` | `sol_translation_mappings/YPK_GTT/1C79F2AD.json` | Opening controls/shooting/auto-aim/weapon/equipment tutorial, beach UMA and Paz/Miller special reactions; alternate control schemes preserved separately. |
+| YPK_GTT | `1C7A72ED` | 115 | `d08bc35ec5303404242f1a705063cea067cb42f8` | `sol_translation_mappings/YPK_GTT/1C7A72ED.json` | Chico rescue/blue-door search/C4 tutorial/coffee-terminal route/co-op wall/Zadornov/plant dialogue; split auxiliary additions kept aligned to JPN rows. |
 
 ## Totals
 
 - Completed merged file_ids: 21 / 241
 - Completed merged template rows: 491 / 21041
-- Persisted pending-merge file_ids: 9
-- Persisted pending-merge rows: 557
-- Total translation work safely persisted: 1048 rows
-- YPK_GTT translation coverage: 30 / 36 (21 merged + 9 pending merge)
+- Persisted pending-merge file_ids: 13
+- Persisted pending-merge rows: 975
+- Total translation work safely persisted: 1466 rows
+- YPK_GTT translation coverage: 34 / 36 (21 merged + 13 pending merge)
 
 ## Current queue
 
-Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1C7A736D`, `1C677327`, `1C79F2AD`, `1C7A72ED`, `1C0FB26B`, `1C7679A5`. Large files use complete-file JSON mapping before merge.
+Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1C0FB26B`, `1C7679A5`. Large files use complete-file JSON mapping before merge.
 
 ## Risk / review log
 
@@ -91,3 +95,7 @@ Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1
 - `1C7A72AD`: `<R=潜入任務,スニーキングミッション>` -> `<R=潜入任务,SNEAKING MISSION>`; `<R=地図,マップ>` -> `<R=地图,MAP>`. D-pad and A-button control variants preserved separately. `伪装指数` and `敌人搜索` flagged for final terminology consistency review.
 - `1C7A73ED`: `<R=ZEKE,ジーク>` normalized to `<R=ZEKE,ZEKE>`. TAGGING/CO-OPS/Mother Base terminology remains review-marked. `Pazは私が…` was rendered conservatively as `Paz由我…` and explicitly flagged for semantic review. Auxiliary additions absent from JPN were omitted.
 - `1CC276E9`: `無力化` kept semantically distinct from `破壊`; lethal/nonlethal commander endings and intact vehicle recovery prompts remain distinct. `Surround Indicator` follows current `周围指示器` working term. Fuel-guzzler/oil-shock joke preserved and flagged; generic rearm lines follow prior JPN-authoritative wording.
+- `1C7A736D`: Cocoon battle terminology follows current working names. `ウサギ狩り` remains `打兔子`; rearm lines keep explicit re-equipping semantics. Radiator/auxiliary-radiator, boarding, turret/arm, AI-pod and ACT sequences remain distinct.
+- `1C677327`: waterfall line `落ちたらまず助からないな… あんたみたいな超人ならともかく` means “normally fatal, except perhaps a superhuman like you”; auxiliary reversed this to “even you would die” and was rejected. Quetzal calls romanized (`Kyohhh`), scout/ambush/LAB rubies normalized; bird names remain glossary-review items.
+- `1C79F2AD`: alternate input/control schemes remain separate even where semantics duplicate. Scarecrow line `こいつは倒れないな` kept as “这家伙不会倒啊”, rejecting auxiliary “I think you got him”. Beach UMA and Paz/Miller special reactions remain literal to JPN; no auxiliary joke/addition overrides JPN.
+- `1C7A72ED`: Chico/blue-door search sequence and C4 placement/detonation input variants preserved. `CAFETAL`, `TERMINAL`, `SOMBRILLA DE POBRE`, `CHAMPA` reuse prior normalized ruby readings. Row 99/100 keeps JPN split (`救出Chico` / `这对我们也有好处`) instead of copying the combined auxiliary sentence. `クレフォンテスタスキアゲハ` provisionally follows attached MLG term `大燕尾蝶` pending glossary review.
