@@ -30,6 +30,9 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 | YPK_GTT | `1C7B73AD` | 17 | `c7915f47641632c576cb2db5d587732b42261096` | Bridge/control-tower/chaff guidance; contradictory launcher auxiliary wording ignored. |
 | YPK_GTT | `1C7BF36D` | 17 | `7aeda6078d24489f41ab07460497f7355ceb0996` | Shutter button tutorial and Peace Walker hangar approach; `<I=ACT>` preserved. |
 | YPK_GTT | `1C7A73AD` | 21 | `8bc6f3816abfe4ebd4dd30c5d026e8ed1896b240` | Dock/control-tower approach and chaff guidance; bird-count auxiliary over-expansion not copied; NICA ruby preserved as Chinese display + Latin reading. |
+| YPK_GTT | `1C7AF3AD` | 20 | `024ff61ccfce4e7f767673478896a59a950b5186` | Control-tower approach; repeated bird-count line kept JPN-authoritative; shifted/no-mapping rows translated from context. |
+| YPK_GTT | `1C7C72AD` | 19 | `e663241a5e0d897bb161643e5b08c3a38db7655b` | Fulton/equipment tutorial and butterfly/Amanda guidance; control tokens preserved; `キジマドクチョウ` standardized as `黄条袖蝶`; BANANAL ruby normalized. |
+| YPK_GTT | `1C7BF2AD` | 20 | `b258496e7322e1f2f1a6d8ded4dd165781f6f818` | FSLN/comandante contact, enemy neutralization and gun-turret tutorial; opening boathouse auxiliary mismatch ignored; Amanda/BANANAL wording reused consistently. |
 
 ## Persisted translations pending mechanical CSV merge
 
@@ -40,16 +43,16 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 
 ## Totals
 
-- Completed merged file_ids: 11 / 241
-- Completed merged template rows: 205 / 21041
+- Completed merged file_ids: 14 / 241
+- Completed merged template rows: 264 / 21041
 - Persisted pending-merge file_ids: 2
 - Persisted pending-merge rows: 173
-- Total translation work safely persisted: 378 rows
-- YPK_GTT translation coverage: 13 / 36 (11 merged + 2 pending merge)
+- Total translation work safely persisted: 437 rows
+- YPK_GTT translation coverage: 16 / 36 (14 merged + 2 pending merge)
 
 ## Current queue
 
-Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7AF3AD`, `1C7C72AD`, `1C7BF2AD`, `1C7C73AD`, then other small/medium files. Large files use complete-file JSON mapping before merge.
+Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7C73AD`, `1C7C72ED`, `1C7BF2ED`, `1C7CF3AD`, then other small/medium files. Large files use complete-file JSON mapping before merge.
 
 ## Risk / review log
 
@@ -61,4 +64,6 @@ Continue unprocessed YPK_GTT resources by ascending manageable size. Next candid
 - `1C79F46D`: corrupted numeric strings and station-name/test speech preserved literally; unrelated auxiliary pi text ignored; MGS2 gibberish `我要剪刀！` / `61！` preserved; lore terms and `REPTILE` flagged for terminology review.
 - `1C7AF2AD`: auxiliary refs on `ダンボール？` / `何に使うんだ？` are shifted to later ESEARCH tutorial lines; JPN-only translations used.
 - `1C7B73AD`: auxiliary says launcher is “Great, just what we need” while JPN says it is troublesome; JPN negative meaning used.
-- `1C7A73AD`: repeated `核が撃たれれば鳥たちもたくさん死ぬわ…` again translated as many birds dying; did not copy auxiliary `millions` quantity absent from JPN.
+- `1C7A73AD` / `1C7AF3AD`: repeated `核が撃たれれば鳥たちもたくさん死ぬわ…` translated consistently as many birds dying; auxiliary `millions` quantity rejected because absent from JPN.
+- `1C7C72AD`: `キジマドクチョウ` identified as Heliconius charithonia / Zebra Longwing and rendered `黄条袖蝶`; `ベニモンオオキチョウ` / `イドメネウスフクロウチョウ` follow attached MLG terminology.
+- `1C7BF2AD`: opening auxiliary `船库 / boathouse` conflicts with JPN `FSLNの小屋`; JPN hut meaning used. Rows 10-11 have visibly shifted gun-turret auxiliary text and were translated from JPN only.
