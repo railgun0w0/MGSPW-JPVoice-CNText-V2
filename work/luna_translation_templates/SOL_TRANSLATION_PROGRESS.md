@@ -29,6 +29,7 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 | YPK_GTT | `1C7AF2ED` | 13 | `fd799bef10756ac58f83470ebb8340867a5cbde1` | Train/Basilisco/neutralization/plant lines; reused established botanical/ruby terminology consistently. |
 | YPK_GTT | `1C7B73AD` | 17 | `c7915f47641632c576cb2db5d587732b42261096` | Bridge/control-tower/chaff guidance; contradictory launcher auxiliary wording ignored. |
 | YPK_GTT | `1C7BF36D` | 17 | `7aeda6078d24489f41ab07460497f7355ceb0996` | Shutter button tutorial and Peace Walker hangar approach; `<I=ACT>` preserved. |
+| YPK_GTT | `1C7A73AD` | 21 | `8bc6f3816abfe4ebd4dd30c5d026e8ed1896b240` | Dock/control-tower approach and chaff guidance; bird-count auxiliary over-expansion not copied; NICA ruby preserved as Chinese display + Latin reading. |
 
 ## Persisted translations pending mechanical CSV merge
 
@@ -39,16 +40,16 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 
 ## Totals
 
-- Completed merged file_ids: 10 / 241
-- Completed merged template rows: 184 / 21041
+- Completed merged file_ids: 11 / 241
+- Completed merged template rows: 205 / 21041
 - Persisted pending-merge file_ids: 2
 - Persisted pending-merge rows: 173
-- Total translation work safely persisted: 357 rows
-- YPK_GTT translation coverage: 12 / 36 (10 merged + 2 pending merge)
+- Total translation work safely persisted: 378 rows
+- YPK_GTT translation coverage: 13 / 36 (11 merged + 2 pending merge)
 
 ## Current queue
 
-Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7A73AD`, `1C7AF3AD`, `1C7C72AD`, then other small/medium files. Large files use complete-file JSON mapping before merge.
+Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7AF3AD`, `1C7C72AD`, `1C7BF2AD`, `1C7C73AD`, then other small/medium files. Large files use complete-file JSON mapping before merge.
 
 ## Risk / review log
 
@@ -60,3 +61,4 @@ Continue unprocessed YPK_GTT resources by ascending manageable size. Next candid
 - `1C79F46D`: corrupted numeric strings and station-name/test speech preserved literally; unrelated auxiliary pi text ignored; MGS2 gibberish `我要剪刀！` / `61！` preserved; lore terms and `REPTILE` flagged for terminology review.
 - `1C7AF2AD`: auxiliary refs on `ダンボール？` / `何に使うんだ？` are shifted to later ESEARCH tutorial lines; JPN-only translations used.
 - `1C7B73AD`: auxiliary says launcher is “Great, just what we need” while JPN says it is troublesome; JPN negative meaning used.
+- `1C7A73AD`: repeated `核が撃たれれば鳥たちもたくさん死ぬわ…` again translated as many birds dying; did not copy auxiliary `millions` quantity absent from JPN.
