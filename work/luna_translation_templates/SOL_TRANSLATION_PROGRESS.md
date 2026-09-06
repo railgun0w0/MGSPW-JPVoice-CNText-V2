@@ -21,12 +21,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **4061 / 21041 rows** |
-| file_ids with complete persisted translation | **55 / 241** |
+| Translation work safely persisted | **4154 / 21041 rows** |
+| file_ids with complete persisted translation | **57 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
-| STAGEDAT_OLANG | **4 / 46 complete** |
+| STAGEDAT_OLANG | **6 / 46 complete** |
 | SLOT_OLANG | **0 / 144** |
 
 ## Completed resource accounting
@@ -43,20 +43,21 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 
 ### LOOSE_OLANG
 - **1719 / 1719 rows, 14 / 14 file_ids complete**.
-- Completed file_ids: `00327F6A`, `00C6A046`, `0060E2F2`, `0043DA6E`, `00C79B17`, `0005EE2F`, `00D345A5`, `0072F326`, `00225520`, `0066E64E`, `00D0C740`, `00CB1FB7`, `005184E3`, `007E2F18`.
 - `007E2F18`: **1094 / 1094 rows complete**, 11 shards + manifest.
 - `007E2F18` manifest commit: `a38ac7ea2e4bb5dd92b246020d87295a8a9d2f21`.
 
 ### STAGEDAT_OLANG
-- **36 rows / 4 file_ids complete** so far.
+- **129 rows / 6 file_ids complete** so far.
 - `LANG_DEMOSKIPTELOP.OLANG`: **1 / 1**, commit `41e634c3c3c23530379d3fefd920d427540d189e`.
 - `LANG_EMERGENCYTELOP.OLANG`: **5 / 5**, commit `03311c8a86834788942f4d0189e82dba29da82e9`.
 - `LANG_COMMUNICATIONSTELOP.OLANG`: **5 / 5**, commit `8099350a0c545d823d7560f849b8c6d2f4934bec`.
 - `LANG_BRIEFING.OLANG`: **25 / 25**, commit `7a05bbdfe9822679df24fd18d870cff5503f307e`.
+- `LANG_CHARAEDIT.OLANG`: **46 / 46**, commit `1ed668ba5b2dac1638c93f6911a9a543476d9e41`.
+- `LANG_DEMOTELOP4.OLANG`: **47 / 47**, commit `7360603b8c58811f43e4159d150239e0f7d6aea8`.
 
 ## Next target
 
-Continue remaining **STAGEDAT_OLANG (42 file_ids)**, then SLOT_OLANG unless a resource-specific structural problem justifies changing order.
+Continue remaining **STAGEDAT_OLANG (40 file_ids)**, then SLOT_OLANG unless a resource-specific structural problem justifies changing order.
 
 Prefer complete small/medium STAGEDAT files when practical, but preserve logical `unique_index` and persist a shard before moving on if a file becomes large.
 
@@ -65,22 +66,17 @@ Prefer complete small/medium STAGEDAT files when practical, but preserve logical
 - JPN always wins over shifted, combined, or over-expanded MLG_CN / ENG auxiliary text.
 - Keep `無力化` distinct from lethal `破壊/殲滅` where gameplay meaning requires it.
 - Existing normalized ruby/readings include `COMPA`, `LAB`, `ZEKE`, `ELUDE`, `SNEAKING MISSION`, `MAP`, `OPTIONS`; preserve structural markup exactly during merge.
-- `0072F326`: JPN `モンスターハンターポータブル<I=REG>` preserved; auxiliary `FREEDOM<I=TM>` rejected. `[lack_strage_*]` runtime placeholders preserved.
-- `00225520`: all dynamic key-help tokens preserved. Soul-in/out label provisionally rendered as battle-cry use/cancel and remains terminology-review material.
-- `0066E64E`: auxiliary variants frequently labelled valid JPN functions as unused; JPN labels such as camera operation, discard, delete, display mode and list mode were kept distinct.
-- `00D0C740`: multiple auxiliary story quotes contained sentences absent from JPN or omitted JPN clauses. The Boss/Paz/Strangelove-era lines were rebuilt from JPN rather than copying those additions.
-- `00CB1FB7`: `難易度5` had an aggregated auxiliary variant `难度5以上`; exact JPN `难度5` was used. `$1` and `<I=CAN>` preserved.
-- `005184E3`: `<ADD STAGE>` is preserved exactly as a runtime angle token; auxiliary `<添加关卡>` rejected. Literal `BACK` help text is kept instead of auxiliary `<I=SEL>`. Tutorial roll-result additions absent from JPN were omitted. `%d`, `<I=REG>`, color tags and copyright tags preserved.
-- `007E2F18`: embedded-newline CSV work is anchored by logical `unique_index`, not physical line number. Late-file auxiliary rows are heavily sequence-shifted; JPN titles and controls were rebuilt directly. Part11 rejected a spurious auxiliary `<I=ATK>` insertion around `unique_index 1025`; the long VERSUS OPS help text preserves only JPN-declared `<I=ACT>`; `SUPER Magazine` / `SUPER M.` were preserved instead of shifted auxiliary `Liquid Magazine` / `LIQUID M.`.
 - STAGEDAT mappings preserve page/DAR/RBX/entity/reference structure by design; only translation mappings are being persisted here.
 - `LANG_EMERGENCYTELOP.OLANG`: the JPN declarative “skip all training and continue” was kept declarative rather than auxiliary interrogative wording.
 - `LANG_COMMUNICATIONSTELOP.OLANG`: `$1` preserved exactly; JPN test rows marked （不要） were still translated so no Japanese test text remains in CN mapping.
 - `LANG_BRIEFING.OLANG`: `$1/$2` preserved; `資料ファイル` follows JPN as “资料文件” rather than auxiliary “数据文件”.
+- `LANG_CHARAEDIT.OLANG`: JPN `メモリースティック™` has no control tokens. Auxiliary `<I=BL>/<I=TM>` insertion was rejected; no controls were invented.
+- `LANG_DEMOTELOP4.OLANG`: late rows contain the JPN voice-cast romanized names; auxiliary English-version voice-cast substitutions were rejected. Staff names are preserved, role labels localized.
 
 ## Last safe checkpoint
 
-- Safe translation total: **4061 rows / 55 complete file_ids**.
-- Resource-class checkpoint: **STAGEDAT_OLANG 4 / 46 complete**.
-- Latest completed STAGEDAT mapping: `sol_translation_mappings/STAGEDAT_OLANG/LANG_BRIEFING.OLANG.json`.
-- Latest STAGEDAT mapping commit: `7a05bbdfe9822679df24fd18d870cff5503f307e`.
+- Safe translation total: **4154 rows / 57 complete file_ids**.
+- Resource-class checkpoint: **STAGEDAT_OLANG 6 / 46 complete**.
+- Latest completed STAGEDAT mapping: `sol_translation_mappings/STAGEDAT_OLANG/LANG_DEMOTELOP4.OLANG.json`.
+- Latest STAGEDAT mapping commit: `7360603b8c58811f43e4159d150239e0f7d6aea8`.
 - Resume next at: **STAGEDAT_OLANG, next untranslated file_id**.
