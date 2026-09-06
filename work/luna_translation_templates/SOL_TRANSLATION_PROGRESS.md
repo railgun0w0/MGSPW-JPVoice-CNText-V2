@@ -18,24 +18,35 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **7335 / 21041 rows** |
-| file_ids with complete persisted translation | **91 / 241** |
+| Translation work safely persisted | **7927 / 21041 rows** |
+| file_ids with complete persisted translation | **92 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
-| STAGEDAT_OLANG | **40 / 46 complete** |
+| STAGEDAT_OLANG | **41 / 46 complete** |
 | SLOT_OLANG | **0 / 144** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
-- STAGEDAT_OLANG: **3310 rows / 40 complete file_ids**.
+- STAGEDAT_OLANG: **3902 rows / 41 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest; JPN item descriptions/brands/controls/fixed short names override auxiliary dummy/version substitutions.
 - `LANG_MYOUTER_STAFF.OLANG` — 146 rows, two shards + manifest, complete. Fixed ASCII UI codes are preserved; Japanese staff/team/tutorial text is localized.
-- `LANG_MYOUTER_DEVELOP.OLANG` — **167 rows, two shards + manifest, complete**. Development/item/mech UI follows JPN identity; controls/placeholders and source development markers are preserved.
+- `LANG_MYOUTER_DEVELOP.OLANG` — 167 rows, two shards + manifest, complete.
+- `LANG_MYOUTER_DEVELOP_METAL.OLANG` — **592 rows, seven shards + manifest, complete**. ZEKE configuration, parts, VOCALOID/AI settings and 400 AI memory-board identifiers follow JPN identity.
+
+### `LANG_MYOUTER_DEVELOP_METAL` review/risk notes
+- Fixed ZEKE UI labels/colors/timing/part/line/body codes remain exact where JPN uses fixed English identifiers; auxiliary renames such as `OPTIONAL PARTS`, `LEG PARTS`, `VIEWER CONTROLS`, scrap-code renames, etc. were rejected.
+- JPN-only semantic details in ZEKE/part descriptions are preserved, including attack/defense/accuracy/evasion increases.
+- `攻撃汎用` has no numeral in JPN and remains `通用攻击`; auxiliary-added `1` was rejected.
+- Plain-text `Memory Stick™` / `PlayStation®Network` remain plain text; auxiliary icon/trademark controls absent from JPN were rejected.
+- AI memory-board blocks 191-590 preserve exact JPN machine, numeric identity and material. Deterministic localization: `Ctl/Atk/Sns/Mbl → 控/攻/感/移`, `Pt/Au/Ag/Cu/Fe → 铂/金/银/铜/铁`.
+- `Basilisk` remains terminology-review material; source trailing spaces and `(不要)` markers were retained where applicable.
+- Complete manifest: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP_METAL.OLANG.manifest.json`.
+- Manifest commit: `09b2ef273c08f5d12afc71578ce1b9b0b050501c`.
 
 ### `LANG_MYOUTER_DEVELOP` review/risk notes
 - Runtime controls/placeholders `<I=DEC>/<I=CAN>/<I=□>/<I=△>`, `<$1>`, `$1/$2`, `%s/%d` stay aligned with JPN.
@@ -43,17 +54,6 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - Source `(不要)` tutorial/development rows remain present and translated rather than silently dropped.
 - `METAL GEAR ZEKE` and Mother Base identity follow JPN.
 - `ROD` is preserved as a fixed category label pending terminology review; `制止力` and `集弹性能` remain terminology-review items.
-- Complete manifest: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP.OLANG.manifest.json`.
-- Manifest commit: `3e644cfee42c34c29fb7f38552a3cabf8cd38b46`.
-
-### `LANG_MYOUTER_STAFF` review/risk notes
-- `<SKILL>`, `<BAD STATE>`, `<PARAMETER>`, `%d`, `$1` and all `<I=...>` controls preserve JPN identity/order/count.
-- `医疗班与医务室` preserves the JPN tutorial scope; auxiliary Medical Team-only truncation is rejected.
-- Mother Base composition preserves JPN `战斗班 / 研发班 / 等待室`; auxiliary Medical Team substitution is rejected.
-- `军人` remains generic JPN military-person wording instead of auxiliary `普通士兵` expansion.
-- Row 74 `センス` is translated provisionally as `感知能力` and remains terminology-review material.
-- Complete manifest: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_STAFF.OLANG.manifest.json`.
-- Manifest commit: `8ad7ce9ccb0655316f83f5956c158ab4856e240b`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -64,11 +64,11 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_ITEM_TEXT`: AXE/brand/Japanese-version item identity, explicit JPN weapon variants, hidden row 229, fixed ASCII short labels/codes and document types remain authoritative over auxiliary substitutions.
 
 ## Remaining STAGEDAT
-`LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_MYOUTER_DEVELOP_METAL.OLANG`, `LANG_MYOUTER_STAFF_COMMENT.OLANG`, `LANG_MYOUTER_TOP.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
+`LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_MYOUTER_STAFF_COMMENT.OLANG`, `LANG_MYOUTER_TOP.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
 
 ## Last safe checkpoint
-- Safe translation total: **7335 rows / 91 complete file_ids**.
-- STAGEDAT_OLANG: **40 / 46 complete**.
-- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP.OLANG.manifest.json`.
-- Latest manifest commit: `3e644cfee42c34c29fb7f38552a3cabf8cd38b46`.
-- Resume next at: **STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP_METAL.OLANG, unique_index 0**.
+- Safe translation total: **7927 rows / 92 complete file_ids**.
+- STAGEDAT_OLANG: **41 / 46 complete**.
+- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP_METAL.OLANG.manifest.json`.
+- Latest manifest commit: `09b2ef273c08f5d12afc71578ce1b9b0b050501c`.
+- Resume next at: **STAGEDAT_OLANG/LANG_MYOUTER_STAFF_COMMENT.OLANG, unique_index 0**.
