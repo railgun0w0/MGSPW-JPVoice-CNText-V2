@@ -18,23 +18,33 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **7168 / 21041 rows** |
-| file_ids with complete persisted translation | **90 / 241** |
+| Translation work safely persisted | **7335 / 21041 rows** |
+| file_ids with complete persisted translation | **91 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
-| STAGEDAT_OLANG | **39 / 46 complete** |
+| STAGEDAT_OLANG | **40 / 46 complete** |
 | SLOT_OLANG | **0 / 144** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
-- STAGEDAT_OLANG: **3143 rows / 39 complete file_ids**.
+- STAGEDAT_OLANG: **3310 rows / 40 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest; JPN item descriptions/brands/controls/fixed short names override auxiliary dummy/version substitutions.
-- `LANG_MYOUTER_STAFF.OLANG` — **146 rows, two shards + manifest, complete**. Fixed ASCII UI codes are preserved; Japanese staff/team/tutorial text is localized. JPN Waiting Room composition, Sickbay forced discharge, roster assignment, tranquilizer-gun development and team functions override auxiliary paraphrases/omissions.
+- `LANG_MYOUTER_STAFF.OLANG` — 146 rows, two shards + manifest, complete. Fixed ASCII UI codes are preserved; Japanese staff/team/tutorial text is localized.
+- `LANG_MYOUTER_DEVELOP.OLANG` — **167 rows, two shards + manifest, complete**. Development/item/mech UI follows JPN identity; controls/placeholders and source development markers are preserved.
+
+### `LANG_MYOUTER_DEVELOP` review/risk notes
+- Runtime controls/placeholders `<I=DEC>/<I=CAN>/<I=□>/<I=△>`, `<$1>`, `$1/$2`, `%s/%d` stay aligned with JPN.
+- Generic JPN inventory-shortage / cannot-develop rows are not specialized into shifted auxiliary item/weapon/material variants.
+- Source `(不要)` tutorial/development rows remain present and translated rather than silently dropped.
+- `METAL GEAR ZEKE` and Mother Base identity follow JPN.
+- `ROD` is preserved as a fixed category label pending terminology review; `制止力` and `集弹性能` remain terminology-review items.
+- Complete manifest: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP.OLANG.manifest.json`.
+- Manifest commit: `3e644cfee42c34c29fb7f38552a3cabf8cd38b46`.
 
 ### `LANG_MYOUTER_STAFF` review/risk notes
 - `<SKILL>`, `<BAD STATE>`, `<PARAMETER>`, `%d`, `$1` and all `<I=...>` controls preserve JPN identity/order/count.
@@ -54,11 +64,11 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_ITEM_TEXT`: AXE/brand/Japanese-version item identity, explicit JPN weapon variants, hidden row 229, fixed ASCII short labels/codes and document types remain authoritative over auxiliary substitutions.
 
 ## Remaining STAGEDAT
-`LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_MYOUTER_DEVELOP.OLANG`, `LANG_MYOUTER_DEVELOP_METAL.OLANG`, `LANG_MYOUTER_STAFF_COMMENT.OLANG`, `LANG_MYOUTER_TOP.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
+`LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_MYOUTER_DEVELOP_METAL.OLANG`, `LANG_MYOUTER_STAFF_COMMENT.OLANG`, `LANG_MYOUTER_TOP.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
 
 ## Last safe checkpoint
-- Safe translation total: **7168 rows / 90 complete file_ids**.
-- STAGEDAT_OLANG: **39 / 46 complete**.
-- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_STAFF.OLANG.manifest.json`.
-- Latest manifest commit: `8ad7ce9ccb0655316f83f5956c158ab4856e240b`.
-- Resume next at: **STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP.OLANG, unique_index 0**.
+- Safe translation total: **7335 rows / 91 complete file_ids**.
+- STAGEDAT_OLANG: **40 / 46 complete**.
+- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP.OLANG.manifest.json`.
+- Latest manifest commit: `3e644cfee42c34c29fb7f38552a3cabf8cd38b46`.
+- Resume next at: **STAGEDAT_OLANG/LANG_MYOUTER_DEVELOP_METAL.OLANG, unique_index 0**.
