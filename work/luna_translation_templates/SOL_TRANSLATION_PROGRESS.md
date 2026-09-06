@@ -38,6 +38,7 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 | YPK_GTT | `1C7CF3AD` | 31 | `eb9ae65765e1c22b1304a1bc9ef276d4c3975285` | Gunship/control-tower battle; local ammo procurement and cover-destruction wording kept JPN-authoritative. |
 | YPK_GTT | `1C7CF2ED` | 33 | `f0f34b239b01bac6456983d72bbeb3b02a23da25` | Fence/prison route, COMPA rescue lines, coffee/terminal/aqueduct/plant dialogue; repeated terminology reused. |
 | YPK_GTT | `1C7C736D` | 35 | `d963bcb027c52f6aaa997f381ca96193a77000ef` | Cell escape/co-op/jigsaw/interrogation lines; `ウタうな` interpreted as `别招供`; alert-door guidance. |
+| YPK_GTT | `1C7BF2ED` | 36 | `dd1f7c4cfb0b84866efabc41fe2d8ad6a19d8de8` | Fort infiltration / ELUDE / gun-turret tutorial / mountain entrance / plant dialogue; `銃座` kept as `机枪座`, auxiliary sniper and ladder-direction additions rejected. |
 
 ## Persisted translations pending mechanical CSV merge
 
@@ -48,22 +49,22 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 
 ## Totals
 
-- Completed merged file_ids: 19 / 241
-- Completed merged template rows: 417 / 21041
+- Completed merged file_ids: 20 / 241
+- Completed merged template rows: 453 / 21041
 - Persisted pending-merge file_ids: 2
 - Persisted pending-merge rows: 173
-- Total translation work safely persisted: 590 rows
-- YPK_GTT translation coverage: 21 / 36 (19 merged + 2 pending merge)
+- Total translation work safely persisted: 626 rows
+- YPK_GTT translation coverage: 22 / 36 (20 merged + 2 pending merge)
 
 ## Current queue
 
-Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7BF2ED`, `1C7B72ED`, `1C7C72ED`, `1C7BF3AD`, then other medium/large files. Large files use complete-file JSON mapping before merge.
+Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7B72ED`, `1C7C72ED`, `1C7BF3AD`, `1C7BF32D`, then other medium/large files. Large files use complete-file JSON mapping before merge.
 
 ## Risk / review log
 
 - `1C79F3AD`, `1C7A73AD`, `1C7AF3AD`: JPN only says many birds would die; auxiliary `millions` rejected.
-- `1C79F36D` / `1C7B72AD`: `エルード` treated as hanging/grabbing; ruby occurrence `<R=悬挂,ELUDE>`; review global gameplay terminology later.
-- `1C79F2ED` / `1C7CF2ED`: `绞刑台镇`, `大叶蚁塔`, `CAFETAL`, `TERMINAL`, `SOMBRILLA DE POBRE`, `CHAMPA` kept consistent; global glossary review later.
+- `1C79F36D` / `1C7B72AD` / `1C7BF2ED`: `エルード` treated as hanging/grabbing; ruby occurrence `<R=悬挂,ELUDE>` where markup exists; review global gameplay terminology later.
+- `1C79F2ED` / `1C7CF2ED` / `1C7BF2ED`: `绞刑台镇`, `大叶蚁塔`, `CAFETAL`, `TERMINAL`, `SOMBRILLA DE POBRE`, `CHAMPA` kept consistent; global glossary review later.
 - `1C79F42D`: Monster Hunter shifted refs ignored; `耐性` kept `抗性`; review SOMOZA/Cecile/cat speech/Stun Rod/catchphrase/onomatopoeia.
 - `1C79F46D`: corrupted numeric strings, station names and MGS2-style gibberish preserved literally; unrelated aux ignored.
 - `1C7C72AD`: `キジマドクチョウ` -> `黄条袖蝶`; other butterfly names follow attached MLG terminology.
@@ -73,3 +74,4 @@ Continue unprocessed YPK_GTT resources by ascending manageable size. Next candid
 - `1C7CF3AD`: `どんどんムかれていく` rendered contextually as cover being stripped away (`掩体正一个个被削掉`) rather than generic aux `crumbling`.
 - `1C7CF2ED`: `<R=同志,コンパ>` normalized as `<R=同志,COMPA>`; auxiliary extra `Snake` in coffee line and extra thanks in no-more-comrades line were not copied.
 - `1C7C736D`: `糸鋸` standardized as `钢丝锯`; interrogation slang `ウタうな` rendered `别招供`, not generic auxiliary `don't break`. A few Chinese lines exceed JPN byte count; final YPK aligned-capacity validator remains authoritative before approval/build.
+- `1C7BF2ED`: auxiliary maps JPN `銃座` to snipers and adds ladder direction not present in JPN; both rejected. Row 23 has aggregated multi-reference auxiliary variants; JPN `<I=CAMERA>` used as authority.
