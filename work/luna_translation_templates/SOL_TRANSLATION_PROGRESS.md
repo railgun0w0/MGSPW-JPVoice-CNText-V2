@@ -21,11 +21,11 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **3431 / 21041 rows** |
+| Translation work safely persisted | **3531 / 21041 rows** |
 | file_ids with complete persisted translation | **50 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
-| LOOSE_OLANG | **13 / 14 complete + 500/1094 rows of final file** |
+| LOOSE_OLANG | **13 / 14 complete + 600/1094 rows of final file** |
 | STAGEDAT_OLANG | 0 / 46 |
 | SLOT_OLANG | 0 / 144 |
 
@@ -42,25 +42,9 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - Manifest commit: `009ad3c14e8dc24e8afc821ade0f82fdd04f70a5`.
 
 ### LOOSE_OLANG completed
-
-| file_id | Rows | Commit / manifest | Notes |
-|---|---:|---|---|
-| `00327F6A` | 4 | `cdb82257ba1ca12be52458645ee5d80b62c48d02` | old-save / TRADE / HOST prompts |
-| `00C6A046` | 8 | `41778032c63e89a53943f158c0fbc03f0e6e3b6b` | save/system-data prompts |
-| `0060E2F2` | 19 | `cf2385956d482e425012f4924e119eefa293da0d` | VERSUS OPS search/voice-chat UI |
-| `0043DA6E` | 21 | `3ce04cd2bdfca96f0235dc95aff7d800c910a463` | Xbox LIVE / network errors |
-| `00C79B17` | 26 | `234bf8e873d048888e6a5dd0ff35e145fe6ed52c` | rescue/location + old control tutorial |
-| `0005EE2F` | 31 | `0485204e4b23132537f135b968619ca085b0bace` | data-management / extra settings |
-| `00D345A5` | 41 | manifest `55c4d109288c7f81d6b788fbdbc86ae03c2a4db4` | item/weapon descriptions, two shards |
-| `0072F326` | 42 | `f3b5f5efdcb40822381d95a1dcf18d5b209ce4a5` | save/storage/control prompts |
-| `00225520` | 54 | `d0882164395d5af9da02f0a70e9f3147e09fe257` | model viewer / key help / weapon descriptions |
-| `0066E64E` | 66 | `35f736bb6c40460648784e649cf4f1e79f03062e` | compact control/menu help labels |
-| `00D0C740` | 68 | `b38689089c30bac8e3b95975e4800c6bc6864d5d` | UI + The Boss/Paz/story quote bank |
-| `00CB1FB7` | 106 | `6aab159d96993753753e1c032d87ac76aee82946` | CO-OPS matchmaking/search UI |
-| `005184E3` | 139 | manifest `cbf434cdb1e0f25d2a53aa7fff17d9eb61614bf1` | camera/menu, soldier chatter, missions, tutorial, versus UI; two shards |
-
-Completed LOOSE_OLANG file rows: **625 / 1719**.
-Including current partial `007E2F18`: **1125 / 1719 rows safely persisted**.
+- Completed file rows before final file: **625 / 1719** across 13 file_ids.
+- Completed file_ids: `00327F6A`, `00C6A046`, `0060E2F2`, `0043DA6E`, `00C79B17`, `0005EE2F`, `00D345A5`, `0072F326`, `00225520`, `0066E64E`, `00D0C740`, `00CB1FB7`, `005184E3`.
+- Including current partial `007E2F18`: **1225 / 1719 LOOSE_OLANG rows safely persisted**.
 
 ## Current partial target
 
@@ -73,9 +57,10 @@ Including current partial `007E2F18`: **1125 / 1719 rows safely persisted**.
 | part03 | 200-299 | `41a2f0833ec24752d69fb299710c8d6003e974cb` | persisted |
 | part04 | 300-399 | `9194fa60e1a7094cec586c74804ef953e648f4df` | persisted |
 | part05 | 400-499 | `a615baade644746ef1a894ed4bdd7746d45b2a2a` | persisted |
+| part06 | 500-599 | `f6b0e862977f9f65fe119fdfd3c1887de7241808` | persisted |
 
-Current file progress: **500 / 1094 rows**.
-Resume at **unique_index 500**.
+Current file progress: **600 / 1094 rows**.
+Resume at **unique_index 600**.
 
 After `007E2F18` is complete, LOOSE_OLANG will be **14 / 14**, and total safely persisted translation will be **4025 rows / 51 complete file_ids**.
 
@@ -92,12 +77,12 @@ After LOOSE_OLANG, continue STAGEDAT_OLANG, then SLOT_OLANG unless a resource-sp
 - `00D0C740`: multiple auxiliary story quotes contained sentences absent from JPN or omitted JPN clauses. The Boss/Paz/Strangelove-era lines were rebuilt from JPN rather than copying those additions.
 - `00CB1FB7`: `難易度5` had an aggregated auxiliary variant `难度5以上`; exact JPN `难度5` was used. `$1` and `<I=CAN>` preserved.
 - `005184E3`: `<ADD STAGE>` is preserved exactly as a runtime angle token; auxiliary `<添加关卡>` rejected. Literal `BACK` help text is kept instead of auxiliary `<I=SEL>`. Tutorial roll-result additions absent from JPN were omitted. `%d`, `<I=REG>`, color tags and copyright tags preserved.
-- `007E2F18`: because the CSV contains embedded newlines, all work from part03 onward was anchored by logical `unique_index`, not physical line number. Part05 rejected an AXE auxiliary description that did not match the JPN product copy; dynamic controls such as `<I=DIR>`, `<I=AIM>`, `<I=SAW_L>`, `<I=SAW_R>`, color tags, `$1/$2/$3m`, and `<I=CPY>` were preserved.
+- `007E2F18`: because the CSV contains embedded newlines, work is anchored by logical `unique_index`, not physical line number. Part05 rejected an AXE auxiliary description that did not match the JPN product copy. Part06 rejected `壁叩き`→“轻按” and multiple late-file auxiliary shifts around EVA/The Boss/Paz/BIG BOSS headings; generic `●そのN` rows use neutral ordinal wording because the same deduplicated JPN strings occur in multiple contexts.
 
 ## Last safe checkpoint
 
-- Latest persisted shard: `sol_translation_mappings/LOOSE_OLANG/007E2F18.part05.json`
-- Shard commit: `a615baade644746ef1a894ed4bdd7746d45b2a2a`
-- Safe translation total: **3431 rows / 50 complete file_ids**.
-- Current partial file: **007E2F18 500 / 1094 rows**.
-- Resume next at: **LOOSE_OLANG `007E2F18`, unique_index 500**.
+- Latest persisted shard: `sol_translation_mappings/LOOSE_OLANG/007E2F18.part06.json`
+- Shard commit: `f6b0e862977f9f65fe119fdfd3c1887de7241808`
+- Safe translation total: **3531 rows / 50 complete file_ids**.
+- Current partial file: **007E2F18 600 / 1094 rows**.
+- Resume next at: **LOOSE_OLANG `007E2F18`, unique_index 600**.
