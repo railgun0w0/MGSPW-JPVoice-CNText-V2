@@ -51,7 +51,7 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 
 ## file_id CSV 格式
 
-当前模板沿用正式 file_id CSV 的 21 列：
+当前模板沿用正式 file_id CSV 的 21 列，并在末尾增加 7 列辅助 reference 字段，共 28 列：
 
 ```text
 file_id
@@ -75,7 +75,22 @@ build_status
 ingame_status
 translation_basis
 notes
+mlg_cn_reference
+mlg_cn_reference_variants
+eng_reference
+eng_reference_variants
+reference_status
+reference_method
+reference_reason
 ```
+
+`mlg_cn_reference` 和 `eng_reference` 是默认展示候选：分别取同一 file_id 内、同一 JPN 精确去重行对应的全部真实对象中，第一条非空候选。`mlg_cn_reference_variants` 和 `eng_reference_variants` 是同一批真实对象中的全部非空候选，按首次出现顺序精确去重，并以 JSON array 字符串保存，例如 `["候选A","候选B"]`；没有候选时为 `[]`。
+
+`reference_status`、`reference_method`、`reference_reason` 来自 `reference_masters/` 的既有 mapping/audit 证据。模板会聚合同一去重行对应的全部真实 JPN objects；当这些证据字段在真实对象之间发生冲突时，会保留为 JSON array，而不是只保留第一条。`reference_reason` 在 master 原因为空时只补充机械说明（状态、mapping method、辅助性质和核验要求），不新增 mapping，也不提高可信度。
+
+> `mlg_cn_reference` 和 `eng_reference` 只是默认展示候选，不代表优先采用或已确认一一对应。正式翻译必须先理解 JPN，再使用 variants、`reference_status`、`reference_method`、`reference_reason` 和上下文判断辅助参考是否适用。reference 只能佐证翻译，不能取代 JPN 原文。
+
+> 即使 MLG_CN 与 ENG 相互一致，只要与 JPN 原文、上下文或结构不一致，仍应以 JPN 为准。
 
 ### 去重规则
 
@@ -228,4 +243,3 @@ ingame_status = NOT_TESTED
 - 未生成或修改 manifest/DAT，直到人工确认完成。
 
 只有通过人工语义审核和本地结构检查后，才能把模板转为正式翻译 CSV 并标记 `APPROVED`。
-

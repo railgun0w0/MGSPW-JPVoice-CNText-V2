@@ -1,14 +1,20 @@
-﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
 LANG_TITLE_NAMEENTRY.OLANG,0,0,0,1,,page180:tag:entity4:key003A0B2C:ref0:ord0,,この名前でよろしいですか？,"プレイヤーネームを１５文字以内で入力して下さい。
 
 ※使用できるのは大文字アルファベット、数字、
-　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1,这个名字可以吗？,"[""这个名字可以吗？""]",Is this name OK?,"[""Is this name OK?""]",AUX_CN_ATTACHED,exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 LANG_TITLE_NAMEENTRY.OLANG,1,1,1,1,,page180:tag:entity3:key00390B2C:ref1:ord0,この名前でよろしいですか？,"プレイヤーネームを１５文字以内で入力して下さい。
 
 ※使用できるのは大文字アルファベット、数字、
-　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",CANCEL,,,,NOT_CHECKED,214,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",CANCEL,,,,NOT_CHECKED,214,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1,"请输入你的玩家名称。
+
+最多可使用15个大写字母、
+数字和/或特定符号。","[""请输入你的玩家名称。\n\n最多可使用15个大写字母、\n数字和/或特定符号。""]","Input your player name.
+
+You may only use up to 15 uppercase letters,
+numbers, and/or specific symbols.","[""Input your player name.\n\nYou may only use up to 15 uppercase letters,\nnumbers, and/or specific symbols.""]",AUX_CN_ATTACHED,exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 LANG_TITLE_NAMEENTRY.OLANG,2,2,2,1,,page180:tag:entity2:key001533B6:ref2:ord0,"プレイヤーネームを１５文字以内で入力して下さい。
 
 ※使用できるのは大文字アルファベット、数字、
-　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",CANCEL,OK,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
-LANG_TITLE_NAMEENTRY.OLANG,3,3,3;4,2,,page180:tag:entity1:key001523B6:ref3:ord0;page180:tag:entity0:key001513B6:ref4:ord0,CANCEL,OK,,,,,NOT_CHECKED,2,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",CANCEL,OK,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1,取消,"[""取消""]",CANCEL,"[""CANCEL""]",AUX_CN_ATTACHED,exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+LANG_TITLE_NAMEENTRY.OLANG,3,3,3;4,2,,page180:tag:entity1:key001523B6:ref3:ord0;page180:tag:entity0:key001513B6:ref4:ord0,CANCEL,OK,,,,,NOT_CHECKED,2,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2,确定,"[""确定""]",OK,"[""OK""]",AUX_CN_ATTACHED,exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_stagedat_page_entry_reference_index;same_page_en_companion_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context

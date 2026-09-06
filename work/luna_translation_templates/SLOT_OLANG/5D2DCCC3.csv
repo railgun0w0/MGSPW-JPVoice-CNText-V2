@@ -1,4 +1,4 @@
-﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
 5D2DCCC3,0,0,0,1,,page34:tag7:entity0:key00678DC3:ref0:ord0,,"新型航空火力支援システム構想によって生まれた試作攻撃ヘリコプター。
 推進式プロペラを装備した複合ヘリコプターで、時速360キロという
 ヘリコプターとしては画期的な高速性能を実現している。
@@ -7,7 +7,15 @@
 爆撃を食らったら大ダメージ確定。
 頭上を通過されないよう十分に気をつけろ！","本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
-“改”タイプのAH56A-Bである。",,,,NOT_CHECKED,456,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのAH56A-Bである。",,,,NOT_CHECKED,456,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"一种原型攻击直升机，是先进空中火力支援系统（AAFSS）
+概念的产物。它是一款复合式直升机，装有推进螺旋桨，
+最高速度可达360公里/小时，对这一类型飞行器而言堪称破纪录的速
+度。
+
+它装备有威力惊人的自由落体炸弹，任何不幸被击中的目标都必将遭
+受重创。务必确保当它从头顶飞过时，你不会待在正下方！","[""一种原型攻击直升机，是先进空中火力支援系统（AAFSS）\n概念的产物。它是一款复合式直升机，装有推进螺旋桨，\n最高速度可达360公里/小时，对这一类型飞行器而言堪称破纪录的速\n度。\n\n它装备有威力惊人的自由落体炸弹，任何不幸被击中的目标都必将遭\n受重创。务必确保当它从头顶飞过时，你不会待在正下方！""]","A prototype attack helicopter and product of the Advanced Aerial Fire Support System (AAFSS) concept. It is a compound helicopter equipped with a thrusting propeller that allows it to travel at up to 360 kph, record-shattering speed for a craft of its type.
+
+Armed with devastatingly powerful freefall bombs, guaranteed to cause heavy damage to anything unfortunate enough to get hit. Make sure you don't get caught underneath when it passes overhead!","[""A prototype attack helicopter and product of the Advanced Aerial Fire Support System (AAFSS) concept. It is a compound helicopter equipped with a thrusting propeller that allows it to travel at up to 360 kph, record-shattering speed for a craft of its type.\n\nArmed with devastatingly powerful freefall bombs, guaranteed to cause heavy damage to anything unfortunate enough to get hit. Make sure you don't get caught underneath when it passes overhead!""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,1,1,1,1,,page34:tag7:entity1:key00E25C8F:ref1:ord0,"新型航空火力支援システム構想によって生まれた試作攻撃ヘリコプター。
 推進式プロペラを装備した複合ヘリコプターで、時速360キロという
 ヘリコプターとしては画期的な高速性能を実現している。
@@ -21,7 +29,7 @@
 攻撃可能な対戦車ミサイルに換装されている。
 
 非常に強力な空飛ぶ戦車。
-対空ミサイルがあれば必ず装備すべし！",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+対空ミサイルがあれば必ず装備すべし！",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型AH56A-B。经战场升级，整体攻防能力得到强化。,"[""改装型AH56A-B。经战场升级，整体攻防能力得到强化。""]",A custom AH56A-B. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom AH56A-B. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,2,2,2,1,,page34:tag7:entity2:key00678DD3:ref2:ord0,"本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
 “改”タイプのAH56A-Bである。","AH56の対戦車戦闘バリエーション。
@@ -31,7 +39,13 @@
 非常に強力な空飛ぶ戦車。
 対空ミサイルがあれば必ず装備すべし！","本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
-“改”タイプのAH56A-Rである。",,,,NOT_CHECKED,282,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのAH56A-Rである。",,,,NOT_CHECKED,282,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"AH56的反坦克改型。基本规格与原型相同，
+但主要武器换成了射程更远的反坦克导弹。
+
+从本质上说，这是一架极其强大的飞行坦克。如果你有防空导弹，
+现在正是使用它们的时候！","[""AH56的反坦克改型。基本规格与原型相同，\n但主要武器换成了射程更远的反坦克导弹。\n\n从本质上说，这是一架极其强大的飞行坦克。如果你有防空导弹，\n现在正是使用它们的时候！""]","An anti-tank variation of the AH56. While its basic specs are the same, its main weapons have been replaced with anti-tank missiles capable of striking at longer ranges.
+
+Essentially an extremely powerful flying tank. If you've got anti-air missiles, now's the time to use them!","[""An anti-tank variation of the AH56. While its basic specs are the same, its main weapons have been replaced with anti-tank missiles capable of striking at longer ranges.\n\nEssentially an extremely powerful flying tank. If you've got anti-air missiles, now's the time to use them!""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,3,3,3,1,,page34:tag7:entity3:key00EA5C8F:ref3:ord0,"AH56の対戦車戦闘バリエーション。
 基本的なスペックは変わらないが、主兵装はより遠方から
 攻撃可能な対戦車ミサイルに換装されている。
@@ -45,7 +59,7 @@
 搭載しているのは7.62mm機関銃で標準的な火力だが、搭乗する多数の
 歩兵と協同して高い戦闘能力を発揮する。
 
-歩兵の戦力をどう制するかが、対抗策の中核となるだろう。",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+歩兵の戦力をどう制するかが、対抗策の中核となるだろう。",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型AH56A-R。经战场升级，整体攻防能力得到强化。,"[""改装型AH56A-R。经战场升级，整体攻防能力得到强化。""]",A custom AH56A-R. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom AH56A-R. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,4,4,4,1,,page34:tag7:entity4:key005C51A7:ref4:ord0,"本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
 “改”タイプのAH56A-Rである。","ソ連の主力装甲兵員輸送車。
@@ -59,7 +73,13 @@
 中心とし随伴歩兵の展開力を加味した、全体的にバランスの取れた
 戦闘能力を備えている。
 
-対車輌兵装の充実がミッション遂行のカギとなるだろう。",,,,NOT_CHECKED,423,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+対車輌兵装の充実がミッション遂行のカギとなるだろう。",,,,NOT_CHECKED,423,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"苏联的主力装甲运兵车。它不仅采用八轮驱动系统，便于公路机动，
+还配备喷水推进器，可在水上行进。一挺7.62毫米机枪提供了标准水
+平的火力，满载步兵时，它在战斗中更能大放异彩。
+
+想出对付步兵的办法，应当是对抗这辆车时任何战术的核心。","[""苏联的主力装甲运兵车。它不仅采用八轮驱动系统，便于公路机动，\n还配备喷水推进器，可在水上行进。一挺7.62毫米机枪提供了标准水\n平的火力，满载步兵时，它在战斗中更能大放异彩。\n\n想出对付步兵的办法，应当是对抗这辆车时任何战术的核心。""]","The main armored personnel carrier of the Soviet Union. Not only does it have an eight-wheeled drive system for easy road mobility, it also comes equipped with water jets for over-water transport. A 7.62mm machine gun provides standard-level firepower, and when loaded with a full contingent of infantry it can really shine in combat.
+
+Finding a way to deal with the infantry should be the core of any battle strategy against this vehicle.","[""The main armored personnel carrier of the Soviet Union. Not only does it have an eight-wheeled drive system for easy road mobility, it also comes equipped with water jets for over-water transport. A 7.62mm machine gun provides standard-level firepower, and when loaded with a full contingent of infantry it can really shine in combat.\n\nFinding a way to deal with the infantry should be the core of any battle strategy against this vehicle.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,5,5,5,1,,page34:tag7:entity5:key005C51A8:ref5:ord0,"ソ連の主力装甲兵員輸送車。
 八輪駆動により軽快な走行性能を持つばかりでなく、ウォータージェットの
 装備により水上航行能力も備える。
@@ -73,7 +93,13 @@
 
 対車輌兵装の充実がミッション遂行のカギとなるだろう。","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのBTR-60PAである。",,,,NOT_CHECKED,326,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのBTR-60PAである。",,,,NOT_CHECKED,326,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"BTR-60 PA的重武装版本。其主要武器升级为威力大得多的25毫米机
+枪。再配合可部署的步兵护卫，这种自身火力使它在战斗中成为一个
+攻守兼备的危险对手。
+
+备足反载具武器将是完成这项任务的关键。","[""BTR-60 PA的重武装版本。其主要武器升级为威力大得多的25毫米机\n枪。再配合可部署的步兵护卫，这种自身火力使它在战斗中成为一个\n攻守兼备的危险对手。\n\n备足反载具武器将是完成这项任务的关键。""]","A more heavily armed version of the BTR-60 PA. Its primary weapon has been upgraded to a much more powerful 25mm machine gun. When supplemented by a deployable infantry escort, this built-in firepower makes it a well-balanced and dangerous foe in combat.
+
+A well-stocked arsenal of anti-vehicle weaponry will be key to getting the job done.","[""A more heavily armed version of the BTR-60 PA. Its primary weapon has been upgraded to a much more powerful 25mm machine gun. When supplemented by a deployable infantry escort, this built-in firepower makes it a well-balanced and dangerous foe in combat.\n\nA well-stocked arsenal of anti-vehicle weaponry will be key to getting the job done.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,6,6,6,1,,page34:tag7:entity6:key003EC470:ref6:ord0,"BTR-60PAを重装化した車両。
 搭載火砲が25mm機関砲へと大幅に強化されており、固有の火力を
 中心とし随伴歩兵の展開力を加味した、全体的にバランスの取れた
@@ -83,7 +109,7 @@
 防御力ならびに攻撃力の全般的な向上が図られている
 “改”タイプのBTR-60PAである。","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている、
-“改”タイプのBTR-60PBである。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのBTR-60PBである。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型BTR-60 PA。经战场升级，整体攻防能力得到强化。,"[""改装型BTR-60 PA。经战场升级，整体攻防能力得到强化。""]",A custom BTR-60 PA. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom BTR-60 PA. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,7,7,7,1,,page34:tag7:entity7:key003F4470:ref7:ord0,"本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
 “改”タイプのBTR-60PAである。","本車は、前線部隊によって強化改修が加えられ、
@@ -95,7 +121,7 @@
 投入されている。
 
 随伴する歩兵との協同戦闘は侮れない威力を示す。歩兵部隊の殲滅に
-力を注げ！",,,,NOT_CHECKED,184,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+力を注げ！",,,,NOT_CHECKED,184,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型BTR-60 PB。经战场升级，整体攻防能力得到强化。,"[""改装型BTR-60 PB。经战场升级，整体攻防能力得到强化。""]",A custom BTR-60 PB. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom BTR-60 PB. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,8,8,8,1,,page34:tag7:entity8:key009D6343:ref8:ord0,"本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている、
 “改”タイプのBTR-60PBである。","アメリカと西ドイツという西側の戦車大国が手を組み、共同開発を目論んだ
@@ -107,7 +133,15 @@
 随伴する歩兵との協同戦闘は侮れない威力を示す。歩兵部隊の殲滅に
 力を注げ！","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのKPz 70である。",,,,NOT_CHECKED,505,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのKPz 70である。",,,,NOT_CHECKED,505,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"美国与西德——西方两大坦克制造国——联合研发的下一代坦克原型
+，这是西德版本。KPz 70的武器配置令人印象深刻：
+除了一门120毫米滑膛炮外，还配备一门20毫米高射炮。此外，
+它满载各种最新技术，包括夜视装置、自动装填系统和间隙装甲。
+
+与步兵护卫协同作战时，这辆坦克在战场上是可怕的对手。
+集中精力先解决掉那些护卫！","[""美国与西德——西方两大坦克制造国——联合研发的下一代坦克原型\n，这是西德版本。KPz 70的武器配置令人印象深刻：\n除了一门120毫米滑膛炮外，还配备一门20毫米高射炮。此外，\n它满载各种最新技术，包括夜视装置、自动装填系统和间隙装甲。\n\n与步兵护卫协同作战时，这辆坦克在战场上是可怕的对手。\n集中精力先解决掉那些护卫！""]","A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the West German version. The KPz 70's armament is impressive: in addition to its 120mm smoothbore gun, it is armed with a 20mm anti-aircraft gun. Moreover, it is fully loaded with all the latest technology, including a night-vision device, an automatic reloading system, and spaced armor.
+
+Paired with infantry escorts, this tank is a formidable foe in battle. Focus your efforts on getting rid of those escorts!","[""A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the West German version. The KPz 70's armament is impressive: in addition to its 120mm smoothbore gun, it is armed with a 20mm anti-aircraft gun. Moreover, it is fully loaded with all the latest technology, including a night-vision device, an automatic reloading system, and spaced armor.\n\nPaired with infantry escorts, this tank is a formidable foe in battle. Focus your efforts on getting rid of those escorts!""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,9,9,9,1,,page34:tag7:entity9:key004EF41D:ref9:ord0,"アメリカと西ドイツという西側の戦車大国が手を組み、共同開発を目論んだ
 次世代戦車の試作車輌（西ドイツ側開発バリエーション）。
 120mm滑腔砲に加え20mm対空機関砲を装備する重武装戦車であり、
@@ -122,7 +156,7 @@
 いる。一方兵員輸送能力も十分に保持しており、バランスの取れた総合的な
 戦闘能力を持つ。装甲車というカテゴリーから甘く見ると痛い目にあう。
 
-携行する武器には、爆発系など威力の大きなものも加えておくとよいだろう。",,,,NOT_CHECKED,179,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+携行する武器には、爆発系など威力の大きなものも加えておくとよいだろう。",,,,NOT_CHECKED,179,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型KPz 70。经战场升级，整体攻防能力得到强化。,"[""改装型KPz 70。经战场升级，整体攻防能力得到强化。""]",A custom KPz 70. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom KPz 70. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,10,10,10,1,,page34:tag7:entity10:key00A55CC4:ref10:ord0,"本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
 “改”タイプのKPz 70である。","LAV重装化タイプ。
@@ -132,7 +166,13 @@
 
 携行する武器には、爆発系など威力の大きなものも加えておくとよいだろう。","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのLAV-TYPE-Cである。",,,,NOT_CHECKED,432,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのLAV-TYPE-Cである。",,,,NOT_CHECKED,432,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"LAV的重武装版本。主炮升级为76毫米口径，以提升独立作战能力。
+同时，它拥有充足的搭载能力，这使其成为一种全方位的威胁。
+别把它当成又一辆普通装甲车，否则你会后悔的。
+
+随身携带一些强力的——最好是爆炸性——武器会是个好主意。","[""LAV的重武装版本。主炮升级为76毫米口径，以提升独立作战能力。\n同时，它拥有充足的搭载能力，这使其成为一种全方位的威胁。\n别把它当成又一辆普通装甲车，否则你会后悔的。\n\n随身携带一些强力的——最好是爆炸性——武器会是个好主意。""]","A heavily armed version of the LAV. Its main gun has been upgraded to 76mm to boost its solo combat capabilities. At the same time, it boasts plenty of carrying capacity, making it a well-rounded threat. Don't treat it like just another armored vehicle, or you'll be sorry.
+
+Carrying some powerful - preferably explosive - weapons with you would be a good idea.","[""A heavily armed version of the LAV. Its main gun has been upgraded to 76mm to boost its solo combat capabilities. At the same time, it boasts plenty of carrying capacity, making it a well-rounded threat. Don't treat it like just another armored vehicle, or you'll be sorry.\n\nCarrying some powerful - preferably explosive - weapons with you would be a good idea.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,11,11,11,1,,page34:tag7:entity11:key005F73B5:ref11:ord0,"LAV重装化タイプ。
 主兵装が76mm砲にアップグレードされ、車輌単体での戦闘力が強化されて
 いる。一方兵員輸送能力も十分に保持しており、バランスの取れた総合的な
@@ -147,7 +187,7 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 割り振ったバリアントとなる。
 
 熾烈な対歩兵戦闘が予想される。携行する武器・アイテムの選定は
-慎重に行うこと！",,,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+慎重に行うこと！",,,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型LAV-Type C。经战场升级，整体攻防能力得到强化。,"[""改装型LAV-Type C。经战场升级，整体攻防能力得到强化。""]",A custom LAV-Type C. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom LAV-Type C. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,12,12,12,1,,page34:tag7:entity12:key00A55CC8:ref12:ord0,"本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
 “改”タイプのLAV-TYPE-Cである。","実戦向けフィールドテストの一環としてCIA傭兵部隊に対し秘密裏に
@@ -159,7 +199,15 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 熾烈な対歩兵戦闘が予想される。携行する武器・アイテムの選定は
 慎重に行うこと！","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのLAV-TYPE-Gである。",,,,NOT_CHECKED,495,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのLAV-TYPE-Gである。",,,,NOT_CHECKED,495,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"一种实验性突击运兵车，据信是在实地测试阶段秘密提供给中情局(C
+IA)雇佣兵部队使用的。它的双螺旋桨使其在陆地和水中都拥有出色
+的机动性。“G”型号牺牲了更强的武器配置，
+换取了更大的运兵能力。
+
+遭遇这辆车时，可以预期会有一场激烈的步兵交战。
+仔细选择你的装备！","[""一种实验性突击运兵车，据信是在实地测试阶段秘密提供给中情局(C\nIA)雇佣兵部队使用的。它的双螺旋桨使其在陆地和水中都拥有出色\n的机动性。“G”型号牺牲了更强的武器配置，\n换取了更大的运兵能力。\n\n遭遇这辆车时，可以预期会有一场激烈的步兵交战。\n仔细选择你的装备！""]","An experimental assault personnel carrier, believed to have been provided to CIA mercenary forces in secret as part of its field test cycle. Its twin screws give it excellent mobility on both land and water. The ""G"" variant sacrifices heavier armament in favor of greater troop carrying capacity.
+
+You can expect to engage in some heavy infantry fighting when facing this vehicle. Choose your gear carefully!","[""An experimental assault personnel carrier, believed to have been provided to CIA mercenary forces in secret as part of its field test cycle. Its twin screws give it excellent mobility on both land and water. The \""G\"" variant sacrifices heavier armament in favor of greater troop carrying capacity.\n\nYou can expect to engage in some heavy infantry fighting when facing this vehicle. Choose your gear carefully!""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,13,13,13,1,,page34:tag7:entity13:key009F73B5:ref13:ord0,"実戦向けフィールドテストの一環としてCIA傭兵部隊に対し秘密裏に
 試験供与されていると思われる、試作中の強襲兵員輸送車。
 2基のスクリューを備え水陸を問わず軽快に機動する。
@@ -176,7 +224,7 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 防御面でも防火用バルクヘッドや、弾庫にブローアウトセクションを設ける
 など、その強化が強く意識された設計となっている。
 
-車輌の固有戦闘力をいかに削ぐか。戦闘の帰趨はここに左右されるだろう。",,,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+車輌の固有戦闘力をいかに削ぐか。戦闘の帰趨はここに左右されるだろう。",,,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型LAV-Type G。经战场升级，整体攻防能力得到强化。,"[""改装型LAV-Type G。经战场升级，整体攻防能力得到强化。""]",A custom LAV-Type G. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom LAV-Type G. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,14,14,14,1,,page34:tag7:entity14:key0061C1E7:ref14:ord0,"本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
 “改”タイプのLAV-TYPE-Gである。","アメリカと西ドイツという西側の戦車大国が手を組み、共同開発を目論んだ
@@ -188,7 +236,15 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 
 車輌の固有戦闘力をいかに削ぐか。戦闘の帰趨はここに左右されるだろう。","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのMBTk-70である。",,,,NOT_CHECKED,651,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのMBTk-70である。",,,,NOT_CHECKED,651,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"美国与西德——西方两大坦克制造国——联合研发的下一代坦克原型
+，这是美国版本。它旨在通过152毫米火炮发射器大幅提升火力，
+这是一种既能发射传统炮弹也能发射导弹的革命性新武器系统。
+其设计还非常重视防御，增加了防火隔舱和弹药舱泄压结构。
+
+你在这辆坦克面前的战斗表现，将取决于你能否有效抵消这些固有优
+势。","[""美国与西德——西方两大坦克制造国——联合研发的下一代坦克原型\n，这是美国版本。它旨在通过152毫米火炮发射器大幅提升火力，\n这是一种既能发射传统炮弹也能发射导弹的革命性新武器系统。\n其设计还非常重视防御，增加了防火隔舱和弹药舱泄压结构。\n\n你在这辆坦克面前的战斗表现，将取决于你能否有效抵消这些固有优\n势。""]","A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the American version. It aims to achieve a substantial increase in firepower with its 152mm gun launcher, a revolutionary new weapon system that fires both traditional cannon shells and missiles. Its design also places a heavy emphasis on defense, with added fireproof bulkheads and a blowout section on the ammo chamber.
+
+How well you fare in combat against this tank will depend on how well you can neutralize these inherent advantages.","[""A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the American version. It aims to achieve a substantial increase in firepower with its 152mm gun launcher, a revolutionary new weapon system that fires both traditional cannon shells and missiles. Its design also places a heavy emphasis on defense, with added fireproof bulkheads and a blowout section on the ammo chamber.\n\nHow well you fare in combat against this tank will depend on how well you can neutralize these inherent advantages.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,15,15,15,1,,page34:tag7:entity15:key0080CEDD:ref15:ord0,"アメリカと西ドイツという西側の戦車大国が手を組み、共同開発を目論んだ
 次世代戦車の試作車輌（アメリカ側開発バリエーション）。
 搭載する152mmガンランチャーは従来型の砲弾とミサイルの両方を発射
@@ -205,7 +261,7 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 初期型の本機は、汎用タイプとしての性格を有しており、歩兵戦闘班の
 搭載ペイロードが大きい。
 対歩兵装備を十分持つと同時に、対空戦闘に対応可能な武器も
-携行する必要があるだろう。",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+携行する必要があるだろう。",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型MBTk-70。经战场升级，整体攻防能力得到强化。,"[""改装型MBTk-70。经战场升级，整体攻防能力得到强化。""]",A custom MBTk-70. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom MBTk-70. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,16,16,16,1,,page34:tag7:entity16:key00172AF8:ref16:ord0,"本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
 “改”タイプのMBTk-70である。","既存の汎用ヘリコプターを発展改良し重武装を施すことで、兵員輸送から
@@ -217,7 +273,15 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 対歩兵装備を十分持つと同時に、対空戦闘に対応可能な武器も
 携行する必要があるだろう。","本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
-“改”タイプのMi-24Aである。",,,,NOT_CHECKED,478,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのMi-24Aである。",,,,NOT_CHECKED,478,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"一种通过扩大现有通用直升机并加装更重型武器而制造的攻击直升机
+。它被开发为多用途武装直升机，能够执行从部队运输到对地攻击的
+各种任务。
+
+这是Mi-24A的初始型号，整体风格多少有些中规中矩，
+并拥有可观的兵力搭载量。你需要足够的反步兵装备和具备防空能力
+的武器才能与它抗衡。","[""一种通过扩大现有通用直升机并加装更重型武器而制造的攻击直升机\n。它被开发为多用途武装直升机，能够执行从部队运输到对地攻击的\n各种任务。\n\n这是Mi-24A的初始型号，整体风格多少有些中规中矩，\n并拥有可观的兵力搭载量。你需要足够的反步兵装备和具备防空能力\n的武器才能与它抗衡。""]","An attack helicopter created by expanding an existing general-purpose chopper and fitting it with heavier weaponry. It was developed as a multi-purpose gunship capable of performing a variety of missions, from troop transport to air-to-ground strikes.
+
+This is the first model of the Mi-24A, and it has a somewhat generic flavor to it, with a large payload of ground troops. You'll need plenty of anti-infantry gear and anti-air capable weapons to take it on.","[""An attack helicopter created by expanding an existing general-purpose chopper and fitting it with heavier weaponry. It was developed as a multi-purpose gunship capable of performing a variety of missions, from troop transport to air-to-ground strikes.\n\nThis is the first model of the Mi-24A, and it has a somewhat generic flavor to it, with a large payload of ground troops. You'll need plenty of anti-infantry gear and anti-air capable weapons to take it on.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,17,17,17,1,,page34:tag7:entity17:key00969098:ref17:ord0,"既存の汎用ヘリコプターを発展改良し重武装を施すことで、兵員輸送から
 対地攻撃まで様々な任務に対応できるガンシップとして開発された
 戦闘ヘリコプター。
@@ -234,7 +298,7 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 
 破壊力が大きく、対空戦闘にも使用できるロケット系の武器無し
 では勝利はおぼつかない。対歩兵戦闘も意識しつつ、武器の
-選択は慎重に行うこと。",,,,NOT_CHECKED,179,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+選択は慎重に行うこと。",,,,NOT_CHECKED,179,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型Mi-24A。经战场升级，整体攻防能力得到强化。,"[""改装型Mi-24A。经战场升级，整体攻防能力得到强化。""]",A custom Mi-24A. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom Mi-24A. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,18,18,18,1,,page34:tag7:entity18:key00172AFB:ref18:ord0,"本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
 “改”タイプのMi-24Aである。","Mi-24Aの発展型戦闘ヘリコプター。特徴的なタンデムコックピットと
@@ -246,7 +310,15 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 では勝利はおぼつかない。対歩兵戦闘も意識しつつ、武器の
 選択は慎重に行うこと。","本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
-“改”タイプのMi-24Dである。",,,,NOT_CHECKED,490,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのMi-24Dである。",,,,NOT_CHECKED,490,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"Mi-24A攻击直升机的高级改进型。其独特的纵列双座座舱和庞大体积
+让它在苏军中赢得了“鳄鱼”的绰号。
+它真正体现了“武装直升机”的本质，火力和防御都出类拔萃。
+
+如果没有足够强大且具备防空能力的武器（例如火箭筒），
+你获胜的机会微乎其微。据此选择武器，
+但也别忘了为步兵战斗做好准备。","[""Mi-24A攻击直升机的高级改进型。其独特的纵列双座座舱和庞大体积\n让它在苏军中赢得了“鳄鱼”的绰号。\n它真正体现了“武装直升机”的本质，火力和防御都出类拔萃。\n\n如果没有足够强大且具备防空能力的武器（例如火箭筒），\n你获胜的机会微乎其微。据此选择武器，\n但也别忘了为步兵战斗做好准备。""]","An advanced variant of the Mi-24A attack helicopter. Its distinctive tandem cockpit and huge size have earned it the nickname ""Crocodile"" among Soviet troops. It is truly the embodiment of the ""gunship,"" excelling in both firepower and defense.
+
+Without a sufficiently powerful, anti-air capable weapon such as a rocket launcher, your chances of winning are slim to none. Choose your weapons accordingly, but don't forget to prepare for infantry combat as well.","[""An advanced variant of the Mi-24A attack helicopter. Its distinctive tandem cockpit and huge size have earned it the nickname \""Crocodile\"" among Soviet troops. It is truly the embodiment of the \""gunship,\"" excelling in both firepower and defense.\n\nWithout a sufficiently powerful, anti-air capable weapon such as a rocket launcher, your chances of winning are slim to none. Choose your weapons accordingly, but don't forget to prepare for infantry combat as well.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,19,19,19,1,,page34:tag7:entity19:key00C69098:ref19:ord0,"Mi-24Aの発展型戦闘ヘリコプター。特徴的なタンデムコックピットと
 その巨体から、ソ連兵士の間では“ワニ”と呼ばれる。
 火力、防御力ともに高く、真に“ガンシップ”と呼ぶにふさわしい
@@ -263,7 +335,7 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 よく見られるタイプ。
 
 重装化に対抗するには、破壊力の大きな大型武器を中心に装備の
-組み合わせを考える必要があるだろう。",,,,NOT_CHECKED,179,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+組み合わせを考える必要があるだろう。",,,,NOT_CHECKED,179,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型Mi-24D。经战场升级，整体攻防能力得到强化。,"[""改装型Mi-24D。经战场升级，整体攻防能力得到强化。""]",A custom Mi-24D. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom Mi-24D. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,20,20,20,1,,page34:tag7:entity20:key001AE163:ref20:ord0,"本機は、前線部隊によって強化改修が加えられ、
 全般的な防御力ならびに攻撃力の向上が図られている
 “改”タイプのMi-24Dである。","T-72を改修、重装化した戦車。
@@ -275,7 +347,15 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 重装化に対抗するには、破壊力の大きな大型武器を中心に装備の
 組み合わせを考える必要があるだろう。","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのT-72Aである。",,,,NOT_CHECKED,452,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのT-72Aである。",,,,NOT_CHECKED,452,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"T-72的改进型，并且武装得到进一步加强。加装侧裙板，
+以及正面覆盖的实验性爆炸反应装甲（ERA），强化了坦克的防御。
+它还配备了一种通过将燃油混入废气来产生烟雾的烟雾施放器，
+这是苏联军用车辆上常见的配置。
+
+要击穿这辆坦克强化后的防御，需要一套以重型武器为核心、
+足够强大的火力配置。选择装备时请谨记这一点。","[""T-72的改进型，并且武装得到进一步加强。加装侧裙板，\n以及正面覆盖的实验性爆炸反应装甲（ERA），强化了坦克的防御。\n它还配备了一种通过将燃油混入废气来产生烟雾的烟雾施放器，\n这是苏联军用车辆上常见的配置。\n\n要击穿这辆坦克强化后的防御，需要一套以重型武器为核心、\n足够强大的火力配置。选择装备时请谨记这一点。""]","A revamped, more heavily armed version of the T-72. The addition of a side skirt and experimental explosive reactive armor (ERA) to the front strengthens the tank's defenses. It is equipped with a smoke disperser that works by mixing fuel into the exhaust, a commonly seen feature on Soviet military vehicles.
+
+Punching through this tank's beefed-up defenses will require a suitably powerful arsenal centered on heavy weaponry. Keep this in mind when choosing your gear.","[""A revamped, more heavily armed version of the T-72. The addition of a side skirt and experimental explosive reactive armor (ERA) to the front strengthens the tank's defenses. It is equipped with a smoke disperser that works by mixing fuel into the exhaust, a commonly seen feature on Soviet military vehicles.\n\nPunching through this tank's beefed-up defenses will require a suitably powerful arsenal centered on heavy weaponry. Keep this in mind when choosing your gear.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,21,21,21,1,,page34:tag7:entity21:key0046CBFF:ref21:ord0,"T-72を改修、重装化した戦車。
 サイドスカートの追加に加え、前面には試験的に爆発反応装甲（ERA）を
 装備、防御力の強化を図っている。
@@ -292,7 +372,7 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 
 車輌自体の戦闘力も凄まじいが、随伴している歩兵部隊の戦力が
 加わると手が付けられない。歩兵戦闘班を早めに潰せるよう、
-対歩兵用装備を十分携行しよう。",,,,NOT_CHECKED,178,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+対歩兵用装備を十分携行しよう。",,,,NOT_CHECKED,178,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型T-72A。经战场升级，整体攻防能力得到强化。,"[""改装型T-72A。经战场升级，整体攻防能力得到强化。""]",A custom T-72A. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom T-72A. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,22,22,22,1,,page34:tag7:entity22:key001AE177:ref22:ord0,"本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
 “改”タイプのT-72Aである。","ソビエト連邦の新鋭主力戦車。
@@ -304,7 +384,14 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 加わると手が付けられない。歩兵戦闘班を早めに潰せるよう、
 対歩兵用装備を十分携行しよう。","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのT-72Uである。",,,,NOT_CHECKED,516,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのT-72Uである。",,,,NOT_CHECKED,516,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,"苏联最先进的主战坦克。其设计巧妙平衡了进攻、防御和机动性。
+特别是其125毫米滑膛炮，威力不亚于西方任何同类武器。
+它看起来注定会成为东方集团常规地面部队的中坚力量。
+
+这辆坦克本身已经足够强大，但与步兵护卫协同行动时几乎势不可挡
+。务必携带足够的反步兵武器，在你被压制之前先解决掉那些护卫。","[""苏联最先进的主战坦克。其设计巧妙平衡了进攻、防御和机动性。\n特别是其125毫米滑膛炮，威力不亚于西方任何同类武器。\n它看起来注定会成为东方集团常规地面部队的中坚力量。\n\n这辆坦克本身已经足够强大，但与步兵护卫协同行动时几乎势不可挡\n。务必携带足够的反步兵武器，在你被压制之前先解决掉那些护卫。""]","The Soviet Union's state-of-the-art main battle tank. Its design is a deft balance of offense, defense, and mobility. In particular, its main 125mm smoothbore gun is as powerful as anything the West has to offer. It looks set to become a staple of conventional land forces in the Eastern Bloc.
+
+The tank is powerful enough by itself, but when accompanied by infantry escorts, it becomes almost unstoppable. Be sure to have enough anti-infantry weaponry on hand to take out those escorts before you get overwhelmed.","[""The Soviet Union's state-of-the-art main battle tank. Its design is a deft balance of offense, defense, and mobility. In particular, its main 125mm smoothbore gun is as powerful as anything the West has to offer. It looks set to become a staple of conventional land forces in the Eastern Bloc.\n\nThe tank is powerful enough by itself, but when accompanied by infantry escorts, it becomes almost unstoppable. Be sure to have enough anti-infantry weaponry on hand to take out those escorts before you get overwhelmed.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D2DCCC3,23,23,23,1,,page34:tag7:entity23:key0086CC00:ref23:ord0,"ソビエト連邦の新鋭主力戦車。
 攻撃力、機動性、防御力をバランスよくまとめた設計で、とくに主砲の
 125mm滑腔砲はその威力において、西側戦車のそれに比肩する。
@@ -314,4 +401,4 @@ G型は武装搭載量を抑え、その分のキャパシティを兵員輸送�
 加わると手が付けられない。歩兵戦闘班を早めに潰せるよう、
 対歩兵用装備を十分携行しよう。","本車は、前線部隊によって強化改修が加えられ、
 防御力ならびに攻撃力の全般的な向上が図られている
-“改”タイプのT-72Uである。",,,,,NOT_CHECKED,178,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+“改”タイプのT-72Uである。",,,,,NOT_CHECKED,178,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1,改装型T-72U。经战场升级，整体攻防能力得到强化。,"[""改装型T-72U。经战场升级，整体攻防能力得到强化。""]",A custom T-72U. It has been field-upgraded to increase its overall offensive and defensive power.,"[""A custom T-72U. It has been field-upgraded to increase its overall offensive and defensive power.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context

@@ -1,4 +1,4 @@
-﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
 00D345A5,0,4,4,1,,page:tag:entity1:key00000163:ref4:ord4,,"ティガレックス
 強靭な肉体を持ちその鋭い牙はなにものをも噛み砕く。
 まさに絶対的強者。その突進をとめられる者はいない。
@@ -9,7 +9,14 @@
 その異名に恥じない空中からの攻撃を得意とする。
 空中からのブレスや爪攻撃に耐えられる者はいない。
 
-<I=CPY>CAPCOM CO., LTD.",<I=CPY>,,,NOT_CHECKED,280,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+<I=CPY>CAPCOM CO., LTD.",<I=CPY>,,,NOT_CHECKED,280,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,"轰龙
+
+拥有岩石般坚硬的躯体和能撕裂一切的利刃獠牙，轰龙不愧是万兽之王。当它冲锋时，没有任何东西能阻挡它。如果惹恼了它，你可能就得开始祈祷了。
+
+<I=CPY>CAPCOM CO., LTD.","[""轰龙\n\n拥有岩石般坚硬的躯体和能撕裂一切的利刃獠牙，轰龙不愧是万兽之王。当它冲锋时，没有任何东西能阻挡它。如果惹恼了它，你可能就得开始祈祷了。\n\n<I=CPY>CAPCOM CO., LTD.""]","Tigrex
+With a rock-solid body and razor-sharp fangs that can tear through anything, Tigrex is truly the king of beasts. Nothing can stand in its way when it charges. Rub it the wrong way, and you may as well start saying your prayers.
+
+<I=CPY>CAPCOM CO., LTD.","[""Tigrex\nWith a rock-solid body and razor-sharp fangs that can tear through anything, Tigrex is truly the king of beasts. Nothing can stand in its way when it charges. Rub it the wrong way, and you may as well start saying your prayers.\n\n<I=CPY>CAPCOM CO., LTD.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,1,10,10,1,,page:tag:entity0:key00000162:ref10:ord4,"ティガレックス
 強靭な肉体を持ちその鋭い牙はなにものをも噛み砕く。
 まさに絶対的強者。その突進をとめられる者はいない。
@@ -22,7 +29,14 @@
 
 <I=CPY>CAPCOM CO., LTD.","サイズの大きなダンボール箱。二人くらいは
 入れそう。装備品ウインドウを開き、選択した
-状態で<I=×>を押す（“DROP”する）と設置。",<I=CPY>,,,NOT_CHECKED,226,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+状態で<I=×>を押す（“DROP”する）と設置。",<I=CPY>,,,NOT_CHECKED,226,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,"雄火龙
+
+有翼飞龙，也被称为“天空之王”。它绝对名副其实。凭借致命吐息和利爪攻击，雄火龙就是来自天空的死亡的代名词。
+
+<I=CPY>CAPCOM CO., LTD.","[""雄火龙\n\n有翼飞龙，也被称为“天空之王”。它绝对名副其实。凭借致命吐息和利爪攻击，雄火龙就是来自天空的死亡的代名词。\n\n<I=CPY>CAPCOM CO., LTD.""]","Rathalos
+A winged wyvern, also known as the ""King of the Skies."" And it certainly lives up to its name. With its deadly breath and claw attacks, Rathalos is synonymous with death from above.
+
+<I=CPY>CAPCOM CO., LTD.","[""Rathalos\nA winged wyvern, also known as the \""King of the Skies.\"" And it certainly lives up to its name. With its deadly breath and claw attacks, Rathalos is synonymous with death from above.\n\n<I=CPY>CAPCOM CO., LTD.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,2,16,16,1,,page:tag:entity8:key00000060:ref16:ord4,"リオレウス
 空の王者の異名を持つ、飛竜。
 その異名に恥じない空中からの攻撃を得意とする。
@@ -32,57 +46,57 @@
 入れそう。装備品ウインドウを開き、選択した
 状態で<I=×>を押す（“DROP”する）と設置。","敵情報解析装置。
 改良により、解析精度、サーチ速度、
-サーチ距離が向上した。",<I=×>,,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+サーチ距離が向上した。",<I=×>,,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,更大的纸箱。或许能容纳两人。请从装备窗口中选择，并按下<I=×>进行「丢弃」以放置。,"[""更大的纸箱。或许能容纳两人。请从装备窗口中选择，并按下<I=×>进行「丢弃」以放置。""]","A bigger cardboard box. Might be able to fit two people. Select from the Equipment window and press <I=×> to ""DROP"" in order to set.","[""A bigger cardboard box. Might be able to fit two people. Select from the Equipment window and press <I=×> to \""DROP\"" in order to set.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,3,22,22;28,2,,page:tag:entity7:key0000005C:ref22:ord4;page:tag:entity6:key0000005B:ref28:ord4,"サイズの大きなダンボール箱。二人くらいは
 入れそう。装備品ウインドウを開き、選択した
 状態で<I=×>を押す（“DROP”する）と設置。","敵情報解析装置。
 改良により、解析精度、サーチ速度、
 サーチ距離が向上した。","敵情報解析装置。
 改良により、サーチ速度、
-サーチ距離が向上した。",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+サーチ距離が向上した。",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2,用于分析敌人情报的装置。经过改造，提升了搜索范围、速度与分析精度。,"[""用于分析敌人情报的装置。经过改造，提升了搜索范围、速度与分析精度。""]","Device that analyzes information about enemies. Modified to improve search range, speed, and accuracy of analysis.","[""Device that analyzes information about enemies. Modified to improve search range, speed, and accuracy of analysis.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,4,34,34;40,2,,page:tag:entity5:key0000005A:ref34:ord4;page:tag:entity4:key00000059:ref40:ord4,"敵情報解析装置。
 改良により、解析精度、サーチ速度、
 サーチ距離が向上した。","敵情報解析装置。
 改良により、サーチ速度、
 サーチ距離が向上した。","高品質レンジファインダーカメラ。
 装備するとファインダーを覗き、
-<I=ATK>でシャッターを切る。",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+<I=ATK>でシャッターを切る。",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2,用于分析敌人情报的装置。即使未装备，按下<I=STA>依然可以收集敌方机械与高阶士兵的情报。,"[""用于分析敌人情报的装置。即使未装备，按下<I=STA>依然可以收集敌方机械与高阶士兵的情报。"",""用于分析敌人情报的装置。经过改造，提升了搜索范围与速度。""]","Device that analyzes information about enemies. Even when unequipped, you can still gather info on enemy machinery and higher-ranking soldiers by pressing <I=STA>.","[""Device that analyzes information about enemies. Even when unequipped, you can still gather info on enemy machinery and higher-ranking soldiers by pressing <I=STA>."",""Device that analyzes information about enemies. Modified to improve search range and speed.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context; multiple candidates aggregated from all real JPN references; split/merge/order mismatch remains possible
 00D345A5,5,46,46,1,,page:tag:entity3:key00000057:ref46:ord4,"敵情報解析装置。
 改良により、サーチ速度、
 サーチ距離が向上した。","高品質レンジファインダーカメラ。
 装備するとファインダーを覗き、
 <I=ATK>でシャッターを切る。","鋼鉄のワイヤーで出来た糸鋸。
 LT、RTを交互に押すことで
-物体を切断する。",<I=ATK>,,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+物体を切断する。",<I=ATK>,,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,高品质旁轴取景相机。装备后可透过取景器观察，按 <I=ATK> 按下快门。,"[""高品质旁轴取景相机。装备后可透过取景器观察，按 <I=ATK> 按下快门。""]","High-quality rangefinder camera. Equip to look through rangefinder, then press <I=ATK> to press shutter button.","[""High-quality rangefinder camera. Equip to look through rangefinder, then press <I=ATK> to press shutter button.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,6,52,52,1,,page:tag:entity2:key00000054:ref52:ord4,"高品質レンジファインダーカメラ。
 装備するとファインダーを覗き、
 <I=ATK>でシャッターを切る。","鋼鉄のワイヤーで出来た糸鋸。
 LT、RTを交互に押すことで
 物体を切断する。","『ネイキッド』時のパンツ迷彩柄バリエーション。
 色味の近い環境にいると、カムフラ率が向上するが
-ジャケットも着用している時に比べ効果は半減する。",,,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+ジャケットも着用している時に比べ効果は半減する。",,,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,钢丝制成的钢丝锯。交替按 LT 与 RT 使用。,"[""钢丝制成的钢丝锯。交替按 LT 与 RT 使用。""]",Jigsaw made of steel wire. Alternate pressing LT and RT to use.,"[""Jigsaw made of steel wire. Alternate pressing LT and RT to use.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,7,58,58;64,2,,page:tag:entity16:key0000018B:ref58:ord4;page:tag:entity15:key00000184:ref64:ord4,"鋼鉄のワイヤーで出来た糸鋸。
 LT、RTを交互に押すことで
 物体を切断する。","『ネイキッド』時のパンツ迷彩柄バリエーション。
 色味の近い環境にいると、カムフラ率が向上するが
 ジャケットも着用している時に比べ効果は半減する。","『野戦服』のカラーバリエーション。
-色味の近い環境にいると、カムフラ率が向上する。",,,,NOT_CHECKED,212,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+色味の近い環境にいると、カムフラ率が向上する。",,,,NOT_CHECKED,212,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2,搭配迷彩长裤的裸体迷彩变体。在颜色相近的环境中可提升伪装指数，但效果仅为全身迷彩的一半。,"[""搭配迷彩长裤的裸体迷彩变体。在颜色相近的环境中可提升伪装指数，但效果仅为全身迷彩的一半。""]","Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo.","[""Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,8,70,70,1,,page:tag:entity14:key00000168:ref70:ord4,"『ネイキッド』時のパンツ迷彩柄バリエーション。
 色味の近い環境にいると、カムフラ率が向上するが
 ジャケットも着用している時に比べ効果は半減する。","『野戦服』のカラーバリエーション。
 色味の近い環境にいると、カムフラ率が向上する。","防弾素材で作られた盾（色付き）。
-改良により耐久性が向上した。",,,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+改良により耐久性が向上した。",,,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,丛林作战服迷彩的变体。在颜色相近的环境中可提升伪装指数。,"[""丛林作战服迷彩的变体。在颜色相近的环境中可提升伪装指数。""]",Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color.,"[""Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,9,76,76;82;88;94,4,,page:tag:entity13:key0000008A:ref76:ord4;page:tag:entity12:key00000089:ref82:ord4;page:tag:entity11:key00000088:ref88:ord4;page:tag:entity10:key00000087:ref94:ord4,"『野戦服』のカラーバリエーション。
 色味の近い環境にいると、カムフラ率が向上する。","防弾素材で作られた盾（色付き）。
 改良により耐久性が向上した。","防弾素材で作られた盾（色付き）。
 構えボタンで使用。
 装備している武器によって、
-防護する方向が変わる。",,,,NOT_CHECKED,91,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=4
+防護する方向が変わる。",,,,NOT_CHECKED,91,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=4,由防弹材料制成的盾牌（彩色）。经过改造，提升了耐久度。,"[""由防弹材料制成的盾牌（彩色）。经过改造，提升了耐久度。""]",Shield made from bulletproof material (colored). Modified to improve durability.,"[""Shield made from bulletproof material (colored). Modified to improve durability.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,10,100,100,1,,page:tag:entity9:key00000086:ref100:ord4,"防弾素材で作られた盾（色付き）。
 改良により耐久性が向上した。","防弾素材で作られた盾（色付き）。
 構えボタンで使用。
 装備している武器によって、
-防護する方向が変わる。",盾（色付き）の設計図,,,,NOT_CHECKED,150,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+防護する方向が変わる。",盾（色付き）の設計図,,,,NOT_CHECKED,150,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,由防弹材料制成的盾牌（彩色）。按下瞄准键即可使用。防护方向会根据所装备的武器而变化。,"[""由防弹材料制成的盾牌（彩色）。按下瞄准键即可使用。防护方向会根据所装备的武器而变化。""]",Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped.,"[""Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,11,106,106,1,,page:tag:entity17:key00000153:ref106:ord4,"防弾素材で作られた盾（色付き）。
 構えボタンで使用。
 装備している武器によって、
@@ -95,7 +109,7 @@ LT、RTを交互に押すことで
 を備えており、命中精度の高さは他機種と一線を画する。
 精度の高さから部位ターゲット補正距離も他のサブマシンガンに比べて長く、
 アサルトライフルに近い感覚で使うことも出来る。
-中～近距離の敵と戦う時、頼りになる銃。",,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+中～近距離の敵と戦う時、頼りになる銃。",,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,防弹盾牌（彩色）设计图,"[""防弹盾牌（彩色）设计图""]",Ballistic Shield (Color) Design Specs,"[""Ballistic Shield (Color) Design Specs""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,12,112,112,1,,page:tag:entity20:key00000045:ref112:ord4,盾（色付き）の設計図,"西ドイツ軍主力ライフルであるG3の派生型として製造されたサブマシンガン。
 欧州では標準的な9ミリ弾を使用し、威力は中程度。
 
@@ -114,7 +128,15 @@ LT、RTを交互に押すことで
 アサルトライフルに近い感覚で使うことも出来る。
 中～近距離の敵と戦う時、頼りになる銃。
 
-サプレッサーを装備しているが、使用回数には制限があるので注意。",,,,NOT_CHECKED,702,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+サプレッサーを装備しているが、使用回数には制限があるので注意。",,,,NOT_CHECKED,702,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,"作为西德军队主力步枪G3衍生而来的冲锋枪。使用欧洲标准的9mm子弹，火力大致处于平均水平。
+
+该型号内置了消音器，因此消音效果不会衰减。
+
+与大多数冲锋枪不同，MP5SD2采用闭膛待击方式，精度上明显优于同类产品。这种更高的精度使其能够在比其他冲锋枪更远的距离上精确瞄准敌人身体的特定部位，几乎有突击步枪般的手感。是近至中距离战斗的可靠之选。","[""作为西德军队主力步枪G3衍生而来的冲锋枪。使用欧洲标准的9mm子弹，火力大致处于平均水平。\n\n该型号内置了消音器，因此消音效果不会衰减。\n\n与大多数冲锋枪不同，MP5SD2采用闭膛待击方式，精度上明显优于同类产品。这种更高的精度使其能够在比其他冲锋枪更远的距离上精确瞄准敌人身体的特定部位，几乎有突击步枪般的手感。是近至中距离战斗的可靠之选。""]","A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.
+
+This model features a built-in suppressor, so the suppression effect never wears off.
+
+Unlike most submachine guns, the MP5SD2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.","[""A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.\n\nThis model features a built-in suppressor, so the suppression effect never wears off.\n\nUnlike most submachine guns, the MP5SD2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,13,118,118,1,,page:tag:entity19:key00000044:ref118:ord4,"西ドイツ軍主力ライフルであるG3の派生型として製造されたサブマシンガン。
 欧州では標準的な9ミリ弾を使用し、威力は中程度。
 
@@ -140,7 +162,15 @@ LT、RTを交互に押すことで
 を備えており、命中精度の高さは他機種と一線を画する。
 精度の高さから部位ターゲット補正距離も他のサブマシンガンに比べて長く、
 アサルトライフルに近い感覚で使うことも出来る。
-中～近距離の敵と戦う時、頼りになる銃。",,,,NOT_CHECKED,687,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+中～近距離の敵と戦う時、頼りになる銃。",,,,NOT_CHECKED,687,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,"作为西德军队主力步枪G3衍生而来的冲锋枪。使用欧洲标准的9mm子弹，火力大致处于平均水平。
+
+与大多数冲锋枪不同，MP5A2采用闭膛待击方式，精度上明显优于同类产品。这种更高的精度使其能够在比其他冲锋枪更远的距离上精确瞄准敌人身体的特定部位，几乎有突击步枪般的手感。是近至中距离战斗的可靠之选。
+
+装备有限次使用的消音器。消音器终将耗损，请谨慎使用。","[""作为西德军队主力步枪G3衍生而来的冲锋枪。使用欧洲标准的9mm子弹，火力大致处于平均水平。\n\n与大多数冲锋枪不同，MP5A2采用闭膛待击方式，精度上明显优于同类产品。这种更高的精度使其能够在比其他冲锋枪更远的距离上精确瞄准敌人身体的特定部位，几乎有突击步枪般的手感。是近至中距离战斗的可靠之选。\n\n装备有限次使用的消音器。消音器终将耗损，请谨慎使用。""]","A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.
+
+Unlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.
+
+Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently.","[""A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.\n\nUnlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.\n\nEquipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,14,124,124,1,,page:tag:entity18:key00000043:ref124:ord4,"西ドイツ軍主力ライフルであるG3の派生型として製造されたサブマシンガン。
 欧州では標準的な9ミリ弾を使用し、威力は中程度。
 
@@ -163,7 +193,11 @@ LT、RTを交互に押すことで
 Xbox 360に関連するあらゆる情報を網羅。 
 
 2010年8月号で通巻100号を迎えた。 
-エンターブレインより発行されている。 ",,,,NOT_CHECKED,592,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+エンターブレインより発行されている。 ",,,,NOT_CHECKED,592,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,"作为西德军队主力步枪G3衍生而来的冲锋枪。使用欧洲标准的9mm子弹，火力大致处于平均水平。
+
+与大多数冲锋枪不同，MP5A2采用闭膛待击方式，精度上明显优于同类产品。这种更高的精度使其能够在比其他冲锋枪更远的距离上精确瞄准敌人身体的特定部位，几乎有突击步枪般的手感。是近至中距离战斗的可靠之选。","[""作为西德军队主力步枪G3衍生而来的冲锋枪。使用欧洲标准的9mm子弹，火力大致处于平均水平。\n\n与大多数冲锋枪不同，MP5A2采用闭膛待击方式，精度上明显优于同类产品。这种更高的精度使其能够在比其他冲锋枪更远的距离上精确瞄准敌人身体的特定部位，几乎有突击步枪般的手感。是近至中距离战斗的可靠之选。""]","A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.
+
+Unlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.","[""A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.\n\nUnlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,15,130,130,1,,page:tag:entity26:key00000134:ref130:ord4,"西ドイツ軍主力ライフルであるG3の派生型として製造されたサブマシンガン。
 欧州では標準的な9ミリ弾を使用し、威力は中程度。
 
@@ -179,7 +213,7 @@ Xbox 360に関連するあらゆる情報を網羅。
 2010年8月号で通巻100号を迎えた。 
 エンターブレインより発行されている。 ","魅力的な記事が満載の人気雑誌。
 CIA傭兵やMSFの隊員にも熱心な読者がいるらしい。
-目の前におかれると、時に仕事をほったらかしてしまうことも…。",,,,NOT_CHECKED,298,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+目の前におかれると、時に仕事をほったらかしてしまうことも…。",,,,NOT_CHECKED,298,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,面向文学爱好者的月刊低俗杂志，以成人内容为特色。来自世界各地士兵投稿的真实旅行日志必读。也拥有大量衣着暴露的美女插图。,"[""面向文学爱好者的月刊低俗杂志，以成人内容为特色。来自世界各地士兵投稿的真实旅行日志必读。也拥有大量衣着暴露的美女插图。""]",A monthly pulp magazine that features mature content aimed at literary types. The real-life travel logs submitted by soldiers from around the world are a must read.  Also boasts an ample supply of scantily-clad pin-ups.,"[""A monthly pulp magazine that features mature content aimed at literary types. The real-life travel logs submitted by soldiers from around the world are a must read.  Also boasts an ample supply of scantily-clad pin-ups.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,16,136,136;142;148;154;160,5,,page:tag:entity25:key00000128:ref136:ord4;page:tag:entity24:key00000127:ref142:ord4;page:tag:entity23:key00000126:ref148:ord4;page:tag:entity22:key00000125:ref154:ord4;page:tag:entity21:key00000124:ref160:ord4,"ファミ通Xbox 360 
 日本では唯一のXbox 360専門ゲーム情報誌。 
 国内はもちろん、海外版のソフト情報など、
@@ -190,112 +224,119 @@ Xbox 360に関連するあらゆる情報を網羅。
 CIA傭兵やMSFの隊員にも熱心な読者がいるらしい。
 目の前におかれると、時に仕事をほったらかしてしまうことも…。","小型軽量カービン。
 スモークグレネードランチャー装備。
-切り替えは<I=△>ボタン。",,,,NOT_CHECKED,203,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=5
+切り替えは<I=△>ボタン。",,,,NOT_CHECKED,203,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=5,"一本人气月刊杂志，每一页都充满看点。其忠实读者群遍布从美国南部一直到巴拿马运河的广大地区，月发行量高达110万册。其中笔友交流专栏尤其受欢迎。
+
+据说部分中情局(CIA)雇佣兵和MSF成员都是这本杂志的忠实读者。把它放在他们面前，说不定能让他们放下手头的一切…","[""一本人气月刊杂志，每一页都充满看点。其忠实读者群遍布从美国南部一直到巴拿马运河的广大地区，月发行量高达110万册。其中笔友交流专栏尤其受欢迎。\n\n据说部分中情局(CIA)雇佣兵和MSF成员都是这本杂志的忠实读者。把它放在他们面前，说不定能让他们放下手头的一切…""]","A popular monthly magazine jam-packed with excitement on every page. It has a massive fan base that stretches all the way from the southern part of the U.S. to the Panama Canal, and a circulation of 1.1 million copies per month. One especially popular feature is the pen pal exchange page.
+
+Some CIA mercenaries and MSF members are known to be avid readers of this mag. Put it in front of them and they just might drop everything else...","[""A popular monthly magazine jam-packed with excitement on every page. It has a massive fan base that stretches all the way from the southern part of the U.S. to the Panama Canal, and a circulation of 1.1 million copies per month. One especially popular feature is the pen pal exchange page.\n\nSome CIA mercenaries and MSF members are known to be avid readers of this mag. Put it in front of them and they just might drop everything else...""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,17,166,166,1,,page:tag:entity43:key00000062:ref166:ord4,"魅力的な記事が満載の人気雑誌。
 CIA傭兵やMSFの隊員にも熱心な読者がいるらしい。
 目の前におかれると、時に仕事をほったらかしてしまうことも…。","小型軽量カービン。
 スモークグレネードランチャー装備。
 切り替えは<I=△>ボタン。","小型軽量カービン。
 ショットガン装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,紧凑轻便的卡宾枪。配备了烟雾榴弹发射器。按 <I=△> 切换。,"[""紧凑轻便的卡宾枪。配备了烟雾榴弹发射器。按 <I=△> 切换。""]","Compact, lightweight carbine. Outfitted with smoke grenade launcher. Switch with <I=△>.","[""Compact, lightweight carbine. Outfitted with smoke grenade launcher. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,18,172,172,1,,page:tag:entity42:key00000060:ref172:ord4,"小型軽量カービン。
 スモークグレネードランチャー装備。
 切り替えは<I=△>ボタン。","小型軽量カービン。
 ショットガン装備。
 切り替えは<I=△>。","小型軽量カービン。
 グレネードランチャー装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,紧凑轻便的卡宾枪。配备了枪管下挂霰弹枪。按<I=△>切换。,"[""紧凑轻便的卡宾枪。配备了枪管下挂霰弹枪。按<I=△>切换。""]","Compact, lightweight carbine. Outfitted with underbarrel shotgun. Switch with <I=△>.","[""Compact, lightweight carbine. Outfitted with underbarrel shotgun. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,19,178,178,1,,page:tag:entity41:key0000005E:ref178:ord4,"小型軽量カービン。
 ショットガン装備。
 切り替えは<I=△>。","小型軽量カービン。
 グレネードランチャー装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 スモークグレネードランチャーとレーザー
-サイト装備。切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+サイト装備。切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,紧凑轻便的卡宾枪。配备了榴弹发射器。按 <I=△> 键切换。,"[""紧凑轻便的卡宾枪。配备了榴弹发射器。按 <I=△> 键切换。""]","Compact, lightweight carbine. Outfitted with grenade launcher. Switch with the <I=△> button.","[""Compact, lightweight carbine. Outfitted with grenade launcher. Switch with the <I=△> button.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,20,184,184,1,,page:tag:entity40:key00000059:ref184:ord4,"小型軽量カービン。
 グレネードランチャー装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 スモークグレネードランチャーとレーザー
 サイト装備。切り替えは<I=△>。","新型軽量アサルトライフル。
 スモークグレネードランチャー装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,141,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,141,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,新型轻量突击步枪。配备了烟雾榴弹发射器与激光瞄准器。按<I=△>切换。,"[""新型轻量突击步枪。配备了烟雾榴弹发射器与激光瞄准器。按<I=△>切换。""]","New-model, lightweight assault rifle. Outfitted with smoke grenade launcher and laser sight. Switch with <I=△>.","[""New-model, lightweight assault rifle. Outfitted with smoke grenade launcher and laser sight. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,21,190,190,1,,page:tag:entity39:key00000057:ref190:ord4,"新型軽量アサルトライフル。
 スモークグレネードランチャーとレーザー
 サイト装備。切り替えは<I=△>。","新型軽量アサルトライフル。
 スモークグレネードランチャー装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 グレネードランチャーとレーザーサイト装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,新型轻量突击步枪。配备了烟雾榴弹发射器。按<I=△>切换。,"[""新型轻量突击步枪。配备了烟雾榴弹发射器。按<I=△>切换。""]","New-model, lightweight assault rifle. Outfitted with smoke grenade launcher. Switch with <I=△>.","[""New-model, lightweight assault rifle. Outfitted with smoke grenade launcher. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,22,196,196,1,,page:tag:entity38:key00000055:ref196:ord4,"新型軽量アサルトライフル。
 スモークグレネードランチャー装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 グレネードランチャーとレーザーサイト装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 グレネードランチャー装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,129,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,129,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,新型轻量突击步枪。配备了榴弹发射器与激光瞄准器。按<I=△>切换。,"[""新型轻量突击步枪。配备了榴弹发射器与激光瞄准器。按<I=△>切换。""]","New-model, lightweight assault rifle. Outfitted with grenade launcher and laser sight. Switch with <I=△>.","[""New-model, lightweight assault rifle. Outfitted with grenade launcher and laser sight. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,23,202,202;208;214,3,,page:tag:entity37:key00000054:ref202:ord4;page:tag:entity36:key00000053:ref208:ord4;page:tag:entity35:key00000052:ref214:ord4,"新型軽量アサルトライフル。
 グレネードランチャーとレーザーサイト装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 グレネードランチャー装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 ショットガンとレーザーサイト装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,105,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=3
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,105,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=3,新型轻量突击步枪。配备了榴弹发射器。按<I=△>切换。,"[""新型轻量突击步枪。配备了榴弹发射器。按<I=△>切换。""]","New-model, lightweight assault rifle. Outfitted with grenade launcher. Switch with <I=△>.","[""New-model, lightweight assault rifle. Outfitted with grenade launcher. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,24,220,220,1,,page:tag:entity34:key00000051:ref220:ord4,"新型軽量アサルトライフル。
 グレネードランチャー装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 ショットガンとレーザーサイト装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 ショットガン装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,新型轻量突击步枪。配备了霰弹枪与激光瞄准器。按<I=△>切换。,"[""新型轻量突击步枪。配备了霰弹枪与激光瞄准器。按<I=△>切换。""]","New-model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with <I=△>.","[""New-model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,25,226,226,1,,page:tag:entity33:key0000004F:ref226:ord4,"新型軽量アサルトライフル。
 ショットガンとレーザーサイト装備。
 切り替えは<I=△>。","新型軽量アサルトライフル。
 ショットガン装備。
 切り替えは<I=△>。","小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めする。
-バレルジャケット装備で命中精度が向上。",<I=△>,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+バレルジャケット装備で命中精度が向上。",<I=△>,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,"新型轻量突击步枪。
+配备了霰弹枪。按<I=△>切换。","[""新型轻量突击步枪。\n配备了霰弹枪。按<I=△>切换。""]","New-model, lightweight assault rifle. 
+Outfitted with shotgun. Switch with <I=△>.","[""New-model, lightweight assault rifle. \nOutfitted with shotgun. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,26,232,232,1,,page:tag:entity32:key00000042:ref232:ord4,"新型軽量アサルトライフル。
 ショットガン装備。
 切り替えは<I=△>。","小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めする。
 バレルジャケット装備で命中精度が向上。","小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めするが
-命中精度は低い。サプレッサー装備。",,,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+命中精度は低い。サプレッサー装備。",,,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,紧凑轻便的冲锋枪。其高射速使其能有效压制敌人。枪管护套提升了精度。,"[""紧凑轻便的冲锋枪。其高射速使其能有效压制敌人。枪管护套提升了精度。""]","Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy. The barrel jacket increases accuracy.","[""Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy. The barrel jacket increases accuracy.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,27,238,238,1,,page:tag:entity31:key00000041:ref238:ord4,"小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めする。
 バレルジャケット装備で命中精度が向上。","小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めするが
 命中精度は低い。サプレッサー装備。","小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めするが
-命中精度は低い。",,,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+命中精度は低い。",,,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,紧凑轻便的冲锋枪。其高射速使其能有效压制敌人，但精度较低。装备有消音器。,"[""紧凑轻便的冲锋枪。其高射速使其能有效压制敌人，但精度较低。装备有消音器。""]","Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy. Equipped with suppressor.","[""Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy. Equipped with suppressor.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,28,244,244,1,,page:tag:entity30:key00000040:ref244:ord4,"小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めするが
 命中精度は低い。サプレッサー装備。","小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めするが
 命中精度は低い。","自動ショットガン。
 装弾数が８に増強。高い連射速度により
-強力な火力を誇るが、取り回しが悪い。",,,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+強力な火力を誇るが、取り回しが悪い。",,,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,紧凑轻便的冲锋枪。其高射速使其能有效压制敌人，但精度较低。,"[""紧凑轻便的冲锋枪。其高射速使其能有效压制敌人，但精度较低。""]","Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy.","[""Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,29,250,250;256,2,,page:tag:entity29:key00000039:ref250:ord4;page:tag:entity28:key00000038:ref256:ord4,"小型軽量サブマシンガン。
 連射速度が高く効果的に敵を足止めするが
 命中精度は低い。","自動ショットガン。
 装弾数が８に増強。高い連射速度により
 強力な火力を誇るが、取り回しが悪い。","自動ショットガン。
 装弾数６。高い連射速度により強力な火力を
-誇るが、取り回しが悪い。",,,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+誇るが、取り回しが悪い。",,,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2,全自动霰弹枪。经过改造，弹容量增至八发。其速射能力带来了强大的火力，但操控难度较高。,"[""全自动霰弹枪。经过改造，弹容量增至八发。其速射能力带来了强大的火力，但操控难度较高。""]","Automatic shotgun. Modified to hold eight rounds. Its rapid-fire capability brings immense firepower, but it is difficult to handle.","[""Automatic shotgun. Modified to hold eight rounds. Its rapid-fire capability brings immense firepower, but it is difficult to handle.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,30,262,262,1,,page:tag:entity27:key00000037:ref262:ord4,"自動ショットガン。
 装弾数が８に増強。高い連射速度により
 強力な火力を誇るが、取り回しが悪い。","自動ショットガン。
 装弾数６。高い連射速度により強力な火力を
 誇るが、取り回しが悪い。","人気ホビー雑誌。
 設置すると、面白さに足を止めて
-読みふける者が続出！",,,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+読みふける者が続出！",,,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,全自动霰弹枪。弹容量为六发。其速射能力带来了强大的火力，但操控难度较高。,"[""全自动霰弹枪。弹容量为六发。其速射能力带来了强大的火力，但操控难度较高。""]","Automatic shotgun. Holds six rounds. Its rapid-fire capability brings immense  firepower, but it is difficult to handle.","[""Automatic shotgun. Holds six rounds. Its rapid-fire capability brings immense  firepower, but it is difficult to handle.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,31,268,268,1,,page:tag:entity58:key00000137:ref268:ord4,"自動ショットガン。
 装弾数６。高い連射速度により強力な火力を
 誇るが、取り回しが悪い。","人気ホビー雑誌。
 設置すると、面白さに足を止めて
 読みふける者が続出！","人気雑誌。
 設置すると、面白さに足を止めて
-読みふける者が続出！",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+読みふける者が続出！",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,"一本很受欢迎的低俗杂志。放置后，任何注意到它的人都会停下来阅读！
+请先面向要放置的位置，准备就绪后按<I=ATK>放置。","[""一本很受欢迎的低俗杂志。放置后，任何注意到它的人都会停下来阅读！\n请先面向要放置的位置，准备就绪后按<I=ATK>放置。""]","A popular pulp magazine. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. ","[""A popular pulp magazine. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. ""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,32,274,274;280;286;292,4,,page:tag:entity57:key00000136:ref274:ord4;page:tag:entity56:key00000135:ref280:ord4;page:tag:entity55:key00000134:ref286:ord4;page:tag:entity54:key00000133:ref292:ord4,"人気ホビー雑誌。
 設置すると、面白さに足を止めて
 読みふける者が続出！","人気雑誌。
@@ -303,7 +344,7 @@ CIA傭兵やMSFの隊員にも熱心な読者がいるらしい。
 読みふける者が続出！","人気雑誌。
 設置すると、面白さに足を止めて読みふける者が
 続出。刊行数が増す毎に面白くなり、より長い間
-熱中するようになる。",,,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=4
+熱中するようになる。",,,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=4,一本满载美女照片的杂志。一旦放置，任何注意到它的人都会停下来翻阅！面向要放置的位置准备就绪后，按下<I=ATK>进行放置。,"[""一本满载美女照片的杂志。一旦放置，任何注意到它的人都会停下来翻阅！面向要放置的位置准备就绪后，按下<I=ATK>进行放置。"",""一本很受欢迎的低俗杂志。放置后，任何注意到它的人都会停下来阅读！\n请先面向要放置的位置，准备就绪后按<I=ATK>放置。""]","A magazine loaded with pictures of beautiful women. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. ","[""A magazine loaded with pictures of beautiful women. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. "",""A popular pulp magazine. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. ""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context; multiple candidates aggregated from all real JPN references; split/merge/order mismatch remains possible
 00D345A5,33,298,298;304;310;316;322,5,,page:tag:entity53:key00000128:ref298:ord4;page:tag:entity52:key00000127:ref304:ord4;page:tag:entity51:key00000126:ref310:ord4;page:tag:entity50:key00000125:ref316:ord4;page:tag:entity49:key00000124:ref322:ord4,"人気雑誌。
 設置すると、面白さに足を止めて
 読みふける者が続出！","人気雑誌。
@@ -311,7 +352,7 @@ CIA傭兵やMSFの隊員にも熱心な読者がいるらしい。
 続出。刊行数が増す毎に面白くなり、より長い間
 熱中するようになる。","携行型無反動砲。榴弾使用。
 砲弾の初速が速く命中精度が高い。
-加害範囲が広がったが、威力はやや弱化。",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=5
+加害範囲が広がったが、威力はやや弱化。",,,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=5,一本很受欢迎的杂志。放置后，任何注意到它的人都会停下来阅读。放置的期数越多，对方停留关注的时间就越长。,"[""一本很受欢迎的杂志。放置后，任何注意到它的人都会停下来阅读。放置的期数越多，对方停留关注的时间就越长。""]","A popular magazine. Once set, anyone who notices it will stop to read it. The more issues set, the longer the person will be interested.","[""A popular magazine. Once set, anyone who notices it will stop to read it. The more issues set, the longer the person will be interested.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,34,328,328;334;340,3,,page:tag:entity48:key000000E0:ref328:ord4;page:tag:entity47:key000000DF:ref334:ord4;page:tag:entity46:key000000DE:ref340:ord4,"人気雑誌。
 設置すると、面白さに足を止めて読みふける者が
 続出。刊行数が増す毎に面白くなり、より長い間
@@ -319,22 +360,22 @@ CIA傭兵やMSFの隊員にも熱心な読者がいるらしい。
 砲弾の初速が速く命中精度が高い。
 加害範囲が広がったが、威力はやや弱化。","ソ連製アサルトライフル。
 スモークグレネードランチャー装備。
-切り替えは<I=△>。",,,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=3
+切り替えは<I=△>。",,,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=3,便携式无后坐力炮。初速高，精度出色。使用HEAT弹，爆炸范围更大，但威力略逊一筹。,"[""便携式无后坐力炮。初速高，精度出色。使用HEAT弹，爆炸范围更大，但威力略逊一筹。""]",Portable recoilless rifle. Has high initial shell velocity and accuracy. Uses HEAT rounds. This gives it wider damage radius but slightly less power.,"[""Portable recoilless rifle. Has high initial shell velocity and accuracy. Uses HEAT rounds. This gives it wider damage radius but slightly less power.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,35,346,346,1,,page:tag:entity45:key00000067:ref346:ord4,"携行型無反動砲。榴弾使用。
 砲弾の初速が速く命中精度が高い。
 加害範囲が広がったが、威力はやや弱化。","ソ連製アサルトライフル。
 スモークグレネードランチャー装備。
 切り替えは<I=△>。","ソ連製アサルトライフル。
 グレネードランチャー装備。
-切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",<I=△>,,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,苏联突击步枪，配备烟雾榴弹发射器。按<I=△>切换。,"[""苏联突击步枪，配备烟雾榴弹发射器。按<I=△>切换。""]",Soviet assault rifle. Equipped with smoke grenade launcher. Switch with <I=△>.,"[""Soviet assault rifle. Equipped with smoke grenade launcher. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,36,352,352,1,,page:tag:entity44:key00000065:ref352:ord4,"ソ連製アサルトライフル。
 スモークグレネードランチャー装備。
 切り替えは<I=△>。","ソ連製アサルトライフル。
 グレネードランチャー装備。
-切り替えは<I=△>。",ファミ通Xbox 360,<I=△>,,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+切り替えは<I=△>。",ファミ通Xbox 360,<I=△>,,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,苏联突击步枪，配备榴弹发射器。按<I=△>切换。,"[""苏联突击步枪，配备榴弹发射器。按<I=△>切换。""]",Soviet assault rifle. Equipped with grenade launcher. Switch with <I=△>.,"[""Soviet assault rifle. Equipped with grenade launcher. Switch with <I=△>.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 00D345A5,37,358,358,1,,page:tag:entity64:key00000134:ref358:ord4,"ソ連製アサルトライフル。
 グレネードランチャー装備。
-切り替えは<I=△>。",ファミ通Xbox 360,雑誌,,,,NOT_CHECKED,20,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
-00D345A5,38,364,364;370;376;382;388,5,,page:tag:entity63:key00000128:ref364:ord4;page:tag:entity62:key00000127:ref370:ord4;page:tag:entity61:key00000126:ref376:ord4;page:tag:entity60:key00000125:ref382:ord4;page:tag:entity59:key00000124:ref388:ord4,ファミ通Xbox 360,雑誌,FAMITSU 360,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=5
-00D345A5,39,394,394;430,2,,page:tag:entity70:key00000134:ref394:ord4;page:tag:entity76:key00000134:ref430:ord4,雑誌,FAMITSU 360,MAGAZINE,,,,NOT_CHECKED,11,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
-00D345A5,40,400,400;406;412;418;424;436;442;448;454;460,10,,page:tag:entity69:key00000128:ref400:ord4;page:tag:entity68:key00000127:ref406:ord4;page:tag:entity67:key00000126:ref412:ord4;page:tag:entity66:key00000125:ref418:ord4;page:tag:entity65:key00000124:ref424:ord4;page:tag:entity75:key00000128:ref436:ord4;page:tag:entity74:key00000127:ref442:ord4;page:tag:entity73:key00000126:ref448:ord4;page:tag:entity72:key00000125:ref454:ord4;page:tag:entity71:key00000124:ref460:ord4,FAMITSU 360,MAGAZINE,FAMITSU 360,,,,NOT_CHECKED,8,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=10
+切り替えは<I=△>。",ファミ通Xbox 360,雑誌,,,,NOT_CHECKED,20,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1,Liquid杂志,"[""Liquid杂志""]",Liquid Magazine,"[""Liquid Magazine""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+00D345A5,38,364,364;370;376;382;388,5,,page:tag:entity63:key00000128:ref364:ord4;page:tag:entity62:key00000127:ref370:ord4;page:tag:entity61:key00000126:ref376:ord4;page:tag:entity60:key00000125:ref382:ord4;page:tag:entity59:key00000124:ref388:ord4,ファミ通Xbox 360,雑誌,FAMITSU 360,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=5,杂志,"[""杂志""]",Magazine,"[""Magazine""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+00D345A5,39,394,394;430,2,,page:tag:entity70:key00000134:ref394:ord4;page:tag:entity76:key00000134:ref430:ord4,雑誌,FAMITSU 360,MAGAZINE,,,,NOT_CHECKED,11,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2,LIQUID M.,"[""LIQUID M.""]",LIQUID M.,"[""LIQUID M.""]",AUX_CN_ATTACHED,exact_jpn_loose_file_and_reference_index,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_loose_file_and_reference_index; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+00D345A5,40,400,400;406;412;418;424;436;442;448;454;460,10,,page:tag:entity69:key00000128:ref400:ord4;page:tag:entity68:key00000127:ref406:ord4;page:tag:entity67:key00000126:ref412:ord4;page:tag:entity66:key00000125:ref418:ord4;page:tag:entity65:key00000124:ref424:ord4;page:tag:entity75:key00000128:ref436:ord4;page:tag:entity74:key00000127:ref442:ord4;page:tag:entity73:key00000126:ref448:ord4;page:tag:entity72:key00000125:ref454:ord4;page:tag:entity71:key00000124:ref460:ord4,FAMITSU 360,MAGAZINE,FAMITSU 360,,,,NOT_CHECKED,8,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=10,,[],MAGAZINE,"[""MAGAZINE""]",AUX_UNCHANGED,exact_jpn_loose_file_and_reference_index,auxiliary bank retains the original JPN text; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context

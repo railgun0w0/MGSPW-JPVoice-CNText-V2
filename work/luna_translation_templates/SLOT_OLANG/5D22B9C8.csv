@@ -1,66 +1,76 @@
-﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
 5D22B9C8,0,0,0;0,2,,page64:tag6:entity31:key00B4F6A5:ref0:ord0;page1847:tag1:entity31:key00B4F6A5:ref0:ord0,,   ,"WLAN/WIRELESSスイッチがOFFになったため
-通信を切断しました。",,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+通信を切断しました。",,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,,[],   ,"[""   ""]",AUX_UNCHANGED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,auxiliary bank retains the original JPN text; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,1,1,1;15;1;15,4,,page64:tag6:entity30:key00B45145:ref1:ord0;page64:tag6:entity16:key0061F444:ref15:ord0;page1847:tag1:entity30:key00B45145:ref1:ord0;page1847:tag1:entity16:key0061F444:ref15:ord0,   ,"WLAN/WIRELESSスイッチがOFFになったため
-通信を切断しました。",スリープモードに入ったため通信を切断しました。,,,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+通信を切断しました。",スリープモードに入ったため通信を切断しました。,,,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4,由于WLAN/WIRELESS开关已关闭，连接已终止。,"[""由于WLAN/WIRELESS开关已关闭，连接已终止。""]",The connection has been terminated because the WLAN/WIRELESS switch was turned off.,"[""The connection has been terminated because the WLAN/WIRELESS switch was turned off.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,2,2,2;13;16;2;13;16,6,,page64:tag6:entity26:key008E4E0B:ref2:ord0;page64:tag6:entity18:key0065A23D:ref13:ord0;page64:tag6:entity34:key00FE97DB:ref16:ord0;page1847:tag1:entity26:key008E4E0B:ref2:ord0;page1847:tag1:entity18:key0065A23D:ref13:ord0;page1847:tag1:entity34:key00FE97DB:ref16:ord0,"WLAN/WIRELESSスイッチがOFFになったため
 通信を切断しました。",スリープモードに入ったため通信を切断しました。,"通信できませんでした。
 WLAN/WIRELESSスイッチがOFFになっています。
-スイッチをONにしてもう一度お試しください。",,,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+スイッチをONにしてもう一度お試しください。",,,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6,由于系统进入休眠模式，连接已中断。,"[""由于系统进入休眠模式，连接已中断。""]",The connection was interrupted because the system entered sleep mode.,"[""The connection was interrupted because the system entered sleep mode.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,3,3,3;12;3;12,4,,page64:tag6:entity17:key00645811:ref3:ord0;page64:tag6:entity22:key006D2C97:ref12:ord0;page1847:tag1:entity17:key00645811:ref3:ord0;page1847:tag1:entity22:key006D2C97:ref12:ord0,スリープモードに入ったため通信を切断しました。,"通信できませんでした。
 WLAN/WIRELESSスイッチがOFFになっています。
 スイッチをONにしてもう一度お試しください。","スリープモードに入ったため
-サーチを開始できませんでした。",,,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+サーチを開始できませんでした。",,,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4,"连接失败。
+尚未打开WLAN/WIRELESS开关。
+请将开关拨到ON位置后重试。","[""连接失败。\n尚未打开WLAN/WIRELESS开关。\n请将开关拨到ON位置后重试。""]","Connection failed.
+The WLAN/WIRELESS switch is not turned on.
+Please change the switch to the ON position and try again.","[""Connection failed.\nThe WLAN/WIRELESS switch is not turned on.\nPlease change the switch to the ON position and try again.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,4,4,4;4,2,,page64:tag6:entity12:key004B117C:ref4:ord0;page1847:tag1:entity12:key004B117C:ref4:ord0,"通信できませんでした。
 WLAN/WIRELESSスイッチがOFFになっています。
 スイッチをONにしてもう一度お試しください。","スリープモードに入ったため
-サーチを開始できませんでした。",エラーが発生しました。通信に失敗しました。,,,,NOT_CHECKED,85,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+サーチを開始できませんでした。",エラーが発生しました。通信に失敗しました。,,,,NOT_CHECKED,85,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于系统进入休眠模式，无法开始连接。,"[""由于系统进入休眠模式，无法开始连接。""]",Unable to start connection because the system entered sleep mode.,"[""Unable to start connection because the system entered sleep mode.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,5,5,5;5,2,,page64:tag6:entity0:key00094D7E:ref5:ord0;page1847:tag1:entity0:key00094D7E:ref5:ord0,"スリープモードに入ったため
 サーチを開始できませんでした。",エラーが発生しました。通信に失敗しました。,"WLAN/WIRELESSスイッチがOFFになったため
-サーチを中断しました。",,,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+サーチを中断しました。",,,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,发生错误。连接失败。,"[""发生错误。连接失败。""]",An error has occurred.  The connection has failed.,"[""An error has occurred.  The connection has failed.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,6,6,6;6,2,,page64:tag6:entity1:key0012C80F:ref6:ord0;page1847:tag1:entity1:key0012C80F:ref6:ord0,エラーが発生しました。通信に失敗しました。,"WLAN/WIRELESSスイッチがOFFになったため
 サーチを中断しました。","スリープモードに入ったため
-サーチを中断しました。",,,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+サーチを中断しました。",,,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于WLAN/WIRELESS开关已关闭，搜索已取消。,"[""由于WLAN/WIRELESS开关已关闭，搜索已取消。""]",The search was canceled because the WLAN/WIRELESS switch was turned off.,"[""The search was canceled because the WLAN/WIRELESS switch was turned off.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,7,7,7;7,2,,page64:tag6:entity2:key00191132:ref7:ord0;page1847:tag1:entity2:key00191132:ref7:ord0,"WLAN/WIRELESSスイッチがOFFになったため
 サーチを中断しました。","スリープモードに入ったため
 サーチを中断しました。","通信エラーが発生したため
-サーチを中断しました。",,,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+サーチを中断しました。",,,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于系统进入休眠模式，搜索已取消。,"[""由于系统进入休眠模式，搜索已取消。""]",The search was canceled because the system entered sleep mode.,"[""The search was canceled because the system entered sleep mode.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,8,8,8;8,2,,page64:tag6:entity33:key00D74D33:ref8:ord0;page1847:tag1:entity33:key00D74D33:ref8:ord0,"スリープモードに入ったため
 サーチを中断しました。","通信エラーが発生したため
 サーチを中断しました。","WLAN/WIRELESSスイッチがOFFになったため
-ホストに参加できませんでした。",,,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+ホストに参加できませんでした。",,,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于连接错误，搜索已取消。,"[""由于连接错误，搜索已取消。""]",The search was canceled because of a connection error.,"[""The search was canceled because of a connection error.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,9,9,9;9,2,,page64:tag6:entity4:key001E9B99:ref9:ord0;page1847:tag1:entity4:key001E9B99:ref9:ord0,"通信エラーが発生したため
 サーチを中断しました。","WLAN/WIRELESSスイッチがOFFになったため
 ホストに参加できませんでした。","スリープモードに入ったため
-HOSTに参加できませんでした。",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+HOSTに参加できませんでした。",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于WLAN/WIRELESS开关已关闭，无法加入主机。,"[""由于WLAN/WIRELESS开关已关闭，无法加入主机。""]",Unable to join the host because the WLAN/WIRELESS switch has been turned off.,"[""Unable to join the host because the WLAN/WIRELESS switch has been turned off.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,10,10,10;10,2,,page64:tag6:entity27:key00938273:ref10:ord0;page1847:tag1:entity27:key00938273:ref10:ord0,"WLAN/WIRELESSスイッチがOFFになったため
 ホストに参加できませんでした。","スリープモードに入ったため
 HOSTに参加できませんでした。","通信エラーが発生したため
-HOSTに参加できませんでした。",,,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+HOSTに参加できませんでした。",,,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于系统进入休眠模式，无法加入主机。,"[""由于系统进入休眠模式，无法加入主机。""]",Unable to join the host because the system entered sleep mode.,"[""Unable to join the host because the system entered sleep mode.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,11,11,11;11,2,,page64:tag6:entity13:key00578E75:ref11:ord0;page1847:tag1:entity13:key00578E75:ref11:ord0,"スリープモードに入ったため
 HOSTに参加できませんでした。","通信エラーが発生したため
 HOSTに参加できませんでした。","通信できませんでした。
 WLAN/WIRELESSスイッチがOFFになっています。
-スイッチをONにしてもう一度お試しください。",,,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+スイッチをONにしてもう一度お試しください。",,,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于连接错误，无法加入主机。,"[""由于连接错误，无法加入主机。""]",Unable to join the host because of a connection error.,"[""Unable to join the host because of a connection error.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,12,14,14;14,2,,page64:tag6:entity6:key0029AE3F:ref14:ord0;page1847:tag1:entity6:key0029AE3F:ref14:ord0,スリープモードに入ったため通信を切断しました。,"通信エラーが発生したため
 HOSTが作成できませんでした。","WLAN/WIRELESSスイッチがOFFになったため
-通信を切断しました。",,,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
-5D22B9C8,13,17,17;17,2,,page64:tag6:entity32:key00C2A3DD:ref17:ord0;page1847:tag1:entity32:key00C2A3DD:ref17:ord0,スリープモードに入ったため通信を切断しました。,HOSTとの通信が切断されました。,通信エラーが発生しました。,,,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
-5D22B9C8,14,18,18;18,2,,page64:tag6:entity5:key00268F77:ref18:ord0;page1847:tag1:entity5:key00268F77:ref18:ord0,HOSTとの通信が切断されました。,通信エラーが発生しました。,???,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+通信を切断しました。",,,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,由于连接错误，无法创建主机。,"[""由于连接错误，无法创建主机。""]",Unable to create host because of a connection error.,"[""Unable to create host because of a connection error.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+5D22B9C8,13,17,17;17,2,,page64:tag6:entity32:key00C2A3DD:ref17:ord0;page1847:tag1:entity32:key00C2A3DD:ref17:ord0,スリープモードに入ったため通信を切断しました。,HOSTとの通信が切断されました。,通信エラーが発生しました。,,,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,与主机的连接已中断。,"[""与主机的连接已中断。""]",The connection with the host was interrupted.,"[""The connection with the host was interrupted.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+5D22B9C8,14,18,18;18,2,,page64:tag6:entity5:key00268F77:ref18:ord0;page1847:tag1:entity5:key00268F77:ref18:ord0,HOSTとの通信が切断されました。,通信エラーが発生しました。,???,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,发生连接错误。,"[""发生连接错误。""]",A connection error has occurred.,"[""A connection error has occurred.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,15,19,19;19,2,,page64:tag6:entity24:key007C421F:ref19:ord0;page1847:tag1:entity24:key007C421F:ref19:ord0,通信エラーが発生しました。,???,"対戦で使用できないユニフォームが選択されています。
 
-$1",,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+$1",,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,,[],???,"[""???""]",AUX_UNCHANGED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,auxiliary bank retains the original JPN text; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,16,20,20;20,2,,page64:tag6:entity11:key004538B3:ref20:ord0;page1847:tag1:entity11:key004538B3:ref20:ord0,???,"対戦で使用できないユニフォームが選択されています。
 
-$1",このミッションでは武器が必要です。,$1,,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+$1",このミッションでは武器が必要です。,$1,,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,"已选择无法在战斗中使用的制服
+
+$1","[""已选择无法在战斗中使用的制服\n\n$1""]","A uniform that cannot be used in battle has been selected
+
+$1","[""A uniform that cannot be used in battle has been selected\n\n$1""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,17,21,21;21,2,,page64:tag6:entity8:key0033B9A9:ref21:ord0;page1847:tag1:entity8:key0033B9A9:ref21:ord0,"対戦で使用できないユニフォームが選択されています。
 
 $1",このミッションでは武器が必要です。,"このミッションでは
 $1
-が必要です。",,,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+が必要です。",,,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,此任务需要武器。,"[""此任务需要武器。""]",Weapons are required on this mission.,"[""Weapons are required on this mission.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,18,22,22;22,2,,page64:tag6:entity9:key003F0FD6:ref22:ord0;page1847:tag1:entity9:key003F0FD6:ref22:ord0,このミッションでは武器が必要です。,"このミッションでは
 $1
-が必要です。",このミッションでは殺傷武器が必要です。,$1,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+が必要です。",このミッションでは殺傷武器が必要です。,$1,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,"此任务需要：
+$1。","[""此任务需要：\n$1。""]","This mission requires:
+$1.","[""This mission requires:\n$1.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,19,23,23;23,2,,page64:tag6:entity15:key005AFAD2:ref23:ord0;page1847:tag1:entity15:key005AFAD2:ref23:ord0,"このミッションでは
 $1
 が必要です。",このミッションでは殺傷武器が必要です。,"以下の装備は使用できません。
@@ -68,7 +78,7 @@ $1
 $1
 $2
 $3
-$4",,,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+$4",,,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,此任务需要致命武器。,"[""此任务需要致命武器。""]",Lethal weapons are required on this mission.,"[""Lethal weapons are required on this mission.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,20,24,24;24,2,,page64:tag6:entity20:key00693868:ref24:ord0;page1847:tag1:entity20:key00693868:ref24:ord0,このミッションでは殺傷武器が必要です。,"以下の装備は使用できません。
 
 $1
@@ -80,7 +90,17 @@ $4","以下の装備は使用できません。
 $1
 $2
 $3
-$4",$1 | $2 | $3 | $4,,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+$4",$1 | $2 | $3 | $4,,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,"以下装备无法使用：
+
+$1
+$2
+$3
+$4","[""以下装备无法使用：\n\n$1\n$2\n$3\n$4""]","The following equipment cannot be used:
+
+$1
+$2
+$3
+$4","[""The following equipment cannot be used:\n\n$1\n$2\n$3\n$4""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,21,25,25;25,2,,page64:tag6:entity19:key00693748:ref25:ord0;page1847:tag1:entity19:key00693748:ref25:ord0,"以下の装備は使用できません。
 
 $1
@@ -97,7 +117,21 @@ $4","このミッションでは以下の装備は使用できません。
 $1
 $2
 $3
-$4",$1 | $2 | $3 | $4,,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+$4",$1 | $2 | $3 | $4,,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,"以下装备无法在此任务中使用：
+
+$1
+$2
+$3
+$4
+
+仍要继续，请选择OK。","[""以下装备无法在此任务中使用：\n\n$1\n$2\n$3\n$4\n\n仍要继续，请选择OK。""]","The following equipment cannot be used on this mission:
+
+$1
+$2
+$3
+$4
+
+To continue anyway, select OK.","[""The following equipment cannot be used on this mission:\n\n$1\n$2\n$3\n$4\n\nTo continue anyway, select OK.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,22,26,26;26,2,,page64:tag6:entity14:key005A6ACF:ref26:ord0;page1847:tag1:entity14:key005A6ACF:ref26:ord0,"以下の装備は使用できません。
 このままミッションに出撃する場合はOKを選択してください。
 
@@ -109,20 +143,36 @@ $4","このミッションでは以下の装備は使用できません。
 $1
 $2
 $3
-$4",このミッションでは武器・アイテムは装備できません。,$1 | $2 | $3 | $4,,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+$4",このミッションでは武器・アイテムは装備できません。,$1 | $2 | $3 | $4,,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,"以下装备无法在此任务中使用：
+
+$1
+$2
+$3
+$4","[""以下装备无法在此任务中使用：\n\n$1\n$2\n$3\n$4""]","The following equipment cannot be used on this mission:
+
+$1
+$2
+$3
+$4","[""The following equipment cannot be used on this mission:\n\n$1\n$2\n$3\n$4""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,23,27,27;27,2,,page64:tag6:entity23:key0075D179:ref27:ord0;page1847:tag1:entity23:key0075D179:ref27:ord0,"このミッションでは以下の装備は使用できません。
 
 $1
 $2
 $3
-$4",このミッションでは武器・アイテムは装備できません。,その他,,,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
-5D22B9C8,24,28,28;28,2,,page64:tag6:entity25:key0082C55F:ref28:ord0;page1847:tag1:entity25:key0082C55F:ref28:ord0,このミッションでは武器・アイテムは装備できません。,その他,このミッションではスネーク以外のキャラクターは使用できません。,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
-5D22B9C8,25,29,29;29,2,,page64:tag6:entity29:key00A6D60E:ref29:ord0;page1847:tag1:entity29:key00A6D60E:ref29:ord0,その他,このミッションではスネーク以外のキャラクターは使用できません。,スネークは使用できません。,,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
-5D22B9C8,26,30,30;30,2,,page64:tag6:entity10:key0044C1A6:ref30:ord0;page1847:tag1:entity10:key0044C1A6:ref30:ord0,このミッションではスネーク以外のキャラクターは使用できません。,スネークは使用できません。,このミッションではスネークは使用できません。,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+$4",このミッションでは武器・アイテムは装備できません。,その他,,,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,此任务中无法装备任何武器/道具。,"[""此任务中无法装备任何武器/道具。""]",No weapons / items can be equipped on this mission.,"[""No weapons / items can be equipped on this mission.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+5D22B9C8,24,28,28;28,2,,page64:tag6:entity25:key0082C55F:ref28:ord0;page1847:tag1:entity25:key0082C55F:ref28:ord0,このミッションでは武器・アイテムは装備できません。,その他,このミッションではスネーク以外のキャラクターは使用できません。,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,其他,"[""其他""]",Other,"[""Other""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+5D22B9C8,25,29,29;29,2,,page64:tag6:entity29:key00A6D60E:ref29:ord0;page1847:tag1:entity29:key00A6D60E:ref29:ord0,その他,このミッションではスネーク以外のキャラクターは使用できません。,スネークは使用できません。,,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,Snake是此任务唯一可用的角色。,"[""Snake是此任务唯一可用的角色。""]",Snake is the only character available on this mission.,"[""Snake is the only character available on this mission.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+5D22B9C8,26,30,30;30,2,,page64:tag6:entity10:key0044C1A6:ref30:ord0;page1847:tag1:entity10:key0044C1A6:ref30:ord0,このミッションではスネーク以外のキャラクターは使用できません。,スネークは使用できません。,このミッションではスネークは使用できません。,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,Snake不可使用。,"[""Snake不可使用。""]",Snake is not available.,"[""Snake is not available.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,27,31,31;31,2,,page64:tag6:entity21:key006CE686:ref31:ord0;page1847:tag1:entity21:key006CE686:ref31:ord0,スネークは使用できません。,このミッションではスネークは使用できません。,"近くに入隊志願者はいないようです。
-別の場所でお試しください。",,,,NOT_CHECKED,66,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+別の場所でお試しください。",,,,NOT_CHECKED,66,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,此任务中Snake不可使用。,"[""此任务中Snake不可使用。""]",Snake is not available on this mission.,"[""Snake is not available on this mission.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,28,32,32;32,2,,page64:tag6:entity3:key001C9EB3:ref32:ord0;page1847:tag1:entity3:key001C9EB3:ref32:ord0,このミッションではスネークは使用できません。,"近くに入隊志願者はいないようです。
-別の場所でお試しください。",通信ON,,,,NOT_CHECKED,91,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+別の場所でお試しください。",通信ON,,,,NOT_CHECKED,91,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,"无法找到接入点。
+
+附近似乎没有任何志愿者。
+请到别处再试一次。","[""无法找到接入点。\n\n附近似乎没有任何志愿者。\n请到别处再试一次。""]","Unable to locate access point.
+
+There do not appear to be any volunteers nearby.
+Please try again somewhere else.","[""Unable to locate access point.\n\nThere do not appear to be any volunteers nearby.\nPlease try again somewhere else.""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
 5D22B9C8,29,33,33;33,2,,page64:tag6:entity28:key00A45893:ref33:ord0;page1847:tag1:entity28:key00A45893:ref33:ord0,"近くに入隊志願者はいないようです。
-別の場所でお試しください。",通信ON,通信OFF,,,,NOT_CHECKED,8,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
-5D22B9C8,30,34,34;34,2,,page64:tag6:entity7:key002C7FE9:ref34:ord0;page1847:tag1:entity7:key002C7FE9:ref34:ord0,通信ON,通信OFF,   ,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+別の場所でお試しください。",通信ON,通信OFF,,,,NOT_CHECKED,8,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,ONLINE,"[""ONLINE""]",ONLINE,"[""ONLINE""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
+5D22B9C8,30,34,34;34,2,,page64:tag6:entity7:key002C7FE9:ref34:ord0;page1847:tag1:entity7:key002C7FE9:ref34:ord0,通信ON,通信OFF,   ,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2,OFFLINE,"[""OFFLINE""]",OFFLINE,"[""OFFLINE""]",AUX_CN_ATTACHED,exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity,master status=AUX_CN_ATTACHED; mapping method=exact_jpn_slot_page_tag_reference_index;validated_slot_olang_map_entity_identity; candidate attached as auxiliary evidence only; verify against JPN and context; auxiliary candidates only; JPN remains authoritative; verify against JPN text and context
