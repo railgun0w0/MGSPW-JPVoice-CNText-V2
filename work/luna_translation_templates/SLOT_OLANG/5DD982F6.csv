@@ -1,0 +1,316 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5DD982F6,0,0,0;0;0;0,4,,page28:tag15:entity77:key00CAFF60:ref0:ord0;page34:tag13:entity77:key00CAFF60:ref0:ord0;page52:tag4:entity77:key00CAFF60:ref0:ord0;page64:tag11:entity77:key00CAFF60:ref0:ord0,,四つ星コック,大和魂,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,1,1,1;1;1;1,4,,page28:tag15:entity43:key007A85C0:ref1:ord0;page34:tag13:entity43:key007A85C0:ref1:ord0;page52:tag4:entity43:key007A85C0:ref1:ord0;page64:tag11:entity43:key007A85C0:ref1:ord0,四つ星コック,大和魂,薬剤師,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,2,2,2;2;2;2,4,,page28:tag15:entity59:key009D01B9:ref2:ord0;page34:tag13:entity59:key009D01B9:ref2:ord0;page52:tag4:entity59:key009D01B9:ref2:ord0;page64:tag11:entity59:key009D01B9:ref2:ord0,大和魂,薬剤師,チャネラー,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,3,3,3;3;3;3,4,,page28:tag15:entity6:key00205445:ref3:ord0;page34:tag13:entity6:key00205445:ref3:ord0;page52:tag4:entity6:key00205445:ref3:ord0;page64:tag11:entity6:key00205445:ref3:ord0,薬剤師,チャネラー,対戦車ライフル設計,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,4,4,4;4;4;4,4,,page28:tag15:entity84:key00F01D9B:ref4:ord0;page34:tag13:entity84:key00F01D9B:ref4:ord0;page52:tag4:entity84:key00F01D9B:ref4:ord0;page64:tag11:entity84:key00F01D9B:ref4:ord0,チャネラー,対戦車ライフル設計,専門薬剤師,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,5,7,7;7;7;7,4,,page28:tag15:entity60:key009E984E:ref7:ord0;page34:tag13:entity60:key009E984E:ref7:ord0;page52:tag4:entity60:key009E984E:ref7:ord0;page64:tag11:entity60:key009E984E:ref7:ord0,対戦車ライフル設計,専門薬剤師,声優,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,6,8,8;8;8;8,4,,page28:tag15:entity26:key00572982:ref8:ord0;page34:tag13:entity26:key00572982:ref8:ord0;page52:tag4:entity26:key00572982:ref8:ord0;page64:tag11:entity26:key00572982:ref8:ord0,専門薬剤師,声優,プロレスマニア,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,7,10,10;10;10;10,4,,page28:tag15:entity10:key00332E1C:ref10:ord0;page34:tag13:entity10:key00332E1C:ref10:ord0;page52:tag4:entity10:key00332E1C:ref10:ord0;page64:tag11:entity10:key00332E1C:ref10:ord0,声優,プロレスマニア,囮,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,8,11,11;11;11;11,4,,page28:tag15:entity51:key00895999:ref11:ord0;page34:tag13:entity51:key00895999:ref11:ord0;page52:tag4:entity51:key00895999:ref11:ord0;page64:tag11:entity51:key00895999:ref11:ord0,プロレスマニア,囮,熱血漢,,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,9,13,13;13;13;13,4,,page28:tag15:entity16:key00427B3D:ref13:ord0;page34:tag13:entity16:key00427B3D:ref13:ord0;page52:tag4:entity16:key00427B3D:ref13:ord0;page64:tag11:entity16:key00427B3D:ref13:ord0,囮,熱血漢,内科医,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,10,14,14;14;14;14,4,,page28:tag15:entity80:key00D821E3:ref14:ord0;page34:tag13:entity80:key00D821E3:ref14:ord0;page52:tag4:entity80:key00D821E3:ref14:ord0;page64:tag11:entity80:key00D821E3:ref14:ord0,熱血漢,内科医,無線技術,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,11,15,15;15;15;15,4,,page28:tag15:entity57:key00947A45:ref15:ord0;page34:tag13:entity57:key00947A45:ref15:ord0;page52:tag4:entity57:key00947A45:ref15:ord0;page64:tag11:entity57:key00947A45:ref15:ord0,内科医,無線技術,SWAT,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,12,16,16;16;16;16,4,,page28:tag15:entity7:key0021629E:ref16:ord0;page34:tag13:entity7:key0021629E:ref16:ord0;page52:tag4:entity7:key0021629E:ref16:ord0;page64:tag11:entity7:key0021629E:ref16:ord0,無線技術,SWAT,グリーンベレー,,,,NOT_CHECKED,4,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,13,17,17;17;17;17,4,,page28:tag15:entity71:key00BD884D:ref17:ord0;page34:tag13:entity71:key00BD884D:ref17:ord0;page52:tag4:entity71:key00BD884D:ref17:ord0;page64:tag11:entity71:key00BD884D:ref17:ord0,SWAT,グリーンベレー,マザーベース副司令,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,14,18,18;18;18;18,4,,page28:tag15:entity65:key00AF2D02:ref18:ord0;page34:tag13:entity65:key00AF2D02:ref18:ord0;page52:tag4:entity65:key00AF2D02:ref18:ord0;page64:tag11:entity65:key00AF2D02:ref18:ord0,グリーンベレー,マザーベース副司令,三つ星コック,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,15,19,19;19;19;19,4,,page28:tag15:entity76:key00CA3C60:ref19:ord0;page34:tag13:entity76:key00CA3C60:ref19:ord0;page52:tag4:entity76:key00CA3C60:ref19:ord0;page64:tag11:entity76:key00CA3C60:ref19:ord0,マザーベース副司令,三つ星コック,二足歩行兵器設計,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,16,20,20;20;20;20,4,,page28:tag15:entity44:key00812DBC:ref20:ord0;page34:tag13:entity44:key00812DBC:ref20:ord0;page52:tag4:entity44:key00812DBC:ref20:ord0;page64:tag11:entity44:key00812DBC:ref20:ord0,三つ星コック,二足歩行兵器設計,メタマテリアル技術,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,17,21,21;21;21;21,4,,page28:tag15:entity0:key00089CAB:ref21:ord0;page34:tag13:entity0:key00089CAB:ref21:ord0;page52:tag4:entity0:key00089CAB:ref21:ord0;page64:tag11:entity0:key00089CAB:ref21:ord0,二足歩行兵器設計,メタマテリアル技術,M134設計,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,18,22,22;22;22;22,4,,page28:tag15:entity33:key00676664:ref22:ord0;page34:tag13:entity33:key00676664:ref22:ord0;page52:tag4:entity33:key00676664:ref22:ord0;page64:tag11:entity33:key00676664:ref22:ord0,メタマテリアル技術,M134設計,工作員,,,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,19,23,23;23;23;23,4,,page28:tag15:entity56:key00945F6E:ref23:ord0;page34:tag13:entity56:key00945F6E:ref23:ord0;page52:tag4:entity56:key00945F6E:ref23:ord0;page64:tag11:entity56:key00945F6E:ref23:ord0,M134設計,工作員,光学技術,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,20,24,24;24;24;24,4,,page28:tag15:entity52:key008C79BB:ref24:ord0;page34:tag13:entity52:key008C79BB:ref24:ord0;page52:tag4:entity52:key008C79BB:ref24:ord0;page64:tag11:entity52:key008C79BB:ref24:ord0,工作員,光学技術,腰巾着,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,21,25,25;25;25;25,4,,page28:tag15:entity83:key00E93F78:ref25:ord0;page34:tag13:entity83:key00E93F78:ref25:ord0;page52:tag4:entity83:key00E93F78:ref25:ord0;page64:tag11:entity83:key00E93F78:ref25:ord0,光学技術,腰巾着,カウンセラー,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,22,26,26;26;26;26,4,,page28:tag15:entity2:key0011092D:ref26:ord0;page34:tag13:entity2:key0011092D:ref26:ord0;page52:tag4:entity2:key0011092D:ref26:ord0;page64:tag11:entity2:key0011092D:ref26:ord0,腰巾着,カウンセラー,家庭料理,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,23,27,27;27;27;27,4,,page28:tag15:entity79:key00D552F5:ref27:ord0;page34:tag13:entity79:key00D552F5:ref27:ord0;page52:tag4:entity79:key00D552F5:ref27:ord0;page64:tag11:entity79:key00D552F5:ref27:ord0,カウンセラー,家庭料理,五つ星コック,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,24,28,28;28;28;28,4,,page28:tag15:entity25:key00551E28:ref28:ord0;page34:tag13:entity25:key00551E28:ref28:ord0;page52:tag4:entity25:key00551E28:ref28:ord0;page64:tag11:entity25:key00551E28:ref28:ord0,家庭料理,五つ星コック,ガンスミス（スナイパーライフル）,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,25,30,30;30;30;30,4,,page28:tag15:entity47:key0082A361:ref30:ord0;page34:tag13:entity47:key0082A361:ref30:ord0;page52:tag4:entity47:key0082A361:ref30:ord0;page64:tag11:entity47:key0082A361:ref30:ord0,五つ星コック,ガンスミス（スナイパーライフル）,ガンスミス（サブマシンガン）,,,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,26,31,31;31;31;31,4,,page28:tag15:entity73:key00C14351:ref31:ord0;page34:tag13:entity73:key00C14351:ref31:ord0;page52:tag4:entity73:key00C14351:ref31:ord0;page64:tag11:entity73:key00C14351:ref31:ord0,ガンスミス（スナイパーライフル）,ガンスミス（サブマシンガン）,ガンスミス（ショットガン）,,,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,27,32,32;32;32;32,4,,page28:tag15:entity27:key0058285C:ref32:ord0;page34:tag13:entity27:key0058285C:ref32:ord0;page52:tag4:entity27:key0058285C:ref32:ord0;page64:tag11:entity27:key0058285C:ref32:ord0,ガンスミス（サブマシンガン）,ガンスミス（ショットガン）,ガンスミス（マシンガン）,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,28,33,33;33;33;33,4,,page28:tag15:entity67:key00B7A536:ref33:ord0;page34:tag13:entity67:key00B7A536:ref33:ord0;page52:tag4:entity67:key00B7A536:ref33:ord0;page64:tag11:entity67:key00B7A536:ref33:ord0,ガンスミス（ショットガン）,ガンスミス（マシンガン）,ガンスミス（ハンドガン）,,,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,29,34,34;34;34;34,4,,page28:tag15:entity14:key0040258E:ref34:ord0;page34:tag13:entity14:key0040258E:ref34:ord0;page52:tag4:entity14:key0040258E:ref34:ord0;page64:tag11:entity14:key0040258E:ref34:ord0,ガンスミス（マシンガン）,ガンスミス（ハンドガン）,ガンスミス（アサルトライフル）,,,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,30,35,35;35;35;35,4,,page28:tag15:entity46:key00829EC9:ref35:ord0;page34:tag13:entity46:key00829EC9:ref35:ord0;page52:tag4:entity46:key00829EC9:ref35:ord0;page64:tag11:entity46:key00829EC9:ref35:ord0,ガンスミス（ハンドガン）,ガンスミス（アサルトライフル）,外科医,,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,31,36,36;36;36;36,4,,page28:tag15:entity68:key00B9D1AC:ref36:ord0;page34:tag13:entity68:key00B9D1AC:ref36:ord0;page52:tag4:entity68:key00B9D1AC:ref36:ord0;page64:tag11:entity68:key00B9D1AC:ref36:ord0,ガンスミス（アサルトライフル）,外科医,FSLNコマンダンテ,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,32,37,37;37;37;37,4,,page28:tag15:entity53:key008E0127:ref37:ord0;page34:tag13:entity53:key008E0127:ref37:ord0;page52:tag4:entity53:key008E0127:ref37:ord0;page64:tag11:entity53:key008E0127:ref37:ord0,外科医,FSLNコマンダンテ,電磁兵器設計,,,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,33,39,39;39;39;39,4,,page28:tag15:entity38:key007293C5:ref39:ord0;page34:tag13:entity38:key007293C5:ref39:ord0;page52:tag4:entity38:key007293C5:ref39:ord0;page64:tag11:entity38:key007293C5:ref39:ord0,FSLNコマンダンテ,電磁兵器設計,バーダー,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,34,40,40;40;40;40,4,,page28:tag15:entity8:key00295A7B:ref40:ord0;page34:tag13:entity8:key00295A7B:ref40:ord0;page52:tag4:entity8:key00295A7B:ref40:ord0;page64:tag11:entity8:key00295A7B:ref40:ord0,電磁兵器設計,バーダー,愛国者,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,35,41,41;41;41;41,4,,page28:tag15:entity61:key009F6A64:ref41:ord0;page34:tag13:entity61:key009F6A64:ref41:ord0;page52:tag4:entity61:key009F6A64:ref41:ord0;page64:tag11:entity61:key009F6A64:ref41:ord0,バーダー,愛国者,AI開発技術,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,36,42,42;42;42;42,4,,page28:tag15:entity42:key0078A1BC:ref42:ord0;page34:tag13:entity42:key0078A1BC:ref42:ord0;page52:tag4:entity42:key0078A1BC:ref42:ord0;page64:tag11:entity42:key0078A1BC:ref42:ord0,愛国者,AI開発技術,"【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.4の『レーション』の開発が可能になる。",,,,NOT_CHECKED,14,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,37,43,43;43;43;43,4,,page28:tag15:entity22:key004A6C2B:ref43:ord0;page34:tag13:entity22:key004A6C2B:ref43:ord0;page52:tag4:entity22:key004A6C2B:ref43:ord0;page64:tag11:entity22:key004A6C2B:ref43:ord0,AI開発技術,"【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.4の『レーション』の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『種子島』
+　　の開発が可能になる。",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,38,44,44;44;44;44,4,,page28:tag15:entity35:key00681F10:ref44:ord0;page34:tag13:entity35:key00681F10:ref44:ord0;page52:tag4:entity35:key00681F10:ref44:ord0;page64:tag11:entity35:key00681F10:ref44:ord0,"【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.4の『レーション』の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『種子島』
+　　の開発が可能になる。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷と病気の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。",,,,NOT_CHECKED,147,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,39,45,45;50;45;50;45;50;45;50,8,,page28:tag15:entity54:key0093CE61:ref45:ord0;page28:tag15:entity18:key00468F1B:ref50:ord0;page34:tag13:entity54:key0093CE61:ref45:ord0;page34:tag13:entity18:key00468F1B:ref50:ord0;page52:tag4:entity54:key0093CE61:ref45:ord0;page52:tag4:entity18:key00468F1B:ref50:ord0;page64:tag11:entity54:key0093CE61:ref45:ord0;page64:tag11:entity18:key00468F1B:ref50:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『種子島』
+　　の開発が可能になる。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷と病気の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。","【ミッション効果】
+　・アイテムおよび捕虜の位置が詳細マップ上に全て表示される。",,,,NOT_CHECKED,241,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8
+5DD982F6,40,46,46;46;46;46,4,,page28:tag15:entity21:key004A51F8:ref46:ord0;page34:tag13:entity21:key004A51F8:ref46:ord0;page52:tag4:entity21:key004A51F8:ref46:ord0;page64:tag11:entity21:key004A51F8:ref46:ord0,"【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷と病気の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。","【ミッション効果】
+　・アイテムおよび捕虜の位置が詳細マップ上に全て表示される。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『PTRD1941』『PTRS1941』
+　　の開発が可能になる。",,,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,41,47,47;47;47;47,4,,page28:tag15:entity63:key00A34799:ref47:ord0;page34:tag13:entity63:key00A34799:ref47:ord0;page52:tag4:entity63:key00A34799:ref47:ord0;page64:tag11:entity63:key00A34799:ref47:ord0,"【ミッション効果】
+　・アイテムおよび捕虜の位置が詳細マップ上に全て表示される。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『PTRD1941』『PTRS1941』
+　　の開発が可能になる。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷と病気の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。",,,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,42,51,51;51;51;51,4,,page28:tag15:entity75:key00C3F401:ref51:ord0;page34:tag13:entity75:key00C3F401:ref51:ord0;page52:tag4:entity75:key00C3F401:ref51:ord0;page64:tag11:entity75:key00C3F401:ref51:ord0,"【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷と病気の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。","【ミッション効果】
+　・一部の言霊の効果がUPする。","【マザーベース効果】
+　・『医療班』に所属している時、『診療所』内スタッフの回復速度が上昇する。
+【ミッション効果】
+　・味方が瀕死になった時、一定時間、走る速度が上昇する。
+　・心臓マッサージで味方を救済するために必要なボタン連打回数が少なくなる。
+　・心臓マッサージで味方を救済した際、LIFEゲージが通常より多く回復する。",,,,NOT_CHECKED,72,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,43,52,52;52;52;52,4,,page28:tag15:entity48:key0087B70D:ref52:ord0;page34:tag13:entity48:key0087B70D:ref52:ord0;page52:tag4:entity48:key0087B70D:ref52:ord0;page64:tag11:entity48:key0087B70D:ref52:ord0,"【ミッション効果】
+　・一部の言霊の効果がUPする。","【マザーベース効果】
+　・『医療班』に所属している時、『診療所』内スタッフの回復速度が上昇する。
+【ミッション効果】
+　・味方が瀕死になった時、一定時間、走る速度が上昇する。
+　・心臓マッサージで味方を救済するために必要なボタン連打回数が少なくなる。
+　・心臓マッサージで味方を救済した際、LIFEゲージが通常より多く回復する。","【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・CQCで敵兵を倒した時、敵兵が所有しているアイテムが全て出現する。
+　・気力ダメージに対して防御力が上昇する。
+　・気絶状態からの回復が早い。
+　・本スキル所有者同士だとスネークシンクロするまでの時間が短縮される。
+　・一部の言霊の効果がUPする。",,,,NOT_CHECKED,474,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,44,53,53;53;53;53,4,,page28:tag15:entity66:key00B29AE6:ref53:ord0;page34:tag13:entity66:key00B29AE6:ref53:ord0;page52:tag4:entity66:key00B29AE6:ref53:ord0;page64:tag11:entity66:key00B29AE6:ref53:ord0,"【マザーベース効果】
+　・『医療班』に所属している時、『診療所』内スタッフの回復速度が上昇する。
+【ミッション効果】
+　・味方が瀕死になった時、一定時間、走る速度が上昇する。
+　・心臓マッサージで味方を救済するために必要なボタン連打回数が少なくなる。
+　・心臓マッサージで味方を救済した際、LIFEゲージが通常より多く回復する。","【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・CQCで敵兵を倒した時、敵兵が所有しているアイテムが全て出現する。
+　・気力ダメージに対して防御力が上昇する。
+　・気絶状態からの回復が早い。
+　・本スキル所有者同士だとスネークシンクロするまでの時間が短縮される。
+　・一部の言霊の効果がUPする。","【ミッション効果】
+　・優先的に敵の攻撃対象になる。
+　・敵からターゲットされている間は気力が回復し、防御力も上昇する。
+　・盾使用時、スネークフォーメーション中と同様のガード効果を発揮する。",,,,NOT_CHECKED,428,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,45,54,54;54;54;54,4,,page28:tag15:entity32:key0062EE98:ref54:ord0;page34:tag13:entity32:key0062EE98:ref54:ord0;page52:tag4:entity32:key0062EE98:ref54:ord0;page64:tag11:entity32:key0062EE98:ref54:ord0,"【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・CQCで敵兵を倒した時、敵兵が所有しているアイテムが全て出現する。
+　・気力ダメージに対して防御力が上昇する。
+　・気絶状態からの回復が早い。
+　・本スキル所有者同士だとスネークシンクロするまでの時間が短縮される。
+　・一部の言霊の効果がUPする。","【ミッション効果】
+　・優先的に敵の攻撃対象になる。
+　・敵からターゲットされている間は気力が回復し、防御力も上昇する。
+　・盾使用時、スネークフォーメーション中と同様のガード効果を発揮する。","【ミッション効果】
+　・気力ゲージの自然回復量が上昇する。
+　・一部の言霊の効力が上昇する。",,,,NOT_CHECKED,282,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,46,56,56;56;56;56,4,,page28:tag15:entity40:key00751B18:ref56:ord0;page34:tag13:entity40:key00751B18:ref56:ord0;page52:tag4:entity40:key00751B18:ref56:ord0;page64:tag11:entity40:key00751B18:ref56:ord0,"【ミッション効果】
+　・優先的に敵の攻撃対象になる。
+　・敵からターゲットされている間は気力が回復し、防御力も上昇する。
+　・盾使用時、スネークフォーメーション中と同様のガード効果を発揮する。","【ミッション効果】
+　・気力ゲージの自然回復量が上昇する。
+　・一部の言霊の効力が上昇する。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの病気の回復速度が上昇する。",,,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,47,57,57;57;57;57,4,,page28:tag15:entity3:key0017D849:ref57:ord0;page34:tag13:entity3:key0017D849:ref57:ord0;page52:tag4:entity3:key0017D849:ref57:ord0;page64:tag11:entity3:key0017D849:ref57:ord0,"【ミッション効果】
+　・気力ゲージの自然回復量が上昇する。
+　・一部の言霊の効力が上昇する。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの病気の回復速度が上昇する。","【ミッション効果】
+　・敵兵の応援要請を一定の確率で無効化する。
+　・本スキル所有者の数に比例して、上記の効果が増幅される。
+　・マザーベースに支援要請を行う際、支援のランクが上昇する。",,,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,48,58,58;58;58;58,4,,page28:tag15:entity19:key0047A443:ref58:ord0;page34:tag13:entity19:key0047A443:ref58:ord0;page52:tag4:entity19:key0047A443:ref58:ord0;page64:tag11:entity19:key0047A443:ref58:ord0,"【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの病気の回復速度が上昇する。","【ミッション効果】
+　・敵兵の応援要請を一定の確率で無効化する。
+　・本スキル所有者の数に比例して、上記の効果が増幅される。
+　・マザーベースに支援要請を行う際、支援のランクが上昇する。","【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・敵の手足を攻撃時、与えるダメージが増える。
+　・ローリングで敵兵をダウンさせる事ができる。
+　・味方とスネークシンクロするまでの時間が短縮される。
+　・本スキル所有者の数に比例して、ローリングとスネークシンクロ以外の効果が増幅される。",,,,NOT_CHECKED,273,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,49,59,59;59;59;59,4,,page28:tag15:entity30:key00611903:ref59:ord0;page34:tag13:entity30:key00611903:ref59:ord0;page52:tag4:entity30:key00611903:ref59:ord0;page64:tag11:entity30:key00611903:ref59:ord0,"【ミッション効果】
+　・敵兵の応援要請を一定の確率で無効化する。
+　・本スキル所有者の数に比例して、上記の効果が増幅される。
+　・マザーベースに支援要請を行う際、支援のランクが上昇する。","【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・敵の手足を攻撃時、与えるダメージが増える。
+　・ローリングで敵兵をダウンさせる事ができる。
+　・味方とスネークシンクロするまでの時間が短縮される。
+　・本スキル所有者の数に比例して、ローリングとスネークシンクロ以外の効果が増幅される。","【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・射撃時、大ダメージを与える確率が上がる。
+　・LIFEゲージの自然回復量が上昇する。
+　・本スキル所有者の数に比例して、効果が増幅される。",,,,NOT_CHECKED,419,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,50,60,60;60;60;60,4,,page28:tag15:entity69:key00BC61E2:ref60:ord0;page34:tag13:entity69:key00BC61E2:ref60:ord0;page52:tag4:entity69:key00BC61E2:ref60:ord0;page64:tag11:entity69:key00BC61E2:ref60:ord0,"【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・敵の手足を攻撃時、与えるダメージが増える。
+　・ローリングで敵兵をダウンさせる事ができる。
+　・味方とスネークシンクロするまでの時間が短縮される。
+　・本スキル所有者の数に比例して、ローリングとスネークシンクロ以外の効果が増幅される。","【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・射撃時、大ダメージを与える確率が上がる。
+　・LIFEゲージの自然回復量が上昇する。
+　・本スキル所有者の数に比例して、効果が増幅される。","【マザーベース効果】
+　・所属している班内の全てのスタッフの士気が上昇する。",,,,NOT_CHECKED,269,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,51,61,61;61;61;61,4,,page28:tag15:entity50:key0088C201:ref61:ord0;page34:tag13:entity50:key0088C201:ref61:ord0;page52:tag4:entity50:key0088C201:ref61:ord0;page64:tag11:entity50:key0088C201:ref61:ord0,"【ミッション効果】
+　・CQCの攻撃力が上昇する。
+　・射撃時、大ダメージを与える確率が上がる。
+　・LIFEゲージの自然回復量が上昇する。
+　・本スキル所有者の数に比例して、効果が増幅される。","【マザーベース効果】
+　・所属している班内の全てのスタッフの士気が上昇する。","【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.3の『レーション』の開発が可能になる。",,,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,52,62,62;62;62;62,4,,page28:tag15:entity20:key0049A92B:ref62:ord0;page34:tag13:entity20:key0049A92B:ref62:ord0;page52:tag4:entity20:key0049A92B:ref62:ord0;page64:tag11:entity20:key0049A92B:ref62:ord0,"【マザーベース効果】
+　・所属している班内の全てのスタッフの士気が上昇する。","【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.3の『レーション』の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、二足歩行兵器の開発部門が設立される。",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,53,63,63;63;63;63,4,,page28:tag15:entity41:key0077FA64:ref63:ord0;page34:tag13:entity41:key0077FA64:ref63:ord0;page52:tag4:entity41:key0077FA64:ref63:ord0;page64:tag11:entity41:key0077FA64:ref63:ord0,"【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.3の『レーション』の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、二足歩行兵器の開発部門が設立される。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　アイテム『ステルスマット』『ステルス迷彩』
+　　の開発が可能になる。",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,54,64,64;64;64;64,4,,page28:tag15:entity49:key00880975:ref64:ord0;page34:tag13:entity49:key00880975:ref64:ord0;page52:tag4:entity49:key00880975:ref64:ord0;page64:tag11:entity49:key00880975:ref64:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、二足歩行兵器の開発部門が設立される。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　アイテム『ステルスマット』『ステルス迷彩』
+　　の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『M134ガトリング機関銃』
+　　の開発が可能になる。",,,,NOT_CHECKED,189,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,55,65,65;65;65;65,4,,page28:tag15:entity31:key0062CCB8:ref65:ord0;page34:tag13:entity31:key0062CCB8:ref65:ord0;page52:tag4:entity31:key0062CCB8:ref65:ord0;page64:tag11:entity31:key0062CCB8:ref65:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　アイテム『ステルスマット』『ステルス迷彩』
+　　の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『M134ガトリング機関銃』
+　　の開発が可能になる。","【ミッション効果】
+　・大型兵器を攻撃する際、大ダメージを与える確率が上がる。
+　・設置武器の設置速度が速くなる。",,,,NOT_CHECKED,166,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,56,66,66;66;66;66,4,,page28:tag15:entity36:key006DF46D:ref66:ord0;page34:tag13:entity36:key006DF46D:ref66:ord0;page52:tag4:entity36:key006DF46D:ref66:ord0;page64:tag11:entity36:key006DF46D:ref66:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『M134ガトリング機関銃』
+　　の開発が可能になる。","【ミッション効果】
+　・大型兵器を攻撃する際、大ダメージを与える確率が上がる。
+　・設置武器の設置速度が速くなる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　レーザーサイト付きの武器
+　　の開発が可能になる。",,,,NOT_CHECKED,167,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,57,67,67;67;67;67,4,,page28:tag15:entity72:key00BF1996:ref67:ord0;page34:tag13:entity72:key00BF1996:ref67:ord0;page52:tag4:entity72:key00BF1996:ref67:ord0;page64:tag11:entity72:key00BF1996:ref67:ord0,"【ミッション効果】
+　・大型兵器を攻撃する際、大ダメージを与える確率が上がる。
+　・設置武器の設置速度が速くなる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　レーザーサイト付きの武器
+　　の開発が可能になる。","【ミッション効果】
+　・味方が敵を無力化した時、『さすがです！』という言霊を発動させてほめる。
+　・ほめられた味方は、気力が若干回復する。
+　・言霊を使用することでSランク獲得条件を満たさなくなるため、注意が必要。",,,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,58,68,68;68;68;68,4,,page28:tag15:entity12:key003D3ADF:ref68:ord0;page34:tag13:entity12:key003D3ADF:ref68:ord0;page52:tag4:entity12:key003D3ADF:ref68:ord0;page64:tag11:entity12:key003D3ADF:ref68:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　レーザーサイト付きの武器
+　　の開発が可能になる。","【ミッション効果】
+　・味方が敵を無力化した時、『さすがです！』という言霊を発動させてほめる。
+　・ほめられた味方は、気力が若干回復する。
+　・言霊を使用することでSランク獲得条件を満たさなくなるため、注意が必要。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフのPTSDの回復速度が上昇する。",,,,NOT_CHECKED,313,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,59,69,69;69;69;69,4,,page28:tag15:entity23:key0050BF92:ref69:ord0;page34:tag13:entity23:key0050BF92:ref69:ord0;page52:tag4:entity23:key0050BF92:ref69:ord0;page64:tag11:entity23:key0050BF92:ref69:ord0,"【ミッション効果】
+　・味方が敵を無力化した時、『さすがです！』という言霊を発動させてほめる。
+　・ほめられた味方は、気力が若干回復する。
+　・言霊を使用することでSランク獲得条件を満たさなくなるため、注意が必要。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフのPTSDの回復速度が上昇する。","【マザーベース効果】
+　・『糧食班』に所属する事で、MSFの全スタッフの士気が上昇する。",,,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,60,70,70;70;70;70,4,,page28:tag15:entity15:key00421D75:ref70:ord0;page34:tag13:entity15:key00421D75:ref70:ord0;page52:tag4:entity15:key00421D75:ref70:ord0;page64:tag11:entity15:key00421D75:ref70:ord0,"【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフのPTSDの回復速度が上昇する。","【マザーベース効果】
+　・『糧食班』に所属する事で、MSFの全スタッフの士気が上昇する。","【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.5の『レーション』の開発が可能になる。",,,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,61,71,71;71;71;71,4,,page28:tag15:entity17:key0042B778:ref71:ord0;page34:tag13:entity17:key0042B778:ref71:ord0;page52:tag4:entity17:key0042B778:ref71:ord0;page64:tag11:entity17:key0042B778:ref71:ord0,"【マザーベース効果】
+　・『糧食班』に所属する事で、MSFの全スタッフの士気が上昇する。","【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.5の『レーション』の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、スナイパーライフルの開発に必要なGMPが減少する。",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,62,73,73;73;73;73,4,,page28:tag15:entity29:key005C3860:ref73:ord0;page34:tag13:entity29:key005C3860:ref73:ord0;page52:tag4:entity29:key005C3860:ref73:ord0;page64:tag11:entity29:key005C3860:ref73:ord0,"【マザーベース効果】
+　・『糧食班』に所属する事で、Rank.5の『レーション』の開発が可能になる。","【マザーベース効果】
+　・『研究開発班』に所属する事で、スナイパーライフルの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、サブマシンガンの開発に必要なGMPが減少する。",,,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,63,74,74;74;74;74,4,,page28:tag15:entity39:key00746D4F:ref74:ord0;page34:tag13:entity39:key00746D4F:ref74:ord0;page52:tag4:entity39:key00746D4F:ref74:ord0;page64:tag11:entity39:key00746D4F:ref74:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、スナイパーライフルの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、サブマシンガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、ショットガンの開発に必要なGMPが減少する。",,,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,64,75,75;75;75;75,4,,page28:tag15:entity9:key0031BD5B:ref75:ord0;page34:tag13:entity9:key0031BD5B:ref75:ord0;page52:tag4:entity9:key0031BD5B:ref75:ord0;page64:tag11:entity9:key0031BD5B:ref75:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、サブマシンガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、ショットガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、マシンガンの開発に必要なGMPが減少する。",,,,NOT_CHECKED,142,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,65,76,76;76;76;76,4,,page28:tag15:entity1:key000BA09D:ref76:ord0;page34:tag13:entity1:key000BA09D:ref76:ord0;page52:tag4:entity1:key000BA09D:ref76:ord0;page64:tag11:entity1:key000BA09D:ref76:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、ショットガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、マシンガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、ハンドガンの開発に必要なGMPが減少する。",,,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,66,77,77;77;77;77,4,,page28:tag15:entity5:key0019BA8D:ref77:ord0;page34:tag13:entity5:key0019BA8D:ref77:ord0;page52:tag4:entity5:key0019BA8D:ref77:ord0;page64:tag11:entity5:key0019BA8D:ref77:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、マシンガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、ハンドガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、アサルトライフルの開発に必要なGMPが減少する。",,,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,67,78,78;78;78;78,4,,page28:tag15:entity28:key005C33C8:ref78:ord0;page34:tag13:entity28:key005C33C8:ref78:ord0;page52:tag4:entity28:key005C33C8:ref78:ord0;page64:tag11:entity28:key005C33C8:ref78:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、ハンドガンの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、アサルトライフルの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。",,,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,68,79,79;79;79;79,4,,page28:tag15:entity82:key00E3CF5F:ref79:ord0;page34:tag13:entity82:key00E3CF5F:ref79:ord0;page52:tag4:entity82:key00E3CF5F:ref79:ord0;page64:tag11:entity82:key00E3CF5F:ref79:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、アサルトライフルの開発に必要なGMPが減少する。","【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。","【マザーベース効果】
+　・『実戦部隊』に所属する事で、『ゲリラ兵』の士気が上昇する。",,,,NOT_CHECKED,232,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,69,80,80;80;80;80,4,,page28:tag15:entity34:key00679626:ref80:ord0;page34:tag13:entity34:key00679626:ref80:ord0;page52:tag4:entity34:key00679626:ref80:ord0;page64:tag11:entity34:key00679626:ref80:ord0,"【マザーベース効果】
+　・『医療班』に所属する事で、『診療所』内スタッフの負傷の回復速度が上昇する。
+【ミッション効果】
+　・LIFEゲージの自然回復量が上昇する。","【マザーベース効果】
+　・『実戦部隊』に所属する事で、『ゲリラ兵』の士気が上昇する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『電磁波照射ガン。』『電磁ネット。』『レールガン。』
+　　の開発が可能になる。",,,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,70,82,82;82;82;82,4,,page28:tag15:entity64:key00A533A0:ref82:ord0;page34:tag13:entity64:key00A533A0:ref82:ord0;page52:tag4:entity64:key00A533A0:ref82:ord0;page64:tag11:entity64:key00A533A0:ref82:ord0,"【マザーベース効果】
+　・『実戦部隊』に所属する事で、『ゲリラ兵』の士気が上昇する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『電磁波照射ガン。』『電磁ネット。』『レールガン。』
+　　の開発が可能になる。","【ミッション効果】
+　・装備品『双眼鏡』を使用中に敵兵を画面中央に捉え続けると、
+　　『エネミーサーチ』と同様の効果を発揮する。",,,,NOT_CHECKED,210,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,71,83,83;83;83;83,4,,page28:tag15:entity74:key00C2AA68:ref83:ord0;page34:tag13:entity74:key00C2AA68:ref83:ord0;page52:tag4:entity74:key00C2AA68:ref83:ord0;page64:tag11:entity74:key00C2AA68:ref83:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『電磁波照射ガン。』『電磁ネット。』『レールガン。』
+　　の開発が可能になる。","【ミッション効果】
+　・装備品『双眼鏡』を使用中に敵兵を画面中央に捉え続けると、
+　　『エネミーサーチ』と同様の効果を発揮する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『パトリオット』
+　　の開発が可能になる。",,,,NOT_CHECKED,188,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,72,84,84;84;84;84,4,,page28:tag15:entity58:key0096370C:ref84:ord0;page34:tag13:entity58:key0096370C:ref84:ord0;page52:tag4:entity58:key0096370C:ref84:ord0;page64:tag11:entity58:key0096370C:ref84:ord0,"【ミッション効果】
+　・装備品『双眼鏡』を使用中に敵兵を画面中央に捉え続けると、
+　　『エネミーサーチ』と同様の効果を発揮する。","【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『パトリオット』
+　　の開発が可能になる。","【マザーベース効果】
+　・『METAL GEAR ZEKE』にAIの搭載が可能になる。",,,,NOT_CHECKED,156,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5DD982F6,73,85,85;85;85;85,4,,page28:tag15:entity37:key006F6E64:ref85:ord0;page34:tag13:entity37:key006F6E64:ref85:ord0;page52:tag4:entity37:key006F6E64:ref85:ord0;page64:tag11:entity37:key006F6E64:ref85:ord0,"【マザーベース効果】
+　・『研究開発班』に所属する事で、
+　　武器『パトリオット』
+　　の開発が可能になる。","【マザーベース効果】
+　・『METAL GEAR ZEKE』にAIの搭載が可能になる。",四つ星コック,,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4

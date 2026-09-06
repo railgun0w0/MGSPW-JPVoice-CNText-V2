@@ -1,0 +1,170 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+LANG_VOCALOID.OLANG,0,0,0;25;0;25,4,,page23:tag:entity1:key0015DF39:ref0:ord0;page23:tag:entity59:key00DBECDF:ref25:ord0;page88:tag:entity1:key0015DF39:ref0:ord0;page88:tag:entity59:key00DBECDF:ref25:ord0,,LYRICS BY,TITLE,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_VOCALOID.OLANG,1,1,1;27;1;27,4,,page23:tag:entity4:key00E2E82A:ref1:ord0;page23:tag:entity57:key00DBE8DF:ref27:ord0;page88:tag:entity4:key00E2E82A:ref1:ord0;page88:tag:entity57:key00DBE8DF:ref27:ord0,LYRICS BY,TITLE,ORIGINAL TITLE,,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_VOCALOID.OLANG,2,2,2;26;2;26,4,,page23:tag:entity0:key00087E40:ref2:ord0;page23:tag:entity58:key00DBE8E0:ref26:ord0;page88:tag:entity0:key00087E40:ref2:ord0;page88:tag:entity58:key00DBE8E0:ref26:ord0,TITLE,ORIGINAL TITLE,MUSIC BY,,,,NOT_CHECKED,14,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_VOCALOID.OLANG,3,3,3;24;3;24,4,,page23:tag:entity3:key0078E3C8:ref3:ord0;page23:tag:entity60:key00DBECE0:ref24:ord0;page88:tag:entity3:key0078E3C8:ref3:ord0;page88:tag:entity60:key00DBECE0:ref24:ord0,ORIGINAL TITLE,MUSIC BY,方向キー左右で小節切り替えを行い、決定ボタンでその小節の歌詞入力を行います。,,,,NOT_CHECKED,8,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_VOCALOID.OLANG,4,4,4;4,2,,page23:tag:entity2:key00681627:ref4:ord0;page88:tag:entity2:key00681627:ref4:ord0,MUSIC BY,方向キー左右で小節切り替えを行い、決定ボタンでその小節の歌詞入力を行います。,保存,,,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,5,5,5;5,2,,page23:tag:entity15:key009BA4F5:ref5:ord0;page88:tag:entity15:key009BA4F5:ref5:ord0,方向キー左右で小節切り替えを行い、決定ボタンでその小節の歌詞入力を行います。,保存,再生,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,6,6,6;6,2,,page23:tag:entity14:key009A4E69:ref6:ord0;page88:tag:entity14:key009A4E69:ref6:ord0,保存,再生,音の高さ編集,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,7,7,7;7,2,,page23:tag:entity8:key004896DB:ref7:ord0;page88:tag:entity8:key004896DB:ref7:ord0,再生,音の高さ編集,新規作成,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,8,8,8;8,2,,page23:tag:entity11:key0084C9A5:ref8:ord0;page88:tag:entity11:key0084C9A5:ref8:ord0,音の高さ編集,新規作成,編集,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,9,9,9;9,2,,page23:tag:entity13:key00985A54:ref9:ord0;page88:tag:entity13:key00985A54:ref9:ord0,新規作成,編集,編集結果を保存します。,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,10,10,10;10,2,,page23:tag:entity10:key00577AAC:ref10:ord0;page88:tag:entity10:key00577AAC:ref10:ord0,編集,編集結果を保存します。,"編集した声の再生速度と音の高さを確認します。
+（セリフの編集内容は適用されません）",,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,11,11,11;11,2,,page23:tag:entity5:key002239A0:ref11:ord0;page88:tag:entity5:key002239A0:ref11:ord0,編集結果を保存します。,"編集した声の再生速度と音の高さを確認します。
+（セリフの編集内容は適用されません）","原曲を再生します。
+（歌詞の編集内容は適用されません）",,,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,12,12,12;12,2,,page23:tag:entity12:key0095625D:ref12:ord0;page88:tag:entity12:key0095625D:ref12:ord0,"編集した声の再生速度と音の高さを確認します。
+（セリフの編集内容は適用されません）","原曲を再生します。
+（歌詞の編集内容は適用されません）",音の高さを編集します。言葉のイントネーションを調整する事が出来ます。,,,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,13,13,13;13,2,,page23:tag:entity16:key00C34DB2:ref13:ord0;page88:tag:entity16:key00C34DB2:ref13:ord0,"原曲を再生します。
+（歌詞の編集内容は適用されません）",音の高さを編集します。言葉のイントネーションを調整する事が出来ます。,新しくデータを作成します。,,,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,14,14,14;14,2,,page23:tag:entity7:key003AA853:ref14:ord0;page88:tag:entity7:key003AA853:ref14:ord0,音の高さを編集します。言葉のイントネーションを調整する事が出来ます。,新しくデータを作成します。,前回の続きから引き続き編集をおこないます。,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,15,15,15;15,2,,page23:tag:entity9:key0054300B:ref15:ord0;page88:tag:entity9:key0054300B:ref15:ord0,新しくデータを作成します。,前回の続きから引き続き編集をおこないます。,セーブデータ選択削除機能を起動します。,,,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,16,16,16;16,2,,page23:tag:entity6:key0025C025:ref16:ord0;page88:tag:entity6:key0025C025:ref16:ord0,前回の続きから引き続き編集をおこないます。,セーブデータ選択削除機能を起動します。,削除,,,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,17,17,17;17,2,,page23:tag:entity17:key00CEE535:ref17:ord0;page88:tag:entity17:key00CEE535:ref17:ord0,セーブデータ選択削除機能を起動します。,削除,HELP,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,18,18,18;18,2,,page23:tag:entity22:key0025C05C:ref18:ord0;page88:tag:entity22:key0025C05C:ref18:ord0,削除,HELP,TEMPO,,,,NOT_CHECKED,4,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,19,19,19;19,2,,page23:tag:entity45:key009BB6FD:ref19:ord0;page88:tag:entity45:key009BB6FD:ref19:ord0,HELP,TEMPO,AUTHOR,,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,20,20,20;20,2,,page23:tag:entity44:key009BB6FC:ref20:ord0;page88:tag:entity44:key009BB6FC:ref20:ord0,TEMPO,AUTHOR,VOICE,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,21,21,21;21,2,,page23:tag:entity43:key009BB6FB:ref21:ord0;page88:tag:entity43:key009BB6FB:ref21:ord0,AUTHOR,VOICE,SUBTITLE,,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,22,22,22;22,2,,page23:tag:entity42:key009BB6FA:ref22:ord0;page88:tag:entity42:key009BB6FA:ref22:ord0,VOICE,SUBTITLE,LYRICS,,,,NOT_CHECKED,8,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,23,23,23;23,2,,page23:tag:entity41:key009BB6F8:ref23:ord0;page88:tag:entity41:key009BB6F8:ref23:ord0,SUBTITLE,LYRICS,MUSIC BY,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,24,28,28;28,2,,page23:tag:entity40:key009960B6:ref28:ord0;page88:tag:entity40:key009960B6:ref28:ord0,TITLE,LENGTH,SONG TITLE,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,25,29,29;29,2,,page23:tag:entity39:key009960B5:ref29:ord0;page88:tag:entity39:key009960B5:ref29:ord0,LENGTH,SONG TITLE,VOCALOID,,,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,26,30,30;31;30;31,4,,page23:tag:entity65:key00F7C3D5:ref30:ord0;page23:tag:entity32:key00765DEC:ref31:ord0;page88:tag:entity65:key00F7C3D5:ref30:ord0;page88:tag:entity32:key00765DEC:ref31:ord0,SONG TITLE,VOCALOID,WALKMAN SONG EDIT,,,,NOT_CHECKED,8,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_VOCALOID.OLANG,27,32,32;32,2,,page23:tag:entity53:key00CE5723:ref32:ord0;page88:tag:entity53:key00CE5723:ref32:ord0,VOCALOID,WALKMAN SONG EDIT,SYSTEM VOICE EDIT,,,,NOT_CHECKED,17,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,28,33,33;33,2,,page23:tag:entity26:key003215BB:ref33:ord0;page88:tag:entity26:key003215BB:ref33:ord0,WALKMAN SONG EDIT,SYSTEM VOICE EDIT,METAL GEAR ZEKE VOICE EDIT,,,,NOT_CHECKED,17,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,29,34,34;34,2,,page23:tag:entity31:key00756601:ref34:ord0;page88:tag:entity31:key00756601:ref34:ord0,SYSTEM VOICE EDIT,METAL GEAR ZEKE VOICE EDIT,METAL GEAR ZEKE SONG EDIT,,,,NOT_CHECKED,26,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,30,35,35;35,2,,page23:tag:entity62:key00E88EBE:ref35:ord0;page88:tag:entity62:key00E88EBE:ref35:ord0,METAL GEAR ZEKE VOICE EDIT,METAL GEAR ZEKE SONG EDIT,CO-OPS COMM. EDIT,,,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,31,36,36;36,2,,page23:tag:entity18:key0006084B:ref36:ord0;page88:tag:entity18:key0006084B:ref36:ord0,METAL GEAR ZEKE SONG EDIT,CO-OPS COMM. EDIT,VOCALOIDヘルプ,,,,NOT_CHECKED,17,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,32,37,37;37,2,,page23:tag:entity50:key00B09651:ref37:ord0;page88:tag:entity50:key00B09651:ref37:ord0,CO-OPS COMM. EDIT,VOCALOIDヘルプ,入力歌詞は英語にのみ対応しております。,,,,NOT_CHECKED,17,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,33,38,38;38,2,,page23:tag:entity21:key0023CE51:ref38:ord0;page88:tag:entity21:key0023CE51:ref38:ord0,VOCALOIDヘルプ,入力歌詞は英語にのみ対応しております。,"VOCALOIDエディタでは、ゲーム中で使用するための楽曲や
+音声データの編集を行うことができます。
+編集したデータを使用するには、
+NetVOCALOIDサービスを通じて音声データへの変換を行う
+必要があります。
+
+編集したデータの変換を行うには、
+EXTRAS内の『ネットワーク』を選択し、
+インターネットへの接続とPlayStation<I=REG>Networkへの
+サインインを行う必要があります。
+PlayStation<I=REG>Networkアカウントの取得は、PSP<I=TM>の
+XMB<I=TM>（クロスメディアバー）から行うことができます。
+インターネット接続後、『NetVOCALOID』メニューの
+『データ変換リクエスト』からへ編集したデータを
+送信してください。
+
+変換リクエスト後、『変換済データを受信』を選択することにより、
+楽曲・音声データをメモリースティック<I=TM>にダウンロードできます。
+
+ダウンロードしたデータは、ゲーム内のWALKMANを用いて再生したり、
+各種メニューから設定することで、
+ゲーム中の音声と差し替えることができます。
+またEXTRAS内の『データ管理』メニューなどから、
+『追加コンテンツの管理』を選択することで試聴も可能です。
+
+ダウンロードした楽曲・音声は自分のPSP<I=TM>のみから再生されます。
+（CO-OPS相手のPSP<I=TM>では再生されません）",,,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,34,39,39;39,2,,page23:tag:entity47:key009CE8DE:ref39:ord0;page88:tag:entity47:key009CE8DE:ref39:ord0,入力歌詞は英語にのみ対応しております。,"VOCALOIDエディタでは、ゲーム中で使用するための楽曲や
+音声データの編集を行うことができます。
+編集したデータを使用するには、
+NetVOCALOIDサービスを通じて音声データへの変換を行う
+必要があります。
+
+編集したデータの変換を行うには、
+EXTRAS内の『ネットワーク』を選択し、
+インターネットへの接続とPlayStation<I=REG>Networkへの
+サインインを行う必要があります。
+PlayStation<I=REG>Networkアカウントの取得は、PSP<I=TM>の
+XMB<I=TM>（クロスメディアバー）から行うことができます。
+インターネット接続後、『NetVOCALOID』メニューの
+『データ変換リクエスト』からへ編集したデータを
+送信してください。
+
+変換リクエスト後、『変換済データを受信』を選択することにより、
+楽曲・音声データをメモリースティック<I=TM>にダウンロードできます。
+
+ダウンロードしたデータは、ゲーム内のWALKMANを用いて再生したり、
+各種メニューから設定することで、
+ゲーム中の音声と差し替えることができます。
+またEXTRAS内の『データ管理』メニューなどから、
+『追加コンテンツの管理』を選択することで試聴も可能です。
+
+ダウンロードした楽曲・音声は自分のPSP<I=TM>のみから再生されます。
+（CO-OPS相手のPSP<I=TM>では再生されません）",作成する音声の情報を編集します。,<I=REG> | <I=REG> | <I=TM> | <I=TM> | <I=TM> | <I=TM> | <I=TM>,,,NOT_CHECKED,1508,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,35,40,40;40,2,,page23:tag:entity49:key00ABEAC6:ref40:ord0;page88:tag:entity49:key00ABEAC6:ref40:ord0,"VOCALOIDエディタでは、ゲーム中で使用するための楽曲や
+音声データの編集を行うことができます。
+編集したデータを使用するには、
+NetVOCALOIDサービスを通じて音声データへの変換を行う
+必要があります。
+
+編集したデータの変換を行うには、
+EXTRAS内の『ネットワーク』を選択し、
+インターネットへの接続とPlayStation<I=REG>Networkへの
+サインインを行う必要があります。
+PlayStation<I=REG>Networkアカウントの取得は、PSP<I=TM>の
+XMB<I=TM>（クロスメディアバー）から行うことができます。
+インターネット接続後、『NetVOCALOID』メニューの
+『データ変換リクエスト』からへ編集したデータを
+送信してください。
+
+変換リクエスト後、『変換済データを受信』を選択することにより、
+楽曲・音声データをメモリースティック<I=TM>にダウンロードできます。
+
+ダウンロードしたデータは、ゲーム内のWALKMANを用いて再生したり、
+各種メニューから設定することで、
+ゲーム中の音声と差し替えることができます。
+またEXTRAS内の『データ管理』メニューなどから、
+『追加コンテンツの管理』を選択することで試聴も可能です。
+
+ダウンロードした楽曲・音声は自分のPSP<I=TM>のみから再生されます。
+（CO-OPS相手のPSP<I=TM>では再生されません）",作成する音声の情報を編集します。,作成する楽曲の情報を編集します。,,,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,36,41,41;41,2,,page23:tag:entity29:key006FE833:ref41:ord0;page88:tag:entity29:key006FE833:ref41:ord0,作成する音声の情報を編集します。,作成する楽曲の情報を編集します。,編集する楽曲を選択します。,,,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,37,42,42;42,2,,page23:tag:entity66:key00F8EF41:ref42:ord0;page88:tag:entity66:key00F8EF41:ref42:ord0,作成する楽曲の情報を編集します。,編集する楽曲を選択します。,VOCALOIDデータの種類を選択します。変換方法については『HELP』をご参照ください。,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,38,43,43;43,2,,page23:tag:entity54:key00D603B2:ref43:ord0;page88:tag:entity54:key00D603B2:ref43:ord0,編集する楽曲を選択します。,VOCALOIDデータの種類を選択します。変換方法については『HELP』をご参照ください。,"編集データが保存されていませんが、
+編集を終了してもよろしいですか？",,,,NOT_CHECKED,111,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,39,44,44;44,2,,page23:tag:entity23:key0026F760:ref44:ord0;page88:tag:entity23:key0026F760:ref44:ord0,VOCALOIDデータの種類を選択します。変換方法については『HELP』をご参照ください。,"編集データが保存されていませんが、
+編集を終了してもよろしいですか？",このデータを編集するために必要な楽曲データがありません。,,,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,40,45,45;45,2,,page23:tag:entity61:key00E0D4C3:ref45:ord0;page88:tag:entity61:key00E0D4C3:ref45:ord0,"編集データが保存されていませんが、
+編集を終了してもよろしいですか？",このデータを編集するために必要な楽曲データがありません。,みにゅうりょく,,,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,41,46,46;46,2,,page23:tag:entity46:key009CBD4A:ref46:ord0;page88:tag:entity46:key009CBD4A:ref46:ord0,このデータを編集するために必要な楽曲データがありません。,みにゅうりょく,(未入力),,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,42,47,47;47,2,,page23:tag:entity51:key00B915B6:ref47:ord0;page88:tag:entity51:key00B915B6:ref47:ord0,みにゅうりょく,(未入力),再生速度・音の高さ確認：,,,,NOT_CHECKED,11,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,43,48,48;48,2,,page23:tag:entity33:key0080C9BD:ref48:ord0;page88:tag:entity33:key0080C9BD:ref48:ord0,(未入力),再生速度・音の高さ確認：,元曲の再生：,,,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,44,49,49;49,2,,page23:tag:entity52:key00CB9E60:ref49:ord0;page88:tag:entity52:key00CB9E60:ref49:ord0,再生速度・音の高さ確認：,元曲の再生：,保存/削除/音の高さ編集：,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,45,50,50;50,2,,page23:tag:entity55:key00D6098F:ref50:ord0;page88:tag:entity55:key00D6098F:ref50:ord0,元曲の再生：,保存/削除/音の高さ編集：,保存/削除：,,,,NOT_CHECKED,35,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,46,51,51;51,2,,page23:tag:entity20:key0014F360:ref51:ord0;page88:tag:entity20:key0014F360:ref51:ord0,保存/削除/音の高さ編集：,保存/削除：,編集データ保存,,,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,47,52,52;52,2,,page23:tag:entity25:key002E855D:ref52:ord0;page88:tag:entity25:key002E855D:ref52:ord0,保存/削除：,編集データ保存,"WALKMAN楽曲の歌詞を編集します。
+NetVOCALOIDサービスで変換した曲はゲーム内のWALKMANで聴くことができます。",,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,48,53,53;53,2,,page23:tag:entity63:key00EA8CB8:ref53:ord0;page88:tag:entity63:key00EA8CB8:ref53:ord0,編集データ保存,"WALKMAN楽曲の歌詞を編集します。
+NetVOCALOIDサービスで変換した曲はゲーム内のWALKMANで聴くことができます。","システム音声を編集します。
+変換した音声は『OPTIONS』にてCO-OPイン・アウトなどの音声と差し替えて使用します。",,,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,49,54,54;54,2,,page23:tag:entity56:key00DAF767:ref54:ord0;page88:tag:entity56:key00DAF767:ref54:ord0,"WALKMAN楽曲の歌詞を編集します。
+NetVOCALOIDサービスで変換した曲はゲーム内のWALKMANで聴くことができます。","システム音声を編集します。
+変換した音声は『OPTIONS』にてCO-OPイン・アウトなどの音声と差し替えて使用します。",編集する楽曲を選択してください。,,,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,50,55,55;55,2,,page23:tag:entity19:key00111BB5:ref55:ord0;page88:tag:entity19:key00111BB5:ref55:ord0,"システム音声を編集します。
+変換した音声は『OPTIONS』にてCO-OPイン・アウトなどの音声と差し替えて使用します。",編集する楽曲を選択してください。,"『METAL GEAR ZEKE』用音声を編集します。
+変換した音声はマザーベースの『METAL GEAR』メニューからZEKEに割り当てます。",,,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,51,56,56;56,2,,page23:tag:entity35:key0082CB48:ref56:ord0;page88:tag:entity35:key0082CB48:ref56:ord0,編集する楽曲を選択してください。,"『METAL GEAR ZEKE』用音声を編集します。
+変換した音声はマザーベースの『METAL GEAR』メニューからZEKEに割り当てます。","『METAL GEAR ZEKE』用楽曲の歌詞を編集します。
+変換した曲は『EXTRA OPS』にてZEKEとの戦闘中に聴くことができます。",,,,NOT_CHECKED,156,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,52,57,57;57,2,,page23:tag:entity64:key00F5F405:ref57:ord0;page88:tag:entity64:key00F5F405:ref57:ord0,"『METAL GEAR ZEKE』用音声を編集します。
+変換した音声はマザーベースの『METAL GEAR』メニューからZEKEに割り当てます。","『METAL GEAR ZEKE』用楽曲の歌詞を編集します。
+変換した曲は『EXTRA OPS』にてZEKEとの戦闘中に聴くことができます。","CO-OPS通信の音声を編集します。
+変換した音声は『ENTRY GATE』から『CO-OPS COMM.』でCO-OPS通信に割り当てます。",,,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,53,58,58;58,2,,page23:tag:entity36:key008CBAEE:ref58:ord0;page88:tag:entity36:key008CBAEE:ref58:ord0,"『METAL GEAR ZEKE』用楽曲の歌詞を編集します。
+変換した曲は『EXTRA OPS』にてZEKEとの戦闘中に聴くことができます。","CO-OPS通信の音声を編集します。
+変換した音声は『ENTRY GATE』から『CO-OPS COMM.』でCO-OPS通信に割り当てます。",VOCALOID編集および変換の説明を閲覧します。,,,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,54,59,59;59,2,,page23:tag:entity38:key0090E5D6:ref59:ord0;page88:tag:entity38:key0090E5D6:ref59:ord0,"CO-OPS通信の音声を編集します。
+変換した音声は『ENTRY GATE』から『CO-OPS COMM.』でCO-OPS通信に割り当てます。",VOCALOID編集および変換の説明を閲覧します。,歌詞を編集します。,,,,NOT_CHECKED,59,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,55,60,60;60,2,,page23:tag:entity34:key0081B45C:ref60:ord0;page88:tag:entity34:key0081B45C:ref60:ord0,VOCALOID編集および変換の説明を閲覧します。,歌詞を編集します。,発音用セリフを編集します。,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,56,61,61;61,2,,page23:tag:entity30:key0071902E:ref61:ord0;page88:tag:entity30:key0071902E:ref61:ord0,歌詞を編集します。,発音用セリフを編集します。,タイトルを編集します。,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,57,62,62;62,2,,page23:tag:entity28:key004EBD4E:ref62:ord0;page88:tag:entity28:key004EBD4E:ref62:ord0,発音用セリフを編集します。,タイトルを編集します。,再生速度を編集します。,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,58,63,63;63,2,,page23:tag:entity27:key004CA1D8:ref63:ord0;page88:tag:entity27:key004CA1D8:ref63:ord0,タイトルを編集します。,再生速度を編集します。,表示用セリフを編集します。,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,59,64,64;64,2,,page23:tag:entity24:key002B0020:ref64:ord0;page88:tag:entity24:key002B0020:ref64:ord0,再生速度を編集します。,表示用セリフを編集します。,作者を編集します。,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,60,65,65;65,2,,page23:tag:entity67:key00FA75F2:ref65:ord0;page88:tag:entity67:key00FA75F2:ref65:ord0,表示用セリフを編集します。,作者を編集します。,作詞者を編集します。,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,61,66,66;66,2,,page23:tag:entity48:key00A18511:ref66:ord0;page88:tag:entity48:key00A18511:ref66:ord0,作者を編集します。,作詞者を編集します。,"$1
+$2",,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,62,67,67;67,2,,page23:tag:entity37:key008DD6AB:ref67:ord0;page88:tag:entity37:key008DD6AB:ref67:ord0,作詞者を編集します。,"$1
+$2",方向キー左右でノード選択、方向キー上下で音の高さの調整をおこないます。,$1 | $2,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_VOCALOID.OLANG,63,68,68;68,2,,page23:tag:entity68:key00A8390C:ref68:ord0;page88:tag:entity68:key00A8390C:ref68:ord0,"$1
+$2",方向キー左右でノード選択、方向キー上下で音の高さの調整をおこないます。,LYRICS BY,,,,NOT_CHECKED,105,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2

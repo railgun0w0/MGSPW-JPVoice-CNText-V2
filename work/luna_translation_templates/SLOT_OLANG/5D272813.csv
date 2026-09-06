@@ -1,0 +1,62 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D272813,0,0,0,1,,page76:tag5:entity1:key00F29383:ref0:ord0,,注視点の、上、下の操作方法を設定します,カメラボタン,,,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,1,1,1;11,2,,page76:tag5:entity0:key00F19383:ref1:ord0;page76:tag5:entity10:key00F19383:ref11:ord0,注視点の、上、下の操作方法を設定します,カメラボタン,"これでよければ、アクションボタンを押してください
+△ボタン：上を見る
+×ボタン：下を見る",,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D272813,2,2,2,1,,page76:tag5:entity3:key00F29383:ref2:ord0,カメラボタン,"これでよければ、アクションボタンを押してください
+△ボタン：上を見る
+×ボタン：下を見る",アクションボタン,,,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,3,3,3;5;7;9;13;15;17;19,8,,page76:tag5:entity2:key00F19383:ref3:ord0;page76:tag5:entity4:key00F19383:ref5:ord0;page76:tag5:entity6:key00F19383:ref7:ord0;page76:tag5:entity8:key00F19383:ref9:ord0;page76:tag5:entity12:key00F19383:ref13:ord0;page76:tag5:entity14:key00F19383:ref15:ord0;page76:tag5:entity16:key00F19383:ref17:ord0;page76:tag5:entity18:key00F19383:ref19:ord0,"これでよければ、アクションボタンを押してください
+△ボタン：上を見る
+×ボタン：下を見る",アクションボタン,"これでよければ、アクションボタンを押してください
+△ボタン：下を見る
+×ボタン：上を見る",,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8
+5D272813,4,4,4,1,,page76:tag5:entity5:key00F29383:ref4:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+△ボタン：下を見る
+×ボタン：上を見る",アクションボタン,,,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,5,6,6,1,,page76:tag5:entity7:key00F29383:ref6:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー上：上を見る
+方向キー下：下を見る",アクションボタン,,,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,6,8,8,1,,page76:tag5:entity9:key00F29383:ref8:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー上：下を見る
+方向キー下：上を見る",アクションボタン,,,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,7,10,10,1,,page76:tag5:entity11:key00F29383:ref10:ord0,アクションボタン,注視点の、左、右の操作方法を設定します,カメラボタン,,,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,8,12,12,1,,page76:tag5:entity13:key00F29383:ref12:ord0,カメラボタン,"これでよければ、アクションボタンを押してください
+□ボタン：左を見る
+○ボタン：右を見る",アクションボタン,,,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,9,14,14,1,,page76:tag5:entity15:key00F29383:ref14:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+□ボタン：右を見る
+○ボタン：左を見る",アクションボタン,,,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,10,16,16,1,,page76:tag5:entity17:key00F29383:ref16:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー左：左を見る
+方向キー右：右を見る",アクションボタン,,,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,11,18,18,1,,page76:tag5:entity19:key00F29383:ref18:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー左：右を見る
+方向キー右：左を見る",アクションボタン,,,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,12,20,20;22;30;32;42;43,6,,page76:tag5:entity21:key00F29383:ref20:ord0;page76:tag5:entity23:key00F29383:ref22:ord0;page76:tag5:entity31:key00F29383:ref30:ord0;page76:tag5:entity33:key00F29383:ref32:ord0;page76:tag5:entity43:key00F29383:ref42:ord0;page76:tag5:entity42:key00F19383:ref43:ord0,アクションボタン,　　　　　,しゃがみボタン,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D272813,13,21,21,1,,page76:tag5:entity20:key00F19383:ref21:ord0,　　　　　,しゃがみボタン,　　　　　,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,14,23,23;39,2,,page76:tag5:entity22:key00F19383:ref23:ord0;page76:tag5:entity38:key00F19383:ref39:ord0,　　　　　,アナログパッド,"相手が離れていて、
+走っている時",,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D272813,15,24,24;26,2,,page76:tag5:entity25:key00F29383:ref24:ord0;page76:tag5:entity27:key00F29383:ref26:ord0,アナログパッド,"相手が離れていて、
+走っている時",アナログパッド + 攻撃ボタン（ちょい押し）,,,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D272813,16,25,25,1,,page76:tag5:entity24:key00F19383:ref25:ord0,"相手が離れていて、
+走っている時",アナログパッド + 攻撃ボタン（ちょい押し）,"相手が離れていて、
+走っている時",,,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,17,27,27,1,,page76:tag5:entity26:key00F19383:ref27:ord0,"相手が離れていて、
+走っている時",アナログパッド + しゃがみボタン,攻撃ボタン,,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,18,29,29;37;41,3,,page76:tag5:entity28:key00F19383:ref29:ord0;page76:tag5:entity36:key00F19383:ref37:ord0;page76:tag5:entity40:key00F19383:ref41:ord0,アナログパッド + しゃがみボタン,攻撃ボタン,　　　　　,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3
+5D272813,19,31,31,1,,page76:tag5:entity30:key00F19383:ref31:ord0,　　　　　,構えボタン + 攻撃ボタン,　　　　　,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,20,33,33,1,,page76:tag5:entity32:key00F19383:ref33:ord0,　　　　　,構えボタン + 武器攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,21,34,34;36;44;46,4,,page76:tag5:entity35:key00F29383:ref34:ord0;page76:tag5:entity37:key00F29383:ref36:ord0;page76:tag5:entity45:key00F29383:ref44:ord0;page76:tag5:entity47:key00F29383:ref46:ord0,構えボタン + 武器攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",アナログパッド + 攻撃ボタン,,,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5D272813,22,35,35,1,,page76:tag5:entity34:key00F19383:ref35:ord0,"相手が近くにいて、
+アイコンが出ている時",アナログパッド + 攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,23,38,38,1,,page76:tag5:entity39:key00F29383:ref38:ord0,攻撃ボタン,拘束している時,アナログパッド,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,24,40,40;50,2,,page76:tag5:entity41:key00F29383:ref40:ord0;page76:tag5:entity51:key00F29383:ref50:ord0,アナログパッド,相手を投げている時,攻撃ボタン,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D272813,25,45,45,1,,page76:tag5:entity44:key00F19383:ref45:ord0,"相手が近くにいて、
+アイコンが出ている時",アナログパッド + 素手攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D272813,26,47,47;49;51,3,,page76:tag5:entity46:key00F19383:ref47:ord0;page76:tag5:entity48:key00F19383:ref49:ord0;page76:tag5:entity50:key00F19383:ref51:ord0,"相手が近くにいて、
+アイコンが出ている時",素手攻撃ボタン,相手を投げている時,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3

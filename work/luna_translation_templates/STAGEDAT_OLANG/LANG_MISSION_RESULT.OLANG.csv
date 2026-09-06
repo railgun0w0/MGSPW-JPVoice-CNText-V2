@@ -1,0 +1,1366 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+LANG_MISSION_RESULT.OLANG,0,0,0,1,,page174:tag:entity83:key009BA32B:ref0:ord0,,武器経験値,ミッション統計,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,1,1,1,1,,page174:tag:entity80:key0095CB8A:ref1:ord0,武器経験値,ミッション統計,英雄度,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,2,2,2,1,,page174:tag:entity54:key002FE904:ref2:ord0,ミッション統計,英雄度,友情度,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,3,3,3,1,,page174:tag:entity64:key006F76E0:ref3:ord0,英雄度,友情度,パスの好感度,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,4,4,4,1,,page174:tag:entity81:key009613F1:ref4:ord0,友情度,パスの好感度,カズの好感度,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,5,5,5,1,,page174:tag:entity66:key00738816:ref5:ord0,パスの好感度,カズの好感度,ステルスマットをかけた回数 ,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,6,6,6,1,,page174:tag:entity146:key00D5E54A:ref6:ord0,カズの好感度,ステルスマットをかけた回数 ,ダンボール戦車移動距離,,,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,7,7,7,1,,page174:tag:entity145:key00D5E549:ref7:ord0,ステルスマットをかけた回数 ,ダンボール戦車移動距離,ダンボール戦車時間 ,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,8,8,8,1,,page174:tag:entity144:key00D5E548:ref8:ord0,ダンボール戦車移動距離,ダンボール戦車時間 ,ラブダンボール移動距離,,,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,9,9,9,1,,page174:tag:entity143:key00D5E547:ref9:ord0,ダンボール戦車時間 ,ラブダンボール移動距離,ミサイル迎撃成功数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,10,10,10,1,,page174:tag:entity135:key00BCA912:ref10:ord0,ラブダンボール移動距離,ミサイル迎撃成功数,防衛した重要物資数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,11,11,11,1,,page174:tag:entity134:key00BCA911:ref11:ord0,ミサイル迎撃成功数,防衛した重要物資数,連続拷問回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,12,12,12,1,,page174:tag:entity133:key00BCA910:ref12:ord0,防衛した重要物資数,連続拷問回数,CQC拘束投げ回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,13,13,13,1,,page174:tag:entity132:key00BCA90F:ref13:ord0,連続拷問回数,CQC拘束投げ回数,気絶回数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,14,14,14,1,,page174:tag:entity131:key00BCA90E:ref14:ord0,CQC拘束投げ回数,気絶回数,睡眠回数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,15,15,15,1,,page174:tag:entity130:key00BCA90D:ref15:ord0,気絶回数,睡眠回数,総撮影成功数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,16,16,16,1,,page174:tag:entity129:key00BCA90C:ref16:ord0,睡眠回数,総撮影成功数,撮影成功数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,17,17,17,1,,page174:tag:entity128:key00BCA90B:ref17:ord0,総撮影成功数,撮影成功数,クレイモア解除回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,18,18,18,1,,page174:tag:entity127:key00BCA90A:ref18:ord0,撮影成功数,クレイモア解除回数,ラブダンボール時間,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,19,19,19,1,,page174:tag:entity142:key00D5E546:ref19:ord0,クレイモア解除回数,ラブダンボール時間,防衛した拠点数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,20,20,20,1,,page174:tag:entity126:key00BCA8F3:ref20:ord0,ラブダンボール時間,防衛した拠点数,ターゲット破壊数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,21,21,21,1,,page174:tag:entity125:key00BCA8F2:ref21:ord0,防衛した拠点数,ターゲット破壊数,射撃的得点,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,22,22,22,1,,page174:tag:entity124:key00BCA8F1:ref22:ord0,ターゲット破壊数,射撃的得点,射撃的破壊回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,23,23,23,1,,page174:tag:entity123:key00BCA8F0:ref23:ord0,射撃的得点,射撃的破壊回数,アイテム取得回数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,24,24,24,1,,page174:tag:entity122:key00BCA8EF:ref24:ord0,射撃的破壊回数,アイテム取得回数,尋問回数,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,25,25,25;129,2,,page174:tag:entity121:key00BCA8EE:ref25:ord0;page174:tag:entity73:key008F657F:ref129:ord0,アイテム取得回数,尋問回数,『モンスターハンター』モンスター全部位破壊回数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,26,26,26,1,,page174:tag:entity120:key00BCA8ED:ref26:ord0,尋問回数,『モンスターハンター』モンスター全部位破壊回数,汎用パーツ所持数,,,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,27,27,27,1,,page174:tag:entity119:key00BCA8EC:ref27:ord0,『モンスターハンター』モンスター全部位破壊回数,汎用パーツ所持数,所持オプションパーツ破損率,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,28,28,28,1,,page174:tag:entity118:key00BCA8EB:ref28:ord0,汎用パーツ所持数,所持オプションパーツ破損率,オプションパーツ所持数,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,29,29,29,1,,page174:tag:entity117:key00BCA8EA:ref29:ord0,所持オプションパーツ破損率,オプションパーツ所持数,スネークフォーメーションをリードした距離,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,30,30,30,1,,page174:tag:entity141:key00D5E545:ref30:ord0,オプションパーツ所持数,スネークフォーメーションをリードした距離,所持ヘッドパーツ破損率,,,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,31,31,31,1,,page174:tag:entity116:key00BCA8D3:ref31:ord0,スネークフォーメーションをリードした距離,所持ヘッドパーツ破損率,ヘッドパーツ所持数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,32,32,32,1,,page174:tag:entity115:key00BCA8D2:ref32:ord0,所持ヘッドパーツ破損率,ヘッドパーツ所持数,記憶板所持数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,33,33,33,1,,page174:tag:entity114:key00BCA8D1:ref33:ord0,ヘッドパーツ所持数,記憶板所持数,記憶版引き抜きフェイズ時にAIを暴走させた回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,34,34,34,1,,page174:tag:entity113:key00BCA8D0:ref34:ord0,記憶板所持数,記憶版引き抜きフェイズ時にAIを暴走させた回数,記憶版引き抜きフェイズ時にAI Podに与えたダメージ量,,,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,35,35,35,1,,page174:tag:entity112:key00BCA8CF:ref35:ord0,記憶版引き抜きフェイズ時にAIを暴走させた回数,記憶版引き抜きフェイズ時にAI Podに与えたダメージ量,ボス吹き飛ばし回数,,,,NOT_CHECKED,72,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,36,36,36,1,,page174:tag:entity111:key00BCA8CE:ref36:ord0,記憶版引き抜きフェイズ時にAI Podに与えたダメージ量,ボス吹き飛ばし回数,ボス足踏みつけ防御回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,37,37,37,1,,page174:tag:entity110:key00BCA8CD:ref37:ord0,ボス吹き飛ばし回数,ボス足踏みつけ防御回数,中ボス（現用兵器）弱点破壊回数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,38,38,38,1,,page174:tag:entity109:key00BCA8CC:ref38:ord0,ボス足踏みつけ防御回数,中ボス（現用兵器）弱点破壊回数,拷問降参回数,,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,39,39,39,1,,page174:tag:entity108:key00BCA8CB:ref39:ord0,中ボス（現用兵器）弱点破壊回数,拷問降参回数,装備を使われた回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,40,40,40,1,,page174:tag:entity107:key00BCA8CA:ref40:ord0,拷問降参回数,装備を使われた回数,スネークフォーメーション移動距離,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,41,41,41,1,,page174:tag:entity140:key00D5E544:ref41:ord0,装備を使われた回数,スネークフォーメーション移動距離,装備を貸した回数,,,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,42,42,42,1,,page174:tag:entity106:key00BCA8B3:ref42:ord0,スネークフォーメーション移動距離,装備を貸した回数,合体武器敵無力化回数,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,43,43,43,1,,page174:tag:entity105:key00BCA8B2:ref43:ord0,装備を貸した回数,合体武器敵無力化回数,CQC拘束中の敵を敵無力化した回数,,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,44,44,44,1,,page174:tag:entity104:key00BCA8B1:ref44:ord0,合体武器敵無力化回数,CQC拘束中の敵を敵無力化した回数,ワイヤで攻撃中の敵を無力化した回数,,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,45,45,45,1,,page174:tag:entity103:key00BCA8B0:ref45:ord0,CQC拘束中の敵を敵無力化した回数,ワイヤで攻撃中の敵を無力化した回数,白『！』表示中の敵を無力化した回数,,,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,46,46,46,1,,page174:tag:entity102:key00BCA8AF:ref46:ord0,ワイヤで攻撃中の敵を無力化した回数,白『！』表示中の敵を無力化した回数,フレンドリファイア受けた回数,,,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,47,47,47,1,,page174:tag:entity101:key00BCA8AE:ref47:ord0,白『！』表示中の敵を無力化した回数,フレンドリファイア受けた回数,フレンドリファイア回数,,,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,48,48,48,1,,page174:tag:entity100:key00BCA8AD:ref48:ord0,フレンドリファイア受けた回数,フレンドリファイア回数,味方プレイヤー総回復量,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,49,49,49,1,,page174:tag:entity99:key00BCA8AC:ref49:ord0,フレンドリファイア回数,味方プレイヤー総回復量,雑誌設置回数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,50,50,50;109,2,,page174:tag:entity98:key00BCA8AB:ref50:ord0;page174:tag:entity5:key000618B6:ref109:ord0,味方プレイヤー総回復量,雑誌設置回数,除霊回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,51,51,51,1,,page174:tag:entity97:key00BCA8AA:ref51:ord0,雑誌設置回数,除霊回数,CO-OPリング発動回数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,52,52,52,1,,page174:tag:entity139:key00D5E543:ref52:ord0,除霊回数,CO-OPリング発動回数,敵ヘッドショット回数,,,,NOT_CHECKED,26,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,53,53,53,1,,page174:tag:entity96:key00BCA893:ref53:ord0,CO-OPリング発動回数,敵ヘッドショット回数,敵ホールドアップ回数,,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,54,54,54,1,,page174:tag:entity95:key00BCA892:ref54:ord0,敵ヘッドショット回数,敵ホールドアップ回数,敵瀕死回数,,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,55,55,55,1,,page174:tag:entity94:key00BCA891:ref55:ord0,敵ホールドアップ回数,敵瀕死回数,敵睡眠回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,56,56,56,1,,page174:tag:entity93:key00BCA890:ref56:ord0,敵瀕死回数,敵睡眠回数,敵気絶回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,57,57,57,1,,page174:tag:entity92:key00BCA88F:ref57:ord0,敵睡眠回数,敵気絶回数,総ダメージ量,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,58,58,58,1,,page174:tag:entity91:key00BCA88E:ref58:ord0,敵気絶回数,総ダメージ量,レーション自動使用回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,59,59,59,1,,page174:tag:entity90:key00BCA88D:ref59:ord0,総ダメージ量,レーション自動使用回数,自爆回数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,60,60,60;81,2,,page174:tag:entity89:key00BCA88C:ref60:ord0;page174:tag:entity30:key00061911:ref81:ord0,レーション自動使用回数,自爆回数,エネミータグの付いた敵を倒した回数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,61,61,61,1,,page174:tag:entity88:key00BCA88B:ref61:ord0,自爆回数,エネミータグの付いた敵を倒した回数,エネミータグを付けた回数,,,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,62,62,62,1,,page174:tag:entity87:key00BCA88A:ref62:ord0,エネミータグの付いた敵を倒した回数,エネミータグを付けた回数,CO-OPリング発動時間,,,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,63,63,63;115,2,,page174:tag:entity138:key00D5E542:ref63:ord0;page174:tag:entity43:key000830C4:ref115:ord0,エネミータグを付けた回数,CO-OPリング発動時間,BASE勝利回数,,,,NOT_CHECKED,26,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,64,64,64,1,,page174:tag:entity51:key000830CC:ref64:ord0,CO-OPリング発動時間,BASE勝利回数,CAP勝利回数,,,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,65,65,65,1,,page174:tag:entity50:key000830CB:ref65:ord0,BASE勝利回数,CAP勝利回数,TDM勝利回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,66,66,66,1,,page174:tag:entity49:key000830CA:ref66:ord0,CAP勝利回数,TDM勝利回数,DM勝利回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,67,67,67,1,,page174:tag:entity48:key000830C9:ref67:ord0,TDM勝利回数,DM勝利回数,被フルトン回収回数,,,,NOT_CHECKED,14,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,68,68,68,1,,page174:tag:entity42:key00061933:ref68:ord0,DM勝利回数,被フルトン回収回数,フルトン回収回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,69,69,69,1,,page174:tag:entity41:key00061932:ref69:ord0,被フルトン回収回数,フルトン回収回数,味方起こし回数,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,70,70,70,1,,page174:tag:entity40:key00061931:ref70:ord0,フルトン回収回数,味方起こし回数,BASEプレイ回数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,71,71,71,1,,page174:tag:entity47:key000830C8:ref71:ord0,味方起こし回数,BASEプレイ回数,味方キル回数,,,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,72,72,72,1,,page174:tag:entity39:key0006191A:ref72:ord0,BASEプレイ回数,味方キル回数,MSF兵使用回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,73,73,73,1,,page174:tag:entity38:key00061919:ref73:ord0,味方キル回数,MSF兵使用回数,ヘッドショット回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,74,74,74,1,,page174:tag:entity37:key00061918:ref74:ord0,MSF兵使用回数,ヘッドショット回数,不正実行回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,75,75,75,1,,page174:tag:entity36:key00061917:ref75:ord0,ヘッドショット回数,不正実行回数,NVG使用時間,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,76,76,76,1,,page174:tag:entity35:key00061916:ref76:ord0,不正実行回数,NVG使用時間,コンボヒット回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,77,77,77,1,,page174:tag:entity34:key00061915:ref77:ord0,NVG使用時間,コンボヒット回数,ローリング回数,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,78,78,78,1,,page174:tag:entity33:key00061914:ref78:ord0,コンボヒット回数,ローリング回数,言霊使用回数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,79,79,79,1,,page174:tag:entity32:key00061913:ref79:ord0,ローリング回数,言霊使用回数,自爆気絶回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,80,80,80,1,,page174:tag:entity31:key00061912:ref80:ord0,言霊使用回数,自爆気絶回数,自爆回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,81,82,82,1,,page174:tag:entity46:key000830C7:ref82:ord0,自爆回数,CAPプレイ回数,連続ヘッドショット回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,82,83,83,1,,page174:tag:entity29:key000618FA:ref83:ord0,CAPプレイ回数,連続ヘッドショット回数,連続キル数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,83,84,84,1,,page174:tag:entity28:key000618F9:ref84:ord0,連続ヘッドショット回数,連続キル数,拠点制圧時間,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,84,85,85,1,,page174:tag:entity27:key000618F8:ref85:ord0,連続キル数,拠点制圧時間,拠点制圧回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,85,86,86,1,,page174:tag:entity26:key000618F7:ref86:ord0,拠点制圧時間,拠点制圧回数,ターゲットゲット回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,86,87,87,1,,page174:tag:entity25:key000618F6:ref87:ord0,拠点制圧回数,ターゲットゲット回数,ゴール設置回数,,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,87,88,88,1,,page174:tag:entity24:key000618F5:ref88:ord0,ターゲットゲット回数,ゴール設置回数,ゴール設置決着回数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,88,89,89,1,,page174:tag:entity23:key000618F4:ref89:ord0,ゴール設置回数,ゴール設置決着回数,BASE被気絶回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,89,90,90,1,,page174:tag:entity22:key000618F3:ref90:ord0,ゴール設置決着回数,BASE被気絶回数,CAP被気絶回数,,,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,90,91,91,1,,page174:tag:entity21:key000618F2:ref91:ord0,BASE被気絶回数,CAP被気絶回数,TDM被気絶回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,91,92,92,1,,page174:tag:entity20:key000618F1:ref92:ord0,CAP被気絶回数,TDM被気絶回数,TDMプレイ回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,92,93,93,1,,page174:tag:entity45:key000830C6:ref93:ord0,TDM被気絶回数,TDMプレイ回数,DM被気絶回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,93,94,94,1,,page174:tag:entity19:key000618DA:ref94:ord0,TDMプレイ回数,DM被気絶回数,BASE気絶回数,,,,NOT_CHECKED,17,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,94,95,95,1,,page174:tag:entity18:key000618D9:ref95:ord0,DM被気絶回数,BASE気絶回数,CAP気絶回数,,,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,95,96,96,1,,page174:tag:entity17:key000618D8:ref96:ord0,BASE気絶回数,CAP気絶回数,TDM気絶回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,96,97,97,1,,page174:tag:entity16:key000618D7:ref97:ord0,CAP気絶回数,TDM気絶回数,DM気絶回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,97,98,98,1,,page174:tag:entity15:key000618D6:ref98:ord0,TDM気絶回数,DM気絶回数,BASE死亡回数,,,,NOT_CHECKED,14,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,98,99,99,1,,page174:tag:entity14:key000618D5:ref99:ord0,DM気絶回数,BASE死亡回数,CAP死亡回数,,,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,99,100,100,1,,page174:tag:entity13:key000618D4:ref100:ord0,BASE死亡回数,CAP死亡回数,TDM死亡回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,100,101,101,1,,page174:tag:entity12:key000618D3:ref101:ord0,CAP死亡回数,TDM死亡回数,DM死亡回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,101,102,102,1,,page174:tag:entity11:key000618D2:ref102:ord0,TDM死亡回数,DM死亡回数,BASEキル回数,,,,NOT_CHECKED,14,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,102,103,103,1,,page174:tag:entity10:key000618D1:ref103:ord0,DM死亡回数,BASEキル回数,DMプレイ回数,,,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,103,104,104,1,,page174:tag:entity44:key000830C5:ref104:ord0,BASEキル回数,DMプレイ回数,CAPキル回数,,,,NOT_CHECKED,17,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,104,105,105,1,,page174:tag:entity9:key000618BA:ref105:ord0,DMプレイ回数,CAPキル回数,TDMキル回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,105,106,106,1,,page174:tag:entity8:key000618B9:ref106:ord0,CAPキル回数,TDMキル回数,DMキル回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,106,107,107,1,,page174:tag:entity7:key000618B8:ref107:ord0,TDMキル回数,DMキル回数,雑誌ひっかかり回数,,,,NOT_CHECKED,14,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,107,108,108,1,,page174:tag:entity6:key000618B7:ref108:ord0,DMキル回数,雑誌ひっかかり回数,雑誌設置回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,108,110,110,1,,page174:tag:entity4:key000618B5:ref110:ord0,雑誌設置回数,フレンドリーファイア回数,ダンボール消費回数,,,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,109,111,111,1,,page174:tag:entity3:key000618B4:ref111:ord0,フレンドリーファイア回数,ダンボール消費回数,ラブダンボール使用時間,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,110,112,112,1,,page174:tag:entity2:key000618B3:ref112:ord0,ダンボール消費回数,ラブダンボール使用時間,被CQC回数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,111,113,113,1,,page174:tag:entity1:key000618B2:ref113:ord0,ラブダンボール使用時間,被CQC回数,CQC回数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,112,114,114,1,,page174:tag:entity0:key000618B1:ref114:ord0,被CQC回数,CQC回数,CO-OPリング発動時間,,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,113,116,116,1,,page174:tag:entity86:key00ABCE08:ref116:ord0,CO-OPリング発動時間,『電磁ネット。』を使用したのでSランクは獲得できません。,捕虜総キル回数,,,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,114,117,117,1,,page174:tag:entity150:key00F2AFDE:ref117:ord0,『電磁ネット。』を使用したのでSランクは獲得できません。,捕虜総キル回数,総キル数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,115,118,118,1,,page174:tag:entity59:key003E6B99:ref118:ord0,捕虜総キル回数,総キル数,総アラート回数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,116,119,119,1,,page174:tag:entity53:key002ED85B:ref119:ord0,総キル数,総アラート回数,クリア時間,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,117,120,120,1,,page174:tag:entity58:key003C8407:ref120:ord0,総アラート回数,クリア時間,CQCぶつけした回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,118,121,121,1,,page174:tag:entity61:key00505E6E:ref121:ord0,クリア時間,CQCぶつけした回数,DELTA,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,119,122,122,1,,page174:tag:entity78:key0091FBE6:ref122:ord0,CQCぶつけした回数,DELTA,CHARLIE,,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,120,123,123,1,,page174:tag:entity77:key0091FBE5:ref123:ord0,DELTA,CHARLIE,BLAVO,,,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,121,124,124,1,,page174:tag:entity76:key0091FBE4:ref124:ord0,CHARLIE,BLAVO,ALFA,,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,122,125,125,1,,page174:tag:entity75:key0091FBE3:ref125:ord0,BLAVO,ALFA,ターゲットポイント,,,,NOT_CHECKED,4,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,123,126,126;148,2,,page174:tag:entity79:key0092B205:ref126:ord0;page174:tag:entity136:key00C36B4C:ref148:ord0,ALFA,ターゲットポイント,ステルス迷彩を使用したのでSランクは獲得できません。,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,124,127,127,1,,page174:tag:entity70:key00812473:ref127:ord0,ターゲットポイント,ステルス迷彩を使用したのでSランクは獲得できません。,スネーク・イン移動距離,,,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,125,128,128,1,,page174:tag:entity60:key00483B99:ref128:ord0,ステルス迷彩を使用したのでSランクは獲得できません。,スネーク・イン移動距離,尋問回数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,126,130,130,1,,page174:tag:entity72:key008985BF:ref130:ord0,尋問回数,短時間での心臓マッサージ救出回数,心臓マッサージ救出回数,,,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,127,131,131,1,,page174:tag:entity63:key006C2DB7:ref131:ord0,短時間での心臓マッサージ救出回数,心臓マッサージ救出回数,言霊効果のあるCO-OPS通信を使用したのでSランクは獲得できません。,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,128,132,132,1,,page174:tag:entity148:key00E9864E:ref132:ord0,心臓マッサージ救出回数,言霊効果のあるCO-OPS通信を使用したのでSランクは獲得できません。,捕虜キル回数,,,,NOT_CHECKED,91,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,129,133,133,1,,page174:tag:entity74:key0091E2E9:ref133:ord0,言霊効果のあるCO-OPS通信を使用したのでSランクは獲得できません。,捕虜キル回数,総キル行為数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,130,134,134,1,,page174:tag:entity57:key003803EE:ref134:ord0,捕虜キル回数,総キル行為数,ホールドアップ回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,131,135,135,1,,page174:tag:entity65:key006FD3EA:ref135:ord0,総キル行為数,ホールドアップ回数, ,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,132,136,136,1,,page174:tag:entity56:key003674B1:ref136:ord0,ホールドアップ回数, ,エネミーサーチ回数,,,,NOT_CHECKED,1,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,133,137,137,1,,page174:tag:entity149:key00EC82B8:ref137:ord0, ,エネミーサーチ回数,瀕死回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,134,138,138,1,,page174:tag:entity82:key0098726D:ref138:ord0,エネミーサーチ回数,瀕死回数,扉支え失敗回数,,,,NOT_CHECKED,12,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,135,139,139,1,,page174:tag:entity52:key0028F6FB:ref139:ord0,瀕死回数,扉支え失敗回数,扉支え回数,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,136,140,140,1,,page174:tag:entity55:key00349C54:ref140:ord0,扉支え失敗回数,扉支え回数,連続CQC回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,137,141,141,1,,page174:tag:entity68:key007BD823:ref141:ord0,扉支え回数,連続CQC回数,クリア回数,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,138,142,142,1,,page174:tag:entity71:key0081E0D8:ref142:ord0,連続CQC回数,クリア回数,ラブダンボール被り時間,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,139,143,143,1,,page174:tag:entity137:key00CEE88A:ref143:ord0,クリア回数,ラブダンボール被り時間,アラート回数,,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,140,144,144,1,,page174:tag:entity62:key0061E2FA:ref144:ord0,ラブダンボール被り時間,アラート回数,アブダクト救出回数,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,141,145,145,1,,page174:tag:entity147:key00D8304E:ref145:ord0,アラート回数,アブダクト救出回数,アブダクト回数,,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,142,146,146,1,,page174:tag:entity84:key009BE99F:ref146:ord0,アブダクト救出回数,アブダクト回数,アーティストデモポイント,,,,NOT_CHECKED,21,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,143,147,147,1,,page174:tag:entity69:key007C6DF5:ref147:ord0,アブダクト回数,アーティストデモポイント,ターゲットポイント,,,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,144,149,149,1,,page174:tag:entity67:key0074A20E:ref149:ord0,ターゲットポイント,フルトン回収した敵兵・捕虜の数,ボスの破損率,,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,145,150,150,1,,page174:tag:entity85:key00A252B4:ref150:ord0,フルトン回収した敵兵・捕虜の数,ボスの破損率,フルトン回収した捕虜の数：$1,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,146,151,151,1,,page174:tag:entity339:key00DFC680:ref151:ord0,ボスの破損率,フルトン回収した捕虜の数：$1,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ピルボックス・パーガトリー」",$1,,,NOT_CHECKED,41,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,147,152,152,1,,page174:tag:entity216:key004FBB90:ref152:ord0,フルトン回収した捕虜の数：$1,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ピルボックス・パーガトリー」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「サイロ・エントランス」",,,,NOT_CHECKED,130,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,148,153,153,1,,page174:tag:entity215:key004FBB8F:ref153:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ピルボックス・パーガトリー」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「サイロ・エントランス」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ソヴィエト・パトロール・ベース」",,,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,149,154,154,1,,page174:tag:entity214:key004FBB8E:ref154:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「サイロ・エントランス」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ソヴィエト・パトロール・ベース」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「地下通路B」",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,150,155,155,1,,page174:tag:entity213:key004FBB8D:ref155:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ソヴィエト・パトロール・ベース」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「地下通路B」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「採掘場居住区（夜）」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,151,156,156,1,,page174:tag:entity212:key004FBB8C:ref156:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「地下通路B」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「採掘場居住区（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「採掘場居住区」",,,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,152,157,157,1,,page174:tag:entity211:key004FBB8B:ref157:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「採掘場居住区（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「採掘場居住区」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「リュイナス・デ・ショチケツァル（夜）」",,,,NOT_CHECKED,109,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,153,158,158,1,,page174:tag:entity210:key004FBB8A:ref158:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「採掘場居住区」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「リュイナス・デ・ショチケツァル（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「リュイナス・デ・ショチケツァル」",,,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,154,159,159,1,,page174:tag:entity209:key004FBB73:ref159:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「リュイナス・デ・ショチケツァル（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「リュイナス・デ・ショチケツァル」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「エル・カダルソ（夜）」",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,155,160,160,1,,page174:tag:entity208:key004FBB72:ref160:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「リュイナス・デ・ショチケツァル」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「エル・カダルソ（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「エル・カダルソ」",,,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,156,161,161,1,,page174:tag:entity207:key004FBB71:ref161:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「エル・カダルソ（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「エル・カダルソ」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「アルデア・ロス・デスピェルトス（夜）」",,,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,157,162,162,1,,page174:tag:entity206:key004FBB70:ref162:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「エル・カダルソ」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「アルデア・ロス・デスピェルトス（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「アルデア・ロス・デスピェルトス」",,,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,158,163,163,1,,page174:tag:entity205:key004FBB6F:ref163:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「アルデア・ロス・デスピェルトス（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「アルデア・ロス・デスピェルトス」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「バナネル・フルタ・デ・オロ / 農場（夜）」",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,159,164,164,1,,page174:tag:entity204:key004FBB6E:ref164:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「アルデア・ロス・デスピェルトス」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「バナネル・フルタ・デ・オロ / 農場（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「バナネル・フルタ・デ・オロ / 農場」",,,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,160,165,165,1,,page174:tag:entity203:key004FBB6D:ref165:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「バナネル・フルタ・デ・オロ / 農場（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「バナネル・フルタ・デ・オロ / 農場」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ボスケ・デル・アルバ（夜）」",,,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,161,166,166,1,,page174:tag:entity202:key004FBB6C:ref166:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「バナネル・フルタ・デ・オロ / 農場」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ボスケ・デル・アルバ（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ボスケ・デル・アルバ」",,,,NOT_CHECKED,130,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,162,167,167,1,,page174:tag:entity201:key004FBB6B:ref167:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ボスケ・デル・アルバ（夜）」","VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ボスケ・デル・アルバ」","称号を獲得しました。
+
+$1
+
+
+$2
+",,,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,163,168,168,1,,page174:tag:entity198:key0048302C:ref168:ord0,"VERSUS OPS にて以下のステージが選択できるようになりました。
+
+「ボスケ・デル・アルバ」","称号を獲得しました。
+
+$1
+
+
+$2
+","ストレンジラブのカセットテープ3を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",$1 | $2,,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,164,169,169,1,,page174:tag:entity219:key00512B54:ref169:ord0,"称号を獲得しました。
+
+$1
+
+
+$2
+","ストレンジラブのカセットテープ3を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","ストレンジラブのカセットテープ2を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,211,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,165,170,170,1,,page174:tag:entity218:key00512B53:ref170:ord0,"ストレンジラブのカセットテープ3を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","ストレンジラブのカセットテープ2を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","ストレンジラブのカセットテープ1を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,211,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,166,171,171,1,,page174:tag:entity217:key00512B52:ref171:ord0,"ストレンジラブのカセットテープ2を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","ストレンジラブのカセットテープ1を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",ストレンジラブのカセットテープを入手しました。,,,,NOT_CHECKED,211,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,167,172,172,1,,page174:tag:entity199:key00485449:ref172:ord0,"ストレンジラブのカセットテープ1を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",ストレンジラブのカセットテープを入手しました。,"以下の武器/アイテム設計図を入手しました。
+$1 $2$3",,,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,168,173,173,1,,page174:tag:entity154:key0024629C:ref173:ord0,ストレンジラブのカセットテープを入手しました。,"以下の武器/アイテム設計図を入手しました。
+$1 $2$3","パスの日記10を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",$1 | $2 | $3,,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,169,174,174,1,,page174:tag:entity164:key0028504F:ref174:ord0,"以下の武器/アイテム設計図を入手しました。
+$1 $2$3","パスの日記10を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記9を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,182,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,170,175,175,1,,page174:tag:entity163:key00285038:ref175:ord0,"パスの日記10を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記9を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記8を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,171,176,176,1,,page174:tag:entity162:key00285037:ref176:ord0,"パスの日記9を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記8を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記7を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,172,177,177,1,,page174:tag:entity161:key00285036:ref177:ord0,"パスの日記8を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記7を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記6を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,173,178,178,1,,page174:tag:entity160:key00285035:ref178:ord0,"パスの日記7を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記6を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記5を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,174,179,179,1,,page174:tag:entity159:key00285034:ref179:ord0,"パスの日記6を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記5を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記4を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,175,180,180,1,,page174:tag:entity158:key00285033:ref180:ord0,"パスの日記5を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記4を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記3を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,176,181,181,1,,page174:tag:entity157:key00285032:ref181:ord0,"パスの日記4を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記3を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記2を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,177,182,182,1,,page174:tag:entity156:key00285031:ref182:ord0,"パスの日記3を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記2を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記1を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。
+※MAIN OPSの進行状況によっては
+聴くことができない場合もあります。",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,178,183,183,1,,page174:tag:entity155:key00285030:ref183:ord0,"パスの日記2を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。","パスの日記1を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。
+※MAIN OPSの進行状況によっては
+聴くことができない場合もあります。",パスの日記を入手しました。,,,,NOT_CHECKED,275,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,179,184,184,1,,page174:tag:entity280:key007FCA12:ref184:ord0,"パスの日記1を入手しました。
+
+任意のミッション選択後、
+『BRIEFING FILES』のライブラリ内『資料ファイル』にて
+聴くことができます。
+※MAIN OPSの進行状況によっては
+聴くことができない場合もあります。",パスの日記を入手しました。,盗聴テープを入手しました。,,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,180,185,185,1,,page174:tag:entity197:key0044BFDC:ref185:ord0,パスの日記を入手しました。,盗聴テープを入手しました。,"勲章を獲得しました。
+
+$1
+
+
+$2
+",,,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,181,186,186,1,,page174:tag:entity153:key00235E66:ref186:ord0,盗聴テープを入手しました。,"勲章を獲得しました。
+
+$1
+
+
+$2
+",フルトン回収した敵兵の数：$1,$1 | $2,,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,182,187,187,1,,page174:tag:entity328:key0093E240:ref187:ord0,"勲章を獲得しました。
+
+$1
+
+
+$2
+",フルトン回収した敵兵の数：$1,"フルトン回収した敵兵/捕虜の数：45
+(1ミッション中に回収できる上限数は45です)",$1,,,NOT_CHECKED,41,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,183,188,188,1,,page174:tag:entity341:key00EA84C9:ref188:ord0,フルトン回収した敵兵の数：$1,"フルトン回収した敵兵/捕虜の数：45
+(1ミッション中に回収できる上限数は45です)",獲得したAH56A-raider Customの残ライフ率：$1 %,,,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,184,189,189;211,2,,page174:tag:entity278:key0072B457:ref189:ord0;page174:tag:entity256:key0072B415:ref211:ord0,"フルトン回収した敵兵/捕虜の数：45
+(1ミッション中に回収できる上限数は45です)",獲得したAH56A-raider Customの残ライフ率：$1 %,獲得したAH56A-raiderの残ライフ率：$1 %,$1,,,NOT_CHECKED,56,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,185,190,190;212,2,,page174:tag:entity277:key0072B456:ref190:ord0;page174:tag:entity255:key0072B414:ref212:ord0,獲得したAH56A-raider Customの残ライフ率：$1 %,獲得したAH56A-raiderの残ライフ率：$1 %,獲得したAH56A-bomber Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,186,191,191;213,2,,page174:tag:entity276:key0072B455:ref191:ord0;page174:tag:entity254:key0072B413:ref213:ord0,獲得したAH56A-raiderの残ライフ率：$1 %,獲得したAH56A-bomber Customの残ライフ率：$1 %,獲得したAH56A-bomberの残ライフ率：$1 %,$1,,,NOT_CHECKED,56,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,187,192,192;214,2,,page174:tag:entity275:key0072B454:ref192:ord0;page174:tag:entity253:key0072B412:ref214:ord0,獲得したAH56A-bomber Customの残ライフ率：$1 %,獲得したAH56A-bomberの残ライフ率：$1 %,獲得したMi-24D Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,188,193,193;215,2,,page174:tag:entity274:key0072B453:ref193:ord0;page174:tag:entity252:key0072B3FB:ref215:ord0,獲得したAH56A-bomberの残ライフ率：$1 %,獲得したMi-24D Customの残ライフ率：$1 %,獲得したMi-24Dの残ライフ率：$1 %,$1,,,NOT_CHECKED,50,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,189,194,194;216,2,,page174:tag:entity273:key0072B452:ref194:ord0;page174:tag:entity251:key0072B3FA:ref216:ord0,獲得したMi-24D Customの残ライフ率：$1 %,獲得したMi-24Dの残ライフ率：$1 %,獲得したMi-24A Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,190,195,195;217,2,,page174:tag:entity272:key0072B43B:ref195:ord0;page174:tag:entity250:key0072B3F9:ref217:ord0,獲得したMi-24Dの残ライフ率：$1 %,獲得したMi-24A Customの残ライフ率：$1 %,獲得したLAV-typeC Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,50,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,191,196,196;227,2,,page174:tag:entity271:key0072B43A:ref196:ord0;page174:tag:entity240:key0072B3D9:ref227:ord0,獲得したMi-24A Customの残ライフ率：$1 %,獲得したLAV-typeC Customの残ライフ率：$1 %,獲得したLAV-typeCの残ライフ率：$1 %,$1,,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,192,197,197;228,2,,page174:tag:entity270:key0072B439:ref197:ord0;page174:tag:entity239:key0072B3D8:ref228:ord0,獲得したLAV-typeC Customの残ライフ率：$1 %,獲得したLAV-typeCの残ライフ率：$1 %,獲得したLAV-typeG Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,193,198,198;229,2,,page174:tag:entity269:key0072B438:ref198:ord0;page174:tag:entity238:key0072B3D7:ref229:ord0,獲得したLAV-typeCの残ライフ率：$1 %,獲得したLAV-typeG Customの残ライフ率：$1 %,獲得したLAV-typeGの残ライフ率：$1 %,$1,,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,194,199,199;236,2,,page174:tag:entity268:key0072B437:ref199:ord0;page174:tag:entity329:key0099A1DC:ref236:ord0,獲得したLAV-typeG Customの残ライフ率：$1 %,獲得したLAV-typeGの残ライフ率：$1 %,獲得したBTR-60 PB Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,195,200,200;230,2,,page174:tag:entity267:key0072B436:ref200:ord0;page174:tag:entity237:key0072B3D6:ref230:ord0,獲得したLAV-typeGの残ライフ率：$1 %,獲得したBTR-60 PB Customの残ライフ率：$1 %,獲得したBTR-60 PBの残ライフ率：$1 %,$1,,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,196,201,201;231,2,,page174:tag:entity266:key0072B435:ref201:ord0;page174:tag:entity236:key0072B3D5:ref231:ord0,獲得したBTR-60 PB Customの残ライフ率：$1 %,獲得したBTR-60 PBの残ライフ率：$1 %,獲得したBTR-60PA Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,197,202,202,1,,page174:tag:entity265:key0072B434:ref202:ord0,獲得したBTR-60 PBの残ライフ率：$1 %,獲得したBTR-60PA Customの残ライフ率：$1 %,獲得したBTR-60PAの残ライフ率：$1 %,$1,,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,198,203,203,1,,page174:tag:entity264:key0072B433:ref203:ord0,獲得したBTR-60PA Customの残ライフ率：$1 %,獲得したBTR-60PAの残ライフ率：$1 %,獲得したMBTk-70 Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,199,204,204;219,2,,page174:tag:entity263:key0072B432:ref204:ord0;page174:tag:entity248:key0072B3F7:ref219:ord0,獲得したBTR-60PAの残ライフ率：$1 %,獲得したMBTk-70 Customの残ライフ率：$1 %,獲得したMBTk-70の残ライフ率：$1 %,$1,,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,200,205,205;220,2,,page174:tag:entity262:key0072B41B:ref205:ord0;page174:tag:entity247:key0072B3F6:ref220:ord0,獲得したMBTk-70 Customの残ライフ率：$1 %,獲得したMBTk-70の残ライフ率：$1 %,獲得したKPz 70 Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,201,206,206;221,2,,page174:tag:entity261:key0072B41A:ref206:ord0;page174:tag:entity246:key0072B3F5:ref221:ord0,獲得したMBTk-70の残ライフ率：$1 %,獲得したKPz 70 Customの残ライフ率：$1 %,獲得したKPz 70の残ライフ率：$1 %,$1,,,NOT_CHECKED,50,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,202,207,207;222,2,,page174:tag:entity260:key0072B419:ref207:ord0;page174:tag:entity245:key0072B3F4:ref222:ord0,獲得したKPz 70 Customの残ライフ率：$1 %,獲得したKPz 70の残ライフ率：$1 %,獲得したT-72A Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,203,208,208;223,2,,page174:tag:entity259:key0072B418:ref208:ord0;page174:tag:entity244:key0072B3F3:ref223:ord0,獲得したKPz 70の残ライフ率：$1 %,獲得したT-72A Customの残ライフ率：$1 %,獲得したT-72Aの残ライフ率：$1 %,$1,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,204,209,209;224,2,,page174:tag:entity258:key0072B417:ref209:ord0;page174:tag:entity243:key0072B3F2:ref224:ord0,獲得したT-72A Customの残ライフ率：$1 %,獲得したT-72Aの残ライフ率：$1 %,獲得したT-72U Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,205,210,210;225,2,,page174:tag:entity257:key0072B416:ref210:ord0;page174:tag:entity242:key0072B3DB:ref225:ord0,獲得したT-72Aの残ライフ率：$1 %,獲得したT-72U Customの残ライフ率：$1 %,獲得したAH56A-raider Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,206,218,218;234,2,,page174:tag:entity249:key0072B3F8:ref218:ord0;page174:tag:entity331:key0099A59C:ref234:ord0,獲得したMi-24A Customの残ライフ率：$1 %,獲得したMi-24Aの残ライフ率：$1 %,獲得したMBTk-70 Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,207,226,226;235,2,,page174:tag:entity241:key0072B3DA:ref226:ord0;page174:tag:entity330:key0099A23C:ref235:ord0,獲得したT-72U Customの残ライフ率：$1 %,獲得したT-72Uの残ライフ率：$1 %,獲得したLAV-typeC Customの残ライフ率：$1 %,$1,,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MISSION_RESULT.OLANG,208,232,232,1,,page174:tag:entity235:key0072B3D4:ref232:ord0,獲得したBTR-60 PBの残ライフ率：$1 %,獲得したBTR-60 PA Customの残ライフ率：$1 %,獲得したBTR-60 PAの残ライフ率：$1 %,$1,,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,209,233,233,1,,page174:tag:entity234:key0072B3D3:ref233:ord0,獲得したBTR-60 PA Customの残ライフ率：$1 %,獲得したBTR-60 PAの残ライフ率：$1 %,獲得したMi-24Aの残ライフ率：$1 %,$1,,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,210,237,237,1,,page174:tag:entity332:key009EC369:ref237:ord0,獲得したLAV-typeGの残ライフ率：$1 %,ボスの破損率：$1 %,VERSUS OPS専用ユニフォームが開発されました。,$1,,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,211,238,238,1,,page174:tag:entity230:key00573913:ref238:ord0,ボスの破損率：$1 %,VERSUS OPS専用ユニフォームが開発されました。,"新しいユニフォームが開発されました。
+
+　『随伴歩兵（VERSUS OPS専用）』",,,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,212,239,239,1,,page174:tag:entity229:key00573912:ref239:ord0,VERSUS OPS専用ユニフォームが開発されました。,"新しいユニフォームが開発されました。
+
+　『随伴歩兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『整備士（VERSUS OPS専用）』",,,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,213,240,240,1,,page174:tag:entity228:key005738FB:ref240:ord0,"新しいユニフォームが開発されました。
+
+　『随伴歩兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『整備士（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『女性捕虜（VERSUS OPS専用）』",,,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,214,241,241,1,,page174:tag:entity227:key005738FA:ref241:ord0,"新しいユニフォームが開発されました。
+
+　『整備士（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『女性捕虜（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『哨戒兵（VERSUS OPS専用）』",,,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,215,242,242,1,,page174:tag:entity226:key005738F9:ref242:ord0,"新しいユニフォームが開発されました。
+
+　『女性捕虜（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『哨戒兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『男性捕虜（VERSUS OPS専用）』",,,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,216,243,243,1,,page174:tag:entity225:key005738F8:ref243:ord0,"新しいユニフォームが開発されました。
+
+　『哨戒兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『男性捕虜（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『コマンド兵（VERSUS OPS専用）』",,,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,217,244,244,1,,page174:tag:entity224:key005738F7:ref244:ord0,"新しいユニフォームが開発されました。
+
+　『男性捕虜（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『コマンド兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『警備兵（VERSUS OPS専用）』",,,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,218,245,245,1,,page174:tag:entity223:key005738F6:ref245:ord0,"新しいユニフォームが開発されました。
+
+　『コマンド兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『警備兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『偵察兵（VERSUS OPS専用）』",,,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,219,246,246,1,,page174:tag:entity222:key005738F5:ref246:ord0,"新しいユニフォームが開発されました。
+
+　『警備兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『偵察兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『ソ連兵（VERSUS OPS専用）』",,,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,220,247,247,1,,page174:tag:entity221:key005738F4:ref247:ord0,"新しいユニフォームが開発されました。
+
+　『偵察兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『ソ連兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『ソ連コマンド兵（VERSUS OPS専用）』",,,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,221,248,248,1,,page174:tag:entity220:key005738F3:ref248:ord0,"新しいユニフォームが開発されました。
+
+　『ソ連兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『ソ連コマンド兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『バトルドレス』",,,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,222,249,249,1,,page174:tag:entity192:key002C0094:ref249:ord0,"新しいユニフォームが開発されました。
+
+　『ソ連コマンド兵（VERSUS OPS専用）』","新しいユニフォームが開発されました。
+
+　『バトルドレス』","新しいユニフォームが開発されました。
+
+　『スニーキングスーツ』",,,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,223,250,250,1,,page174:tag:entity191:key002C0093:ref250:ord0,"新しいユニフォームが開発されました。
+
+　『バトルドレス』","新しいユニフォームが開発されました。
+
+　『スニーキングスーツ』","新しいユニフォームが開発されました。
+
+　『Ｔシャツ』",,,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,224,251,251,1,,page174:tag:entity190:key002C0092:ref251:ord0,"新しいユニフォームが開発されました。
+
+　『スニーキングスーツ』","新しいユニフォームが開発されました。
+
+　『Ｔシャツ』","新しいユニフォームが開発されました。
+
+　『ビキニトップ』",,,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,225,252,252,1,,page174:tag:entity189:key002C0091:ref252:ord0,"新しいユニフォームが開発されました。
+
+　『Ｔシャツ』","新しいユニフォームが開発されました。
+
+　『ビキニトップ』","新しいユニフォームが開発されました。
+
+　『海水パンツ』",,,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,226,253,253,1,,page174:tag:entity188:key002C0090:ref253:ord0,"新しいユニフォームが開発されました。
+
+　『ビキニトップ』","新しいユニフォームが開発されました。
+
+　『海水パンツ』","新しいユニフォームが開発されました。
+
+　『アマンダ』",,,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,227,254,254,1,,page174:tag:entity187:key002C008F:ref254:ord0,"新しいユニフォームが開発されました。
+
+　『海水パンツ』","新しいユニフォームが開発されました。
+
+　『アマンダ』","新しいユニフォームが開発されました。
+
+　『ミラー』",,,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,228,255,255,1,,page174:tag:entity186:key002C008E:ref255:ord0,"新しいユニフォームが開発されました。
+
+　『アマンダ』","新しいユニフォームが開発されました。
+
+　『ミラー』","新しいユニフォームが開発されました。
+
+　『タキシード』",,,,NOT_CHECKED,74,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,229,256,256,1,,page174:tag:entity185:key002C008D:ref256:ord0,"新しいユニフォームが開発されました。
+
+　『ミラー』","新しいユニフォームが開発されました。
+
+　『タキシード』","新しいユニフォームが開発されました。
+
+　『スネーク（ネイキッド）』",,,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,230,257,257,1,,page174:tag:entity184:key002C008C:ref257:ord0,"新しいユニフォームが開発されました。
+
+　『タキシード』","新しいユニフォームが開発されました。
+
+　『スネーク（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『スプリッター（ネイキッド）』",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,231,258,258,1,,page174:tag:entity183:key002C0075:ref258:ord0,"新しいユニフォームが開発されました。
+
+　『スネーク（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『スプリッター（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『スクエア（ネイキッド）』",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,232,259,259,1,,page174:tag:entity182:key002C0074:ref259:ord0,"新しいカムフラージュが開発されました。
+
+　『スプリッター（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『スクエア（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『AUSCAMデザート（ネイキッド）』",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,233,260,260,1,,page174:tag:entity181:key002C0073:ref260:ord0,"新しいカムフラージュが開発されました。
+
+　『スクエア（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『AUSCAMデザート（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『チョコチップ（ネイキッド）』",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,234,261,261,1,,page174:tag:entity180:key002C0072:ref261:ord0,"新しいカムフラージュが開発されました。
+
+　『AUSCAMデザート（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『チョコチップ（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『タイガーストライプ（ネイキッド）』",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,235,262,262,1,,page174:tag:entity179:key002C0071:ref262:ord0,"新しいカムフラージュが開発されました。
+
+　『チョコチップ（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『タイガーストライプ（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『リーフ（ネイキッド）』",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,236,263,263,1,,page174:tag:entity178:key002C0070:ref263:ord0,"新しいカムフラージュが開発されました。
+
+　『タイガーストライプ（ネイキッド）』","新しいカムフラージュが開発されました。
+
+　『リーフ（ネイキッド）』","新しいユニフォームが開発されました。
+
+　『バトルドレス（ヘルメット装着）』",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,237,264,264,1,,page174:tag:entity177:key002C006F:ref264:ord0,"新しいカムフラージュが開発されました。
+
+　『リーフ（ネイキッド）』","新しいユニフォームが開発されました。
+
+　『バトルドレス（ヘルメット装着）』","新しいカムフラージュが開発されました。
+
+　『ギアレックス迷彩（野戦服）』",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,238,265,265,1,,page174:tag:entity176:key002C006E:ref265:ord0,"新しいユニフォームが開発されました。
+
+　『バトルドレス（ヘルメット装着）』","新しいカムフラージュが開発されました。
+
+　『ギアレックス迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『リオレウス迷彩（野戦服）』",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,239,266,266,1,,page174:tag:entity175:key002C006D:ref266:ord0,"新しいカムフラージュが開発されました。
+
+　『ギアレックス迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『リオレウス迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『ティガレックス迷彩（野戦服）』",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,240,267,267,1,,page174:tag:entity174:key002C006C:ref267:ord0,"新しいカムフラージュが開発されました。
+
+　『リオレウス迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『ティガレックス迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『悪臭迷彩（野戦服）』",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,241,268,268,1,,page174:tag:entity173:key002C0055:ref268:ord0,"新しいカムフラージュが開発されました。
+
+　『ティガレックス迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『悪臭迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『ネオＭＯＳＳ迷彩（野戦服）』",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,242,269,269,1,,page174:tag:entity172:key002C0054:ref269:ord0,"新しいカムフラージュが開発されました。
+
+　『悪臭迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『ネオＭＯＳＳ迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『スネーク（野戦服）』",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,243,270,270,1,,page174:tag:entity171:key002C0053:ref270:ord0,"新しいカムフラージュが開発されました。
+
+　『ネオＭＯＳＳ迷彩（野戦服）』","新しいカムフラージュが開発されました。
+
+　『スネーク（野戦服）』","新しいカムフラージュが開発されました。
+
+　『スプリッター（野戦服）』",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,244,271,271,1,,page174:tag:entity170:key002C0052:ref271:ord0,"新しいカムフラージュが開発されました。
+
+　『スネーク（野戦服）』","新しいカムフラージュが開発されました。
+
+　『スプリッター（野戦服）』","新しいカムフラージュが開発されました。
+
+　『スクエア（野戦服）』",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,245,272,272,1,,page174:tag:entity169:key002C0051:ref272:ord0,"新しいカムフラージュが開発されました。
+
+　『スプリッター（野戦服）』","新しいカムフラージュが開発されました。
+
+　『スクエア（野戦服）』","新しいカムフラージュが開発されました。
+
+　『AUSCAMデザート（野戦服）』",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,246,273,273,1,,page174:tag:entity168:key002C0050:ref273:ord0,"新しいカムフラージュが開発されました。
+
+　『スクエア（野戦服）』","新しいカムフラージュが開発されました。
+
+　『AUSCAMデザート（野戦服）』","新しいカムフラージュが開発されました。
+
+　『チョコチップ（野戦服）』",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,247,274,274,1,,page174:tag:entity167:key002C004F:ref274:ord0,"新しいカムフラージュが開発されました。
+
+　『AUSCAMデザート（野戦服）』","新しいカムフラージュが開発されました。
+
+　『チョコチップ（野戦服）』","新しいカムフラージュが開発されました。
+
+　『タイガーストライプ（野戦服）』",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,248,275,275,1,,page174:tag:entity166:key002C004E:ref275:ord0,"新しいカムフラージュが開発されました。
+
+　『チョコチップ（野戦服）』","新しいカムフラージュが開発されました。
+
+　『タイガーストライプ（野戦服）』","新しいカムフラージュが開発されました。
+　
+　『リーフ（野戦服）』",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,249,276,276,1,,page174:tag:entity165:key002C004D:ref276:ord0,"新しいカムフラージュが開発されました。
+
+　『タイガーストライプ（野戦服）』","新しいカムフラージュが開発されました。
+　
+　『リーフ（野戦服）』","以下の言葉に英雄の魂が込められるようになりました。
+
+「敵を引きつけてくれ！！」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,250,277,277,1,,page174:tag:entity373:key00EC8837:ref277:ord0,"新しいカムフラージュが開発されました。
+　
+　『リーフ（野戦服）』","以下の言葉に英雄の魂が込められるようになりました。
+
+「敵を引きつけてくれ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺が敵を引きつける！！」",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,251,278,278,1,,page174:tag:entity372:key00EC8835:ref278:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「敵を引きつけてくれ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺が敵を引きつける！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺はここだ！！」",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,252,279,279,1,,page174:tag:entity371:key00EC8833:ref279:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺が敵を引きつける！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺はここだ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！！！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,253,280,280,1,,page174:tag:entity370:key00EC8831:ref280:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺はここだ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！！」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,254,281,281,1,,page174:tag:entity369:key00EC8830:ref281:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！」",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,255,282,282,1,,page174:tag:entity368:key00EC882F:ref282:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！！！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,256,283,283,1,,page174:tag:entity367:key00EC8817:ref283:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行こう！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！！」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,257,284,284,1,,page174:tag:entity366:key00EC8816:ref284:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！」",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,258,285,285,1,,page174:tag:entity365:key00EC8815:ref285:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「降伏しろ！！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,259,286,286,1,,page174:tag:entity364:key00EC8813:ref286:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「静かに行くぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「降伏しろ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,260,287,287,1,,page174:tag:entity363:key00EC8811:ref287:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「降伏しろ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,261,288,288,1,,page174:tag:entity362:key00EC8810:ref288:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,262,289,289,1,,page174:tag:entity361:key00EC880F:ref289:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「眠れ……」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,263,290,290,1,,page174:tag:entity360:key00EC87F7:ref290:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「落ちろ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「眠れ……」","以下の言葉に英雄の魂が込められるようになりました。
+
+「後は頼むぞ！」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,264,291,291,1,,page174:tag:entity359:key00EC87F5:ref291:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「眠れ……」","以下の言葉に英雄の魂が込められるようになりました。
+
+「後は頼むぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「いいセンスだ！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,265,292,292,1,,page174:tag:entity358:key00EC87F3:ref292:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「後は頼むぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「いいセンスだ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「さすがです！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,266,293,293,1,,page174:tag:entity357:key00EC87F1:ref293:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「いいセンスだ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「さすがです！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「さすがだな！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,267,294,294,1,,page174:tag:entity356:key00EC87EF:ref294:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「さすがです！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「さすがだな！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「死ぬな！！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,268,295,295,1,,page174:tag:entity355:key00EC87D7:ref295:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「さすがだな！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「死ぬな！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「死ぬな！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,269,296,296,1,,page174:tag:entity354:key00EC87D6:ref296:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「死ぬな！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「死ぬな！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！！！」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,270,297,297,1,,page174:tag:entity353:key00EC87D4:ref297:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「死ぬな！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！！」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,271,298,298,1,,page174:tag:entity352:key00EC87D3:ref298:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！」",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,272,299,299,1,,page174:tag:entity351:key00EC87D2:ref299:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！！！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,273,300,300,1,,page174:tag:entity350:key00EC87D0:ref300:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺がついてる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,274,301,301,1,,page174:tag:entity349:key00EC87CF:ref301:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,275,302,302,1,,page174:tag:entity348:key00EC87B8:ref302:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！！！」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,276,303,303,1,,page174:tag:entity347:key00EC87B6:ref303:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「やるぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！！」",,,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,277,304,304,1,,page174:tag:entity346:key00EC87B5:ref304:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！」",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,278,305,305,1,,page174:tag:entity345:key00EC87B4:ref305:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！！！」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,279,306,306,1,,page174:tag:entity344:key00EC87B2:ref306:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「俺たちはまだやれる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！！」",,,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,280,307,307,1,,page174:tag:entity343:key00EC87B1:ref307:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！」",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,281,308,308,1,,page174:tag:entity342:key00EC87B0:ref308:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「コープサンダー！」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,282,309,309,1,,page174:tag:entity326:key0090E6F1:ref309:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「まだ終わってない！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「コープサンダー！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「キェーーー」",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,283,310,310,1,,page174:tag:entity325:key0090E6F0:ref310:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「コープサンダー！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「キェーーー」","以下の言葉に英雄の魂が込められるようになりました。
+
+「冷静にならんか！！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,284,311,311,1,,page174:tag:entity324:key0090E6EE:ref311:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「キェーーー」","以下の言葉に英雄の魂が込められるようになりました。
+
+「冷静にならんか！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「安らかに眠れ！」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,285,312,312,1,,page174:tag:entity323:key0090E6D6:ref312:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「冷静にならんか！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「安らかに眠れ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「すまなかった！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,286,313,313,1,,page174:tag:entity322:key0090E6D4:ref313:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「安らかに眠れ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「すまなかった！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「はいだらー！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,287,314,314,1,,page174:tag:entity321:key0090E6D2:ref314:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「すまなかった！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「はいだらー！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,288,315,315,1,,page174:tag:entity320:key0090E6D0:ref315:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「はいだらー！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！！」",,,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,289,316,316,1,,page174:tag:entity319:key0090E6CF:ref316:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！」",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,290,317,317,1,,page174:tag:entity318:key0090E6CE:ref317:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！！！」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,291,318,318,1,,page174:tag:entity317:key0090E6B6:ref318:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「テンション上げるぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！！」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,292,319,319,1,,page174:tag:entity316:key0090E6B5:ref319:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！」",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,293,320,320,1,,page174:tag:entity315:key0090E6B4:ref320:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ウニャ、ウニャニャ！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,294,321,321,1,,page174:tag:entity314:key0090E6B0:ref321:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「耐えてみせる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ウニャ、ウニャニャ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！！！」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,295,322,322,1,,page174:tag:entity313:key0090E6AE:ref322:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ウニャ、ウニャニャ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！！」",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,296,323,323,1,,page174:tag:entity312:key0090E6AD:ref323:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,297,324,324,1,,page174:tag:entity311:key0090E696:ref324:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！！！」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,298,325,325,1,,page174:tag:entity310:key0090E694:ref325:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「みなぎってきた！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,299,326,326,1,,page174:tag:entity309:key0090E693:ref326:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,300,327,327,1,,page174:tag:entity308:key0090E692:ref327:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ここだ」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,301,328,328,1,,page174:tag:entity307:key0090E690:ref328:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「見える！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ここだ」","以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！！！」",,,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,302,329,329,1,,page174:tag:entity306:key0090E68F:ref329:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ここだ」","以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,303,330,330,1,,page174:tag:entity305:key0090E68E:ref330:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,304,331,331,1,,page174:tag:entity304:key0090E68D:ref331:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！！！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,305,332,332,1,,page174:tag:entity303:key0090E675:ref332:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「感じるぞ！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！！」",,,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,306,333,333,1,,page174:tag:entity302:key0090E674:ref333:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,307,334,334,1,,page174:tag:entity301:key0090E673:ref334:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！！！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,308,335,335,1,,page174:tag:entity300:key0090E671:ref335:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「よく狙え！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！！」",,,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,309,336,336,1,,page174:tag:entity299:key0090E670:ref336:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,310,337,337,1,,page174:tag:entity298:key0090E66F:ref337:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！！！」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,311,338,338,1,,page174:tag:entity297:key0090E66D:ref338:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「おまえならやれる！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,312,339,339,1,,page174:tag:entity296:key0090E656:ref339:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,313,340,340,1,,page174:tag:entity295:key0090E655:ref340:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「1人で行くぞ！！」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,314,341,341,1,,page174:tag:entity294:key0090E653:ref341:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「集中！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「1人で行くぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう………」",,,,NOT_CHECKED,105,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,315,342,342,1,,page174:tag:entity293:key0090E651:ref342:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「1人で行くぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう………」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう……」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,316,343,343,1,,page174:tag:entity292:key0090E650:ref343:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう………」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう……」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう…」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,317,344,344,1,,page174:tag:entity291:key0090E64F:ref344:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう……」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう…」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ………」",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,318,345,345,1,,page174:tag:entity290:key0090E64D:ref345:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行こう…」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ………」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ……」",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,319,346,346,1,,page174:tag:entity289:key0090E636:ref346:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ………」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ……」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ…」",,,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,320,347,347,1,,page174:tag:entity288:key0090E635:ref347:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ……」","以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ…」","以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!!!」",,,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,321,348,348,1,,page174:tag:entity287:key0090E633:ref348:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「ゆっくり行くぞ…」","以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!!!」","以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!!」",,,,NOT_CHECKED,97,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,322,349,349,1,,page174:tag:entity286:key0090E632:ref349:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!!!」","以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!!」","以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!」",,,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,323,350,350,1,,page174:tag:entity285:key0090E631:ref350:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!!」","以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!」","以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！！！」",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,324,351,351,1,,page174:tag:entity284:key0090E62F:ref351:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「GO! GO! GO!!」","以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！！」",,,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,325,352,352,1,,page174:tag:entity283:key0090E62E:ref352:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！」",,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,326,353,353,1,,page174:tag:entity282:key0090E62D:ref353:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！！」","以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！」","CO-OPS通信で使えるメッセージが増えました。
+
+詳細は『ENTRY　GATE』の『CO-OPS COMM.』にてご覧ください。",,,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,327,354,354,1,,page174:tag:entity335:key00B309EC:ref354:ord0,"以下の言葉に英雄の魂が込められるようになりました。
+
+「行くぞ！」","CO-OPS通信で使えるメッセージが増えました。
+
+詳細は『ENTRY　GATE』の『CO-OPS COMM.』にてご覧ください。","新しいユニフォームが開発されました。
+
+　『ＵＴ(ＵＴロゴ)』",,,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,328,355,355,1,,page174:tag:entity334:key00B13E1F:ref355:ord0,"CO-OPS通信で使えるメッセージが増えました。
+
+詳細は『ENTRY　GATE』の『CO-OPS COMM.』にてご覧ください。","新しいユニフォームが開発されました。
+
+　『ＵＴ(ＵＴロゴ)』","新しいユニフォームが開発されました。
+
+　『FOX』",,,,NOT_CHECKED,85,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,329,356,356,1,,page174:tag:entity233:key00654D96:ref356:ord0,"新しいユニフォームが開発されました。
+
+　『ＵＴ(ＵＴロゴ)』","新しいユニフォームが開発されました。
+
+　『FOX』",PW脚部固有パーツ：$1 %,,,,NOT_CHECKED,68,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,330,357,357,1,,page174:tag:entity374:key00F57C73:ref357:ord0,"新しいユニフォームが開発されました。
+
+　『FOX』",PW脚部固有パーツ：$1 %,コクーン・装甲固有パーツ：$1 %,$1,,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,331,358,358,1,,page174:tag:entity340:key00E57C73:ref358:ord0,PW脚部固有パーツ：$1 %,コクーン・装甲固有パーツ：$1 %,クリサリス・レドーム固有パーツ：$1 %,$1,,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,332,359,359,1,,page174:tag:entity338:key00D57C73:ref359:ord0,コクーン・装甲固有パーツ：$1 %,クリサリス・レドーム固有パーツ：$1 %,クリサリス・レールガン固有パーツ：$1 %,$1,,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,333,360,360,1,,page174:tag:entity337:key00C57C73:ref360:ord0,クリサリス・レドーム固有パーツ：$1 %,クリサリス・レールガン固有パーツ：$1 %,ピューパ・ジェット固有パーツ：$1 %,$1,,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,334,361,361,1,,page174:tag:entity336:key00B57C73:ref361:ord0,クリサリス・レールガン固有パーツ：$1 %,ピューパ・ジェット固有パーツ：$1 %,取得したパーツ「索敵」の数：$1,$1,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,335,362,362,1,,page174:tag:entity196:key0040959C:ref362:ord0,ピューパ・ジェット固有パーツ：$1 %,取得したパーツ「索敵」の数：$1,取得したパーツ「機動」の数：$1,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,336,363,363,1,,page174:tag:entity152:key0012C9A2:ref363:ord0,取得したパーツ「索敵」の数：$1,取得したパーツ「機動」の数：$1,取得したパーツ「自律」の数：$1,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,337,364,364,1,,page174:tag:entity231:key0058D52E:ref364:ord0,取得したパーツ「機動」の数：$1,取得したパーツ「自律」の数：$1,取得したパーツ「攻撃」の数：$1,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,338,365,365,1,,page174:tag:entity195:key0040295A:ref365:ord0,取得したパーツ「自律」の数：$1,取得したパーツ「攻撃」の数：$1,取得した記憶板「索敵」の数：$1,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,339,366,366,1,,page174:tag:entity194:key0030D1D6:ref366:ord0,取得したパーツ「攻撃」の数：$1,取得した記憶板「索敵」の数：$1,取得した記憶板の数：$1,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,340,367,367,1,,page174:tag:entity333:key00AF7DF9:ref367:ord0,取得した記憶板「索敵」の数：$1,取得した記憶板の数：$1,取得した記憶板「機動」の数：$1,$1,,,NOT_CHECKED,32,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,341,368,368,1,,page174:tag:entity151:key0003B163:ref368:ord0,取得した記憶板の数：$1,取得した記憶板「機動」の数：$1,取得した記憶板「自律」の数：$1,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,342,369,369,1,,page174:tag:entity200:key0049BCEF:ref369:ord0,取得した記憶板「機動」の数：$1,取得した記憶板「自律」の数：$1,取得した記憶板「攻撃」の数：$1,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,343,370,370,1,,page174:tag:entity193:key00306594:ref370:ord0,取得した記憶板「自律」の数：$1,取得した記憶板「攻撃」の数：$1,PWヘッドパーツ：$1 %,$1,,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,344,371,371,1,,page174:tag:entity327:key0092F5F0:ref371:ord0,取得した記憶板「攻撃」の数：$1,PWヘッドパーツ：$1 %,コクーン・ヘッドパーツ：$1 %,$1,,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,345,372,372,1,,page174:tag:entity281:key0082F5F0:ref372:ord0,PWヘッドパーツ：$1 %,コクーン・ヘッドパーツ：$1 %,クリサリス・ヘッドパーツ：$1 %,$1,,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,346,373,373,1,,page174:tag:entity279:key0072F5F0:ref373:ord0,コクーン・ヘッドパーツ：$1 %,クリサリス・ヘッドパーツ：$1 %,ピューパ・ヘッドパーツ：$1 %,$1,,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,347,374,374,1,,page174:tag:entity232:key0062F5F0:ref374:ord0,クリサリス・ヘッドパーツ：$1 %,ピューパ・ヘッドパーツ：$1 %,(テロップ内容未定),$1,,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,348,375,375,1,,page174:tag:entity375:key00743E57:ref375:ord0,ピューパ・ヘッドパーツ：$1 %,(テロップ内容未定),MISSION RESULT,,,,NOT_CHECKED,26,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,349,376,376;377;385,3,,page174:tag:entity380:key00F87C36:ref376:ord0;page174:tag:entity377:key00765DEC:ref377:ord0;page174:tag:entity385:key00765DEC:ref385:ord0,(テロップ内容未定),MISSION RESULT,NEXT,,,,NOT_CHECKED,14,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_MISSION_RESULT.OLANG,350,378,378,1,,page174:tag:entity379:key00F17D04:ref378:ord0,MISSION RESULT,NEXT,クリアランク,,,,NOT_CHECKED,4,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,351,379,379,1,,page174:tag:entity378:key00EF9533:ref379:ord0,NEXT,クリアランク,RANK,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,352,380,380,1,,page174:tag:entity376:key002A0E0B:ref380:ord0,クリアランク,RANK,NEW,,,,NOT_CHECKED,4,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,353,381,381,1,,page174:tag:entity381:key0001C517:ref381:ord0,RANK,NEW,LV.UP,,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,354,382,382,1,,page174:tag:entity383:key00945AE1:ref382:ord0,NEW,LV.UP,LV.$1(+$2),,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,355,383,383,1,,page174:tag:entity382:key006069C1:ref383:ord0,LV.UP,LV.$1(+$2),LV.$1,$1 | $2,,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MISSION_RESULT.OLANG,356,384,384,1,,page174:tag:entity384:key00F46512:ref384:ord0,LV.$1(+$2),LV.$1,MISSION RESULT,$1,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1

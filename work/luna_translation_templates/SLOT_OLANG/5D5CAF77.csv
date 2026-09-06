@@ -1,0 +1,374 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D5CAF77,0,0,0;11;0;11;0;11;0;11;0;11;0;11,12,,page4:tag15:entity3:key002E2357:ref0:ord0;page4:tag15:entity22:key00D57705:ref11:ord0;page10:tag11:entity3:key002E2357:ref0:ord0;page10:tag11:entity22:key00D57705:ref11:ord0;page16:tag14:entity3:key002E2357:ref0:ord0;page16:tag14:entity22:key00D57705:ref11:ord0;page22:tag9:entity3:key002E2357:ref0:ord0;page22:tag9:entity22:key00D57705:ref11:ord0;page46:tag4:entity3:key002E2357:ref0:ord0;page46:tag4:entity22:key00D57705:ref11:ord0;page292:tag12:entity3:key002E2357:ref0:ord0;page292:tag12:entity22:key00D57705:ref11:ord0,,S,M,,,,NOT_CHECKED,1,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=12
+5D5CAF77,1,1,1;1;1;1;1;1,6,,page4:tag15:entity2:key002E2351:ref1:ord0;page10:tag11:entity2:key002E2351:ref1:ord0;page16:tag14:entity2:key002E2351:ref1:ord0;page22:tag9:entity2:key002E2351:ref1:ord0;page46:tag4:entity2:key002E2351:ref1:ord0;page292:tag12:entity2:key002E2351:ref1:ord0,S,M,"ATTENTION
+MEMORY TOWER LOCKED. CANNOT TAKE OUT MEMORY DRIVE NOW.",,,,NOT_CHECKED,1,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,2,2,2;2;2;2;2;2,6,,page4:tag15:entity5:key00462C3E:ref2:ord0;page10:tag11:entity5:key00462C3E:ref2:ord0;page16:tag14:entity5:key00462C3E:ref2:ord0;page22:tag9:entity5:key00462C3E:ref2:ord0;page46:tag4:entity5:key00462C3E:ref2:ord0;page292:tag12:entity5:key00462C3E:ref2:ord0,M,"ATTENTION
+MEMORY TOWER LOCKED. CANNOT TAKE OUT MEMORY DRIVE NOW.",MEMORY TOWER LOCKED,,,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,3,3,3;3;3;3;3;3,6,,page4:tag15:entity6:key009C9AA9:ref3:ord0;page10:tag11:entity6:key009C9AA9:ref3:ord0;page16:tag14:entity6:key009C9AA9:ref3:ord0;page22:tag9:entity6:key009C9AA9:ref3:ord0;page46:tag4:entity6:key009C9AA9:ref3:ord0;page292:tag12:entity6:key009C9AA9:ref3:ord0,"ATTENTION
+MEMORY TOWER LOCKED. CANNOT TAKE OUT MEMORY DRIVE NOW.",MEMORY TOWER LOCKED,C,,,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,4,4,4;4;4;4;4;4,6,,page4:tag15:entity1:key002E2347:ref4:ord0;page10:tag11:entity1:key002E2347:ref4:ord0;page16:tag14:entity1:key002E2347:ref4:ord0;page22:tag9:entity1:key002E2347:ref4:ord0;page46:tag4:entity1:key002E2347:ref4:ord0;page292:tag12:entity1:key002E2347:ref4:ord0,MEMORY TOWER LOCKED,C,A,,,,NOT_CHECKED,1,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,5,5,5;5;5;5;5;5,6,,page4:tag15:entity0:key002E2345:ref5:ord0;page10:tag11:entity0:key002E2345:ref5:ord0;page16:tag14:entity0:key002E2345:ref5:ord0;page22:tag9:entity0:key002E2345:ref5:ord0;page46:tag4:entity0:key002E2345:ref5:ord0;page292:tag12:entity0:key002E2345:ref5:ord0,C,A,TIME + %02d,,,,NOT_CHECKED,1,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,6,6,6;6;6;6;6;6,6,,page4:tag15:entity7:key00AF002F:ref6:ord0;page10:tag11:entity7:key00AF002F:ref6:ord0;page16:tag14:entity7:key00AF002F:ref6:ord0;page22:tag9:entity7:key00AF002F:ref6:ord0;page46:tag4:entity7:key00AF002F:ref6:ord0;page292:tag12:entity7:key00AF002F:ref6:ord0,A,TIME + %02d,Remove Board:<I=×>,,,,NOT_CHECKED,11,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,7,7,7;7;7;7;7;7,6,,page4:tag15:entity4:key003DF22B:ref7:ord0;page10:tag11:entity4:key003DF22B:ref7:ord0;page16:tag14:entity4:key003DF22B:ref7:ord0;page22:tag9:entity4:key003DF22B:ref7:ord0;page46:tag4:entity4:key003DF22B:ref7:ord0;page292:tag12:entity4:key003DF22B:ref7:ord0,TIME + %02d,Remove Board:<I=×>,ZZZ,<I=×>,,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,8,8,8;8;8;8;8;8,6,,page4:tag15:entity15:key008587FB:ref8:ord0;page10:tag11:entity15:key008587FB:ref8:ord0;page16:tag14:entity15:key008587FB:ref8:ord0;page22:tag9:entity15:key008587FB:ref8:ord0;page46:tag4:entity15:key008587FB:ref8:ord0;page292:tag12:entity15:key008587FB:ref8:ord0,Remove Board:<I=×>,ZZZ,WEAPON,,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,9,9,9;9;9;9;9;9,6,,page4:tag15:entity10:key00519DA7:ref9:ord0;page10:tag11:entity10:key00519DA7:ref9:ord0;page16:tag14:entity10:key00519DA7:ref9:ord0;page22:tag9:entity10:key00519DA7:ref9:ord0;page46:tag4:entity10:key00519DA7:ref9:ord0;page292:tag12:entity10:key00519DA7:ref9:ord0,ZZZ,WEAPON,USE:,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,10,10,10;10;10;10;10;10,6,,page4:tag15:entity14:key00857306:ref10:ord0;page10:tag11:entity14:key00857306:ref10:ord0;page16:tag14:entity14:key00857306:ref10:ord0;page22:tag9:entity14:key00857306:ref10:ord0;page46:tag4:entity14:key00857306:ref10:ord0;page292:tag12:entity14:key00857306:ref10:ord0,WEAPON,USE:,S,,,,NOT_CHECKED,4,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,11,12,12;12;12;12;12;12,6,,page4:tag15:entity18:key00AD671E:ref12:ord0;page10:tag11:entity18:key00AD671E:ref12:ord0;page16:tag14:entity18:key00AD671E:ref12:ord0;page22:tag9:entity18:key00AD671E:ref12:ord0;page46:tag4:entity18:key00AD671E:ref12:ord0;page292:tag12:entity18:key00AD671E:ref12:ord0,S,STN,SENT TO MOTHER BASE,,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,12,13,13;13;13;13;13;13,6,,page4:tag15:entity9:key001ED30B:ref13:ord0;page10:tag11:entity9:key001ED30B:ref13:ord0;page16:tag14:entity9:key001ED30B:ref13:ord0;page22:tag9:entity9:key001ED30B:ref13:ord0;page46:tag4:entity9:key001ED30B:ref13:ord0;page292:tag12:entity9:key001ED30B:ref13:ord0,STN,SENT TO MOTHER BASE,RELOAD,,,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,13,14,14;14;14;14;14;14,6,,page4:tag15:entity17:key00A80716:ref14:ord0;page10:tag11:entity17:key00A80716:ref14:ord0;page16:tag14:entity17:key00A80716:ref14:ord0;page22:tag9:entity17:key00A80716:ref14:ord0;page46:tag4:entity17:key00A80716:ref14:ord0;page292:tag12:entity17:key00A80716:ref14:ord0,SENT TO MOTHER BASE,RELOAD,NO USE,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,14,15,15;15;15;15;15;15,6,,page4:tag15:entity11:key005A64BA:ref15:ord0;page10:tag11:entity11:key005A64BA:ref15:ord0;page16:tag14:entity11:key005A64BA:ref15:ord0;page22:tag9:entity11:key005A64BA:ref15:ord0;page46:tag4:entity11:key005A64BA:ref15:ord0;page292:tag12:entity11:key005A64BA:ref15:ord0,RELOAD,NO USE,ITEM,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,15,16,16;16;16;16;16;16,6,,page4:tag15:entity8:key000CA408:ref16:ord0;page10:tag11:entity8:key000CA408:ref16:ord0;page16:tag14:entity8:key000CA408:ref16:ord0;page22:tag9:entity8:key000CA408:ref16:ord0;page46:tag4:entity8:key000CA408:ref16:ord0;page292:tag12:entity8:key000CA408:ref16:ord0,NO USE,ITEM,EMPTY,,,,NOT_CHECKED,4,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,16,17,17;17;17;17;17;17,6,,page4:tag15:entity20:key00C950ED:ref17:ord0;page10:tag11:entity20:key00C950ED:ref17:ord0;page16:tag14:entity20:key00C950ED:ref17:ord0;page22:tag9:entity20:key00C950ED:ref17:ord0;page46:tag4:entity20:key00C950ED:ref17:ord0;page292:tag12:entity20:key00C950ED:ref17:ord0,ITEM,EMPTY,DROP:,,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,17,18,18;18;18;18;18;18,6,,page4:tag15:entity16:key00A5DE60:ref18:ord0;page10:tag11:entity16:key00A5DE60:ref18:ord0;page16:tag14:entity16:key00A5DE60:ref18:ord0;page22:tag9:entity16:key00A5DE60:ref18:ord0;page46:tag4:entity16:key00A5DE60:ref18:ord0;page292:tag12:entity16:key00A5DE60:ref18:ord0,EMPTY,DROP:,CQC,,,,NOT_CHECKED,5,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,18,19,19;19;19;19;19;19,6,,page4:tag15:entity13:key00852AC4:ref19:ord0;page10:tag11:entity13:key00852AC4:ref19:ord0;page16:tag14:entity13:key00852AC4:ref19:ord0;page22:tag9:entity13:key00852AC4:ref19:ord0;page46:tag4:entity13:key00852AC4:ref19:ord0;page292:tag12:entity13:key00852AC4:ref19:ord0,DROP:,CQC,CHANGE:,,,,NOT_CHECKED,3,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,19,20,20;20;20;20;20;20,6,,page4:tag15:entity21:key00D283B9:ref20:ord0;page10:tag11:entity21:key00D283B9:ref20:ord0;page16:tag14:entity21:key00D283B9:ref20:ord0;page22:tag9:entity21:key00D283B9:ref20:ord0;page46:tag4:entity21:key00D283B9:ref20:ord0;page292:tag12:entity21:key00D283B9:ref20:ord0,CQC,CHANGE:,CANNOT GET,,,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,20,21,21;21;21;21;21;21,6,,page4:tag15:entity19:key00B73540:ref21:ord0;page10:tag11:entity19:key00B73540:ref21:ord0;page16:tag14:entity19:key00B73540:ref21:ord0;page22:tag9:entity19:key00B73540:ref21:ord0;page46:tag4:entity19:key00B73540:ref21:ord0;page292:tag12:entity19:key00B73540:ref21:ord0,CHANGE:,CANNOT GET,B,,,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,21,22,22;22;22;22;22;22,6,,page4:tag15:entity12:key008370E6:ref22:ord0;page10:tag11:entity12:key008370E6:ref22:ord0;page16:tag14:entity12:key008370E6:ref22:ord0;page22:tag9:entity12:key008370E6:ref22:ord0;page46:tag4:entity12:key008370E6:ref22:ord0;page292:tag12:entity12:key008370E6:ref22:ord0,CANNOT GET,B,サーバとの接続に失敗しました。,,,,NOT_CHECKED,1,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,22,23,23;23;23;23;23;23,6,,page4:tag15:entity26:key0093744B:ref23:ord0;page10:tag11:entity26:key0093744B:ref23:ord0;page16:tag14:entity26:key0093744B:ref23:ord0;page22:tag9:entity26:key0093744B:ref23:ord0;page46:tag4:entity26:key0093744B:ref23:ord0;page292:tag12:entity26:key0093744B:ref23:ord0,B,サーバとの接続に失敗しました。,"WLAN/WIRELESSスイッチがOFFになっています。
+接続するにはスイッチをONにして下さい。",,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,23,25,25;25;25;25;25;25,6,,page4:tag15:entity24:key00937449:ref25:ord0;page10:tag11:entity24:key00937449:ref25:ord0;page16:tag14:entity24:key00937449:ref25:ord0;page22:tag9:entity24:key00937449:ref25:ord0;page46:tag4:entity24:key00937449:ref25:ord0;page292:tag12:entity24:key00937449:ref25:ord0,サーバとの接続に失敗しました。,"WLAN/WIRELESSスイッチがOFFになっています。
+接続するにはスイッチをONにして下さい。",エラーが発生しました。エラー番号:,,,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,24,26,26;26;26;26;26;26,6,,page4:tag15:entity23:key00937448:ref26:ord0;page10:tag11:entity23:key00937448:ref26:ord0;page16:tag14:entity23:key00937448:ref26:ord0;page22:tag9:entity23:key00937448:ref26:ord0;page46:tag4:entity23:key00937448:ref26:ord0;page292:tag12:entity23:key00937448:ref26:ord0,"WLAN/WIRELESSスイッチがOFFになっています。
+接続するにはスイッチをONにして下さい。",エラーが発生しました。エラー番号:,"使用できない文字が含まれています。
+以下の文字は使用できません。",,,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,25,27,27;27;27;27;27;27,6,,page4:tag15:entity27:key006D61F6:ref27:ord0;page10:tag11:entity27:key006D61F6:ref27:ord0;page16:tag14:entity27:key006D61F6:ref27:ord0;page22:tag9:entity27:key006D61F6:ref27:ord0;page46:tag4:entity27:key006D61F6:ref27:ord0;page292:tag12:entity27:key006D61F6:ref27:ord0,エラーが発生しました。エラー番号:,"使用できない文字が含まれています。
+以下の文字は使用できません。",METAL GEAR SOLID PEACE WALKER,,,,NOT_CHECKED,94,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,26,32,32;32;32;32;32;32,6,,page4:tag15:entity37:key00BDBAB4:ref32:ord0;page10:tag11:entity37:key00BDBAB4:ref32:ord0;page16:tag14:entity37:key00BDBAB4:ref32:ord0;page22:tag9:entity37:key00BDBAB4:ref32:ord0;page46:tag4:entity37:key00BDBAB4:ref32:ord0;page292:tag12:entity37:key00BDBAB4:ref32:ord0,"使用できない文字が含まれています。
+以下の文字は使用できません。",METAL GEAR SOLID PEACE WALKER,プレイ時間,,,,NOT_CHECKED,29,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,27,33,33;33;33;33;33;33,6,,page4:tag15:entity30:key0032ED5D:ref33:ord0;page10:tag11:entity30:key0032ED5D:ref33:ord0;page16:tag14:entity30:key0032ED5D:ref33:ord0;page22:tag9:entity30:key0032ED5D:ref33:ord0;page46:tag4:entity30:key0032ED5D:ref33:ord0;page292:tag12:entity30:key0032ED5D:ref33:ord0,METAL GEAR SOLID PEACE WALKER,プレイ時間,プレイヤー名,,,,NOT_CHECKED,15,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,28,34,34;34;34;34;34;34,6,,page4:tag15:entity38:key00DE0AE1:ref34:ord0;page10:tag11:entity38:key00DE0AE1:ref34:ord0;page16:tag14:entity38:key00DE0AE1:ref34:ord0;page22:tag9:entity38:key00DE0AE1:ref34:ord0;page46:tag4:entity38:key00DE0AE1:ref34:ord0;page292:tag12:entity38:key00DE0AE1:ref34:ord0,プレイ時間,プレイヤー名,新規セーブデータ,,,,NOT_CHECKED,18,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,29,36,36;36;36;36;36;36,6,,page4:tag15:entity29:key0016CC30:ref36:ord0;page10:tag11:entity29:key0016CC30:ref36:ord0;page16:tag14:entity29:key0016CC30:ref36:ord0;page22:tag9:entity29:key0016CC30:ref36:ord0;page46:tag4:entity29:key0016CC30:ref36:ord0;page292:tag12:entity29:key0016CC30:ref36:ord0,プレイヤー名,新規セーブデータ,%02d年%02d月%02d日 %s,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,30,37,37;37;37;37;37;37,6,,page4:tag15:entity36:key00BBD985:ref37:ord0;page10:tag11:entity36:key00BBD985:ref37:ord0;page16:tag14:entity36:key00BBD985:ref37:ord0;page22:tag9:entity36:key00BBD985:ref37:ord0;page46:tag4:entity36:key00BBD985:ref37:ord0;page292:tag12:entity36:key00BBD985:ref37:ord0,新規セーブデータ,%02d年%02d月%02d日 %s,はい,,,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,31,40,40;40;40;40;40;40,6,,page4:tag15:entity85:key00E605F1:ref40:ord0;page10:tag11:entity85:key00E605F1:ref40:ord0;page16:tag14:entity85:key00E605F1:ref40:ord0;page22:tag9:entity85:key00E605F1:ref40:ord0;page46:tag4:entity85:key00E605F1:ref40:ord0;page292:tag12:entity85:key00E605F1:ref40:ord0,%02d年%02d月%02d日 %s,はい,"このゲームでは、１つのセーブデータを継続して
+使用します。ゲーム中にメモリースティック™を
+抜いたり、データを削除すると、ゲームが継続でき
+なくなる恐れがありますのでご注意ください。",,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,32,41,41;41;41;41;41;41,6,,page4:tag15:entity50:key00368DDE:ref41:ord0;page10:tag11:entity50:key00368DDE:ref41:ord0;page16:tag14:entity50:key00368DDE:ref41:ord0;page22:tag9:entity50:key00368DDE:ref41:ord0;page46:tag4:entity50:key00368DDE:ref41:ord0;page292:tag12:entity50:key00368DDE:ref41:ord0,はい,"このゲームでは、１つのセーブデータを継続して
+使用します。ゲーム中にメモリースティック™を
+抜いたり、データを削除すると、ゲームが継続でき
+なくなる恐れがありますのでご注意ください。",成功,,,,NOT_CHECKED,267,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,33,42,42;42;42;42;42;42,6,,page4:tag15:entity52:key0040FDB1:ref42:ord0;page10:tag11:entity52:key0040FDB1:ref42:ord0;page16:tag14:entity52:key0040FDB1:ref42:ord0;page22:tag9:entity52:key0040FDB1:ref42:ord0;page46:tag4:entity52:key0040FDB1:ref42:ord0;page292:tag12:entity52:key0040FDB1:ref42:ord0,"このゲームでは、１つのセーブデータを継続して
+使用します。ゲーム中にメモリースティック™を
+抜いたり、データを削除すると、ゲームが継続でき
+なくなる恐れがありますのでご注意ください。",成功,セーブデータ選択削除機能を起動しますか？,,,,NOT_CHECKED,6,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,34,43,43;43;43;43;43;43,6,,page4:tag15:entity84:key00E5E0DE:ref43:ord0;page10:tag11:entity84:key00E5E0DE:ref43:ord0;page16:tag14:entity84:key00E5E0DE:ref43:ord0;page22:tag9:entity84:key00E5E0DE:ref43:ord0;page46:tag4:entity84:key00E5E0DE:ref43:ord0;page292:tag12:entity84:key00E5E0DE:ref43:ord0,成功,セーブデータ選択削除機能を起動しますか？,撮影データを保存しています…,,,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,35,44,44;44;44;44;44;44,6,,page4:tag15:entity58:key005C26BC:ref44:ord0;page10:tag11:entity58:key005C26BC:ref44:ord0;page16:tag14:entity58:key005C26BC:ref44:ord0;page22:tag9:entity58:key005C26BC:ref44:ord0;page46:tag4:entity58:key005C26BC:ref44:ord0;page292:tag12:entity58:key005C26BC:ref44:ord0,セーブデータ選択削除機能を起動しますか？,撮影データを保存しています…,"セーブしています。
+絶対に、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。",,,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,36,45,45;45;45;45;45;45,6,,page4:tag15:entity75:key00BBA0FD:ref45:ord0;page10:tag11:entity75:key00BBA0FD:ref45:ord0;page16:tag14:entity75:key00BBA0FD:ref45:ord0;page22:tag9:entity75:key00BBA0FD:ref45:ord0;page46:tag4:entity75:key00BBA0FD:ref45:ord0;page292:tag12:entity75:key00BBA0FD:ref45:ord0,撮影データを保存しています…,"セーブしています。
+絶対に、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。","撮影データを以下の名前で保存しました。
+Filenamefilenamefilenamefilenamefilename",,,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,37,46,46;46;46;46;46;46,6,,page4:tag15:entity78:key00C792EF:ref46:ord0;page10:tag11:entity78:key00C792EF:ref46:ord0;page16:tag14:entity78:key00C792EF:ref46:ord0;page22:tag9:entity78:key00C792EF:ref46:ord0;page46:tag4:entity78:key00C792EF:ref46:ord0;page292:tag12:entity78:key00C792EF:ref46:ord0,"セーブしています。
+絶対に、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。","撮影データを以下の名前で保存しました。
+Filenamefilenamefilenamefilenamefilename",セーブが正常に終了しました。,,,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,38,47,47;47;47;47;47;47,6,,page4:tag15:entity87:key00E93EA0:ref47:ord0;page10:tag11:entity87:key00E93EA0:ref47:ord0;page16:tag14:entity87:key00E93EA0:ref47:ord0;page22:tag9:entity87:key00E93EA0:ref47:ord0;page46:tag4:entity87:key00E93EA0:ref47:ord0;page292:tag12:entity87:key00E93EA0:ref47:ord0,"撮影データを以下の名前で保存しました。
+Filenamefilenamefilenamefilenamefilename",セーブが正常に終了しました。,"セーブできませんでした。
+リトライしますか？",,,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,39,48,48;48;48;48;48;48,6,,page4:tag15:entity81:key00D2E783:ref48:ord0;page10:tag11:entity81:key00D2E783:ref48:ord0;page16:tag14:entity81:key00D2E783:ref48:ord0;page22:tag9:entity81:key00D2E783:ref48:ord0;page46:tag4:entity81:key00D2E783:ref48:ord0;page292:tag12:entity81:key00D2E783:ref48:ord0,セーブが正常に終了しました。,"セーブできませんでした。
+リトライしますか？",セーブできませんでした。,,,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,40,49,49;49;49;49;49;49,6,,page4:tag15:entity71:key00ACDF21:ref49:ord0;page10:tag11:entity71:key00ACDF21:ref49:ord0;page16:tag14:entity71:key00ACDF21:ref49:ord0;page22:tag9:entity71:key00ACDF21:ref49:ord0;page46:tag4:entity71:key00ACDF21:ref49:ord0;page292:tag12:entity71:key00ACDF21:ref49:ord0,"セーブできませんでした。
+リトライしますか？",セーブできませんでした。,"スリープモードから復帰しました。
+メモリースティック™内のデータ更新処理が必要です
+ので、一度メニューを終了してから、メニューに入り
+なおしてください。",,,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,41,50,50;50;50;50;50;50,6,,page4:tag15:entity73:key00B9CF74:ref50:ord0;page10:tag11:entity73:key00B9CF74:ref50:ord0;page16:tag14:entity73:key00B9CF74:ref50:ord0;page22:tag9:entity73:key00B9CF74:ref50:ord0;page46:tag4:entity73:key00B9CF74:ref50:ord0;page292:tag12:entity73:key00B9CF74:ref50:ord0,セーブできませんでした。,"スリープモードから復帰しました。
+メモリースティック™内のデータ更新処理が必要です
+ので、一度メニューを終了してから、メニューに入り
+なおしてください。","CO-OPS通信で指定しているVOCALOIDデータが
+メモリースティック™内に存在しません。
+該当するCO-OPS通信の設定を初期設定に戻しました。",,,,NOT_CHECKED,222,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,42,51,51;51;51;51;51;51,6,,page4:tag15:entity86:key00E93C5E:ref51:ord0;page10:tag11:entity86:key00E93C5E:ref51:ord0;page16:tag14:entity86:key00E93C5E:ref51:ord0;page22:tag9:entity86:key00E93C5E:ref51:ord0;page46:tag4:entity86:key00E93C5E:ref51:ord0;page292:tag12:entity86:key00E93C5E:ref51:ord0,"スリープモードから復帰しました。
+メモリースティック™内のデータ更新処理が必要です
+ので、一度メニューを終了してから、メニューに入り
+なおしてください。","CO-OPS通信で指定しているVOCALOIDデータが
+メモリースティック™内に存在しません。
+該当するCO-OPS通信の設定を初期設定に戻しました。","メモリースティック™からの読み込み中にエラーが
+発生した為、メモリースティック™内のデータを使用する
+各種機能が無効になっています。
+初期化をすることで、再度使用することができるように
+なります。初期化を行いますか？",,,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,43,52,52;52;52;52;52;52,6,,page4:tag15:entity62:key0080D48F:ref52:ord0;page10:tag11:entity62:key0080D48F:ref52:ord0;page16:tag14:entity62:key0080D48F:ref52:ord0;page22:tag9:entity62:key0080D48F:ref52:ord0;page46:tag4:entity62:key0080D48F:ref52:ord0;page292:tag12:entity62:key0080D48F:ref52:ord0,"CO-OPS通信で指定しているVOCALOIDデータが
+メモリースティック™内に存在しません。
+該当するCO-OPS通信の設定を初期設定に戻しました。","メモリースティック™からの読み込み中にエラーが
+発生した為、メモリースティック™内のデータを使用する
+各種機能が無効になっています。
+初期化をすることで、再度使用することができるように
+なります。初期化を行いますか？","メモリースティック™からデータの読み込み中、
+エラーが発生しました。インストールデータ又は
+ダウンロードデータが破損している可能性が
+あります。再度インストールし直すことをお奨めします。",,,,NOT_CHECKED,316,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,44,53,53;53;53;53;53;53,6,,page4:tag15:entity44:key0017D9FF:ref53:ord0;page10:tag11:entity44:key0017D9FF:ref53:ord0;page16:tag14:entity44:key0017D9FF:ref53:ord0;page22:tag9:entity44:key0017D9FF:ref53:ord0;page46:tag4:entity44:key0017D9FF:ref53:ord0;page292:tag12:entity44:key0017D9FF:ref53:ord0,"メモリースティック™からの読み込み中にエラーが
+発生した為、メモリースティック™内のデータを使用する
+各種機能が無効になっています。
+初期化をすることで、再度使用することができるように
+なります。初期化を行いますか？","メモリースティック™からデータの読み込み中、
+エラーが発生しました。インストールデータ又は
+ダウンロードデータが破損している可能性が
+あります。再度インストールし直すことをお奨めします。","メモリースティック™の抜き差しが行われたか、
+スリープモードに入ったため現在データ
+インストール機能が無効になっています。
+有効にしますか？",,,,NOT_CHECKED,273,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,45,54,54;54;54;54;54;54,6,,page4:tag15:entity46:key002A761C:ref54:ord0;page10:tag11:entity46:key002A761C:ref54:ord0;page16:tag14:entity46:key002A761C:ref54:ord0;page22:tag9:entity46:key002A761C:ref54:ord0;page46:tag4:entity46:key002A761C:ref54:ord0;page292:tag12:entity46:key002A761C:ref54:ord0,"メモリースティック™からデータの読み込み中、
+エラーが発生しました。インストールデータ又は
+ダウンロードデータが破損している可能性が
+あります。再度インストールし直すことをお奨めします。","メモリースティック™の抜き差しが行われたか、
+スリープモードに入ったため現在データ
+インストール機能が無効になっています。
+有効にしますか？",データをセーブせずにゲームを開始しますか？,,,,NOT_CHECKED,204,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,46,55,55;55;55;55;55;55,6,,page4:tag15:entity40:key0005137C:ref55:ord0;page10:tag11:entity40:key0005137C:ref55:ord0;page16:tag14:entity40:key0005137C:ref55:ord0;page22:tag9:entity40:key0005137C:ref55:ord0;page46:tag4:entity40:key0005137C:ref55:ord0;page292:tag12:entity40:key0005137C:ref55:ord0,"メモリースティック™の抜き差しが行われたか、
+スリープモードに入ったため現在データ
+インストール機能が無効になっています。
+有効にしますか？",データをセーブせずにゲームを開始しますか？,データをセーブせずに終了しますか？,,,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,47,56,56;56;56;56;56;56,6,,page4:tag15:entity47:key002A922E:ref56:ord0;page10:tag11:entity47:key002A922E:ref56:ord0;page16:tag14:entity47:key002A922E:ref56:ord0;page22:tag9:entity47:key002A922E:ref56:ord0;page46:tag4:entity47:key002A922E:ref56:ord0;page292:tag12:entity47:key002A922E:ref56:ord0,データをセーブせずにゲームを開始しますか？,データをセーブせずに終了しますか？,"メモリースティック™が正しくセットされて
+いません。
+あなたのセーブデータが保存されている
+メモリースティック™をセットしてください。",,,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,48,57,57;57;57;57;57;57,6,,page4:tag15:entity67:key00915AAA:ref57:ord0;page10:tag11:entity67:key00915AAA:ref57:ord0;page16:tag14:entity67:key00915AAA:ref57:ord0;page22:tag9:entity67:key00915AAA:ref57:ord0;page46:tag4:entity67:key00915AAA:ref57:ord0;page292:tag12:entity67:key00915AAA:ref57:ord0,データをセーブせずに終了しますか？,"メモリースティック™が正しくセットされて
+いません。
+あなたのセーブデータが保存されている
+メモリースティック™をセットしてください。","画面撮影に失敗しました。
+メモリースティック™が正しくセットされて
+いません。",,,,NOT_CHECKED,195,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,49,58,58;58;58;58;58;58,6,,page4:tag15:entity49:key002E2681:ref58:ord0;page10:tag11:entity49:key002E2681:ref58:ord0;page16:tag14:entity49:key002E2681:ref58:ord0;page22:tag9:entity49:key002E2681:ref58:ord0;page46:tag4:entity49:key002E2681:ref58:ord0;page292:tag12:entity49:key002E2681:ref58:ord0,"メモリースティック™が正しくセットされて
+いません。
+あなたのセーブデータが保存されている
+メモリースティック™をセットしてください。","画面撮影に失敗しました。
+メモリースティック™が正しくセットされて
+いません。","メモリースティック™の抜き差しが行われたか、
+スリープモードの操作が行われたため、メニューを終了します。",,,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,50,59,59;59;59;59;59;59,6,,page4:tag15:entity61:key00704F39:ref59:ord0;page10:tag11:entity61:key00704F39:ref59:ord0;page16:tag14:entity61:key00704F39:ref59:ord0;page22:tag9:entity61:key00704F39:ref59:ord0;page46:tag4:entity61:key00704F39:ref59:ord0;page292:tag12:entity61:key00704F39:ref59:ord0,"画面撮影に失敗しました。
+メモリースティック™が正しくセットされて
+いません。","メモリースティック™の抜き差しが行われたか、
+スリープモードの操作が行われたため、メニューを終了します。","メモリースティック™が正しくセットされて
+いません。
+このゲームは、メモリースティック™無しで
+プレイすることはできません。
+33MB以上空き容量のあるメモリースティック™
+をセットしてください。",,,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,51,60,60;60;60;60;60;60,6,,page4:tag15:entity59:key005F4765:ref60:ord0;page10:tag11:entity59:key005F4765:ref60:ord0;page16:tag14:entity59:key005F4765:ref60:ord0;page22:tag9:entity59:key005F4765:ref60:ord0;page46:tag4:entity59:key005F4765:ref60:ord0;page292:tag12:entity59:key005F4765:ref60:ord0,"メモリースティック™の抜き差しが行われたか、
+スリープモードの操作が行われたため、メニューを終了します。","メモリースティック™が正しくセットされて
+いません。
+このゲームは、メモリースティック™無しで
+プレイすることはできません。
+33MB以上空き容量のあるメモリースティック™
+をセットしてください。","メモリースティック™が正しくセットされて
+いません。
+このゲームは、メモリースティック™無しで
+プレイすることはできません。既にこのゲームの
+セーブデータが存在するか、33MB以上空き容量の
+あるメモリースティック™をセットしてください。",,,,NOT_CHECKED,276,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,52,61,61;61;61;61;61;61,6,,page4:tag15:entity65:key008911D9:ref61:ord0;page10:tag11:entity65:key008911D9:ref61:ord0;page16:tag14:entity65:key008911D9:ref61:ord0;page22:tag9:entity65:key008911D9:ref61:ord0;page46:tag4:entity65:key008911D9:ref61:ord0;page292:tag12:entity65:key008911D9:ref61:ord0,"メモリースティック™が正しくセットされて
+いません。
+このゲームは、メモリースティック™無しで
+プレイすることはできません。
+33MB以上空き容量のあるメモリースティック™
+をセットしてください。","メモリースティック™が正しくセットされて
+いません。
+このゲームは、メモリースティック™無しで
+プレイすることはできません。既にこのゲームの
+セーブデータが存在するか、33MB以上空き容量の
+あるメモリースティック™をセットしてください。","メモリースティック™が正しくセットされて
+いません。このゲームのデータをセーブするには
+33MB以上空き容量のあるメモリースティック™
+が必要です。",,,,NOT_CHECKED,339,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,53,62,62;62;62;62;62;62,6,,page4:tag15:entity74:key00BB65CF:ref62:ord0;page10:tag11:entity74:key00BB65CF:ref62:ord0;page16:tag14:entity74:key00BB65CF:ref62:ord0;page22:tag9:entity74:key00BB65CF:ref62:ord0;page46:tag4:entity74:key00BB65CF:ref62:ord0;page292:tag12:entity74:key00BB65CF:ref62:ord0,"メモリースティック™が正しくセットされて
+いません。
+このゲームは、メモリースティック™無しで
+プレイすることはできません。既にこのゲームの
+セーブデータが存在するか、33MB以上空き容量の
+あるメモリースティック™をセットしてください。","メモリースティック™が正しくセットされて
+いません。このゲームのデータをセーブするには
+33MB以上空き容量のあるメモリースティック™
+が必要です。","メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするには576KB以上の
+空き容量が必要です。",,,,NOT_CHECKED,208,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,54,63,63;63;63;63;63;63,6,,page4:tag15:entity42:key00131080:ref63:ord0;page10:tag11:entity42:key00131080:ref63:ord0;page16:tag14:entity42:key00131080:ref63:ord0;page22:tag9:entity42:key00131080:ref63:ord0;page46:tag4:entity42:key00131080:ref63:ord0;page292:tag12:entity42:key00131080:ref63:ord0,"メモリースティック™が正しくセットされて
+いません。このゲームのデータをセーブするには
+33MB以上空き容量のあるメモリースティック™
+が必要です。","メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするには576KB以上の
+空き容量が必要です。","画面撮影に失敗しました。
+メモリースティック™の空き容量が不足しています。
+画面撮影データをセーブするには64KB以上の
+空き容量が必要です。",,,,NOT_CHECKED,169,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,55,64,64;64;64;64;64;64,6,,page4:tag15:entity56:key0053AE98:ref64:ord0;page10:tag11:entity56:key0053AE98:ref64:ord0;page16:tag14:entity56:key0053AE98:ref64:ord0;page22:tag9:entity56:key0053AE98:ref64:ord0;page46:tag4:entity56:key0053AE98:ref64:ord0;page292:tag12:entity56:key0053AE98:ref64:ord0,"メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするには576KB以上の
+空き容量が必要です。","画面撮影に失敗しました。
+メモリースティック™の空き容量が不足しています。
+画面撮影データをセーブするには64KB以上の
+空き容量が必要です。","メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするにはXXMB以上の
+空き容量が必要です。",,,,NOT_CHECKED,199,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,56,65,65;65;65;65;65;65,6,,page4:tag15:entity90:key00FFA130:ref65:ord0;page10:tag11:entity90:key00FFA130:ref65:ord0;page16:tag14:entity90:key00FFA130:ref65:ord0;page22:tag9:entity90:key00FFA130:ref65:ord0;page46:tag4:entity90:key00FFA130:ref65:ord0;page292:tag12:entity90:key00FFA130:ref65:ord0,"画面撮影に失敗しました。
+メモリースティック™の空き容量が不足しています。
+画面撮影データをセーブするには64KB以上の
+空き容量が必要です。","メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするにはXXMB以上の
+空き容量が必要です。","メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするにはXXMB以上の
+空き容量が必要です。
+このゲームは、メモリースティック™なしで
+プレイすることはできません。
+セーブデータを削除して容量を確保するか、
+XXMB以上空き容量のあるメモリースティック™を
+セットしてください。",,,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,57,66,66;66;66;66;66;66,6,,page4:tag15:entity53:key00437CF5:ref66:ord0;page10:tag11:entity53:key00437CF5:ref66:ord0;page16:tag14:entity53:key00437CF5:ref66:ord0;page22:tag9:entity53:key00437CF5:ref66:ord0;page46:tag4:entity53:key00437CF5:ref66:ord0;page292:tag12:entity53:key00437CF5:ref66:ord0,"メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするにはXXMB以上の
+空き容量が必要です。","メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするにはXXMB以上の
+空き容量が必要です。
+このゲームは、メモリースティック™なしで
+プレイすることはできません。
+セーブデータを削除して容量を確保するか、
+XXMB以上空き容量のあるメモリースティック™を
+セットしてください。","あなたのセーブデータが存在しません。
+あなたのセーブデータが保存されている
+メモリースティック™をセットしてください。",,,,NOT_CHECKED,429,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,58,67,67;67;67;67;67;67,6,,page4:tag15:entity68:key0093A0B2:ref67:ord0;page10:tag11:entity68:key0093A0B2:ref67:ord0;page16:tag14:entity68:key0093A0B2:ref67:ord0;page22:tag9:entity68:key0093A0B2:ref67:ord0;page46:tag4:entity68:key0093A0B2:ref67:ord0;page292:tag12:entity68:key0093A0B2:ref67:ord0,"メモリースティック™の空き容量が不足しています。
+このゲームのデータをセーブするにはXXMB以上の
+空き容量が必要です。
+このゲームは、メモリースティック™なしで
+プレイすることはできません。
+セーブデータを削除して容量を確保するか、
+XXMB以上空き容量のあるメモリースティック™を
+セットしてください。","あなたのセーブデータが存在しません。
+あなたのセーブデータが保存されている
+メモリースティック™をセットしてください。",メモリースティック™内にデータが存在しません。,,,,NOT_CHECKED,173,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,59,68,68;68;68;68;68;68,6,,page4:tag15:entity55:key004B32B5:ref68:ord0;page10:tag11:entity55:key004B32B5:ref68:ord0;page16:tag14:entity55:key004B32B5:ref68:ord0;page22:tag9:entity55:key004B32B5:ref68:ord0;page46:tag4:entity55:key004B32B5:ref68:ord0;page292:tag12:entity55:key004B32B5:ref68:ord0,"あなたのセーブデータが存在しません。
+あなたのセーブデータが保存されている
+メモリースティック™をセットしてください。",メモリースティック™内にデータが存在しません。,いいえ,,,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,60,69,69;69;69;69;69;69,6,,page4:tag15:entity89:key00F72ED6:ref69:ord0;page10:tag11:entity89:key00F72ED6:ref69:ord0;page16:tag14:entity89:key00F72ED6:ref69:ord0;page22:tag9:entity89:key00F72ED6:ref69:ord0;page46:tag4:entity89:key00F72ED6:ref69:ord0;page292:tag12:entity89:key00F72ED6:ref69:ord0,メモリースティック™内にデータが存在しません。,いいえ,"画面撮影に失敗しました。
+メモリースティック™がロックされています。",,,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,61,70,70;70;70;70;70;70,6,,page4:tag15:entity69:key00A6ED53:ref70:ord0;page10:tag11:entity69:key00A6ED53:ref70:ord0;page16:tag14:entity69:key00A6ED53:ref70:ord0;page22:tag9:entity69:key00A6ED53:ref70:ord0;page46:tag4:entity69:key00A6ED53:ref70:ord0;page292:tag12:entity69:key00A6ED53:ref70:ord0,いいえ,"画面撮影に失敗しました。
+メモリースティック™がロックされています。","セーブに失敗しました。
+メモリースティック™がロックされています。",,,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,62,71,71;71;71;71;71;71,6,,page4:tag15:entity63:key00823848:ref71:ord0;page10:tag11:entity63:key00823848:ref71:ord0;page16:tag14:entity63:key00823848:ref71:ord0;page22:tag9:entity63:key00823848:ref71:ord0;page46:tag4:entity63:key00823848:ref71:ord0;page292:tag12:entity63:key00823848:ref71:ord0,"画面撮影に失敗しました。
+メモリースティック™がロックされています。","セーブに失敗しました。
+メモリースティック™がロックされています。","メモリースティック™がセットされました。
+メモリースティック内のデータ更新処理が必要ですので、
+一度メニューを終了してから、メニューに入りなおして
+ください。",,,,NOT_CHECKED,97,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,63,72,72;72;72;72;72;72,6,,page4:tag15:entity83:key00E19F82:ref72:ord0;page10:tag11:entity83:key00E19F82:ref72:ord0;page16:tag14:entity83:key00E19F82:ref72:ord0;page22:tag9:entity83:key00E19F82:ref72:ord0;page46:tag4:entity83:key00E19F82:ref72:ord0;page292:tag12:entity83:key00E19F82:ref72:ord0,"セーブに失敗しました。
+メモリースティック™がロックされています。","メモリースティック™がセットされました。
+メモリースティック内のデータ更新処理が必要ですので、
+一度メニューを終了してから、メニューに入りなおして
+ください。","(不要)ゲームを続行することができません。
+タイトルに戻りますか？",,,,NOT_CHECKED,231,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,64,73,73;73;73;73;73;73,6,,page4:tag15:entity77:key00BF8C25:ref73:ord0;page10:tag11:entity77:key00BF8C25:ref73:ord0;page16:tag14:entity77:key00BF8C25:ref73:ord0;page22:tag9:entity77:key00BF8C25:ref73:ord0;page46:tag4:entity77:key00BF8C25:ref73:ord0;page292:tag12:entity77:key00BF8C25:ref73:ord0,"メモリースティック™がセットされました。
+メモリースティック内のデータ更新処理が必要ですので、
+一度メニューを終了してから、メニューに入りなおして
+ください。","(不要)ゲームを続行することができません。
+タイトルに戻りますか？","画面撮影に失敗しました。
+撮影データフォルダを作成できませんでした。",,,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,65,74,74;74;74;74;74;74,6,,page4:tag15:entity41:key000C06A1:ref74:ord0;page10:tag11:entity41:key000C06A1:ref74:ord0;page16:tag14:entity41:key000C06A1:ref74:ord0;page22:tag9:entity41:key000C06A1:ref74:ord0;page46:tag4:entity41:key000C06A1:ref74:ord0;page292:tag12:entity41:key000C06A1:ref74:ord0,"(不要)ゲームを続行することができません。
+タイトルに戻りますか？","画面撮影に失敗しました。
+撮影データフォルダを作成できませんでした。","既に最大数（3つ）のセーブデータが存在していますので
+新しくゲームを始める事ができません。
+本ゲームのセーブデータが3つ未満の
+メモリースティック™をセットするか、
+セーブデータを削除して3つ未満にしてください。",,,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,66,75,75;75;75;75;75;75,6,,page4:tag15:entity64:key0082F915:ref75:ord0;page10:tag11:entity64:key0082F915:ref75:ord0;page16:tag14:entity64:key0082F915:ref75:ord0;page22:tag9:entity64:key0082F915:ref75:ord0;page46:tag4:entity64:key0082F915:ref75:ord0;page292:tag12:entity64:key0082F915:ref75:ord0,"画面撮影に失敗しました。
+撮影データフォルダを作成できませんでした。","既に最大数（3つ）のセーブデータが存在していますので
+新しくゲームを始める事ができません。
+本ゲームのセーブデータが3つ未満の
+メモリースティック™をセットするか、
+セーブデータを削除して3つ未満にしてください。","画面撮影に失敗しました。
+撮影データファイルを作成できませんでした。",,,,NOT_CHECKED,304,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,67,76,76;76;76;76;76;76,6,,page4:tag15:entity48:key002CC873:ref76:ord0;page10:tag11:entity48:key002CC873:ref76:ord0;page16:tag14:entity48:key002CC873:ref76:ord0;page22:tag9:entity48:key002CC873:ref76:ord0;page46:tag4:entity48:key002CC873:ref76:ord0;page292:tag12:entity48:key002CC873:ref76:ord0,"既に最大数（3つ）のセーブデータが存在していますので
+新しくゲームを始める事ができません。
+本ゲームのセーブデータが3つ未満の
+メモリースティック™をセットするか、
+セーブデータを削除して3つ未満にしてください。","画面撮影に失敗しました。
+撮影データファイルを作成できませんでした。","メモリースティック™内データの初期化に失敗しました。
+データが破損している可能性があります。",,,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,68,77,77;77;77;77;77;77,6,,page4:tag15:entity80:key00D24E1F:ref77:ord0;page10:tag11:entity80:key00D24E1F:ref77:ord0;page16:tag14:entity80:key00D24E1F:ref77:ord0;page22:tag9:entity80:key00D24E1F:ref77:ord0;page46:tag4:entity80:key00D24E1F:ref77:ord0;page292:tag12:entity80:key00D24E1F:ref77:ord0,"画面撮影に失敗しました。
+撮影データファイルを作成できませんでした。","メモリースティック™内データの初期化に失敗しました。
+データが破損している可能性があります。","データインストール機能の有効化に失敗しました。
+データが破損している可能性があります。
+タイトルメニューのDATA INSTALLメニューから、
+再度、インストールを行うことをお奨めします。",,,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,69,78,78;78;78;78;78;78,6,,page4:tag15:entity79:key00CD693C:ref78:ord0;page10:tag11:entity79:key00CD693C:ref78:ord0;page16:tag14:entity79:key00CD693C:ref78:ord0;page22:tag9:entity79:key00CD693C:ref78:ord0;page46:tag4:entity79:key00CD693C:ref78:ord0;page292:tag12:entity79:key00CD693C:ref78:ord0,"メモリースティック™内データの初期化に失敗しました。
+データが破損している可能性があります。","データインストール機能の有効化に失敗しました。
+データが破損している可能性があります。
+タイトルメニューのDATA INSTALLメニューから、
+再度、インストールを行うことをお奨めします。","エラーが発生しました。
+画面撮影に失敗しました。",,,,NOT_CHECKED,255,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,70,79,79;79;79;79;79;79,6,,page4:tag15:entity54:key004762BF:ref79:ord0;page10:tag11:entity54:key004762BF:ref79:ord0;page16:tag14:entity54:key004762BF:ref79:ord0;page22:tag9:entity54:key004762BF:ref79:ord0;page46:tag4:entity54:key004762BF:ref79:ord0;page292:tag12:entity54:key004762BF:ref79:ord0,"データインストール機能の有効化に失敗しました。
+データが破損している可能性があります。
+タイトルメニューのDATA INSTALLメニューから、
+再度、インストールを行うことをお奨めします。","エラーが発生しました。
+画面撮影に失敗しました。",ネットワークから切断しています,,,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,71,80,80;80;80;80;80;80,6,,page4:tag15:entity57:key00557616:ref80:ord0;page10:tag11:entity57:key00557616:ref80:ord0;page16:tag14:entity57:key00557616:ref80:ord0;page22:tag9:entity57:key00557616:ref80:ord0;page46:tag4:entity57:key00557616:ref80:ord0;page292:tag12:entity57:key00557616:ref80:ord0,"エラーが発生しました。
+画面撮影に失敗しました。",ネットワークから切断しています,"メモリースティック™に破損したシステムデータ
+が存在しています。セーブデータ選択削除機能を
+起動して削除を行いますか？",,,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,72,81,81;81;81;81;81;81,6,,page4:tag15:entity82:key00D34610:ref81:ord0;page10:tag11:entity82:key00D34610:ref81:ord0;page16:tag14:entity82:key00D34610:ref81:ord0;page22:tag9:entity82:key00D34610:ref81:ord0;page46:tag4:entity82:key00D34610:ref81:ord0;page292:tag12:entity82:key00D34610:ref81:ord0,ネットワークから切断しています,"メモリースティック™に破損したシステムデータ
+が存在しています。セーブデータ選択削除機能を
+起動して削除を行いますか？",破損したインストールデータを削除しました。,,,,NOT_CHECKED,173,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,73,82,82;82;82;82;82;82,6,,page4:tag15:entity43:key001329FC:ref82:ord0;page10:tag11:entity43:key001329FC:ref82:ord0;page16:tag14:entity43:key001329FC:ref82:ord0;page22:tag9:entity43:key001329FC:ref82:ord0;page46:tag4:entity43:key001329FC:ref82:ord0;page292:tag12:entity43:key001329FC:ref82:ord0,"メモリースティック™に破損したシステムデータ
+が存在しています。セーブデータ選択削除機能を
+起動して削除を行いますか？",破損したインストールデータを削除しました。,データが壊れています。,,,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,74,83,83;83;83;83;83;83,6,,page4:tag15:entity76:key00BDBAE8:ref83:ord0;page10:tag11:entity76:key00BDBAE8:ref83:ord0;page16:tag14:entity76:key00BDBAE8:ref83:ord0;page22:tag9:entity76:key00BDBAE8:ref83:ord0;page46:tag4:entity76:key00BDBAE8:ref83:ord0;page292:tag12:entity76:key00BDBAE8:ref83:ord0,破損したインストールデータを削除しました。,データが壊れています。,"このゲームはデータインストール機能に対応しています。
+プレイ中にメモリースティック™を抜く、スリープモードに入るといった
+操作を行いますと、一時的にデータインストールの機能が
+無効になりますので予めご了承ください。
+※データインストール機能…ゲーム中の無線音声再生、読み込みの一部高速化
+
+データインストール機能が無効になった場合、
+ミッション選択画面に戻ることで再度有効にできます。",,,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,75,84,84;84;84;84;84;84,6,,page4:tag15:entity70:key00AA0C5C:ref84:ord0;page10:tag11:entity70:key00AA0C5C:ref84:ord0;page16:tag14:entity70:key00AA0C5C:ref84:ord0;page22:tag9:entity70:key00AA0C5C:ref84:ord0;page46:tag4:entity70:key00AA0C5C:ref84:ord0;page292:tag12:entity70:key00AA0C5C:ref84:ord0,データが壊れています。,"このゲームはデータインストール機能に対応しています。
+プレイ中にメモリースティック™を抜く、スリープモードに入るといった
+操作を行いますと、一時的にデータインストールの機能が
+無効になりますので予めご了承ください。
+※データインストール機能…ゲーム中の無線音声再生、読み込みの一部高速化
+
+データインストール機能が無効になった場合、
+ミッション選択画面に戻ることで再度有効にできます。",ネットワークに接続しています,,,,NOT_CHECKED,562,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,76,85,85;85;85;85;85;85,6,,page4:tag15:entity72:key00B2A743:ref85:ord0;page10:tag11:entity72:key00B2A743:ref85:ord0;page16:tag14:entity72:key00B2A743:ref85:ord0;page22:tag9:entity72:key00B2A743:ref85:ord0;page46:tag4:entity72:key00B2A743:ref85:ord0;page292:tag12:entity72:key00B2A743:ref85:ord0,"このゲームはデータインストール機能に対応しています。
+プレイ中にメモリースティック™を抜く、スリープモードに入るといった
+操作を行いますと、一時的にデータインストールの機能が
+無効になりますので予めご了承ください。
+※データインストール機能…ゲーム中の無線音声再生、読み込みの一部高速化
+
+データインストール機能が無効になった場合、
+ミッション選択画面に戻ることで再度有効にできます。",ネットワークに接続しています,"(不要)タイトルメニューに戻ります。
+よろしいですか？",,,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,77,86,86;86;86;86;86;86,6,,page4:tag15:entity60:key0070268A:ref86:ord0;page10:tag11:entity60:key0070268A:ref86:ord0;page16:tag14:entity60:key0070268A:ref86:ord0;page22:tag9:entity60:key0070268A:ref86:ord0;page46:tag4:entity60:key0070268A:ref86:ord0;page292:tag12:entity60:key0070268A:ref86:ord0,ネットワークに接続しています,"(不要)タイトルメニューに戻ります。
+よろしいですか？",(不要)クリアデータをセーブしますか？,,,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,78,87,87;87;87;87;87;87,6,,page4:tag15:entity66:key008CEE30:ref87:ord0;page10:tag11:entity66:key008CEE30:ref87:ord0;page16:tag14:entity66:key008CEE30:ref87:ord0;page22:tag9:entity66:key008CEE30:ref87:ord0;page46:tag4:entity66:key008CEE30:ref87:ord0;page292:tag12:entity66:key008CEE30:ref87:ord0,"(不要)タイトルメニューに戻ります。
+よろしいですか？",(不要)クリアデータをセーブしますか？,"メモリースティック™をチェックしています。
+絶対に、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。",,,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,79,88,88;88;88;88;88;88,6,,page4:tag15:entity45:key00220A93:ref88:ord0;page10:tag11:entity45:key00220A93:ref88:ord0;page16:tag14:entity45:key00220A93:ref88:ord0;page22:tag9:entity45:key00220A93:ref88:ord0;page46:tag4:entity45:key00220A93:ref88:ord0;page292:tag12:entity45:key00220A93:ref88:ord0,(不要)クリアデータをセーブしますか？,"メモリースティック™をチェックしています。
+絶対に、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。","このゲームは、オートセーブ機能に対応しています。
+オートセーブ中には、メモリースティック™
+アクセスランプが点滅しますので、その間は、
+メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。",,,,NOT_CHECKED,182,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,80,89,89;89;89;89;89;89,6,,page4:tag15:entity51:key003B222D:ref89:ord0;page10:tag11:entity51:key003B222D:ref89:ord0;page16:tag14:entity51:key003B222D:ref89:ord0;page22:tag9:entity51:key003B222D:ref89:ord0;page46:tag4:entity51:key003B222D:ref89:ord0;page292:tag12:entity51:key003B222D:ref89:ord0,"メモリースティック™をチェックしています。
+絶対に、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。","このゲームは、オートセーブ機能に対応しています。
+オートセーブ中には、メモリースティック™
+アクセスランプが点滅しますので、その間は、
+メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。","(不要)メモリースティック™が抜かれたため、
+オートセーブ機能がOFFになっています。
+オートセーブ機能がONの状態でないと、
+サイバーバルをプレイすることは出来ません。
+
+オートセーブ機能をＯＮにします。
+よろしいですか？",,,,NOT_CHECKED,304,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
+5D5CAF77,81,90,90;90;90;90;90;90,6,,page4:tag15:entity88:key00F71DCE:ref90:ord0;page10:tag11:entity88:key00F71DCE:ref90:ord0;page16:tag14:entity88:key00F71DCE:ref90:ord0;page22:tag9:entity88:key00F71DCE:ref90:ord0;page46:tag4:entity88:key00F71DCE:ref90:ord0;page292:tag12:entity88:key00F71DCE:ref90:ord0,"このゲームは、オートセーブ機能に対応しています。
+オートセーブ中には、メモリースティック™
+アクセスランプが点滅しますので、その間は、
+メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。","(不要)メモリースティック™が抜かれたため、
+オートセーブ機能がOFFになっています。
+オートセーブ機能がONの状態でないと、
+サイバーバルをプレイすることは出来ません。
+
+オートセーブ機能をＯＮにします。
+よろしいですか？",S,,,,NOT_CHECKED,310,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6
