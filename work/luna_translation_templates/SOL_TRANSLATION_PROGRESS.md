@@ -45,32 +45,35 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 
 | Resource class | file_id | Rows | Mapping commit | Mapping path | Notes |
 |---|---:|---:|---|---|---|
-| YPK_GTT | `1C79F42D` | 80 | `1adb7231a2d7048de526a4b821ea1a94865e7180` | `sol_translation_mappings/YPK_GTT/1C79F42D.json` | Full file translated; Monster Hunter crossover; shifted auxiliary mappings ignored. |
-| YPK_GTT | `1C79F46D` | 93 | `066f4c34feb13b46a68682977d767775b6884e70` | `sol_translation_mappings/YPK_GTT/1C79F46D.json` | Full file translated; intentional AI corruption/test/gibberish preserved from JPN. |
-| YPK_GTT | `1C7C72ED` | 47 | `f526465d7fc048b50b5a2b35126363bb52201abf` | `sol_translation_mappings/YPK_GTT/1C7C72ED.json` | Pupa AI battle/tutorial; rabbit-vs-squirrel auxiliary mismatch, rearm semantics and shifted late references corrected from JPN. |
-| YPK_GTT | `1C7BF3AD` | 51 | `47ba816d04f738f68d1073efe7cb863d225e0712` | `sol_translation_mappings/YPK_GTT/1C7BF3AD.json` | Basilisco / Peace Walker combat and nuclear-launch countdown; JPN relation term preserved, rearm semantics restored, unreliable rows translated from JPN. |
-| YPK_GTT | `1C7BF32D` | 54 | `cc777507a8274fdb7df2a48cba5d28776db70121` | `sol_translation_mappings/YPK_GTT/1C7BF32D.json` | Chrysalis/UFO/Colibri/fog/AI-pod guidance; COMPA/LAB controls preserved; rabbit-vs-squirrel and shifted auxiliary refs corrected from JPN. |
-| YPK_GTT | `1C7AF36D` | 30 | `07ec8216860c2fc880c0a89d6e39b7de4fdf981f` | `sol_translation_mappings/YPK_GTT/1C7AF36D.json` | High-alert infiltration, elevator/stairs detour, hover-tank scouting, shutters and Peace Walker hangar objective; ACT controls preserved. |
-| YPK_GTT | `1C7A72AD` | 35 | `7847679a99b52ae1d341a8f10ff47296f173ed64` | `sol_translation_mappings/YPK_GTT/1C7A72AD.json` | Early-game sneaking/LIFE/Psyche/camo/wall tutorial; D-pad/A-button variants preserved; SNEAKING MISSION/MAP/MOVE/ACT controls normalized. |
-| YPK_GTT | `1C7A73ED` | 79 | `38f88b028fd279bb668c5fd1e95daf8d42a79807` | `sol_translation_mappings/YPK_GTT/1C7A73ED.json` | Mother Base vs ZEKE gun-platform battle, TAGGING/CO-OPS controls, Paz plot and mock-battle guidance; ZEKE ruby normalized; ambiguous Paz line explicitly review-flagged. |
-| YPK_GTT | `1CC276E9` | 88 | `1a7979e8b8dba516d5be59133db5cf56d7d71efd` | `sol_translation_mappings/YPK_GTT/1CC276E9.json` | Generic vehicle-battle/radio library; neutralization vs destruction kept distinct, non-destructive recovery routes preserved, Surround Indicator and fuel-tank tactics normalized. |
-| YPK_GTT | `1C7A736D` | 93 | `5e10d9ff1e2fdb462029deff67dab07eebdd21f1` | `sol_translation_mappings/YPK_GTT/1C7A736D.json` | Cocoon AI battle library; radiators, boarding, turret/arm, missile/cluster-bomb and AI-pod tactics translated from JPN with control variants preserved. |
-| YPK_GTT | `1C677327` | 100 | `667677e5f2ff74fc287c431067ebd75c1117bae0` | `sol_translation_mappings/YPK_GTT/1C677327.json` | Scout/ghillie/ID-card/quetzal/Huey-letter/Strangelove-lab radio library; waterfall semantic reversal in auxiliary corrected from JPN. |
-| YPK_GTT | `1C79F2AD` | 110 | `14f3dfdd86aa19d0364692758d87f4d48fec58b8` | `sol_translation_mappings/YPK_GTT/1C79F2AD.json` | Opening controls/shooting/auto-aim/weapon/equipment tutorial, beach UMA and Paz/Miller special reactions; alternate control schemes preserved separately. |
-| YPK_GTT | `1C7A72ED` | 115 | `d08bc35ec5303404242f1a705063cea067cb42f8` | `sol_translation_mappings/YPK_GTT/1C7A72ED.json` | Chico rescue/blue-door search/C4 tutorial/coffee-terminal route/co-op wall/Zadornov/plant dialogue; split auxiliary additions kept aligned to JPN rows. |
+| YPK_GTT | `1C79F42D` | 80 | `1adb7231a2d7048de526a4b821ea1a94865e7180` | `sol_translation_mappings/YPK_GTT/1C79F42D.json` | Monster Hunter crossover; shifted auxiliary mappings ignored. |
+| YPK_GTT | `1C79F46D` | 93 | `066f4c34feb13b46a68682977d767775b6884e70` | `sol_translation_mappings/YPK_GTT/1C79F46D.json` | Intentional AI corruption/test/gibberish preserved from JPN. |
+| YPK_GTT | `1C7C72ED` | 47 | `f526465d7fc048b50b5a2b35126363bb52201abf` | `sol_translation_mappings/YPK_GTT/1C7C72ED.json` | Pupa AI battle/tutorial; shifted auxiliary rows corrected from JPN. |
+| YPK_GTT | `1C7BF3AD` | 51 | `47ba816d04f738f68d1073efe7cb863d225e0712` | `sol_translation_mappings/YPK_GTT/1C7BF3AD.json` | Basilisco / Peace Walker combat and nuclear-launch countdown. |
+| YPK_GTT | `1C7BF32D` | 54 | `cc777507a8274fdb7df2a48cba5d28776db70121` | `sol_translation_mappings/YPK_GTT/1C7BF32D.json` | Chrysalis/UFO/Colibri/fog/AI-pod guidance. |
+| YPK_GTT | `1C7AF36D` | 30 | `07ec8216860c2fc880c0a89d6e39b7de4fdf981f` | `sol_translation_mappings/YPK_GTT/1C7AF36D.json` | High-alert infiltration, elevator/stairs detour and hangar objective. |
+| YPK_GTT | `1C7A72AD` | 35 | `7847679a99b52ae1d341a8f10ff47296f173ed64` | `sol_translation_mappings/YPK_GTT/1C7A72AD.json` | Early-game sneaking/LIFE/Psyche/camo/wall tutorial. |
+| YPK_GTT | `1C7A73ED` | 79 | `38f88b028fd279bb668c5fd1e95daf8d42a79807` | `sol_translation_mappings/YPK_GTT/1C7A73ED.json` | Mother Base vs ZEKE, Paz plot and mock-battle guidance. |
+| YPK_GTT | `1CC276E9` | 88 | `1a7979e8b8dba516d5be59133db5cf56d7d71efd` | `sol_translation_mappings/YPK_GTT/1CC276E9.json` | Generic vehicle-battle/radio library; neutralization kept distinct from destruction. |
+| YPK_GTT | `1C7A736D` | 93 | `5e10d9ff1e2fdb462029deff67dab07eebdd21f1` | `sol_translation_mappings/YPK_GTT/1C7A736D.json` | Cocoon AI battle library. |
+| YPK_GTT | `1C677327` | 100 | `667677e5f2ff74fc287c431067ebd75c1117bae0` | `sol_translation_mappings/YPK_GTT/1C677327.json` | Scout/ghillie/ID-card/quetzal/Huey-letter/Strangelove-lab library. |
+| YPK_GTT | `1C79F2AD` | 110 | `14f3dfdd86aa19d0364692758d87f4d48fec58b8` | `sol_translation_mappings/YPK_GTT/1C79F2AD.json` | Opening controls/shooting/auto-aim/weapon/equipment tutorial and special reactions. |
+| YPK_GTT | `1C7A72ED` | 115 | `d08bc35ec5303404242f1a705063cea067cb42f8` | `sol_translation_mappings/YPK_GTT/1C7A72ED.json` | Chico rescue/C4/coffee-terminal/co-op wall/Zadornov/plant dialogue. |
+| YPK_GTT | `1C0FB26B` | 268 | `3205e260b263389abfd88284056d48582137fe13` | `sol_translation_mappings/YPK_GTT/1C0FB26B.manifest.json` | Complete generic Extra Ops library, sharded 4 parts, indices 0-267 contiguous. |
+| YPK_GTT | `1C7679A5` | 346 | `41c7d637f8893fdedd83974e0fd4a37a6c54ff7e` | `sol_translation_mappings/YPK_GTT/1C7679A5.manifest.json` | Complete generic mission/CO-OPS/support/costume library, sharded 6 parts, indices 0-345 contiguous; shifted railgun/Human Slingshot auxiliaries rejected. |
 
 ## Totals
 
 - Completed merged file_ids: 21 / 241
 - Completed merged template rows: 491 / 21041
-- Persisted pending-merge file_ids: 13
-- Persisted pending-merge rows: 975
-- Total translation work safely persisted: 1466 rows
-- YPK_GTT translation coverage: 34 / 36 (21 merged + 13 pending merge)
+- Persisted pending-merge file_ids: 15
+- Persisted pending-merge rows: 1589
+- Total translation work safely persisted: 2080 / 21041 rows
+- YPK_GTT translation coverage: **36 / 36 complete** (21 merged + 15 pending merge)
+- Overall file_id translation coverage so far: 36 / 241
 
 ## Current queue
 
-Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1C0FB26B`, `1C7679A5`. Large files use complete-file JSON mapping before merge.
+YPK_GTT primary translation is complete. Continue with the remaining resource classes without changing formal `translations/`, manifest or DAT/KEY. Next step: inspect the single OHD template and translate it if its structure is straightforward; then continue LOOSE_OLANG by ascending file size, followed by STAGEDAT_OLANG and SLOT_OLANG unless a resource-specific constraint requires a different order.
 
 ## Risk / review log
 
@@ -83,19 +86,20 @@ Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1
 - `1C7BF2AD`: opening auxiliary `船库 / boathouse` conflicts with JPN `FSLNの小屋`; JPN hut meaning used.
 - `1C7C73AD`: gate-pry tutorial auxiliary rows partially shifted; JPN operation order preserved.
 - `1C7B72AD`: radio-tab auxiliary content shifted across adjacent rows; JPN sequence preserved. `ウラギンドクチョウ` follows attached Juno Silverspot terminology pending glossary review.
-- `1C7CF3AD`: `どんどんムかれていく` rendered contextually as cover being stripped away (`掩体正一个个被削掉`) rather than generic aux `crumbling`.
-- `1C7CF2ED`: `<R=同志,コンパ>` normalized as `<R=同志,COMPA>`; auxiliary extra `Snake` in coffee line and extra thanks in no-more-comrades line were not copied.
-- `1C7C736D`: `糸鋸` standardized as `钢丝锯`; interrogation slang `ウタうな` rendered `别招供`, not generic auxiliary `don't break`. A few Chinese lines exceed JPN byte count; final YPK aligned-capacity validator remains authoritative before approval/build.
-- `1C7BF2ED`: auxiliary maps JPN `銃座` to snipers and adds ladder direction not present in JPN; both rejected. Row 23 has aggregated multi-reference auxiliary variants; JPN `<I=CAMERA>` used as authority.
-- `1C7B72ED`: repeated two-level walkway / ELUDE / bunker / mountain entrance lines kept consistent with earlier files; no auxiliary wording allowed to override JPN sequencing.
-- `1C7C72ED`: JPN `ウサギ狩り` kept as `打兔子`; auxiliary squirrel localization rejected. `戻ってこい 武装し直せ` restored to explicit rearm meaning. Rows 35-36 have shifted auxiliary references and were translated from JPN only. `メイク` rendered contextually as `造型` and flagged for terminology review.
-- `1C7BF3AD`: Basilisco terminology reused. `姉ちゃん` rendered `姐姐` rather than substituting auxiliary Amanda. `偽装データ` rendered `伪装数据` and flagged for terminology review. Rearm semantics restored.
-- `1C7BF32D`: `<R=同志,コンパ>` -> `<R=同志,COMPA>` and `<R=研究所,ラボ>` -> `<R=研究所,LAB>`. `Colibri`, `周围指示器`, and `伯利恒之星` remain terminology-review items. `ウサギ狩り` kept as `打兔子`; rows 41-42 shifted auxiliary references ignored.
-- `1C7AF36D`: auxiliary over-expansion on elevator guards omitted; no-reliable rows translated from JPN. Basilisco terminology reused and ACT controls preserved.
-- `1C7A72AD`: `<R=潜入任務,スニーキングミッション>` -> `<R=潜入任务,SNEAKING MISSION>`; `<R=地図,マップ>` -> `<R=地图,MAP>`. D-pad and A-button control variants preserved separately. `伪装指数` and `敌人搜索` flagged for final terminology consistency review.
-- `1C7A73ED`: `<R=ZEKE,ジーク>` normalized to `<R=ZEKE,ZEKE>`. TAGGING/CO-OPS/Mother Base terminology remains review-marked. `Pazは私が…` was rendered conservatively as `Paz由我…` and explicitly flagged for semantic review. Auxiliary additions absent from JPN were omitted.
-- `1CC276E9`: `無力化` kept semantically distinct from `破壊`; lethal/nonlethal commander endings and intact vehicle recovery prompts remain distinct. `Surround Indicator` follows current `周围指示器` working term. Fuel-guzzler/oil-shock joke preserved and flagged; generic rearm lines follow prior JPN-authoritative wording.
-- `1C7A736D`: Cocoon battle terminology follows current working names. `ウサギ狩り` remains `打兔子`; rearm lines keep explicit re-equipping semantics. Radiator/auxiliary-radiator, boarding, turret/arm, AI-pod and ACT sequences remain distinct.
-- `1C677327`: waterfall line `落ちたらまず助からないな… あんたみたいな超人ならともかく` means “normally fatal, except perhaps a superhuman like you”; auxiliary reversed this to “even you would die” and was rejected. Quetzal calls romanized (`Kyohhh`), scout/ambush/LAB rubies normalized; bird names remain glossary-review items.
-- `1C79F2AD`: alternate input/control schemes remain separate even where semantics duplicate. Scarecrow line `こいつは倒れないな` kept as “这家伙不会倒啊”, rejecting auxiliary “I think you got him”. Beach UMA and Paz/Miller special reactions remain literal to JPN; no auxiliary joke/addition overrides JPN.
-- `1C7A72ED`: Chico/blue-door search sequence and C4 placement/detonation input variants preserved. `CAFETAL`, `TERMINAL`, `SOMBRILLA DE POBRE`, `CHAMPA` reuse prior normalized ruby readings. Row 99/100 keeps JPN split (`救出Chico` / `这对我们也有好处`) instead of copying the combined auxiliary sentence. `クレフォンテスタスキアゲハ` provisionally follows attached MLG term `大燕尾蝶` pending glossary review.
+- `1C7CF3AD`: `どんどんムかれていく` rendered contextually as cover being stripped away (`掩体正一个个被削掉`).
+- `1C7CF2ED`: `<R=同志,コンパ>` normalized as `<R=同志,COMPA>`; auxiliary additions not present in JPN were omitted.
+- `1C7C736D`: `糸鋸` standardized as `钢丝锯`; interrogation slang `ウタうな` rendered `别招供`. Final aligned-capacity validator remains authoritative before approval/build.
+- `1C7BF2ED`: auxiliary maps JPN `銃座` to snipers and adds ladder direction not present in JPN; both rejected.
+- `1C7C72ED`: JPN `ウサギ狩り` kept as `打兔子`; auxiliary squirrel localization rejected. `戻ってこい 武装し直せ` restored to explicit rearm meaning.
+- `1C7BF3AD`: Basilisco terminology reused. `姉ちゃん` rendered `姐姐` rather than substituting auxiliary Amanda. `偽装データ` remains a terminology-review item.
+- `1C7BF32D`: `<R=同志,コンパ>` -> `<R=同志,COMPA>` and `<R=研究所,ラボ>` -> `<R=研究所,LAB>`; Colibri / surround-indicator terms remain review items.
+- `1C7AF36D`: auxiliary over-expansion on elevator guards omitted; no-reliable rows translated from JPN.
+- `1C7A72AD`: SNEAKING MISSION/MAP rubies normalized to Latin readings; D-pad and A-button variants preserved separately.
+- `1C7A73ED`: `<R=ZEKE,ジーク>` normalized to `<R=ZEKE,ZEKE>`. `Pazは私が…` translated conservatively and flagged for semantic review.
+- `1CC276E9`: `無力化` kept distinct from `破壊`; lethal/nonlethal commander endings and intact vehicle recovery prompts remain distinct.
+- `1C7A736D`: Cocoon radiator/boarding/turret/arm/AI-pod sequences kept distinct; rearm semantics explicit.
+- `1C677327`: waterfall line means normally fatal except perhaps for a superhuman like Snake; reversed auxiliary interpretation rejected.
+- `1C79F2AD`: alternate input/control schemes remain separate. Scarecrow line `こいつは倒れないな` follows JPN, not auxiliary joke wording.
+- `1C7A72ED`: row 99/100 keeps the JPN split (`救出Chico` / `这对我们也有好处`) instead of copying a combined auxiliary sentence.
+- `1C0FB26B`: generic Extra Ops library. `無力化` is not collapsed into lethal destruction; auxiliary semantic/positional mismatches were ignored and the 268-row mapping is stored as four shards.
+- `1C7679A5`: generic mission/CO-OPS/support/costume library. Railgun charger and Human Slingshot auxiliaries are visibly shifted; JPN governs rows. `人間パチン虎。` is treated as an intentional pun/name and preserved in Chinese as `人间弹弓虎。` pending terminology review. `<R=OPTIONS,オプション>` reading normalized to `<R=OPTIONS,OPTIONS>`.
