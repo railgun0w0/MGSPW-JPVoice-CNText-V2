@@ -47,19 +47,20 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 |---|---:|---:|---|---|---|
 | YPK_GTT | `1C79F42D` | 80 | `1adb7231a2d7048de526a4b821ea1a94865e7180` | `sol_translation_mappings/YPK_GTT/1C79F42D.json` | Full file translated; Monster Hunter crossover; shifted auxiliary mappings ignored. |
 | YPK_GTT | `1C79F46D` | 93 | `066f4c34feb13b46a68682977d767775b6884e70` | `sol_translation_mappings/YPK_GTT/1C79F46D.json` | Full file translated; intentional AI corruption/test/gibberish preserved from JPN. |
+| YPK_GTT | `1C7C72ED` | 47 | `f526465d7fc048b50b5a2b35126363bb52201abf` | `sol_translation_mappings/YPK_GTT/1C7C72ED.json` | Pupa AI battle/tutorial; rabbit-vs-squirrel auxiliary mismatch, rearm semantics and shifted late references corrected from JPN. |
 
 ## Totals
 
 - Completed merged file_ids: 21 / 241
 - Completed merged template rows: 491 / 21041
-- Persisted pending-merge file_ids: 2
-- Persisted pending-merge rows: 173
-- Total translation work safely persisted: 664 rows
-- YPK_GTT translation coverage: 23 / 36 (21 merged + 2 pending merge)
+- Persisted pending-merge file_ids: 3
+- Persisted pending-merge rows: 220
+- Total translation work safely persisted: 711 rows
+- YPK_GTT translation coverage: 24 / 36 (21 merged + 3 pending merge)
 
 ## Current queue
 
-Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7C72ED`, `1C7BF3AD`, `1C7BF32D`, then other medium/large files. Large files use complete-file JSON mapping before merge.
+Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7BF3AD`, `1C7BF32D`, then other medium/large files. Large files use complete-file JSON mapping before merge.
 
 ## Risk / review log
 
@@ -77,3 +78,4 @@ Continue unprocessed YPK_GTT resources by ascending manageable size. Next candid
 - `1C7C736D`: `糸鋸` standardized as `钢丝锯`; interrogation slang `ウタうな` rendered `别招供`, not generic auxiliary `don't break`. A few Chinese lines exceed JPN byte count; final YPK aligned-capacity validator remains authoritative before approval/build.
 - `1C7BF2ED`: auxiliary maps JPN `銃座` to snipers and adds ladder direction not present in JPN; both rejected. Row 23 has aggregated multi-reference auxiliary variants; JPN `<I=CAMERA>` used as authority.
 - `1C7B72ED`: repeated two-level walkway / ELUDE / bunker / mountain entrance lines kept consistent with earlier files; no auxiliary wording allowed to override JPN sequencing.
+- `1C7C72ED`: JPN `ウサギ狩り` kept as `打兔子`; auxiliary squirrel localization rejected. `戻ってこい 武装し直せ` restored to explicit rearm meaning. Rows 35-36 have shifted auxiliary references and were translated from JPN only. `メイク` rendered contextually as `造型` and flagged for terminology review.
