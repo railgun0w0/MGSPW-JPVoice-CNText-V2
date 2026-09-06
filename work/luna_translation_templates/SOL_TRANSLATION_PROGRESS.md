@@ -52,19 +52,20 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 | YPK_GTT | `1C7BF32D` | 54 | `cc777507a8274fdb7df2a48cba5d28776db70121` | `sol_translation_mappings/YPK_GTT/1C7BF32D.json` | Chrysalis/UFO/Colibri/fog/AI-pod guidance; COMPA/LAB controls preserved; rabbit-vs-squirrel and shifted auxiliary refs corrected from JPN. |
 | YPK_GTT | `1C7AF36D` | 30 | `07ec8216860c2fc880c0a89d6e39b7de4fdf981f` | `sol_translation_mappings/YPK_GTT/1C7AF36D.json` | High-alert infiltration, elevator/stairs detour, hover-tank scouting, shutters and Peace Walker hangar objective; ACT controls preserved. |
 | YPK_GTT | `1C7A72AD` | 35 | `7847679a99b52ae1d341a8f10ff47296f173ed64` | `sol_translation_mappings/YPK_GTT/1C7A72AD.json` | Early-game sneaking/LIFE/Psyche/camo/wall tutorial; D-pad/A-button variants preserved; SNEAKING MISSION/MAP/MOVE/ACT controls normalized. |
+| YPK_GTT | `1C7A73ED` | 79 | `38f88b028fd279bb668c5fd1e95daf8d42a79807` | `sol_translation_mappings/YPK_GTT/1C7A73ED.json` | Mother Base vs ZEKE gun-platform battle, TAGGING/CO-OPS controls, Paz plot and mock-battle guidance; ZEKE ruby normalized; ambiguous Paz line explicitly review-flagged. |
 
 ## Totals
 
 - Completed merged file_ids: 21 / 241
 - Completed merged template rows: 491 / 21041
-- Persisted pending-merge file_ids: 7
-- Persisted pending-merge rows: 390
-- Total translation work safely persisted: 881 rows
-- YPK_GTT translation coverage: 28 / 36 (21 merged + 7 pending merge)
+- Persisted pending-merge file_ids: 8
+- Persisted pending-merge rows: 469
+- Total translation work safely persisted: 960 rows
+- YPK_GTT translation coverage: 29 / 36 (21 merged + 8 pending merge)
 
 ## Current queue
 
-Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1C7A73ED`, `1CC276E9`, `1C7A736D`, `1C677327`, `1C79F2AD`, `1C7A72ED`, `1C0FB26B`, `1C7679A5`. Large files use complete-file JSON mapping before merge.
+Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1CC276E9`, `1C7A736D`, `1C677327`, `1C79F2AD`, `1C7A72ED`, `1C0FB26B`, `1C7679A5`. Large files use complete-file JSON mapping before merge.
 
 ## Risk / review log
 
@@ -87,3 +88,4 @@ Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1
 - `1C7BF32D`: `<R=同志,コンパ>` -> `<R=同志,COMPA>` and `<R=研究所,ラボ>` -> `<R=研究所,LAB>`. `Colibri`, `周围指示器`, and `伯利恒之星` remain terminology-review items. `ウサギ狩り` kept as `打兔子`; rows 41-42 shifted auxiliary references ignored.
 - `1C7AF36D`: auxiliary over-expansion on elevator guards omitted; no-reliable rows translated from JPN. Basilisco terminology reused and ACT controls preserved.
 - `1C7A72AD`: `<R=潜入任務,スニーキングミッション>` -> `<R=潜入任务,SNEAKING MISSION>`; `<R=地図,マップ>` -> `<R=地图,MAP>`. D-pad and A-button control variants preserved separately. `伪装指数` and `敌人搜索` flagged for final terminology consistency review.
+- `1C7A73ED`: `<R=ZEKE,ジーク>` normalized to `<R=ZEKE,ZEKE>`. TAGGING/CO-OPS/Mother Base terminology remains review-marked. `Pazは私が…` was rendered conservatively as `Paz由我…` and explicitly flagged for semantic review. Auxiliary additions absent from JPN were omitted.
