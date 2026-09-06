@@ -48,19 +48,21 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 | YPK_GTT | `1C79F42D` | 80 | `1adb7231a2d7048de526a4b821ea1a94865e7180` | `sol_translation_mappings/YPK_GTT/1C79F42D.json` | Full file translated; Monster Hunter crossover; shifted auxiliary mappings ignored. |
 | YPK_GTT | `1C79F46D` | 93 | `066f4c34feb13b46a68682977d767775b6884e70` | `sol_translation_mappings/YPK_GTT/1C79F46D.json` | Full file translated; intentional AI corruption/test/gibberish preserved from JPN. |
 | YPK_GTT | `1C7C72ED` | 47 | `f526465d7fc048b50b5a2b35126363bb52201abf` | `sol_translation_mappings/YPK_GTT/1C7C72ED.json` | Pupa AI battle/tutorial; rabbit-vs-squirrel auxiliary mismatch, rearm semantics and shifted late references corrected from JPN. |
+| YPK_GTT | `1C7BF3AD` | 51 | `47ba816d04f738f68d1073efe7cb863d225e0712` | `sol_translation_mappings/YPK_GTT/1C7BF3AD.json` | Basilisco / Peace Walker combat and nuclear-launch countdown; JPN relation term preserved, rearm semantics restored, unreliable rows translated from JPN. |
+| YPK_GTT | `1C7BF32D` | 54 | `cc777507a8274fdb7df2a48cba5d28776db70121` | `sol_translation_mappings/YPK_GTT/1C7BF32D.json` | Chrysalis/UFO/Colibri/fog/AI-pod guidance; COMPA/LAB controls preserved; rabbit-vs-squirrel and shifted auxiliary refs corrected from JPN. |
 
 ## Totals
 
 - Completed merged file_ids: 21 / 241
 - Completed merged template rows: 491 / 21041
-- Persisted pending-merge file_ids: 3
-- Persisted pending-merge rows: 220
-- Total translation work safely persisted: 711 rows
-- YPK_GTT translation coverage: 24 / 36 (21 merged + 3 pending merge)
+- Persisted pending-merge file_ids: 5
+- Persisted pending-merge rows: 325
+- Total translation work safely persisted: 816 rows
+- YPK_GTT translation coverage: 26 / 36 (21 merged + 5 pending merge)
 
 ## Current queue
 
-Continue unprocessed YPK_GTT resources by ascending manageable size. Next candidates: `1C7BF3AD`, `1C7BF32D`, then other medium/large files. Large files use complete-file JSON mapping before merge.
+Continue remaining YPK_GTT resources by ascending file size. Next candidates: `1C7AF36D`, `1C7A72AD`, `1C7A73ED`, `1CC276E9`, `1C7A736D`, `1C677327`, `1C79F2AD`, `1C7A72ED`, `1C0FB26B`, `1C7679A5`. Large files use complete-file JSON mapping before merge.
 
 ## Risk / review log
 
@@ -79,3 +81,5 @@ Continue unprocessed YPK_GTT resources by ascending manageable size. Next candid
 - `1C7BF2ED`: auxiliary maps JPN `銃座` to snipers and adds ladder direction not present in JPN; both rejected. Row 23 has aggregated multi-reference auxiliary variants; JPN `<I=CAMERA>` used as authority.
 - `1C7B72ED`: repeated two-level walkway / ELUDE / bunker / mountain entrance lines kept consistent with earlier files; no auxiliary wording allowed to override JPN sequencing.
 - `1C7C72ED`: JPN `ウサギ狩り` kept as `打兔子`; auxiliary squirrel localization rejected. `戻ってこい 武装し直せ` restored to explicit rearm meaning. Rows 35-36 have shifted auxiliary references and were translated from JPN only. `メイク` rendered contextually as `造型` and flagged for terminology review.
+- `1C7BF3AD`: Basilisco terminology reused. `姉ちゃん` rendered `姐姐` rather than substituting auxiliary Amanda. `偽装データ` rendered `伪装数据` and flagged for terminology review. Rearm semantics restored.
+- `1C7BF32D`: `<R=同志,コンパ>` -> `<R=同志,COMPA>` and `<R=研究所,ラボ>` -> `<R=研究所,LAB>`. `Colibri`, `周围指示器`, and `伯利恒之星` remain terminology-review items. `ウサギ狩り` kept as `打兔子`; rows 41-42 shifted auxiliary references ignored.
