@@ -20,19 +20,22 @@ Purpose: track translation progress for `work/luna_translation_templates/` so wo
 |---|---:|---:|---|---|
 | YPK_GTT | `1C79F3AD` | 8 | `573836a53c3adad52c28a0e85572b4b6f4f98fd6` | Full file translated; two rows had no reliable auxiliary mapping and were translated from JPN/context only. Existing MLG/ENG over-expansion on bird count was not copied. |
 | YPK_GTT | `1C79F36D` | 22 | `44bd91ff8ad6d424b58b23610a4d51d7501adf9f` | Full file translated; multiple NO_RELIABLE_GTT_MAPPING rows translated from JPN/context. Ruby `<R=父さん,ミ・ビエホ>` converted to `<R=老爸,MI VIEJO>` while preserving control structure. |
+| YPK_GTT | `1C79F2ED` | 39 | `4441e4ddb97a89ceee9f4a6a7b4220d5fa63e10b` | Full file translated. Early section had many NO_RELIABLE_GTT_MAPPING rows; translated from JPN/context. Ruby converted to Chinese display text + Latin readings (`SNIPER`, `SNIPE`, `TERMINAL`, `CAFETAL`, `SOMBRILLA DE POBRE`, `CHAMPA`). |
 
 ## Totals
 
-- Completed file_ids: 2 / 241
-- Completed template rows: 30 / 21041
-- YPK_GTT completed: 2 / 36
+- Completed file_ids: 3 / 241
+- Completed template rows: 69 / 21041
+- YPK_GTT completed: 3 / 36
 
 ## Current queue
 
-Continue with small complete YPK_GTT file_ids first, then larger YPK_GTT files. Next target: `1C79F2ED` unless a smaller unprocessed complete file is identified.
+Continue with small complete YPK_GTT file_ids first, then larger YPK_GTT files. Next target: `1C79F3ED`, then other unprocessed YPK_GTT resources by manageable size/context.
 
 ## Risk / review log
 
 - `1C79F3AD`: `核が撃たれれば鳥たちもたくさん死ぬわ…` translated from JPN as `核弹一旦发射，很多鸟儿也会死……`; did not inherit auxiliary `millions of birds` because JPN does not contain that quantity.
 - `1C79F36D`: rows with `エルード` translated semantically as grabbing/hanging from an edge (`抓住边缘` / `抓边`) rather than blindly copying auxiliary `荡过去`; review against final in-game terminology later.
 - `1C79F36D`: `cn_utf8_bytes` may be slightly larger than JPN bytes on a small number of rows; this is not itself proof of overflow because YPK uses record/alignment capacity. Local capacity validator must decide before approval/build.
+- `1C79F2ED`: used `绞刑台镇` for `エル・カダルソ` based on attached MLG_CN terminology; keep as terminology-review item if a project-wide glossary later chooses transliteration instead.
+- `1C79F2ED`: `グンネラ・インシグニス` rendered as `大叶蚁塔` following attached MLG_CN terminology; botanical/common-name consistency should be checked globally later.
