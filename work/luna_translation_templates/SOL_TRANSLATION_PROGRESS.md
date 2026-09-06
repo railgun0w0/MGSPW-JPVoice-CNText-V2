@@ -21,12 +21,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **5458 / 21041 rows** |
-| file_ids with complete persisted translation | **84 / 241** |
+| Translation work safely persisted | **5633 / 21041 rows** |
+| file_ids with complete persisted translation | **85 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
-| STAGEDAT_OLANG | **33 / 46 complete** |
+| STAGEDAT_OLANG | **34 / 46 complete** |
 | SLOT_OLANG | **0 / 144** |
 
 ## Resource-class accounting
@@ -34,11 +34,11 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - YPK_GTT: **2080 rows / 36 file_ids complete**.
 - OHD: **226 rows / 1 file_id complete**.
 - LOOSE_OLANG: **1719 rows / 14 file_ids complete**.
-- STAGEDAT_OLANG: **1433 rows / 33 file_ids complete**.
+- STAGEDAT_OLANG: **1608 rows / 34 file_ids complete**.
 
 ### STAGEDAT completed
 
-`LANG_DEMOSKIPTELOP.OLANG` (1), `LANG_EMERGENCYTELOP.OLANG` (5), `LANG_COMMUNICATIONSTELOP.OLANG` (5), `LANG_BRIEFING.OLANG` (25), `LANG_CHARAEDIT.OLANG` (46), `LANG_DEMOTELOP4.OLANG` (47), `LANG_DEMOTELOP.OLANG` (34), `LANG_TITLE_NAMEENTRY.OLANG` (4), `LANG_WALKMAN.OLANG` (9), `LANG_MAP_FLOOR.OLANG` (9), `LANG_SPOOKY_COMMON.OLANG` (7), `LANG_PSP_KEYBOARD.OLANG` (6), `LANG_SYNC.OLANG` (19), `LANG_TITLEMENU.OLANG` (17), `LANG_DEMOTELOP2.OLANG` (76), `LANG_V_THEATER020.OLANG` (16), `LANG_V_THEATER010.OLANG` (24), `LANG_MYOUTER_UTIL.OLANG` (33), `LANG_TITLE_OPTIONS.OLANG` (27), `LANG_HTTP_ERROR.OLANG` (30), `LANG_KEYHELP.OLANG` (23), `LANG_PW_COMMON.OLANG` (35), `LANG_MYOUTER_STAFF_SOLTYPE.OLANG` (63), `LANG_PAUSEMENU.OLANG` (75), `LANG_VOCALOID.OLANG` (64), `LANG_ONLINE_ERROR.OLANG` (56), `LANG_DATAINSTALL.OLANG` (47), `LANG_WEAPON_SHORT_NAME.OLANG` (136), `LANG_STAGETELOP.OLANG` (107), `LANG_MYOUTER_STAFF_SKILL.OLANG` (74), `LANG_MISSION_ENDTELOP.OLANG` (107), `LANG_SYSTEM.OLANG` (82), `LANG_GAMEOVER.OLANG` (124).
+`LANG_DEMOSKIPTELOP.OLANG` (1), `LANG_EMERGENCYTELOP.OLANG` (5), `LANG_COMMUNICATIONSTELOP.OLANG` (5), `LANG_BRIEFING.OLANG` (25), `LANG_CHARAEDIT.OLANG` (46), `LANG_DEMOTELOP4.OLANG` (47), `LANG_DEMOTELOP.OLANG` (34), `LANG_TITLE_NAMEENTRY.OLANG` (4), `LANG_WALKMAN.OLANG` (9), `LANG_MAP_FLOOR.OLANG` (9), `LANG_SPOOKY_COMMON.OLANG` (7), `LANG_PSP_KEYBOARD.OLANG` (6), `LANG_SYNC.OLANG` (19), `LANG_TITLEMENU.OLANG` (17), `LANG_DEMOTELOP2.OLANG` (76), `LANG_V_THEATER020.OLANG` (16), `LANG_V_THEATER010.OLANG` (24), `LANG_MYOUTER_UTIL.OLANG` (33), `LANG_TITLE_OPTIONS.OLANG` (27), `LANG_HTTP_ERROR.OLANG` (30), `LANG_KEYHELP.OLANG` (23), `LANG_PW_COMMON.OLANG` (35), `LANG_MYOUTER_STAFF_SOLTYPE.OLANG` (63), `LANG_PAUSEMENU.OLANG` (75), `LANG_VOCALOID.OLANG` (64), `LANG_ONLINE_ERROR.OLANG` (56), `LANG_DATAINSTALL.OLANG` (47), `LANG_WEAPON_SHORT_NAME.OLANG` (136), `LANG_STAGETELOP.OLANG` (107), `LANG_MYOUTER_STAFF_SKILL.OLANG` (74), `LANG_MISSION_ENDTELOP.OLANG` (107), `LANG_SYSTEM.OLANG` (82), `LANG_GAMEOVER.OLANG` (124), `LANG_VOCALOID_KEYBOARD.OLANG` (175).
 
 ## Important review / risk notes
 
@@ -64,6 +64,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MISSION_ENDTELOP`: 107 rows complete. From unique_index 2 onward the auxiliary mission-title stream is systematically shifted toward the preceding JPN title; repeated JPN titles also aggregate unrelated Extra Ops number variants, so no positional auxiliary copy was used. Vehicle/model/CUSTOM/II identity comes from JPN. Rows 102-104 (`<<HUNTING QUEST: ...>>`) are localizable decorative titles but the mechanical control extractor sees their inner `<...>` as controls; the localized double-angle titles are persisted with explicit parser-false-positive review flags and must receive structural review before formal CSV merge.
 - `LANG_SYSTEM`: 82 rows complete. `S/M/C/A/B/ZZZ/STN` and formatting placeholders remain fixed; row 7 preserves the sole JPN `<I=×>` control. JPN plain-text `Memory Stick™` wording is kept without auxiliary `<I=BL>/<I=TM>` insertions. Row 30 preserves JPN date ordering, row 54 preserves JPN `576KB` over auxiliary `544KB`, and source `(不要)` markers remain explicit. Row 81 contains source term `サイバーバル`; no repository terminology match was found, so the source term is retained with an unresolved-term review flag rather than guessed.
 - `LANG_GAMEOVER`: 124 rows complete. JPN-specific dialogue detail is preserved where auxiliary text truncates or rewrites lines (including damage/status, letter, quetzal, Costa Rica and Peace Walker clauses). Four-space and single-space placeholders remain exact. Ruby controls `<R=司令官,コマンダンテ>`, `<R=祖国,ニカラグア>`, `<R= 祖国 ,ニカラグア>`, `<R=同志,コンパ>`, `<R=応答,アクノリッジ>` and `<R=偵察,スカウト>` are preserved exactly. Rows 116-123 preserve JPN Japanese voice cast and reject English-dub actor substitutions from auxiliary banks.
+- `LANG_VOCALOID_KEYBOARD`: 175 rows complete as four contiguous mapping shards. English pronunciation example words with `<C=FF4040>...<C=R>` highlighting are preserved from JPN because translating the spelling would break the phoneme tutorial. Raw VOCALOID phoneme symbols and bracketed phoneme examples are also preserved exactly; only UI labels, help text and error messages are localized. The single-space placeholder remains exact.
 - `LANG_TITLE_NAMEENTRY`: explicit allowed-symbol list from JPN preserved.
 - `LANG_MAP_FLOOR`: JPN `B4F/B3F/B2F/B1F` preserved; auxiliary dropped `F`.
 - `LANG_SYNC`: unclear abbreviations `LV/S/B/ZZZ/STN` preserved rather than guessed.
@@ -71,12 +72,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 
 ## Remaining STAGEDAT
 
-`LANG_EXTRA.OLANG`, `LANG_GETTITLE_INSIGNIA_LIST.OLANG`, `LANG_ITEM_SHORT_NAME.OLANG`, `LANG_ITEM_TEXT.OLANG`, `LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_MYOUTER_DEVELOP.OLANG`, `LANG_MYOUTER_DEVELOP_METAL.OLANG`, `LANG_MYOUTER_STAFF.OLANG`, `LANG_MYOUTER_STAFF_COMMENT.OLANG`, `LANG_MYOUTER_TOP.OLANG`, `LANG_VOCALOID_KEYBOARD.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
+`LANG_EXTRA.OLANG`, `LANG_GETTITLE_INSIGNIA_LIST.OLANG`, `LANG_ITEM_SHORT_NAME.OLANG`, `LANG_ITEM_TEXT.OLANG`, `LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_MYOUTER_DEVELOP.OLANG`, `LANG_MYOUTER_DEVELOP_METAL.OLANG`, `LANG_MYOUTER_STAFF.OLANG`, `LANG_MYOUTER_STAFF_COMMENT.OLANG`, `LANG_MYOUTER_TOP.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
 
 ## Last safe checkpoint
 
-- Safe translation total: **5458 rows / 84 complete file_ids**.
-- Resource-class checkpoint: **STAGEDAT_OLANG 33 / 46 complete**.
-- Latest completed STAGEDAT mapping: `sol_translation_mappings/STAGEDAT_OLANG/LANG_GAMEOVER.OLANG.json`.
-- Latest STAGEDAT mapping commit: `6a88934ddeb824361cda955723ac57a2e89a5abb`.
-- Resume next at: **STAGEDAT_OLANG/LANG_VOCALOID_KEYBOARD.OLANG, unique_index 0**.
+- Safe translation total: **5633 rows / 85 complete file_ids**.
+- Resource-class checkpoint: **STAGEDAT_OLANG 34 / 46 complete**.
+- Latest completed STAGEDAT mapping: `sol_translation_mappings/STAGEDAT_OLANG/LANG_VOCALOID_KEYBOARD.OLANG.json`.
+- Latest STAGEDAT mapping commit: `73c53fa36c128aa68a2ac65829601a57685b9e18`.
+- Resume next at: **STAGEDAT_OLANG/LANG_EXTRA.OLANG, unique_index 0**.
