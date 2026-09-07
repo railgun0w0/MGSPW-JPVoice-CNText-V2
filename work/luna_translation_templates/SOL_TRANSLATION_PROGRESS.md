@@ -40,7 +40,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MYOUTER_DEVELOP_METAL.OLANG` — 592 rows, seven shards + manifest.
 - `LANG_VOCALOID_KEYBOARD.OLANG` — 175 rows, three shards + manifest. English pronunciation examples and VOCALOID phoneme data are preserved; only actual keyboard/help/error UI is localized.
 - `LANG_MYOUTER_STAFF_COMMENT.OLANG` — 356 rows, eight shards + manifest, complete.
-- `LANG_MYOUTER_TOP.OLANG` — **202 rows, four shards + manifest, complete**. Manifest commit `9d9f29398abf65415c3430e1736910bb17300d16`.
+- `LANG_MYOUTER_TOP.OLANG` — **202 rows, four shards + manifest, complete**. Latest manifest commit `22ce7419a230ad2d0016c6d9c5619cc8b0990e71`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -51,7 +51,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MYOUTER_DEVELOP_METAL`: ZEKE configuration, parts, VOCALOID/AI settings and AI memory-board identifiers follow JPN identity; fixed English codes remain fixed.
 - `LANG_VOCALOID_KEYBOARD`: English pronunciation examples and phoneme syntax remain exact; only actual UI/help/error text is localized.
 - `LANG_MYOUTER_STAFF_COMMENT`: all 356 rows complete. JPN `祖母` overrides auxiliary `mother`; `無力化` stays distinct from killing; source `(不要)` voice-actor placeholders remain; named-character dialogue and biographies were reviewed separately from generic staff chatter.
-- `LANG_MYOUTER_TOP`: all 202 rows complete. Printf placeholders remain text placeholders and are not misclassified as runtime controls; `$1/$2/$3` order follows JPN. Source `(不要)` rows remain. Fixed ASCII labels such as `OUTER OPS`, `MECHA`, `KEY CONFIG`, `DEVELOP`, `MOTHER-BASE` follow JPN identity. Auxiliary errors claiming a battle begins instead of ends, euphemizing explicit soldier death, adding an extra support marker, inserting Memory Stick icon controls, and substituting `SENDBOX` were rejected. Source `METAL GEAR ZEK` spelling at row 96 is preserved and flagged as a likely source typo.
+- `LANG_MYOUTER_TOP`: all 202 rows complete. Printf placeholders remain text placeholders and are not misclassified as runtime controls; `$1/$2/$3` order follows JPN. Source `(不要)` rows remain. Fixed ASCII labels such as `OUTER OPS`, `MECHA`, `KEY CONFIG`, `DEVELOP`, `MOTHER-BASE` follow JPN identity. Auxiliary errors claiming a battle begins instead of ends, euphemizing explicit soldier death, adding an extra support marker, inserting Memory Stick icon controls, and substituting `SENDBOX` were rejected. Source `METAL GEAR ZEK` spelling at row 96 is preserved and flagged as a likely source typo. Source trailing ASCII whitespace at unique_index 159 is also preserved.
 
 ## Remaining STAGEDAT
 `LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
@@ -60,5 +60,5 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - Safe translation total: **8485 rows / 94 complete file_ids**.
 - STAGEDAT_OLANG: **43 / 46 complete**.
 - Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MYOUTER_TOP.OLANG.manifest.json`.
-- Latest manifest commit: `9d9f29398abf65415c3430e1736910bb17300d16`.
+- Latest manifest commit: `22ce7419a230ad2d0016c6d9c5619cc8b0990e71`.
 - Resume next: **STAGEDAT_OLANG/LANG_MISSION_RESULT.OLANG**, unless a newer concurrent checkpoint is present.
