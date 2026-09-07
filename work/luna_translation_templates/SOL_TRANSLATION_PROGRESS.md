@@ -20,20 +20,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9820 / 21041 rows** |
-| file_ids with complete persisted translation | **112 / 241** |
+| Translation work safely persisted | **9821 / 21041 rows** |
+| file_ids with complete persisted translation | **113 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **15 / 144 complete** |
+| SLOT_OLANG | **16 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **108 rows / 15 complete file_ids**.
+- SLOT_OLANG: **109 rows / 16 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -63,6 +63,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `5D3B092D` — **2 rows, complete**. Monster Hunter crossover cat dialogue preserves the two JPN internal ASCII spaces; `トレニャー` uses auxiliary `特雷亚` only as transliteration reference, and final `ニャ` is rendered as `喵` without importing auxiliary punctuation. Mapping commit `6a34eb114831e7ae1eb3bfa595263a13325a1abe`.
 - `5D3AF62D` — **4 rows, complete**. Shifted auxiliary lines were rejected. `Amanda！` keeps the established Latin name form; `<R=...,...>` remains exactly one ruby control with localized display text and `Chicolibri` reading; `落ちるぞ！` / `撃って！` are translated from JPN semantics. Mapping commit `0b611765aaeae0a27d43d980a7828045ef7ace80`.
 - `5DA57DF4` — **4 rows, complete**. `電磁くすぐり棒` is retained semantically as `电磁挠痒棒` instead of auxiliary generic voltage-only wording; `独房→牢房` and `捕虜→俘虏` follow established terms; JPN punctuation absence is preserved. Latest mapping commit `ff335021e65049696e4c9d5b643c5f6805a2f845`.
+- `5D5D0A44` — **1 row, complete with 49 references**. The shared multiplayer cutscene-skip/wait message preserves exactly one newline; auxiliary English trailing whitespace is not imported. Mapping commit `ccc0f933c912f29a0da65bc1b11296ec063564e4`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -82,12 +83,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 None. **STAGEDAT_OLANG is complete (46 / 46).**
 
 ## Next resource class
-`SLOT_OLANG` — **15 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
+`SLOT_OLANG` — **16 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
 
 ## Last safe checkpoint
-- Safe translation total: **9820 rows / 112 complete file_ids**.
+- Safe translation total: **9821 rows / 113 complete file_ids**.
 - STAGEDAT_OLANG: **46 / 46 complete**.
-- SLOT_OLANG: **15 / 144 complete**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DA57DF4.json`.
-- Latest mapping commit: `ff335021e65049696e4c9d5b643c5f6805a2f845`.
+- SLOT_OLANG: **16 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D5D0A44.json`.
+- Latest mapping commit: `ccc0f933c912f29a0da65bc1b11296ec063564e4`.
 - Resume next: **next unstarted SLOT_OLANG file_id**, selecting a small file after checking existing mappings.
