@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10559 / 21041 rows** |
-| file_ids with complete persisted translation | **175 / 241** |
+| Translation work safely persisted | **10580 / 21041 rows** |
+| file_ids with complete persisted translation | **176 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **78 / 144 complete** |
+| SLOT_OLANG | **79 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **847 rows / 78 complete file_ids**.
+- SLOT_OLANG: **868 rows / 79 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -94,6 +94,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D3B092D` 2; Monster Hunter crossover dialogue preserves both internal ASCII spaces in `よし 行くぞ トレニャー！`, the established Trenya rendering, cat-speech `ニャ` as `喵`, and JPN terminal-punctuation structure. Mapping `6a34eb114831e7ae1eb3bfa595263a13325a1abe`.
 - `5D48F045` 22; AI-weapon battle/system voice table follows JPN across paired punctuation variants: internal ASCII space in self-repair/restart lines is preserved, `戦闘再開` remains combat-resume rather than auxiliary retargeting, `痺れろ！` is restored as paralysis rather than auxiliary `Die!`, and no auxiliary-added insect simile/punctuation is imported. Mapping `b0d12987cda6bab255151ba25fd98e8217dee340`.
 - `5D3B0612` 21; relationship/ZEKE dialogue is restored strictly from current JPN where auxiliary rows are heavily shifted: `告ってる` remains confession, source ASCII/fullwidth spaces survive, `自立` stays independent with walking/standing wordplay flagged, and `<R=ZEKE,ジーク>` count/order remains exact. Mapping `23eabf2f8cb7833611ec57a5ca3f34e7d5715770`.
+- `5D3AF5AD` 21; radio/film-badge/nuclear-cargo sequence is restored from current JPN despite cyclically shifted auxiliary rows; source ASCII/fullwidth spaces, punctuation variants, Kaz/Snake/Boss identities, film-badge radiation semantics and `『<R=长矛,Spear>』` ruby structure are preserved. Mapping `120a75f4ae3a053696effad0633b5a6c8a64fd94`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -108,11 +109,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **78 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **79 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10559 rows / 175 complete file_ids**.
-- SLOT_OLANG: **78 / 144 complete; 847 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B0612.json`.
-- Latest mapping commit: `23eabf2f8cb7833611ec57a5ca3f34e7d5715770`.
+- Safe translation total: **10580 rows / 176 complete file_ids**.
+- SLOT_OLANG: **79 / 144 complete; 868 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3AF5AD.json`.
+- Latest mapping commit: `120a75f4ae3a053696effad0633b5a6c8a64fd94`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
