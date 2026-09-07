@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10068 / 21041 rows** |
-| file_ids with complete persisted translation | **137 / 241** |
+| Translation work safely persisted | **10087 / 21041 rows** |
+| file_ids with complete persisted translation | **138 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **40 / 144 complete** |
+| SLOT_OLANG | **41 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **356 rows / 40 complete file_ids**.
+- SLOT_OLANG: **375 rows / 41 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -55,7 +55,8 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D3AFD6D` 9; platform/cerebral-AI and horse dialogue, ruby argument spaces, MAMMAL POD/THE BOSS/ANDALUSIAN readings and trailing whitespace preserved. Mapping `62929e6387c0412477f2746ee1c3799645cc1091`.
 - `5D3AF60D` 12; auxiliary shifted/merged lines rejected; ideographic-space placeholder, HOMBRE NUEVO/COMPA/VENCEREMOS ruby controls and final trailing ASCII space preserved. Mapping `640f731cf2c2f3518ac72a31c984e5dd062503c1`.
 - `5D1A33A8` 27; COCOON scanner identities and component/attribute labels preserved exactly. Mapping `5180e1e91a506cb4993adb15a175e4bd27400f93`.
-- `5D1A33AA` — **14 rows complete**. Reused Peace Walker scanner identity table preserves `SCANNING...`, `AL-AURELIA8000`, `PEACE WALKER`, `LIFE`, `LEVEL`, `UNKNOWN`, and `MOBILITY/M`, `ATTACK/A`, `CONTROL/C`, `SENSE/S` exactly from JPN. Mapping commit `c6ce0f06910f82929f9b0aad85d75d6e5459b8d2`.
+- `5D1A33AA` 14; reused Peace Walker scanner identity table preserved exactly. Mapping `c6ce0f06910f82929f9b0aad85d75d6e5459b8d2`.
+- `5D9A9677` — **19 rows complete**. Fixed HUD/aim/status labels remain exactly JPN (`LOCKED ON`, `AUTO AIM`, `NO USE`, `RELOAD`, `SYNCING...`, `IN SYNC`, etc.); auxiliary `N/A` and `RELOADING` substitutions were rejected. Mapping commit `e1f8f36bcff2786b12f4160d659ffccd25a16825`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -70,11 +71,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **40 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **41 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10068 rows / 137 complete file_ids**.
-- SLOT_OLANG: **40 / 144 complete; 356 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D1A33AA.json`.
-- Latest mapping commit: `c6ce0f06910f82929f9b0aad85d75d6e5459b8d2`.
+- Safe translation total: **10087 rows / 138 complete file_ids**.
+- SLOT_OLANG: **41 / 144 complete; 375 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D9A9677.json`.
+- Latest mapping commit: `e1f8f36bcff2786b12f4160d659ffccd25a16825`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
