@@ -20,20 +20,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9808 / 21041 rows** |
-| file_ids with complete persisted translation | **108 / 241** |
+| Translation work safely persisted | **9810 / 21041 rows** |
+| file_ids with complete persisted translation | **109 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **11 / 144 complete** |
+| SLOT_OLANG | **12 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **96 rows / 11 complete file_ids**.
+- SLOT_OLANG: **98 rows / 12 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -59,6 +59,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `5D3AFE0D` — **2 rows, complete**. `連れて行け` preserves JPN's lack of terminal punctuation as `把他带走`; `フン…` keeps one ellipsis mark as `哼…`. Auxiliary punctuation was not imported. Mapping commit `3f66bb800a24f2899ac15d145d7d536591cdacb7`.
 - `5D3B01ED` — **2 rows, complete**. JPN `くそっ ` keeps its trailing ASCII space and rejects auxiliary ellipsis substitution; `頑張れ…！` is localized as `坚持住…！` with punctuation preserved. Mapping commit `bcc28be12452fea34830ea70f6c4ec790c28d5ea`.
 - `5D7E43B7` — **2 rows, complete**. Fixed device identities `REPTILE POD` and `AIPOD` are preserved exactly from JPN; auxiliary normalization `AI POD` is rejected. Mapping commit `e460ad2217b0037e818647e40d31e0d87ef8b98a`.
+- `5D62E635` — **2 rows, complete**. JPN training dialogue is localized as `训练结束了` / `那么 开始射击训练`; the internal ASCII space in the second row and JPN's lack of terminal punctuation are preserved, while auxiliary punctuation and “target practice” narrowing are rejected. Mapping commit `a6220f5dac6efae6f32639ca3dda1d6c2cfd7c54`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -78,12 +79,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 None. **STAGEDAT_OLANG is complete (46 / 46).**
 
 ## Next resource class
-`SLOT_OLANG` — **11 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
+`SLOT_OLANG` — **12 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
 
 ## Last safe checkpoint
-- Safe translation total: **9808 rows / 108 complete file_ids**.
+- Safe translation total: **9810 rows / 109 complete file_ids**.
 - STAGEDAT_OLANG: **46 / 46 complete**.
-- SLOT_OLANG: **11 / 144 complete**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D7E43B7.json`.
-- Latest mapping commit: `e460ad2217b0037e818647e40d31e0d87ef8b98a`.
+- SLOT_OLANG: **12 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D62E635.json`.
+- Latest mapping commit: `a6220f5dac6efae6f32639ca3dda1d6c2cfd7c54`.
 - Resume next: **next unstarted SLOT_OLANG file_id**, selecting a small file after checking existing mappings.
