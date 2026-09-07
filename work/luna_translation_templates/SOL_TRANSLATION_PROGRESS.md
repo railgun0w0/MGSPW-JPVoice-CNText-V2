@@ -23,20 +23,20 @@ Historical checkpoint archive:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **11167 / 21041 rows** |
-| file_ids with complete persisted translation | **192 / 241** |
+| Translation work safely persisted | **11199 / 21041 rows** |
+| file_ids with complete persisted translation | **193 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **95 / 144 complete** |
+| SLOT_OLANG | **96 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1455 rows / 95 complete file_ids**.
+- SLOT_OLANG: **1487 rows / 96 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -62,6 +62,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D3AF5CD` 79; Amanda/Chico cutscene dialogue restored by strict `unique_index + current JPN` binding after multiple large auxiliary shifts. Ruby count/order and semantic identities are preserved for Delegado, Mi Viejo, Comandante, Sandinista, Cigar/Cuba, CODESA, CIA, Monstruo, Nica/Frente, Compa, Irazu, Barge, Rio del Jade, Esperanza and Cacique; unique 31 ideographic-space placeholder, source line breaks, fullwidth punctuation, and unique 76 ruby-internal ` 司 令 官 ` spacing remain intact. UTF-8 byte metadata was recomputed from the final Chinese strings and read back after correction. Mapping QA commit `ed33c9d86fc9f34286132aa4ebc9be9fdba4719f`.
 - `5DC1E6A9` 22; repeated weapon/class identity table follows JPN current spelling and structural typography: `LAV-typeG`, `T-72U`, `Mi-24A` remain exact; fullwidth `２`, ideographic spaces, and `・` are preserved; established AI weapon identities use `PUPA`, `CHRYSALIS`, `COCOON`, `PEACE WALKER`, `METAL GEAR ZEKE`; crossover identities align with existing project forms `TIGREX`, `LIOLAEUS`, `GEAR REX` rather than auxiliary regional normalization. Mapping `211d351c6ed0205230ec674b5f5742d7d9be98e3`.
 - `5D3B05AD` 30; endgame AI/control-room dialogue follows current JPN rather than heavily shifted auxiliary references: Mammal/Reptile are normalized as `哺乳舱` / `爬虫舱`; `<R=这个国家,美国>` and `<R=遗志,WILL>` are rebuilt from JPN ruby identity; source newlines, internal/trailing ASCII spaces, deterrence/retaliation semantics, and the `6` minute countdown are preserved. Ambiguous segmented `ボスの ママルの仕業じゃない` remains conservatively rendered and review-flagged instead of being silently reinterpreted. Mapping `98a34f89390c471173aa3d83a610283faf1a2e2b`.
+- `5D3B052D` 32; final approach/control-tower dialogue follows JPN current-row identity: unique 8 remains an exact single ASCII-space placeholder; `Coldman`, `Snake`, `Kaz`, `Paz`, `MSF` stay fixed; ruby controls preserve `<R=  火速  ,on the double>` including internal double spaces, `<R=撑,こた>`, `<R=『无国界之师』,MSF>`, and `<R=基地,ベース>`; JPN line breaks, ideographic/internal spaces, Soviet/Spetsnaz semantics, and control ordering are retained while shifted auxiliary lines are rejected. Mapping `4a8c4c7f6b731ef2b123bb4a5538e5d42db412c6`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -76,11 +77,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **95 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **96 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **11167 rows / 192 complete file_ids**.
-- SLOT_OLANG: **95 / 144 complete; 1455 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B05AD.json`.
-- Latest mapping commit: `98a34f89390c471173aa3d83a610283faf1a2e2b`.
+- Safe translation total: **11199 rows / 193 complete file_ids**.
+- SLOT_OLANG: **96 / 144 complete; 1487 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B052D.json`.
+- Latest mapping commit: `4a8c4c7f6b731ef2b123bb4a5538e5d42db412c6`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
