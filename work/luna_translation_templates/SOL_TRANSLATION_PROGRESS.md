@@ -25,20 +25,20 @@ Historical checkpoints:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **11472 / 21041 rows** |
-| file_ids with complete persisted translation | **202 / 241** |
+| Translation work safely persisted | **11519 / 21041 rows** |
+| file_ids with complete persisted translation | **203 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **105 / 144 complete** |
+| SLOT_OLANG | **106 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1760 rows / 105 complete file_ids**.
+- SLOT_OLANG: **1807 rows / 106 complete file_ids**.
 
 ## Completed class checkpoints
 - YPK_GTT complete: **36/36**.
@@ -53,6 +53,7 @@ Historical checkpoints:
 - `5D3AF9ED` — 32 rows; jungle/Mayan-ruins/AI-lab dialogue follows current JPN after auxiliary shift; ecology counts, fixed names, ruby count/order, newlines and trailing spaces preserved. Mapping `e51c8f84f7d0326ae63d7dff5ea69dade8ad13e7`.
 - `5D68BF67` — 46 rows; mission-prep/equipment UI preserves fixed JPN ASCII identities, exact three-space placeholder, `<I=CAN>/<I=□>` order, literal Memory Stick™ and JPN surface categories; auxiliary pluralization/renaming/controls rejected. Mapping `3c09b454e4e0f2bac1eba44714a96dfb4bc03dfe`.
 - `5DEFED13` — 23 rows; high-reuse key/control-help dictionary follows JPN. Fixed `START BUTTON`, `SELECT BUTTON`, `KEY LIST` remain exact; `使用しない`, scroll/menu/key-list/floor/tab/select/confirm/cancel/item/settings/audio actions are localized from JPN. Auxiliary selection/confirm/cancel shifts, `KEY LIST`→Help substitution and added ZAPPIN press/hold behavior are rejected. No control tokens are present. Mapping `1928f71be0943f7e83dcddf731f90126ecca47df`.
+- `5D52801A` — 47 rows; ZEKE simulation/damage/battle-voice table follows current JPN short status and punctuation. `ZEKE`, fullwidth `Ｓ`, internal ASCII spaces, ellipses, question forms and `！？` order are preserved. Auxiliary-added “detected/terminated”, added `Snake`, generic voltage/shock-unit rewrites and Booster Charge simplification are rejected. `はいだらー！` is conservatively transliterated and review-flagged. No control tokens are present. Mapping `5efdb81c96ed7e6d401a4e3db10eb39b89411f48`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -63,12 +64,12 @@ Historical checkpoints:
 - Known historical review flags remain recorded in mappings / previous tracker history, including `LANG_SYSTEM` 576KB and unresolved `サイバーバル`, shifted auxiliary mission-title rows, and preserved source-specific spellings/placeholders.
 
 ## Next resource class
-`SLOT_OLANG` — **105 / 144 complete**. Continue the smallest unstarted SLOT after checking the latest Git tree for concurrent mappings.
+`SLOT_OLANG` — **106 / 144 complete**. Continue the smallest unstarted SLOT after checking the latest Git tree for concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **11472 / 21041 rows**.
-- Complete file_ids: **202 / 241**.
-- SLOT_OLANG: **105 / 144 complete; 1760 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DEFED13.json`.
-- Latest mapping commit: `1928f71be0943f7e83dcddf731f90126ecca47df`.
+- Safe translation total: **11519 / 21041 rows**.
+- Complete file_ids: **203 / 241**.
+- SLOT_OLANG: **106 / 144 complete; 1807 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D52801A.json`.
+- Latest mapping commit: `5efdb81c96ed7e6d401a4e3db10eb39b89411f48`.
 - Resume next: **next smallest unstarted SLOT_OLANG file_id from latest Git tree**.
