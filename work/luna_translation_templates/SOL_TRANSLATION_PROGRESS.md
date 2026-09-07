@@ -23,20 +23,20 @@ Historical checkpoint archive:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **11260 / 21041 rows** |
-| file_ids with complete persisted translation | **195 / 241** |
+| Translation work safely persisted | **11293 / 21041 rows** |
+| file_ids with complete persisted translation | **196 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **98 / 144 complete** |
+| SLOT_OLANG | **99 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1548 rows / 98 complete file_ids**.
+- SLOT_OLANG: **1581 rows / 99 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -65,6 +65,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D3B052D` 32; final approach/control-tower dialogue follows JPN current-row identity: unique 8 remains an exact single ASCII-space placeholder; `Coldman`, `Snake`, `Kaz`, `Paz`, `MSF` stay fixed; ruby controls preserve `<R=  火速  ,on the double>` including internal double spaces, `<R=撑,こた>`, `<R=『无国界之师』,MSF>`, and `<R=基地,ベース>`; JPN line breaks, ideographic/internal spaces, Soviet/Spetsnaz semantics, and control ordering are retained while shifted auxiliary lines are rejected. Mapping `4a8c4c7f6b731ef2b123bb4a5538e5d42db412c6`.
 - `5D3B090D` 29; Monster Hunter crossover/Trenya dialogue follows strict current JPN binding despite heavily shifted auxiliary rows. Cat-speech `ニャ` is localized consistently as `喵`; fixed crossover name uses `Trenya` with review flag; `<R=家伙,モンスター>` and `<R=怪 物 狩 猎 ,モンスター ハンティング>` preserve ruby count/order, Japanese readings, and the latter's unusual inter-character/trailing spaces. `Pokke` Farm, `《狩猎任务》`, source newlines, ideographic spaces, line-final ASCII spaces, and cat-call punctuation are preserved. Mapping QA `dbd6f84e16bdcb69d21d61d12f3aa4f38c239a88`.
 - `5D3B022D` 32; The Boss/Snake Eater flashback dialogue is restored strictly from current JPN after severe auxiliary shifting. Fixed identities use `Boss`, `The Boss`, `Snake`, `Volgin`, and `Sokolov`; `<R=弟子,サン>`, `<R=她,ザ・ボス>`, and `<R=任务,ミッション>` preserve ruby count/order and Japanese readings; source newlines, internal/trailing ASCII spaces, false-defection, forced death, public-history disgrace, Soviet nuclear-criminal and American traitor semantics remain tied to the current JPN row rather than auxiliary chronology. Mapping `f3b04de8dee2d0270cce73527a26f55d2f84f79e`.
+- `5D3B050D` 33; mixed The Boss historical debriefing and current nuclear-launch approach dialogue follows JPN current-row structure. Ruby identities preserve Hero, Honor, Debriefing, Patriot, Target, and two FSLN references with Japanese/Latin readings; current mission identities keep `MSF`, `Mother Base`, `Peace Walker`, `Kaz`, `Miller`, `Snake`, `Amanda`, and `Paz`. Source line breaks, internal/trailing spaces and the space before the final FSLN ruby were QA-restored. Mapping QA `d237ba2a0e1e041549efa6e9ac44ae2e9588ed81`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -79,11 +80,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **98 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **99 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **11260 rows / 195 complete file_ids**.
-- SLOT_OLANG: **98 / 144 complete; 1548 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B022D.json`.
-- Latest mapping commit: `f3b04de8dee2d0270cce73527a26f55d2f84f79e`.
+- Safe translation total: **11293 rows / 196 complete file_ids**.
+- SLOT_OLANG: **99 / 144 complete; 1581 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B050D.json`.
+- Latest mapping commit: `d237ba2a0e1e041549efa6e9ac44ae2e9588ed81`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
