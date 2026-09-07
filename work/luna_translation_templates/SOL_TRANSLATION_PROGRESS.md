@@ -23,20 +23,20 @@ Historical checkpoint archive:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **11403 / 21041 rows** |
-| file_ids with complete persisted translation | **200 / 241** |
+| Translation work safely persisted | **11449 / 21041 rows** |
+| file_ids with complete persisted translation | **201 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **103 / 144 complete** |
+| SLOT_OLANG | **104 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1691 rows / 103 complete file_ids**.
+- SLOT_OLANG: **1737 rows / 104 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -70,6 +70,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5DB83C7B` 16; high-reuse HUD/count identity table shared across 32 scenes is preserved exactly from JPN. The single ASCII-space placeholder remains byte-identical; fixed labels such as `REMAINING CLAYMORES`, `REMAINING TARGETS`, `FAILURE COUNT`, `KEY ITEM GET NUMBER5`, `PTS`, and internal `TEST NAME7/28/39` identities are not localized or normalized. Mapping `ca487e6cf4240a41899d38f9835bffbf8fb91ed9`.
 - `5DF1B9C2` 27; controls/options configuration table follows current JPN labels and structure. Action labels preserve `・` distinctions and fixed `OPTIONS` / `KEY CONFIG` identities; the long control-type explanation retains its double newline and Hunter line break, using Japanese-release `MONSTER HUNTER PORTABLE®` rather than auxiliary Freedom branding. Memory Stick rows preserve only source `<I=TM>` controls and reject auxiliary-added `<I=BL>`; the literal `™` error row, `<I=DEC>/<I=△>/<I=CAN>` order, ideographic spacing, newlines, and internal `（不要）〇×` marker remain intact. Mapping `6865a14492da464a7cdaa41244866ca115607df8`.
 - `5D3AF9ED` 32; jungle/Mayan-ruins/AI-lab dialogue is restored from current JPN after auxiliary chronology starts shifting. Numeric ecology facts (400+ birds, 400 orchids, 2500 plants, 500 butterflies), source newlines/internal/trailing spaces, and fixed `Snake`, `Paz`, `Huey`, `Strangelove`, `Coldman`, `CHRYSALIS` identities are preserved. Ruby controls keep Tropical Cloud Forest/Jungle, AI, Lab, Game, Ambush, UAV, and Research Lab readings in source order; Coldman's `ゲーム`/`コールド` wordplay is rendered conservatively as the plan being frozen. Mapping `e51c8f84f7d0326ae63d7dff5ea69dade8ad13e7`.
+- `5D68BF67` 46; mission-prep/equipment UI table preserves current JPN fixed ASCII identities exactly, including `MNTL:`, `EQUIP:`, singular `WEAPON`, `ITEM`, `DL UNIFORM`, `DETAIL`, `ENTRY GATE`, uniform names, groups, `CO-OPS COMM.`, `OK`, and `CANCEL`; auxiliary renames/pluralizations are rejected. The exact three-space placeholder survives. Japanese mission-prep descriptions retain the character component omitted by auxiliary, control rows preserve `<I=CAN>/<I=□>` order and spacing, and the Memory Stick™ error keeps a literal trademark sign with no auxiliary-added controls. Surface categories follow JPN (`遗迹`, `湿地`, etc.) rather than narrowed auxiliary labels. Mapping `3c09b454e4e0f2bac1eba44714a96dfb4bc03dfe`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -84,11 +85,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **103 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **104 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **11403 rows / 200 complete file_ids**.
-- SLOT_OLANG: **103 / 144 complete; 1691 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3AF9ED.json`.
-- Latest mapping commit: `e51c8f84f7d0326ae63d7dff5ea69dade8ad13e7`.
+- Safe translation total: **11449 rows / 201 complete file_ids**.
+- SLOT_OLANG: **104 / 144 complete; 1737 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D68BF67.json`.
+- Latest mapping commit: `3c09b454e4e0f2bac1eba44714a96dfb4bc03dfe`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
