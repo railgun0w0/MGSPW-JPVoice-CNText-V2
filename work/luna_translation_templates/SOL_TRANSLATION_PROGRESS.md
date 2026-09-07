@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10176 / 21041 rows** |
-| file_ids with complete persisted translation | **144 / 241** |
+| Translation work safely persisted | **10194 / 21041 rows** |
+| file_ids with complete persisted translation | **145 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **47 / 144 complete** |
+| SLOT_OLANG | **48 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **464 rows / 47 complete file_ids**.
+- SLOT_OLANG: **482 rows / 48 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -62,7 +62,8 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D83C375` 9; CQC/intimidation voice directions and fullwidth C/Q/C structure preserved. Mapping `9cf2b1568ad6ebc4c8bd0c8a6ba6f863b3b5f8de`.
 - `5D62BF06` 25; vehicle/unit identities and `(C)` suffixes preserved; JPN `COMMANDER` overrides auxiliary `CAPTAIN`. Mapping `04f535ac6ec3075e24a59d9fbabd6f9bf60a094a`.
 - `5D3AF98D` 15; shifted truck/nuclear-warhead sequence, rubies and whitespace restored from JPN. Mapping `ed5c716b86406fb3778345cb708e34b59b84c5bb`.
-- `5D3B3A9A` — **17 rows complete**. Control-tutorial labels are localized while preserving JPN fullwidth `／` hierarchy and `・` sub-action separators, including CQC restraint/choke/interrogation/throw variants. Mapping commit `d0e3e9f7ce4416883749fc68d39d2ec19381bac6`.
+- `5D3B3A9A` 17; control-tutorial separators and CQC hierarchy preserved. Mapping `d0e3e9f7ce4416883749fc68d39d2ec19381bac6`.
+- `5D1B7B4B` — **18 rows complete**. Vocalizations/dialogue are localized while preserving JPN punctuation forms; production/variant notes omitted by auxiliary are restored, including unique 17's newline plus `※` marker. Mapping commit `dd15c154b2650d2ebd6a7d27c454b54ec0b0d826`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -77,11 +78,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **47 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **48 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10176 rows / 144 complete file_ids**.
-- SLOT_OLANG: **47 / 144 complete; 464 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B3A9A.json`.
-- Latest mapping commit: `d0e3e9f7ce4416883749fc68d39d2ec19381bac6`.
+- Safe translation total: **10194 rows / 145 complete file_ids**.
+- SLOT_OLANG: **48 / 144 complete; 482 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D1B7B4B.json`.
+- Latest mapping commit: `dd15c154b2650d2ebd6a7d27c454b54ec0b0d826`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
