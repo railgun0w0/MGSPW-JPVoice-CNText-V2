@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10099 / 21041 rows** |
-| file_ids with complete persisted translation | **139 / 241** |
+| Translation work safely persisted | **10110 / 21041 rows** |
+| file_ids with complete persisted translation | **140 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **42 / 144 complete** |
+| SLOT_OLANG | **43 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **387 rows / 42 complete file_ids**.
+- SLOT_OLANG: **398 rows / 43 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -57,7 +57,8 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D1A33A8` 27; COCOON scanner identities and component/attribute labels preserved exactly. Mapping `5180e1e91a506cb4993adb15a175e4bd27400f93`.
 - `5D1A33AA` 14; reused Peace Walker scanner identity table preserved exactly. Mapping `c6ce0f06910f82929f9b0aad85d75d6e5459b8d2`.
 - `5D9A9677` 19; fixed HUD/aim/status labels preserved; auxiliary `N/A` and `RELOADING` substitutions rejected. Mapping `e1f8f36bcff2786b12f4160d659ffccd25a16825`.
-- `5DA7D878` — **12 rows complete**. Fixed map/location identities `AI LABORATORY`, `RUINAS DE XOCHIQUETZAL`, `SELVA DE LA MUERTE` variants, `CATARATA DE LA MUERTE`, `SELVA DE LA LECHE` variants, `TARGET`, `SNAKE`, `GOAL` are preserved exactly from JPN. Mapping commit `3f3310695f84f1c645190a439f87034c402291d5`.
+- `5DA7D878` 12; fixed AI-lab/jungle map identities preserved exactly. Mapping `3f3310695f84f1c645190a439f87034c402291d5`.
+- `5DA7D87A` — **11 rows complete**. Fixed missile-base map identities `HELIPORT`, `UNDERPASS`, `RUNWAY`, `U.S. MISSILE BASE, NICARAGUA`, `MAIN MAINTENANCE DOCK`, `ROOFTOP`, `SMALL MAINTENANCE DOCK`, `BACK GATE`, `TARGET`, `SNAKE`, `GOAL` are preserved exactly from JPN. Mapping commit `c5f10b55d98aabbc37342a52b6344931ee25ba33`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -72,11 +73,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **42 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **43 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10099 rows / 139 complete file_ids**.
-- SLOT_OLANG: **42 / 144 complete; 387 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DA7D878.json`.
-- Latest mapping commit: `3f3310695f84f1c645190a439f87034c402291d5`.
+- Safe translation total: **10110 rows / 140 complete file_ids**.
+- SLOT_OLANG: **43 / 144 complete; 398 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DA7D87A.json`.
+- Latest mapping commit: `c5f10b55d98aabbc37342a52b6344931ee25ba33`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
