@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10264 / 21041 rows** |
-| file_ids with complete persisted translation | **150 / 241** |
+| Translation work safely persisted | **10265 / 21041 rows** |
+| file_ids with complete persisted translation | **151 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **53 / 144 complete** |
+| SLOT_OLANG | **54 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **552 rows / 53 complete file_ids**.
+- SLOT_OLANG: **553 rows / 54 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -68,7 +68,8 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D2B7C21` 5; highly reused result/time labels preserve `YOU WON`, `YOU LOSE`, `CONTROL`, `TIME PENALTY -$1sec`, `TIME EXTEND +$1sec`; auxiliary normalization rejected. Mapping `a825a9fbc8187d5f63dcb5089a5ac52098bb8362`.
 - `5DA7D879` 11; Costa Rica mine-base map identities preserved; JPN `AI WEAPON HANGAR` overrides auxiliary `PEACE WALKER HANGAR`. Mapping `6d48ddf91b9cd859856bd9ee035baab43e116a1d`.
 - `5D3B010D` 21; interrogation/self-reproach dialogue is restored from current JPN where auxiliary is heavily shifted; THE BOSS ruby, internal/fullwidth/trailing spaces, ellipsis/exclamation structure and abort/power-failure tail remain authoritative. Mapping `dbd75578b8192d7cbcc6dcb7f926755e03d78637`.
-- `5DB85CF0` — **18 rows complete**. Staff-discharge UI follows current JPN: `NEW COMER` is preserved over auxiliary `NEW RECRUITS`; `%d` then `%2d` format-specifier order, both embedded newlines, zero-staff warning and discharge confirmation semantics remain intact. Mapping commit `156f56bc3b7c591cf3b92c593c2a544a5c6fbc25`.
+- `5DB85CF0` 18; staff-discharge UI follows current JPN: `NEW COMER` is preserved over auxiliary `NEW RECRUITS`; `%d` then `%2d` format-specifier order, both embedded newlines, zero-staff warning and discharge confirmation semantics remain intact. Mapping `156f56bc3b7c591cf3b92c593c2a544a5c6fbc25`.
+- `5D02EB62` — **1 row complete**. Existing concurrent mapping was read back against the source: JPN plain UI label `PRISONER` is localized as `俘虏`, with no controls or structural ambiguity. Mapping commit `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -83,11 +84,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **53 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **54 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10264 rows / 150 complete file_ids**.
-- SLOT_OLANG: **53 / 144 complete; 552 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DB85CF0.json`.
-- Latest mapping commit: `156f56bc3b7c591cf3b92c593c2a544a5c6fbc25`.
+- Safe translation total: **10265 rows / 151 complete file_ids**.
+- SLOT_OLANG: **54 / 144 complete; 553 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D02EB62.json`.
+- Latest mapping commit: `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
