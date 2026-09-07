@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9927 / 21041 rows** |
-| file_ids with complete persisted translation | **127 / 241** |
+| Translation work safely persisted | **9941 / 21041 rows** |
+| file_ids with complete persisted translation | **128 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **30 / 144 complete** |
+| SLOT_OLANG | **31 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **215 rows / 30 complete file_ids**.
+- SLOT_OLANG: **229 rows / 31 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). Recent large completions include `LANG_MISSION_RESULT.OLANG` (357), `LANG_WEAPON_TEXT.OLANG` (388), and `LANG_MISSION_INFO.OLANG` (482). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -58,7 +58,8 @@ STAGEDAT_OLANG is complete (46 / 46). Recent large completions include `LANG_MIS
 - `5D56AA31` 12; fixed scanner/status JPN labels preserved over auxiliary substitutions. Mapping `bedd25df8614e873e8885ee2723a1b2b80a8d38b`.
 - `5D3B060D` 8; current-row JPN restored; BIGBOSS/ZEKE ruby and spaces preserved. Mapping `eb2a3ce096138921c4c5cbd8f5fca319ea3ad322`.
 - `5D3AF992` 10; shifted auxiliary rejected; Zadornov search/truck/facility and fixed dramatic lines restored. Mapping `30846c387ea2606356c90fd534fd6bd8f00767e9`.
-- `5DA7D875` — **8 rows complete**. Fixed map/location identities `PUERTO DEL ALBA`, `BOSQUE DEL ALBA`, `PLAYA DEL ALBA`, `BARRANQUILLA COAST, COLOMBIA`, `MSF BASE`, `TARGET`, `SNAKE`, `GOAL` are preserved exactly from JPN. Mapping commit `a6b266c24774a61730c2e0b187ff4a84d46fb470`.
+- `5DA7D875` 8; fixed map/location identities preserved exactly. Mapping `a6b266c24774a61730c2e0b187ff4a84d46fb470`.
+- `5D1A33A9` — **14 rows complete**. Peace Walker/mecha scanner identities `AL-AURELIA8000`, `PEACE WALKER`, `MOBILITY/M`, `ATTACK/A`, `CONTROL/C`, `SENSE/S` and related UI labels are preserved exactly from JPN. Mapping commit `1e9c8b72dc23e48c08baada430ec3d69781f33a1`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -73,11 +74,11 @@ STAGEDAT_OLANG is complete (46 / 46). Recent large completions include `LANG_MIS
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **30 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **31 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **9927 rows / 127 complete file_ids**.
-- SLOT_OLANG: **30 / 144 complete; 215 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DA7D875.json`.
-- Latest mapping commit: `a6b266c24774a61730c2e0b187ff4a84d46fb470`.
+- Safe translation total: **9941 rows / 128 complete file_ids**.
+- SLOT_OLANG: **31 / 144 complete; 229 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D1A33A9.json`.
+- Latest mapping commit: `1e9c8b72dc23e48c08baada430ec3d69781f33a1`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
