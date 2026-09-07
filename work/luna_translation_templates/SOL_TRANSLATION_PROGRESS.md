@@ -23,20 +23,20 @@ Historical checkpoint archive:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10699 / 21041 rows** |
-| file_ids with complete persisted translation | **181 / 241** |
+| Translation work safely persisted | **10729 / 21041 rows** |
+| file_ids with complete persisted translation | **182 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **84 / 144 complete** |
+| SLOT_OLANG | **85 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **987 rows / 84 complete file_ids**.
+- SLOT_OLANG: **1017 rows / 85 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -51,6 +51,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5DA7D877` 16; high-reuse map/HUD identity table preserves every JPN fixed ASCII label exactly, including `CAFETAL AROMA ENCANTADO`, `CRATER BASE`, `LOS CANTOS` variants, `TARGET`, `SNAKE`, and `GOAL`. Mapping `038d9f6c529d55601843cd57b4eaa0e1b5ba2389`.
 - `5D483717` 24; AI-weapon battle/system table follows JPN rather than auxiliary narrowing: abdomen threat and direct attack semantics are retained, `潰してやる！！` keeps double exclamation, paired punctuation variants remain distinct, and `応急処置` is rendered as emergency handling rather than auxiliary override. Mapping `6ee6f323de2a440252a1ec074c6bcda76b941e0b`.
 - `5D81E50B` 31; mission-record statistics table preserves fixed JPN English/rank labels exactly (`TOTAL:`, `OTHER INFORMATION`, `CO-OPS`, `OK`, etc.); Japanese report/stat fields are localized, auxiliary-added parentheses are rejected, and `項目０６/０５` retain fullwidth digits. Mapping `1d15d159468675583188638b42a72df7516ff950`.
+- `5D472837` 30; Kidnapper/railgun AI-weapon battle table follows current JPN: device identity is preserved as `Kidnapper`, single/double exclamation distinctions and internal ASCII spaces remain exact, `ワイヤー射出` stays wire launch, `チェインガン掃射` stays chaingun sweep fire, and auxiliary punctuation/semantic narrowing is rejected. Mapping `b063faead0fe35dcb954b1c6552b3ed05e00c871`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -65,11 +66,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **84 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **85 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10699 rows / 181 complete file_ids**.
-- SLOT_OLANG: **84 / 144 complete; 987 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D81E50B.json`.
-- Latest mapping commit: `1d15d159468675583188638b42a72df7516ff950`.
+- Safe translation total: **10729 rows / 182 complete file_ids**.
+- SLOT_OLANG: **85 / 144 complete; 1017 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D472837.json`.
+- Latest mapping commit: `b063faead0fe35dcb954b1c6552b3ed05e00c871`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
