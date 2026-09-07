@@ -20,19 +20,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9712 / 21041 rows** |
-| file_ids with complete persisted translation | **97 / 241** |
+| Translation work safely persisted | **9713 / 21041 rows** |
+| file_ids with complete persisted translation | **98 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **0 / 144** |
+| SLOT_OLANG | **1 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
+- SLOT_OLANG: **1 row / 1 complete file_id**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -45,6 +46,9 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MISSION_RESULT.OLANG` — 357 rows, four shards + manifest, complete. Manifest commit `5fdd621aaf20f3d01724cedfaaabdc3ac663ea40`.
 - `LANG_WEAPON_TEXT.OLANG` — 388 rows, eight shards + manifest, complete. Manifest commit `bb9e266b6a894174c4584bdadd3aedfbd92e9080`.
 - `LANG_MISSION_INFO.OLANG` — **482 logical rows, ten shards + manifest, complete**. Manifest commit `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
+
+## Recent completed SLOT
+- `5D02EB62` — **1 row, complete**. JPN `PRISONER` is a plain semantic UI label rather than a verified fixed code, localized as `俘虏`. Mapping commit `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -64,12 +68,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 None. **STAGEDAT_OLANG is complete (46 / 46).**
 
 ## Next resource class
-`SLOT_OLANG` — **0 / 144 complete**. Select the next unstarted SLOT file_id by reading existing mappings first; prefer a small file for the first SLOT checkpoint unless a newer concurrent checkpoint is present.
+`SLOT_OLANG` — **1 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
 
 ## Last safe checkpoint
-- Safe translation total: **9712 rows / 97 complete file_ids**.
+- Safe translation total: **9713 rows / 98 complete file_ids**.
 - STAGEDAT_OLANG: **46 / 46 complete**.
-- SLOT_OLANG: **0 / 144 complete**.
-- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MISSION_INFO.OLANG.manifest.json`.
-- Latest manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
-- Resume next: **SLOT_OLANG**, selecting an unstarted file_id after checking for newer concurrent mappings.
+- SLOT_OLANG: **1 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D02EB62.json`.
+- Latest mapping commit: `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
+- Resume next: **next unstarted SLOT_OLANG file_id**, selecting a small file after checking existing mappings.
