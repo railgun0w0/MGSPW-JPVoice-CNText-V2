@@ -19,19 +19,19 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **8842 / 21041 rows** |
-| file_ids with complete persisted translation | **95 / 241** |
+| Translation work safely persisted | **9230 / 21041 rows** |
+| file_ids with complete persisted translation | **96 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
-| STAGEDAT_OLANG | **44 / 46 complete** |
+| STAGEDAT_OLANG | **45 / 46 complete** |
 | SLOT_OLANG | **0 / 144** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
-- STAGEDAT_OLANG: **4817 rows / 44 complete file_ids**.
+- STAGEDAT_OLANG: **5205 rows / 45 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -41,7 +41,8 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_VOCALOID_KEYBOARD.OLANG` — 175 rows, three shards + manifest. English pronunciation examples and VOCALOID phoneme data are preserved; only actual keyboard/help/error UI is localized.
 - `LANG_MYOUTER_STAFF_COMMENT.OLANG` — 356 rows, eight shards + manifest, complete.
 - `LANG_MYOUTER_TOP.OLANG` — 202 rows, four shards + manifest, complete. Latest manifest commit `22ce7419a230ad2d0016c6d9c5619cc8b0990e71`.
-- `LANG_MISSION_RESULT.OLANG` — **357 rows, four shards + manifest, complete**. Manifest commit `5fdd621aaf20f3d01724cedfaaabdc3ac663ea40`.
+- `LANG_MISSION_RESULT.OLANG` — 357 rows, four shards + manifest, complete. Manifest commit `5fdd621aaf20f3d01724cedfaaabdc3ac663ea40`.
+- `LANG_WEAPON_TEXT.OLANG` — **388 rows, eight shards + manifest, complete**. Manifest commit `bb9e266b6a894174c4584bdadd3aedfbd92e9080`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -54,13 +55,14 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MYOUTER_STAFF_COMMENT`: all 356 rows complete. JPN `祖母` overrides auxiliary `mother`; `無力化` stays distinct from killing; source `(不要)` voice-actor placeholders remain; named-character dialogue and biographies were reviewed separately from generic staff chatter.
 - `LANG_MYOUTER_TOP`: all 202 rows complete. Printf placeholders remain text placeholders and are not misclassified as runtime controls; `$1/$2/$3` order follows JPN. Source `(不要)` rows remain. Fixed ASCII labels such as `OUTER OPS`, `MECHA`, `KEY CONFIG`, `DEVELOP`, `MOTHER-BASE` follow JPN identity. Auxiliary errors claiming a battle begins instead of ends, euphemizing explicit soldier death, adding an extra support marker, inserting Memory Stick icon controls, and substituting `SENDBOX` were rejected. Source `METAL GEAR ZEK` spelling at row 96 is preserved and flagged as a likely source typo. Source trailing ASCII whitespace at unique_index 159 is also preserved.
 - `LANG_MISSION_RESULT`: all 357 logical rows complete. Single-space placeholders, `$1/$2` order, `$1 %` spacing, multiline layouts, fullwidth indentation and `ENTRY　GATE` fullwidth spacing follow JPN. `BLAVO`, `ALFA`, `SQUARE`, `AUSCAM DESERT`, fixed ASCII result labels and hero-spirit punctuation/intensity were not normalized from auxiliary text. Nonlexical `キェーーー` and `はいだらー！` are identity-preserved and flagged.
+- `LANG_WEAPON_TEXT`: all 388 logical rows complete. JPN control icons and whitespace are preserved, including `<I=RIGH>`, `<I=ATK>`, `<I=HHA>`, trailing newlines and significant ASCII spaces. JPN weapon/model identities and short codes remain authoritative over auxiliary normalizations. `気力回復弾` remains distinct from LIFE recovery. Publication identities/codes follow JPN, and auxiliary substitutions such as `M37(ACM)`, `RAILGUN` for `RAIL GUN`, `PR` for `MR`, and generic/Solid/Liquid magazine labels were rejected. Human-slingshot wordplay remains review-flagged.
 
 ## Remaining STAGEDAT
-`LANG_MISSION_INFO.OLANG`, `LANG_WEAPON_TEXT.OLANG`.
+`LANG_MISSION_INFO.OLANG`.
 
 ## Last safe checkpoint
-- Safe translation total: **8842 rows / 95 complete file_ids**.
-- STAGEDAT_OLANG: **44 / 46 complete**.
-- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MISSION_RESULT.OLANG.manifest.json`.
-- Latest manifest commit: `5fdd621aaf20f3d01724cedfaaabdc3ac663ea40`.
-- Resume next: **remaining STAGEDAT_OLANG (`LANG_MISSION_INFO.OLANG` / `LANG_WEAPON_TEXT.OLANG`) after checking for a newer concurrent checkpoint**.
+- Safe translation total: **9230 rows / 96 complete file_ids**.
+- STAGEDAT_OLANG: **45 / 46 complete**.
+- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_WEAPON_TEXT.OLANG.manifest.json`.
+- Latest manifest commit: `bb9e266b6a894174c4584bdadd3aedfbd92e9080`.
+- Resume next: **STAGEDAT_OLANG/LANG_MISSION_INFO.OLANG**, unless a newer concurrent checkpoint is present.
