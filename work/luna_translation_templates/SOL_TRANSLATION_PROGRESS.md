@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10270 / 21041 rows** |
-| file_ids with complete persisted translation | **152 / 241** |
+| Translation work safely persisted | **10282 / 21041 rows** |
+| file_ids with complete persisted translation | **154 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **55 / 144 complete** |
+| SLOT_OLANG | **57 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **558 rows / 55 complete file_ids**.
+- SLOT_OLANG: **570 rows / 57 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -70,7 +70,9 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D3B010D` 21; interrogation/self-reproach dialogue is restored from current JPN where auxiliary is heavily shifted; THE BOSS ruby, internal/fullwidth/trailing spaces, ellipsis/exclamation structure and abort/power-failure tail remain authoritative. Mapping `dbd75578b8192d7cbcc6dcb7f926755e03d78637`.
 - `5DB85CF0` 18; staff-discharge UI follows current JPN: `NEW COMER` is preserved over auxiliary `NEW RECRUITS`; `%d` then `%2d` format-specifier order, both embedded newlines, zero-staff warning and discharge confirmation semantics remain intact. Mapping `156f56bc3b7c591cf3b92c593c2a544a5c6fbc25`.
 - `5D02EB62` 1; existing concurrent mapping was read back against the source: JPN plain UI label `PRISONER` is localized as `俘虏`, with no controls or structural ambiguity. Mapping `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
-- `5D0A5DB1` — **5 rows complete**. Existing concurrent mapping matches JPN: `(不要)` and fullwidth `００１/００２` are preserved, the intentionally long emergency-message scroll test keeps its long-vowel structure, and the training-skip row remains declarative rather than importing the auxiliary question form. Mapping commit `f5fd37dde91d66c49b9c797d950907e5b7c2e8a8`.
+- `5D0A5DB1` 5; existing concurrent mapping matches JPN: `(不要)` and fullwidth `００１/００２` are preserved, the intentionally long emergency-message scroll test keeps its long-vowel structure, and the training-skip row remains declarative rather than importing the auxiliary question form. Mapping `f5fd37dde91d66c49b9c797d950907e5b7c2e8a8`.
+- `5D1708FB` 5; concurrent mapping verified against JPN: `(不要)` and emergency scroll-test structure are preserved, `$1` remains at the start of the mission-departure row, and JPN communication/connection messages override auxiliary fixed English labels. Mapping `34b560f42aedb93bdfd3741ad747152c6ba6f9fe`.
+- `5D0A7130` — **7 rows complete**. Concurrent mapping verified against JPN: the five-line information-restriction notice preserves `MAIN OPS` and line structure; the send-message confirmation remains a question; delete/resume/fast-forward/reaction/stop labels follow current JPN. Mapping commit `06440ffd10c1da83a0e921683145472aaa470c21`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -85,11 +87,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **55 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **57 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10270 rows / 152 complete file_ids**.
-- SLOT_OLANG: **55 / 144 complete; 558 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D0A5DB1.json`.
-- Latest mapping commit: `f5fd37dde91d66c49b9c797d950907e5b7c2e8a8`.
+- Safe translation total: **10282 rows / 154 complete file_ids**.
+- SLOT_OLANG: **57 / 144 complete; 570 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D0A7130.json`.
+- Latest mapping commit: `06440ffd10c1da83a0e921683145472aaa470c21`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
