@@ -23,20 +23,20 @@ Historical checkpoint archive:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10756 / 21041 rows** |
-| file_ids with complete persisted translation | **183 / 241** |
+| Translation work safely persisted | **10803 / 21041 rows** |
+| file_ids with complete persisted translation | **184 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **86 / 144 complete** |
+| SLOT_OLANG | **87 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1044 rows / 86 complete file_ids**.
+- SLOT_OLANG: **1091 rows / 87 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -53,6 +53,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D81E50B` 31; mission-record statistics table preserves fixed JPN English/rank labels exactly (`TOTAL:`, `OTHER INFORMATION`, `CO-OPS`, `OK`, etc.); Japanese report/stat fields are localized, auxiliary-added parentheses are rejected, and `項目０６/０５` retain fullwidth digits. Mapping `1d15d159468675583188638b42a72df7516ff950`.
 - `5D472837` 30; Kidnapper/railgun AI-weapon battle table follows current JPN: device identity is preserved as `Kidnapper`, single/double exclamation distinctions and internal ASCII spaces remain exact, `ワイヤー射出` stays wire launch, `チェインガン掃射` stays chaingun sweep fire, and auxiliary punctuation/semantic narrowing is rejected. Mapping `b063faead0fe35dcb954b1c6552b3ed05e00c871`.
 - `5D272813` 27; camera/control setup tutorial follows JPN structure: multiline button instructions and ` + ` spacing are preserved, the exact five-ideographic-space placeholder survives, and all auxiliary-added `<I=△>/<I=×>/<I=□>/<I=○>` controls are rejected because JPN contains only literal button glyphs/text. Mapping `68c46f5e9d3d775aa671a4c740cd7b6664c44cbf`.
+- `5D396407` 47; Japanese-version staff/cast credits are preserved byte-for-byte from JPN: fixed English role/name identities stay unchanged, embedded name-list newlines and the producer blank line survive, JPN `REAL-TIME DEMO ARTIST` overrides auxiliary wording, and all auxiliary English-dub cast substitutions are rejected in favor of the Japanese cast. Mapping `1bc85f9ca38e07140a04ebacd75e9da9eb74f514`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -67,11 +68,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **86 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **87 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10756 rows / 183 complete file_ids**.
-- SLOT_OLANG: **86 / 144 complete; 1044 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D272813.json`.
-- Latest mapping commit: `68c46f5e9d3d775aa671a4c740cd7b6664c44cbf`.
+- Safe translation total: **10803 rows / 184 complete file_ids**.
+- SLOT_OLANG: **87 / 144 complete; 1091 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D396407.json`.
+- Latest mapping commit: `1bc85f9ca38e07140a04ebacd75e9da9eb74f514`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
