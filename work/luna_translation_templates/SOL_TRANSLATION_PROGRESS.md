@@ -20,20 +20,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9730 / 21041 rows** |
-| file_ids with complete persisted translation | **101 / 241** |
+| Translation work safely persisted | **9799 / 21041 rows** |
+| file_ids with complete persisted translation | **102 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **4 / 144 complete** |
+| SLOT_OLANG | **5 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **18 rows / 4 complete file_ids**.
+- SLOT_OLANG: **87 rows / 5 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -51,7 +51,8 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `5D02EB62` — 1 row, complete. JPN `PRISONER` is a plain semantic UI label rather than a verified fixed code, localized as `俘虏`. Mapping commit `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
 - `5D0A5DB1` — 5 rows, complete. Source `(不要)` markers/fullwidth test numbers are preserved; long scrolling-message test stays intentionally long; JPN final row remains a declarative “skip training and continue” rather than the auxiliary question form. Mapping commit `f5fd37dde91d66c49b9c797d950907e5b7c2e8a8`.
 - `5D1708FB` — 5 rows, complete. Source `（不要）` communication-test markers and intentionally long scrolling text are preserved; `$1` remains in place; JPN communication-status messages are localized to Chinese rather than copied from auxiliary English UI. Mapping commit `c92b2c3f3152c3a7f0de49d810f138f3ff00ff0e`.
-- `5D0A7130` — **7 rows, complete**. Information-restriction message keeps MAIN OPS context and source multiline layout; the cutscene-skip prompt remains interrogative as in JPN; zoom/move/confirm/auto-zoom/attack UI labels are localized. Mapping commit `20327cda6caf631468d5c7c85c74b31421960986`.
+- `5D0A7130` — 7 rows, complete. Information-restriction message keeps MAIN OPS context and source multiline layout; the cutscene-skip prompt remains interrogative as in JPN; zoom/move/confirm/auto-zoom/attack UI labels are localized. Mapping commit `20327cda6caf631468d5c7c85c74b31421960986`.
+- `5D06A8D5` — **69 rows, two shards + manifest, complete**. Mother Base system-log messages preserve `(不要)`, `#`, `【！】`, `*log_type_34`, `$1/$2`, icon controls, unique_index 7 trailing newline and unique_index 10 trailing ASCII space. Fixed feature identities such as RECRUIT/TRADE/DELIVERY/OUTER OPS/METAL GEAR ZEKE remain authoritative. Manifest commit `d45b0971ddf094c5b3e55b60c9edbe4ba006eb24`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -71,12 +72,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 None. **STAGEDAT_OLANG is complete (46 / 46).**
 
 ## Next resource class
-`SLOT_OLANG` — **4 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
+`SLOT_OLANG` — **5 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
 
 ## Last safe checkpoint
-- Safe translation total: **9730 rows / 101 complete file_ids**.
+- Safe translation total: **9799 rows / 102 complete file_ids**.
 - STAGEDAT_OLANG: **46 / 46 complete**.
-- SLOT_OLANG: **4 / 144 complete**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D0A7130.json`.
-- Latest mapping commit: `20327cda6caf631468d5c7c85c74b31421960986`.
+- SLOT_OLANG: **5 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D06A8D5.manifest.json`.
+- Latest manifest commit: `d45b0971ddf094c5b3e55b60c9edbe4ba006eb24`.
 - Resume next: **next unstarted SLOT_OLANG file_id**, selecting a small file after checking existing mappings.
