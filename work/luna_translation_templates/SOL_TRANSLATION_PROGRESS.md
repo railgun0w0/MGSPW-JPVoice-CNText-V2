@@ -23,20 +23,20 @@ Historical checkpoint archive:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10881 / 21041 rows** |
-| file_ids with complete persisted translation | **186 / 241** |
+| Translation work safely persisted | **10943 / 21041 rows** |
+| file_ids with complete persisted translation | **187 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **89 / 144 complete** |
+| SLOT_OLANG | **90 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1169 rows / 89 complete file_ids**.
+- SLOT_OLANG: **1231 rows / 90 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -56,6 +56,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D396407` 47; Japanese-version staff/cast credits are preserved byte-for-byte from JPN: fixed English role/name identities stay unchanged, embedded name-list newlines and the producer blank line survive, JPN `REAL-TIME DEMO ARTIST` overrides auxiliary wording, and all auxiliary English-dub cast substitutions are rejected in favor of the Japanese cast. Mapping `1bc85f9ca38e07140a04ebacd75e9da9eb74f514`.
 - `5D22B9C8` 31; WLAN/network and mission-restriction messages follow JPN: exact three-space placeholder, WLAN/WIRELESS OFF/ON identities, JPN `HOST` capitalization, `???`, embedded/double newlines, `$1`–`$4` order, `通信ON/OFF`, and mission equipment restrictions are preserved; auxiliary-added access-point text and ONLINE/OFFLINE substitutions are rejected. Mapping `0b96dd3d58681b0d93f279ea476a428e4db47105`.
 - `5D2088CC` 47; Cunningham interrogation dialogue is restored strictly from current JPN: FOX/BIGBOSS/MISSION ruby conventions match prior mappings, shifted auxiliary wake/drug lines are corrected, Japanese line breaks and structural spaces survive, fixed identities remain authoritative, and the interrogation-policy quote keeps its exact internal spacing. Mapping `7373f726edb960785496d84739d953a65578a004`.
+- `5D24C900` 62; Staff Trade network/UI table follows JPN: fixed `USER NAME`, `SEARCH HOST`, `CREATE HOST`, `TRADE`, `TRADE LOBBY`, `HOST`, `OK`, `TRADE EXECUTION`, `PARTNER'S LIST`, and `YOUR LIST` identities remain authoritative; ASCII/ideographic-space placeholders, `<I=CAN>/<I=DEC>` controls, line breaks, CO-OPS/Mother Base restrictions, and trade confirmation flow are preserved; auxiliary `(不要)`, `LOBBY`, reordered labels, and added `OK` wording are rejected where absent from JPN. Mapping `7eb5e8a825290db38d6bed76bcafd48ac9f6f9a0`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -70,11 +71,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **89 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **90 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10881 rows / 186 complete file_ids**.
-- SLOT_OLANG: **89 / 144 complete; 1169 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D2088CC.json`.
-- Latest mapping commit: `7373f726edb960785496d84739d953a65578a004`.
+- Safe translation total: **10943 rows / 187 complete file_ids**.
+- SLOT_OLANG: **90 / 144 complete; 1231 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D24C900.json`.
+- Latest mapping commit: `7eb5e8a825290db38d6bed76bcafd48ac9f6f9a0`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
