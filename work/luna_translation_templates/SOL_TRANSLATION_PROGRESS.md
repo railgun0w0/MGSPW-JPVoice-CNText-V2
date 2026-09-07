@@ -20,20 +20,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9713 / 21041 rows** |
-| file_ids with complete persisted translation | **98 / 241** |
+| Translation work safely persisted | **9718 / 21041 rows** |
+| file_ids with complete persisted translation | **99 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **1 / 144 complete** |
+| SLOT_OLANG | **2 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1 row / 1 complete file_id**.
+- SLOT_OLANG: **6 rows / 2 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -48,7 +48,8 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MISSION_INFO.OLANG` — **482 logical rows, ten shards + manifest, complete**. Manifest commit `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
 
 ## Recent completed SLOT
-- `5D02EB62` — **1 row, complete**. JPN `PRISONER` is a plain semantic UI label rather than a verified fixed code, localized as `俘虏`. Mapping commit `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
+- `5D02EB62` — 1 row, complete. JPN `PRISONER` is a plain semantic UI label rather than a verified fixed code, localized as `俘虏`. Mapping commit `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
+- `5D0A5DB1` — **5 rows, complete**. Source `(不要)` markers/fullwidth test numbers are preserved; long scrolling-message test stays intentionally long; JPN final row remains a declarative “skip training and continue” rather than the auxiliary question form. Mapping commit `f5fd37dde91d66c49b9c797d950907e5b7c2e8a8`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -68,12 +69,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 None. **STAGEDAT_OLANG is complete (46 / 46).**
 
 ## Next resource class
-`SLOT_OLANG` — **1 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
+`SLOT_OLANG` — **2 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
 
 ## Last safe checkpoint
-- Safe translation total: **9713 rows / 98 complete file_ids**.
+- Safe translation total: **9718 rows / 99 complete file_ids**.
 - STAGEDAT_OLANG: **46 / 46 complete**.
-- SLOT_OLANG: **1 / 144 complete**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D02EB62.json`.
-- Latest mapping commit: `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839`.
+- SLOT_OLANG: **2 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D0A5DB1.json`.
+- Latest mapping commit: `f5fd37dde91d66c49b9c797d950907e5b7c2e8a8`.
 - Resume next: **next unstarted SLOT_OLANG file_id**, selecting a small file after checking existing mappings.
