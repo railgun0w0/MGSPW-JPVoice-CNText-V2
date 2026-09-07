@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10458 / 21041 rows** |
-| file_ids with complete persisted translation | **156 / 241** |
+| Translation work safely persisted | **10468 / 21041 rows** |
+| file_ids with complete persisted translation | **159 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **59 / 144 complete** |
+| SLOT_OLANG | **62 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **746 rows / 59 complete file_ids**.
+- SLOT_OLANG: **756 rows / 62 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -74,7 +74,10 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D1708FB` 5; concurrent mapping verified against JPN: `(不要)` and emergency scroll-test structure are preserved, `$1` remains at the start of the mission-departure row, and JPN communication/connection messages override auxiliary fixed English labels. Mapping `34b560f42aedb93bdfd3741ad747152c6ba6f9fe`.
 - `5D0A7130` 7; concurrent mapping verified against JPN: the five-line information-restriction notice preserves `MAIN OPS` and line structure; the send-message confirmation remains a question; delete/resume/fast-forward/reaction/stop labels follow current JPN. Mapping `06440ffd10c1da83a0e921683145472aaa470c21`.
 - `5D06A8D5` 69; Mother Base log/system notifications follow current JPN across establishment, development, personnel, dispatch and alert categories; `(不要)`, `#`, `【！】`, `#????`, `$1/$2`, the unique 7 trailing newline, unique 10 trailing ASCII space, METAL GEAR ZEKE / OUTER OPS identities, `<I=DEC>/<I=CAN>`, and fullwidth `５０` remain structurally intact. Mapping `7aca7524fc56e9141815f8813c05347f86b40ee3`.
-- `5D147608` — **107 rows complete**. Loading-area table preserves every fixed `NEXT AREA [ ... ]` identity, source ` / ` spacing on localized location rows, source `RlO DEL JADE` spelling, `st_region0041`–`st_region0049` internal IDs and their numeric NEXT AREA pairs. Current JPN `独房` and `通用口` override auxiliary `TORTURE CHAMBER` / `BACK GATE` semantics on the localized rows. Mapping commit `ce2e395493607d4eca59d7f4a73eaad191332cb4`.
+- `5D147608` 107; loading-area table preserves every fixed `NEXT AREA [ ... ]` identity, source ` / ` spacing on localized location rows, source `RlO DEL JADE` spelling, `st_region0041`–`st_region0049` internal IDs and their numeric NEXT AREA pairs. Current JPN `独房` and `通用口` override auxiliary `TORTURE CHAMBER` / `BACK GATE` semantics on the localized rows. Mapping `ce2e395493607d4eca59d7f4a73eaad191332cb4`.
+- `5D22E834` 1; concurrent mapping verified against JPN `静かに！`; localized `安静！` preserves the direct exclamation and rejects auxiliary-added parentheses. Mapping `ef61ad3d4623e6edace05ace7c59415ee0f16449`.
+- `5D3AF62D` 4; concurrent mapping restores heavily shifted auxiliary rows to current JPN, preserving Amanda identity and `<R=あいつ,チコリブリ>` ruby structure/order; falling and shoot commands follow JPN. Mapping `0b611765aaeae0a27d43d980a7828045ef7ace80`.
+- `5D3AF58D` — **5 rows complete**. Concurrent mapping verified against JPN: exact single ideographic-space row, leading ellipsis plus trailing ASCII space on Irazu fragment, internal ideographic space between cargo clauses, and direct `動くな！` command are preserved without auxiliary punctuation additions. Mapping commit `52de256d49202fc2cf53c29a012d5883ac55ee44`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -89,11 +92,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **59 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **62 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10458 rows / 156 complete file_ids**.
-- SLOT_OLANG: **59 / 144 complete; 746 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D147608.json`.
-- Latest mapping commit: `ce2e395493607d4eca59d7f4a73eaad191332cb4`.
+- Safe translation total: **10468 rows / 159 complete file_ids**.
+- SLOT_OLANG: **62 / 144 complete; 756 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3AF58D.json`.
+- Latest mapping commit: `52de256d49202fc2cf53c29a012d5883ac55ee44`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
