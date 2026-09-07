@@ -11,6 +11,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - Use pending-review semantics; never mark Sol output `APPROVED`.
 - Large files may use contiguous shards + manifest.
 - For multiline CSVs, use logical `unique_index`, never physical line number.
+- Bind current-row identity strictly by `unique_index` + `jpn_text`; `previous_jpn_text` / `next_jpn_text` are context only and must not be used to infer the current row.
 - If a mapping/shard already exists, fetch and verify it rather than overwriting concurrent progress.
 
 ## Current totals
@@ -19,19 +20,19 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9230 / 21041 rows** |
-| file_ids with complete persisted translation | **96 / 241** |
+| Translation work safely persisted | **9712 / 21041 rows** |
+| file_ids with complete persisted translation | **97 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
-| STAGEDAT_OLANG | **45 / 46 complete** |
+| STAGEDAT_OLANG | **46 / 46 complete** |
 | SLOT_OLANG | **0 / 144** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
-- STAGEDAT_OLANG: **5205 rows / 45 complete file_ids**.
+- STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -42,7 +43,8 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MYOUTER_STAFF_COMMENT.OLANG` — 356 rows, eight shards + manifest, complete.
 - `LANG_MYOUTER_TOP.OLANG` — 202 rows, four shards + manifest, complete. Latest manifest commit `22ce7419a230ad2d0016c6d9c5619cc8b0990e71`.
 - `LANG_MISSION_RESULT.OLANG` — 357 rows, four shards + manifest, complete. Manifest commit `5fdd621aaf20f3d01724cedfaaabdc3ac663ea40`.
-- `LANG_WEAPON_TEXT.OLANG` — **388 rows, eight shards + manifest, complete**. Manifest commit `bb9e266b6a894174c4584bdadd3aedfbd92e9080`.
+- `LANG_WEAPON_TEXT.OLANG` — 388 rows, eight shards + manifest, complete. Manifest commit `bb9e266b6a894174c4584bdadd3aedfbd92e9080`.
+- `LANG_MISSION_INFO.OLANG` — **482 logical rows, ten shards + manifest, complete**. Manifest commit `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -56,13 +58,18 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `LANG_MYOUTER_TOP`: all 202 rows complete. Printf placeholders remain text placeholders and are not misclassified as runtime controls; `$1/$2/$3` order follows JPN. Source `(不要)` rows remain. Fixed ASCII labels such as `OUTER OPS`, `MECHA`, `KEY CONFIG`, `DEVELOP`, `MOTHER-BASE` follow JPN identity. Auxiliary errors claiming a battle begins instead of ends, euphemizing explicit soldier death, adding an extra support marker, inserting Memory Stick icon controls, and substituting `SENDBOX` were rejected. Source `METAL GEAR ZEK` spelling at row 96 is preserved and flagged as a likely source typo. Source trailing ASCII whitespace at unique_index 159 is also preserved.
 - `LANG_MISSION_RESULT`: all 357 logical rows complete. Single-space placeholders, `$1/$2` order, `$1 %` spacing, multiline layouts, fullwidth indentation and `ENTRY　GATE` fullwidth spacing follow JPN. `BLAVO`, `ALFA`, `SQUARE`, `AUSCAM DESERT`, fixed ASCII result labels and hero-spirit punctuation/intensity were not normalized from auxiliary text. Nonlexical `キェーーー` and `はいだらー！` are identity-preserved and flagged.
 - `LANG_WEAPON_TEXT`: all 388 logical rows complete. JPN control icons and whitespace are preserved, including `<I=RIGH>`, `<I=ATK>`, `<I=HHA>`, trailing newlines and significant ASCII spaces. JPN weapon/model identities and short codes remain authoritative over auxiliary normalizations. `気力回復弾` remains distinct from LIFE recovery. Publication identities/codes follow JPN, and auxiliary substitutions such as `M37(ACM)`, `RAILGUN` for `RAIL GUN`, `PR` for `MR`, and generic/Solid/Liquid magazine labels were rejected. Human-slingshot wordplay remains review-flagged.
+- `LANG_MISSION_INFO`: all 482 logical rows complete. Mapping identity follows `unique_index + jpn_text`; previous/next columns are context only. Shared deduplicated titles/descriptions were preserved without inventing logical rows. Part4 equipment-retrieval and part6 Fulton-recovery boundaries were repaired and rechecked against JPN. The 298/299/300 boundary is `EXTRA 034` title / its Claymore description / `EXTRA 061` title. Auxiliary-added `<I=CPY>` around literal `©CAPCOM CO., LTD.` was rejected. Shared DEMO interrogation text remains one logical row at 439; `尋問` is localized as `审讯`, `独房` as `牢房`.
 
 ## Remaining STAGEDAT
-`LANG_MISSION_INFO.OLANG`.
+None. **STAGEDAT_OLANG is complete (46 / 46).**
+
+## Next resource class
+`SLOT_OLANG` — **0 / 144 complete**. Select the next unstarted SLOT file_id by reading existing mappings first; prefer a small file for the first SLOT checkpoint unless a newer concurrent checkpoint is present.
 
 ## Last safe checkpoint
-- Safe translation total: **9230 rows / 96 complete file_ids**.
-- STAGEDAT_OLANG: **45 / 46 complete**.
-- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_WEAPON_TEXT.OLANG.manifest.json`.
-- Latest manifest commit: `bb9e266b6a894174c4584bdadd3aedfbd92e9080`.
-- Resume next: **STAGEDAT_OLANG/LANG_MISSION_INFO.OLANG**, unless a newer concurrent checkpoint is present.
+- Safe translation total: **9712 rows / 97 complete file_ids**.
+- STAGEDAT_OLANG: **46 / 46 complete**.
+- SLOT_OLANG: **0 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/STAGEDAT_OLANG/LANG_MISSION_INFO.OLANG.manifest.json`.
+- Latest manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
+- Resume next: **SLOT_OLANG**, selecting an unstarted file_id after checking for newer concurrent mappings.
