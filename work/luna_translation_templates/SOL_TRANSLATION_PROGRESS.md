@@ -20,20 +20,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9810 / 21041 rows** |
-| file_ids with complete persisted translation | **109 / 241** |
+| Translation work safely persisted | **9812 / 21041 rows** |
+| file_ids with complete persisted translation | **110 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **12 / 144 complete** |
+| SLOT_OLANG | **13 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **98 rows / 12 complete file_ids**.
+- SLOT_OLANG: **100 rows / 13 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -60,6 +60,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `5D3B01ED` — **2 rows, complete**. JPN `くそっ ` keeps its trailing ASCII space and rejects auxiliary ellipsis substitution; `頑張れ…！` is localized as `坚持住…！` with punctuation preserved. Mapping commit `bcc28be12452fea34830ea70f6c4ec790c28d5ea`.
 - `5D7E43B7` — **2 rows, complete**. Fixed device identities `REPTILE POD` and `AIPOD` are preserved exactly from JPN; auxiliary normalization `AI POD` is rejected. Mapping commit `e460ad2217b0037e818647e40d31e0d87ef8b98a`.
 - `5D62E635` — **2 rows, complete**. JPN training dialogue is localized as `训练结束了` / `那么 开始射击训练`; the internal ASCII space in the second row and JPN's lack of terminal punctuation are preserved, while auxiliary punctuation and “target practice” narrowing are rejected. Mapping commit `a6220f5dac6efae6f32639ca3dda1d6c2cfd7c54`.
+- `5D3B092D` — **2 rows, complete**. Monster Hunter crossover cat dialogue preserves the two JPN internal ASCII spaces; `トレニャー` uses auxiliary `特雷亚` only as transliteration reference, and final `ニャ` is rendered as `喵` without importing auxiliary punctuation. Mapping commit `6a34eb114831e7ae1eb3bfa595263a13325a1abe`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -79,12 +80,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 None. **STAGEDAT_OLANG is complete (46 / 46).**
 
 ## Next resource class
-`SLOT_OLANG` — **12 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
+`SLOT_OLANG` — **13 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
 
 ## Last safe checkpoint
-- Safe translation total: **9810 rows / 109 complete file_ids**.
+- Safe translation total: **9812 rows / 110 complete file_ids**.
 - STAGEDAT_OLANG: **46 / 46 complete**.
-- SLOT_OLANG: **12 / 144 complete**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D62E635.json`.
-- Latest mapping commit: `a6220f5dac6efae6f32639ca3dda1d6c2cfd7c54`.
+- SLOT_OLANG: **13 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B092D.json`.
+- Latest mapping commit: `6a34eb114831e7ae1eb3bfa595263a13325a1abe`.
 - Resume next: **next unstarted SLOT_OLANG file_id**, selecting a small file after checking existing mappings.
