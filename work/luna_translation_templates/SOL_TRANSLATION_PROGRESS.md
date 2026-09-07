@@ -25,20 +25,20 @@ Historical checkpoints:
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **11671 / 21041 rows** |
-| file_ids with complete persisted translation | **207 / 241** |
+| Translation work safely persisted | **11778 / 21041 rows** |
+| file_ids with complete persisted translation | **208 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **110 / 144 complete** |
+| SLOT_OLANG | **111 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **1959 rows / 110 complete file_ids**.
+- SLOT_OLANG: **2066 rows / 111 complete file_ids**.
 
 ## Completed class checkpoints
 - YPK_GTT complete: **36/36**.
@@ -47,14 +47,12 @@ Historical checkpoints:
 - STAGEDAT_OLANG complete: **46/46**. `LANG_MISSION_INFO` manifest commit `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
 
 ## Recent SLOT checkpoints
-- `5D3AF9ED` — 32 rows; jungle/Mayan-ruins/AI-lab dialogue follows current JPN after auxiliary shift; ecology counts, fixed names, ruby count/order, newlines and trailing spaces preserved. Mapping `e51c8f84f7d0326ae63d7dff5ea69dade8ad13e7`.
-- `5D68BF67` — 46 rows; mission-prep/equipment UI preserves fixed JPN ASCII identities, exact three-space placeholder, `<I=CAN>/<I=□>` order, literal Memory Stick™ and JPN surface categories. Mapping `3c09b454e4e0f2bac1eba44714a96dfb4bc03dfe`.
-- `5DEFED13` — 23 rows; high-reuse key/control-help dictionary follows JPN. Fixed `START BUTTON`, `SELECT BUTTON`, `KEY LIST` remain exact; auxiliary selection/confirm/cancel shifts, `KEY LIST`→Help substitution and added ZAPPIN press/hold behavior rejected. Mapping `1928f71be0943f7e83dcddf731f90126ecca47df`.
 - `5D52801A` — 47 rows; ZEKE simulation/damage/battle-voice table follows current JPN short status and punctuation. `ZEKE`, fullwidth `Ｓ`, internal spaces, ellipses, questions and `！？` preserved; auxiliary expansions rejected. Mapping `5efdb81c96ed7e6d401a4e3db10eb39b89411f48`.
 - `5DCBA83B` — 30 rows; VOCALOID/server conversion and network-error UI follows JPN request/conversion distinctions. `$1/$2/$3`, PlayStation®Network/PSP® literal signs, 3-attempt/1-day threshold and certificate wording preserved; auxiliary controls rejected. Mapping `2b5ed9a888bc12f6b7f9feb6f359acc3cee42f37`.
 - `5D3B05B2` — 44 rows; Peace Walker sinking/Ghost in the Machine/The Boss ending dialogue rebuilt strictly from JPN after severe auxiliary shift. Ruby identities distinguish `意志/WILL`, `最期→结局/WILL`, and `她/The Boss`; 哺乳舱/爬虫舱 and functional compensation preserved. Mapping `fc6805c67c979ab09e95d6724f1e7afe8b2ea6b3`.
 - `5DD9AF4C` — 33 rows; MODEL VIEWER / KEY HELP table preserves fixed ASCII identities, source-only controls, ASCII and ideographic-space placeholders, distinct Text/Article OFF wording, M1911A1/Kerotan `(不要)` descriptions with paragraph structure, GMP warning layout, and fixed YES/SKIP/OK/NO/CANCEL identities. Mapping `e654b678d5848eb32ae8892ac52fcf037e7ce1a4`.
 - `5D3AF9AD` — 45 rows; nuclear-deterrence/Coldman-Huey dialogue follows JPN three-principle ordering and later auxiliary shift. Japanese quote types, newlines, ASCII/fullwidth spaces, `！？`, two ideographic-space placeholders, double trailing space on `創造物？`, Peace Walker terminology, and `脚/Peace Walker` plus `V/PEACE` ruby wordplay are preserved. Mapping `94d6cfcea50e495265d82493a7f896c0fc2cdd4c`.
+- `5D09325F` — 107 rows in 3 contiguous shards; mission-result/title dictionary follows current JPN semantic titles while preserving fixed model/code identities. Aggregated auxiliary EXTRA OPS labels/numbers are rejected; leading/trailing whitespace, II/CUSTOM/model suffixes and hunting double-angle pseudo-controls are preserved. Manifest `1fac83a8da201434fc2a8f0f3eaad9fb0da006ce`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -62,15 +60,16 @@ Historical checkpoints:
 - Fixed JPN model/code/crossover/location/UI identities are not normalized from auxiliary naming.
 - Whitespace can be structural: single-space rows, multi-space placeholders, trailing ASCII spaces/newlines, fullwidth spaces, control-internal spaces and exact placeholder order must survive.
 - Japanese-version cast/staff credits are authoritative over English-dub substitutions.
+- Double-angle mission titles such as `<<HUNTING QUEST: ...>>` can be mechanically misdetected as control-like tokens; preserve current-JPN literal structure and flag the pseudo-control instead of treating it like `<I>/<R>/<C>` markup.
 - Known historical review flags remain recorded in mappings / previous tracker history, including `LANG_SYSTEM` 576KB and unresolved `サイバーバル`, shifted auxiliary mission-title rows, and preserved source-specific spellings/placeholders.
 
 ## Next resource class
-`SLOT_OLANG` — **110 / 144 complete**. Continue the smallest unstarted SLOT after checking the latest Git tree for concurrent mappings.
+`SLOT_OLANG` — **111 / 144 complete**. Continue an unstarted SLOT only after checking the latest branch for concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **11671 / 21041 rows**.
-- Complete file_ids: **207 / 241**.
-- SLOT_OLANG: **110 / 144 complete; 1959 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3AF9AD.json`.
-- Latest mapping commit: `94d6cfcea50e495265d82493a7f896c0fc2cdd4c`.
-- Resume next: **next smallest unstarted SLOT_OLANG file_id from latest Git tree**.
+- Safe translation total: **11778 / 21041 rows**.
+- Complete file_ids: **208 / 241**.
+- SLOT_OLANG: **111 / 144 complete; 2066 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D09325F.manifest.json`.
+- Latest mapping commit: `1fac83a8da201434fc2a8f0f3eaad9fb0da006ce`.
+- Resume next: **next unstarted SLOT_OLANG file_id after latest-branch race-check**.
