@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10516 / 21041 rows** |
-| file_ids with complete persisted translation | **173 / 241** |
+| Translation work safely persisted | **10538 / 21041 rows** |
+| file_ids with complete persisted translation | **174 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **76 / 144 complete** |
+| SLOT_OLANG | **77 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **804 rows / 76 complete file_ids**.
+- SLOT_OLANG: **826 rows / 77 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -83,7 +83,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D3AFE0D` 2; concurrent mapping preserves no terminal punctuation on `連れて行け` and the single ellipsis on `フン…`; empty auxiliary text is not treated as authority. Mapping `3f66bb800a24f2899ac15d145d7d536591cdacb7`.
 - `5D3B01ED` 2; concurrent mapping preserves the trailing ASCII space on JPN `くそっ ` and exact ellipsis/exclamation pattern on `頑張れ…！`. Mapping `bcc28be12452fea34830ea70f6c4ec790c28d5ea`.
 - `5D7E43B7` 2; concurrent mapping preserves fixed device identities `REPTILE POD` and JPN `AIPOD`, rejecting auxiliary normalization to `AI POD`. Mapping `e460ad2217b0037e818647e40d31e0d87ef8b98a`.
-- `5D62E635` — **2 rows complete**. Concurrent mapping preserves current JPN training-end line without terminal punctuation and the internal ASCII space in `それでは 射撃訓練を開始する`; auxiliary added punctuation/narrowing is rejected. Mapping commit `a6220f5dac6efae6f32639ca3dda1d6c2cfd7c54`.
+- `5D62E635` 2; concurrent mapping preserves current JPN training-end line without terminal punctuation and the internal ASCII space in `それでは 射撃訓練を開始する`; auxiliary added punctuation/narrowing is rejected. Mapping `a6220f5dac6efae6f32639ca3dda1d6c2cfd7c54`.
 - `5DA57DF4` 4; concurrent mapping was QA-corrected so JPN `独房` remains `独房` rather than generic `牢房`; device noun `電磁くすぐり棒`, no-terminal-punctuation rows and `捕虜` semantics remain JPN-primary. QA mapping `3cbfb311ba0cd8527296c2611e6092e665a0735c`.
 - `5D5D0A44` 1; one deduplicated cutscene-skip notice covers 49 real references; the JPN single newline is preserved and the auxiliary English trailing space before newline is not imported. Mapping `ccc0f933c912f29a0da65bc1b11296ec063564e4`.
 - `5DBA016B` 5; fixed crossover identities `RHAMPHOS`, `GEAR REX`, `LIOLAEUS`, `TIGREX`, `AIROU` follow JPN exactly; auxiliary VELOCIPREY/RATHALOS/FELYNE substitutions are rejected. Mapping `d4caa7c3d0079b31f3c658de2435d3866b8d6ddc`.
@@ -92,6 +92,7 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5DE2E8B4` 6; heavily shifted auxiliary lines are rejected in favor of current JPN escapee/prisoner-scene commands; both internal ASCII spaces and source punctuation policy remain intact. Verified mapping blob `2a0d35f62d7b97532f15dbb758c69e0598d51d8c`.
 - `5DC637BF` 9; fixed floor codes preserve JPN `B4F/B3F/B2F/B1F/1F…5F`; auxiliary dropping `F` from basement levels is rejected. Verified mapping blob `19ffd36506bedb62a3dd65dc280bd63afe4873be`.
 - `5D3B092D` 2; Monster Hunter crossover dialogue preserves both internal ASCII spaces in `よし 行くぞ トレニャー！`, the established Trenya rendering, cat-speech `ニャ` as `喵`, and JPN terminal-punctuation structure. Mapping `6a34eb114831e7ae1eb3bfa595263a13325a1abe`.
+- `5D48F045` 22; AI-weapon battle/system voice table follows JPN across paired punctuation variants: internal ASCII space in self-repair/restart lines is preserved, `戦闘再開` remains combat-resume rather than auxiliary retargeting, `痺れろ！` is restored as paralysis rather than auxiliary `Die!`, and no auxiliary-added insect simile/punctuation is imported. Mapping `b0d12987cda6bab255151ba25fd98e8217dee340`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -106,11 +107,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **76 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **77 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10516 rows / 173 complete file_ids**.
-- SLOT_OLANG: **76 / 144 complete; 804 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B092D.json`.
-- Latest mapping commit: `6a34eb114831e7ae1eb3bfa595263a13325a1abe`.
+- Safe translation total: **10538 rows / 174 complete file_ids**.
+- SLOT_OLANG: **77 / 144 complete; 826 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D48F045.json`.
+- Latest mapping commit: `b0d12987cda6bab255151ba25fd98e8217dee340`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
