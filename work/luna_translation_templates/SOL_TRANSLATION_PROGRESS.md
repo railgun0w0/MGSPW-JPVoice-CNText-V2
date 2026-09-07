@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **10214 / 21041 rows** |
-| file_ids with complete persisted translation | **147 / 241** |
+| Translation work safely persisted | **10225 / 21041 rows** |
+| file_ids with complete persisted translation | **148 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **50 / 144 complete** |
+| SLOT_OLANG | **51 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **502 rows / 50 complete file_ids**.
+- SLOT_OLANG: **513 rows / 51 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -65,7 +65,8 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `5D3B3A9A` 17; control-tutorial separators and CQC hierarchy preserved. Mapping `d0e3e9f7ce4416883749fc68d39d2ec19381bac6`.
 - `5D1B7B4B` 18; vocalizations and omitted production/variant notes restored. Mapping `dd15c154b2650d2ebd6a7d27c454b54ec0b0d826`.
 - `5D3AFD4D` 15; soldier-spirit/loyalty/mission dialogue fragments and ruby/space structure preserved. Mapping `7eb920e7910813370c13fe019a6c081a7fa2c97f`.
-- `5D2B7C21` — **5 rows complete**. Highly reused result/time labels remain exactly JPN: `YOU WON`, `YOU LOSE`, `CONTROL`, `TIME PENALTY -$1sec`, `TIME EXTEND +$1sec`; auxiliary normalization to `YOU WIN` / `TIME EXTENSION` is rejected and `$1` placement survives. Mapping commit `a825a9fbc8187d5f63dcb5089a5ac52098bb8362`.
+- `5D2B7C21` 5; highly reused result/time labels preserve `YOU WON`, `YOU LOSE`, `CONTROL`, `TIME PENALTY -$1sec`, `TIME EXTEND +$1sec`; auxiliary normalization rejected. Mapping `a825a9fbc8187d5f63dcb5089a5ac52098bb8362`.
+- `5DA7D879` — **11 rows complete**. Costa Rica mine-base map identities are preserved exactly from JPN; `AI WEAPON HANGAR` remains authoritative over conflicting auxiliary `PEACE WALKER HANGAR`, and punctuation in `MINE BASE, COSTA RICA` / `MINERS' RESIDENCE` is retained. Mapping commit `6d48ddf91b9cd859856bd9ee035baab43e116a1d`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -80,11 +81,11 @@ STAGEDAT_OLANG is complete (46 / 46). `LANG_MISSION_INFO` manifest commit: `9738
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **50 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **51 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **10214 rows / 147 complete file_ids**.
-- SLOT_OLANG: **50 / 144 complete; 502 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D2B7C21.json`.
-- Latest mapping commit: `a825a9fbc8187d5f63dcb5089a5ac52098bb8362`.
+- Safe translation total: **10225 rows / 148 complete file_ids**.
+- SLOT_OLANG: **51 / 144 complete; 513 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DA7D879.json`.
+- Latest mapping commit: `6d48ddf91b9cd859856bd9ee035baab43e116a1d`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
