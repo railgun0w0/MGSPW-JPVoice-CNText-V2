@@ -19,20 +19,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9951 / 21041 rows** |
-| file_ids with complete persisted translation | **129 / 241** |
+| Translation work safely persisted | **9962 / 21041 rows** |
+| file_ids with complete persisted translation | **130 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **32 / 144 complete** |
+| SLOT_OLANG | **33 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **239 rows / 32 complete file_ids**.
+- SLOT_OLANG: **250 rows / 33 complete file_ids**.
 
 ## STAGEDAT checkpoint
 STAGEDAT_OLANG is complete (46 / 46). Recent large completions include `LANG_MISSION_RESULT.OLANG` (357), `LANG_WEAPON_TEXT.OLANG` (388), and `LANG_MISSION_INFO.OLANG` (482). `LANG_MISSION_INFO` manifest commit: `9738fa4604e7ba659bc9a6fa95b54c95c819590e`.
@@ -60,7 +60,8 @@ STAGEDAT_OLANG is complete (46 / 46). Recent large completions include `LANG_MIS
 - `5D3AF992` 10; shifted auxiliary rejected; Zadornov search/truck/facility and fixed dramatic lines restored. Mapping `30846c387ea2606356c90fd534fd6bd8f00767e9`.
 - `5DA7D875` 8; fixed map/location identities preserved exactly. Mapping `a6b266c24774a61730c2e0b187ff4a84d46fb470`.
 - `5D1A33A9` 14; Peace Walker/mecha scanner identities preserved exactly. Mapping `1e9c8b72dc23e48c08baada430ec3d69781f33a1`.
-- `5D3B01CD` — **10 rows complete**. Literal `△` button stays literal with no auxiliary-added icon control; Peace Walker chase dialogue follows current JPN; Nicaragua/BIGBOSS ruby controls and all structural spaces are preserved; `帰れ！` remains generic `回去！`. Mapping commit `19edae2cd8fe2c4f4b5d2b37b48880df2dc837c3`.
+- `5D3B01CD` 10; literal triangle button, Peace Walker chase dialogue and Nicaragua/BIGBOSS rubies follow JPN. Mapping `19edae2cd8fe2c4f4b5d2b37b48880df2dc837c3`.
+- `5DCE245A` — **11 rows complete**. Boss/mecha combat lines preserve JPN intensity and system brevity: `破損/損傷/異常` are not overstated as destroyed/critical/detected; internal spaces and fullwidth `Ｓ` in `Ｓマイン` survive. Mapping commit `cdfc6947844c33af54eedaf3d422da25b95cbeb9`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -75,11 +76,11 @@ STAGEDAT_OLANG is complete (46 / 46). Recent large completions include `LANG_MIS
 - `LANG_MISSION_RESULT`, `LANG_WEAPON_TEXT`, `LANG_MISSION_INFO`: JPN controls/identities/placeholder spacing and repaired boundaries remain authoritative.
 
 ## Next resource class
-`SLOT_OLANG` — **32 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
+`SLOT_OLANG` — **33 / 144 complete**. Continue the next unstarted small SLOT after checking for newer concurrent mappings.
 
 ## Last safe checkpoint
-- Safe translation total: **9951 rows / 129 complete file_ids**.
-- SLOT_OLANG: **32 / 144 complete; 239 rows**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D3B01CD.json`.
-- Latest mapping commit: `19edae2cd8fe2c4f4b5d2b37b48880df2dc837c3`.
+- Safe translation total: **9962 rows / 130 complete file_ids**.
+- SLOT_OLANG: **33 / 144 complete; 250 rows**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DCE245A.json`.
+- Latest mapping commit: `cdfc6947844c33af54eedaf3d422da25b95cbeb9`.
 - Resume next: **next unstarted small SLOT_OLANG file_id**.
