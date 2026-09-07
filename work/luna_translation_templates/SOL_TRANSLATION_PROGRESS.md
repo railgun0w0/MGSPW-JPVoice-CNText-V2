@@ -20,20 +20,20 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 |---|---:|
 | Total template file_ids | 241 |
 | Total template rows | 21041 |
-| Translation work safely persisted | **9801 / 21041 rows** |
-| file_ids with complete persisted translation | **104 / 241** |
+| Translation work safely persisted | **9802 / 21041 rows** |
+| file_ids with complete persisted translation | **105 / 241** |
 | YPK_GTT | **36 / 36 complete** |
 | OHD | **1 / 1 complete** |
 | LOOSE_OLANG | **14 / 14 complete** |
 | STAGEDAT_OLANG | **46 / 46 complete** |
-| SLOT_OLANG | **7 / 144 complete** |
+| SLOT_OLANG | **8 / 144 complete** |
 
 ## Resource-class accounting
 - YPK_GTT: **2080 rows / 36 complete file_ids**.
 - OHD: **226 rows / 1 complete file_id**.
 - LOOSE_OLANG: **1719 rows / 14 complete file_ids**.
 - STAGEDAT_OLANG: **5687 rows / 46 complete file_ids**.
-- SLOT_OLANG: **89 rows / 7 complete file_ids**.
+- SLOT_OLANG: **90 rows / 8 complete file_ids**.
 
 ## Recent completed STAGEDAT
 - `LANG_ITEM_TEXT.OLANG` — 803 rows, 17 shards + manifest.
@@ -55,6 +55,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 - `5D06A8D5` — 69 rows, two shards + manifest, complete. Mother Base system-log messages preserve `(不要)`, `#`, `【！】`, `*log_type_34`, `$1/$2`, icon controls, unique_index 7 trailing newline and unique_index 10 trailing ASCII space. Fixed feature identities such as RECRUIT/TRADE/DELIVERY/OUTER OPS/METAL GEAR ZEKE remain authoritative. Manifest commit `d45b0971ddf094c5b3e55b60c9edbe4ba006eb24`.
 - `5D3AF952` — **1 row, complete**. JPN `見つかった！` is localized as `被发现了！` from stealth-context semantics; auxiliary `Curses!` substitution was rejected and the interpretation remains review-flagged. Mapping commit `aee19a3c2d55a8974fbe09b68c6a6945dfe7b61e`.
 - `5D22E834` — **1 row, complete**. JPN direct command `静かに！` is localized as `安静！`; auxiliary-added parentheses are rejected because they are absent from JPN. Mapping commit `ef61ad3d4623e6edace05ace7c59415ee0f16449`.
+- `5DBF136F` — **1 row, complete**. JPN `STARTボタン：全訓練終了` is localized as `START按钮：结束全部训练`; auxiliary narrowing to “tutorial” was rejected and fixed `START` identity is preserved. Latest mapping commit `72745e87cb16f239b5e6c0be99f186937329e8f9`.
 
 ## Important review / risk notes
 - Auxiliary controls absent from JPN are always rejected.
@@ -74,12 +75,12 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 None. **STAGEDAT_OLANG is complete (46 / 46).**
 
 ## Next resource class
-`SLOT_OLANG` — **7 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
+`SLOT_OLANG` — **8 / 144 complete**. Continue with the next unstarted SLOT file_id after checking for newer concurrent mappings; prefer smaller files first for durable checkpoints.
 
 ## Last safe checkpoint
-- Safe translation total: **9801 rows / 104 complete file_ids**.
+- Safe translation total: **9802 rows / 105 complete file_ids**.
 - STAGEDAT_OLANG: **46 / 46 complete**.
-- SLOT_OLANG: **7 / 144 complete**.
-- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5D22E834.json`.
-- Latest mapping commit: `ef61ad3d4623e6edace05ace7c59415ee0f16449`.
+- SLOT_OLANG: **8 / 144 complete**.
+- Latest completed artifact: `sol_translation_mappings/SLOT_OLANG/5DBF136F.json`.
+- Latest mapping commit: `72745e87cb16f239b5e6c0be99f186937329e8f9`.
 - Resume next: **next unstarted SLOT_OLANG file_id**, selecting a small file after checking existing mappings.
