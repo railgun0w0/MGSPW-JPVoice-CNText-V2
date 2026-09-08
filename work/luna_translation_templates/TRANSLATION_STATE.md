@@ -3,9 +3,9 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-08T18:58:09+08:00`
+Updated: `2026-09-08T23:44:27+08:00`
 Branch: `sol-translation`
-Latest validated checkpoint commit: `c9dfaab9fc11b44595addf11aa48e1c6da32821a`
+Latest validated checkpoint commit: `7ad72340123073397b7faef8f4a3f3df9691228c`
 Total rows / persisted rows: **21041 / 21041**
 Total file_ids / completed file_ids: **241 / 241**
 Current partial file_id: **(none)**
@@ -373,7 +373,7 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   },
   "completed_file_ids": 241,
   "completed_rows": 21041,
-  "latest_validated_checkpoint_commit": "c9dfaab9fc11b44595addf11aa48e1c6da32821a",
+  "latest_validated_checkpoint_commit": "7ad72340123073397b7faef8f4a3f3df9691228c",
   "legacy_tracker_snapshot": {
     "by_resource_class": {
       "LOOSE_OLANG": {
