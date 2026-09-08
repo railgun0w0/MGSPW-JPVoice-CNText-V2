@@ -112,14 +112,14 @@ The pre-fix rolling state remains preserved above and in Git commit `f03a7b2868b
 
 This complete ledger is regenerated from committed mappings. It is exhaustive, not a rolling recent-items list.
 
-- Complete file_ids: **185 / 241**
-- Complete rows: **11564 / 21041**
-- Mapping-backed persisted rows: **11564 / 21041**
-- Latest validated mapping checkpoint: `1fac83a8da201434fc2a8f0f3eaad9fb0da006ce`
-- NEXT_FILE_ID: **`5D06C8DE`**
-- Tracker reconciliation: legacy tracker persisted rows=11778, facts=11564 (legacy delta +214)
-- Tracker reconciliation: legacy tracker completed file_ids=208, facts=185 (legacy delta +23)
-- Tracker reconciliation: legacy tracker SLOT_OLANG completed=111, facts=88 (legacy delta +23)
+- Complete file_ids: **186 / 241**
+- Complete rows: **11766 / 21041**
+- Mapping-backed persisted rows: **11766 / 21041**
+- Latest validated mapping checkpoint: `fc0c657c55b58676126dddf3b03e098a49ee6211`
+- NEXT_FILE_ID: **`5D140CA7`**
+- Tracker reconciliation: legacy tracker persisted rows=11778, facts=11766 (legacy delta +12)
+- Tracker reconciliation: legacy tracker completed file_ids=208, facts=186 (legacy delta +22)
+- Tracker reconciliation: legacy tracker SLOT_OLANG completed=111, facts=89 (legacy delta +22)
 
 | Resource class | file_id | Rows | Mapping / manifest / translated CSV | Commit | Review / risk evidence |
 |---|---|---:|---|---|---|
@@ -222,6 +222,7 @@ This complete ledger is regenerated from committed mappings. It is exhaustive, n
 | STAGEDAT_OLANG | `LANG_WEAPON_TEXT.OLANG` | 388 | `work/luna_translation_templates/sol_translation_mappings/STAGEDAT_OLANG/LANG_WEAPON_TEXT.OLANG.manifest.json` | `bb9e266b6a894174c4584bdadd3aedfbd92e9080` | JPN is the sole semantic and structural authority; MLG_CN/ENG are auxiliary evidence only. Coverage is contiguous for logical unique_index 0-387; multiline CSV rows were handled by logical unique_index, never physical l… |
 | SLOT_OLANG | `5D02EB62` | 1 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D02EB62.json` | `0ae4820a1ea17a845e1b6d7d6cd2a2302ad98839` | 1/1 rows carry review_flag; auxiliary mismatch/shift flags. |
 | SLOT_OLANG | `5D06A8D5` | 69 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D06A8D5.manifest.json` | `d45b0971ddf094c5b3e55b60c9edbe4ba006eb24` | JPN is the sole semantic and structural authority; auxiliary CN/ENG are reference only. Coverage is contiguous for logical unique_index 0-68. |
+| SLOT_OLANG | `5D06C8DE` | 202 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D06C8DE.json` | `fc0c657c55b58676126dddf3b03e098a49ee6211` | JPN current text is the sole semantic and structural authority; auxiliary MLG_CN/ENG drift was rejected. Coverage 0-201 is contiguous; dollar controls, printf placeholders, JPN newlines, index 0 double space, and index… |
 | SLOT_OLANG | `5D09325F` | 107 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D09325F.manifest.json` | `1fac83a8da201434fc2a8f0f3eaad9fb0da006ce` | JPN current row is the sole semantic and structural authority; aggregated auxiliary EXTRA OPS labels/numbers were never imported when absent from current JPN. Project-established mission terminology from completed LANG_… |
 | SLOT_OLANG | `5D0A5DB1` | 5 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D0A5DB1.json` | `f5fd37dde91d66c49b9c797d950907e5b7c2e8a8` | 3/5 rows carry review_flag; auxiliary mismatch/shift flags. |
 | SLOT_OLANG | `5D0A7130` | 7 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D0A7130.json` | `20327cda6caf631468d5c7c85c74b31421960986` | 2/7 rows carry review_flag; auxiliary mismatch/shift flags. |
