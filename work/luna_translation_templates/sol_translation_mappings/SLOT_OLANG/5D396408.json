@@ -1,0 +1,22 @@
+{
+  "file_id":"5D396408","resource_class":"SLOT_OLANG","status":"TRANSLATED_PENDING_CSV_MERGE","row_count":71,
+  "coverage":{"first_unique_index":0,"last_unique_index":70,"contiguous":true},
+  "columns":["unique_index","cn_text","cn_control_tokens","cn_utf8_bytes","review_flag"],
+  "translations":[
+    [0,"通用换装双足步行战机·有人改造型","",null,""] ,[1,"Metal Gear ZEKE","",null,""] ,[2,"G型装甲突击车辆","",null,""] ,[3,"LAV-G型","",null,""] ,[4,"第二代主战坦克","",null,""] ,[5,"T-72U","",null,"KEEP_MODEL"],
+    [6,"AI搭载型水陆两用战机","",null,""] ,[7,"Pupa","",null,""] ,[8,"AI搭载型自动报复步行战机","",null,""] ,[9,"通用战斗直升机","",null,""] ,[10,"Mi-24A","",null,"KEEP_MODEL"],
+    [11,"和平行者","",null,""] ,[12,"AI搭载型垂直起降战机","",null,""] ,[13,"Chrysalis","",null,""] ,[14,"AI搭载型超级战机","",null,""] ,[15,"Cocoon","",null,""] ,[16,"装甲运兵车","",null,""] ,[17,"BTR-60 PA","",null,"KEEP_MODEL"],
+    [18,"装甲运兵车·改","",null,""] ,[19,"BTR-60 PA 改","",null,""] ,[20,"重装甲运兵车","",null,""] ,[21,"BTR-60 PB","",null,"KEEP_MODEL"],
+    [22,"重装甲运兵车·改","",null,""] ,[23,"BTR-60 PB 改","",null,""] ,[24,"G型装甲突击车辆·改","",null,""] ,[25,"LAV-G型 改","",null,""] ,[26,"C型重武装突击车辆","",null,""] ,[27,"LAV-C型","",null,""] ,[28,"C型重武装突击车辆·改","",null,""] ,[29,"LAV-C型 改","",null,""] ,
+    [30,"第二代主战坦克·改","",null,""] ,[31,"T-72U 改","",null,""] ,[32,"重装甲主战坦克","",null,""] ,[33,"T-72A","",null,"KEEP_MODEL"],
+    [34,"重装甲主战坦克·改","",null,""] ,[35,"T-72A 改","",null,""] ,[36,"第三代试制坦克","",null,""] ,[37,"KPz 70","",null,"KEEP_MODEL"],
+    [38,"第三代试制坦克·改","",null,""] ,[39,"KPz 70 改","",null,""] ,[40,"MBTk-70","",null,"KEEP_MODEL"],[41,"MBTk-70 改","",null,""] ,
+    [42,"通用战斗直升机·改","",null,""] ,[43,"Mi-24A 改","",null,""] ,[44,"区域压制用攻击直升机","",null,""] ,[45,"Mi-24D","",null,"KEEP_MODEL"],
+    [46,"区域压制用攻击直升机·改","",null,""] ,[47,"Mi-24D 改","",null,""] ,[48,"试制轰炸型高速直升机","",null,""] ,[49,"AH56A-轰炸型","",null,""] ,[50,"试制轰炸型高速直升机·改","",null,""] ,[51,"AH56A-轰炸型 改","",null,""] ,
+    [52,"试制攻击型高速直升机","",null,""] ,[53,"AH56A-突袭型","",null,""] ,[54,"试制攻击型高速直升机·改","",null,""] ,[55,"AH56A-突袭型 改","",null,""] ,
+    [56,"Pupa 二型","",null,""] ,[57,"Chrysalis 二型","",null,""] ,[58,"Cocoon 二型","",null,""] ,[59,"和平行者 二型","",null,""] ,[60,"Pupa 改","",null,""] ,[61,"Chrysalis 改","",null,""] ,[62,"Cocoon 改","",null,""] ,[63,"和平行者 改","",null,""] ,
+    [64,"AI搭载型通用换装双足步行战机·MSF规格","",null,""] ,[65,"天空王者　火龙","",null,""] ,[66,"雄火龙","",null,""] ,[67,"绝对强者　轰龙","",null,""] ,[68,"轰龙","",null,""] ,[69,"钢铁獠牙王　核龙","",null,""] ,[70,"Gear REX","",null,""]
+  ],
+  "notes":["JPN is authoritative; model names are retained and descriptive names translated consistently."],
+  "qa":{"coverage":true,"controls_reviewed":true,"jpn_authority":true}
+}

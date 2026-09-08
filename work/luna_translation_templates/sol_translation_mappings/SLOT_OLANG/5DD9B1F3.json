@@ -1,0 +1,21 @@
+{
+  "file_id": "5DD9B1F3",
+  "resource_class": "SLOT_OLANG",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "row_count": 93,
+  "coverage": {"first_unique_index": 0, "last_unique_index": 92, "contiguous": true},
+  "columns": ["unique_index", "cn_text", "cn_control_tokens", "cn_utf8_bytes", "review_flag"],
+  "translations": [
+    [0,"配送","",null,""],[1,"预设语句：%d","",null,"FORMAT_OK"],[2,"集章卡","",null,""],[3,"预设物品：%d","",null,"FORMAT_OK"],[4,"礼物","",null,""],[5,"地址簿：%d","",null,"FORMAT_OK"],[6,"（未选择物品）","",null,""],[7,"（未选择地址）","",null,""],[8,"发件箱","",null,""],[9,"收件箱","",null,""],
+    [10,"音乐","",null,""],[11,"确定","",null,""],[12,"内容","",null,""],[13,"日期","",null,""],[14,"新建礼物","",null,""],[15,"地址","",null,""],[16,"???","",null,"KEEP_UI"],[17,"好友的好友","",null,""],[18,"编辑：$1","$1",null,"CONTROL_OK"],[19,"年","",null,""],[20,"今天：$1","$1",null,"CONTROL_OK"],[21,"月","",null,""],[22,"你的好友","",null,""],
+    [23,"$1（周三）","$1",null,"CONTROL_OK"],[24,"$1（周二）","$1",null,"CONTROL_OK"],[25,"$1（周四）","$1",null,"CONTROL_OK"],[26,"$1（周日）","$1",null,"CONTROL_OK"],[27,"$1（周六）","$1",null,"CONTROL_OK"],[28,"$1（周一）","$1",null,"CONTROL_OK"],[29,"$1（周五）","$1",null,"CONTROL_OK"],[30,"- 随机 -","",null,""],
+    [31,"可将武器或装备品装进纸箱，赠送给其他玩家，也可以接收别人送来的纸箱。","",null,""],[32,"武器","",null,""],[33,"装备品","",null,""],[34,"请选择礼物种类。","",null,""],[35,"（未选择音乐）","",null,""],[36,"删除","",null,""],[37,"试听","",null,""],[38,"发送","",null,""],[39,"指定打开纸箱时播放的歌曲。","",null,""],
+    [40,"请选择要查看的包裹。","",null,""],[41,"可查看等待发送的包裹。","",null,""],[42,"将包裹发送至设定的地址。","",null,""],[43,"设定的内容将被丢弃。确定吗？","",null,""],[44,"选择要装进纸箱的物品。","",null,""],[45,"添加或更改武器、装备品。","",null,""],[46,"指定要装进纸箱的武器、装备品。","",null,""],[47,"请选择要打开的包裹。","",null,""],[48,"打开其他玩家赠送的包裹。","",null,""],[49,"指定纸箱送达对方的日期。","",null,""],
+    [50,"可将武器或装备品装进纸箱，赠送给其他玩家。","",null,""],[51,"请确认PSP®的日期。\n若日期不正确，可能无法正常配送或接收。","",null,"JPN_NO_AUX_MARKUP"],[52,"已加入等待发送列表。\n可在「SENDBOX」中确认。","",null,""],[53,"指定收件玩家。","",null,""],[54,"请至少设置1件物品。","",null,""],[55,"请指定地址。","",null,""],[56,"SENDBOX已满。","",null,""],[57,"请设置为从今天起一年以内的日期。","",null,""],[58,"请设置打开时播放的歌曲。","",null,""],[59,"完成","",null,""],
+    [60,"请设置要装箱的武器、装备品。","",null,""],[61,"请设置配送日期和时间。只能设置从今天起一年以内的日期。","",null,""],[62,"请选择地址。选择「- 随机 -」会发送给不特定的对象。","",null,""],[63,"将按此内容发送。\n确定吗？","",null,""],[64,"正在创建的内容将被丢弃。\n确定吗？","",null,""],[65,"打开这个包裹。","",null,""],[66,"要丢弃这个包裹吗？\n确定吗？","",null,""],[67,"要取消发送这个包裹吗？\n确定吗？","",null,""],[68,"来自%s的武器","",null,"FORMAT_OK"],[69,"来自%s的装备品","",null,"FORMAT_OK"],
+    [70,"表达感谢、我爱你","",null,""],[71,"问候、请多关照","",null,""],[72,"活动、特别通知","",null,""],[73,"连声催促、冲冲冲","",null,""],[74,"邀请游玩、出击","",null,""],[75,"略带调侃、真遗憾","",null,""],[76,"鼓励、别在意","",null,""],[77,"庆祝生日","",null,""],[78,"配送铃声15、心意、我爱你","",null,"INTERNAL_LABEL"],[79,"配送铃声14、心意、谢谢","",null,"INTERNAL_LABEL"],[80,"配送铃声13、鼓励、别放弃","",null,"INTERNAL_LABEL"],[81,"配送铃声12、问候、请多关照","",null,"INTERNAL_LABEL"],[82,"配送铃声11、问候、早上好","",null,"INTERNAL_LABEL"],[83,"配送铃声10、圣诞快乐","",null,"INTERNAL_LABEL"],[84,"配送铃声09、新年快乐","",null,"INTERNAL_LABEL"],
+    [85,"花","",null,"SONG_TITLE"],[86,"记住我","",null,"SONG_TITLE"],[87,"特别的日子","",null,"SONG_TITLE"],[88,"冲冲冲","",null,"SONG_TITLE"],[89,"一起玩吧","",null,"SONG_TITLE"],[90,"哎呀","",null,"SONG_TITLE"],[91,"别担心","",null,"SONG_TITLE"],[92,"生日快乐","",null,"SONG_TITLE"]
+  ],
+  "notes": ["JPN is authoritative; PSP® and all source placeholders were preserved.", "Auxiliary-only icon markup was not imported."],
+  "qa": {"coverage": true, "controls_reviewed": true, "jpn_authority": true}
+}

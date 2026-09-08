@@ -1,0 +1,32 @@
+{
+  "file_id": "5DB9708C",
+  "resource_class": "SLOT_OLANG",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "row_count": 20,
+  "coverage": {"first_unique_index": 0, "last_unique_index": 19, "contiguous": true},
+  "columns": ["unique_index", "cn_text", "cn_control_tokens", "cn_utf8_bytes", "review_flag"],
+  "translations": [
+    [0, "怎么回事！？", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [1, "发生异常 增援部队 前去确认", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [2, "怎么了！？", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [3, "收到 敌人应该还在附近 找出来！", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [4, "收到 加强警戒", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [5, "收到 派出增援 加强警戒", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [6, "收到 歼灭敌人", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [7, "<R=无法派出增援,NEGATIVE> 用现有战力处理", "<R=无法派出增援,NEGATIVE>", null, "JPN_PRIMARY;RUBY_PRESERVED"],
+    [8, "立即加强警戒", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [9, "发现后立即攻击", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [10, "入侵者正朝你们那里前进", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [11, "巡逻队 请回答 这里是<R=总部,HQ>", "<R=总部,HQ>", null, "JPN_PRIMARY;RUBY_PRESERVED"],
+    [12, "在邻近区域发现入侵者", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [13, "你们区域也要加强警戒", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [14, "在邻近区域发现了入侵者的踪迹", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [15, "巡逻队", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [16, "收到 严密警戒", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [17, "收到 返回基地", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [18, "收到 派出增援", "", null, "JPN_PRIMARY;AUX_CONFIRMED"],
+    [19, "这里是<R=总部,HQ>", "<R=总部,HQ>", null, "JPN_PRIMARY;RUBY_PRESERVED"]
+  ],
+  "notes": ["JPN is the semantic authority; ENG/MLG_CN were used only as corroboration.", "Coverage 0-19 is contiguous; ruby count and order are preserved."],
+  "qa": {"coverage": true, "controls": true, "jpn_primary": true}
+}
