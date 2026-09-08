@@ -3,11 +3,11 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-08T12:48:43+08:00`
+Updated: `2026-09-08T13:11:35+08:00`
 Branch: `sol-translation`
-Latest validated checkpoint commit: `c63f8fce6c2ceb4310e87c476ba7ebeb83e60945`
-Total rows / persisted rows: **21041 / 13585**
-Total file_ids / completed file_ids: **241 / 210**
+Latest validated checkpoint commit: `6832738f209d95767a10e4afb11f3dbda6b1a2b4`
+Total rows / persisted rows: **21041 / 14115**
+Total file_ids / completed file_ids: **241 / 215**
 Current partial file_id: **(none)**
 NEXT_FILE_ID: **`5D2362B8`**
 
@@ -19,7 +19,7 @@ NEXT_FILE_ID: **`5D2362B8`**
 | OHD | 1 / 1 | 226 / 226 | 0 | 0 |
 | LOOSE_OLANG | 14 / 14 | 1719 / 1719 | 0 | 0 |
 | STAGEDAT_OLANG | 46 / 46 | 5687 / 5687 | 0 | 0 |
-| SLOT_OLANG | 113 / 144 | 3873 / 11329 | 31 | 0 |
+| SLOT_OLANG | 118 / 144 | 4403 / 11329 | 26 | 0 |
 
 ## Complete completed file_id list
 
@@ -27,7 +27,7 @@ NEXT_FILE_ID: **`5D2362B8`**
 - OHD (1): `1E4C1146`
 - LOOSE_OLANG (14): `0005EE2F`, `00225520`, `00327F6A`, `0043DA6E`, `005184E3`, `0060E2F2`, `0066E64E`, `0072F326`, `007E2F18`, `00C6A046`, `00C79B17`, `00CB1FB7`, `00D0C740`, `00D345A5`
 - STAGEDAT_OLANG (46): `LANG_BRIEFING.OLANG`, `LANG_CHARAEDIT.OLANG`, `LANG_COMMUNICATIONSTELOP.OLANG`, `LANG_DATAINSTALL.OLANG`, `LANG_DEMOSKIPTELOP.OLANG`, `LANG_DEMOTELOP.OLANG`, `LANG_DEMOTELOP2.OLANG`, `LANG_DEMOTELOP4.OLANG`, `LANG_EMERGENCYTELOP.OLANG`, `LANG_EXTRA.OLANG`, `LANG_GAMEOVER.OLANG`, `LANG_GETTITLE_INSIGNIA_LIST.OLANG`, `LANG_HTTP_ERROR.OLANG`, `LANG_ITEM_SHORT_NAME.OLANG`, `LANG_ITEM_TEXT.OLANG`, `LANG_KEYHELP.OLANG`, `LANG_MAP_FLOOR.OLANG`, `LANG_MISSION_ENDTELOP.OLANG`, `LANG_MISSION_INFO.OLANG`, `LANG_MISSION_RESULT.OLANG`, `LANG_MYOUTER_DEVELOP.OLANG`, `LANG_MYOUTER_DEVELOP_METAL.OLANG`, `LANG_MYOUTER_STAFF.OLANG`, `LANG_MYOUTER_STAFF_COMMENT.OLANG`, `LANG_MYOUTER_STAFF_SKILL.OLANG`, `LANG_MYOUTER_STAFF_SOLTYPE.OLANG`, `LANG_MYOUTER_TOP.OLANG`, `LANG_MYOUTER_UTIL.OLANG`, `LANG_ONLINE_ERROR.OLANG`, `LANG_PAUSEMENU.OLANG`, `LANG_PSP_KEYBOARD.OLANG`, `LANG_PW_COMMON.OLANG`, `LANG_SPOOKY_COMMON.OLANG`, `LANG_STAGETELOP.OLANG`, `LANG_SYNC.OLANG`, `LANG_SYSTEM.OLANG`, `LANG_TITLE_NAMEENTRY.OLANG`, `LANG_TITLE_OPTIONS.OLANG`, `LANG_TITLEMENU.OLANG`, `LANG_V_THEATER010.OLANG`, `LANG_V_THEATER020.OLANG`, `LANG_VOCALOID.OLANG`, `LANG_VOCALOID_KEYBOARD.OLANG`, `LANG_WALKMAN.OLANG`, `LANG_WEAPON_SHORT_NAME.OLANG`, `LANG_WEAPON_TEXT.OLANG`
-- SLOT_OLANG (113): `5D02EB62`, `5D06A8D5`, `5D06C8DE`, `5D09325F`, `5D0A5DB1`, `5D0A7130`, `5D140CA7`, `5D147608`, `5D15C941`, `5D1708FB`, `5D1A33A6`, `5D1A33A7`, `5D1A33A8`, `5D1A33A9`, `5D1A33AA`, `5D1B7B4B`, `5D1DF209`, `5D2088CC`, `5D218EA9`, `5D22B9C8`, `5D22E834`, `5D24C900`, `5D272813`, `5D2B7C21`, `5D2DCCC3`, `5D396407`, `5D396408`, `5D3AF56D`, `5D3AF58D`, `5D3AF5AD`, `5D3AF5CD`, `5D3AF60D`, `5D3AF62D`, `5D3AF90D`, `5D3AF92D`, `5D3AF952`, `5D3AF98D`, `5D3AF992`, `5D3AF9AD`, `5D3AF9ED`, `5D3AFD4D`, `5D3AFD6D`, `5D3AFE0D`, `5D3AFE2D`, `5D3B010D`, `5D3B0112`, `5D3B018D`, `5D3B01AD`, `5D3B01CD`, `5D3B01ED`, `5D3B020D`, `5D3B022D`, `5D3B050D`, `5D3B052D`, `5D3B05AD`, `5D3B05B2`, `5D3B05ED`, `5D3B060D`, `5D3B0612`, `5D3B090D`, `5D3B092D`, `5D3B3A9A`, `5D401DD3`, `5D472837`, `5D483717`, `5D48F045`, `5D52801A`, `5D56AA31`, `5D5A5B84`, `5D5CAF77`, `5D5D0A44`, `5D62BF06`, `5D62E635`, `5D68BF67`, `5D7E43B7`, `5D81E50B`, `5D83C375`, `5D8AED23`, `5D904CFF`, `5D99CB1E`, `5D9A9677`, `5D9D70DA`, `5DA57DF4`, `5DA60C2A`, `5DA7D875`, `5DA7D876`, `5DA7D877`, `5DA7D878`, `5DA7D879`, `5DA7D87A`, `5DA7D87B`, `5DB83C7B`, `5DB85CF0`, `5DB9708C`, `5DB9910A`, `5DBA016B`, `5DBF136F`, `5DC1E6A9`, `5DC637BF`, `5DCBA83B`, `5DCBF8C0`, `5DCDD1C4`, `5DCE245A`, `5DCE245C`, `5DD982F6`, `5DD9AF4C`, `5DD9B1F3`, `5DDFF09B`, `5DDFF0A5`, `5DE2E8B4`, `5DEEEA4A`, `5DEFED13`, `5DF1B9C2`
+- SLOT_OLANG (118): `5D02EB62`, `5D06A8D5`, `5D06C8DE`, `5D09325F`, `5D0A5DB1`, `5D0A7130`, `5D140CA7`, `5D147608`, `5D15C941`, `5D1708FB`, `5D1A33A6`, `5D1A33A7`, `5D1A33A8`, `5D1A33A9`, `5D1A33AA`, `5D1B7B4B`, `5D1DF209`, `5D2088CC`, `5D218EA9`, `5D22B9C8`, `5D22E834`, `5D24C900`, `5D272813`, `5D2B7C21`, `5D2DCCC3`, `5D396407`, `5D396408`, `5D3AF52D`, `5D3AF56D`, `5D3AF58D`, `5D3AF5AD`, `5D3AF5CD`, `5D3AF60D`, `5D3AF62D`, `5D3AF90D`, `5D3AF92D`, `5D3AF952`, `5D3AF96D`, `5D3AF98D`, `5D3AF992`, `5D3AF9AD`, `5D3AF9ED`, `5D3AFD2D`, `5D3AFD4D`, `5D3AFD6D`, `5D3AFDED`, `5D3AFE0D`, `5D3AFE2D`, `5D3B010D`, `5D3B0112`, `5D3B018D`, `5D3B01AD`, `5D3B01CD`, `5D3B01ED`, `5D3B020D`, `5D3B022D`, `5D3B050D`, `5D3B052D`, `5D3B058D`, `5D3B05AD`, `5D3B05B2`, `5D3B05ED`, `5D3B060D`, `5D3B0612`, `5D3B090D`, `5D3B092D`, `5D3B3A9A`, `5D401DD3`, `5D472837`, `5D483717`, `5D48F045`, `5D52801A`, `5D56AA31`, `5D5A5B84`, `5D5CAF77`, `5D5D0A44`, `5D62BF06`, `5D62E635`, `5D68BF67`, `5D7E43B7`, `5D81E50B`, `5D83C375`, `5D8AED23`, `5D904CFF`, `5D99CB1E`, `5D9A9677`, `5D9D70DA`, `5DA57DF4`, `5DA60C2A`, `5DA7D875`, `5DA7D876`, `5DA7D877`, `5DA7D878`, `5DA7D879`, `5DA7D87A`, `5DA7D87B`, `5DB83C7B`, `5DB85CF0`, `5DB9708C`, `5DB9910A`, `5DBA016B`, `5DBF136F`, `5DC1E6A9`, `5DC637BF`, `5DCBA83B`, `5DCBF8C0`, `5DCDD1C4`, `5DCE245A`, `5DCE245C`, `5DD982F6`, `5DD9AF4C`, `5DD9B1F3`, `5DDFF09B`, `5DDFF0A5`, `5DE2E8B4`, `5DEEEA4A`, `5DEFED13`, `5DF1B9C2`
 
 ## Complete remaining file_id list
 
@@ -35,7 +35,7 @@ NEXT_FILE_ID: **`5D2362B8`**
 - OHD (0): (none)
 - LOOSE_OLANG (0): (none)
 - STAGEDAT_OLANG (0): (none)
-- SLOT_OLANG (31): `5D2362B8`, `5D2E0FEE`, `5D3AF52D`, `5D3AF54D`, `5D3AF96D`, `5D3AF9CD`, `5D3AFD0D`, `5D3AFD2D`, `5D3AFDED`, `5D3B054D`, `5D3B058D`, `5D420130`, `5D4C49A2`, `5D514128`, `5D52E4F8`, `5D56A63D`, `5D726933`, `5D74A6CA`, `5D7B474A`, `5D81443C`, `5D83B291`, `5D97F0B2`, `5DA57090`, `5DB4D9C8`, `5DB96275`, `5DC48887`, `5DD2A877`, `5DDB94DF`, `5DDD0EA8`, `5DE6EF4C`, `5DEDCB1E`
+- SLOT_OLANG (26): `5D2362B8`, `5D2E0FEE`, `5D3AF54D`, `5D3AF9CD`, `5D3AFD0D`, `5D3B054D`, `5D420130`, `5D4C49A2`, `5D514128`, `5D52E4F8`, `5D56A63D`, `5D726933`, `5D74A6CA`, `5D7B474A`, `5D81443C`, `5D83B291`, `5D97F0B2`, `5DA57090`, `5DB4D9C8`, `5DB96275`, `5DC48887`, `5DD2A877`, `5DDB94DF`, `5DDD0EA8`, `5DE6EF4C`, `5DEDCB1E`
 
 ## Partial file_id list
 
@@ -47,9 +47,9 @@ NEXT_FILE_ID: **`5D2362B8`**
 
 ## Legacy tracker reconciliation
 
-- legacy tracker persisted rows=11778, facts=13585 (legacy delta -1807)
-- legacy tracker completed file_ids=208, facts=210 (legacy delta -2)
-- legacy tracker SLOT_OLANG completed=111, facts=113 (legacy delta -2)
+- legacy tracker persisted rows=11778, facts=14115 (legacy delta -2337)
+- legacy tracker completed file_ids=208, facts=215 (legacy delta -7)
+- legacy tracker SLOT_OLANG completed=111, facts=118 (legacy delta -7)
 
 ## Validation
 
@@ -94,10 +94,10 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
       "total_rows": 226
     },
     "SLOT_OLANG": {
-      "completed_file_ids": 113,
-      "completed_rows": 3873,
+      "completed_file_ids": 118,
+      "completed_rows": 4403,
       "partial_file_ids": 0,
-      "remaining_file_ids": 31,
+      "remaining_file_ids": 26,
       "total_file_ids": 144,
       "total_rows": 11329
     },
@@ -166,6 +166,7 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
       "5D2DCCC3",
       "5D396407",
       "5D396408",
+      "5D3AF52D",
       "5D3AF56D",
       "5D3AF58D",
       "5D3AF5AD",
@@ -175,12 +176,15 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
       "5D3AF90D",
       "5D3AF92D",
       "5D3AF952",
+      "5D3AF96D",
       "5D3AF98D",
       "5D3AF992",
       "5D3AF9AD",
       "5D3AF9ED",
+      "5D3AFD2D",
       "5D3AFD4D",
       "5D3AFD6D",
+      "5D3AFDED",
       "5D3AFE0D",
       "5D3AFE2D",
       "5D3B010D",
@@ -193,6 +197,7 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
       "5D3B022D",
       "5D3B050D",
       "5D3B052D",
+      "5D3B058D",
       "5D3B05AD",
       "5D3B05B2",
       "5D3B05ED",
@@ -340,9 +345,9 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
       "1CC276E9"
     ]
   },
-  "completed_file_ids": 210,
-  "completed_rows": 13585,
-  "latest_validated_checkpoint_commit": "c63f8fce6c2ceb4310e87c476ba7ebeb83e60945",
+  "completed_file_ids": 215,
+  "completed_rows": 14115,
+  "latest_validated_checkpoint_commit": "6832738f209d95767a10e4afb11f3dbda6b1a2b4",
   "legacy_tracker_snapshot": {
     "by_resource_class": {
       "LOOSE_OLANG": {
@@ -380,7 +385,7 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
     "YPK_GTT": []
   },
   "partial_file_ids": 0,
-  "persisted_rows": 13585,
+  "persisted_rows": 14115,
   "progress_archives": [
     {
       "bytes": 16341,
@@ -394,15 +399,10 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
     "SLOT_OLANG": [
       "5D2362B8",
       "5D2E0FEE",
-      "5D3AF52D",
       "5D3AF54D",
-      "5D3AF96D",
       "5D3AF9CD",
       "5D3AFD0D",
-      "5D3AFD2D",
-      "5D3AFDED",
       "5D3B054D",
-      "5D3B058D",
       "5D420130",
       "5D4C49A2",
       "5D514128",
@@ -427,15 +427,15 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
     "STAGEDAT_OLANG": [],
     "YPK_GTT": []
   },
-  "remaining_file_ids": 31,
+  "remaining_file_ids": 26,
   "schema_version": 1,
   "template_catalog_sha256": "9df0fbbecbaad8c0868a39f56c65138625475a3273d90e8690a793d9a0cf4076",
   "total_file_ids": 241,
   "total_rows": 21041,
   "tracker_reconciliation": [
-    "legacy tracker persisted rows=11778, facts=13585 (legacy delta -1807)",
-    "legacy tracker completed file_ids=208, facts=210 (legacy delta -2)",
-    "legacy tracker SLOT_OLANG completed=111, facts=113 (legacy delta -2)"
+    "legacy tracker persisted rows=11778, facts=14115 (legacy delta -2337)",
+    "legacy tracker completed file_ids=208, facts=215 (legacy delta -7)",
+    "legacy tracker SLOT_OLANG completed=111, facts=118 (legacy delta -7)"
   ],
   "validation_errors": 0,
   "validation_warnings": 65
