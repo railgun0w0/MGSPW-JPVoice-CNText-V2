@@ -1,0 +1,3402 @@
+{
+  "file_id": "5D514128",
+  "resource_class": "SLOT_OLANG",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "row_count": 482,
+  "coverage": {
+    "first_unique_index": 0,
+    "last_unique_index": 481,
+    "contiguous": true
+  },
+  "columns": [
+    "unique_index",
+    "cn_text",
+    "cn_control_tokens",
+    "cn_utf8_bytes",
+    "review_flag"
+  ],
+  "translations": [
+    [
+      0,
+      "[120] METAL GEAR ZEKE - CROSS BATTLE",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      1,
+      "潜入敌方母基地，<C=FF4040>摧毁METAL GEAR ZEKE<C=R>。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK"
+    ],
+    [
+      2,
+      "<C=FF4040>远程操纵METAL GEAR ZEKE<C=R>，<C=FF4040>消灭母基地的\n入侵者<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      3,
+      "[120] Metal Gear ZEKE - 模拟战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      4,
+      "<C=FF4040>进行模拟战斗<C=R>，帮助<C=FF4040>机载AI<C=R>收集性能数据。由于这是模拟，\n对模拟ZEKE造成的任何伤害都不会影响真实的ZEKE。\n不允许使用WALKMAN。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      5,
+      "[119] AI武器战：和平行者 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      6,
+      "  任务地点：美国导弹基地\n<C=FF4040>歼灭和平行者 定制型<C=R>。\n摧毁和平行者或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      7,
+      "SBM258",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      8,
+      "ABOUT SBM258",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      9,
+      "[117] AI武器战：Cocoon 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      10,
+      "  任务地点：矿坑\n<C=FF4040>歼灭Cocoon 定制型<C=R>。\n摧毁Cocoon或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      11,
+      "[115] AI武器战：Chrysalis 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      12,
+      "  任务地点：AI实验室\n<C=FF4040>歼灭Chrysalis 定制型<C=R>。\n摧毁Chrysalis或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      13,
+      "[113] AI武器战：Pupa 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      14,
+      "  任务地点：陨石坑基地\n<C=FF4040>歼灭Pupa 定制型<C=R>。\n摧毁Pupa或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      15,
+      "SBM254",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      16,
+      "ABOUT SBM254",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      17,
+      "ABOUT SBM251",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      18,
+      "[118] AI武器战：和平行者 II型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      19,
+      "  任务地点：美国导弹基地\n<C=FF4040>歼灭和平行者 II型<C=R>。\n摧毁和平行者或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      20,
+      "SBM249",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      21,
+      "ABOUT SBM249",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      22,
+      "[116] AI武器战：Cocoon II型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      23,
+      "  任务地点：矿坑\n<C=FF4040>歼灭Cocoon II型<C=R>。\n摧毁Cocoon或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      24,
+      "[114] AI武器战：Chrysalis II型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      25,
+      "  任务地点：AI实验室\n<C=FF4040>歼灭Chrysalis II型<C=R>。\n摧毁Chrysalis或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      26,
+      "[112] AI武器战：Pupa II型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      27,
+      "  任务地点：陨石坑基地\n<C=FF4040>歼灭Pupa II型<C=R>。\n摧毁Pupa或关闭机载AI以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      28,
+      "[111] 攻击直升机战：AH56A-Raider 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      29,
+      "  任务地点：死亡瀑布\n<C=FF4040>歼灭敌方直升机<C=R>。\n摧毁直升机或歼灭敌方士兵以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      30,
+      "[110] 攻击直升机战：AH56A-Raider",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      31,
+      "[109] 攻击直升机战：AH56A-Bomber 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      32,
+      "[108] 攻击直升机战：AH56A-Bomber",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      33,
+      "[107] 攻击直升机战：Mi-24D 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      34,
+      "[106] 攻击直升机战：Mi-24D",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      35,
+      "[105] 攻击直升机战：Mi-24A 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      36,
+      "[129] ARMORED VEHICLE BATTLE: LAV-TYPE C CUSTOM",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      37,
+      "  作战区域：绞刑台\n<C=FF4040>制服敌方装甲车<C=R>。\n摧毁车辆或制服敌军即可完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      38,
+      "[128] ARMORED VEHICLE BATTLE: LAV-TYPE C",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      39,
+      "[104] 装甲车战：LAV-Type G 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      40,
+      "[103] 装甲车战：LAV-Type G",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      41,
+      "[102] 装甲车战：BTR-60 PB 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      42,
+      "[101] 装甲车战：BTR-60 PB",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      43,
+      "[100] 装甲车战：BTR-60 PA 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      44,
+      "[099] 装甲车战：BTR-60 PA",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      45,
+      "[098] 坦克战：MBTk-70 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      46,
+      "  任务地点：绞刑台\n<C=FF4040>歼灭敌方坦克<C=R>。\n摧毁坦克或歼灭敌方士兵以完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      47,
+      "[097] 坦克战：MBTk-70",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      48,
+      "[096] 坦克战：KPz 70 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      49,
+      "[095] 坦克战：KPz 70",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      50,
+      "[094] 坦克战：T-72A 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      51,
+      "[093] 坦克战：T-72A",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      52,
+      "[092] 坦克战：T-72U 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      53,
+      "[091] 攻击直升机战：AH56A-Raider 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      54,
+      "  任务地点：金果香蕉园\n<C=FF4040>消灭敌方直升机<C=R>。\n摧毁直升机或制服敌方士兵即可完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      55,
+      "[090] 攻击直升机战：AH56A-Raider",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      56,
+      "[089] 攻击直升机战：AH56A-Bomber 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      57,
+      "[088] 攻击直升机战：AH56A-Bomber",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      58,
+      "[087] 攻击直升机战：Mi-24D 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      59,
+      "[086] 攻击直升机战：Mi-24D",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      60,
+      "[085] 攻击直升机战：Mi-24A 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      61,
+      "[084] 攻击直升机战：Mi-24A",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      62,
+      "[083] 坦克战：MBTk-70 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      63,
+      "  任务地点：金果香蕉园\n<C=FF4040>消灭敌方坦克<C=R>。\n摧毁坦克或制服敌方士兵即可完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      64,
+      "[082] 坦克战：MBTk-70",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      65,
+      "[081] 坦克战：KPz 70 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      66,
+      "[080] 坦克战：KPz 70",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      67,
+      "[079] 坦克战：T-72A 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      68,
+      "[078] 坦克战：T-72A",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      69,
+      "[077] 坦克战：T-72U 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      70,
+      "[076] 坦克战：T-72U",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      71,
+      "[075] 装甲车战：LAV-Type C 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      72,
+      "  任务地点：金果香蕉园\n<C=FF4040>消灭敌方装甲车<C=R>。\n摧毁装甲车或制服敌方士兵即可完成任务。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      73,
+      "[074] 装甲车战：LAV-Type C",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      74,
+      "[073] 装甲车战：LAV-Type G 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      75,
+      "[072] 装甲车战：BTR-60 PB 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      76,
+      "[071] 装甲车战：BTR-60 PB",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      77,
+      "[070] 装甲车战：BTR-60 PA 定制型",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      78,
+      "[069] 装甲车战：BTR-60 PA",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      79,
+      "[003] 射击训练：得分挑战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      80,
+      "在母基地的射击场内<C=FF4040>尽可能多地射击靶子<C=R>。\n  时间限制：3:00\n  靶子数量：无限",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      81,
+      "[001] 射击训练：无限制",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      82,
+      "在母基地的射击场进行<C=FF4040>射击训练<C=R>。你的弹药无限。\n<C=FF4040>离开射击场即结束<C=R>。\n不允许使用支援补给标记和支援打击标记。\n  靶子数量：无限",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      83,
+      "[004] 射击训练：时间挑战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      84,
+      "在母基地猎杀屋内<C=FF4040>尽快击中最后一个靶子<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n禁止支援补给与支援攻击。\n  时间限制：05'00\"\n  目标数量：24",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      85,
+      "[002] 射击训练：无限制",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      86,
+      "在母基地的猎杀屋进行<C=FF4040>射击训练<C=R>。你的弹药无限。\n<C=FF4040>离开猎杀屋即结束<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n不允许使用支援补给标记和支援打击标记。\n  靶子数量：无限",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      87,
+      "[068] 与Kaz约会",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      88,
+      "<C=FF4040>与Kaz约会<C=R>。\n<C=FF4040>仅限Snake<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：无\n  所需武器：不允许携带致命武器\n  所需物品：Kaz喜欢的东西",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      89,
+      "[067] 与Paz约会",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      90,
+      "<C=FF4040>与Paz约会<C=R>。\n<C=FF4040>仅限Snake<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：无\n  所需武器：不允许携带致命武器\n  所需物品：Paz喜欢的东西",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      91,
+      "[055] 美军士兵救援",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      92,
+      "使用富尔顿回收系统，从尼加拉瓜美军导弹基地<C=FF4040>救出美军士兵<C=R>。\n他在苏联占领军的袭击中受伤。\n  时间限制：4:00（直到美军士兵死亡）\n  时间惩罚：触发警报增加30秒\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      93,
+      "[027] 消灭敌方士兵",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      94,
+      "在尼加拉瓜美军导弹基地的小型维修码头，<C=FF4040>制服所有敌方雇佣兵<C=R>。\n允许使用非致命手段，如将敌人打晕、胁迫或使其入睡。\n  时间限制：5:00\n  时间惩罚：触发警报增加30秒\n  目标数量：5",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      95,
+      "SBM119",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      96,
+      "ABOUT SBM119",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      97,
+      "[040] 基地防御",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      98,
+      "在尼加拉瓜美军导弹基地的直升机停机坪<C=FF4040>防御基地<C=R>，抵御敌方进攻。\n如果敌方士兵在基地内停留一定时间，基地将被敌方占领。\n基地被占领时会变色。\n<C=FF4040>所有基地均被占领将立即导致任务失败<C=R>。\n<C=FF4040>仅限无国界之师的士兵<C=R>。\n  目标数量：15（士兵人数）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      99,
+      "[044] BASE DEFENSE",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      100,
+      "<C=FF4040>阻止敌方增援<C=R>进入尼加拉瓜美军导弹基地的地下通道。\n<C=FF4040>仅限无国界之师的士兵<C=R>\n  目标数量：20（士兵）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      101,
+      "SBM116",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      102,
+      "ABOUT SBM116",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      103,
+      "SBM115",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      104,
+      "ABOUT SBM115",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      105,
+      "[073] POOYAN MISSION",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      106,
+      "Pooyan任务：美军导弹基地 - 屋顶\n<C=FF4040>击落富尔顿回收气球，防止士兵被带走。<C=R>\n<C=FF4040>如果有3名士兵被带走，任务即告失败。<C=R>\n防止补给被偷可获得奖励分数。\n  目标数量：32",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      107,
+      "[008] 射击挑战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      108,
+      "在尼加拉瓜美军导弹基地后门处<C=FF4040>射击所有靶子<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：1:00\n  时间奖励：每击中一个靶子增加3至7秒\n  靶子数量：32",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      109,
+      "[025] 消灭敌方士兵",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      110,
+      "在埃雷迪亚中部云雾森林中<C=FF4040>制服所有敌方雇佣兵<C=R>。\n允许使用非致命手段，如将敌人打晕或使其入睡。\n  时间限制：16:00\n  目标数量：8",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      111,
+      "SBM111",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      112,
+      "ABOUT SBM111",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      113,
+      "SBM110",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      114,
+      "ABOUT SBM110",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      115,
+      "SBM109",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      116,
+      "ABOUT SBM109",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      117,
+      "SBM108",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      118,
+      "ABOUT SBM108",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      119,
+      "SBM107",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      120,
+      "ABOUT SBM107",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      121,
+      "SBM106",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      122,
+      "ABOUT SBM106",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      123,
+      "[058] 狗仔队",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      124,
+      "<C=FF4040>拍摄指挥官的照片<C=R>——矿山基地地下通道中敌方佣兵部队的指挥官。\n指挥官穿着和其他士兵一样，但<C=FF4040>远没有那么忙碌<C=R>。\n<C=FF4040>被发现或杀死哪怕一个敌人都会导致任务失败。\n对指挥官使用富尔顿回收也会导致任务失败<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：5:00\n  所需道具：<C=FF4040>相机<C=R>\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      125,
+      "SBM104",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      126,
+      "ABOUT SBM104",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      127,
+      "[057] 狗仔队",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      128,
+      "<C=FF4040>拍摄指挥官的照片<C=R>——玉河基地中敌方佣兵部队的指挥官。\n指挥官穿着和其他士兵一样，但<C=FF4040>远没有那么忙碌<C=R>。\n<C=FF4040>被发现或杀死哪怕一个敌人都会导致任务失败。\n对指挥官使用富尔顿回收也会导致任务失败<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：5:00\n  所需道具：<C=FF4040>相机<C=R>\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      129,
+      "SBM102",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      130,
+      "ABOUT SBM102",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      131,
+      "SBM101",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      132,
+      "ABOUT SBM101",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      133,
+      "SBM100",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      134,
+      "ABOUT SBM100",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      135,
+      "SBM099",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      136,
+      "ABOUT SBM099",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      137,
+      "[048] 完美潜行",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      138,
+      "潜行穿过尼加拉瓜的美国导弹基地，<C=FF4040>在不被发现且不杀死任何人的情\n况下到达目标点<C=R>。\n<C=FF4040>被发现或杀死哪怕一个敌人都会立刻导致任务失败<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      139,
+      "[049] 完美潜行",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      140,
+      "潜行穿过矿山基地，<C=FF4040>在不被发现且不杀死任何人的情况下到达目标点<C=R>\n。\n<C=FF4040>被发现或杀死哪怕一个敌人都会立刻导致任务失败<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      141,
+      "[047] 完美潜行",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      142,
+      "潜行穿过埃雷迪亚中部的云雾森林，<C=FF4040>在不被发现且不杀死任何人的情\n况下到达目标点<C=R>。\n<C=FF4040>被发现或杀死哪怕一个敌人都会立刻导致任务失败<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      143,
+      "[046] 完美潜行",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      144,
+      "潜行穿过伊拉苏火山的热带干旱森林，\n<C=FF4040>在不被发现且不杀死任何人的情况下到达目标点<C=R>。\n<C=FF4040>被发现或杀死哪怕一个敌人都会立刻导致任务失败<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      145,
+      "[050] 完美潜行",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      146,
+      "潜行穿过利蒙东部的沼泽，<C=FF4040>在不被发现且不杀死任何人的情况下到达\n目标点<C=R>。\n<C=FF4040>被发现或杀死哪怕一个敌人都会立刻导致任务失败<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      147,
+      "[045] 完美潜行",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      148,
+      "潜行穿过破晓港的补给设施，<C=FF4040>在不被发现且不杀死任何人的情况下到\n达目标点<C=R>。\n<C=FF4040>被发现或杀死哪怕一个敌人都会立刻导致任务失败<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      149,
+      "SBM092",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      150,
+      "ABOUT SBM092",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      151,
+      "SBM091",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      152,
+      "ABOUT SBM091",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      153,
+      "[061] PRISONER ESCORT",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      154,
+      "COVER THE PRISONER AS HE MAKES HIS ESCAPE FROM THE MINE BASE.\n  TIME LIMIT: \n  WEAPONS NEEDED: \n  ITEMS NEEDED: \n  # OF TARGETS: 1",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      155,
+      "SBM089",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      156,
+      "ABOUT SBM089",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      157,
+      "[039] STEALING GEAR",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      158,
+      "消灭破晓港补给设施中的<C=FF4040>敌方佣兵，夺取其装备后\n前往回收地点<C=R>。\n一旦<C=FF4040>被敌方佣兵发现，任务即告失败<C=R>。\n  时间限制：03'00\"\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      159,
+      "消灭矿工宿舍中的<C=FF4040>敌方佣兵，夺取其装备后\n前往回收地点<C=R>。\n  时间限制：03'00\"\n  目标数量：1",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      160,
+      "击败伊拉苏火山山坡要塞中的敌方佣兵，夺取他们的装备，\n然后前往目标点。\n  时间限制：3:00\n  目标数量：1",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      161,
+      "SBM085",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      162,
+      "ABOUT SBM085",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      163,
+      "[051] PRISONER ESCORT",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      164,
+      "从矿山基地的看守手中，<C=FF4040>掩护内鬼逃脱<C=R>。\n<C=FF4040>如果内鬼死亡，任务即失败。<C=R>",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      165,
+      "[054] 取回Snake的装备",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      166,
+      "<C=FF4040>取回Snake被俘时遭没收的全部装备，并前往目标点<C=R>。\n<C=FF4040>仅限MSF士兵<C=R>。\n  时间限制：06'00\"\n  目标数量：5",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      167,
+      "[050] PRISONER ESCORT",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      168,
+      "从看守手中，<C=FF4040>掩护研究员们逃脱<C=R>。\n<C=FF4040>如果有任何研究员死亡，任务即失败。<C=R>",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      169,
+      "SBM081",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      170,
+      "ABOUT SBM081",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      171,
+      "[051] 障碍物爆破",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      172,
+      "在埃雷迪亚中部的云雾森林中，<C=FF4040>摧毁障碍物<C=R>，以打通前进的道路。\n到达目标点，用C4炸药将障碍物炸毁。\n<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：8:00\n  时间惩罚：触发警报扣1分钟\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      173,
+      "SBM079",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      174,
+      "ABOUT SBM079",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      175,
+      "SBM078",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      176,
+      "SBM078",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      177,
+      "[053] 突围",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      178,
+      "敌方士兵已开始对监狱设施进行搜索。<C=FF4040>避开敌人并逃脱<C=R>。\n<C=FF4040>被发现将直接导致任务失败<C=R>。\n<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。\n  时间限制：6:00",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      179,
+      "[064] Pooyan任务",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      180,
+      "Pooyan任务：怪物岛\n<C=FF4040>击落富尔顿回收气球，防止士兵被掳走<C=R>。\n<C=FF4040>有2名士兵被掳走将直接导致任务失败<C=R>。\n阻止补给品被偷走可获得奖励分。（物品被掳走不扣分）\n  目标数：14（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      181,
+      "[065] Pooyan任务",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      182,
+      "Pooyan任务：矿坑\n<C=FF4040>击落富尔顿回收气球，防止士兵被掳走<C=R>。\n<C=FF4040>有3名士兵被掳走将直接导致任务失败<C=R>。\n阻止补给品被偷走可获得奖励分。（物品被掳走不扣分）\n  目标数：33（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      183,
+      "[063] Pooyan任务",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      184,
+      "Pooyan任务：剑峰\n<C=FF4040>击落富尔顿回收气球，防止士兵被掳走<C=R>。\n<C=FF4040>有3名士兵被掳走将直接导致任务失败<C=R>。\n  目标数：31（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      185,
+      "[036] 胁迫",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      186,
+      "<C=FF4040>胁迫所有敌方雇佣兵<C=R>，地点在金果香蕉种植园的分拣棚。\n<C=FF4040>杀死、击晕或麻醉敌人将直接导致任务失败<C=R>。\n<C=FF4040>触发警报也会直接导致任务失败<C=R>。\n  指定武器：<C=FF4040>香蕉<C=R>\n  目标数：6\n* 香蕉会在开始任务时\n   自动装备。不允许使用其他\n   武器。\n* 这是任务。别拿食物开玩笑！",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      187,
+      "SBM072",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      188,
+      "ABOUT SBM072",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      189,
+      "SBM071",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      190,
+      "ABOUT SBM071",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      191,
+      "[066] 导弹拦截任务",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      192,
+      "<C=FF4040>击落敌方导弹<C=R>，这些导弹射向无国界之师（MSF）母基地。\n<C=FF4040>母基地被10枚导弹击中将直接导致任务失败<C=R>。\n  目标数：30",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      193,
+      "[079] GHOST PHOTOGRAPHY",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      194,
+      "在埃雷迪亚中部的云雾林中\n<C=FF4040>拍摄游荡的幽灵<C=R>。\n幽灵会对声呐雷达产生反应。\n<C=FF4040>禁止使用任何LIFE恢复道具<C=R>。\n  必需装备：相机\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      195,
+      "[059] 幽灵摄影",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      196,
+      "<C=FF4040>拍摄一张幽灵的照片<C=R>，它游荡在美军导弹基地的小型维修船坞。\n幽灵可以用声音可视化设备探测到。\n<C=FF4040>不允许携带生命恢复道具<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  所需道具：<C=FF4040>相机<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      197,
+      "拍摄一张在埃雷迪亚中部云雾森林的索奇克察尔遗迹中游荡的幽灵照\n片。\n幽灵可以用声呐眼探测到。\n  时间限制：\n  所需武器：\n  所需道具：\n  目标数：",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      198,
+      "SBM066",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      199,
+      "ABOUT SBM066",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      200,
+      "[075] ONE SHOT",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      201,
+      "在埃雷迪亚中部云雾森林的死亡瀑布，\n用一颗子弹击败所有敌方士兵。\n  时间限制：1:00\n  目标数：3",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      202,
+      "[056] 一枪制敌",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      203,
+      "在伊拉苏山Los Cantos，\n用<C=FF4040>一发子弹消灭所有敌兵和无人兵器<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  指定武器：<C=FF4040>M16A1<C=R>（强制装备，禁止携带其他武器）\n  时间限制：05'00\"\n  目标数量：5",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      204,
+      "用<C=FF4040>一发子弹消灭<C=R>利蒙东部El Cenagal吊桥上的\n所有敌方佣兵。\n  时间限制：01'30\"\n  目标数量：2",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      205,
+      "[038] ITEM RUNNER",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      206,
+      "在埃雷迪亚中部敌方警戒区域，<C=FF4040>回收全部道具并\n送至目标点<C=R>。\n<C=FF4040>所有道具的位置均已查明<C=R>，请有效利用时间。\n  时间限制：08'00\"（触发警报时-00'30\"）\n  目标数量：9",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      207,
+      "SBM061",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      208,
+      "ABOUT SBM061",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      209,
+      "SBM060",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      210,
+      "ABOUT SBM060",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      211,
+      "SBM059",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      212,
+      "ABOUT SBM059",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      213,
+      "[037] 胁迫",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      214,
+      "<C=FF4040>胁迫所有敌方雇佣兵<C=R>，地点在矿山基地的地下通道。\n<C=FF4040>杀死、击晕或麻醉敌人将直接导致任务失败<C=R>。\n<C=FF4040>触发警报也会直接导致任务失败<C=R>。\n  指定武器：<C=FF4040>香蕉<C=R>\n  目标数：9\n* 香蕉会在开始任务时\n   自动装备。不允许使用其他\n   武器。\n* 这是任务。别拿食物开玩笑！",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      215,
+      "[035] 胁迫",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      216,
+      "<C=FF4040>胁迫所有敌方雇佣兵<C=R>，地点在破晓港地区。\n<C=FF4040>杀死、击晕或麻醉敌人将直接导致任务失败<C=R>。\n<C=FF4040>触发警报也会直接导致任务失败<C=R>。\n  指定武器：<C=FF4040>香蕉<C=R>\n  目标数：7\n* 香蕉会在开始任务时\n   自动装备。不允许使用其他\n   武器。\n* 这是任务。别拿食物开玩笑！",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      217,
+      "SBM056",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      218,
+      "ABOUT SBM056",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      219,
+      "SBM055",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      220,
+      "ABOUT SBM055",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      221,
+      "[052] 消灭绑架者",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      222,
+      "<C=FF4040>消灭所有绑架者<C=R>，这些绑架者正在埃雷迪亚中部云雾森林中巡逻。\n  时间限制：4:00\n  目标数：40",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      223,
+      "[022] 消灭敌方士兵",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      224,
+      "<C=FF4040>制服所有敌方雇佣兵<C=R>，地点在迷人香气咖啡种植园。\n可以使用击晕敌人、胁迫敌人或使其入睡等非致命手段。\n  时间限制：13:00\n  时间惩罚：触发警报加1分钟\n  目标数：10",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      225,
+      "[029] ELIMINATE ENEMY SOLDIERS",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      226,
+      "<C=FF4040>制服<C=R>金果香蕉种植园周边的所有敌方佣兵。\n可采用击晕、催眠等非致命手段。\n  时间限制：10'00\"（触发警报时-02'00\"）\n  目标数量：13",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      227,
+      "[024] 消灭敌方士兵",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      228,
+      "<C=FF4040>制服所有敌方雇佣兵<C=R>，这些雇佣兵正在伊拉苏火山进攻山坡要塞。\n可以使用击晕敌人或使其入睡等非致命手段。\n  时间限制：8:00\n  目标数：15",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      229,
+      "[023] 消灭敌方士兵",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      230,
+      "<C=FF4040>制服所有敌方雇佣兵<C=R>，地点在伊拉苏火山剑峰地区。\n可以使用击晕敌人或使其入睡等非致命手段。\n  时间限制：7:00\n  目标数：10",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      231,
+      "[026] 消灭敌方士兵",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      232,
+      "<C=FF4040>制服所有敌方雇佣兵<C=R>，地点在尼加拉瓜美军导弹基地后门。\n可以使用击晕敌人或使其入睡等非致命手段。\n  时间限制：6:00\n  目标数：21",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      233,
+      "[021] 摧毁货运卡车",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      234,
+      "<C=FF4040>炸毁所有货运卡车<C=R>，这些卡车正通过伊拉苏火山的剑峰地区，\n以确保货物无法通过。\n<C=FF4040>只要有哪怕一辆卡车通过，任务即告失败<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  目标数：25",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      235,
+      "[027] CARGO TRUCK DEMOLITION",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      236,
+      "在迷人芳香咖啡种植园\n<C=FF4040>炸毁所有运输卡车<C=R>。\n目标<C=FF4040>只能用C4炸药摧毁<C=R>。\n  时间限制：05'00\"（触发警报时-00'30\"）\n  必需武器：<C=FF4040>C4炸药<C=R>\n  目标数量：2",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      237,
+      "[020] 目标爆破",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      238,
+      "<C=FF4040>炸毁指定目标<C=R>，目标位于尼加拉瓜美国导弹基地的后门。\n<C=FF4040>该目标只能用C4炸药摧毁<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：6:00\n  时间惩罚：触发警报扣30秒\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      239,
+      "SBM045",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      240,
+      "ABOUT SBM045",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      241,
+      "[023] TARGET DEMOLITION",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      242,
+      "在金果香蕉种植园<C=FF4040>炸毁指定目标<C=R>。\n目标<C=FF4040>只能用C4炸药摧毁<C=R>。\n  时间限制：03'00\"（触发警报时-00'30\"）\n  必需武器：<C=FF4040>C4炸药<C=R>\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      243,
+      "[019] 目标爆破",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      244,
+      "<C=FF4040>炸毁指定目标<C=R>，目标位于迷人芳香咖啡种植园。\n<C=FF4040>该目标只能用C4炸药摧毁<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：13:00\n  时间惩罚：触发警报扣1分钟\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      245,
+      "[018] 目标爆破",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      246,
+      "<C=FF4040>炸毁指定目标<C=R>，目标位于玉河沿岸的敌方基地内。\n<C=FF4040>该目标只能用C4炸药摧毁<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：5:00\n  时间惩罚：触发警报扣30秒\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      247,
+      "在破晓港补给设施<C=FF4040>炸毁指定目标<C=R>。\n目标<C=FF4040>只能用C4炸药摧毁<C=R>。\n  时间限制：03'00\"（触发警报时-00'15\"）\n  必需武器：<C=FF4040>C4炸药<C=R>\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      248,
+      "在敌方基地<C=FF4040>炸毁指定目标<C=R>。\n目标<C=FF4040>只能用C4炸药摧毁<C=R>。\n  时间限制：03'00\"（触发警报时-00'30\"）\n  必需武器：<C=FF4040>C4炸药<C=R>\n  目标数量：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      249,
+      "SBM039",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      250,
+      "ABOUT SBM039",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      251,
+      "[038] 基地防御",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      252,
+      "在AI兵器机库，趁Snake与和平行者战斗之际，<C=FF4040>阻止敌军的进攻<C=R>。\n<C=FF4040>只要有哪怕一名敌人突破你的防线，任务即告失败<C=R>。\n<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。\n  目标数：40",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      253,
+      "[042] 战俘防御",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      254,
+      "在矿山基地抵御敌军来袭，<C=FF4040>保护战俘<C=R>。\n<C=FF4040>若战俘死亡，任务即告失败<C=R>。\n禁止使用富尔顿回收。\n  目标数：30（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      255,
+      "[043] 守卫关键物资",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      256,
+      "在迷人芳香咖啡种植园，<C=FF4040>守卫所有目标并击溃敌军<C=R>。\n<C=FF4040>若所有物资均被摧毁，任务即告失败<C=R>。\n  目标数：20（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      257,
+      "SBM035",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      258,
+      "ABOUT SBM035",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      259,
+      "[058] DEFEND KEY SUPPLIES",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      260,
+      "保护矿工宿舍的道具，并<C=FF4040>消灭来袭的敌方佣兵<C=R>。\n<C=FF4040>被夺走3件道具即任务失败<C=R>。\n  目标数量：10（敌兵人数）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      261,
+      "[041] 基地防御",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      262,
+      "在觉醒者村抵御敌军进攻，<C=FF4040>守卫各基地<C=R>。\n如果敌军士兵在基地内停留一段时间，基地就会被敌人占领。\n基地被占领时会改变颜色。\n<C=FF4040>若所有基地均被占领，任务即告失败<C=R>。\n  目标数：20（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      263,
+      "[039] 基地防御",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      264,
+      "在金果香蕉种植园的分拣棚抵御敌军进攻，<C=FF4040>守卫各基地<C=R>。\n如果敌军士兵在基地内停留一段时间，基地就会被敌人占领。\n基地被占领时会改变颜色。\n<C=FF4040>若所有基地均被占领，任务即告失败<C=R>。\n  目标数：20（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      265,
+      "SBM031",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      266,
+      "ABOUT SBM031",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      267,
+      "[044] 守卫关键物资",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      268,
+      "在矿山基地，<C=FF4040>守卫所有目标并击溃敌军<C=R>。\n<C=FF4040>若所有物资均被摧毁，任务即告失败<C=R>。\n  目标数：30（士兵数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      269,
+      "[020] FULTON RECOVERY",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      270,
+      "在矿山基地，<C=FF4040>从拷问室救出囚犯<C=R>。\n  时间限制：3:00\n  所需物品：<C=FF4040>富尔顿回收装置<C=R>\n  目标数：3",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      271,
+      "SBM028",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      272,
+      "ABOUT SBM028",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      273,
+      "SBM027",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      274,
+      "ABOUT SBM027",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      275,
+      "[017] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      276,
+      "<C=FF4040>使用富尔顿回收系统回收所有敌军侦察兵<C=R>，\n这些侦察兵潜伏在埃雷迪亚中部云雾森林中。\n<C=FF4040>哪怕杀死一名敌军士兵，任务即告失败<C=R>。\n  时间限制：16:00\n  时间惩罚：触发警报扣1分钟\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：11",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      277,
+      "SBM025",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      278,
+      "ABOUT SBM025",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      279,
+      "[015] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      280,
+      "<C=FF4040>回收研究员<C=R>，该研究员被关押在埃雷迪亚中部云雾森林中。\n这名研究员为了躲避侦查，<C=FF4040>伪装成了敌方雇佣兵<C=R>。\n<C=FF4040>若失去研究员的踪迹或将其杀死，任务即告失败<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：7:00\n  时间惩罚：触发警报扣30秒 /\n    对伪装研究员以外的任何士兵\n    使用富尔顿回收扣30秒\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      281,
+      "<C=FF4040>使用富尔顿回收救出FSLN战俘<C=R>，他们被关押在埃雷迪亚中部云雾森林\n的指定区域内。\n  时间限制：5:00（须在囚犯被转移前完成。触发警报扣1分钟。）\n  所需物品：<C=FF4040>富尔顿回收装置<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      282,
+      "[012] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      283,
+      "<C=FF4040>使用富尔顿回收救出研究员<C=R>，该研究员被关押在觉醒者村的监狱设施\n中。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：5:00（囚犯被转移前）\n  时间惩罚：触发警报扣30秒\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      284,
+      "[013] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      285,
+      "<C=FF4040>使用富尔顿回收救出研究员<C=R>，该研究员被关押在金果香蕉种植园的分\n拣棚中。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：7:00（囚犯被转移前）\n  时间惩罚：触发警报扣1分钟\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      286,
+      "[016] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      287,
+      "<C=FF4040>使用富尔顿回收救出研究员<C=R>，该研究员被关押在迷人芳香咖啡种植园\n中。\n  时间限制：13:00（囚犯被转移前）\n  时间惩罚：触发警报扣1分钟\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      288,
+      "[014] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      289,
+      "<C=FF4040>使用富尔顿回收救出FSLN战俘<C=R>，该战俘被关押在伊拉苏火山的剑峰地\n区吊桥另一侧。\n  时间限制：15:00（囚犯被转移前）\n  时间惩罚：触发警报扣1分钟\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      290,
+      "[011] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      291,
+      "<C=FF4040>使用富尔顿回收系统回收玉河沿岸敌方基地内的所有敌兵<C=R>。\n<C=FF4040>哪怕杀死一名敌兵，任务也会立即失败<C=R>。\n  时限：6:00\n  触发警报罚时：1分钟\n  所需装备：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：4",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      292,
+      "[010] 富尔顿回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      293,
+      "Snake已将破晓港补给设施内的一名通信兵打晕。\n<C=FF4040>使用富尔顿回收系统回收该通信兵<C=R>。\n<C=FF4040>杀死通信兵将导致任务立即失败<C=R>。\n<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：3:00（士兵醒来前）\n  触发警报罚时：30秒\n  所需装备：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：1",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      294,
+      "[069] DEAD MAN'S TREASURE",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      295,
+      "<C=FF4040>从位于埃雷迪亚中部云雾森林的索奇克察尔遗迹回收道具<C=R>。\n<C=FF4040>当心幽灵。<C=R>\n<C=FF4040>禁止携带生命恢复道具。<C=R>\n  时限：3:00（触发警报罚时30秒）\n  目标数：3",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      296,
+      "[033] 阔剑拆除",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      297,
+      "<C=FF4040>拆除玉河沿岸敌方基地内的所有阔剑地雷<C=R>。\n<C=FF4040>触发阔剑地雷将导致任务立即失败<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：4:00\n  时间奖励：每拆除一颗阔剑地雷+10秒\n  目标数：8",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      298,
+      "[034] 阔剑拆除",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      299,
+      "<C=FF4040>拆除埃雷迪亚中部云雾森林内的所有阔剑地雷<C=R>。\n<C=FF4040>触发阔剑地雷将导致任务立即失败<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：5:00\n  时间奖励：每拆除一颗阔剑地雷+10秒\n  目标数：8",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      300,
+      "[061] 死者的宝藏",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      301,
+      "<C=FF4040>从矿工宿舍回收所有道具<C=R>。<C=FF4040>当心幽灵。<C=R>\n<C=FF4040>禁止携带生命恢复道具和武器。<C=R>\n  时限：12:00\n  触发警报罚时：1分钟\n  目标数：4",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      302,
+      "[060] 死者的宝藏",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      303,
+      "<C=FF4040>从埃雷迪亚中部云雾森林回收所有道具<C=R>。<C=FF4040>当心幽灵。<C=R>\n<C=FF4040>禁止携带生命恢复道具和武器。<C=R>\n  时限：12:00\n  触发警报罚时：1分钟\n  目标数：5",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      304,
+      "[062] 死者的宝藏",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      305,
+      "<C=FF4040>从恩坎塔多芳香咖啡种植园回收所有道具<C=R>。<C=FF4040>当心幽灵。<C=R>\n<C=FF4040>禁止携带生命恢复道具和武器。<C=R>\n  时限：14:00\n  触发警报罚时：1分钟\n  目标数：6",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      306,
+      "[031] 机密文件回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      307,
+      "<C=FF4040>获取矿工宿舍内敌方所有绝密文件<C=R>和技术资料。\n  时限：10:00\n  触发警报罚时：1分钟\n  目标数：5",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      308,
+      "[030] 机密文件回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      309,
+      "<C=FF4040>获取金果香蕉园分拣棚内敌方所有绝密文件<C=R>和技术资料。\n  时限：8:00\n  触发警报罚时：1分钟\n  目标数：5",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      310,
+      "[032] 机密文件回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      311,
+      "<C=FF4040>获取恩坎塔多芳香咖啡种植园内敌方所有绝密文件<C=R>和技术资料。\n  时限：15:00\n  触发警报罚时：1分钟\n  目标数：6",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      312,
+      "[029] 道具回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      313,
+      "<C=FF4040>使用C4炸药摧毁集装箱，从破晓森林区域回收所有道具<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：5:00\n  触发警报罚时：30秒\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1（集装箱数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      314,
+      "[028] 道具回收",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      315,
+      "<C=FF4040>使用C4炸药摧毁集装箱，从觉醒者村监狱设施回收所有道具<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：5:00\n  触发警报罚时：30秒\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1（集装箱数量）",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      316,
+      "[009] 射击挑战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      317,
+      "<C=FF4040>射击矿工宿舍内的所有标靶<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：0:30\n  时间奖励：每命中一个标靶+3至7秒\n  目标数：20",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      318,
+      "[008] MARKSMANSHIP CHALLENGE",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      319,
+      "<C=FF4040>射击索奇克察尔遗迹周围的所有标靶<C=R>。\n  时限：1:00（每命中一个标靶+3至7秒）\n  目标数：20",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      320,
+      "[007] 射击挑战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      321,
+      "<C=FF4040>射击觉醒者村监狱设施内的所有标靶<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：2:00\n  时间奖励：每命中一个标靶+3至7秒\n  目标数：16",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      322,
+      "[006] 射击挑战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      323,
+      "<C=FF4040>射击玉河沿岸敌方基地内的所有标靶<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：2:00\n  时间奖励：每命中一个标靶+3至7秒\n  目标数：16",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      324,
+      "[005] 射击挑战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      325,
+      "<C=FF4040>射击破晓港补给设施内的所有标靶<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时限：1:00\n  时间奖励：每命中一个标靶+3至7秒\n  目标数：12",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      326,
+      "[128] Gear REX的反击",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      327,
+      "  作战区域：母基地甲板\n<C=FF4040>制服在甲板上暴走的Gear REX<C=R>。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      328,
+      "[127] Gear REX：陨石坑基地对决",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      329,
+      "  作战区域：火山口内基地\n<C=FF4040>狩猎出现在伊拉苏火山口的Gear REX<C=R>。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      330,
+      "【EXTRA OPS：126】《狩猎任务：Gear REX／黄昏》",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      331,
+      "  作战区域：怪物岛\n<C=FF4040>狩猎Gear REX<C=R>。\n\n©CAPCOM CO., LTD.",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      332,
+      "【EXTRA OPS：125】《狩猎任务：Gear REX》",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      333,
+      "【EXTRA OPS：124】《狩猎任务：轰龙／黄昏》",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      334,
+      "  作战区域：怪物岛\n<C=FF4040>狩猎轰龙<C=R>。\n\n©CAPCOM CO., LTD.",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      335,
+      "【EXTRA OPS：123】《狩猎任务：轰龙》",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      336,
+      "【EXTRA OPS：122】《狩猎任务：雄火龙／黄昏》",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      337,
+      "  作战区域：怪物岛\n<C=FF4040>狩猎雄火龙<C=R>。\n\n©CAPCOM CO., LTD.",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      338,
+      "【EXTRA OPS：121】《狩猎任务：雄火龙》",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      339,
+      "M9000",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      340,
+      "ABOUT M9000",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      341,
+      "M0410",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      342,
+      "ABOUT M0410",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      343,
+      "Paz已夺取Metal Gear ZEKE的控制权。阻止她发射核弹，夺回ZEKE。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      344,
+      "Zadornov搜索任务2",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      345,
+      "Zadornov再次从母基地逃走了。找到他并把他带回来。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      346,
+      "Zadornov搜索任务5",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      347,
+      "信不信由你，Zadornov又一次从母基地逃走了。\n找到他并把他带回来。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      348,
+      "Zadornov搜索任务6",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      349,
+      "你猜对了——Zadornov又从母基地逃跑了。找到他并把他带回来。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      350,
+      "Zadornov搜索任务4",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      351,
+      "Zadornov又一次从母基地逃跑了。找到他并把他带回来。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      352,
+      "Zadornov搜索任务3",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      353,
+      "Zadornov再次从母基地逃跑了。找到他并把他带回来。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      354,
+      "Zadornov搜索任务",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      355,
+      "Zadornov从母基地逃跑了。找到他并把他带回来。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      356,
+      "和平行者之战3",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      357,
+      "阻止全面核战争。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      358,
+      "和平行者之战2",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      359,
+      "阻止和平行者发射核弹，并夺取平台的控制权！",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      360,
+      "前往控制塔",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      361,
+      "立即前往控制塔，阻止和平行者发射核弹。\n本关无法装备WALKMAN。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      362,
+      "潜入美国导弹基地",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      363,
+      "必须在和平行者发射核弹之前阻止它。\n潜入位于科西沃尔卡湖东南岸的美国导弹基地，前往通信塔。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      364,
+      "M0230",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      365,
+      "m0230/追击和平行者",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      366,
+      "和平行者之战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      367,
+      "阻止和平行者！",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      368,
+      "前往和平行者的机库",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      369,
+      "和平行者快要完工了。前往存放它的机库。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      370,
+      "逃出拷问室",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      371,
+      "逃出拷问室。\n<C=FF4040>仅限Snake<C=R>。\n* 在合作模式下，任务会在一名\n   玩家死亡后结束。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      372,
+      "潜入地下基地",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      373,
+      "一路深入地下基地底部，在和平行者完工之前阻止它。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      374,
+      "Cocoon之战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      375,
+      "敌人的Cocoon武器挡住了通往基地的路。消灭它。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      376,
+      "消灭守卫",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      377,
+      "消灭敌人守卫，为潜入矿山基地扫清道路。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      378,
+      "前往矿山基地",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      379,
+      "前往敌人的矿山基地，阻止哺乳舱和和平行者的组装。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      380,
+      "Chrysalis之战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      381,
+      "摧毁敌人的Chrysalis武器。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      382,
+      "找到ID卡",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      383,
+      "找到携带ID卡的士兵并偷走它。\n* 请确保道具菜单中留有空间来存放\n   ID卡。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      384,
+      "前往实验室",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      385,
+      "向北前往Strangelove博士的实验室，它伪装成一座玛雅遗迹。\n  所需物品：<C=FF4040>ID卡(H)<C=R>",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      386,
+      "攻击直升机战：Mi-24A",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      387,
+      "消灭敌人的攻击直升机。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      388,
+      "前往云雾森林",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      389,
+      "向北前往埃雷迪亚中部，Strangelove博士的实验室就隐藏在玛雅遗\n迹之中。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      390,
+      "Pupa之战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      391,
+      "阻止敌人的Pupa武器前进。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      392,
+      "潜入陨石坑基地",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      393,
+      "追踪核弹，潜入位于伊拉苏火山口内的敌人主基地。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      394,
+      "摧毁路障",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      395,
+      "载有核弹头的卡车最后一次被看到是驶向伊拉苏火山。\n监狱设施北面的桥梁是前往那里的唯一通道，但路障挡住了去路。\n用C4炸毁它。\n  所需武器：<C=FF4040>C4炸药<C=R>",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      396,
+      "坦克战：T-72U",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      397,
+      "消灭挡在你和核弹头之间的敌人坦克。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      398,
+      "追击丛林列车",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      399,
+      "立即前往位于绞刑台的丛林列车站，在核弹货物抵达伊拉苏火山的敌\n人主基地之前将其截停。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      400,
+      "营救Chico",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      401,
+      "从觉醒者村监狱设施中营救Chico，并查明美国雇佣兵运输核材料所\n用的路线。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      402,
+      "装甲车战：LAV-Type G",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      403,
+      "消灭来袭的敌人装甲车，并与Amanda取得联系。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      404,
+      "追击Amanda",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      405,
+      "追踪并找到桑地诺领导人Amanda，获取关于敌人基地和核材料运输路\n线的情报。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      406,
+      "联络桑地诺指挥官",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      407,
+      "深入利蒙东部的沼泽丛林，前往桑地诺藏身处，\n与他们的指挥官取得联系。",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      408,
+      "序幕 / 调查补给设施",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      409,
+      "潜入破晓港的补给设施——Paz曾被囚禁在这座沿海港口——并获取\n关于占领哥斯达黎加的武装组织基地的情报。\n<C=FF4040>仅限Snake<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。",
+      "<C=FF4040> | <C=R> | <C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ],
+    [
+      410,
+      "???",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      411,
+      "[45]",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      412,
+      "[35] 怪物岛",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      413,
+      "应Trenya之邀，Snake前往怪物岛……\n  出自EXTRA OPS《狩猎任务》\n©CAPCOM CO., LTD.",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      414,
+      "[34] 新的邂逅",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      415,
+      "Snake在哥斯达黎加海岸遇到的‘访客’是……\n\n\n©CAPCOM CO., LTD.",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      416,
+      "[33] 世外天堂",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      417,
+      "母基地。Metal Gear ZEKE沉寂数小时后。\n  出自“ZEKE之战”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      418,
+      "[32] 终曲",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      419,
+      "Snake和他的队伍必须摧毁Metal Gear ZEKE。\n  出自“ZEKE之战”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      420,
+      "[31] 克格勃(KGB)特工",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      421,
+      "Snake追捕逃脱的克格勃(KGB)特工Zadornov。然而…",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      422,
+      "[30] 和平",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      423,
+      "全面核战争日益逼近，和平行者却陷入了沉默。\n  出自“和平行者之战3”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      424,
+      "[29] 报复",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      425,
+      "进入哺乳舱后，Snake试图阻止数据传输。\n  出自“和平行者之战2”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      426,
+      "[28] 虚假数据",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      427,
+      "Snake阻止了和平行者的核弹发射，然而…\n  出自“和平行者之战2”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      428,
+      "[27] 和平行者启动",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      429,
+      "随着和平行者计划进入最终阶段，Snake抵达了控制塔顶层。\n  出自“前往控制塔”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      430,
+      "[26] 通讯塔监控室",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      431,
+      "Snake潜入美国导弹基地，抵达通讯塔。\n  出自“潜入美国导弹基地”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      432,
+      "[25] 尼加拉瓜",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      433,
+      "Snake追击和平行者，越过哥斯达黎加北部边境进入尼加拉瓜。\n  出自“潜入美国导弹基地”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      434,
+      "[24] 追踪",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      435,
+      "和平行者再次苏醒并开始移动…\n  出自“和平行者之战”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      436,
+      "[23] 启动",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      437,
+      "Snake逃出牢房，赶回和平行者的机库。\n  出自“前往和平行者的机库”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      438,
+      "[22] 拷问环节3",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      439,
+      "Dr. Strangelove要求Snake说出真相。\n  出自“逃出拷问室”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      440,
+      "[21] 拷问环节2",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      441,
+      "[20] 拷问环节1",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      442,
+      "[19] 和平行者的机库",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      443,
+      "Snake抵达地下基地最底层，前往机库。\n  出自“潜入地下基地”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      444,
+      "[18] 突袭Cocoon",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      445,
+      "矿坑中出现了无人兵器，阻挡了进入基地的入口。\n  出自“消灭守卫”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      446,
+      "[17] 最终试验场",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      447,
+      "为了阻止和平行者计划，Snake前往敌方的矿山基地，\n以阻止哺乳舱和和平行者的组装。\n  出自“前往矿山基地”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      448,
+      "[16] 回忆",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      449,
+      "Snake在哺乳舱内失去了意识。\n  出自“找到ID卡”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      450,
+      "[15] 实验室内",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      451,
+      "在执行摧毁即将完成的AI的任务中，Snake获得了ID卡，\n并进入了Dr. Strangelove的实验室。\n  出自“找到ID卡”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      452,
+      "[14] 迷失者",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      453,
+      "Snake深入云雾森林。蜂鸟引路的前方，究竟有什么…？\n  出自“前往实验室”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      454,
+      "[13] 多功能攻击直升机Mi-24A逼近",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      455,
+      "Snake正穿过云雾森林前往实验室，这时…\n  出自“前往云雾森林”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      456,
+      "[12] 云雾森林",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      457,
+      "Snake按照Huey的指引，深入云雾森林，寻找AI研究实验室。\n  出自“前往云雾森林”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      458,
+      "[11] 陨石坑基地中的男人",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      459,
+      "Snake摧毁了无人兵器Pupa，并与某位“博士”取得了联系。\n  出自“Pupa之战”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      460,
+      "[10] 核弹头的目的地",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      461,
+      "Snake追踪从海岸运来的核弹头，潜入陨石坑基地。\n  出自“潜入陨石坑基地”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      462,
+      "[09] 列车终点站",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      463,
+      "Snake利用Chico提供的信息，前往铁路运输路线。\n  出自“追击丛林列车”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      464,
+      "[08] 被绑架的孩子",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      465,
+      "Snake在伊拉苏监狱设施中找到了Amanda的弟弟Chico。\n  出自“营救Chico”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      466,
+      "[07] 重逢",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      467,
+      "与装甲车交战之后，Snake注意到前方Amanda的身影。\n  出自“装甲车战：LAV-Type G”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      468,
+      "[06] 装甲车战：LAV-Type G遭遇战",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      469,
+      "Snake为追赶Amanda而抵达香蕉种植园。\n  出自“追击Amanda”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      470,
+      "[05] 前往藏身处",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      471,
+      "为了收集当地情报，Snake前往一间船库，\n与桑地诺民族解放阵线(FSLN)指挥官取得联系。\n  出自“与桑地诺指挥官取得联系”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      472,
+      "[04] 补给设施",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      473,
+      "Snake潜入Paz曾被囚禁的沿海设施内部，调查美国雇佣兵基地。\n  出自“序幕 / 调查补给设施”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      474,
+      "[03] 动机",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      475,
+      "Galvez自称是来自哥斯达黎加的“教授”，\n并向Snake提出了他的请求。\n  出自“序幕 / 调查补给设施”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      476,
+      "[02] Paz的请求",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      477,
+      "Snake在哥伦比亚的无国界之师(MSF)总部训练时，\n听到有人叫他的名字。\n  出自“序幕 / 调查补给设施”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      478,
+      "[01] 无国界之师",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      479,
+      "1974年11月4日，哥伦比亚巴兰基亚海岸\n无国界之师(MSF)总部。\n  出自“序幕 / 调查补给设施”",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX;NEWLINES_PRESERVED"
+    ],
+    [
+      480,
+      "[AP] 无国界之师(MSF)入队考试",
+      "",
+      null,
+      "JPN_CONFIRMED_AUX"
+    ],
+    [
+      481,
+      "<C=FF4040>让所有无国界之师(MSF)候补队员屈服<C=R>，仅使用CQC和近战攻击。\n在时间耗尽前让所有新兵屈服，他们就会全部加入无国界之师(MSF)\n。",
+      "<C=FF4040> | <C=R>",
+      null,
+      "CONTROL_OK;NEWLINES_PRESERVED"
+    ]
+  ],
+  "notes": [
+    "JPN is authoritative; aligned MLG_CN mission text was retained where consistent, and all JPN color-control topology was restored explicitly."
+  ],
+  "qa": {
+    "coverage": true,
+    "controls_reviewed": true,
+    "jpn_authority": true
+  }
+}
