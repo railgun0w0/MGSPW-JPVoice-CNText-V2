@@ -112,14 +112,14 @@ The pre-fix rolling state remains preserved above and in Git commit `f03a7b2868b
 
 This complete ledger is regenerated from committed mappings. It is exhaustive, not a rolling recent-items list.
 
-- Complete file_ids: **224 / 241**
-- Complete rows: **16415 / 21041**
-- Mapping-backed persisted rows: **16415 / 21041**
-- Latest validated mapping checkpoint: `07aec2fb50e09a58ac6df12e397246729061d84f`
-- NEXT_FILE_ID: **`5D3B054D`**
-- Tracker reconciliation: legacy tracker persisted rows=11778, facts=16415 (legacy delta -4637)
-- Tracker reconciliation: legacy tracker completed file_ids=208, facts=224 (legacy delta -16)
-- Tracker reconciliation: legacy tracker SLOT_OLANG completed=111, facts=127 (legacy delta -16)
+- Complete file_ids: **225 / 241**
+- Complete rows: **16628 / 21041**
+- Mapping-backed persisted rows: **16628 / 21041**
+- Latest validated mapping checkpoint: `9b129ccfbb53ef0b2b1e5b8f7623f0e910a8166a`
+- NEXT_FILE_ID: **`5D420130`**
+- Tracker reconciliation: legacy tracker persisted rows=11778, facts=16628 (legacy delta -4850)
+- Tracker reconciliation: legacy tracker completed file_ids=208, facts=225 (legacy delta -17)
+- Tracker reconciliation: legacy tracker SLOT_OLANG completed=111, facts=128 (legacy delta -17)
 
 | Resource class | file_id | Rows | Mapping / manifest / translated CSV | Commit | Review / risk evidence |
 |---|---|---:|---|---|---|
@@ -283,6 +283,7 @@ This complete ledger is regenerated from committed mappings. It is exhaustive, n
 | SLOT_OLANG | `5D3B022D` | 32 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D3B022D.json` | `f3b04de8dee2d0270cce73527a26f55d2f84f79e` | 32/32 rows carry review_flag; auxiliary mismatch/shift flags; ruby flags; whitespace flags; newline flags. |
 | SLOT_OLANG | `5D3B050D` | 33 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D3B050D.json` | `d237ba2a0e1e041549efa6e9ac44ae2e9588ed81` | 33/33 rows carry review_flag; auxiliary mismatch/shift flags; ruby flags; whitespace flags; newline flags. |
 | SLOT_OLANG | `5D3B052D` | 32 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D3B052D.json` | `4a8c4c7f6b731ef2b123bb4a5538e5d42db412c6` | 32/32 rows carry review_flag; auxiliary mismatch/shift flags; ruby flags; whitespace flags; newline flags; placeholder flags. |
+| SLOT_OLANG | `5D3B054D` | 213 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D3B054D.json` | `9b129ccfbb53ef0b2b1e5b8f7623f0e910a8166a` | JPN is authoritative; auxiliary MLG_CN/ENG alignment is substantially shifted in this scene, so translations were rebuilt in JPN unique_index order. |
 | SLOT_OLANG | `5D3B058D` | 110 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D3B058D.json` | `6832738f209d95767a10e4afb11f3dbda6b1a2b4` | JPN is authoritative; scene order, military terminology, ruby controls and source line breaks are preserved. |
 | SLOT_OLANG | `5D3B05AD` | 30 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D3B05AD.json` | `98a34f89390c471173aa3d83a610283faf1a2e2b` | 30/30 rows carry review_flag; auxiliary mismatch/shift flags; ruby flags; whitespace flags; newline flags. |
 | SLOT_OLANG | `5D3B05B2` | 44 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5D3B05B2.json` | `fc6805c67c979ab09e95d6724f1e7afe8b2ea6b3` | 44/44 rows carry review_flag; auxiliary mismatch/shift flags; ruby flags; whitespace flags; newline flags. |
