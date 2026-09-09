@@ -115,7 +115,7 @@ This complete ledger is regenerated from committed mappings. It is exhaustive, n
 - Complete file_ids: **241 / 241**
 - Complete rows: **21041 / 21041**
 - Mapping-backed persisted rows: **21041 / 21041**
-- Latest validated mapping checkpoint: `7ad72340123073397b7faef8f4a3f3df9691228c`
+- Latest validated mapping checkpoint: `fbcadd39e612da319c796b65c0bc1931fa969d97`
 - NEXT_FILE_ID: **`NONE`**
 - Tracker reconciliation: legacy tracker persisted rows=11778, facts=21041 (legacy delta -9263)
 - Tracker reconciliation: legacy tracker completed file_ids=208, facts=241 (legacy delta -33)
@@ -168,7 +168,7 @@ This complete ledger is regenerated from committed mappings. It is exhaustive, n
 | LOOSE_OLANG | `0060E2F2` | 19 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/0060E2F2.json` | `cf2385956d482e425012f4924e119eefa293da0d` | 8/19 rows carry review_flag; auxiliary mismatch/shift flags; control-token flags. |
 | LOOSE_OLANG | `0066E64E` | 66 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/0066E64E.json` | `35f736bb6c40460648784e649cf4f1e79f03062e` | 12/66 rows carry review_flag; auxiliary mismatch/shift flags. |
 | LOOSE_OLANG | `0072F326` | 42 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/0072F326.json` | `f3b5f5efdcb40822381d95a1dcf18d5b209ce4a5` | 20/42 rows carry review_flag; auxiliary mismatch/shift flags; control-token flags; placeholder flags. |
-| LOOSE_OLANG | `007E2F18` | 1094 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/007E2F18.manifest.json` | `a38ac7ea2e4bb5dd92b246020d87295a8a9d2f21` | JPN is authoritative; auxiliary EN/CN is used only as semantic and terminology context. All 1094 logical unique_index rows are covered contiguously across 11 persisted shards. |
+| LOOSE_OLANG | `007E2F18` | 1094 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/007E2F18.manifest.json` | `fbcadd39e612da319c796b65c0bc1931fa969d97` | JPN is authoritative; auxiliary EN/CN is used only as semantic and terminology context. All 1094 logical unique_index rows are covered contiguously across 11 persisted shards. |
 | LOOSE_OLANG | `00C6A046` | 8 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/00C6A046.json` | `41778032c63e89a53943f158c0fbc03f0e6e3b6b` | 5/8 rows carry review_flag; auxiliary mismatch/shift flags. |
 | LOOSE_OLANG | `00C79B17` | 26 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/00C79B17.json` | `234bf8e873d048888e6a5dd0ff35e145fe6ed52c` | 19/26 rows carry review_flag; auxiliary mismatch/shift flags; newline flags. |
 | LOOSE_OLANG | `00CB1FB7` | 106 | `work/luna_translation_templates/sol_translation_mappings/LOOSE_OLANG/00CB1FB7.json` | `6aab159d96993753753e1c032d87ac76aee82946` | 14/106 rows carry review_flag; auxiliary mismatch/shift flags; control-token flags. |
