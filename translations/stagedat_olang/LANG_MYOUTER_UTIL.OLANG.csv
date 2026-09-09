@@ -1,0 +1,113 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+LANG_MYOUTER_UTIL.OLANG,0,0,0,1,,page23:tag:entity13:key0065D9CA:ref0:ord0,,MODEL VIEWER,KEY HELP,,模型查看器,,MATCH,12,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,1,1,1;39,2,,page23:tag:entity28:key00AD4E91:ref1:ord0;page23:tag:entity44:key001787C8:ref39:ord0,MODEL VIEWER,KEY HELP,戻る：<I=CAN>,,KEY HELP,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2; review_flag=JPN_KEY_HELP_LOCALIZED_DIRECTLY; AUX_CONTROLS_HELP_NOT_FORCED; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_MYOUTER_UTIL.OLANG,2,2,2;6;11;17;19;24,6,,page23:tag:entity32:key00C8ADBF:ref2:ord0;page23:tag:entity27:key00A8ADC0:ref6:ord0;page23:tag:entity21:key0088ADC1:ref11:ord0;page23:tag:entity15:key0068ADBD:ref17:ord0;page23:tag:entity12:key0048ADC0:ref19:ord0;page23:tag:entity6:key0028ADC1:ref24:ord0,KEY HELP,戻る：<I=CAN>,テキストOFF：<I=DEC>,<I=CAN>,返回：<I=CAN>,<I=CAN>,MATCH,16,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=6; review_flag=CONTROL_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,3,3,3;7;12;18;20;25,6,,page23:tag:entity31:key00C8ADBE:ref3:ord0;page23:tag:entity26:key00A8ADBF:ref7:ord0;page23:tag:entity20:key0088ADC0:ref12:ord0;page23:tag:entity14:key0068ADBC:ref18:ord0;page23:tag:entity11:key0048ADBF:ref20:ord0;page23:tag:entity5:key0028ADC0:ref25:ord0,戻る：<I=CAN>,テキストOFF：<I=DEC>,縮小：Lボタン,<I=DEC>,关闭文本：<I=DEC>,<I=DEC>,MATCH,25,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=6; review_flag=CONTROL_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,4,4,4;9;15;22;28,5,,page23:tag:entity30:key00C8ADBD:ref4:ord0;page23:tag:entity24:key00A8ADBD:ref9:ord0;page23:tag:entity17:key0088ADBD:ref15:ord0;page23:tag:entity9:key0048ADBD:ref22:ord0;page23:tag:entity2:key0028ADBD:ref28:ord0,テキストOFF：<I=DEC>,縮小：Lボタン,拡大：Rボタン,,缩小：L键,,MATCH,19,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=5; review_flag=BUTTON_LABEL_PRESERVED_FROM_JPN
+LANG_MYOUTER_UTIL.OLANG,5,5,5;10;16;23;29,5,,page23:tag:entity29:key00C8ADBC:ref5:ord0;page23:tag:entity23:key00A8ADBC:ref10:ord0;page23:tag:entity16:key0088ADBC:ref16:ord0;page23:tag:entity8:key0048ADBC:ref23:ord0;page23:tag:entity1:key0028ADBC:ref29:ord0,縮小：Lボタン,拡大：Rボタン,戻る：<I=CAN>,,放大：R键,,MATCH,19,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=5; review_flag=BUTTON_LABEL_PRESERVED_FROM_JPN
+LANG_MYOUTER_UTIL.OLANG,6,8,8;13,2,,page23:tag:entity25:key00A8ADBE:ref8:ord0;page23:tag:entity19:key0088ADBF:ref13:ord0,テキストOFF：<I=DEC>,カメラ移動：アナログパッド,縮小：Lボタン,,移动镜头：模拟摇杆,,MATCH,39,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2
+LANG_MYOUTER_UTIL.OLANG,7,14,14,1,,page23:tag:entity18:key0088ADBE:ref14:ord0,カメラ移動：アナログパッド,カメラ切替：方向キー左右,縮小：Lボタン,,切换镜头：方向键左/右,,MATCH,36,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_DPAD_LEFT_RIGHT_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,8,21,21,1,,page23:tag:entity10:key0048ADBE:ref21:ord0,テキストOFF：<I=DEC>,回転：アナログパッド,縮小：Lボタン,,旋转：模拟摇杆,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,9,26,26,1,,page23:tag:entity4:key0028ADBF:ref26:ord0,テキストOFF：<I=DEC>,移動：アナログパッド上下,回転：アナログパッド左右,,移动：模拟摇杆上/下,,MATCH,36,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,10,27,27,1,,page23:tag:entity3:key0028ADBE:ref27:ord0,移動：アナログパッド上下,回転：アナログパッド左右,縮小：Lボタン,,旋转：模拟摇杆左/右,,MATCH,36,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,11,30,30;43,2,,page23:tag:entity38:key00F6E02A:ref30:ord0;page23:tag:entity51:key00470E0F:ref43:ord0,拡大：Rボタン, ,"文章OFF：<I=DEC>
+戻る：<I=CAN>",, ,,MATCH,1,1,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2; review_flag=ASCII_SPACE_PLACEHOLDER_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,12,31,31,1,,page23:tag:entity37:key00C992D0:ref31:ord0, ,"文章OFF：<I=DEC>
+戻る：<I=CAN>",移動：スティック,<I=DEC> | <I=CAN>,"关闭说明：<I=DEC>
+返回：<I=CAN>",<I=DEC> | <I=CAN>,MATCH,36,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=CONTROL_ORDER_AND_LINE_BREAK_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,13,32,32,1,,page23:tag:entity36:key00C992CF:ref32:ord0,"文章OFF：<I=DEC>
+戻る：<I=CAN>",移動：スティック,回転：スティック,,移动：摇杆,,MATCH,24,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,14,33,33,1,,page23:tag:entity35:key00C992CE:ref33:ord0,移動：スティック,回転：スティック,縮小：R,,旋转：摇杆,,MATCH,24,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,15,34,34,1,,page23:tag:entity34:key00C992CD:ref34:ord0,回転：スティック,縮小：R,拡大：L,,缩小：R,,MATCH,10,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=BUTTON_LABEL_PRESERVED_FROM_JPN
+LANG_MYOUTER_UTIL.OLANG,16,35,35,1,,page23:tag:entity33:key00C992CC:ref35:ord0,縮小：R,拡大：L,"(不要)制式名称「M1911A1」。通称「コルト・ガバメント」。
+.45ACPの大口径弾を撃ち出す大型自動拳銃で
+高いパワーを誇る。
+
+1911年にアメリカ軍に制式採用された軍用拳銃である
+「M1911」に改良が加えられたもの。
+
+従来型の「M1911」はアメリカ合衆国の銃器設計者である
+ジョン・M・ブローニングの設計に基づき銃器メーカーの
+コルト社によって開発された。
+
+カスタムパーツが豊富で、ユーザーの好みに合わせた
+カスタムがしやすい。
+装弾数は7発。",,放大：L,,MATCH,10,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=BUTTON_LABEL_PRESERVED_FROM_JPN
+LANG_MYOUTER_UTIL.OLANG,17,36,36,1,,page23:tag:entity7:key002B82DD:ref36:ord0,拡大：L,"(不要)制式名称「M1911A1」。通称「コルト・ガバメント」。
+.45ACPの大口径弾を撃ち出す大型自動拳銃で
+高いパワーを誇る。
+
+1911年にアメリカ軍に制式採用された軍用拳銃である
+「M1911」に改良が加えられたもの。
+
+従来型の「M1911」はアメリカ合衆国の銃器設計者である
+ジョン・M・ブローニングの設計に基づき銃器メーカーの
+コルト社によって開発された。
+
+カスタムパーツが豊富で、ユーザーの好みに合わせた
+カスタムがしやすい。
+装弾数は7発。","(不要)好奇心旺盛で負けず嫌い、そしてちょっぴり
+えばりんぼな、アヒルの女の子（でも泣き虫）。
+泳ぎが得意で、カエルのケロタンと仲良し。",,"(不要)正式名称「M1911A1」。通称「柯尔特政府型」。
+这是一款发射.45 ACP大口径弹药的大型自动手枪，
+火力强劲。
+
+它是在1911年被美军正式采用的军用手枪
+「M1911」基础上改良而成。
+
+原型「M1911」基于美国枪械设计师
+约翰·M·勃朗宁的设计，由枪械制造商
+柯尔特公司开发。
+
+可用改装零件丰富，便于按照使用者喜好
+进行定制。
+弹容量为7发。",,MATCH,605,454,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_不要_MARKER_PRESERVED; AUXILIARY_UNCHANGED_JPN_REJECTED
+LANG_MYOUTER_UTIL.OLANG,18,37,37,1,,page23:tag:entity0:key0025075B:ref37:ord0,"(不要)制式名称「M1911A1」。通称「コルト・ガバメント」。
+.45ACPの大口径弾を撃ち出す大型自動拳銃で
+高いパワーを誇る。
+
+1911年にアメリカ軍に制式採用された軍用拳銃である
+「M1911」に改良が加えられたもの。
+
+従来型の「M1911」はアメリカ合衆国の銃器設計者である
+ジョン・M・ブローニングの設計に基づき銃器メーカーの
+コルト社によって開発された。
+
+カスタムパーツが豊富で、ユーザーの好みに合わせた
+カスタムがしやすい。
+装弾数は7発。","(不要)好奇心旺盛で負けず嫌い、そしてちょっぴり
+えばりんぼな、アヒルの女の子（でも泣き虫）。
+泳ぎが得意で、カエルのケロタンと仲良し。",(不要)紹介文,,"(不要)好奇心旺盛、不服输，还有点爱逞强的
+鸭子女孩（不过其实很爱哭）。
+很擅长游泳，和青蛙Kerotan是好朋友。",,MATCH,196,152,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_不要_MARKER_PRESERVED; KEROTAN_ROMANIZATION_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,19,38,38,1,,page23:tag:entity22:key00918A32:ref38:ord0,"(不要)好奇心旺盛で負けず嫌い、そしてちょっぴり
+えばりんぼな、アヒルの女の子（でも泣き虫）。
+泳ぎが得意で、カエルのケロタンと仲良し。",(不要)紹介文,KEY HELP,,(不要)介绍文,,MATCH,17,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_不要_MARKER_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,20,40,40;51,2,,page23:tag:entity42:key000125F0:ref40:ord0;page23:tag:entity49:key0030DD0F:ref51:ord0,KEY HELP,GMP,FOOD,,GMP,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2; review_flag=FIXED_ACRONYM_PRESERVED
+LANG_MYOUTER_UTIL.OLANG,21,41,41;52,2,,page23:tag:entity45:key00244624:ref41:ord0;page23:tag:entity52:key00730F12:ref52:ord0,GMP,FOOD,EQP,,FOOD,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2; review_flag=JPN_FOOD_UI_LABEL_LOCALIZED; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_MYOUTER_UTIL.OLANG,22,42,42,1,,page23:tag:entity41:key00011E70:ref42:ord0,FOOD,EQP, ,,EQP,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_EQP_UI_LABEL_LOCALIZED; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_MYOUTER_UTIL.OLANG,23,44,44,1,,page23:tag:entity43:key00016CF3:ref44:ord0, ,YES,モデルビューア,,YES,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_YES_LOCALIZED; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_MYOUTER_UTIL.OLANG,24,45,45,1,,page23:tag:entity54:key00B3E5A2:ref45:ord0,YES,モデルビューア,SKIP,,模型查看器,,MATCH,21,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,25,46,46,1,,page23:tag:entity48:key002AB570:ref46:ord0,モデルビューア,SKIP,OK,,跳过,,MATCH,4,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,26,47,47,1,,page23:tag:entity40:key00000A2B:ref47:ord0,SKIP,OK,NO,,确定,,MATCH,2,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,27,48,48,1,,page23:tag:entity39:key00000A0F:ref48:ord0,OK,NO,"GMP（資金力）が不足しています。
+武器・アイテムの開発と生産、および
+大型兵器の修理が行えなくなりますが、よろしいですか？
+
+（実戦部隊にスタッフを配置し、GMPを増やすことで解消されます）",,NO,,MATCH,2,2,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_NO_LOCALIZED; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_MYOUTER_UTIL.OLANG,28,49,49,1,,page23:tag:entity55:key00D46323:ref49:ord0,NO,"GMP（資金力）が不足しています。
+武器・アイテムの開発と生産、および
+大型兵器の修理が行えなくなりますが、よろしいですか？
+
+（実戦部隊にスタッフを配置し、GMPを増やすことで解消されます）",ヘルプ,,"GMP（财力）不足。
+将无法开发和生产武器、道具，以及修理大型兵器。确定要继续吗？
+
+（将人员编入实战部队，提高GMP即可解决此问题。）",,MATCH,268,186,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_LARGE_WEAPONS_PRESERVED; AUX_MECHS_NOT_FORCED
+LANG_MYOUTER_UTIL.OLANG,29,50,50,1,,page23:tag:entity46:key00251DD0:ref50:ord0,"GMP（資金力）が不足しています。
+武器・アイテムの開発と生産、および
+大型兵器の修理が行えなくなりますが、よろしいですか？
+
+（実戦部隊にスタッフを配置し、GMPを増やすことで解消されます）",ヘルプ,GMP,,帮助,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,30,53,53,1,,page23:tag:entity53:key007B0DF8:ref53:ord0,FOOD,詳細,CANCEL,,详情,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,31,54,54,1,,page23:tag:entity50:key00381576:ref54:ord0,詳細,CANCEL,　,,取消,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_MYOUTER_UTIL.OLANG,32,55,55,1,,page23:tag:entity47:key00253B91:ref55:ord0,CANCEL,　,,,　,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=FULLWIDTH_SPACE_PLACEHOLDER_PRESERVED

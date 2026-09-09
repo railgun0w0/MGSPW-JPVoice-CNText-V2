@@ -1,0 +1,291 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D726933,0,0,0,1,,page46:tag1:entity102:key009AE5D7:ref0:ord0,,"EXTRAS
+[VOCALOID]",VOCALOID EDIT,,"EXTRAS
+[VOCALOID]",,MATCH,17,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_AND_NEWLINE_PRESERVED
+5D726933,1,1,1,1,,page46:tag1:entity51:key00493A44:ref1:ord0,"EXTRAS
+[VOCALOID]",VOCALOID EDIT,"EXTRAS
+[PASSCODE]",,VOCALOID EDIT,,MATCH,13,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,2,2,2,1,,page46:tag1:entity57:key0054ADD0:ref2:ord0,VOCALOID EDIT,"EXTRAS
+[PASSCODE]",NETWORK,,"EXTRAS
+[PASSCODE]",,MATCH,17,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_AND_NEWLINE_PRESERVED
+5D726933,3,3,3,1,,page46:tag1:entity70:key006CD55A:ref3:ord0,"EXTRAS
+[PASSCODE]",NETWORK,EXTRAS,,NETWORK,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,4,4,4,1,,page46:tag1:entity19:key00255A83:ref4:ord0,NETWORK,EXTRAS,"EXTRAS
+[DOWNLOAD]",,EXTRAS,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,5,5,5,1,,page46:tag1:entity6:key0008D0F7:ref5:ord0,EXTRAS,"EXTRAS
+[DOWNLOAD]","EXTRAS
+[DATA MANAGEMENT]",,"EXTRAS
+[DOWNLOAD]",,MATCH,17,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_AND_NEWLINE_PRESERVED
+5D726933,6,6,6,1,,page46:tag1:entity115:key00B40CDA:ref6:ord0,"EXTRAS
+[DOWNLOAD]","EXTRAS
+[DATA MANAGEMENT]",ファイルが選択されていません。,,"EXTRAS
+[DATA MANAGEMENT]",,MATCH,24,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_AND_NEWLINE_PRESERVED
+5D726933,7,7,7,1,,page46:tag1:entity2:key0003E494:ref7:ord0,"EXTRAS
+[DATA MANAGEMENT]",ファイルが選択されていません。,システム音声（VOCALOIDエディット）,,未选择任何文件。,,MATCH,45,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,8,8,8,1,,page46:tag1:entity138:key00F9C616:ref8:ord0,ファイルが選択されていません。,システム音声（VOCALOIDエディット）,システム音声,,系统语音（VOCALOID编辑）,,MATCH,47,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,9,9,9,1,,page46:tag1:entity49:key00475FC1:ref9:ord0,システム音声（VOCALOIDエディット）,システム音声,『METAL GEAR ZEKE』用音声（VOCALOIDエディット）,,系统语音,,MATCH,18,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,10,10,10,1,,page46:tag1:entity7:key000AA00C:ref10:ord0,システム音声,『METAL GEAR ZEKE』用音声（VOCALOIDエディット）,『METAL GEAR ZEKE』用音声,,『METAL GEAR ZEKE』用语音（VOCALOID编辑）,,MATCH,59,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,11,11,11,1,,page46:tag1:entity100:key00986D60:ref11:ord0,『METAL GEAR ZEKE』用音声（VOCALOIDエディット）,『METAL GEAR ZEKE』用音声,CO-OPS通信（VOCALOIDエディット）,,『METAL GEAR ZEKE』用语音,,MATCH,30,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,12,12,12,1,,page46:tag1:entity18:key002447F6:ref12:ord0,『METAL GEAR ZEKE』用音声,CO-OPS通信（VOCALOIDエディット）,CO-OPS通信,,CO-OPS通信（VOCALOID编辑）,,MATCH,41,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,13,13,13,1,,page46:tag1:entity37:key003A07DF:ref13:ord0,CO-OPS通信（VOCALOIDエディット）,CO-OPS通信,AI兵器音声（VOCALOIDエディット）,,CO-OPS通信,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,14,14,14,1,,page46:tag1:entity134:key00E8A158:ref14:ord0,CO-OPS通信,AI兵器音声（VOCALOIDエディット）,AI兵器音声,,AI兵器语音（VOCALOID编辑）,,MATCH,43,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,15,15,15,1,,page46:tag1:entity65:key00664D75:ref15:ord0,AI兵器音声（VOCALOIDエディット）,AI兵器音声,VOCALOIDエディタ用データ,,AI兵器语音,,MATCH,14,14,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,16,16,16,1,,page46:tag1:entity38:key003A1C51:ref16:ord0,AI兵器音声,VOCALOIDエディタ用データ,カムフラデータ,,VOCALOID编辑器用数据,,MATCH,32,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,17,17,17,1,,page46:tag1:entity55:key0050D236:ref17:ord0,VOCALOIDエディタ用データ,カムフラデータ,雑誌データ,,迷彩数据,,MATCH,21,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,18,18,18,1,,page46:tag1:entity125:key00D0C93D:ref18:ord0,カムフラデータ,雑誌データ,WALKMAN楽曲（VOCALOIDエディット）,,杂志数据,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,19,19,19,1,,page46:tag1:entity128:key00D3C545:ref19:ord0,雑誌データ,WALKMAN楽曲（VOCALOIDエディット）,WALKMAN楽曲,,WALKMAN歌曲（VOCALOID编辑）,,MATCH,42,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,20,20,20,1,,page46:tag1:entity36:key0034FFB4:ref20:ord0,WALKMAN楽曲（VOCALOIDエディット）,WALKMAN楽曲,『METAL GEAR ZEKE』用楽曲（VOCALOIDエディット）,,WALKMAN歌曲,,MATCH,13,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,21,21,21,1,,page46:tag1:entity83:key0085865D:ref21:ord0,WALKMAN楽曲,『METAL GEAR ZEKE』用楽曲（VOCALOIDエディット）,『METAL GEAR ZEKE』用楽曲,,『METAL GEAR ZEKE』用歌曲（VOCALOID编辑）,,MATCH,59,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,22,22,22,1,,page46:tag1:entity112:key00B01BC5:ref22:ord0,『METAL GEAR ZEKE』用楽曲（VOCALOIDエディット）,『METAL GEAR ZEKE』用楽曲,利用規約,,『METAL GEAR ZEKE』用歌曲,,MATCH,30,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,23,23,23,1,,page46:tag1:entity14:key00172D33:ref23:ord0,『METAL GEAR ZEKE』用楽曲,利用規約,インフォメーション,,使用条款,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,24,24,24,1,,page46:tag1:entity95:key00936E56:ref24:ord0,利用規約,インフォメーション,ALL,,信息,,MATCH,27,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,25,25,25,1,,page46:tag1:entity108:key009DB49F:ref25:ord0,インフォメーション,ALL,VOCALOID EDITOR,,ALL,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,26,26,26,1,,page46:tag1:entity126:key00D28688:ref26:ord0,ALL,VOCALOID EDITOR,OTHER,,VOCALOID EDITOR,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,27,27,27,1,,page46:tag1:entity107:key009DB49E:ref27:ord0,VOCALOID EDITOR,OTHER,METAL GEAR ZEKE,,OTHER,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,28,28,28,1,,page46:tag1:entity106:key009DB49D:ref28:ord0,OTHER,METAL GEAR ZEKE,TEXTURE,,METAL GEAR ZEKE,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,29,29,29,1,,page46:tag1:entity105:key009DB49C:ref29:ord0,METAL GEAR ZEKE,TEXTURE,VOICE,,TEXTURE,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGULAR_ASCII_LABEL_PRESERVED_AUX_PLURAL_REJECTED
+5D726933,30,30,30,1,,page46:tag1:entity104:key009DB49B:ref30:ord0,TEXTURE,VOICE,WALKMAN,,VOICE,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,31,31,31,1,,page46:tag1:entity103:key009DB49A:ref31:ord0,VOICE,WALKMAN,NetVOCALOIDメニューではVOCALOIDデータの作成および作成したデータの音声変換リクエスト送信、変換した音声データの受信を行うことができます。,,WALKMAN,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,32,32,32,1,,page46:tag1:entity142:key00FE44B8:ref32:ord0,WALKMAN,NetVOCALOIDメニューではVOCALOIDデータの作成および作成したデータの音声変換リクエスト送信、変換した音声データの受信を行うことができます。,『EXTRAS』ではオンラインコンテンツの利用やメモリースティック<I=TM>内データの管理などを行うことができます。,,在NetVOCALOID菜单中，可以创建VOCALOID数据、发送已创建数据的语音转换请求，并接收转换后的语音数据。,,MATCH,193,136,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY_AUX_CONTEXT_ONLY
+5D726933,33,33,33,1,,page46:tag1:entity60:key005B35A4:ref33:ord0,NetVOCALOIDメニューではVOCALOIDデータの作成および作成したデータの音声変換リクエスト送信、変換した音声データの受信を行うことができます。,『EXTRAS』ではオンラインコンテンツの利用やメモリースティック<I=TM>内データの管理などを行うことができます。,パスコードメニューではパスコードを入力することでアイテムや兵士を獲得することができます。,<I=TM>,在『EXTRAS』中，可以使用在线内容，并管理Memory Stick<I=TM>内的数据等。,<I=TM>,MATCH,153,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK_AUX_EXTRA_BL_REJECTED
+5D726933,34,34,34,1,,page46:tag1:entity15:key001990BB:ref34:ord0,『EXTRAS』ではオンラインコンテンツの利用やメモリースティック<I=TM>内データの管理などを行うことができます。,パスコードメニューではパスコードを入力することでアイテムや兵士を獲得することができます。,ネットワークメニューでは追加コンテンツのダウンロードやVOCALOIDデータの送受信などを行うことができます。,,在密码菜单中输入密码，可以获得道具或士兵。,,MATCH,132,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,35,35,35,1,,page46:tag1:entity122:key00C2FC71:ref35:ord0,パスコードメニューではパスコードを入力することでアイテムや兵士を獲得することができます。,ネットワークメニューでは追加コンテンツのダウンロードやVOCALOIDデータの送受信などを行うことができます。,ダウンロードメニューでは楽曲やカムフラージュなどの追加コンテンツをダウンロードすることができます。,,在网络菜单中，可以下载追加内容以及收发VOCALOID数据等。,,MATCH,149,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,36,36,36,1,,page46:tag1:entity123:key00CDB3E1:ref36:ord0,ネットワークメニューでは追加コンテンツのダウンロードやVOCALOIDデータの送受信などを行うことができます。,ダウンロードメニューでは楽曲やカムフラージュなどの追加コンテンツをダウンロードすることができます。,データ管理メニューでは追加コンテンツの管理、システムデータの再作成を行うことができます。,,在下载菜单中，可以下载歌曲、迷彩等追加内容。,,MATCH,147,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,37,37,37,1,,page46:tag1:entity35:key00340CD9:ref37:ord0,ダウンロードメニューでは楽曲やカムフラージュなどの追加コンテンツをダウンロードすることができます。,データ管理メニューでは追加コンテンツの管理、システムデータの再作成を行うことができます。,追加コンテンツの管理メニューではデータの閲覧/削除/試聴を行うことができます。,,在数据管理菜单中，可以管理追加内容，并重新创建系统数据。,,MATCH,132,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_RECREATE_SEMANTICS_PRESERVED
+5D726933,38,38,38,1,,page46:tag1:entity73:key00731E67:ref38:ord0,データ管理メニューでは追加コンテンツの管理、システムデータの再作成を行うことができます。,追加コンテンツの管理メニューではデータの閲覧/削除/試聴を行うことができます。,エラーが発生しました。,,在追加内容管理菜单中，可以查看/删除/试听数据。,,MATCH,113,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_试听_SEMANTICS_PRESERVED
+5D726933,39,39,39,1,,page46:tag1:entity23:key002B7591:ref39:ord0,追加コンテンツの管理メニューではデータの閲覧/削除/試聴を行うことができます。,エラーが発生しました。,データを削除しました。,,发生错误。,,MATCH,33,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,40,40,40,1,,page46:tag1:entity27:key002E7750:ref40:ord0,エラーが発生しました。,データを削除しました。,WLAN/WIRELESSスイッチがOFFになっています。,,数据已删除。,,MATCH,33,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,41,41,41,1,,page46:tag1:entity81:key00849FE4:ref41:ord0,データを削除しました。,WLAN/WIRELESSスイッチがOFFになっています。,"メモリースティック<I=TM>内にVOCALOID機能を利用できる
+ところまでゲームが進行したセーブデータがありません。",,WLAN/WIRELESS开关处于OFF状态。,,MATCH,55,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_CURRENT_TEXT_PRESERVED
+5D726933,42,42,42,1,,page46:tag1:entity22:key002B08A9:ref42:ord0,WLAN/WIRELESSスイッチがOFFになっています。,"メモリースティック<I=TM>内にVOCALOID機能を利用できる
+ところまでゲームが進行したセーブデータがありません。","禁止語句が含まれていますが、
+このまま送信してよろしいでしょうか。
+（禁止語句部分は自動的に他の語句に置き換えられます）",<I=TM>,"Memory Stick<I=TM>中没有游戏进度已推进到
+可使用VOCALOID功能的存档。",<I=TM>,MATCH,150,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK_NEWLINE_PRESERVED_AUX_EXTRA_BL_REJECTED
+5D726933,43,43,43,1,,page46:tag1:entity124:key00CEB481:ref43:ord0,"メモリースティック<I=TM>内にVOCALOID機能を利用できる
+ところまでゲームが進行したセーブデータがありません。","禁止語句が含まれていますが、
+このまま送信してよろしいでしょうか。
+（禁止語句部分は自動的に他の語句に置き換えられます）",VOCALOIDデータを送信しています,,"内容中包含禁止词，
+仍要继续发送吗？
+（禁止词部分会自动替换为其他词语）",,MATCH,176,104,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,44,44,44,1,,page46:tag1:entity1:key00033A63:ref44:ord0,"禁止語句が含まれていますが、
+このまま送信してよろしいでしょうか。
+（禁止語句部分は自動的に他の語句に置き換えられます）",VOCALOIDデータを送信しています,"データを送信しました。
+後ほど変換データを受信してください。
+（変換終了までにおよそ$1分かかります）",,正在发送VOCALOID数据,,MATCH,41,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PUNCTUATION_PRESERVED
+5D726933,45,45,45,1,,page46:tag1:entity44:key00419A17:ref45:ord0,VOCALOIDデータを送信しています,"データを送信しました。
+後ほど変換データを受信してください。
+（変換終了までにおよそ$1分かかります）","すでに作成した『METAL GEAR ZEKE』用楽曲がある場合、
+上書きされますがよろしいですか？",$1,"数据已发送。
+请稍后接收转换后的数据。
+（转换完成大约需要$1分钟）",$1,MATCH,145,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=PARAMETER_1_AND_NEWLINES_PRESERVED
+5D726933,46,46,46,1,,page46:tag1:entity21:key00289F13:ref46:ord0,"データを送信しました。
+後ほど変換データを受信してください。
+（変換終了までにおよそ$1分かかります）","すでに作成した『METAL GEAR ZEKE』用楽曲がある場合、
+上書きされますがよろしいですか？","このコンテンツをダウンロードすると、
+【$1】
+が上書きされますがよろしいですか？",,"如果已创建『METAL GEAR ZEKE』用歌曲，
+将会被覆盖。确定要继续吗？",,MATCH,118,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_AND_ZEKE_IDENTITY_PRESERVED
+5D726933,47,47,47,1,,page46:tag1:entity139:key00FCFEA3:ref47:ord0,"すでに作成した『METAL GEAR ZEKE』用楽曲がある場合、
+上書きされますがよろしいですか？","このコンテンツをダウンロードすると、
+【$1】
+が上書きされますがよろしいですか？","このデータはスタッフ数が最大に達しているため
+パスコードを利用することができません。",$1,"下载此内容后，
+【$1】
+将被覆盖。确定要继续吗？",$1,MATCH,115,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=PARAMETER_1_BRACKETS_AND_NEWLINES_PRESERVED
+5D726933,48,48,48,1,,page46:tag1:entity99:key0096C057:ref48:ord0,"このコンテンツをダウンロードすると、
+【$1】
+が上書きされますがよろしいですか？","このデータはスタッフ数が最大に達しているため
+パスコードを利用することができません。",サービスは停止中です。,,"此数据的人员数量已达上限，
+无法使用密码。",,MATCH,124,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,49,49,49,1,,page46:tag1:entity39:key003B4266:ref49:ord0,"このデータはスタッフ数が最大に達しているため
+パスコードを利用することができません。",サービスは停止中です。,サービスはメンテナンス中です。,,服务已暂停。,,MATCH,33,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_停止中_SEMANTICS_PRESERVED
+5D726933,50,50,50,1,,page46:tag1:entity129:key00D69FC4:ref50:ord0,サービスは停止中です。,サービスはメンテナンス中です。,サービスは終了しました。,,服务正在维护中。,,MATCH,45,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,51,51,51,1,,page46:tag1:entity114:key00B1A144:ref51:ord0,サービスはメンテナンス中です。,サービスは終了しました。,"パスコードで入手したコンテンツを保存するセーブデータを
+選択してください。
+一つのパスコードは一回のみご使用になれます。",,服务已结束。,,MATCH,36,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,52,52,52,1,,page46:tag1:entity59:key005508E7:ref52:ord0,サービスは終了しました。,"パスコードで入手したコンテンツを保存するセーブデータを
+選択してください。
+一つのパスコードは一回のみご使用になれます。","このデータはまだ新規スタッフを追加できるところまで
+ゲームが進行していません。",,"请选择用于保存通过密码获得内容的
+存档。
+每个密码只能使用一次。",,MATCH,176,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINES_PRESERVED
+5D726933,53,53,53,1,,page46:tag1:entity76:key007A7D55:ref53:ord0,"パスコードで入手したコンテンツを保存するセーブデータを
+選択してください。
+一つのパスコードは一回のみご使用になれます。","このデータはまだ新規スタッフを追加できるところまで
+ゲームが進行していません。",情報を取得しています。,,"此数据的游戏进度尚未达到
+可以添加新人员的阶段。",,MATCH,115,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,54,54,54,1,,page46:tag1:entity45:key0042CF75:ref54:ord0,"このデータはまだ新規スタッフを追加できるところまで
+ゲームが進行していません。",情報を取得しています。,ダウンロードしています。,,正在获取信息。,,MATCH,33,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PUNCTUATION_PRESERVED
+5D726933,55,55,55,1,,page46:tag1:entity32:key00320235:ref55:ord0,情報を取得しています。,ダウンロードしています。,メモリースティック<I=TM>が正しくセットされていません。,,正在下载。,,MATCH,36,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PUNCTUATION_PRESERVED
+5D726933,56,56,56,1,,page46:tag1:entity97:key00943332:ref56:ord0,ダウンロードしています。,メモリースティック<I=TM>が正しくセットされていません。,"メモリースティック<I=TM>の空き容量が足りません。
+このデータをセーブするには$1KB以上の
+空き容量が必要です。",<I=TM>,Memory Stick<I=TM>未正确插入。,<I=TM>,MATCH,78,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK_AUX_EXTRA_BL_REJECTED
+5D726933,57,57,57,1,,page46:tag1:entity71:key006ED83E:ref57:ord0,メモリースティック<I=TM>が正しくセットされていません。,"メモリースティック<I=TM>の空き容量が足りません。
+このデータをセーブするには$1KB以上の
+空き容量が必要です。",メモリースティック<I=TM>がロックされています。,<I=TM> | $1KB,"Memory Stick<I=TM>可用空间不足。
+保存此数据至少需要
+$1KB可用空间。",<I=TM> | $1KB,MATCH,153,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_AND_PARAMETER_PRESERVED_NEWLINES_PRESERVED
+5D726933,58,58,58,1,,page46:tag1:entity26:key002D896E:ref58:ord0,"メモリースティック<I=TM>の空き容量が足りません。
+このデータをセーブするには$1KB以上の
+空き容量が必要です。",メモリースティック<I=TM>がロックされています。,(不要)メモリースティック管理キャラが初期化されていません。,<I=TM>,Memory Stick<I=TM>已被锁定。,<I=TM>,MATCH,66,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK_AUX_EXTRA_BL_REJECTED
+5D726933,59,59,59,1,,page46:tag1:entity140:key00FD074A:ref59:ord0,メモリースティック<I=TM>がロックされています。,(不要)メモリースティック管理キャラが初期化されていません。,【$1】を入手しました。,,(不要)Memory Stick管理角色尚未初始化。,,MATCH,86,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=SOURCE_不要_MARKER_PRESERVED_AUX_MISMATCH_REJECTED
+5D726933,60,60,60,1,,page46:tag1:entity90:key008E2570:ref60:ord0,(不要)メモリースティック管理キャラが初期化されていません。,【$1】を入手しました。,"カムフラ【$1】を着た
+志願者【$2】を採用しました。",$1,获得了【$1】。,$1,MATCH,32,20,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=PARAMETER_1_AND_BRACKETS_PRESERVED
+5D726933,61,61,61,1,,page46:tag1:entity119:key00C11FF5:ref61:ord0,【$1】を入手しました。,"カムフラ【$1】を着た
+志願者【$2】を採用しました。","ダウンロードコンテンツ用のシステムデータがありません。
+データ管理メニューからシステムデータの再作成を選択し、
+データの作成を行ってください。",$1 | $2,"已招募身穿迷彩【$1】的
+志愿者【$2】。",$1 | $2,MATCH,71,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=PARAMETERS_AND_NEWLINE_PRESERVED
+5D726933,62,62,62,1,,page46:tag1:entity93:key00913254:ref62:ord0,"カムフラ【$1】を着た
+志願者【$2】を採用しました。","ダウンロードコンテンツ用のシステムデータがありません。
+データ管理メニューからシステムデータの再作成を選択し、
+データの作成を行ってください。",VOCALOIDデータを受信しています,,"没有用于下载内容的系统数据。
+请在数据管理菜单中选择“重新创建系统数据”，
+创建所需数据。",,MATCH,209,131,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_RECREATE_SEMANTICS_AND_NEWLINES_PRESERVED
+5D726933,63,63,63,1,,page46:tag1:entity77:key007A857E:ref63:ord0,"ダウンロードコンテンツ用のシステムデータがありません。
+データ管理メニューからシステムデータの再作成を選択し、
+データの作成を行ってください。",VOCALOIDデータを受信しています,ダウンロードが完了しました。,,正在接收VOCALOID数据,,MATCH,41,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PUNCTUATION_PRESERVED
+5D726933,64,64,64,1,,page46:tag1:entity69:key0069C6F4:ref64:ord0,VOCALOIDデータを受信しています,ダウンロードが完了しました。,ダウンロードを中断しました。,,下载完成。,,MATCH,42,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,65,65,65,1,,page46:tag1:entity17:key00242594:ref65:ord0,ダウンロードが完了しました。,ダウンロードを中断しました。,"ネットワークから切断されました。
+EXTRASトップメニューに戻ります。",,下载已中断。,,MATCH,42,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_中断_SEMANTICS_PRESERVED
+5D726933,66,66,66,1,,page46:tag1:entity10:key000D8FC7:ref66:ord0,ダウンロードを中断しました。,"ネットワークから切断されました。
+EXTRASトップメニューに戻ります。",ネットワークから切断されました。,,"已断开网络连接。
+正在返回EXTRAS顶部菜单。",,MATCH,94,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,67,67,67,1,,page46:tag1:entity9:key000D8FC6:ref67:ord0,"ネットワークから切断されました。
+EXTRASトップメニューに戻ります。",ネットワークから切断されました。,"このカテゴリの追加コンテンツ数が最大数に達しています。
+データ管理メニューで同じカテゴリのデータを削除してください。",,已断开网络连接。,,MATCH,48,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,68,68,68,1,,page46:tag1:entity136:key00EEFFB4:ref68:ord0,ネットワークから切断されました。,"このカテゴリの追加コンテンツ数が最大数に達しています。
+データ管理メニューで同じカテゴリのデータを削除してください。",タイトルメニューに戻ります。,,"此类别的追加内容数量已达上限。
+请在数据管理菜单中删除同类别的数据。",,MATCH,172,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,69,69,69;127,2,,page46:tag1:entity5:key000858EF:ref69:ord0;page46:tag1:entity91:key008FB17A:ref127:ord0,"このカテゴリの追加コンテンツ数が最大数に達しています。
+データ管理メニューで同じカテゴリのデータを削除してください。",タイトルメニューに戻ります。,SELECT：ヘルプを表示,,返回标题菜单。,,MATCH,42,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,70,70,70,1,,page46:tag1:entity141:key00FD3FD6:ref70:ord0,タイトルメニューに戻ります。,SELECT：ヘルプを表示,再生・停止（音声ファイルのみ）：<I=△>,,SELECT：显示帮助,,MATCH,27,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SELECT_LABEL_PRESERVED
+5D726933,71,71,71,1,,page46:tag1:entity30:key002F478A:ref71:ord0,SELECT：ヘルプを表示,再生・停止（音声ファイルのみ）：<I=△>,情報表示：<I=△>,<I=△>,播放・停止（仅音频文件）：<I=△>,<I=△>,MATCH,55,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D726933,72,72,72,1,,page46:tag1:entity29:key002F4789:ref72:ord0,再生・停止（音声ファイルのみ）：<I=△>,情報表示：<I=△>,選択・非選択切替：<I=□>,<I=△>,显示信息：<I=△>,<I=△>,MATCH,22,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D726933,73,73,73,1,,page46:tag1:entity13:key0014F360:ref73:ord0,情報表示：<I=△>,選択・非選択切替：<I=□>,決定：<I=DEC>,<I=□>,选择・取消选择切换：<I=□>,<I=□>,MATCH,34,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D726933,74,74,74,1,,page46:tag1:entity121:key00C16523:ref74:ord0,選択・非選択切替：<I=□>,決定：<I=DEC>,削除：<I=DEC>,<I=DEC>,确认：<I=DEC>,<I=DEC>,MATCH,16,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D726933,75,75,75,1,,page46:tag1:entity120:key00C16522:ref75:ord0,決定：<I=DEC>,削除：<I=DEC>,中断：<I=CAN>,<I=DEC>,删除：<I=DEC>,<I=DEC>,MATCH,16,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D726933,76,76,76,1,,page46:tag1:entity24:key002B966A:ref76:ord0,削除：<I=DEC>,中断：<I=CAN>,データ変換リクエスト,<I=CAN>,中断：<I=CAN>,<I=CAN>,MATCH,16,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D726933,77,77,77,1,,page46:tag1:entity46:key004573C0:ref77:ord0,中断：<I=CAN>,データ変換リクエスト,変換リクエスト：システム音声,,数据转换请求,,MATCH,30,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,78,78,78,1,,page46:tag1:entity110:key00ACCA20:ref78:ord0,データ変換リクエスト,変換リクエスト：システム音声,システム音声変換リクエスト,,转换请求：系统语音,,MATCH,42,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,79,79,79,1,,page46:tag1:entity74:key0075664F:ref79:ord0,変換リクエスト：システム音声,システム音声変換リクエスト,変換リクエスト：『METAL GEAR ZEKE』用音声,,系统语音转换请求,,MATCH,39,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,80,80,80,1,,page46:tag1:entity113:key00B06B7A:ref80:ord0,システム音声変換リクエスト,変換リクエスト：『METAL GEAR ZEKE』用音声,『METAL GEAR ZEKE』用音声変換リクエスト,,转换请求：『METAL GEAR ZEKE』用语音,,MATCH,54,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,81,81,81,1,,page46:tag1:entity47:key0045835A:ref81:ord0,変換リクエスト：『METAL GEAR ZEKE』用音声,『METAL GEAR ZEKE』用音声変換リクエスト,変換リクエスト：CO-OPS通信,,『METAL GEAR ZEKE』用语音转换请求,,MATCH,51,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,82,82,82,1,,page46:tag1:entity8:key000B2B3B:ref82:ord0,『METAL GEAR ZEKE』用音声変換リクエスト,変換リクエスト：CO-OPS通信,CO-OPS通信変換リクエスト,,转换请求：CO-OPS通信,,MATCH,36,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,83,83,83,1,,page46:tag1:entity50:key00485958:ref83:ord0,変換リクエスト：CO-OPS通信,CO-OPS通信変換リクエスト,変換リクエスト：WALKMAN楽曲,,CO-OPS通信转换请求,,MATCH,33,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,84,84,84,1,,page46:tag1:entity53:key004CBD0E:ref84:ord0,CO-OPS通信変換リクエスト,変換リクエスト：WALKMAN楽曲,WALKMAN楽曲変換リクエスト,,转换请求：WALKMAN歌曲,,MATCH,37,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,85,85,85,1,,page46:tag1:entity130:key00E265E6:ref85:ord0,変換リクエスト：WALKMAN楽曲,WALKMAN楽曲変換リクエスト,変換リクエスト：『METAL GEAR ZEKE』用楽曲,,WALKMAN歌曲转换请求,,MATCH,34,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,86,86,86,1,,page46:tag1:entity62:key005ED092:ref86:ord0,WALKMAN楽曲変換リクエスト,変換リクエスト：『METAL GEAR ZEKE』用楽曲,『METAL GEAR ZEKE』用楽曲変換リクエスト,,转换请求：『METAL GEAR ZEKE』用歌曲,,MATCH,54,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,87,87,87,1,,page46:tag1:entity0:key0002F683:ref87:ord0,変換リクエスト：『METAL GEAR ZEKE』用楽曲,『METAL GEAR ZEKE』用楽曲変換リクエスト,変換済みデータを受信,,『METAL GEAR ZEKE』用歌曲转换请求,,MATCH,51,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_METAL_GEAR_ZEKE_IDENTITY_PRESERVED
+5D726933,88,88,88,1,,page46:tag1:entity16:key001999D7:ref88:ord0,『METAL GEAR ZEKE』用楽曲変換リクエスト,変換済みデータを受信,VOCALOIDエディタ,,接收已转换数据,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,89,89,89,1,,page46:tag1:entity40:key003B4644:ref89:ord0,変換済みデータを受信,VOCALOIDエディタ,トップメニューに戻る,,VOCALOID编辑器,,MATCH,20,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,90,90,90,1,,page46:tag1:entity135:key00E8A4A0:ref90:ord0,VOCALOIDエディタ,トップメニューに戻る,ネットワークメニューに戻る,,返回顶部菜单,,MATCH,30,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,91,91,91,1,,page46:tag1:entity88:key008BD361:ref91:ord0,トップメニューに戻る,ネットワークメニューに戻る,データ管理メニューに戻る,,返回网络菜单,,MATCH,39,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,92,92,92,1,,page46:tag1:entity80:key0080C6BC:ref92:ord0,ネットワークメニューに戻る,データ管理メニューに戻る,ネットワーク,,返回数据管理菜单,,MATCH,36,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,93,93,93,1,,page46:tag1:entity89:key008D9559:ref93:ord0,データ管理メニューに戻る,ネットワーク,NetVOCALOID,,网络,,MATCH,18,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_JAPANESE_MENU_LABEL_TRANSLATED
+5D726933,94,94,94,1,,page46:tag1:entity52:key004B2B6D:ref94:ord0,ネットワーク,NetVOCALOID,利用規約を読む,,NetVOCALOID,,MATCH,11,11,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,95,95,95,1,,page46:tag1:entity34:key0033F654:ref95:ord0,NetVOCALOID,利用規約を読む,パスコード入力,,阅读使用条款,,MATCH,21,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,96,96,96,1,,page46:tag1:entity66:key0066776F:ref96:ord0,利用規約を読む,パスコード入力,ニュース,,输入密码,,MATCH,21,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,97,97,97,1,,page46:tag1:entity31:key0031F923:ref97:ord0,パスコード入力,ニュース,KONAMI ID ポータル,,新闻,,MATCH,12,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,98,98,98,1,,page46:tag1:entity67:key0067496D:ref98:ord0,ニュース,KONAMI ID ポータル,追加コンテンツのダウンロード,,KONAMI ID门户,,MATCH,22,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,99,99,99,1,,page46:tag1:entity79:key007B4474:ref99:ord0,KONAMI ID ポータル,追加コンテンツのダウンロード,?????,,下载追加内容,,MATCH,42,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,100,100,100;125,2,,page46:tag1:entity109:key00AC1F57:ref100:ord0;page46:tag1:entity127:key00D33751:ref125:ord0,追加コンテンツのダウンロード,?????,タイトルメニューに戻る,,?????,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=JPN_IDENTITY_PRESERVED
+5D726933,101,101,101,1,,page46:tag1:entity92:key009127B4:ref101:ord0,?????,タイトルメニューに戻る,システムデータの再作成,,返回标题菜单,,MATCH,33,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,102,102,102,1,,page46:tag1:entity4:key00057131:ref102:ord0,タイトルメニューに戻る,システムデータの再作成,追加コンテンツの管理,,重新创建系统数据,,MATCH,33,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_RECREATE_SEMANTICS_PRESERVED
+5D726933,103,103,103,1,,page46:tag1:entity117:key00BFE5FC:ref103:ord0,システムデータの再作成,追加コンテンツの管理,データ管理,,管理追加内容,,MATCH,30,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,104,104,104,1,,page46:tag1:entity137:key00EFC7F5:ref104:ord0,追加コンテンツの管理,データ管理,VOCALOIDデータを送信します。,,数据管理,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,105,105,105,1,,page46:tag1:entity86:key008A56BF:ref105:ord0,データ管理,VOCALOIDデータを送信します。,"VOCALOIDエディタで作成したシステム音声編集データを
+音声変換サーバに送信します。",,发送VOCALOID数据。,,MATCH,38,23,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,106,106,106,1,,page46:tag1:entity133:key00E6E5F1:ref106:ord0,VOCALOIDデータを送信します。,"VOCALOIDエディタで作成したシステム音声編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成したCO-OPS通信編集データを
+音声変換サーバに送信します。",,"将VOCALOID编辑器创建的系统语音编辑数据
+发送到语音转换服务器。",,MATCH,114,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,107,107,107,1,,page46:tag1:entity48:key0046E31E:ref107:ord0,"VOCALOIDエディタで作成したシステム音声編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成したCO-OPS通信編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成したWALKMAN楽曲編集データを
+音声変換サーバに送信します。",,"将VOCALOID编辑器创建的CO-OPS通信编辑数据
+发送到语音转换服务器。",,MATCH,108,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,108,108,108,1,,page46:tag1:entity56:key0053E589:ref108:ord0,"VOCALOIDエディタで作成したCO-OPS通信編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成したWALKMAN楽曲編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成した『METAL GEAR ZEKE』用楽曲編集データを
+音声変換サーバに送信します。",,"将VOCALOID编辑器创建的WALKMAN歌曲编辑数据
+发送到语音转换服务器。",,MATCH,109,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D726933,109,109,109,1,,page46:tag1:entity61:key005D5A58:ref109:ord0,"VOCALOIDエディタで作成したWALKMAN楽曲編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成した『METAL GEAR ZEKE』用楽曲編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成した『METAL GEAR ZEKE』用音声編集データを
+音声変換サーバに送信します。",,"将VOCALOID编辑器创建的『METAL GEAR ZEKE』用歌曲编辑数据
+发送到语音转换服务器。",,MATCH,126,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_AND_ZEKE_IDENTITY_PRESERVED
+5D726933,110,110,110,1,,page46:tag1:entity33:key0032EAD1:ref110:ord0,"VOCALOIDエディタで作成した『METAL GEAR ZEKE』用楽曲編集データを
+音声変換サーバに送信します。","VOCALOIDエディタで作成した『METAL GEAR ZEKE』用音声編集データを
+音声変換サーバに送信します。",変換したVOCALOIDデータを受信します。,,"将VOCALOID编辑器创建的『METAL GEAR ZEKE』用语音编辑数据
+发送到语音转换服务器。",,MATCH,126,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_AND_ZEKE_IDENTITY_PRESERVED
+5D726933,111,111,111,1,,page46:tag1:entity116:key00B5F9BF:ref111:ord0,"VOCALOIDエディタで作成した『METAL GEAR ZEKE』用音声編集データを
+音声変換サーバに送信します。",変換したVOCALOIDデータを受信します。,VOCALOIDデータを受信します。,,接收转换后的VOCALOID数据。,,MATCH,50,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,112,112,112,1,,page46:tag1:entity54:key00502E83:ref112:ord0,変換したVOCALOIDデータを受信します。,VOCALOIDデータを受信します。,VOCALOIDデータを作成/編集します。,,接收VOCALOID数据。,,MATCH,38,23,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,113,113,113,1,,page46:tag1:entity85:key00897638:ref113:ord0,VOCALOIDデータを受信します。,VOCALOIDデータを作成/編集します。,コンテンツを選択してください。,,创建/编辑VOCALOID数据。,,MATCH,45,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,114,114,114,1,,page46:tag1:entity101:key009A6DFC:ref114:ord0,VOCALOIDデータを作成/編集します。,コンテンツを選択してください。,ダウンロードするコンテンツを選択してください。,,请选择内容。,,MATCH,45,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,115,115,115,1,,page46:tag1:entity58:key0054D36E:ref115:ord0,コンテンツを選択してください。,ダウンロードするコンテンツを選択してください。,EXTRASトップメニューに戻ります。,,请选择要下载的内容。,,MATCH,69,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,116,116,116,1,,page46:tag1:entity87:key008B1620:ref116:ord0,ダウンロードするコンテンツを選択してください。,EXTRASトップメニューに戻ります。,ネットワークメニューに戻ります。,,返回EXTRAS顶部菜单。,,MATCH,45,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,117,117,117,1,,page46:tag1:entity84:key0085FA79:ref117:ord0,EXTRASトップメニューに戻ります。,ネットワークメニューに戻ります。,データ管理メニューに戻ります。,,返回网络菜单。,,MATCH,48,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,118,118,118,1,,page46:tag1:entity78:key007AEDD4:ref118:ord0,ネットワークメニューに戻ります。,データ管理メニューに戻ります。,ネットワークに接続し、追加コンテンツを利用します。,,返回数据管理菜单。,,MATCH,45,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,119,119,119,1,,page46:tag1:entity72:key0070949E:ref119:ord0,データ管理メニューに戻ります。,ネットワークに接続し、追加コンテンツを利用します。,NetVOCALOIDを利用して楽曲の編集、送受信を行います。,,连接网络并使用追加内容。,,MATCH,75,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,120,120,120,1,,page46:tag1:entity11:key001129F7:ref120:ord0,ネットワークに接続し、追加コンテンツを利用します。,NetVOCALOIDを利用して楽曲の編集、送受信を行います。,利用規約を読みます。,,使用NetVOCALOID编辑、发送和接收歌曲。,,MATCH,71,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SEND_RECEIVE_SEMANTICS_PRESERVED
+5D726933,121,121,121,1,,page46:tag1:entity96:key0093DEF0:ref121:ord0,NetVOCALOIDを利用して楽曲の編集、送受信を行います。,利用規約を読みます。,パスコードを入力します。,,阅读使用条款。,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,122,122,122,1,,page46:tag1:entity25:key002C75F9:ref122:ord0,利用規約を読みます。,パスコードを入力します。,ニュースを閲覧します。,,输入密码。,,MATCH,36,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,123,123,123,1,,page46:tag1:entity94:key0091E1BF:ref123:ord0,パスコードを入力します。,ニュースを閲覧します。,追加コンテンツをダウンロードします。,,查看新闻。,,MATCH,33,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,124,124,124,1,,page46:tag1:entity118:key00C02773:ref124:ord0,ニュースを閲覧します。,追加コンテンツをダウンロードします。,?????,,下载追加内容。,,MATCH,54,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,125,126,126,1,,page46:tag1:entity111:key00AFF65F:ref126:ord0,?????,"$1
+$2",タイトルメニューに戻ります。,$1 | $2,"$1
+$2",$1 | $2,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=PARAMETERS_AND_NEWLINE_IDENTITY_PRESERVED
+5D726933,126,128,128,1,,page46:tag1:entity20:key0027D002:ref128:ord0,タイトルメニューに戻ります。,決定ボタンでダウンロードを開始します。,WALKMANデータ（エディット）,,按确认键开始下载。,,MATCH,57,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,127,129,129,1,,page46:tag1:entity75:key00793E08:ref129:ord0,決定ボタンでダウンロードを開始します。,WALKMANデータ（エディット）,WALKMANデータ,,WALKMAN数据（编辑）,,MATCH,37,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,128,130,130,1,,page46:tag1:entity63:key005F5740:ref130:ord0,WALKMANデータ（エディット）,WALKMANデータ,システムデータを再作成します。,,WALKMAN数据,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,129,131,131,1,,page46:tag1:entity82:key008513A2:ref131:ord0,WALKMANデータ,システムデータを再作成します。,追加コンテンツの閲覧/削除/試聴を行います。,,重新创建系统数据。,,MATCH,45,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_RECREATE_SEMANTICS_PRESERVED
+5D726933,130,132,132,1,,page46:tag1:entity3:key0004C8FC:ref132:ord0,システムデータを再作成します。,追加コンテンツの閲覧/削除/試聴を行います。,"『METAL GEAR SOLID PEACE WALKER』の
+データ確認/削除を行います。",,查看/删除/试听追加内容。,,MATCH,62,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_试听_SEMANTICS_PRESERVED
+5D726933,131,133,133,1,,page46:tag1:entity41:key003DF7EA:ref133:ord0,追加コンテンツの閲覧/削除/試聴を行います。,"『METAL GEAR SOLID PEACE WALKER』の
+データ確認/削除を行います。",ダウンロード済,,"确认/删除『METAL GEAR SOLID PEACE WALKER』的
+数据。",,MATCH,79,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_AND_TITLE_IDENTITY_PRESERVED
+5D726933,132,134,134,1,,page46:tag1:entity12:key0014F170:ref134:ord0,"『METAL GEAR SOLID PEACE WALKER』の
+データ確認/削除を行います。",ダウンロード済,このタブで選択されているコンテンツをダウンロードします。よろしいですか？,,已下载,,MATCH,21,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,133,135,135,1,,page46:tag1:entity98:key009453B2:ref135:ord0,ダウンロード済,このタブで選択されているコンテンツをダウンロードします。よろしいですか？,規約に同意しますか？,,确定要下载此选项卡中选择的内容吗？,,MATCH,108,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,134,136,136,1,,page46:tag1:entity68:key0067B892:ref136:ord0,このタブで選択されているコンテンツをダウンロードします。よろしいですか？,規約に同意しますか？,"コンテンツデータを削除しています。
+削除中はメモリースティック<I=TM>を抜く、
+本体の電源を切る、スリープモードの操作を行う、
+といった行為をしないでください。",,同意使用条款吗？,,MATCH,30,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,135,137,137,1,,page46:tag1:entity132:key00E55B98:ref137:ord0,規約に同意しますか？,"コンテンツデータを削除しています。
+削除中はメモリースティック<I=TM>を抜く、
+本体の電源を切る、スリープモードの操作を行う、
+といった行為をしないでください。",このタブで選択されているコンテンツデータを削除します。よろしいですか？,<I=TM>,"正在删除内容数据。
+删除过程中请勿拔出Memory Stick<I=TM>、
+关闭主机电源或执行睡眠模式操作，
+请勿进行此类操作。",<I=TM>,MATCH,228,153,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK_NEWLINES_PRESERVED_AUX_EXTRA_BL_REJECTED
+5D726933,136,138,138,1,,page46:tag1:entity131:key00E55B97:ref138:ord0,"コンテンツデータを削除しています。
+削除中はメモリースティック<I=TM>を抜く、
+本体の電源を切る、スリープモードの操作を行う、
+といった行為をしないでください。",このタブで選択されているコンテンツデータを削除します。よろしいですか？,"選択したコンテンツデータを削除します。
+よろしいですか？
+
+（削除中はメモリースティック<I=TM>を抜く、
+　本体の電源を切る、スリープモードの操作を行う、
+　といった行為をしないでください。）",,确定要删除此选项卡中选择的内容数据吗？,,MATCH,105,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=WEB_TRANSLATED_PENDING_CODEX_CHECK
+5D726933,137,139,139,1,,page46:tag1:entity28:key002F2ADB:ref139:ord0,このタブで選択されているコンテンツデータを削除します。よろしいですか？,"選択したコンテンツデータを削除します。
+よろしいですか？
+
+（削除中はメモリースティック<I=TM>を抜く、
+　本体の電源を切る、スリープモードの操作を行う、
+　といった行為をしないでください。）",PREV,<I=TM>,"将删除所选内容数据。
+确定吗？
+
+（删除过程中请勿拔出Memory Stick<I=TM>、
+　关闭主机电源或进入睡眠模式，
+　请勿进行上述操作。）",<I=TM>,MATCH,272,176,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK_BLANK_LINE_FULLWIDTH_INDENT_AND_NEWLINES_PRESERVED
+5D726933,138,140,140,1,,page46:tag1:entity43:key0041934F:ref140:ord0,"選択したコンテンツデータを削除します。
+よろしいですか？
+
+（削除中はメモリースティック<I=TM>を抜く、
+　本体の電源を切る、スリープモードの操作を行う、
+　といった行為をしないでください。）",PREV,NEXT,,PREV,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED
+5D726933,139,141,141,1,,page46:tag1:entity42:key004061AD:ref141:ord0,PREV,NEXT,CLOSE,,NEXT,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED_AUX_TRANSLATION_REJECTED
+5D726933,140,142,142,1,,page46:tag1:entity64:key005F91EC:ref142:ord0,NEXT,CLOSE,,,CLOSE,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FIXED_ASCII_LABEL_IDENTITY_PRESERVED

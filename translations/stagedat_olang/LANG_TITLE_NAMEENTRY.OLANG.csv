@@ -1,0 +1,17 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+LANG_TITLE_NAMEENTRY.OLANG,0,0,0,1,,page180:tag:entity4:key003A0B2C:ref0:ord0,,この名前でよろしいですか？,"プレイヤーネームを１５文字以内で入力して下さい。
+
+※使用できるのは大文字アルファベット、数字、
+　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",,这个名字可以吗？,,MATCH,39,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_TITLE_NAMEENTRY.OLANG,1,1,1,1,,page180:tag:entity3:key00390B2C:ref1:ord0,この名前でよろしいですか？,"プレイヤーネームを１５文字以内で入力して下さい。
+
+※使用できるのは大文字アルファベット、数字、
+　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",CANCEL,,"请输入15个字符以内的玩家名称。
+
+※只能使用大写英文字母、数字，
+　以及部分符号（!""#$&'()=@[];:,./?_^+-）。",,MATCH,214,144,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=AUXILIARY_OMITS_EXPLICIT_ALLOWED_SYMBOL_LIST; JPN_LIST_PRESERVED
+LANG_TITLE_NAMEENTRY.OLANG,2,2,2,1,,page180:tag:entity2:key001533B6:ref2:ord0,"プレイヤーネームを１５文字以内で入力して下さい。
+
+※使用できるのは大文字アルファベット、数字、
+　および一部の記号（!""#$&'()=@[];:,./?_^+-）となります。",CANCEL,OK,,取消,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1
+LANG_TITLE_NAMEENTRY.OLANG,3,3,3;4,2,,page180:tag:entity1:key001523B6:ref3:ord0;page180:tag:entity0:key001513B6:ref4:ord0,CANCEL,OK,,,确定,,MATCH,2,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=2

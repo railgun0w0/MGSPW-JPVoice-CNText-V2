@@ -1,0 +1,161 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+00CB1FB7,0,4,4,1,,page:tag:entity2:key00511DE8:ref4:ord4,,Xbox LIVE パーティー セッションへの招待,Xbox LIVE パーティー セッションへの招待：,,Xbox LIVE派对会话邀请,,MATCH,53,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_UI_LABEL_LOCALIZED; AUX_ENGLISH_ONLY
+00CB1FB7,1,10,10,1,,page:tag:entity1:key002DAA9F:ref10:ord4,Xbox LIVE パーティー セッションへの招待,Xbox LIVE パーティー セッションへの招待：,フレンド招待,,Xbox LIVE派对会话邀请：,,MATCH,56,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_UI_LABEL_LOCALIZED; AUX_ENGLISH_ONLY
+00CB1FB7,2,16,16,1,,page:tag:entity3:key005CE75E:ref16:ord4,Xbox LIVE パーティー セッションへの招待：,フレンド招待,フレンド招待：,,邀请好友,,MATCH,18,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_UI_LABEL_LOCALIZED; AUX_ENGLISH_ONLY
+00CB1FB7,3,22,22,1,,page:tag:entity6:key00C096B6:ref22:ord4,フレンド招待,フレンド招待：,"ルームが満員のため
+参加することができませんでした。",,邀请好友：,,MATCH,21,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,4,28,28,1,,page:tag:entity4:key006D3626:ref28:ord4,フレンド招待：,"ルームが満員のため
+参加することができませんでした。","HOSTに接続できなかったため、
+参加することができませんでした。",,房间已满，无法加入游戏。,,MATCH,76,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,5,34,34,1,,page:tag:entity0:key0009DCB2:ref34:ord4,"ルームが満員のため
+参加することができませんでした。","HOSTに接続できなかったため、
+参加することができませんでした。","接続に失敗したため、
+参加することができませんでした。",,无法连接到HOST，因此无法加入游戏。,,MATCH,89,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,6,40,40,1,,page:tag:entity5:key007927DC:ref40:ord4,"HOSTに接続できなかったため、
+参加することができませんでした。","接続に失敗したため、
+参加することができませんでした。",PRIVATE,,连接失败，因此无法加入游戏。,,MATCH,79,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,7,46,46;274,2,,page:tag:entity86:key00B86524:ref46:ord4;page:tag:entity87:key00BC236D:ref274:ord4,"接続に失敗したため、
+参加することができませんでした。",PRIVATE,GLOBAL,,私人,,MATCH,7,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+00CB1FB7,8,52,52;454,2,,page:tag:entity69:key0080FB5B:ref52:ord4;page:tag:entity104:key00E890FE:ref454:ord4,PRIVATE,GLOBAL,FRIENDS ONLY,,全球,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+00CB1FB7,9,58,58;472,2,,page:tag:entity106:key00ECC746:ref58:ord4;page:tag:entity68:key008067D6:ref472:ord4,GLOBAL,FRIENDS ONLY,DOMESTIC,,仅限好友,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+00CB1FB7,10,64,64;526,2,,page:tag:entity99:key00E24599:ref64:ord4;page:tag:entity66:key007D0DC1:ref526:ord4,FRIENDS ONLY,DOMESTIC,$1,,国内,,MATCH,8,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+00CB1FB7,11,70,70,1,,page:tag:entity41:key004CBC79:ref70:ord4,DOMESTIC,$1,5以下,$1,$1,$1,MATCH,2,2,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=CONTROL_$1_PRESERVED
+00CB1FB7,12,76,76,1,,page:tag:entity51:key0063E9F5:ref76:ord4,$1,5以下,4以下,,5以下,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,13,82,82,1,,page:tag:entity50:key0063E9F4:ref82:ord4,5以下,4以下,3以下,,4以下,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,14,88,88,1,,page:tag:entity49:key0063E9F3:ref88:ord4,4以下,3以下,2以下,,3以下,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,15,94,94,1,,page:tag:entity48:key0063E9F2:ref94:ord4,3以下,2以下,1以下,,2以下,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,16,100,100,1,,page:tag:entity47:key0063E9F1:ref100:ord4,2以下,1以下,検索タイプ,,1以下,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,17,106,106;478,2,,page:tag:entity83:key009BE6CD:ref106:ord4;page:tag:entity46:key0063CA53:ref478:ord4,1以下,検索タイプ,ミッションタイプ,,搜索类型,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+00CB1FB7,18,112,112,1,,page:tag:entity54:key006BAE09:ref112:ord4,検索タイプ,ミッションタイプ,マッチングタイプ,,任务类型,,MATCH,24,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,19,118,118,1,,page:tag:entity20:key002232A5:ref118:ord4,ミッションタイプ,マッチングタイプ,ストーリー進行度,,匹配类型,,MATCH,24,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,20,124,124,1,,page:tag:entity52:key00677B73:ref124:ord4,マッチングタイプ,ストーリー進行度,募集タイプ,,剧情进度,,MATCH,24,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,21,130,130,1,,page:tag:entity93:key00D0A2E0:ref130:ord4,ストーリー進行度,募集タイプ,難易度,,招募类型,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,22,136,136,1,,page:tag:entity13:key0013E3A7:ref136:ord4,募集タイプ,難易度,チャンネル,,难度,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,23,142,142,1,,page:tag:entity9:key0005B01A:ref142:ord4,難易度,チャンネル,通常,,频道,,MATCH,15,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,24,148,148,1,,page:tag:entity10:key0005BC0B:ref148:ord4,チャンネル,通常,難易度5以下,,标准,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,25,154,154,1,,page:tag:entity34:key003838D3:ref154:ord4,通常,難易度5以下,難易度4以下,,难度5以下,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,26,160,160,1,,page:tag:entity33:key003838D2:ref160:ord4,難易度5以下,難易度4以下,難易度3以下,,难度4以下,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,27,166,166,1,,page:tag:entity32:key003838D1:ref166:ord4,難易度4以下,難易度3以下,難易度2以下,,难度3以下,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,28,172,172,1,,page:tag:entity31:key003838D0:ref172:ord4,難易度3以下,難易度2以下,難易度1,,难度2以下,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,29,178,178;640,2,,page:tag:entity30:key003838CF:ref178:ord4;page:tag:entity107:key00F3ECAC:ref640:ord4,難易度2以下,難易度1,難易度5,,难度1,,MATCH,10,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+00CB1FB7,30,188,188;616,2,,page:tag:entity63:key0072772F:ref188:ord8;page:tag:entity111:key00F3ECB0:ref616:ord4,難易度1,難易度5,難易度5以上,,难度5,,MATCH,10,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2; review_flag=AUX_VARIANTS_CONFLICT_WITH_JPN; JPN_IS_EXACT_DIFFICULTY_5
+00CB1FB7,31,189,189,1,,page:tag:entity63:key0072772F:ref189:ord9,難易度5,難易度5以上,難易度4以上,,难度5以上,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,32,196,196,1,,page:tag:entity62:key0072772E:ref196:ord4,難易度5以上,難易度4以上,難易度3以上,,难度4以上,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,33,202,202,1,,page:tag:entity61:key0072772D:ref202:ord4,難易度4以上,難易度3以上,難易度2以上,,难度3以上,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,34,208,208,1,,page:tag:entity60:key0072772C:ref208:ord4,難易度3以上,難易度2以上,難易度1以上,,难度2以上,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,35,214,214,1,,page:tag:entity59:key0072772B:ref214:ord4,難易度2以上,難易度1以上,指定されたチャンネルにルームを作成します。,,难度1以上,,MATCH,16,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,36,220,220,1,,page:tag:entity88:key00BCE56F:ref220:ord4,難易度1以上,指定されたチャンネルにルームを作成します。,指定されたチャンネルにいるHOSTをサーチします。,,在指定频道内创建房间。,,MATCH,63,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,37,226,226,1,,page:tag:entity91:key00CBEF27:ref226:ord4,指定されたチャンネルにルームを作成します。,指定されたチャンネルにいるHOSTをサーチします。,チャンネルを自動で決定し、そのチャンネルにルームを作成します。,,在指定频道内搜索HOST。,,MATCH,67,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,38,232,232,1,,page:tag:entity89:key00C05F90:ref232:ord4,指定されたチャンネルにいるHOSTをサーチします。,チャンネルを自動で決定し、そのチャンネルにルームを作成します。,チャンネルを自動で決定し、そのチャンネルにいるHOSTをサーチします。,,自动选择频道，并在该频道内创建房间。,,MATCH,93,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,39,238,238,1,,page:tag:entity11:key00100F97:ref238:ord4,チャンネルを自動で決定し、そのチャンネルにルームを作成します。,チャンネルを自動で決定し、そのチャンネルにいるHOSTをサーチします。,SEARCH,,自动选择频道，并在该频道内搜索HOST。,,MATCH,97,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,40,244,244,1,,page:tag:entity58:key0071D152:ref244:ord4,チャンネルを自動で決定し、そのチャンネルにいるHOSTをサーチします。,SEARCH,"ネットワークを通じて世界中からCO-OPSの参加者を募集できます。
+募集タイプを指定してください。",,搜索,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,41,250,250,1,,page:tag:entity85:key00AC71D5:ref250:ord4,SEARCH,"ネットワークを通じて世界中からCO-OPSの参加者を募集できます。
+募集タイプを指定してください。",クイック マッチ,,"可通过网络从世界各地招募CO-OPS参与者。
+请选择招募类型。",,MATCH,133,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH; JPN_TRANSLATED_DIRECTLY
+00CB1FB7,42,256,256,1,,page:tag:entity36:key003BACB0:ref256:ord4,"ネットワークを通じて世界中からCO-OPSの参加者を募集できます。
+募集タイプを指定してください。",クイック マッチ,招待でのみ参加可能なルームを作成します。,,快速匹配,,MATCH,22,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,43,268,268,1,,page:tag:entity100:key00E4A86B:ref268:ord4,クイック マッチ,招待でのみ参加可能なルームを作成します。,PRIVATE,,创建一个只能通过邀请加入的房间。,,MATCH,60,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,44,280,280,1,,page:tag:entity79:key0083D4B8:ref280:ord4,PRIVATE,5以上,4以上,,5以上,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,45,286,286,1,,page:tag:entity78:key0083D4B7:ref286:ord4,5以上,4以上,3以上,,4以上,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,46,292,292,1,,page:tag:entity77:key0083D4B6:ref292:ord4,4以上,3以上,2以上,,3以上,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,47,298,298,1,,page:tag:entity76:key0083D4B5:ref298:ord4,3以上,2以上,1以上,,2以上,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,48,304,304,1,,page:tag:entity75:key0083D4B4:ref304:ord4,2以上,1以上,オンラインメニュー：,,1以上,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,49,310,310,1,,page:tag:entity26:key0025FB6B:ref310:ord4,1以上,オンラインメニュー：,自分のストーリー進行度より進んでいるミッションも検索対象にします。,,在线菜单：,,MATCH,30,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,50,316,316,1,,page:tag:entity67:key007E9903:ref316:ord4,オンラインメニュー：,自分のストーリー進行度より進んでいるミッションも検索対象にします。,制限しない,,搜索范围包含剧情进度尚未到达的任务。,,MATCH,99,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,51,322,322,1,,page:tag:entity103:key00E841F6:ref322:ord4,自分のストーリー進行度より進んでいるミッションも検索対象にします。,制限しない,"サーチしています。
+<I=CAN>でキャンセルできます。",,不限制,,MATCH,15,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,52,328,328,1,,page:tag:entity81:key008F6FD7:ref328:ord4,制限しない,"サーチしています。
+<I=CAN>でキャンセルできます。","HOSTが見つかりませんでした。
+検索条件を変更するか、時間を置いてから再度検索してください。",<I=CAN>,"正在搜索。
+按<I=CAN>可取消。",<I=CAN>,MATCH,68,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=CONTROL_<I=CAN>_PRESERVED
+00CB1FB7,53,334,334,1,,page:tag:entity90:key00C81E47:ref334:ord4,"サーチしています。
+<I=CAN>でキャンセルできます。","HOSTが見つかりませんでした。
+検索条件を変更するか、時間を置いてから再度検索してください。","HOSTが見つかりませんでした。
+検索条件を変更したり、時間を置いてから再度実行してください。",,"未找到HOST。
+请更改搜索条件，或稍后再次搜索。",,MATCH,131,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,54,340,340,1,,page:tag:entity38:key0042AB9E:ref340:ord4,"HOSTが見つかりませんでした。
+検索条件を変更するか、時間を置いてから再度検索してください。","HOSTが見つかりませんでした。
+検索条件を変更したり、時間を置いてから再度実行してください。",オンラインでプレイするにはゲーマー プロフィールにサインインする必要があります。,,"未找到HOST。
+请更改搜索条件或稍后重试。",,MATCH,131,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,55,346,346,1,,page:tag:entity74:key0083978C:ref346:ord4,"HOSTが見つかりませんでした。
+検索条件を変更したり、時間を置いてから再度実行してください。",オンラインでプレイするにはゲーマー プロフィールにサインインする必要があります。,"オンラインでプレイするにはXbox LIVEに
+サインインする必要があります。
+Xbox LIVEに接続してください。",,要进行在线游戏，必须登录玩家档案。,,MATCH,118,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH; JPN_TRANSLATED_DIRECTLY
+00CB1FB7,56,352,352,1,,page:tag:entity94:key00D16BE3:ref352:ord4,オンラインでプレイするにはゲーマー プロフィールにサインインする必要があります。,"オンラインでプレイするにはXbox LIVEに
+サインインする必要があります。
+Xbox LIVEに接続してください。","使用中のゲーマー プロフィールは、
+オンラインマルチプレイを許可されていません。 ",,"要进行在线游戏，必须登录Xbox LIVE。
+请连接到Xbox LIVE。",,MATCH,137,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH; JPN_TRANSLATED_DIRECTLY
+00CB1FB7,57,358,358,1,,page:tag:entity114:key00F6831D:ref358:ord4,"オンラインでプレイするにはXbox LIVEに
+サインインする必要があります。
+Xbox LIVEに接続してください。","使用中のゲーマー プロフィールは、
+オンラインマルチプレイを許可されていません。 ","現在のゲーマー プロフィールではXbox LIVEに接続できません。
+Xbox LIVEへの加入を行ってください。",,当前玩家档案不允许进行在线多人游戏。,,MATCH,117,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH; JPN_TRANSLATED_DIRECTLY
+00CB1FB7,58,364,364,1,,page:tag:entity84:key00A210CD:ref364:ord4,"使用中のゲーマー プロフィールは、
+オンラインマルチプレイを許可されていません。 ","現在のゲーマー プロフィールではXbox LIVEに接続できません。
+Xbox LIVEへの加入を行ってください。",HOSTをサーチし検索した一覧を表示します。,,"当前玩家档案无法连接Xbox LIVE。
+请加入Xbox LIVE。",,MATCH,131,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH; JPN_TRANSLATED_DIRECTLY
+00CB1FB7,59,370,370,1,,page:tag:entity14:key0013E714:ref370:ord4,"現在のゲーマー プロフィールではXbox LIVEに接続できません。
+Xbox LIVEへの加入を行ってください。",HOSTをサーチし検索した一覧を表示します。,検索条件を指定せず、マッチングが可能なHOSTと直接マッチングします。,,搜索HOST并显示搜索结果列表。,,MATCH,58,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,60,376,376,1,,page:tag:entity55:key006E3CCD:ref376:ord4,HOSTをサーチし検索した一覧を表示します。,検索条件を指定せず、マッチングが可能なHOSTと直接マッチングします。,MAIN OPSを対象にしてサーチします。,,不指定搜索条件，直接与可匹配的HOST进行匹配。,,MATCH,97,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,61,382,382,1,,page:tag:entity97:key00D6829C:ref382:ord4,検索条件を指定せず、マッチングが可能なHOSTと直接マッチングします。,MAIN OPSを対象にしてサーチします。,MAIN OPS,,仅搜索MAIN OPS。,,MATCH,47,20,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,62,388,388,1,,page:tag:entity12:key00133F2A:ref388:ord4,MAIN OPSを対象にしてサーチします。,MAIN OPS,自分のストーリー進行度より進んでいるミッションを検索対象から外します。,,MAIN OPS,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,63,394,394,1,,page:tag:entity53:key006A7513:ref394:ord4,MAIN OPS,自分のストーリー進行度より進んでいるミッションを検索対象から外します。,制限する,,不搜索剧情进度尚未到达的任务。,,MATCH,105,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,64,400,400,1,,page:tag:entity102:key00E5BD78:ref400:ord4,自分のストーリー進行度より進んでいるミッションを検索対象から外します。,制限する,Xbox LIVE パーティー セッションに参加,,限制,,MATCH,12,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,65,406,406,1,,page:tag:entity44:key0057C8CA:ref406:ord4,制限する,Xbox LIVE パーティー セッションに参加,Xbox LIVE パーティー セッションに参加：,,加入Xbox LIVE派对会话,,MATCH,50,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,66,412,412,1,,page:tag:entity73:key00836EAC:ref412:ord4,Xbox LIVE パーティー セッションに参加,Xbox LIVE パーティー セッションに参加：,フレンドセッションに参加,,加入Xbox LIVE派对会话：,,MATCH,53,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,67,418,418,1,,page:tag:entity43:key0053F9A9:ref418:ord4,Xbox LIVE パーティー セッションに参加：,フレンドセッションに参加,フレンドセッションに参加：,,加入好友会话,,MATCH,36,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,68,424,424,1,,page:tag:entity101:key00E52CA4:ref424:ord4,フレンドセッションに参加,フレンドセッションに参加：,招待画面の起動,,加入好友会话：,,MATCH,39,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,69,430,430,1,,page:tag:entity98:key00DE719D:ref430:ord4,フレンドセッションに参加：,招待画面の起動,招待画面の起動：,,打开邀请画面,,MATCH,21,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,70,436,436,1,,page:tag:entity95:key00D515B9:ref436:ord4,招待画面の起動,招待画面の起動：,世界中のHOSTをサーチします。,,打开邀请画面：,,MATCH,24,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,71,442,442,1,,page:tag:entity70:key00811143:ref442:ord4,招待画面の起動：,世界中のHOSTをサーチします。,世界中から参加者を募集します。,,搜索世界各地的HOST。,,MATCH,40,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,72,448,448,1,,page:tag:entity28:key0028FFF4:ref448:ord4,世界中のHOSTをサーチします。,世界中から参加者を募集します。,GLOBAL,,从世界各地招募参与者。,,MATCH,45,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,73,460,460,1,,page:tag:entity37:key003FC800:ref460:ord4,GLOBAL,自分のフレンドだけを対象にしてサーチします。,参加者をフレンドに限定して募集します。,,仅搜索好友中的HOST。,,MATCH,66,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_SAYS_OWN_FRIENDS_ONLY; HOST_MADE_EXPLICIT_FROM_SEARCH_CONTEXT
+00CB1FB7,74,466,466,1,,page:tag:entity7:key000097CB:ref466:ord4,自分のフレンドだけを対象にしてサーチします。,参加者をフレンドに限定して募集します。,FRIENDS ONLY,,仅从好友中招募参与者。,,MATCH,57,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,75,484,484,1,,page:tag:entity72:key008188D5:ref484:ord4,検索タイプ,検索条件を指定してください。SEARCHを選択すると検索を開始します。,検索条件,,请选择搜索条件。选择“SEARCH”后开始搜索。,,MATCH,93,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,76,490,490,1,,page:tag:entity57:key00717257:ref490:ord4,検索条件を指定してください。SEARCHを選択すると検索を開始します。,検索条件,仲間の募集に失敗しました。,,搜索条件,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,77,496,496,1,,page:tag:entity64:key0073571B:ref496:ord4,検索条件,仲間の募集に失敗しました。,EXTRA OPSを対象にサーチします。,,招募成员失败。,,MATCH,39,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,78,502,502,1,,page:tag:entity71:key00816928:ref502:ord4,仲間の募集に失敗しました。,EXTRA OPSを対象にサーチします。,EXTRA OPS,,仅搜索EXTRA OPS。,,MATCH,42,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,79,508,508,1,,page:tag:entity80:key00889BFB:ref508:ord4,EXTRA OPSを対象にサーチします。,EXTRA OPS,国内のHOSTに限定してサーチします。,,EXTRA OPS,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,80,514,514,1,,page:tag:entity24:key0024F758:ref514:ord4,EXTRA OPS,国内のHOSTに限定してサーチします。,参加者を国内に限定して募集します。,,仅搜索国内HOST。,,MATCH,49,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,81,520,520,1,,page:tag:entity105:key00EB9470:ref520:ord4,国内のHOSTに限定してサーチします。,参加者を国内に限定して募集します。,DOMESTIC,,仅从国内招募参与者。,,MATCH,51,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,82,532,532,1,,page:tag:entity29:key00335883:ref532:ord4,DOMESTIC,MISSION MENU：,GAMER CARD：,,任务菜单：,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,83,538,538,1,,page:tag:entity92:key00CD6204:ref538:ord4,MISSION MENU：,GAMER CARD：,全ての難易度のミッションを検索対象にします。,,玩家卡：,,MATCH,13,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,84,544,544,1,,page:tag:entity65:key00749784:ref544:ord4,GAMER CARD：,全ての難易度のミッションを検索対象にします。,難易度1のミッションを検索対象にします。,,搜索所有难度的任务。,,MATCH,66,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,85,550,550;556;604,3,,page:tag:entity27:key0026F703:ref550:ord4;page:tag:entity25:key0025F703:ref556:ord4;page:tag:entity17:key001FF703:ref604:ord4,全ての難易度のミッションを検索対象にします。,難易度1のミッションを検索対象にします。,難易度6のミッションを検索対象にします。,,搜索难度1的任务。,,MATCH,58,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=3
+00CB1FB7,86,562,562,1,,page:tag:entity23:key0024F703:ref562:ord4,難易度1のミッションを検索対象にします。,難易度6のミッションを検索対象にします。,難易度5のミッションを検索対象にします。,,搜索难度6的任务。,,MATCH,58,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,87,568,568,1,,page:tag:entity22:key0023F703:ref568:ord4,難易度6のミッションを検索対象にします。,難易度5のミッションを検索対象にします。,難易度4以上のミッションを検索対象にします。,,搜索难度5的任务。,,MATCH,58,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,88,574,574,1,,page:tag:entity45:key005ECEFE:ref574:ord4,難易度5のミッションを検索対象にします。,難易度4以上のミッションを検索対象にします。,難易度4のミッションを検索対象にします。,,搜索难度4以上的任务。,,MATCH,64,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,89,580,580,1,,page:tag:entity21:key0022F703:ref580:ord4,難易度4以上のミッションを検索対象にします。,難易度4のミッションを検索対象にします。,難易度3以下のミッションを検索対象にします。,,搜索难度4的任务。,,MATCH,58,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,90,586,586,1,,page:tag:entity113:key00F5DA7D:ref586:ord4,難易度4のミッションを検索対象にします。,難易度3以下のミッションを検索対象にします。,難易度3のミッションを検索対象にします。,,搜索难度3以下的任务。,,MATCH,64,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,91,592,592,1,,page:tag:entity19:key0021F703:ref592:ord4,難易度3以下のミッションを検索対象にします。,難易度3のミッションを検索対象にします。,難易度2のミッションを検索対象にします。,,搜索难度3的任务。,,MATCH,58,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,92,598,598,1,,page:tag:entity18:key0020F703:ref598:ord4,難易度3のミッションを検索対象にします。,難易度2のミッションを検索対象にします。,難易度1のミッションを検索対象にします。,,搜索难度2的任务。,,MATCH,58,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,93,610,610,1,,page:tag:entity112:key00F3ECB1:ref610:ord4,難易度1のミッションを検索対象にします。,難易度6,難易度5,,难度6,,MATCH,10,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,94,622,622,1,,page:tag:entity110:key00F3ECAF:ref622:ord4,難易度5,難易度4,難易度3,,难度4,,MATCH,10,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,95,628,628,1,,page:tag:entity109:key00F3ECAE:ref628:ord4,難易度4,難易度3,難易度2,,难度3,,MATCH,10,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,96,634,634,1,,page:tag:entity108:key00F3ECAD:ref634:ord4,難易度3,難易度2,難易度1,,难度2,,MATCH,10,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,97,646,646,1,,page:tag:entity39:key00438F50:ref646:ord4,難易度1,CREATE,"HOSTが『START MISSION』を選択するとカウントダウンが始まり、
+カウントが0になると、自動的にミッションが開始されます。
+また、参加者全員が『START MISSION』を選択してもミッションは開始されます。
+この間、新たな参加者は入れません。",,创建,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,98,652,652,1,,page:tag:entity15:key0014836B:ref652:ord4,CREATE,"HOSTが『START MISSION』を選択するとカウントダウンが始まり、
+カウントが0になると、自動的にミッションが開始されます。
+また、参加者全員が『START MISSION』を選択してもミッションは開始されます。
+この間、新たな参加者は入れません。",カウントが0になると自動的にゲームが開始されます,,"HOST选择“START MISSION”后开始倒计时，倒计时归零时任务自动开始。
+如果所有参与者都选择“START MISSION”，任务也会开始。
+在此期间无法有新的参与者加入。",,MATCH,319,209,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=START_MISSION_LITERAL_UI_TERM_PRESERVED
+00CB1FB7,99,658,658,1,,page:tag:entity35:key0039C038:ref658:ord4,"HOSTが『START MISSION』を選択するとカウントダウンが始まり、
+カウントが0になると、自動的にミッションが開始されます。
+また、参加者全員が『START MISSION』を選択してもミッションは開始されます。
+この間、新たな参加者は入れません。",カウントが0になると自動的にゲームが開始されます,メッセージの確認,,倒计时归零后游戏将自动开始。,,MATCH,70,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,100,664,664,1,,page:tag:entity82:key009BADE1:ref664:ord4,カウントが0になると自動的にゲームが開始されます,メッセージの確認,メッセージの確認：,,查看消息,,MATCH,24,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,101,670,670,1,,page:tag:entity42:key004D9D34:ref670:ord4,メッセージの確認,メッセージの確認：,"CO-OPS参加者がいなくなりました。
+このままSINGLEプレイを開始しますか？",,查看消息：,,MATCH,27,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,102,676,676,1,,page:tag:entity96:key00D5F0EC:ref676:ord4,メッセージの確認：,"CO-OPS参加者がいなくなりました。
+このままSINGLEプレイを開始しますか？",ランダム,,"CO-OPS参与者已全部离开。
+要开始单人游戏吗？",,MATCH,97,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=SINGLE_LOCALIZED_AS_单人游戏
+00CB1FB7,103,682,682,1,,page:tag:entity56:key0070F26B:ref682:ord4,"CO-OPS参加者がいなくなりました。
+このままSINGLEプレイを開始しますか？",ランダム,全てのミッションを対象にしてサーチします。,,随机,,MATCH,12,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,104,688,688,1,,page:tag:entity40:key0044F7AC:ref688:ord4,ランダム,全てのミッションを対象にしてサーチします。,ALL,,搜索所有任务。,,MATCH,63,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00CB1FB7,105,694,694,1,,page:tag:entity8:key00010DCC:ref694:ord4,全てのミッションを対象にしてサーチします。,ALL,,,全部,,MATCH,3,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1

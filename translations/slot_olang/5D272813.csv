@@ -1,0 +1,80 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D272813,0,0,0,1,,page76:tag5:entity1:key00F29383:ref0:ord0,,注視点の、上、下の操作方法を設定します,カメラボタン,,设置视点上下方向的操作方式,,MATCH,57,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_VIEWPOINT_UP_DOWN_SETUP_SEMANTICS_PRESERVED; NO_TERMINAL_PUNCTUATION_ADDED
+5D272813,1,1,1;11,2,,page76:tag5:entity0:key00F19383:ref1:ord0;page76:tag5:entity10:key00F19383:ref11:ord0,注視点の、上、下の操作方法を設定します,カメラボタン,"これでよければ、アクションボタンを押してください
+△ボタン：上を見る
+×ボタン：下を見る",,镜头按钮,,MATCH,18,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=JPN_CAMERA_BUTTON_LABEL_LOCALIZED; NO_TERMINAL_PUNCTUATION_ADDED
+5D272813,2,2,2,1,,page76:tag5:entity3:key00F29383:ref2:ord0,カメラボタン,"これでよければ、アクションボタンを押してください
+△ボタン：上を見る
+×ボタン：下を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+△按钮：向上看
+×按钮：向下看",,MATCH,127,85,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_LITERAL_TRIANGLE_CROSS_BUTTON_GLYPHS_PRESERVED; AUX_ADDED_I_CONTROLS_AND_SPACES_BEFORE_NEWLINES_REJECTED
+5D272813,3,3,3;5;7;9;13;15;17;19,8,,page76:tag5:entity2:key00F19383:ref3:ord0;page76:tag5:entity4:key00F19383:ref5:ord0;page76:tag5:entity6:key00F19383:ref7:ord0;page76:tag5:entity8:key00F19383:ref9:ord0;page76:tag5:entity12:key00F19383:ref13:ord0;page76:tag5:entity14:key00F19383:ref15:ord0;page76:tag5:entity16:key00F19383:ref17:ord0;page76:tag5:entity18:key00F19383:ref19:ord0,"これでよければ、アクションボタンを押してください
+△ボタン：上を見る
+×ボタン：下を見る",アクションボタン,"これでよければ、アクションボタンを押してください
+△ボタン：下を見る
+×ボタン：上を見る",,动作按钮,,MATCH,24,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8; review_flag=JPN_ACTION_BUTTON_LABEL_LOCALIZED
+5D272813,4,4,4,1,,page76:tag5:entity5:key00F29383:ref4:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+△ボタン：下を見る
+×ボタン：上を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+△按钮：向下看
+×按钮：向上看",,MATCH,127,85,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_LITERAL_TRIANGLE_CROSS_BUTTON_GLYPHS_PRESERVED; INVERTED_UP_DOWN_ASSIGNMENT_FOLLOWS_JPN; AUX_ADDED_I_CONTROLS_REJECTED
+5D272813,5,6,6,1,,page76:tag5:entity7:key00F29383:ref6:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー上：上を見る
+方向キー下：下を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+方向键上：向上看
+方向键下：向下看",,MATCH,134,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_DIRECTION_KEY_UP_DOWN_LABELS_PRESERVED; AUX_PARAPHRASE_ONLY
+5D272813,6,8,8,1,,page76:tag5:entity9:key00F29383:ref8:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー上：下を見る
+方向キー下：上を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+方向键上：向下看
+方向键下：向上看",,MATCH,134,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_DIRECTION_KEY_UP_DOWN_LABELS_PRESERVED; INVERTED_ASSIGNMENT_FOLLOWS_JPN
+5D272813,7,10,10,1,,page76:tag5:entity11:key00F29383:ref10:ord0,アクションボタン,注視点の、左、右の操作方法を設定します,カメラボタン,,设置视点左右方向的操作方式,,MATCH,57,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_VIEWPOINT_LEFT_RIGHT_SETUP_SEMANTICS_PRESERVED; NO_TERMINAL_PUNCTUATION_ADDED
+5D272813,8,12,12,1,,page76:tag5:entity13:key00F29383:ref12:ord0,カメラボタン,"これでよければ、アクションボタンを押してください
+□ボタン：左を見る
+○ボタン：右を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+□按钮：向左看
+○按钮：向右看",,MATCH,128,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_LITERAL_SQUARE_CIRCLE_BUTTON_GLYPHS_PRESERVED; AUX_ADDED_I_CONTROLS_REJECTED
+5D272813,9,14,14,1,,page76:tag5:entity15:key00F29383:ref14:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+□ボタン：右を見る
+○ボタン：左を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+□按钮：向右看
+○按钮：向左看",,MATCH,128,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_LITERAL_SQUARE_CIRCLE_BUTTON_GLYPHS_PRESERVED; INVERTED_LEFT_RIGHT_ASSIGNMENT_FOLLOWS_JPN; AUX_ADDED_I_CONTROLS_REJECTED
+5D272813,10,16,16,1,,page76:tag5:entity17:key00F29383:ref16:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー左：左を見る
+方向キー右：右を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+方向键左：向左看
+方向键右：向右看",,MATCH,134,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_DIRECTION_KEY_LEFT_RIGHT_LABELS_PRESERVED
+5D272813,11,18,18,1,,page76:tag5:entity19:key00F29383:ref18:ord0,アクションボタン,"これでよければ、アクションボタンを押してください
+方向キー左：右を見る
+方向キー右：左を見る",アクションボタン,,"如果这样可以，请按下动作按钮
+方向键左：向右看
+方向键右：向左看",,MATCH,134,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_NEWLINES_AND_DIRECTION_KEY_LEFT_RIGHT_LABELS_PRESERVED; INVERTED_ASSIGNMENT_FOLLOWS_JPN
+5D272813,12,20,20;22;30;32;42;43,6,,page76:tag5:entity21:key00F29383:ref20:ord0;page76:tag5:entity23:key00F29383:ref22:ord0;page76:tag5:entity31:key00F29383:ref30:ord0;page76:tag5:entity33:key00F29383:ref32:ord0;page76:tag5:entity43:key00F29383:ref42:ord0;page76:tag5:entity42:key00F19383:ref43:ord0,アクションボタン,　　　　　,しゃがみボタン,,　　　　　,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6; review_flag=JPN_EXACT_FIVE_IDEOGRAPHIC_SPACE_PLACEHOLDER_PRESERVED; AUX_EMPTY_REJECTED
+5D272813,13,21,21,1,,page76:tag5:entity20:key00F19383:ref21:ord0,　　　　　,しゃがみボタン,　　　　　,,蹲伏按钮,,MATCH,21,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_CROUCH_BUTTON_LABEL_LOCALIZED
+5D272813,14,23,23;39,2,,page76:tag5:entity22:key00F19383:ref23:ord0;page76:tag5:entity38:key00F19383:ref39:ord0,　　　　　,アナログパッド,"相手が離れていて、
+走っている時",,模拟摇杆,,MATCH,21,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=JPN_ANALOG_PAD_LABEL_LOCALIZED
+5D272813,15,24,24;26,2,,page76:tag5:entity25:key00F29383:ref24:ord0;page76:tag5:entity27:key00F29383:ref26:ord0,アナログパッド,"相手が離れていて、
+走っている時",アナログパッド + 攻撃ボタン（ちょい押し）,,"当对方距离较远，
+且正在奔跑时",,MATCH,46,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=JPN_SINGLE_EMBEDDED_NEWLINE_PRESERVED; DISTANT_OPPONENT_AND_RUNNING_CONTEXT_PRESERVED
+5D272813,16,25,25,1,,page76:tag5:entity24:key00F19383:ref25:ord0,"相手が離れていて、
+走っている時",アナログパッド + 攻撃ボタン（ちょい押し）,"相手が離れていて、
+走っている時",,模拟摇杆 + 攻击按钮（轻按）,,MATCH,60,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACES_AROUND_PLUS_AND_FULLWIDTH_PARENTHESES_PRESERVED; TAP_SEMANTICS_PRESERVED
+5D272813,17,27,27,1,,page76:tag5:entity26:key00F19383:ref27:ord0,"相手が離れていて、
+走っている時",アナログパッド + しゃがみボタン,攻撃ボタン,,模拟摇杆 + 蹲伏按钮,,MATCH,45,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACES_AROUND_PLUS_PRESERVED; CROUCH_COMBINATION_SEMANTICS_PRESERVED
+5D272813,18,29,29;37;41,3,,page76:tag5:entity28:key00F19383:ref29:ord0;page76:tag5:entity36:key00F19383:ref37:ord0;page76:tag5:entity40:key00F19383:ref41:ord0,アナログパッド + しゃがみボタン,攻撃ボタン,　　　　　,,攻击按钮,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_ATTACK_BUTTON_LABEL_LOCALIZED
+5D272813,19,31,31,1,,page76:tag5:entity30:key00F19383:ref31:ord0,　　　　　,構えボタン + 攻撃ボタン,　　　　　,,瞄准按钮 + 攻击按钮,,MATCH,33,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACES_AROUND_PLUS_PRESERVED; AIM_AND_ATTACK_COMBINATION_LOCALIZED
+5D272813,20,33,33,1,,page76:tag5:entity32:key00F19383:ref33:ord0,　　　　　,構えボタン + 武器攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",,瞄准按钮 + 武器攻击按钮,,MATCH,39,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACES_AROUND_PLUS_PRESERVED; AUX_ADDED_TWO_I_TRIANGLE_CONTROLS_REJECTED
+5D272813,21,34,34;36;44;46,4,,page76:tag5:entity35:key00F29383:ref34:ord0;page76:tag5:entity37:key00F29383:ref36:ord0;page76:tag5:entity45:key00F29383:ref44:ord0;page76:tag5:entity47:key00F29383:ref46:ord0,構えボタン + 武器攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",アナログパッド + 攻撃ボタン,,"当对方在附近，
+且图标出现时",,MATCH,58,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=JPN_SINGLE_EMBEDDED_NEWLINE_PRESERVED; NEARBY_OPPONENT_AND_ICON_CONTEXT_PRESERVED
+5D272813,22,35,35,1,,page76:tag5:entity34:key00F19383:ref35:ord0,"相手が近くにいて、
+アイコンが出ている時",アナログパッド + 攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",,模拟摇杆 + 攻击按钮,,MATCH,39,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACES_AROUND_PLUS_PRESERVED
+5D272813,23,38,38,1,,page76:tag5:entity39:key00F29383:ref38:ord0,攻撃ボタン,拘束している時,アナログパッド,,正在拘束对方时,,MATCH,21,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_RESTRAINT_CONTEXT_PRESERVED; NO_TERMINAL_PUNCTUATION_ADDED
+5D272813,24,40,40;50,2,,page76:tag5:entity41:key00F29383:ref40:ord0;page76:tag5:entity51:key00F29383:ref50:ord0,アナログパッド,相手を投げている時,攻撃ボタン,,正在摔投对方时,,MATCH,27,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=JPN_THROWING_OPPONENT_CONTEXT_PRESERVED; NO_TERMINAL_PUNCTUATION_ADDED
+5D272813,25,45,45,1,,page76:tag5:entity44:key00F19383:ref45:ord0,"相手が近くにいて、
+アイコンが出ている時",アナログパッド + 素手攻撃ボタン,"相手が近くにいて、
+アイコンが出ている時",,模拟摇杆 + 空手攻击按钮,,MATCH,45,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACES_AROUND_PLUS_PRESERVED; AUX_ADDED_I_SQUARE_CONTROL_REJECTED
+5D272813,26,47,47;49;51,3,,page76:tag5:entity46:key00F19383:ref47:ord0;page76:tag5:entity48:key00F19383:ref49:ord0;page76:tag5:entity50:key00F19383:ref51:ord0,"相手が近くにいて、
+アイコンが出ている時",素手攻撃ボタン,相手を投げている時,,空手攻击按钮,,MATCH,21,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_UNARMED_ATTACK_BUTTON_LABEL_LOCALIZED; AUX_ADDED_I_SQUARE_CONTROL_REJECTED

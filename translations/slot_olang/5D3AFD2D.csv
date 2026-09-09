@@ -1,0 +1,171 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D3AFD2D,0,0,0,1,,page1984:tag2:entity0:key00000000:ref0:ord0,,こいつは… まさか…,お前が！,,这家伙……难道……,,MATCH,28,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,1,1,1,1,,page1984:tag2:entity9:key00000008:ref1:ord0,こいつは… まさか…,お前が！,むしろ… 憎い,,是你！,,MATCH,12,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,2,2,2,1,,page1984:tag2:entity8:key00000007:ref2:ord0,お前が！,むしろ… 憎い,恋しかったわけではない…,,不如说……我恨你。,,MATCH,19,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,3,3,3,1,,page1984:tag2:entity7:key00000006:ref3:ord0,むしろ… 憎い,恋しかったわけではない…,…待っていた お前を,,我并不是思念你……,,MATCH,36,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,4,4,4,1,,page1984:tag2:entity6:key00000005:ref4:ord0,恋しかったわけではない…,…待っていた お前を,ストレンジラブ… 博士だな,,……我一直在等你。,,MATCH,28,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,5,5,5,1,,page1984:tag2:entity5:key00000004:ref5:ord0,…待っていた お前を,ストレンジラブ… 博士だな,お前は…,,你就是Strangelove博士吧。,,MATCH,37,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,6,6,6;13,2,,page1984:tag2:entity4:key00000003:ref6:ord0;page1984:tag2:entity18:key00000005:ref13:ord0,ストレンジラブ… 博士だな,お前は…,誰？,,你是……,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D3AFD2D,7,7,7,1,,page1984:tag2:entity3:key00000002:ref7:ord0,お前は…,誰？,ボス…！？,,谁？,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,8,8,8,1,,page1984:tag2:entity2:key00000001:ref8:ord0,誰？,ボス…！？,命拾いしたようね<->,,Boss……？！,,MATCH,15,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,9,9,9,1,,page1984:tag2:entity1:key00000000:ref9:ord0,ボス…！？,命拾いしたようね<->,"武器を手にした人間は みな<R=抑止力,同じ事>を言う ",<->,看来你捡回一条命。<->,<->,MATCH,27,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,10,10,10,1,,page1984:tag2:entity12:key00000002:ref10:ord0,命拾いしたようね<->,"武器を手にした人間は みな<R=抑止力,同じ事>を言う ",「動くな」か…,"<R=抑止力,同じ事>","手持武器的人都说着同样的<R=威慑力,话>。","<R=威慑力,话>",MATCH,70,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,11,11,11,1,,page1984:tag2:entity11:key00000001:ref11:ord0,"武器を手にした人間は みな<R=抑止力,同じ事>を言う ",「動くな」か…,動くな！,,‘不许动’吗……,,MATCH,21,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,12,12,12,1,,page1984:tag2:entity10:key00000000:ref12:ord0,「動くな」か…,動くな！,お前は…,,不许动！,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,13,14,14,1,,page1984:tag2:entity17:key00000004:ref14:ord0,お前は…,殺せ！,ボスと同じように,,杀了我！,,MATCH,9,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,14,15,15,1,,page1984:tag2:entity16:key00000003:ref15:ord0,殺せ！,ボスと同じように,さあ 同じように殺せ,,就像杀死Boss那样。,,MATCH,24,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,15,16,16,1,,page1984:tag2:entity15:key00000002:ref16:ord0,ボスと同じように,さあ 同じように殺せ,"知っているぞ
+10年前 お前が何をしたのかも",,来吧，用同样的方式杀了我。,,MATCH,28,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,16,17,17,1,,page1984:tag2:entity14:key00000001:ref17:ord0,さあ 同じように殺せ,"知っているぞ
+10年前 お前が何をしたのかも",私の研究成果を 壊しに来たんだろう,,"我知道。
+也知道你十年前做过什么。",,MATCH,58,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,17,18,18,1,,page1984:tag2:entity13:key00000000:ref18:ord0,"知っているぞ
+10年前 お前が何をしたのかも",私の研究成果を 壊しに来たんだろう,答えろ！,,你是来毁掉我的研究成果吧。,,MATCH,49,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,18,19,19,1,,page1984:tag2:entity25:key00000006:ref19:ord0,私の研究成果を 壊しに来たんだろう,答えろ！,それがお前の“忠”か？,,回答我！,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,19,20,20,1,,page1984:tag2:entity24:key00000005:ref20:ord0,答えろ！,それがお前の“忠”か？,任務という権力のために真の英雄を殺した,,这就是你的‘忠诚’吗？,,MATCH,33,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,20,21,21,1,,page1984:tag2:entity23:key00000004:ref21:ord0,それがお前の“忠”か？,任務という権力のために真の英雄を殺した,世界中の戦士を失望させた,,你为了任务赋予的权力，杀死了真正的英雄。,,MATCH,57,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,21,22,22,1,,page1984:tag2:entity22:key00000003:ref22:ord0,任務という権力のために真の英雄を殺した,世界中の戦士を失望させた,"お前は育ててくれた“恩人”よりも
+実体のない“国家”を選んだ ",,你让全世界的战士失望。,,MATCH,36,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,22,23,23,1,,page1984:tag2:entity21:key00000002:ref23:ord0,世界中の戦士を失望させた,"お前は育ててくれた“恩人”よりも
+実体のない“国家”を選んだ ","人殺しのご褒美に貰った
+穢れた名をまだぶら下げているのか ",,"你没有选择养育你的‘恩人’，
+而是选择了虚无的‘国家’。",,MATCH,89,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,23,24,24,1,,page1984:tag2:entity20:key00000001:ref24:ord0,"お前は育ててくれた“恩人”よりも
+実体のない“国家”を選んだ ","人殺しのご褒美に貰った
+穢れた名をまだぶら下げているのか ","スネーク！　いや <R=BIGBOSS,ビッグボス>か？",,"那个杀人换来的肮脏名号，
+你还挂在身上吗？",,MATCH,83,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,24,25,25,1,,page1984:tag2:entity19:key00000000:ref25:ord0,"人殺しのご褒美に貰った
+穢れた名をまだぶら下げているのか ","スネーク！　いや <R=BIGBOSS,ビッグボス>か？","…あの女は<R=祖国,アメリカ>を裏切り","<R=BIGBOSS,ビッグボス>","Snake！不，该叫你<R=BIG BOSS,Big Boss>吗？","<R=BIG BOSS,Big Boss>",MATCH,58,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,25,26,26,1,,page1984:tag2:entity28:key00000002:ref26:ord0,"スネーク！　いや <R=BIGBOSS,ビッグボス>か？","…あの女は<R=祖国,アメリカ>を裏切り",さあ！　どうなんだ！？,"<R=祖国,アメリカ>","……那个女人背叛了<R=祖国,美国>。","<R=祖国,美国>",MATCH,50,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,26,27,27,1,,page1984:tag2:entity27:key00000001:ref27:ord0,"…あの女は<R=祖国,アメリカ>を裏切り",さあ！　どうなんだ！？,ボスは…,,来吧！到底怎么样？！,,MATCH,33,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,27,28,28,1,,page1984:tag2:entity26:key00000000:ref28:ord0,さあ！　どうなんだ！？,ボスは…,"<R=  核  ,デイビークロケット>を盗んで亡命した ",,Boss她……,,MATCH,12,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,28,29,29,1,,page1984:tag2:entity29:key00000000:ref29:ord0,ボスは…,"<R=  核  ,デイビークロケット>を盗んで亡命した ",お前はボスの…,"<R=  核  ,デイビークロケット>","偷走<R=核武器,Davy Crockett>后叛逃了。","<R=核武器,Davy Crockett>",MATCH,64,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,29,30,30,1,,page1984:tag2:entity39:key00000009:ref30:ord0,"<R=  核  ,デイビークロケット>を盗んで亡命した ",お前はボスの…,それが自分を守るため下した結論か ,,你是Boss的……,,MATCH,21,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,30,31,31,1,,page1984:tag2:entity38:key00000008:ref31:ord0,お前はボスの…,それが自分を守るため下した結論か ,"…<R=任務,ミッション>だった",,这就是你为了保护自己得出的结论？,,MATCH,49,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,31,32,32,1,,page1984:tag2:entity37:key00000007:ref32:ord0,それが自分を守るため下した結論か ,"…<R=任務,ミッション>だった","この世で最も愛した恩人を
+汚名を着せて葬り去る事がか？ ","<R=任務,ミッション>","……那是<R=任务,任务>。","<R=任务,任务>",MATCH,38,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,32,33,33,1,,page1984:tag2:entity36:key00000006:ref33:ord0,"…<R=任務,ミッション>だった","この世で最も愛した恩人を
+汚名を着せて葬り去る事がか？ ",これが語られている真実の全てだ,,"给你在这世上最爱的恩人扣上污名，
+再亲手埋葬她吗？",,MATCH,80,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,33,34,34,1,,page1984:tag2:entity35:key00000005:ref34:ord0,"この世で最も愛した恩人を
+汚名を着せて葬り去る事がか？ ",これが語られている真実の全てだ,それが“真実”か,,这就是世人所知的全部真相。,,MATCH,45,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,34,35,35,1,,page1984:tag2:entity34:key00000004:ref35:ord0,これが語られている真実の全てだ,それが“真実”か,あの時 全面核戦争を止められるのは ボスの死だけだった,,那就是‘真相’吗？,,MATCH,24,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,35,36,36,1,,page1984:tag2:entity33:key00000003:ref36:ord0,それが“真実”か,あの時 全面核戦争を止められるのは ボスの死だけだった,"<R=自国,アメリカ>の潔白をソ連に証明した ",,当时，只有Boss的死能阻止全面核战争。,,MATCH,77,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,36,37,37,1,,page1984:tag2:entity32:key00000002:ref37:ord0,あの時 全面核戦争を止められるのは ボスの死だけだった,"<R=自国,アメリカ>の潔白をソ連に証明した ",お前と同じ 生ける屍だ ,"<R=自国,アメリカ>","向苏联证明<R=本国,美国>的清白。","<R=本国,美国>",MATCH,57,44,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,37,38,38,1,,page1984:tag2:entity42:key0000000C:ref38:ord0,"<R=自国,アメリカ>の潔白をソ連に証明した ",お前と同じ 生ける屍だ ,愛した彼女に 答えを聴くまで 死ぬことも出来ない…,,我和你一样，都是行尸走肉。,,MATCH,32,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,38,39,39,1,,page1984:tag2:entity41:key0000000B:ref39:ord0,お前と同じ 生ける屍だ ,愛した彼女に 答えを聴くまで 死ぬことも出来ない…,この世に置きざりにされた人間だ,,在从深爱的她那里得到答案前，我连死都做不到……,,MATCH,71,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,39,40,40,1,,page1984:tag2:entity40:key0000000A:ref40:ord0,愛した彼女に 答えを聴くまで 死ぬことも出来ない…,この世に置きざりにされた人間だ,アメリカ政府は 裏切り者のあの女を 自ら抹殺することで…,,我是被遗弃在这个世界上的人。,,MATCH,45,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,40,41,41,1,,page1984:tag2:entity31:key00000001:ref41:ord0,この世に置きざりにされた人間だ,アメリカ政府は 裏切り者のあの女を 自ら抹殺することで…,"<R=合衆国,アメリカ>の核を使い ソ連の地を撃った",,美国政府亲手除掉那个叛徒，借此……,,MATCH,80,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,41,42,42,1,,page1984:tag2:entity30:key00000000:ref42:ord0,アメリカ政府は 裏切り者のあの女を 自ら抹殺することで…,"<R=合衆国,アメリカ>の核を使い ソ連の地を撃った",…何だって？,"<R=合衆国,アメリカ>","她用<R=合众国,美国>的核武器攻击了苏联领土。","<R=合众国,美国>",MATCH,66,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,42,43,43,1,,page1984:tag2:entity48:key00000005:ref43:ord0,"<R=合衆国,アメリカ>の核を使い ソ連の地を撃った",…何だって？,お前が奪った命を 私が蘇らせた ,,……你说什么？,,MATCH,18,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,43,44,44,1,,page1984:tag2:entity47:key00000004:ref44:ord0,…何だって？,お前が奪った命を 私が蘇らせた ,逢いたいだろう？　逢わせてやってもいい,,你夺走了她的生命，而我让她重生。,,MATCH,44,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,44,45,45,1,,page1984:tag2:entity46:key00000003:ref45:ord0,お前が奪った命を 私が蘇らせた ,逢いたいだろう？　逢わせてやってもいい,ぬけぬけと,,你想见她吧？我可以让你见到。,,MATCH,57,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,45,46,46,1,,page1984:tag2:entity45:key00000002:ref46:ord0,逢いたいだろう？　逢わせてやってもいい,ぬけぬけと,ボスはもう この世にいない,,还真敢说。,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,46,47,47,1,,page1984:tag2:entity44:key00000001:ref47:ord0,ぬけぬけと,ボスはもう この世にいない,逢いたいか,,Boss已经不在人世了。,,MATCH,37,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,47,48,48,1,,page1984:tag2:entity43:key00000000:ref48:ord0,ボスはもう この世にいない,逢いたいか,こっちだ,,想见她吗？,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,48,49,49,1,,page1984:tag2:entity53:key00000004:ref49:ord0,逢いたいか,こっちだ,彼女に逢いたければ吸っておけ,,这边走。,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,49,50,50,1,,page1984:tag2:entity52:key00000003:ref50:ord0,こっちだ,彼女に逢いたければ吸っておけ,ここから先は禁煙だ,,想见她，就趁现在抽吧。,,MATCH,42,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,50,51,51,1,,page1984:tag2:entity51:key00000002:ref51:ord0,彼女に逢いたければ吸っておけ,ここから先は禁煙だ,"ただの<R=嗅ぎ煙草,スナッフ>だ <R=葉巻,シガー>は吸うだろう？　",,再往前就禁烟了。,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,51,52,52,1,,page1984:tag2:entity50:key00000001:ref52:ord0,ここから先は禁煙だ,"ただの<R=嗅ぎ煙草,スナッフ>だ <R=葉巻,シガー>は吸うだろう？　",…吸うか？,"<R=嗅ぎ煙草,スナッフ> | <R=葉巻,シガー>","只是<R=鼻烟,鼻烟>。你不是抽<R=雪茄,雪茄>吗？","<R=鼻烟,鼻烟> | <R=雪茄,雪茄>",MATCH,86,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,52,53,53,1,,page1984:tag2:entity49:key00000000:ref53:ord0,"ただの<R=嗅ぎ煙草,スナッフ>だ <R=葉巻,シガー>は吸うだろう？　",…吸うか？,CIAが知り得る 全てのデータを ,,……来一点吗？,,MATCH,15,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,53,54,54,1,,page1984:tag2:entity61:key00000007:ref54:ord0,…吸うか？,CIAが知り得る 全てのデータを ,"計画への協力と引き替えに
+私はザ・ボスのあらゆる情報を要求した ",,CIA所掌握的全部数据。,,MATCH,41,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,54,55,55,1,,page1984:tag2:entity60:key00000006:ref55:ord0,CIAが知り得る 全てのデータを ,"計画への協力と引き替えに
+私はザ・ボスのあらゆる情報を要求した ",ママルポッド…？,,"作为协助计划的条件，
+我索取了The Boss的一切资料。",,MATCH,92,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,55,56,56,1,,page1984:tag2:entity59:key00000005:ref56:ord0,"計画への協力と引き替えに
+私はザ・ボスのあらゆる情報を要求した ",ママルポッド…？,私は『ママルポッド』と呼んでいる,,哺乳舱……？,,MATCH,24,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,56,57,57,1,,page1984:tag2:entity58:key00000004:ref57:ord0,ママルポッド…？,私は『ママルポッド』と呼んでいる,…ボスなのか？,,我称它为‘哺乳舱’。,,MATCH,48,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,57,58,58,1,,page1984:tag2:entity57:key00000003:ref58:ord0,私は『ママルポッド』と呼んでいる,…ボスなのか？,ボスは？,,……是Boss吗？,,MATCH,21,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,58,59,59,1,,page1984:tag2:entity56:key00000002:ref59:ord0,…ボスなのか？,ボスは？,"<R=戦士,War fighter>",,Boss呢？,,MATCH,12,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,59,60,60,1,,page1984:tag2:entity55:key00000001:ref60:ord0,ボスは？,"<R=戦士,War fighter>",男の人…,"<R=戦士,War fighter>","<R=战士,War fighter>。","<R=战士,War fighter>",MATCH,22,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,60,61,61,1,,page1984:tag2:entity54:key00000000:ref61:ord0,"<R=戦士,War fighter>",男の人…,"人間に出来ない判断と行動を成し遂げる
+抑止力としての無人装置の創造",,一个男人……,,MATCH,12,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,61,62,62,1,,page1984:tag2:entity69:key00000007:ref62:ord0,男の人…,"人間に出来ない判断と行動を成し遂げる
+抑止力としての無人装置の創造","仮想敵からの核攻撃に対し 最適な地点に効果的な報復を
+与えるための <R=相互確証破壊,MAD>に基づいた<R=人工知能,AI> ",,"创造一种无人装置作为威慑力量，
+完成只有人类无法做到的判断与行动。",,MATCH,97,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,62,63,63,1,,page1984:tag2:entity68:key00000006:ref63:ord0,"人間に出来ない判断と行動を成し遂げる
+抑止力としての無人装置の創造","仮想敵からの核攻撃に対し 最適な地点に効果的な報復を
+与えるための <R=相互確証破壊,MAD>に基づいた<R=人工知能,AI> ",コールドマンの要求はこうだった,"<R=相互確証破壊,MAD> | <R=人工知能,AI>","基于<R=相互确保摧毁,MAD>的<R=人工智能,AI>，
+在假想敌核袭击时对最佳地点实施有效报复。","<R=相互确保摧毁,MAD> | <R=人工智能,AI>",MATCH,157,118,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK;NEWLINE_PRESERVED
+5D3AFD2D,63,64,64,1,,page1984:tag2:entity67:key00000005:ref64:ord0,"仮想敵からの核攻撃に対し 最適な地点に効果的な報復を
+与えるための <R=相互確証破壊,MAD>に基づいた<R=人工知能,AI> ",コールドマンの要求はこうだった,何故そんなことを？,,Coldman的要求是这样的。,,MATCH,45,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,64,65,65,1,,page1984:tag2:entity66:key00000004:ref65:ord0,コールドマンの要求はこうだった,何故そんなことを？,そして お前のことも,,为什么要那么做？,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,65,66,66,1,,page1984:tag2:entity65:key00000003:ref66:ord0,何故そんなことを？,そして お前のことも,"苦痛と快楽 <R=喜び,ジョイ>と<R=哀しみ,ソロー> 生と死の総て ",,也包括你的一切。,,MATCH,28,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,66,67,67,1,,page1984:tag2:entity64:key00000002:ref67:ord0,そして お前のことも,"苦痛と快楽 <R=喜び,ジョイ>と<R=哀しみ,ソロー> 生と死の総て ","いかなる状況でいかなる判断を下したか
+何を奪われ 何を奪ったか ","<R=喜び,ジョイ> | <R=哀しみ,ソロー>","痛苦与快乐、<R=喜悦,Joy>与<R=悲伤,Sorrow>，以及生与死的一切。","<R=喜悦,Joy> | <R=悲伤,Sorrow>",MATCH,82,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,67,68,68,1,,page1984:tag2:entity63:key00000001:ref68:ord0,"苦痛と快楽 <R=喜び,ジョイ>と<R=哀しみ,ソロー> 生と死の総て ","いかなる状況でいかなる判断を下したか
+何を奪われ 何を奪ったか ","生い立ち 従軍記録と身体データ
+全作戦ファイル 通信記録",,"她在各种情况下作过怎样的判断，
+夺走过什么，又被夺走过什么。",,MATCH,90,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,68,69,69,1,,page1984:tag2:entity62:key00000000:ref69:ord0,"いかなる状況でいかなる判断を下したか
+何を奪われ 何を奪ったか ","生い立ち 従軍記録と身体データ
+全作戦ファイル 通信記録",だが 本当の目的は何だ,,"她的成长经历、从军记录和身体数据，
+所有行动档案与通信记录。",,MATCH,78,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,69,70,70,1,,page1984:tag2:entity79:key00000009:ref70:ord0,"生い立ち 従軍記録と身体データ
+全作戦ファイル 通信記録",だが 本当の目的は何だ,"全人類の喉首を委ねられる人物は
+私の知る限りただ一人だ ",,但你真正的目的是什么？,,MATCH,31,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,70,71,71,1,,page1984:tag2:entity78:key00000008:ref71:ord0,だが 本当の目的は何だ,"全人類の喉首を委ねられる人物は
+私の知る限りただ一人だ ",…間違いではない,,"据我所知，世上只有一个人
+可以被托付全人类的咽喉。",,MATCH,80,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,71,72,72,1,,page1984:tag2:entity77:key00000007:ref72:ord0,"全人類の喉首を委ねられる人物は
+私の知る限りただ一人だ ",…間違いではない,そのために ザ・ボスの全てを求めた？,,……这话没错。,,MATCH,24,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,72,73,73,1,,page1984:tag2:entity76:key00000006:ref73:ord0,…間違いではない,そのために ザ・ボスの全てを求めた？,<->最も優れた共感脳の思考パターンが必要だ」と ,,所以你才索取The Boss的一切？,,MATCH,52,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,73,74,74,1,,page1984:tag2:entity75:key00000005:ref74:ord0,そのために ザ・ボスの全てを求めた？,<->最も優れた共感脳の思考パターンが必要だ」と ,"「地球規模で思考し 未来と過去を熟慮し
+苦痛の先に最善の判断を下す<->",<->,<->‘我需要最卓越的共感型大脑的思维模式。’,<->,MATCH,67,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,74,75,75,1,,page1984:tag2:entity74:key00000004:ref75:ord0,<->最も優れた共感脳の思考パターンが必要だ」と ,"「地球規模で思考し 未来と過去を熟慮し
+苦痛の先に最善の判断を下す<->",だがあの男には あえて違う答えを用意した ,<->,"‘能从全球尺度思考，审视过去与未来，
+在痛苦之后作出最佳判断的人。’<->",<->,MATCH,98,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK;NEWLINE_PRESERVED
+5D3AFD2D,75,76,76,1,,page1984:tag2:entity73:key00000003:ref76:ord0,"「地球規模で思考し 未来と過去を熟慮し
+苦痛の先に最善の判断を下す<->",だがあの男には あえて違う答えを用意した ,"そのための 冷徹なる<R=機械,マシン>のプログラムを作成すること ",,但我特意为那个男人准备了不同的答案。,,MATCH,59,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,76,77,77,1,,page1984:tag2:entity72:key00000002:ref77:ord0,だがあの男には あえて違う答えを用意した ,"そのための 冷徹なる<R=機械,マシン>のプログラムを作成すること ","ボスの真実… 最期のボスの<R=意志,ウィル>を確かめたい","<R=機械,マシン>","为此编写冷酷<R=机器,机器>的程序。","<R=机器,机器>",MATCH,88,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,77,78,78,1,,page1984:tag2:entity84:key0000000E:ref78:ord0,"そのための 冷徹なる<R=機械,マシン>のプログラムを作成すること ","ボスの真実… 最期のボスの<R=意志,ウィル>を確かめたい",創られた虚構ではなく…,"<R=意志,ウィル>","我想确认Boss的真相……她最后的<R=意志,意志>。","<R=意志,意志>",MATCH,75,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,78,79,79,1,,page1984:tag2:entity83:key0000000D:ref79:ord0,"ボスの真実… 最期のボスの<R=意志,ウィル>を確かめたい",創られた虚構ではなく…,"最愛の弟子であるお前に
+暗殺されなければならなかったのか？ ",,不是人为创造的虚构……,,MATCH,33,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,79,80,80,1,,page1984:tag2:entity82:key0000000C:ref80:ord0,創られた虚構ではなく…,"最愛の弟子であるお前に
+暗殺されなければならなかったのか？ ",伝説的英雄であった彼女が何故 敵に寝返り,,"她为何必须被最爱的弟子——你
+亲手暗杀？",,MATCH,86,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,80,81,81,1,,page1984:tag2:entity81:key0000000B:ref81:ord0,"最愛の弟子であるお前に
+暗殺されなければならなかったのか？ ",伝説的英雄であった彼女が何故 敵に寝返り,ザ・ボスの汚名をそそぐ事だ,,身为传奇英雄的她为何投敌？,,MATCH,58,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,81,82,82,1,,page1984:tag2:entity80:key0000000A:ref82:ord0,伝説的英雄であった彼女が何故 敵に寝返り,ザ・ボスの汚名をそそぐ事だ,"相手が次なる核攻撃に出られぬよう
+早急に 確実に 徹底的にその相手を潰す",,为了洗清The Boss的污名。,,MATCH,39,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,82,83,83,1,,page1984:tag2:entity71:key00000001:ref83:ord0,ザ・ボスの汚名をそそぐ事だ,"相手が次なる核攻撃に出られぬよう
+早急に 確実に 徹底的にその相手を潰す",私の結論はこうだ,,"要让对方无法再次发动核攻击，
+就必须迅速、确实、彻底地消灭对方。",,MATCH,102,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,83,84,84,1,,page1984:tag2:entity70:key00000000:ref84:ord0,"相手が次なる核攻撃に出られぬよう
+早急に 確実に 徹底的にその相手を潰す",私の結論はこうだ,ジャック…！,,我的结论是这样的。,,MATCH,24,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,84,85,85;98,2,,page1984:tag2:entity91:key00000006:ref85:ord0;page1984:tag2:entity93:key00000001:ref98:ord0,私の結論はこうだ,ジャック…！,ジャック…,,Jack……！,,MATCH,18,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D3AFD2D,85,86,86,1,,page1984:tag2:entity90:key00000005:ref86:ord0,ジャック…！,ジャック…,本人に直接 聞くがいい …ジャック ,,Jack……,,MATCH,15,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,86,87,87,1,,page1984:tag2:entity89:key00000004:ref87:ord0,ジャック…,本人に直接 聞くがいい …ジャック ,"お前は… ザ・ボスのあの時の <R=最期の思考,ラストウィル>を
+再現しようと？ ",,去直接问她本人吧……Jack。,,MATCH,48,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,87,88,88,1,,page1984:tag2:entity88:key00000003:ref88:ord0,本人に直接 聞くがいい …ジャック ,"お前は… ザ・ボスのあの時の <R=最期の思考,ラストウィル>を
+再現しようと？ ",ほぅ …彼女の気持ちが解るのか？ ,"<R=最期の思考,ラストウィル>","你想重现The Boss当时的<R=最后思念,遗愿>
+吗？","<R=最后思念,遗愿>",MATCH,105,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK;NEWLINE_PRESERVED
+5D3AFD2D,88,89,89,1,,page1984:tag2:entity87:key00000002:ref89:ord0,"お前は… ザ・ボスのあの時の <R=最期の思考,ラストウィル>を
+再現しようと？ ",ほぅ …彼女の気持ちが解るのか？ ,いや ボスは… 国を 俺達を棄てたんだ ,,哦……你理解她的心情吗？,,MATCH,47,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,89,90,90,1,,page1984:tag2:entity86:key00000001:ref90:ord0,ほぅ …彼女の気持ちが解るのか？ ,いや ボスは… 国を 俺達を棄てたんだ ,それこそ お前が知りたい事でもあるはずだ ,,不，Boss她……抛弃了国家，也抛弃了我们。,,MATCH,52,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,90,91,91,1,,page1984:tag2:entity85:key00000000:ref91:ord0,いや ボスは… 国を 俺達を棄てたんだ ,それこそ お前が知りたい事でもあるはずだ ,いや違う 俺は…,,那也正是你想知道的事吧。,,MATCH,59,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,91,92,92,1,,page1984:tag2:entity99:key00000007:ref92:ord0,それこそ お前が知りたい事でもあるはずだ ,いや違う 俺は…,帰れ！,,不，不是。我……,,MATCH,22,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,92,93,93,1,,page1984:tag2:entity98:key00000006:ref93:ord0,いや違う 俺は…,帰れ！,ボス…,,回去！,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,93,94,94;97;106,3,,page1984:tag2:entity97:key00000005:ref94:ord0;page1984:tag2:entity94:key00000002:ref97:ord0;page1984:tag2:entity105:key00000003:ref106:ord0,帰れ！,ボス…,帰れ！　もはやお前のボスは私ではない！,,Boss……,,MATCH,9,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3
+5D3AFD2D,94,95,95,1,,page1984:tag2:entity96:key00000004:ref95:ord0,ボス…,帰れ！　もはやお前のボスは私ではない！,ジャック！,,回去！我已经不再是你的Boss了！,,MATCH,57,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,95,96,96,1,,page1984:tag2:entity95:key00000003:ref96:ord0,帰れ！　もはやお前のボスは私ではない！,ジャック！,ボス…,,Jack！,,MATCH,15,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,96,99,99,1,,page1984:tag2:entity92:key00000000:ref99:ord0,ジャック…！,ボス…？,もう一度 その尊い魂を奪うことが出来るのなら,,Boss……？,,MATCH,12,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,97,100,100,1,,page1984:tag2:entity101:key00000001:ref100:ord0,ボス…？,もう一度 その尊い魂を奪うことが出来るのなら,"<R=目的,ミッション>を果たせ スネーク",,如果你还能再次夺走那高贵的灵魂……,,MATCH,64,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,98,101,101,1,,page1984:tag2:entity100:key00000000:ref101:ord0,もう一度 その尊い魂を奪うことが出来るのなら,"<R=目的,ミッション>を果たせ スネーク",あなたは誰？,"<R=目的,ミッション>","完成你的<R=目的,任务>吧，Snake。","<R=目的,任务>",MATCH,51,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK
+5D3AFD2D,99,102,102,1,,page1984:tag2:entity109:key00000007:ref102:ord0,"<R=目的,ミッション>を果たせ スネーク",あなたは誰？,"この部屋に居る限り ボタンひとつでお前を
+炭素の塊に変える事が出来る ",,你是谁？,,MATCH,18,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,100,103,103,1,,page1984:tag2:entity108:key00000006:ref103:ord0,あなたは誰？,"この部屋に居る限り ボタンひとつでお前を
+炭素の塊に変える事が出来る ",…妙な真似はするなよ,,"只要你还在这个房间里，我按一下按钮
+就能把你变成一块焦炭。",,MATCH,99,85,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINE_PRESERVED
+5D3AFD2D,101,104,104,1,,page1984:tag2:entity107:key00000005:ref104:ord0,"この部屋に居る限り ボタンひとつでお前を
+炭素の塊に変える事が出来る ",…妙な真似はするなよ,客だ 紹介する,,……别耍花样。,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,102,105,105,1,,page1984:tag2:entity106:key00000004:ref105:ord0,…妙な真似はするなよ,客だ 紹介する,ボス…,,有位客人，我来介绍。,,MATCH,19,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,103,107,107,1,,page1984:tag2:entity104:key00000002:ref107:ord0,ボス…,誰かいるの,"<R= 蛹 ,ピューパ>でも<R= 繭 ,コクーン>でもない
+完全の名を享受した <R=“成虫”,イメイゴ>だ ",,有人在吗？,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D3AFD2D,104,108,108,1,,page1984:tag2:entity103:key00000001:ref108:ord0,誰かいるの,"<R= 蛹 ,ピューパ>でも<R= 繭 ,コクーン>でもない
+完全の名を享受した <R=“成虫”,イメイゴ>だ ",私が産み落とした“モルフォ蝶”だ,"<R= 蛹 ,ピューパ> | <R= 繭 ,コクーン> | <R=“成虫”,イメイゴ>","既不是<R=蛹,Pupa>，也不是<R=茧,Cocoon>，
+而是享有完整之名的<R=‘成虫’,Imago>。","<R=蛹,Pupa> | <R=茧,Cocoon> | <R=‘成虫’,Imago>",MATCH,124,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK;NEWLINE_PRESERVED
+5D3AFD2D,105,109,109,1,,page1984:tag2:entity102:key00000000:ref109:ord0,"<R= 蛹 ,ピューパ>でも<R= 繭 ,コクーン>でもない
+完全の名を享受した <R=“成虫”,イメイゴ>だ ",私が産み落とした“モルフォ蝶”だ,,,这是我孕育出的‘Morpho蝶’。,,MATCH,48,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1

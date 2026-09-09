@@ -1,0 +1,428 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5DD2A877,0,0,0;0;0,3,,page4:tag2:entity9:key009CD659:ref0:ord0;page10:tag3:entity9:key009CD659:ref0:ord0;page292:tag5:entity9:key009CD659:ref0:ord0,,METAL GEAR SOLID PEACE WALKER,RESTART MISSION,,METAL GEAR SOLID PEACE WALKER,,MATCH,29,29,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=KEEP_UI
+5DD2A877,1,1,1;1;1,3,,page4:tag2:entity3:key005A3C76:ref1:ord0;page10:tag3:entity3:key005A3C76:ref1:ord0;page292:tag5:entity3:key005A3C76:ref1:ord0,METAL GEAR SOLID PEACE WALKER,RESTART MISSION,MISSION SELECT,,RESTART MISSION,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+5DD2A877,2,2,2;2;2,3,,page4:tag2:entity0:key001AD08A:ref2:ord0;page10:tag3:entity0:key001AD08A:ref2:ord0;page292:tag5:entity0:key001AD08A:ref2:ord0,RESTART MISSION,MISSION SELECT,GAME OVER,,MISSION SELECT,,MATCH,14,14,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+5DD2A877,3,4,4;4;4,3,,page4:tag2:entity8:key008CB632:ref4:ord0;page10:tag3:entity8:key008CB632:ref4:ord0;page292:tag5:entity8:key008CB632:ref4:ord0,MISSION SELECT,GAME OVER,ホストの決定を待っています。,,GAME OVER,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=KEEP_UI
+5DD2A877,4,5,5;5;5,3,,page4:tag2:entity5:key0075081C:ref5:ord0;page10:tag3:entity5:key0075081C:ref5:ord0;page292:tag5:entity5:key0075081C:ref5:ord0,GAME OVER,ホストの決定を待っています。,他のプレイヤーの決定を待っています。,,正在等待主机。,,MATCH,42,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,5,6,6;6;6,3,,page4:tag2:entity11:key00CFE5D3:ref6:ord0;page10:tag3:entity11:key00CFE5D3:ref6:ord0;page292:tag5:entity11:key00CFE5D3:ref6:ord0,ホストの決定を待っています。,他のプレイヤーの決定を待っています。,カウントが0になると自動的にミッションをリスタートします。,,正在等待其他玩家。,,MATCH,54,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,6,7,7;7;7,3,,page4:tag2:entity2:key004A4F2C:ref7:ord0;page10:tag3:entity2:key004A4F2C:ref7:ord0;page292:tag5:entity2:key004A4F2C:ref7:ord0,他のプレイヤーの決定を待っています。,カウントが0になると自動的にミッションをリスタートします。,    ,,倒计时归零后，游戏将自动继续。,,MATCH,85,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,7,8,8;12;8;12;8;12,6,,page4:tag2:entity7:key007D4683:ref8:ord0;page4:tag2:entity6:key007C4683:ref12:ord0;page10:tag3:entity7:key007D4683:ref8:ord0;page10:tag3:entity6:key007C4683:ref12:ord0;page292:tag5:entity7:key007D4683:ref8:ord0;page292:tag5:entity6:key007C4683:ref12:ord0,カウントが0になると自動的にミッションをリスタートします。,    ,「何故…？　自分の命と引き替えに？」（レベル中）,,    ,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6; review_flag=KEEP_UI
+5DD2A877,8,13,13;13;13,3,,page4:tag2:entity13:key00000000:ref13:ord0;page10:tag3:entity13:key00000000:ref13:ord0;page292:tag5:entity13:key00000000:ref13:ord0,    ,「何故…？　自分の命と引き替えに？」（レベル中）,「嘘だスネーク、スネーーーク！！」（レベル高）,,为什么…？你的秘密真的值得你付出生命吗？,,MATCH,72,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,9,14,14;14;14,3,,page4:tag2:entity14:key00000000:ref14:ord0;page10:tag3:entity14:key00000000:ref14:ord0;page292:tag5:entity14:key00000000:ref14:ord0,「何故…？　自分の命と引き替えに？」（レベル中）,「嘘だスネーク、スネーーーク！！」（レベル高）,"どうしたのスネーク！？　
+スネーーーーク！！",,你在撒谎，Snake！Snake——！,,MATCH,69,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,10,15,15;15;15,3,,page4:tag2:entity15:key00000000:ref15:ord0;page10:tag3:entity15:key00000000:ref15:ord0;page292:tag5:entity15:key00000000:ref15:ord0,「嘘だスネーク、スネーーーク！！」（レベル高）,"どうしたのスネーク！？　
+スネーーーーク！！","スネーク…冗談でしょ！？
+まだたくさん教えて欲しいことが…スネーーーーク！！",,发生了什么，Snake？！Snake——！,,MATCH,64,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,11,17,17;17;17,3,,page4:tag2:entity16:key00000000:ref17:ord0;page10:tag3:entity16:key00000000:ref17:ord0;page292:tag5:entity16:key00000000:ref17:ord0,"どうしたのスネーク！？　
+スネーーーーク！！","スネーク…冗談でしょ！？
+まだたくさん教えて欲しいことが…スネーーーーク！！","立ち上がってスネーク お願い！
+もう<R=司令官,コマンダンテ>を失うのは嫌！　スネーーーク！！",,这不可能…Snake！,,MATCH,112,23,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,12,18,18;18;18,3,,page4:tag2:entity18:key00000000:ref18:ord0;page10:tag3:entity18:key00000000:ref18:ord0;page292:tag5:entity18:key00000000:ref18:ord0,"スネーク…冗談でしょ！？
+まだたくさん教えて欲しいことが…スネーーーーク！！","立ち上がってスネーク お願い！
+もう<R=司令官,コマンダンテ>を失うのは嫌！　スネーーーク！！","どうしてスネーク！？
+あと...あともう少しだったのに...！！","<R=司令官,コマンダンテ>","起来啊，Snake，求你了！
+我不想再失去<R=指挥官,Comandante>！Snake——！！","<R=指挥官,Comandante>",MATCH,130,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,13,19,19;19;19,3,,page4:tag2:entity19:key00000000:ref19:ord0;page10:tag3:entity19:key00000000:ref19:ord0;page292:tag5:entity19:key00000000:ref19:ord0,"立ち上がってスネーク お願い！
+もう<R=司令官,コマンダンテ>を失うのは嫌！　スネーーーク！！","どうしてスネーク！？
+あと...あともう少しだったのに...！！","応答して！　いったい何があったの！？　
+ねえ 答えて！！",,Snake，不！你…你差一点就成功了！,,MATCH,82,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,14,20,20;20;20,3,,page4:tag2:entity20:key00000000:ref20:ord0;page10:tag3:entity20:key00000000:ref20:ord0;page292:tag5:entity20:key00000000:ref20:ord0,"どうしてスネーク！？
+あと...あともう少しだったのに...！！","応答して！　いったい何があったの！？　
+ねえ 答えて！！","何があったの？　損害は！？　
+応答して お願い！！",,发生了什么？！你能听到我吗？说句话啊！,,MATCH,80,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,15,21,21;21;21,3,,page4:tag2:entity21:key00000000:ref21:ord0;page10:tag3:entity21:key00000000:ref21:ord0;page292:tag5:entity21:key00000000:ref21:ord0,"応答して！　いったい何があったの！？　
+ねえ 答えて！！","何があったの？　損害は！？　
+応答して お願い！！","応答して ねえ！
+一緒に<R=祖国,ニカラグア>を解放するんでしょ！？",,怎么回事？你受伤了吗？请回话！,,MATCH,71,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,16,22,22;22;22,3,,page4:tag2:entity22:key00000000:ref22:ord0;page10:tag3:entity22:key00000000:ref22:ord0;page292:tag5:entity22:key00000000:ref22:ord0,"何があったの？　損害は！？　
+応答して お願い！！","応答して ねえ！
+一緒に<R=祖国,ニカラグア>を解放するんでしょ！？","スネーク 戻ってきて！　
+作戦は中止よ 仲間が落ちた...！","<R=祖国,ニカラグア>","回答我！
+我们不是说好一起解放<R=祖国,尼加拉瓜>吗？！","<R=祖国,尼加拉瓜>",MATCH,91,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,17,24,24;24;24,3,,page4:tag2:entity23:key00000000:ref24:ord0;page10:tag3:entity23:key00000000:ref24:ord0;page292:tag5:entity23:key00000000:ref24:ord0,"応答して ねえ！
+一緒に<R=祖国,ニカラグア>を解放するんでしょ！？","スネーク 戻ってきて！　
+作戦は中止よ 仲間が落ちた...！","ボスともあろうものが 
+どうして<R=同志,コンパ>から目を離したの！？",,Snake，返回基地！我们必须中止任务。,,MATCH,78,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,18,26,26;26;26,3,,page4:tag2:entity26:key00000001:ref26:ord0;page10:tag3:entity26:key00000001:ref26:ord0;page292:tag5:entity26:key00000001:ref26:ord0,"スネーク 戻ってきて！　
+作戦は中止よ 仲間が落ちた...！","ボスともあろうものが 
+どうして<R=同志,コンパ>から目を離したの！？","スネーク 作戦は中止よ！　
+仲間が落ちた...","<R=同志,コンパ>","你可是Boss！
+怎么能把视线从<R=同志,Compa>身上移开？！","<R=同志,Compa>",MATCH,94,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,19,27,27;27;27,3,,page4:tag2:entity25:key00000000:ref27:ord0;page10:tag3:entity25:key00000000:ref27:ord0;page292:tag5:entity25:key00000000:ref27:ord0,"ボスともあろうものが 
+どうして<R=同志,コンパ>から目を離したの！？","スネーク 作戦は中止よ！　
+仲間が落ちた...","戻って！　作戦は中止
+仲間が落ちた...残念よ",,Snake，我们要中止任务了！,,MATCH,59,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,20,29,29;29;29,3,,page4:tag2:entity28:key00000000:ref29:ord0;page10:tag3:entity28:key00000000:ref29:ord0;page292:tag5:entity28:key00000000:ref29:ord0,"スネーク 作戦は中止よ！　
+仲間が落ちた...","戻って！　作戦は中止
+仲間が落ちた...残念よ","作戦は中止よ 仲間が落ちた
+...どうしてこんなことに...",,返回基地！我们要中止任务。,,MATCH,61,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,21,31,31;31;31,3,,page4:tag2:entity30:key00000000:ref31:ord0;page10:tag3:entity30:key00000000:ref31:ord0;page292:tag5:entity30:key00000000:ref31:ord0,"戻って！　作戦は中止
+仲間が落ちた...残念よ","作戦は中止よ 仲間が落ちた
+...どうしてこんなことに...","どうしたスネーク 何があった！？　
+<R=応答,アクノリッジ>を返せ スネーーーク！！",,任务已中止。你的搭档倒下了。,,MATCH,74,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,22,32,32;32;32,3,,page4:tag2:entity32:key00000000:ref32:ord0;page10:tag3:entity32:key00000000:ref32:ord0;page292:tag5:entity32:key00000000:ref32:ord0,"作戦は中止よ 仲間が落ちた
+...どうしてこんなことに...","どうしたスネーク 何があった！？　
+<R=応答,アクノリッジ>を返せ スネーーーク！！","しっかりしろスネーク！　
+それでもあの人の弟子か！？","<R=応答,アクノリッジ>","怎么了，Snake？发生了什么？！
+快给我<R=回应,Acknowledge>，Snake——！！","<R=回应,Acknowledge>",MATCH,113,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,23,33,33;33;33,3,,page4:tag2:entity33:key00000000:ref33:ord0;page10:tag3:entity33:key00000000:ref33:ord0;page292:tag5:entity33:key00000000:ref33:ord0,"どうしたスネーク 何があった！？　
+<R=応答,アクノリッジ>を返せ スネーーーク！！","しっかりしろスネーク！　
+それでもあの人の弟子か！？",見込み違いだったな...残念だよ スネーク...,,别现在放弃啊，Snake！你还自称是她的弟子？！,,MATCH,76,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,24,34,34;34;34,3,,page4:tag2:entity34:key00000000:ref34:ord0;page10:tag3:entity34:key00000000:ref34:ord0;page292:tag5:entity34:key00000000:ref34:ord0,"しっかりしろスネーク！　
+それでもあの人の弟子か！？",見込み違いだったな...残念だよ スネーク...,"どうした 状況を報告しろ！　
+<R=応答,アクノリッジ>を返せ！",,你让我失望了，Snake…看来我看错你了…,,MATCH,58,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,25,35,35;35;35,3,,page4:tag2:entity35:key00000000:ref35:ord0;page10:tag3:entity35:key00000000:ref35:ord0;page292:tag5:entity35:key00000000:ref35:ord0,見込み違いだったな...残念だよ スネーク...,"どうした 状況を報告しろ！　
+<R=応答,アクノリッジ>を返せ！","どうした 答えろ！　
+せめて状況を報告してからに...ダメか...","<R=応答,アクノリッジ>","怎么了？报告情况！
+快给我<R=回应,Acknowledge>！","<R=回应,Acknowledge>",MATCH,82,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,26,36,36;36;36,3,,page4:tag2:entity36:key00000000:ref36:ord0;page10:tag3:entity36:key00000000:ref36:ord0;page292:tag5:entity36:key00000000:ref36:ord0,"どうした 状況を報告しろ！　
+<R=応答,アクノリッジ>を返せ！","どうした 答えろ！　
+せめて状況を報告してからに...ダメか...","何てこと...
+これは正しい結果だったのか...？",,回答我，士兵！至少给我个状态报告…还是说已经太迟了…,,MATCH,83,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,27,37,37;37;37,3,,page4:tag2:entity37:key00000000:ref37:ord0;page10:tag3:entity37:key00000000:ref37:ord0;page292:tag5:entity37:key00000000:ref37:ord0,"どうした 答えろ！　
+せめて状況を報告してからに...ダメか...","何てこと...
+これは正しい結果だったのか...？","戻ってこい スネーク！　お前の仲間が落ちた
+作戦は中止だ！！",,不…结果不该是这样的…,,MATCH,61,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,28,38,38;38;38,3,,page4:tag2:entity38:key00000000:ref38:ord0;page10:tag3:entity38:key00000000:ref38:ord0;page292:tag5:entity38:key00000000:ref38:ord0,"何てこと...
+これは正しい結果だったのか...？","戻ってこい スネーク！　お前の仲間が落ちた
+作戦は中止だ！！","戻ってこい お前の仲間が落ちた！　
+何してた あの人なら仲間を見捨てはしなかったぞ！",,返回基地，Snake！你的队友倒下了。任务中止！！,,MATCH,86,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,29,40,40;40;40,3,,page4:tag2:entity39:key00000000:ref40:ord0;page10:tag3:entity39:key00000000:ref40:ord0;page292:tag5:entity39:key00000000:ref40:ord0,"戻ってこい スネーク！　お前の仲間が落ちた
+作戦は中止だ！！","戻ってこい お前の仲間が落ちた！　
+何してた あの人なら仲間を見捨てはしなかったぞ！","戻って来るんだ 同行者が落ちた
+態勢を立て直せ！",,返回基地，你的队友倒下了！你当时在哪？,,MATCH,120,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,30,41,41;41;41,3,,page4:tag2:entity41:key00000000:ref41:ord0;page10:tag3:entity41:key00000000:ref41:ord0;page292:tag5:entity41:key00000000:ref41:ord0,"戻ってこい お前の仲間が落ちた！　
+何してた あの人なら仲間を見捨てはしなかったぞ！","戻って来るんだ 同行者が落ちた
+態勢を立て直せ！","作戦は中止だ 同行者が落ちた
+...人は脆い...",,你的同伴倒下了。返回基地重新集结！,,MATCH,68,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,31,42,42;42;42,3,,page4:tag2:entity42:key00000000:ref42:ord0;page10:tag3:entity42:key00000000:ref42:ord0;page292:tag5:entity42:key00000000:ref42:ord0,"戻って来るんだ 同行者が落ちた
+態勢を立て直せ！","作戦は中止だ 同行者が落ちた
+...人は脆い...","スネーク！　ねえ どうしちゃったの？
+スネーーーク！！",,任务中止，你的同伴倒下了。人类真是脆弱的生物…,,MATCH,59,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,32,43,43;43;43,3,,page4:tag2:entity43:key00000000:ref43:ord0;page10:tag3:entity43:key00000000:ref43:ord0;page292:tag5:entity43:key00000000:ref43:ord0,"作戦は中止だ 同行者が落ちた
+...人は脆い...","スネーク！　ねえ どうしちゃったの？
+スネーーーク！！","スネークどうしたの返事して！　
+スネークってば！！",,Snake！发生了什么？！Snake——！,,MATCH,77,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,33,44,44;44;44,3,,page4:tag2:entity44:key00000000:ref44:ord0;page10:tag3:entity44:key00000000:ref44:ord0;page292:tag5:entity44:key00000000:ref44:ord0,"スネーク！　ねえ どうしちゃったの？
+スネーーーク！！","スネークどうしたの返事して！　
+スネークってば！！","鳥が哭いてる......どうしたのスネーク！　
+応答して！！",,怎么回事？Snake，回答我！Snake——！,,MATCH,73,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,34,46,46;46;46,3,,page4:tag2:entity45:key00000000:ref46:ord0;page10:tag3:entity45:key00000000:ref46:ord0;page292:tag5:entity45:key00000000:ref46:ord0,"スネークどうしたの返事して！　
+スネークってば！！","鳥が哭いてる......どうしたのスネーク！　
+応答して！！",いくらでもするから　キョーッキョーッ...,,鸟儿在哭泣…发生了什么？Snake？,,MATCH,76,44,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,35,47,47;47;47,3,,page4:tag2:entity48:key00000001:ref47:ord0;page10:tag3:entity48:key00000001:ref47:ord0;page292:tag5:entity48:key00000001:ref47:ord0,"鳥が哭いてる......どうしたのスネーク！　
+応答して！！",いくらでもするから　キョーッキョーッ...,"スネーク 立ち上がってお願い！　ずっとせがんでた
+ケツァールの鳴き真似してあげるから！",,来，我给你学一声凤尾绿咬鹃叫！咕噢，咕噢…,,MATCH,57,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,36,48,48;48;48,3,,page4:tag2:entity47:key00000000:ref48:ord0;page10:tag3:entity47:key00000000:ref48:ord0;page292:tag5:entity47:key00000000:ref48:ord0,いくらでもするから　キョーッキョーッ...,"スネーク 立ち上がってお願い！　ずっとせがんでた
+ケツァールの鳴き真似してあげるから！","ねえ 何があったの！？
+お願い 答えて......！",,Snake，快起来，求你了！,,MATCH,125,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,37,49,49;49;49,3,,page4:tag2:entity49:key00000000:ref49:ord0;page10:tag3:entity49:key00000000:ref49:ord0;page292:tag5:entity49:key00000000:ref49:ord0,"スネーク 立ち上がってお願い！　ずっとせがんでた
+ケツァールの鳴き真似してあげるから！","ねえ 何があったの！？
+お願い 答えて......！","応答して ねえ！　ねえったら！！
+...どうしちゃったのかしら...",,喂，发生了什么？！请回答我！,,MATCH,60,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,38,50,50;50;50,3,,page4:tag2:entity50:key00000000:ref50:ord0;page10:tag3:entity50:key00000000:ref50:ord0;page292:tag5:entity50:key00000000:ref50:ord0,"ねえ 何があったの！？
+お願い 答えて......！","応答して ねえ！　ねえったら！！
+...どうしちゃったのかしら...",あなたは...鳥になったの？,,跟我说说话！你在吗？哦，发生了什么？,,MATCH,86,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,39,51,51;51;51,3,,page4:tag2:entity51:key00000000:ref51:ord0;page10:tag3:entity51:key00000000:ref51:ord0;page292:tag5:entity51:key00000000:ref51:ord0,"応答して ねえ！　ねえったら！！
+...どうしちゃったのかしら...",あなたは...鳥になったの？,"スネーク どうしよう！？
+あなたのお友達が落ちちゃった！　戻ってきて！！",,你…也已经飞向天空了吗？,,MATCH,36,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,40,52,52;52;52,3,,page4:tag2:entity52:key00000000:ref52:ord0;page10:tag3:entity52:key00000000:ref52:ord0;page292:tag5:entity52:key00000000:ref52:ord0,あなたは...鳥になったの？,"スネーク どうしよう！？
+あなたのお友達が落ちちゃった！　戻ってきて！！","スネーク 戻って！
+今 あなたのお友達が落ちて...人に翼があれば...",,我们怎么办，Snake？！你的朋友倒下了！立刻回来！,,MATCH,104,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,41,53,53;53;53,3,,page4:tag2:entity53:key00000000:ref53:ord0;page10:tag3:entity53:key00000000:ref53:ord0;page292:tag5:entity53:key00000000:ref53:ord0,"スネーク どうしよう！？
+あなたのお友達が落ちちゃった！　戻ってきて！！","スネーク 戻って！
+今 あなたのお友達が落ちて...人に翼があれば...","急いで戻って！
+あなたのお友達が落ちちゃったわよ！！　ああ...",,回来吧，Snake！你的朋友倒下了…要是人有翅膀就好了…,,MATCH,90,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,42,54,54;54;54,3,,page4:tag2:entity54:key00000000:ref54:ord0;page10:tag3:entity54:key00000000:ref54:ord0;page292:tag5:entity54:key00000000:ref54:ord0,"スネーク 戻って！
+今 あなたのお友達が落ちて...人に翼があれば...","急いで戻って！
+あなたのお友達が落ちちゃったわよ！！　ああ...","そんな 嘘でしょ...
+今 あなたのお友達が落ちて...戻って来て！！",,快回来！你的朋友倒下了！哦，我的上帝…,,MATCH,88,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,43,55,55;55;55,3,,page4:tag2:entity55:key00000000:ref55:ord0;page10:tag3:entity55:key00000000:ref55:ord0;page292:tag5:entity55:key00000000:ref55:ord0,"急いで戻って！
+あなたのお友達が落ちちゃったわよ！！　ああ...","そんな 嘘でしょ...
+今 あなたのお友達が落ちて...戻って来て！！","スネーク どうしたんだよ！？
+答えてくれよ スネーーーク！！",,我不敢相信…你的朋友倒下了…回来吧！,,MATCH,87,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,44,56,56;56;56,3,,page4:tag2:entity56:key00000000:ref56:ord0;page10:tag3:entity56:key00000000:ref56:ord0;page292:tag5:entity56:key00000000:ref56:ord0,"そんな 嘘でしょ...
+今 あなたのお友達が落ちて...戻って来て！！","スネーク どうしたんだよ！？
+答えてくれよ スネーーーク！！","スネーク 答えてくれよ！
+一緒にUMAを探すんだろ！？スネーーーク！！",,Snake，发生了什么？！回答我！Snake——！,,MATCH,84,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,45,57,57;57;57,3,,page4:tag2:entity57:key00000000:ref57:ord0;page10:tag3:entity57:key00000000:ref57:ord0;page292:tag5:entity57:key00000000:ref57:ord0,"スネーク どうしたんだよ！？
+答えてくれよ スネーーーク！！","スネーク 答えてくれよ！
+一緒にUMAを探すんだろ！？スネーーーク！！","嘘だろスネーク！？
+俺たちを置いて...！スネーーーーク！！",,Snake！怎么回事？我们还要一起寻找未知生物呢！Snake——！,,MATCH,95,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,46,58,58;58;58,3,,page4:tag2:entity58:key00000000:ref58:ord0;page10:tag3:entity58:key00000000:ref58:ord0;page292:tag5:entity58:key00000000:ref58:ord0,"スネーク 答えてくれよ！
+一緒にUMAを探すんだろ！？スネーーーク！！","嘘だろスネーク！？
+俺たちを置いて...！スネーーーーク！！","一体どうしたんだ！？ねえ 応答してくれよ！
+頼むよ！！",,拜托，Snake！你不能就这样丢下我们！Snake——！,,MATCH,82,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,47,59,59;59;59,3,,page4:tag2:entity59:key00000000:ref59:ord0;page10:tag3:entity59:key00000000:ref59:ord0;page292:tag5:entity59:key00000000:ref59:ord0,"嘘だろスネーク！？
+俺たちを置いて...！スネーーーーク！！","一体どうしたんだ！？ねえ 応答してくれよ！
+頼むよ！！","どうしたんだよ一体！
+ねえ ねえったら......！",,到底发生了什么？！跟我说说话！求你了！,,MATCH,77,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,48,60,60;60;60,3,,page4:tag2:entity60:key00000000:ref60:ord0;page10:tag3:entity60:key00000000:ref60:ord0;page292:tag5:entity60:key00000000:ref60:ord0,"一体どうしたんだ！？ねえ 応答してくれよ！
+頼むよ！！","どうしたんだよ一体！
+ねえ ねえったら......！","答えてくれよ！
+一緒に<R= 祖国 ,ニカラグア>に帰るんだろ！？　なあ...！",,怎么回事？！你还能听到我吗？请回话！,,MATCH,62,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,49,62,62;62;62,3,,page4:tag2:entity61:key00000000:ref62:ord0;page10:tag3:entity61:key00000000:ref62:ord0;page292:tag5:entity61:key00000000:ref62:ord0,"どうしたんだよ一体！
+ねえ ねえったら......！","答えてくれよ！
+一緒に<R= 祖国 ,ニカラグア>に帰るんだろ！？　なあ...！","戻ってきて スネーク！作戦は中止だよ
+...仲間が落ちちゃったんだ...","<R= 祖国 ,ニカラグア>","回答我！
+我们不是说好一起回<R=祖国,尼加拉瓜>吗？！喂……！","<R=祖国,尼加拉瓜>",MATCH,98,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,50,63,63;63;63,3,,page4:tag2:entity63:key00000000:ref63:ord0;page10:tag3:entity63:key00000000:ref63:ord0;page292:tag5:entity63:key00000000:ref63:ord0,"答えてくれよ！
+一緒に<R= 祖国 ,ニカラグア>に帰るんだろ！？　なあ...！","戻ってきて スネーク！作戦は中止だよ
+...仲間が落ちちゃったんだ...","仲間が落ちちゃった...戻ってきてスネーク
+どうしてちゃんと見てなかったんだよ！？",,返回基地，Snake！任务中止了。你的搭档倒下了…,,MATCH,92,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,51,65,65;65;65,3,,page4:tag2:entity64:key00000000:ref65:ord0;page10:tag3:entity64:key00000000:ref65:ord0;page292:tag5:entity64:key00000000:ref65:ord0,"戻ってきて スネーク！作戦は中止だよ
+...仲間が落ちちゃったんだ...","仲間が落ちちゃった...戻ってきてスネーク
+どうしてちゃんと見てなかったんだよ！？","まだだ！
+まだ終わってなーい！",,你的搭档倒下了…最好回来吧，Snake。,,MATCH,115,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,52,66,66;66;66,3,,page4:tag2:entity66:key00000000:ref66:ord0;page10:tag3:entity66:key00000000:ref66:ord0;page292:tag5:entity66:key00000000:ref66:ord0,"仲間が落ちちゃった...戻ってきてスネーク
+どうしてちゃんと見てなかったんだよ！？","まだだ！
+まだ終わってなーい！","<R=同志,コンパ>が落ちた！
+一旦戻ってきて態勢を立て直すんだ",,不！还不能就这么结束！,,MATCH,43,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,53,67,67;67;67,3,,page4:tag2:entity67:key00000000:ref67:ord0;page10:tag3:entity67:key00000000:ref67:ord0;page292:tag5:entity67:key00000000:ref67:ord0,"まだだ！
+まだ終わってなーい！","<R=同志,コンパ>が落ちた！
+一旦戻ってきて態勢を立て直すんだ","スネーク どうしたの！？　
+答えて スネーーーーク！！","<R=同志,コンパ>","<R=同志,Compa>倒下了！
+先回来重整态势。","<R=同志,Compa>",MATCH,84,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,54,68,68;68;68,3,,page4:tag2:entity68:key00000000:ref68:ord0;page10:tag3:entity68:key00000000:ref68:ord0;page292:tag5:entity68:key00000000:ref68:ord0,"<R=同志,コンパ>が落ちた！
+一旦戻ってきて態勢を立て直すんだ","スネーク どうしたの！？　
+答えて スネーーーーク！！","嘘でしょスネーク...こんなの嫌...
+答えて スネーーク！",,Snake，发生什么事了？！说句话啊！Snaaaaaaake！,,MATCH,75,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,55,69,69;69;69,3,,page4:tag2:entity69:key00000000:ref69:ord0;page10:tag3:entity69:key00000000:ref69:ord0;page292:tag5:entity69:key00000000:ref69:ord0,"スネーク どうしたの！？　
+答えて スネーーーーク！！","嘘でしょスネーク...こんなの嫌...
+答えて スネーーク！","スネークお願い あなたが倒れたら 
+コスタリカの平和は...応答して スネーク！！",,这不可能…告诉我你没事，Snake！Snaaaake！,,MATCH,74,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,56,70,70;70;70,3,,page4:tag2:entity70:key00000000:ref70:ord0;page10:tag3:entity70:key00000000:ref70:ord0;page292:tag5:entity70:key00000000:ref70:ord0,"嘘でしょスネーク...こんなの嫌...
+答えて スネーーク！","スネークお願い あなたが倒れたら 
+コスタリカの平和は...応答して スネーク！！","どうしたの！？　
+応答して！　お願い！！",,站起来，Snake！没有你，哥斯达黎加就完了！Snaaake！,,MATCH,109,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,57,71,71;71;71,3,,page4:tag2:entity71:key00000000:ref71:ord0;page10:tag3:entity71:key00000000:ref71:ord0;page292:tag5:entity71:key00000000:ref71:ord0,"スネークお願い あなたが倒れたら 
+コスタリカの平和は...応答して スネーク！！","どうしたの！？　
+応答して！　お願い！！","応答して！　ねえ！！　
+もう人が死ぬのはいや...！！",,发生什么事了？！说句话啊！,,MATCH,58,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,58,72,72;72;72,3,,page4:tag2:entity72:key00000000:ref72:ord0;page10:tag3:entity72:key00000000:ref72:ord0;page292:tag5:entity72:key00000000:ref72:ord0,"どうしたの！？　
+応答して！　お願い！！","応答して！　ねえ！！　
+もう人が死ぬのはいや...！！","お願い 立ち上がって...
+一緒にコスタリカの平和を守って...！",,不，别告诉我…我不想再看到任何人牺牲！,,MATCH,73,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,59,73,73;73;73,3,,page4:tag2:entity73:key00000000:ref73:ord0;page10:tag3:entity73:key00000000:ref73:ord0;page292:tag5:entity73:key00000000:ref73:ord0,"応答して！　ねえ！！　
+もう人が死ぬのはいや...！！","お願い 立ち上がって...
+一緒にコスタリカの平和を守って...！","スネーク 何があったんだい！？　
+応答してくれ スネーーーク！！",,求你了，站起来！哥斯达黎加需要你！,,MATCH,83,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,60,74,74;74;74,3,,page4:tag2:entity74:key00000000:ref74:ord0;page10:tag3:entity74:key00000000:ref74:ord0;page292:tag5:entity74:key00000000:ref74:ord0,"お願い 立ち上がって...
+一緒にコスタリカの平和を守って...！","スネーク 何があったんだい！？　
+応答してくれ スネーーーク！！","スネーク どうしたんだ！　君の力はこんなものじゃ
+ないだろう！？　スネーーーク！！",,Snake，发生什么事了？回答我！SNA-A-AKE！！,,MATCH,90,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,61,75,75;75;75,3,,page4:tag2:entity75:key00000000:ref75:ord0;page10:tag3:entity75:key00000000:ref75:ord0;page292:tag5:entity75:key00000000:ref75:ord0,"スネーク 何があったんだい！？　
+応答してくれ スネーーーク！！","スネーク どうしたんだ！　君の力はこんなものじゃ
+ないだろう！？　スネーーーク！！","スネーク しっかりしてくれ！ 誰がピースウォーカーを
+止めるんだ！？　スネーーーーク！！",,Snake，你没事吧？！振作点！SNA-A-AKE！！,,MATCH,119,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,62,77,77;77;77,3,,page4:tag2:entity76:key00000000:ref77:ord0;page10:tag3:entity76:key00000000:ref77:ord0;page292:tag5:entity76:key00000000:ref77:ord0,"スネーク どうしたんだ！　君の力はこんなものじゃ
+ないだろう！？　スネーーーク！！","スネーク しっかりしてくれ！ 誰がピースウォーカーを
+止めるんだ！？　スネーーーーク！！","スネーク！　立ち上がってくれスネーク！！　
+せめて手紙を渡してから...",,别死啊，Snake！现在还有谁能阻止和平行者？！,,MATCH,126,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,63,79,79;79;79,3,,page4:tag2:entity78:key00000000:ref79:ord0;page10:tag3:entity78:key00000000:ref79:ord0;page292:tag5:entity78:key00000000:ref79:ord0,"スネーク しっかりしてくれ！ 誰がピースウォーカーを
+止めるんだ！？　スネーーーーク！！","スネーク！　立ち上がってくれスネーク！！　
+せめて手紙を渡してから...","どうした 何があったんだ？　
+回路は生きてるだろ 応答してくれ！",,Snake！站起来，Snake！,,MATCH,100,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,64,81,81;81;81,3,,page4:tag2:entity80:key00000000:ref81:ord0;page10:tag3:entity80:key00000000:ref81:ord0;page292:tag5:entity80:key00000000:ref81:ord0,"スネーク！　立ち上がってくれスネーク！！　
+せめて手紙を渡してから...","どうした 何があったんだ？　
+回路は生きてるだろ 応答してくれ！","どうした 応答してくれ！　
+世界が核の炎に包まれてもいいのか...！？",,发生什么事了？你没事吧？,,MATCH,90,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,65,83,83;83;83,3,,page4:tag2:entity82:key00000000:ref83:ord0;page10:tag3:entity82:key00000000:ref83:ord0;page292:tag5:entity82:key00000000:ref83:ord0,"どうした 何があったんだ？　
+回路は生きてるだろ 応答してくれ！","どうした 応答してくれ！　
+世界が核の炎に包まれてもいいのか...！？",すまない...僕が作った兵器のせいで...,,怎么回事？回应！,,MATCH,95,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,66,84,84;84;84,3,,page4:tag2:entity84:key00000000:ref84:ord0;page10:tag3:entity84:key00000000:ref84:ord0;page292:tag5:entity84:key00000000:ref84:ord0,"どうした 応答してくれ！　
+世界が核の炎に包まれてもいいのか...！？",すまない...僕が作った兵器のせいで...,"何があったんだ スネーク！
+スネーーーークっ！！",,被我自己创造的东西…请原谅我…,,MATCH,51,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,67,85,85;85;85,3,,page4:tag2:entity85:key00000000:ref85:ord0;page10:tag3:entity85:key00000000:ref85:ord0;page292:tag5:entity85:key00000000:ref85:ord0,すまない...僕が作った兵器のせいで...,"何があったんだ スネーク！
+スネーーーークっ！！","スネーク 応答してくれ！
+スネーーーーークっ！！",,"发生什么事了，Snake？！
+Snake！",,MATCH,68,41,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,68,86,86;86;86,3,,page4:tag2:entity86:key00000000:ref86:ord0;page10:tag3:entity86:key00000000:ref86:ord0;page292:tag5:entity86:key00000000:ref86:ord0,"何があったんだ スネーク！
+スネーーーークっ！！","スネーク 応答してくれ！
+スネーーーーークっ！！","大丈夫か！？　
+スネーク！　スネーーークっ！！",,"Snake！快回答，Snake！
+Snake！",,MATCH,68,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,69,87,87;87;87,3,,page4:tag2:entity87:key00000000:ref87:ord0;page10:tag3:entity87:key00000000:ref87:ord0;page292:tag5:entity87:key00000000:ref87:ord0,"スネーク 応答してくれ！
+スネーーーーークっ！！","大丈夫か！？　
+スネーク！　スネーーークっ！！","どうしたんだボスっ！
+答えてくれ！　ボスーっ！！",,"你没事吧？！Snake？！
+Snake！",,MATCH,67,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,70,88,88;88;88,3,,page4:tag2:entity88:key00000000:ref88:ord0;page10:tag3:entity88:key00000000:ref88:ord0;page292:tag5:entity88:key00000000:ref88:ord0,"大丈夫か！？　
+スネーク！　スネーーークっ！！","どうしたんだボスっ！
+答えてくれ！　ボスーっ！！","スネーク どうした どうしたんだ！？
+状況を知らせてくれ スネーーーク！！",,"怎么了，Boss？
+回应！Boss！",,MATCH,70,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,71,89,89;90;89;90;89;90,6,,page4:tag2:entity89:key00000000:ref89:ord0;page4:tag2:entity90:key00000000:ref90:ord0;page10:tag3:entity89:key00000000:ref89:ord0;page10:tag3:entity90:key00000000:ref90:ord0;page292:tag5:entity89:key00000000:ref89:ord0;page292:tag5:entity90:key00000000:ref90:ord0,"どうしたんだボスっ！
+答えてくれ！　ボスーっ！！","スネーク どうした どうしたんだ！？
+状況を知らせてくれ スネーーーク！！","嘘だろスネーク！？こんなところで
+終わりじゃないはずだ！ スネーーーク！！",,"怎么回事，Snake？！报告！
+你的情况如何？！Snake！",,MATCH,103,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,72,91,91;91;91,3,,page4:tag2:entity91:key00000000:ref91:ord0;page10:tag3:entity91:key00000000:ref91:ord0;page292:tag5:entity91:key00000000:ref91:ord0,"スネーク どうした どうしたんだ！？
+状況を知らせてくれ スネーーーク！！","嘘だろスネーク！？こんなところで
+終わりじゃないはずだ！ スネーーーク！！","どうした？　何があったんだ！？
+応答せよ！　応答せよ！",,"别开玩笑了，Snake！
+你不能让一切在这里结束！Snake！",,MATCH,107,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,73,92,92;92;92,3,,page4:tag2:entity92:key00000000:ref92:ord0;page10:tag3:entity92:key00000000:ref92:ord0;page292:tag5:entity92:key00000000:ref92:ord0,"嘘だろスネーク！？こんなところで
+終わりじゃないはずだ！ スネーーーク！！","どうした？　何があったんだ！？
+応答せよ！　応答せよ！","おい！　何があった！？
+答えろ！　答えるんだ！！",,怎么了？发生什么事了？！报告你的状态！报告！,,MATCH,79,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,74,93,93;93;93,3,,page4:tag2:entity93:key00000000:ref93:ord0;page10:tag3:entity93:key00000000:ref93:ord0;page292:tag5:entity93:key00000000:ref93:ord0,"どうした？　何があったんだ！？
+応答せよ！　応答せよ！","おい！　何があった！？
+答えろ！　答えるんだ！！","まずい やられたか！？　おい！　応答しろ...！
+ダメか...",,喂！怎么回事？！报告！快报告，该死！,,MATCH,70,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,75,94,94;94;94,3,,page4:tag2:entity94:key00000000:ref94:ord0;page10:tag3:entity94:key00000000:ref94:ord0;page292:tag5:entity94:key00000000:ref94:ord0,"おい！　何があった！？
+答えろ！　答えるんだ！！","まずい やられたか！？　おい！　応答しろ...！
+ダメか...","どうした！？　何故応答しない！
+状況を報告するんだ！！",,该死，他们把我们害惨了。你没事吧？回应！,,MATCH,77,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,76,95,95;96;95;96;95;96,6,,page4:tag2:entity95:key00000000:ref95:ord0;page4:tag2:entity96:key00000000:ref96:ord0;page10:tag3:entity95:key00000000:ref95:ord0;page10:tag3:entity96:key00000000:ref96:ord0;page292:tag5:entity95:key00000000:ref95:ord0;page292:tag5:entity96:key00000000:ref96:ord0,"まずい やられたか！？　おい！　応答しろ...！
+ダメか...","どうした！？　何故応答しない！
+状況を報告するんだ！！","まずいぞスネーク
+仲間が落ちた 作戦中止だ！",,怎么了？为什么不回应？！请求状态报告！,,MATCH,79,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,77,97,97;97;97,3,,page4:tag2:entity97:key00000000:ref97:ord0;page10:tag3:entity97:key00000000:ref97:ord0;page292:tag5:entity97:key00000000:ref97:ord0,"どうした！？　何故応答しない！
+状況を報告するんだ！！","まずいぞスネーク
+仲間が落ちた 作戦中止だ！", ,,"结束了，Snake。你的同伴倒下了。
+任务取消！",,MATCH,62,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,78,98,98;100;102;98;100;102;98;100;102,9,,page4:tag2:entity99:key00000001:ref98:ord0;page4:tag2:entity101:key00000001:ref100:ord0;page4:tag2:entity103:key00000001:ref102:ord0;page10:tag3:entity99:key00000001:ref98:ord0;page10:tag3:entity101:key00000001:ref100:ord0;page10:tag3:entity103:key00000001:ref102:ord0;page292:tag5:entity99:key00000001:ref98:ord0;page292:tag5:entity101:key00000001:ref100:ord0;page292:tag5:entity103:key00000001:ref102:ord0,"まずいぞスネーク
+仲間が落ちた 作戦中止だ！", ,"作戦中止だ スネーク！
+仲間が落ちた！！",,你怎么能让他死掉？！,,MATCH,1,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=9; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,79,99,99;99;99,3,,page4:tag2:entity98:key00000000:ref99:ord0;page10:tag3:entity98:key00000000:ref99:ord0;page292:tag5:entity98:key00000000:ref99:ord0, ,"作戦中止だ スネーク！
+仲間が落ちた！！", ,,"中止任务，Snake！
+你的同伴倒下了！",,MATCH,56,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,80,101,101;101;101,3,,page4:tag2:entity100:key00000000:ref101:ord0;page10:tag3:entity100:key00000000:ref101:ord0;page292:tag5:entity100:key00000000:ref101:ord0, ,"止まれスネーク 作戦は中止だ
+仲間が行動不能になった　残念だよ...", ,,"等等，Snake。你的人已经失去战斗力。
+任务取消了。",,MATCH,92,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,81,103,103;103;103,3,,page4:tag2:entity102:key00000000:ref103:ord0;page10:tag3:entity102:key00000000:ref103:ord0;page292:tag5:entity102:key00000000:ref103:ord0, ,"仲間からの応答が途絶えた！
+作戦中止だ スネーク　帰投してくれ...","まずいぞ 仲間が落ちた
+作戦中止だ！",,"我联系不上
+你的搭档，Snake。",,MATCH,92,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,82,104,104;104;104,3,,page4:tag2:entity104:key00000000:ref104:ord0;page10:tag3:entity104:key00000000:ref104:ord0;page292:tag5:entity104:key00000000:ref104:ord0,"仲間からの応答が途絶えた！
+作戦中止だ スネーク　帰投してくれ...","まずいぞ 仲間が落ちた
+作戦中止だ！","仲間が落ちた！
+作戦は中止だ 帰投せよ！",,该死，老兄！你的搭档倒下了。我们得中止任务！,,MATCH,50,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,83,105,105;105;105,3,,page4:tag2:entity105:key00000000:ref105:ord0;page10:tag3:entity105:key00000000:ref105:ord0;page292:tag5:entity105:key00000000:ref105:ord0,"まずいぞ 仲間が落ちた
+作戦中止だ！","仲間が落ちた！
+作戦は中止だ 帰投せよ！","作戦は中止だ 仲間が行動不能になった
+戻ってこい...",,我们失去了一位同伴！这次行动结束了。返回基地！,,MATCH,56,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,84,106,106;106;106,3,,page4:tag2:entity106:key00000000:ref106:ord0;page10:tag3:entity106:key00000000:ref106:ord0;page292:tag5:entity106:key00000000:ref106:ord0,"仲間が落ちた！
+作戦は中止だ 帰投せよ！","作戦は中止だ 仲間が行動不能になった
+戻ってこい...","作戦は中止だ
+仲間が行動不能になった",,中止任务。我们有一个人倒下了。快回来吧…,,MATCH,71,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,85,107,107;107;107,3,,page4:tag2:entity107:key00000000:ref107:ord0;page10:tag3:entity107:key00000000:ref107:ord0;page292:tag5:entity107:key00000000:ref107:ord0,"作戦は中止だ 仲間が行動不能になった
+戻ってこい...","作戦は中止だ
+仲間が行動不能になった","仲間からの応答が途絶えた
+作戦中止だ 帰投せよ！",,中止任务。我们有一个人倒下了。,,MATCH,52,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,86,108,108;108;108,3,,page4:tag2:entity108:key00000000:ref108:ord0;page10:tag3:entity108:key00000000:ref108:ord0;page292:tag5:entity108:key00000000:ref108:ord0,"作戦は中止だ
+仲間が行動不能になった","仲間からの応答が途絶えた
+作戦中止だ 帰投せよ！","気絶してた兵士がお目覚めだ
+こうなったら回収できん 帰投してくれ",,我联系不上你的搭档。我要取消任务。立即返回！,,MATCH,68,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,87,110,110;110;110,3,,page4:tag2:entity109:key00000000:ref110:ord0;page10:tag3:entity109:key00000000:ref110:ord0;page292:tag5:entity109:key00000000:ref110:ord0,"仲間からの応答が途絶えた
+作戦中止だ 帰投せよ！","気絶してた兵士がお目覚めだ
+こうなったら回収できん 帰投してくれ","捕虜が別の場所に移されてしまった
+残念だが救出は無理だ 帰投してくれ",,那名昏迷的士兵正在苏醒。,,MATCH,92,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,88,112,112;112;112,3,,page4:tag2:entity111:key00000000:ref112:ord0;page10:tag3:entity111:key00000000:ref112:ord0;page292:tag5:entity111:key00000000:ref112:ord0,"気絶してた兵士がお目覚めだ
+こうなったら回収できん 帰投してくれ","捕虜が別の場所に移されてしまった
+残念だが救出は無理だ 帰投してくれ","作戦中止だ！
+<R=偵察,スカウト>兵は殺さずにフルトン回収しろと言ったろう",,囚犯已经被转移到别处了。我们现在救不了他了。,,MATCH,98,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,89,114,114;114;114,3,,page4:tag2:entity113:key00000000:ref114:ord0;page10:tag3:entity113:key00000000:ref114:ord0;page292:tag5:entity113:key00000000:ref114:ord0,"捕虜が別の場所に移されてしまった
+残念だが救出は無理だ 帰投してくれ","作戦中止だ！
+<R=偵察,スカウト>兵は殺さずにフルトン回収しろと言ったろう","拠点が全部制圧されちまった
+完敗だ","<R=偵察,スカウト>","行动中止！
+不是说过别杀<R=侦察,Scout>兵，要用富尔顿回收吗？","<R=侦察,Scout>",MATCH,102,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5DD2A877,90,116,116;116;116,3,,page4:tag2:entity115:key00000000:ref116:ord0;page10:tag3:entity115:key00000000:ref116:ord0;page292:tag5:entity115:key00000000:ref116:ord0,"作戦中止だ！
+<R=偵察,スカウト>兵は殺さずにフルトン回収しろと言ったろう","拠点が全部制圧されちまった
+完敗だ","作戦中止だ
+アイテムが奪われた せっかく手に入れたのにな...畜生",,所有基地都已被占领。,,MATCH,49,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,91,117,117;117;117,3,,page4:tag2:entity117:key00000000:ref117:ord0;page10:tag3:entity117:key00000000:ref117:ord0;page292:tag5:entity117:key00000000:ref117:ord0,"拠点が全部制圧されちまった
+完敗だ","作戦中止だ
+アイテムが奪われた せっかく手に入れたのにな...畜生","確保したアイテムが全部奪われちまった
+作戦は失敗だよ",,"中止任务——他们偷走了一件物品。
+而你本来拿着它…该死！",,MATCH,89,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
+5DD2A877,92,119,119;119;119,3,,page4:tag2:entity118:key00000000:ref119:ord0;page10:tag3:entity118:key00000000:ref119:ord0;page292:tag5:entity118:key00000000:ref119:ord0,"作戦中止だ
+アイテムが奪われた せっかく手に入れたのにな...畜生","確保したアイテムが全部奪われちまった
+作戦は失敗だよ","捕虜が敵兵に捕まった 作戦は失敗だ
+彼が自力で逃げ出せることを祈ろう",,我们缴获的所有物品都被偷走了。,,MATCH,76,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,93,121,121;121;121,3,,page4:tag2:entity120:key00000000:ref121:ord0;page10:tag3:entity120:key00000000:ref121:ord0;page292:tag5:entity120:key00000000:ref121:ord0,"確保したアイテムが全部奪われちまった
+作戦は失敗だよ","捕虜が敵兵に捕まった 作戦は失敗だ
+彼が自力で逃げ出せることを祈ろう","時間切れだ！ ここは一旦退くんだ
+作戦は中止する",,敌军士兵抓住了囚犯。任务失败了。,,MATCH,98,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,94,123,123;123;123,3,,page4:tag2:entity122:key00000000:ref123:ord0;page10:tag3:entity122:key00000000:ref123:ord0;page292:tag5:entity122:key00000000:ref123:ord0,"捕虜が敵兵に捕まった 作戦は失敗だ
+彼が自力で逃げ出せることを祈ろう","時間切れだ！ ここは一旦退くんだ
+作戦は中止する","弾切れだな 作戦中止だ
+戻ってくれ",,时间到！,,MATCH,68,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,95,125,125;125;125,3,,page4:tag2:entity124:key00000000:ref125:ord0;page10:tag3:entity124:key00000000:ref125:ord0;page292:tag5:entity124:key00000000:ref125:ord0,"時間切れだ！ ここは一旦退くんだ
+作戦は中止する","弾切れだな 作戦中止だ
+戻ってくれ","弾切れだな
+さすがのあんたでも無理だったか...作戦は中止だ",,没弹药了，是吗？,,MATCH,47,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,96,128,128;128;128,3,,page4:tag2:entity126:key00000000:ref128:ord0;page10:tag3:entity126:key00000000:ref128:ord0;page292:tag5:entity126:key00000000:ref128:ord0,"弾切れだな 作戦中止だ
+戻ってくれ","弾切れだな
+さすがのあんたでも無理だったか...作戦は中止だ","弾がなくなったようだな
+俺の見込み違いだったか...帰ってこい",,没弹药了吧？,,MATCH,82,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,97,130,130;130;130,3,,page4:tag2:entity129:key00000000:ref130:ord0;page10:tag3:entity129:key00000000:ref130:ord0;page292:tag5:entity129:key00000000:ref130:ord0,"弾切れだな
+さすがのあんたでも無理だったか...作戦は中止だ","弾がなくなったようだな
+俺の見込み違いだったか...帰ってこい",うぐぉぁーーっ！！,,看来你没弹药了。,,MATCH,85,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,98,131,131;131;131,3,,page4:tag2:entity131:key00000000:ref131:ord0;page10:tag3:entity131:key00000000:ref131:ord0;page292:tag5:entity131:key00000000:ref131:ord0,"弾がなくなったようだな
+俺の見込み違いだったか...帰ってこい",うぐぉぁーーっ！！,"各班消火にあたれ！
+くそっ 追いつかん...！ うぉーっ！",,啊啊啊啊啊啊啊！,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,99,132,132;132;132,3,,page4:tag2:entity132:key00000000:ref132:ord0;page10:tag3:entity132:key00000000:ref132:ord0;page292:tag5:entity132:key00000000:ref132:ord0,うぐぉぁーーっ！！,"各班消火にあたれ！
+くそっ 追いつかん...！ うぉーっ！",おふくろ...そこにいるのはおふくろか？ うぉあっ...！,,大家，把火扑灭！该死——我们永远赶不上了！呃啊！,,MATCH,75,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,100,133,133;133;133,3,,page4:tag2:entity133:key00000000:ref133:ord0;page10:tag3:entity133:key00000000:ref133:ord0;page292:tag5:entity133:key00000000:ref133:ord0,"各班消火にあたれ！
+くそっ 追いつかん...！ うぉーっ！",おふくろ...そこにいるのはおふくろか？ うぉあっ...！,"何をしている
+殺してはダメだと言ったろう！",,妈妈…是你吗，妈妈…？啊——！！,,MATCH,73,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,101,134,134;134;134,3,,page4:tag2:entity134:key00000000:ref134:ord0;page10:tag3:entity134:key00000000:ref134:ord0;page292:tag5:entity134:key00000000:ref134:ord0,おふくろ...そこにいるのはおふくろか？ うぉあっ...！,"何をしている
+殺してはダメだと言ったろう！","見つかっちまったか
+訓練は終了だ 戻ってくれ",,你在干什么？我不是让你留他活口吗！,,MATCH,61,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,102,135,135;135;135,3,,page4:tag2:entity135:key00000000:ref135:ord0;page10:tag3:entity135:key00000000:ref135:ord0;page292:tag5:entity135:key00000000:ref135:ord0,"何をしている
+殺してはダメだと言ったろう！","見つかっちまったか
+訓練は終了だ 戻ってくれ","クソっ！
+研究員がやられた ミッション失敗だ！",,他们发现你了？训练结束——回来吧。,,MATCH,62,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,103,136,136;136;136,3,,page4:tag2:entity136:key00000000:ref136:ord0;page10:tag3:entity136:key00000000:ref136:ord0;page292:tag5:entity136:key00000000:ref136:ord0,"見つかっちまったか
+訓練は終了だ 戻ってくれ","クソっ！
+研究員がやられた ミッション失敗だ！","タイムアウトだ
+ミッション失敗",,不！他们抓走了研究员——任务失败！,,MATCH,65,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,104,137,137;137;137,3,,page4:tag2:entity137:key00000000:ref137:ord0;page10:tag3:entity137:key00000000:ref137:ord0;page292:tag5:entity137:key00000000:ref137:ord0,"クソっ！
+研究員がやられた ミッション失敗だ！","タイムアウトだ
+ミッション失敗","時間切れだ...
+目的は未達成か...",,时间到。任务失败。,,MATCH,43,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,105,138,138;138;138,3,,page4:tag2:entity138:key00000000:ref138:ord0;page10:tag3:entity138:key00000000:ref138:ord0;page292:tag5:entity138:key00000000:ref138:ord0,"タイムアウトだ
+ミッション失敗","時間切れだ...
+目的は未達成か...","ダメだ タイムリミットに間に合わない
+作戦は失敗だ",,时间到了…任务未完成…,,MATCH,43,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,106,139,139;139;139,3,,page4:tag2:entity139:key00000000:ref139:ord0;page10:tag3:entity139:key00000000:ref139:ord0;page292:tag5:entity139:key00000000:ref139:ord0,"時間切れだ...
+目的は未達成か...","ダメだ タイムリミットに間に合わない
+作戦は失敗だ","スネーク...
+ピースウォーカーは核を発射してしまったお終いだ",,算了吧，你根本来不及。任务已经结束了。,,MATCH,71,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,107,140,140;140;140,3,,page4:tag2:entity140:key00000000:ref140:ord0;page10:tag3:entity140:key00000000:ref140:ord0;page292:tag5:entity140:key00000000:ref140:ord0,"ダメだ タイムリミットに間に合わない
+作戦は失敗だ","スネーク...
+ピースウォーカーは核を発射してしまったお終いだ",ペンタゴンの連中は世界の破滅を選んだんだ,,Snake…和平行者发射了核弹。一切都完了。,,MATCH,85,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,108,141,141;141;141,3,,page4:tag2:entity142:key00000001:ref141:ord0;page10:tag3:entity142:key00000001:ref141:ord0;page292:tag5:entity142:key00000001:ref141:ord0,"スネーク...
+ピースウォーカーは核を発射してしまったお終いだ",ペンタゴンの連中は世界の破滅を選んだんだ,スネーク...核が発射された,,五角大楼那些混蛋，就这么把世界推入了核浩劫！,,MATCH,60,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,109,142,142;142;142,3,,page4:tag2:entity141:key00000000:ref142:ord0;page10:tag3:entity141:key00000000:ref142:ord0;page292:tag5:entity141:key00000000:ref142:ord0,ペンタゴンの連中は世界の破滅を選んだんだ,スネーク...核が発射された,"ミッション失敗だ
+帰投しろ！",,Snake…核弹已经发射了。,,MATCH,36,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,110,143,143;144;145;146;147;148;143;144;145;146;147;148;143;144;145;146;147;148,18,,page4:tag2:entity143:key00000000:ref143:ord0;page4:tag2:entity144:key00000000:ref144:ord0;page4:tag2:entity145:key00000000:ref145:ord0;page4:tag2:entity146:key00000000:ref146:ord0;page4:tag2:entity147:key00000000:ref147:ord0;page4:tag2:entity148:key00000000:ref148:ord0;page10:tag3:entity143:key00000000:ref143:ord0;page10:tag3:entity144:key00000000:ref144:ord0;page10:tag3:entity145:key00000000:ref145:ord0;page10:tag3:entity146:key00000000:ref146:ord0;page10:tag3:entity147:key00000000:ref147:ord0;page10:tag3:entity148:key00000000:ref148:ord0;page292:tag5:entity143:key00000000:ref143:ord0;page292:tag5:entity144:key00000000:ref144:ord0;page292:tag5:entity145:key00000000:ref145:ord0;page292:tag5:entity146:key00000000:ref146:ord0;page292:tag5:entity147:key00000000:ref147:ord0;page292:tag5:entity148:key00000000:ref148:ord0,スネーク...核が発射された,"ミッション失敗だ
+帰投しろ！",ジ・エンド,,任务失败了。返回基地！,,MATCH,40,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=18; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,111,149,149;150;149;150;149;150,6,,page4:tag2:entity150:key00000001:ref149:ord0;page4:tag2:entity149:key00000000:ref150:ord0;page10:tag3:entity150:key00000001:ref149:ord0;page10:tag3:entity149:key00000000:ref150:ord0;page292:tag5:entity150:key00000001:ref149:ord0;page292:tag5:entity149:key00000000:ref150:ord0,"ミッション失敗だ
+帰投しろ！",ジ・エンド,"パス 待ってくれ！
+パスぅ！",,结束了！,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=6; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,112,151,151;151;151,3,,page4:tag2:entity151:key00000000:ref151:ord0;page10:tag3:entity151:key00000000:ref151:ord0;page292:tag5:entity151:key00000000:ref151:ord0,ジ・エンド,"パス 待ってくれ！
+パスぅ！","俺が悪かった 行かないでくれ！
+パス パスぅ！",,Paz，等等！PA-A-AZ！,,MATCH,38,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,113,152,152;152;152,3,,page4:tag2:entity152:key00000000:ref152:ord0;page10:tag3:entity152:key00000000:ref152:ord0;page292:tag5:entity152:key00000000:ref152:ord0,"パス 待ってくれ！
+パスぅ！","俺が悪かった 行かないでくれ！
+パス パスぅ！","カズ おい待ってくれ！
+カズぅ！",,Paz，对不起！别走！PA-A-AZ！,,MATCH,63,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,114,153,153;153;153,3,,page4:tag2:entity153:key00000000:ref153:ord0;page10:tag3:entity153:key00000000:ref153:ord0;page292:tag5:entity153:key00000000:ref153:ord0,"俺が悪かった 行かないでくれ！
+パス パスぅ！","カズ おい待ってくれ！
+カズぅ！","すまん カズ やり直そう！
+おい カズ カズぅ！",,嘿，Kaz，回来！KA-A-AZ！,,MATCH,44,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,115,154,154;154;154,3,,page4:tag2:entity154:key00000000:ref154:ord0;page10:tag3:entity154:key00000000:ref154:ord0;page292:tag5:entity154:key00000000:ref154:ord0,"カズ おい待ってくれ！
+カズぅ！","すまん カズ やり直そう！
+おい カズ カズぅ！",アマンダ （CV：朴 璐美）,,Kaz，对不起！我不是故意的！拜托！KA-A-AZ！,,MATCH,62,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,116,155,155;155;155,3,,page4:tag2:entity155:key00000000:ref155:ord0;page10:tag3:entity155:key00000000:ref155:ord0;page292:tag5:entity155:key00000000:ref155:ord0,"すまん カズ やり直そう！
+おい カズ カズぅ！",アマンダ （CV：朴 璐美）,セシール （CV：小林ゆう）,,Amanda (Grey DeLisle),,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,117,156,156;156;156,3,,page4:tag2:entity156:key00000000:ref156:ord0;page10:tag3:entity156:key00000000:ref156:ord0;page292:tag5:entity156:key00000000:ref156:ord0,アマンダ （CV：朴 璐美）,セシール （CV：小林ゆう）,チコ （CV：井上喜久子）,,Cécile (Cathrine Taber),,MATCH,36,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,118,157,157;157;157,3,,page4:tag2:entity157:key00000000:ref157:ord0;page10:tag3:entity157:key00000000:ref157:ord0;page292:tag5:entity157:key00000000:ref157:ord0,セシール （CV：小林ゆう）,チコ （CV：井上喜久子）,ストレンジラブ （CV：菊地由美）,,Chico (Antony Del Rio),,MATCH,33,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,119,158,158;158;158,3,,page4:tag2:entity158:key00000000:ref158:ord0;page10:tag3:entity158:key00000000:ref158:ord0;page292:tag5:entity158:key00000000:ref158:ord0,チコ （CV：井上喜久子）,ストレンジラブ （CV：菊地由美）,ヒューイ （CV：田中秀幸）,,Strangelove (Vanessa Marshall),,MATCH,45,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,120,159,159;159;159,3,,page4:tag2:entity159:key00000000:ref159:ord0;page10:tag3:entity159:key00000000:ref159:ord0;page292:tag5:entity159:key00000000:ref159:ord0,ストレンジラブ （CV：菊地由美）,ヒューイ （CV：田中秀幸）,ミラー （CV：杉田智和）,,Huey (Christopher Randolph),,MATCH,36,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,121,160,160;160;160,3,,page4:tag2:entity160:key00000000:ref160:ord0;page10:tag3:entity160:key00000000:ref160:ord0;page292:tag5:entity160:key00000000:ref160:ord0,ヒューイ （CV：田中秀幸）,ミラー （CV：杉田智和）,パス （CV：水樹奈々）,,Miller (Robin Atkin Downes),,MATCH,33,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,122,161,161;161;161,3,,page4:tag2:entity161:key00000000:ref161:ord0;page10:tag3:entity161:key00000000:ref161:ord0;page292:tag5:entity161:key00000000:ref161:ord0,ミラー （CV：杉田智和）,パス （CV：水樹奈々）,スネーク （CV：大塚明夫）,,Paz (Tara Strong),,MATCH,30,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX
+5DD2A877,123,162,162;162;162,3,,page4:tag2:entity162:key00000000:ref162:ord0;page10:tag3:entity162:key00000000:ref162:ord0;page292:tag5:entity162:key00000000:ref162:ord0,パス （CV：水樹奈々）,スネーク （CV：大塚明夫）,METAL GEAR SOLID PEACE WALKER,,Snake（CV：大塚明夫）,,MATCH,36,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=JPN_CONFIRMED_AUX

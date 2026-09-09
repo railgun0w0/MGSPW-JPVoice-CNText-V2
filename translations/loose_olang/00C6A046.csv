@@ -1,0 +1,24 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+00C6A046,0,4,4,1,,page:tag:entity3:key00F76A2A:ref4:ord4,,"システムデータのセーブに失敗しました。
+再試行しますか？",セーブに失敗しました。再試行しますか？,,"系统数据保存失败。
+是否重试？",,MATCH,82,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C6A046,1,10,10,1,,page:tag:entity2:key00ECE603:ref10:ord4,"システムデータのセーブに失敗しました。
+再試行しますか？",セーブに失敗しました。再試行しますか？,"システムデータの作成に失敗しました。
+再試行しますか？",,保存失败。是否重试？,,MATCH,57,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDED_GAME_DATA_SCOPE_NOT_IN_JPN;JPN_TRANSLATED_DIRECTLY
+00C6A046,2,16,16,1,,page:tag:entity1:key005A8A34:ref16:ord4,セーブに失敗しました。再試行しますか？,"システムデータの作成に失敗しました。
+再試行しますか？","セーブデータの作成に失敗しました。
+再試行しますか？",,"系统数据创建失败。
+是否重试？",,MATCH,79,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C6A046,3,22,22,1,,page:tag:entity0:key0050E730:ref22:ord4,"システムデータの作成に失敗しました。
+再試行しますか？","セーブデータの作成に失敗しました。
+再試行しますか？",OVER_MAX_NUM,,"存档数据创建失败。
+是否重试？",,MATCH,76,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C6A046,4,28,28,1,,page:tag:entity4:key00A5F795:ref28:ord4,"セーブデータの作成に失敗しました。
+再試行しますか？",OVER_MAX_NUM,"セーブデータをチェックしています。
+絶対に、本体の電源を切らないでください。",,OVER_MAX_NUM,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_UNCHANGED_IDENTIFIER_PRESERVED
+00C6A046,5,34,34,1,,page:tag:entity5:key00220A93:ref34:ord4,OVER_MAX_NUM,"セーブデータをチェックしています。
+絶対に、本体の電源を切らないでください。",NOW_SAVING,,"正在检查存档数据。
+请绝对不要关闭主机电源。",,MATCH,112,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+00C6A046,6,40,40,1,,page:tag:entity6:key004DFE7B:ref40:ord4,"セーブデータをチェックしています。
+絶対に、本体の電源を切らないでください。",NOW_SAVING,FAIL_SAVE,,NOW_SAVING,,MATCH,10,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_UNCHANGED_IDENTIFIER_PRESERVED
+00C6A046,7,46,46,1,,page:tag:entity7:key0062A9E3:ref46:ord4,NOW_SAVING,FAIL_SAVE,,,FAIL_SAVE,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_UNCHANGED_IDENTIFIER_PRESERVED

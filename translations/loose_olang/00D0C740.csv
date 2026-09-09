@@ -1,0 +1,246 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+00D0C740,0,4,4,1,,page:tag:entity0:key0018BD2E:ref4:ord4,,CO-OPS MEMBER`S FRIENDS,TO GAME SELECT,,CO-OPS MEMBER`S FRIENDS,,MATCH,23,23,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LATIN_UI_LABEL_LOCALIZED; AUX_PRESERVES_ENGLISH; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+00D0C740,1,10,10,1,,page:tag:entity5:key005C60D3:ref10:ord4,CO-OPS MEMBER`S FRIENDS,TO GAME SELECT,CO-OPS MEMBER,,TO GAME SELECT,,MATCH,14,14,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LATIN_UI_LABEL_LOCALIZED; AUX_UNCHANGED; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+00D0C740,2,16,16,1,,page:tag:entity8:key00A92A66:ref16:ord4,TO GAME SELECT,CO-OPS MEMBER,左スティック感度,,CO-OPS MEMBER,,MATCH,13,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LATIN_UI_LABEL_LOCALIZED; AUX_UNCHANGED; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+00D0C740,3,22,22,1,,page:tag:entity2:key00341A6F:ref22:ord4,CO-OPS MEMBER,左スティック感度,プレイの記録を保存します。,,左摇杆灵敏度,,MATCH,24,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,4,28,28,1,,page:tag:entity1:key002F41F2:ref28:ord4,左スティック感度,プレイの記録を保存します。,Retry,,保存游戏记录。,,MATCH,39,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,5,34,34,1,,page:tag:entity4:key0043DA9E:ref34:ord4,プレイの記録を保存します。,Retry,プレイ人数:,,重试,,MATCH,5,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,6,40,40,1,,page:tag:entity7:key009EE1C6:ref40:ord4,Retry,プレイ人数:,"サインインした状態でゲームを開始しなかったため、セーブすることができません。
+セーブデータを作成するにはタイトルメニューに戻り、サインインした状態でNEW GAMEを選択して、新たにゲームを開始してください。",,玩家人数：,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,7,46,46,1,,page:tag:entity6:key00607A12:ref46:ord4,プレイ人数:,"サインインした状態でゲームを開始しなかったため、セーブすることができません。
+セーブデータを作成するにはタイトルメニューに戻り、サインインした状態でNEW GAMEを選択して、新たにゲームを開始してください。","ゲームを終了します。
+よろしいですか？",,"开始游戏时未处于登录状态，因此无法保存。
+若要创建存档数据，请返回标题菜单，在登录状态下选择NEW GAME并重新开始游戏。",,MATCH,294,168,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH; JPN_TRANSLATED_DIRECTLY
+00D0C740,8,52,52,1,,page:tag:entity10:key00FD73C3:ref52:ord4,"サインインした状態でゲームを開始しなかったため、セーブすることができません。
+セーブデータを作成するにはタイトルメニューに戻り、サインインした状態でNEW GAMEを選択して、新たにゲームを開始してください。","ゲームを終了します。
+よろしいですか？",GUEST,,"将退出游戏。
+确定吗？",,MATCH,55,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,9,58,58,1,,page:tag:entity9:key00EF89E5:ref58:ord4,"ゲームを終了します。
+よろしいですか？",GUEST,Cancel,,访客,,MATCH,5,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,10,64,64,1,,page:tag:entity3:key00381576:ref64:ord4,GUEST,Cancel,初期化,,取消,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,11,70,70,1,,page:tag:entity11:key00885A47:ref70:ord4,Cancel,初期化,セッションに入るために、一度タイトルに戻ります。,,初始化,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,12,76,76,1,,page:tag:entity19:key00BCE4FB:ref76:ord4,初期化,セッションに入るために、一度タイトルに戻ります。,招待を受けるために、一度タイトルに戻ります。,,为加入会话，将暂时返回标题画面。,,MATCH,72,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,13,82,82,1,,page:tag:entity18:key00BCE4FA:ref82:ord4,セッションに入るために、一度タイトルに戻ります。,招待を受けるために、一度タイトルに戻ります。,先ほど入ろうとしたセッションに入りますか？,,为接受邀请，将暂时返回标题画面。,,MATCH,66,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,14,88,88,1,,page:tag:entity17:key00BCE4F9:ref88:ord4,招待を受けるために、一度タイトルに戻ります。,先ほど入ろうとしたセッションに入りますか？,先ほど招待を受けたセッションに移動しますか？,,要加入刚才尝试进入的会话吗？,,MATCH,63,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,15,94,94,1,,page:tag:entity16:key00BCE4F8:ref94:ord4,先ほど入ろうとしたセッションに入りますか？,先ほど招待を受けたセッションに移動しますか？,"ここからはセッションに入れません。
+
+セッションに入るには、TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面に移動してください。",,要前往刚才受邀的会话吗？,,MATCH,66,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,16,100,100,1,,page:tag:entity15:key00BCE4F7:ref100:ord4,先ほど招待を受けたセッションに移動しますか？,"ここからはセッションに入れません。
+
+セッションに入るには、TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面に移動してください。","ここからはセッションに入れません。
+
+セッションに入るには、タイトル画面、TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面に移動してください。",,"无法从这里加入会话。
+
+若要加入会话，请前往TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面。",,MATCH,194,143,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; DUPLICATE_TRADE_ENTRY_PRESERVED_FROM_JPN
+00D0C740,17,106,106,1,,page:tag:entity14:key00BCE4F6:ref106:ord4,"ここからはセッションに入れません。
+
+セッションに入るには、TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面に移動してください。","ここからはセッションに入れません。
+
+セッションに入るには、タイトル画面、TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面に移動してください。","ここでは招待を受けられません。
+
+招待はMISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面で受けてください。",,"无法从这里加入会话。
+
+若要加入会话，请前往标题画面、TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面。",,MATCH,215,158,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; DUPLICATE_TRADE_ENTRY_PRESERVED_FROM_JPN
+00D0C740,18,112,112,1,,page:tag:entity13:key00BCE4F5:ref112:ord4,"ここからはセッションに入れません。
+
+セッションに入るには、タイトル画面、TRADE画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面に移動してください。","ここでは招待を受けられません。
+
+招待はMISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面で受けてください。","ここでは招待を受けられません。
+
+招待はタイトル画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面で受けてください。",,"无法在这里接受邀请。
+
+请在MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面接受邀请。",,MATCH,147,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,19,118,118,1,,page:tag:entity12:key00BCE4F4:ref118:ord4,"ここでは招待を受けられません。
+
+招待はMISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面で受けてください。","ここでは招待を受けられません。
+
+招待はタイトル画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面で受けてください。",私が知りたいのはひとつ。“真実”だ。 ,,"无法在这里接受邀请。
+
+请在标题画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面接受邀请。",,MATCH,168,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,20,124,124,1,,page:tag:entity43:key0091C543:ref124:ord4,"ここでは招待を受けられません。
+
+招待はタイトル画面、MISSION SELECTOR画面、VERSUS OPS TOP MENU画面、TRADE画面で受けてください。",私が知りたいのはひとつ。“真実”だ。 ,"創られた虚構ではなく…。
+ボスの真実…最期のボスの意志を確かめたい。
+それこそお前が知りたい事でもあるはずだ。",,我只想知道一件事——“真相”。,,MATCH,55,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,21,130,130,1,,page:tag:entity42:key0091C542:ref130:ord4,私が知りたいのはひとつ。“真実”だ。 ,"創られた虚構ではなく…。
+ボスの真実…最期のボスの意志を確かめたい。
+それこそお前が知りたい事でもあるはずだ。","愛した彼女に答えを聴くまで死ぬことも出来ない…。
+お前と同じ、生ける屍だ。",,"不要人为编造的虚构……
+我要知道The Boss的真相……确认她最后的意志。
+这也正是你想知道的，不是吗。",,MATCH,161,139,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_OMITS_FINAL_JPN_SENTENCE; RESTORED_FROM_JPN
+00D0C740,22,136,136,1,,page:tag:entity41:key0091C541:ref136:ord4,"創られた虚構ではなく…。
+ボスの真実…最期のボスの意志を確かめたい。
+それこそお前が知りたい事でもあるはずだ。","愛した彼女に答えを聴くまで死ぬことも出来ない…。
+お前と同じ、生ける屍だ。","任務という権力のために真の英雄を殺した。
+それがお前の“忠”か？",,"在从我爱过的女人那里听到答案之前，我还不能死……
+和你一样，是具行尸走肉。",,MATCH,109,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,23,142,142,1,,page:tag:entity40:key0091C540:ref142:ord4,"愛した彼女に答えを聴くまで死ぬことも出来ない…。
+お前と同じ、生ける屍だ。","任務という権力のために真の英雄を殺した。
+それがお前の“忠”か？",人殺しのご褒美に貰った穢れた名をまだぶら下げているのか。,,"借任务的权力杀死真正的英雄。
+这就是你的“忠诚”吗？",,MATCH,94,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_ANSWER_ME_NOT_IN_JPN; OMITTED
+00D0C740,24,148,148,1,,page:tag:entity39:key0091C53F:ref148:ord4,"任務という権力のために真の英雄を殺した。
+それがお前の“忠”か？",人殺しのご褒美に貰った穢れた名をまだぶら下げているのか。,"知っているぞ。
+10年前 お前が何をしたのかも。
+さあ 同じように殺せ。
+ボスと同じように。",,杀人换来的肮脏称号，你还一直挂在身上吗？,,MATCH,84,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_PRIDE_NUANCE; JPN_WINS
+00D0C740,25,154,154,1,,page:tag:entity38:key0091C53E:ref154:ord4,人殺しのご褒美に貰った穢れた名をまだぶら下げているのか。,"知っているぞ。
+10年前 お前が何をしたのかも。
+さあ 同じように殺せ。
+ボスと同じように。","国のためでも政府のためでもない。
+俺達は必要とされているからこそ戦う。",,"我知道。
+十年前你做过什么，我也知道。
+来吧，也照样杀了我。
+就像杀The Boss那样。",,MATCH,124,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_EXTRA_FINAL_KILL_ME; OMITTED
+00D0C740,26,160,160,1,,page:tag:entity26:key0006B55B:ref160:ord4,"知っているぞ。
+10年前 お前が何をしたのかも。
+さあ 同じように殺せ。
+ボスと同じように。","国のためでも政府のためでもない。
+俺達は必要とされているからこそ戦う。","革命だろうが、何だろうが、
+銃を手にひとたび暴力に訴えれば、
+いずれは皆地獄に堕ちる。",,"不是为了国家，也不是为了政府。
+我们之所以战斗，是因为有人需要我们。",,MATCH,103,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_FOR_OURSELVES; JPN_WINS
+00D0C740,27,166,166,1,,page:tag:entity25:key0006B55A:ref166:ord4,"国のためでも政府のためでもない。
+俺達は必要とされているからこそ戦う。","革命だろうが、何だろうが、
+銃を手にひとたび暴力に訴えれば、
+いずれは皆地獄に堕ちる。","俺達は祖国を棄てた。
+それでも生きてる。
+それでも戦い続ける。
+生きる理由は他にいくらでもある。",,"不管是不是革命，只要拿起枪诉诸暴力，
+迟早所有人都会下地狱。",,MATCH,125,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_COMPRESSES_VIOLENCE_CLAUSE; JPN_WINS
+00D0C740,28,172,172,1,,page:tag:entity24:key0006B559:ref172:ord4,"革命だろうが、何だろうが、
+銃を手にひとたび暴力に訴えれば、
+いずれは皆地獄に堕ちる。","俺達は祖国を棄てた。
+それでも生きてる。
+それでも戦い続ける。
+生きる理由は他にいくらでもある。",いいか、俺達に勝利はない。,,"我们抛弃了祖国。
+但我们还活着。
+也还在继续战斗。
+活下去的理由，要多少有多少。",,MATCH,138,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,29,178,178,1,,page:tag:entity23:key0006B558:ref178:ord4,"俺達は祖国を棄てた。
+それでも生きてる。
+それでも戦い続ける。
+生きる理由は他にいくらでもある。",いいか、俺達に勝利はない。,"私は 平和の使者よ。
+あなたを見守ってる。",,听好了，对我们来说，没有胜利可言。,,MATCH,39,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,30,184,184,1,,page:tag:entity29:key0021F418:ref184:ord4,いいか、俺達に勝利はない。,"私は 平和の使者よ。
+あなたを見守ってる。","嘆いていても、平和はやってこないし、続かない。
+自分で向かっていかなければダメなの。
+",,"我是和平的使者。
+我会守望着你。",,MATCH,59,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_DO_NOT_WORRY_ABOUT_ME; OMITTED
+00D0C740,31,190,190,1,,page:tag:entity28:key0021F417:ref190:ord4,"私は 平和の使者よ。
+あなたを見守ってる。","嘆いていても、平和はやってこないし、続かない。
+自分で向かっていかなければダメなの。
+","私の名前は“ラ・パス”。
+私は平和を守り抜く。
+私はそのために生かされている。",,"光是叹息，和平不会到来，也不会延续。
+必须自己向它走去。",,MATCH,125,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,32,196,196,1,,page:tag:entity27:key0021F416:ref196:ord4,"嘆いていても、平和はやってこないし、続かない。
+自分で向かっていかなければダメなの。
+","私の名前は“ラ・パス”。
+私は平和を守り抜く。
+私はそのために生かされている。",LOADING...,,"我的名字是“Paz”。
+我会守护和平到底。
+我就是为此而活着的。",,MATCH,113,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=PAZ_NAME_RENDERED_AS_PAZ; REVIEW_LA_PAZ_NAMING
+00D0C740,33,202,202,1,,page:tag:entity30:key003341A9:ref202:ord4,"私の名前は“ラ・パス”。
+私は平和を守り抜く。
+私はそのために生かされている。",LOADING...,真実を知っても、過去は変えられない。,,读取中…,,MATCH,10,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,34,208,208,1,,page:tag:entity56:key00D1F419:ref208:ord4,LOADING...,真実を知っても、過去は変えられない。,"あんたは国も身分も過去も理想も、何もかも棄てた。
+しかし、まだ棄ててないものがある。",,即使知道真相，也无法改变过去。,,MATCH,54,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_YOU_STILL_WANT_TO_KNOW; OMITTED
+00D0C740,35,214,214,1,,page:tag:entity55:key00D1F418:ref214:ord4,真実を知っても、過去は変えられない。,"あんたは国も身分も過去も理想も、何もかも棄てた。
+しかし、まだ棄ててないものがある。","一人の人間が、人間という種の終末を、背負う事なんか出来ない。
+だからこそ、臆病な人類はこの数千年もの間、生き延びてきたんだ。",,"你抛弃了国家、身份、过去、理想，抛弃了一切。
+但还有一样东西，你始终没有放下。",,MATCH,124,115,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,36,220,220,1,,page:tag:entity54:key00D1F417:ref220:ord4,"あんたは国も身分も過去も理想も、何もかも棄てた。
+しかし、まだ棄ててないものがある。","一人の人間が、人間という種の終末を、背負う事なんか出来ない。
+だからこそ、臆病な人類はこの数千年もの間、生き延びてきたんだ。","俺たちは戦うことしかできないが…
+国家の事情に翻弄されずに生きる。",,"一个人不可能独自背负人类这个物种的终结。
+正因如此，胆怯的人类才在这数千年间存活下来。",,MATCH,184,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_INTERPRETS_SPECIES_END_AS_GENOCIDE; JPN_WINS
+00D0C740,37,226,226,1,,page:tag:entity53:key00D1F416:ref226:ord4,"一人の人間が、人間という種の終末を、背負う事なんか出来ない。
+だからこそ、臆病な人類はこの数千年もの間、生き延びてきたんだ。","俺たちは戦うことしかできないが…
+国家の事情に翻弄されずに生きる。","紛争地帯を渡り歩いては その都度
+戦場に利用されるのが望みか？",,"我们只会战斗……
+但我们要活得不受国家局势摆布。",,MATCH,97,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,38,232,232,1,,page:tag:entity52:key00D1F415:ref232:ord4,"俺たちは戦うことしかできないが…
+国家の事情に翻弄されずに生きる。","紛争地帯を渡り歩いては その都度
+戦場に利用されるのが望みか？","中米は北米大陸と南米大陸を繋ぐ臍の緒だ。
+我々はここが欲しい。
+",,"你难道想辗转于一个又一个冲突地区，
+每次都被战场利用吗？",,MATCH,89,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,39,238,238,1,,page:tag:entity37:key00863CEF:ref238:ord4,"紛争地帯を渡り歩いては その都度
+戦場に利用されるのが望みか？","中米は北米大陸と南米大陸を繋ぐ臍の緒だ。
+我々はここが欲しい。
+",あなたを『BIGBOSS』と知っての頼みだ。,,"中美洲是连接北美大陆和南美大陆的脐带。
+我们想要这里。",,MATCH,92,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,40,244,244,1,,page:tag:entity36:key00863CEE:ref244:ord4,"中米は北米大陸と南米大陸を繋ぐ臍の緒だ。
+我々はここが欲しい。
+",あなたを『BIGBOSS』と知っての頼みだ。,最期に人が守るものは…命ではない。名声だ！,,正因为知道你是“BIG BOSS”，我们才来拜托你。,,MATCH,52,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,41,250,250,1,,page:tag:entity35:key00374FA2:ref250:ord4,あなたを『BIGBOSS』と知っての頼みだ。,最期に人が守るものは…命ではない。名声だ！,"思想に失墜したザ・ボスと共に、英雄の時代は終わった。
+これからは“感情なきシステム”が英雄になる",,人到最后要守住的……不是生命，而是名声！,,MATCH,63,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,42,256,256,1,,page:tag:entity34:key00374FA1:ref256:ord4,最期に人が守るものは…命ではない。名声だ！,"思想に失墜したザ・ボスと共に、英雄の時代は終わった。
+これからは“感情なきシステム”が英雄になる","機械は間違いを犯さない。
+過ちを犯すのはいつも人間だ。",,"随着在思想上身败名裂的The Boss，英雄的时代已经结束。
+今后，“没有感情的系统”将成为英雄。",,MATCH,142,129,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_OMITS_SECOND_JPN_SENTENCE; RESTORED
+00D0C740,43,262,262,1,,page:tag:entity33:key00374FA0:ref262:ord4,"思想に失墜したザ・ボスと共に、英雄の時代は終わった。
+これからは“感情なきシステム”が英雄になる","機械は間違いを犯さない。
+過ちを犯すのはいつも人間だ。","…博士、平和は歩いては来ない。
+お互い歩み寄るしかないのだ。",,"机器不会犯错。
+犯错的永远是人类。",,MATCH,79,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,44,268,268,1,,page:tag:entity32:key00374F9F:ref268:ord4,"機械は間違いを犯さない。
+過ちを犯すのはいつも人間だ。","…博士、平和は歩いては来ない。
+お互い歩み寄るしかないのだ。","私達の目標は『完全なる抑止力』の実現にある。
+だが『完全なる抑止力』を誕生させるためには、
+私達の力を世界に向けて証明する必要があるのだ。",,"……博士，和平不会自己走来。
+我们只能彼此走向对方。",,MATCH,88,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,45,274,274,1,,page:tag:entity31:key00374F9E:ref274:ord4,"…博士、平和は歩いては来ない。
+お互い歩み寄るしかないのだ。","私達の目標は『完全なる抑止力』の実現にある。
+だが『完全なる抑止力』を誕生させるためには、
+私達の力を世界に向けて証明する必要があるのだ。",敵がいつ来るかわからないのに、のんびり飯なんか食ってられるか！,,"我们的目标，是实现“完全的威慑力”。
+但要让“完全的威慑力”诞生，
+我们必须向全世界证明我们的力量。",,MATCH,203,146,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_DEVELOPMENT_BACKSTORY_NOT_IN_JPN; OMITTED
+00D0C740,46,280,280,1,,page:tag:entity47:key00B2D968:ref280:ord4,"私達の目標は『完全なる抑止力』の実現にある。
+だが『完全なる抑止力』を誕生させるためには、
+私達の力を世界に向けて証明する必要があるのだ。",敵がいつ来るかわからないのに、のんびり飯なんか食ってられるか！,いつか俺、ハンターになりたいんだ。,,敌人什么时候来都不知道，哪还有空慢悠悠地吃饭！,,MATCH,93,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,47,286,286,1,,page:tag:entity46:key00B2D967:ref286:ord4,敵がいつ来るかわからないのに、のんびり飯なんか食ってられるか！,いつか俺、ハンターになりたいんだ。,見たことない生き物がいたら、知らせてくれよ。,,总有一天，我想成为猎人。,,MATCH,51,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_GROW_UP; JPN_ONLY_SAYS_SOMEDAY
+00D0C740,48,292,292,1,,page:tag:entity45:key00B2D966:ref292:ord4,いつか俺、ハンターになりたいんだ。,見たことない生き物がいたら、知らせてくれよ。,"…みんなで僕を子供扱いする。
+それが耐えられなかった。もう12なのに！",,如果遇到没见过的生物，记得告诉我。,,MATCH,66,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_SPECIFIES_WILDLIFE; JPN_GENERIC_CREATURE
+00D0C740,49,298,298,1,,page:tag:entity44:key00B2D965:ref298:ord4,見たことない生き物がいたら、知らせてくれよ。,"…みんなで僕を子供扱いする。
+それが耐えられなかった。もう12なのに！",なんなのここの人達、味覚の野蛮人だらけじゃない！,,"……大家都把我当小孩子。
+我实在受不了。明明我都12岁了！",,MATCH,99,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_STUTTER; OMITTED
+00D0C740,50,304,304,1,,page:tag:entity51:key00B949DE:ref304:ord4,"…みんなで僕を子供扱いする。
+それが耐えられなかった。もう12なのに！",なんなのここの人達、味覚の野蛮人だらけじゃない！,兵器に鳥の名前を付けるなんて、鳥に対して失礼だと思わない？,,这里的人到底怎么回事，怎么全是一群味觉野蛮人！,,MATCH,72,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,51,310,310,1,,page:tag:entity50:key00B949DD:ref310:ord4,なんなのここの人達、味覚の野蛮人だらけじゃない！,兵器に鳥の名前を付けるなんて、鳥に対して失礼だと思わない？,"森とひとつになるのはバーダーの基本よ。
+人間の気配を感じると鳥にも異変が生じる。
+それじゃ正確な観察は出来ないもの。",,拿鸟的名字给兵器命名，你不觉得这是对鸟的侮辱吗？,,MATCH,87,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,52,316,316,1,,page:tag:entity49:key00B949DC:ref316:ord4,兵器に鳥の名前を付けるなんて、鳥に対して失礼だと思わない？,"森とひとつになるのはバーダーの基本よ。
+人間の気配を感じると鳥にも異変が生じる。
+それじゃ正確な観察は出来ないもの。",鳥の研究はやめて、空を飛ぼうかなって思う。,,"与森林融为一体是观鸟者的基本功。
+鸟一旦察觉到人的气息，就会表现异常。
+那样就没法准确观察了。",,MATCH,170,137,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,53,322,322,1,,page:tag:entity48:key00B949DB:ref322:ord4,"森とひとつになるのはバーダーの基本よ。
+人間の気配を感じると鳥にも異変が生じる。
+それじゃ正確な観察は出来ないもの。",鳥の研究はやめて、空を飛ぼうかなって思う。,"革命が成功したら平和な国にしたいとは思う。
+けれど、平和をもたらすためにはまず売国奴を排除しなくちゃならない。",,我在想，要不要别研究鸟了，自己飞上天空。,,MATCH,63,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,54,328,328,1,,page:tag:entity22:key00052BDA:ref328:ord4,鳥の研究はやめて、空を飛ぼうかなって思う。,"革命が成功したら平和な国にしたいとは思う。
+けれど、平和をもたらすためにはまず売国奴を排除しなくちゃならない。","あたし達の仲間は、まだ多いとは言えない。でも、必ず勝つ。
+勝利か死か。革命家の宿命よ。",,"我确实想在革命成功后把国家变得和平。
+但要带来和平，首先得清除卖国贼。",,MATCH,163,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_REVOLUTION_MEANS_NOT_END; OMITTED
+00D0C740,55,334,334,1,,page:tag:entity21:key00052BD9:ref334:ord4,"革命が成功したら平和な国にしたいとは思う。
+けれど、平和をもたらすためにはまず売国奴を排除しなくちゃならない。","あたし達の仲間は、まだ多いとは言えない。でも、必ず勝つ。
+勝利か死か。革命家の宿命よ。","もしかして…あんたは偉大な指導者…。
+あたし達を…導いて…。",,"我们的同志还不能算多。但我们一定会赢。
+胜利或死亡。这就是革命者的宿命。",,MATCH,127,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_SUBSTITUTES_SPANISH_SLOGAN; JPN_CHINESE_MEANING_USED
+00D0C740,56,340,340,1,,page:tag:entity20:key00052BD8:ref340:ord4,"あたし達の仲間は、まだ多いとは言えない。でも、必ず勝つ。
+勝利か死か。革命家の宿命よ。","もしかして…あんたは偉大な指導者…。
+あたし達を…導いて…。",縮小,,"难道……你就是伟大的领袖……
+请……带领我们……",,MATCH,88,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_SUBSTITUTES_CACIQUE; JPN_SAYS_GREAT_LEADER
+00D0C740,57,346,346,1,,page:tag:entity57:key0013D74C:ref346:ord4,"もしかして…あんたは偉大な指導者…。
+あたし達を…導いて…。",縮小,拡大,,缩小,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,58,352,352,1,,page:tag:entity60:key00C09DF0:ref352:ord4,縮小,拡大,スライド,,放大,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,59,358,358,1,,page:tag:entity59:key00A46BC8:ref358:ord4,拡大,スライド,戻る,,滑动,,MATCH,12,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,60,364,364,1,,page:tag:entity58:key00233F00:ref364:ord4,スライド,戻る,HELP表示OFF,,返回,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,61,370,370,1,,page:tag:entity61:key00E550C9:ref370:ord4,戻る,HELP表示OFF,サーバー情報取得中,,关闭HELP显示,,MATCH,13,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY; JPN_TRANSLATED_DIRECTLY
+00D0C740,62,376,376,1,,page:tag:entity63:key0059F3E0:ref376:ord4,HELP表示OFF,サーバー情報取得中,情報取得中,,正在获取服务器信息…,,MATCH,27,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,63,382,382,1,,page:tag:entity62:key00180AFD:ref382:ord4,サーバー情報取得中,情報取得中,サーバーアクセス中,,正在获取信息…,,MATCH,15,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,64,388,388,1,,page:tag:entity64:key007443F1:ref388:ord4,情報取得中,サーバーアクセス中,システムデータ,,正在访问服务器…,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,65,394,394,1,,page:tag:entity65:key009657D1:ref394:ord4,サーバーアクセス中,システムデータ,HEROISM,,系统数据,,MATCH,21,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00D0C740,66,400,400,1,,page:tag:entity66:key002FE904:ref400:ord4,システムデータ,HEROISM,【NML】通常のスタッフ 【VOL】志願して入隊したスタッフ,,HEROISM,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=HEROISM_UI_TERM_LOCALIZED_AS_英雄度; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+00D0C740,67,406,406,1,,page:tag:entity67:key00B880F5:ref406:ord4,HEROISM,【NML】通常のスタッフ 【VOL】志願して入隊したスタッフ,,,【NML】普通队员 【VOL】志愿入队的队员,,MATCH,76,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1

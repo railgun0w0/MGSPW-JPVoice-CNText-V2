@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+LANG_TITLEMENU.OLANG,0,0,0,1,,page180:tag:entity3:key006B92BB:ref0:ord0,,PRESS START BUTTON,DATA INSTALL,,PRESS START BUTTON,,MATCH,18,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,1,1,1,1,,page180:tag:entity8:key008B79B6:ref1:ord0,PRESS START BUTTON,DATA INSTALL,OPTIONS,,DATA INSTALL,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,2,2,2,1,,page180:tag:entity4:key007666DA:ref2:ord0,DATA INSTALL,OPTIONS,NEW GAME,,OPTIONS,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,3,3,3,1,,page180:tag:entity13:key00A52E56:ref3:ord0,OPTIONS,NEW GAME,NIHON-GO,,NEW GAME,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,4,4,4,1,,page180:tag:entity0:key00109258:ref4:ord0,NEW GAME,NIHON-GO,LOAD GAME,,NIHON-GO,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=AUXILIARY_ENGLISH_IS_VERSION_SUBSTITUTION; JPN_NIHON-GO_WINS; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,5,5,5,1,,page180:tag:entity5:key00788E8D:ref5:ord0,NIHON-GO,LOAD GAME,LANGUAGE SETTING,,LOAD GAME,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,6,6,6,1,,page180:tag:entity14:key00CF0D34:ref6:ord0,LOAD GAME,LANGUAGE SETTING,KEY CONFIG,,LANGUAGE SETTING,,MATCH,16,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,7,7,7,1,,page180:tag:entity12:key0096EC94:ref7:ord0,LANGUAGE SETTING,KEY CONFIG,HELP,,KEY CONFIG,,MATCH,10,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_KEY_CONFIG; AUXILIARY_BUTTON_CONFIG_USED_ONLY_AS_CONTEXT; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,8,8,8,1,,page180:tag:entity1:key0035A1F0:ref8:ord0,KEY CONFIG,HELP,EXTRAS,,HELP,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,9,9,9,1,,page180:tag:entity9:key008DDEA7:ref9:ord0,HELP,EXTRAS,DELETE,,EXTRAS,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,10,10,10,1,,page180:tag:entity7:key0087A3B3:ref10:ord0,EXTRAS,DELETE,"Select your language.
+
+*Note: Subtitles can be toggled ON/OFF during cutscenes by pressing the SELECT button.",,DELETE,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_TITLEMENU.OLANG,11,11,11,1,,page180:tag:entity10:key008EC58A:ref11:ord0,DELETE,"Select your language.
+
+*Note: Subtitles can be toggled ON/OFF during cutscenes by pressing the SELECT button.","(不要)このゲームをプレイするには、メモリースティック™が必要です。
+空き容量が30MB以上あるメモリースティック™を用意して下さい。",,"请选择语言。
+
+*注：过场动画中可按SELECT按钮开启/关闭字幕。",,MATCH,109,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=SOURCE_JPN_FIELD_IS_ENGLISH_UI_TEXT; LOCALIZED_TO_CN
+LANG_TITLEMENU.OLANG,12,12,12,1,,page180:tag:entity6:key007BDC4A:ref12:ord0,"Select your language.
+
+*Note: Subtitles can be toggled ON/OFF during cutscenes by pressing the SELECT button.","(不要)このゲームをプレイするには、メモリースティック™が必要です。
+空き容量が30MB以上あるメモリースティック™を用意して下さい。","(不要)このゲームでは、１つのセーブデータを継続して
+使用します。ゲーム中にメモリースティック™を
+抜いたり、データを削除すると、ゲームが継続でき
+なくなる恐れがありますのでご注意ください。",,"(无需)游玩本游戏需要Memory Stick™。
+请准备剩余容量30MB以上的Memory Stick™。",,MATCH,187,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_HAS_NO_CONTROL_TOKENS; AUXILIARY_<I=BL>/<I=TM>_INSERTIONS_REJECTED
+LANG_TITLEMENU.OLANG,13,13,13,1,,page180:tag:entity16:key00EBBA48:ref13:ord0,"(不要)このゲームをプレイするには、メモリースティック™が必要です。
+空き容量が30MB以上あるメモリースティック™を用意して下さい。","(不要)このゲームでは、１つのセーブデータを継続して
+使用します。ゲーム中にメモリースティック™を
+抜いたり、データを削除すると、ゲームが継続でき
+なくなる恐れがありますのでご注意ください。","(不要)メモリースティック™にじゅうぶんな空き容量があれば
+データインストールを行うことにより
+より快適なゲームプレイがお楽しみ頂けます。
+データインストールを行いますか？
+",,"(无需)本游戏会持续使用同一个存档数据。
+游戏过程中如果拔出Memory Stick™或删除该数据，
+可能会导致游戏无法继续，请务必注意。",,MATCH,275,175,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_HAS_NO_CONTROL_TOKENS; AUXILIARY_<I=BL>/<I=TM>_INSERTIONS_REJECTED
+LANG_TITLEMENU.OLANG,14,14,14,1,,page180:tag:entity2:key0036A264:ref14:ord0,"(不要)このゲームでは、１つのセーブデータを継続して
+使用します。ゲーム中にメモリースティック™を
+抜いたり、データを削除すると、ゲームが継続でき
+なくなる恐れがありますのでご注意ください。","(不要)メモリースティック™にじゅうぶんな空き容量があれば
+データインストールを行うことにより
+より快適なゲームプレイがお楽しみ頂けます。
+データインストールを行いますか？
+","(不要)このゲームは、オートセーブ機能に対応しています
+オートセーブ中には、アクセスランプが点滅しますので
+その間は、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。",,"(无需)如果Memory Stick™有足够的剩余容量，
+进行数据安装后可获得更流畅的游戏体验。
+要进行数据安装吗？",,MATCH,249,142,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=AUXILIARY_EMPTY; JPN_TRANSLATED_DIRECTLY
+LANG_TITLEMENU.OLANG,15,15,15,1,,page180:tag:entity11:key0092AF89:ref15:ord0,"(不要)メモリースティック™にじゅうぶんな空き容量があれば
+データインストールを行うことにより
+より快適なゲームプレイがお楽しみ頂けます。
+データインストールを行いますか？
+","(不要)このゲームは、オートセーブ機能に対応しています
+オートセーブ中には、アクセスランプが点滅しますので
+その間は、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。",OK,,"(无需)本游戏支持自动保存功能。
+自动保存时访问指示灯会闪烁，
+期间请勿拔出Memory Stick™或关闭主机电源。",,MATCH,275,145,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1; review_flag=JPN_HAS_NO_CONTROL_TOKENS; AUXILIARY_<I=BL>/<I=TM>_INSERTIONS_REJECTED
+LANG_TITLEMENU.OLANG,16,16,16,1,,page180:tag:entity15:key00DE1FDE:ref16:ord0,"(不要)このゲームは、オートセーブ機能に対応しています
+オートセーブ中には、アクセスランプが点滅しますので
+その間は、メモリースティック™を抜いたり、
+本体の電源を切ったりしないでください。",OK,,,确定,,MATCH,2,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=1

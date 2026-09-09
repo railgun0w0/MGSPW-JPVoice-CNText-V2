@@ -1,0 +1,22 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+LANG_PSP_KEYBOARD.OLANG,0,0,0;0;0;0,4,,page23:tag:entity5:key00D6BE7A:ref0:ord0;page88:tag:entity5:key00D6BE7A:ref0:ord0;page180:tag:entity5:key00D6BE7A:ref0:ord0;page187:tag:entity5:key00D6BE7A:ref0:ord0,,使用できない文字を、使用可能な文字で置き換えました。,"このゲームでは使用できない文字が含まれています。
+使える文字は以下のとおりです。",,无法使用的字符已替换为可用字符。,,MATCH,78,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_PSP_KEYBOARD.OLANG,1,1,1;1;1;1,4,,page23:tag:entity4:key00A54FD7:ref1:ord0;page88:tag:entity4:key00A54FD7:ref1:ord0;page180:tag:entity4:key00A54FD7:ref1:ord0;page187:tag:entity4:key00A54FD7:ref1:ord0,使用できない文字を、使用可能な文字で置き換えました。,"このゲームでは使用できない文字が含まれています。
+使える文字は以下のとおりです。","このゲームでは使用できない文字が含まれています。
+使える文字は、０～９の数字、大文字のアルファベット、以下の記号です。",,"输入内容中包含本游戏无法使用的字符。
+可使用的字符如下。",,MATCH,119,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_PSP_KEYBOARD.OLANG,2,2,2;2;2;2,4,,page23:tag:entity1:key004C20B7:ref2:ord0;page88:tag:entity1:key004C20B7:ref2:ord0;page180:tag:entity1:key004C20B7:ref2:ord0;page187:tag:entity1:key004C20B7:ref2:ord0,"このゲームでは使用できない文字が含まれています。
+使える文字は以下のとおりです。","このゲームでは使用できない文字が含まれています。
+使える文字は、０～９の数字、大文字のアルファベット、以下の記号です。","短すぎます。
+%d 文字以上入力してください。",,"输入内容中包含本游戏无法使用的字符。
+可使用的字符为数字0～9、大写英文字母以及以下符号。",,MATCH,176,130,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4
+LANG_PSP_KEYBOARD.OLANG,3,3,3;3;3;3,4,,page23:tag:entity0:key003F2C7B:ref3:ord0;page88:tag:entity0:key003F2C7B:ref3:ord0;page180:tag:entity0:key003F2C7B:ref3:ord0;page187:tag:entity0:key003F2C7B:ref3:ord0,"このゲームでは使用できない文字が含まれています。
+使える文字は、０～９の数字、大文字のアルファベット、以下の記号です。","短すぎます。
+%d 文字以上入力してください。","スペース以外の文字を
+%d 文字以上入力してください。",,"输入内容过短。
+请输入至少%d个字符。",%d,MATCH,62,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4; review_flag=PRINTF_%d_PRESERVED
+LANG_PSP_KEYBOARD.OLANG,4,4,4;4;4;4,4,,page23:tag:entity2:key005F42B2:ref4:ord0;page88:tag:entity2:key005F42B2:ref4:ord0;page180:tag:entity2:key005F42B2:ref4:ord0;page187:tag:entity2:key005F42B2:ref4:ord0,"短すぎます。
+%d 文字以上入力してください。","スペース以外の文字を
+%d 文字以上入力してください。",このゲームでは使用できない単語が含まれています。,,请输入至少%d个非空格字符。,%d,MATCH,73,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4; review_flag=PRINTF_%d_PRESERVED; JPN_REQUIRES_NON_SPACE_CHARACTERS
+LANG_PSP_KEYBOARD.OLANG,5,5,5;5;5;5,4,,page23:tag:entity3:key0075BF6E:ref5:ord0;page88:tag:entity3:key0075BF6E:ref5:ord0;page180:tag:entity3:key0075BF6E:ref5:ord0;page187:tag:entity3:key0075BF6E:ref5:ord0,"スペース以外の文字を
+%d 文字以上入力してください。",このゲームでは使用できない単語が含まれています。,使用できない文字を、使用可能な文字で置き換えました。,,输入内容中包含本游戏无法使用的词语。,,MATCH,72,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=4

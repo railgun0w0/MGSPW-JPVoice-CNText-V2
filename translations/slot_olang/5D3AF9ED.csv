@@ -1,0 +1,81 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D3AF9ED,0,0,0,1,,page1963:tag2:entity9:key00000009:ref0:ord0,,その一帯は岩盤が硬い,霧で視界も悪いの ,,那一带的岩盘很坚硬,,MATCH,30,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; BEDROCK_SEMANTICS_PRESERVED
+5D3AF9ED,1,1,1,1,,page1963:tag2:entity8:key00000008:ref1:ord0,その一帯は岩盤が硬い,霧で視界も悪いの ,"400種類を超える野鳥が生息していると
+言われている太古の<R=熱帯雲霧林,ジャングル>よ ",,雾气也让视野很差 ,,MATCH,25,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; TRAILING_ASCII_SPACE_PRESERVED
+5D3AF9ED,2,2,2,1,,page1963:tag2:entity7:key00000007:ref2:ord0,霧で視界も悪いの ,"400種類を超える野鳥が生息していると
+言われている太古の<R=熱帯雲霧林,ジャングル>よ ","そこは 400種類の蘭を含む
+2500種類の植物 500種類の蝶 ","<R=熱帯雲霧林,ジャングル>","那里是据说栖息着超过400种野鸟的
+古老<R=热带云雾林,ジャングル>啊 ","<R=热带云雾林,ジャングル>",MATCH,118,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; RUBY_PRESERVED; JAPANESE_READING_ジャングル_PRESERVED; NEWLINE_AND_TRAILING_SPACE_PRESERVED; JPN_400_PLUS_WILD_BIRD_COUNT_PRESERVED
+5D3AF9ED,3,3,3,1,,page1963:tag2:entity6:key00000006:ref3:ord0,"400種類を超える野鳥が生息していると
+言われている太古の<R=熱帯雲霧林,ジャングル>よ ","そこは 400種類の蘭を含む
+2500種類の植物 500種類の蝶 ","スネーク いい？
+サバイバルの達人でも 気を抜かないで",,"那里有 包括400种兰花在内的
+2500种植物 500种蝴蝶 ",,MATCH,71,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; NEWLINE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED; NUMERIC_COUNTS_PRESERVED
+5D3AF9ED,4,4,4,1,,page1963:tag2:entity5:key00000005:ref4:ord0,"そこは 400種類の蘭を含む
+2500種類の植物 500種類の蝶 ","スネーク いい？
+サバイバルの達人でも 気を抜かないで","わかってる そのジャングルに詳しい
+パスに協力してもらう ",,"Snake 听着？
+就算是生存专家 也别大意",,MATCH,75,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SNAKE_FIXED_IDENTITY; NEWLINE_AND_SOURCE_INTERNAL_SPACES_PRESERVED
+5D3AF9ED,5,5,5,1,,page1963:tag2:entity4:key00000004:ref5:ord0,"スネーク いい？
+サバイバルの達人でも 気を抜かないで","わかってる そのジャングルに詳しい
+パスに協力してもらう ",ガイドが欲しい,,"我知道 我会让熟悉那片丛林的
+Paz来协助我 ",,MATCH,81,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; PAZ_FIXED_IDENTITY; NEWLINE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED
+5D3AF9ED,6,6,6,1,,page1963:tag2:entity3:key00000003:ref6:ord0,"わかってる そのジャングルに詳しい
+パスに協力してもらう ",ガイドが欲しい,"急いでくれ <R=人工知能,AI>は
+いつ完成しても おかしくはない ",,我需要向导,,MATCH,21,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY
+5D3AF9ED,7,7,7,1,,page1963:tag2:entity2:key00000002:ref7:ord0,ガイドが欲しい,"急いでくれ <R=人工知能,AI>は
+いつ完成しても おかしくはない ","マヤ遺跡の中で<R=人工知能,AI>開発とはな ヒューイ？ ","<R=人工知能,AI>","快点 <R=人工智能,AI>随时
+都有可能完成 ","<R=人工智能,AI>",MATCH,83,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; RUBY_PRESERVED; AI_READING_PRESERVED; NEWLINE_INTERNAL_AND_TRAILING_SPACES_PRESERVED
+5D3AF9ED,8,8,8,1,,page1963:tag2:entity11:key0000000B:ref8:ord0,"急いでくれ <R=人工知能,AI>は
+いつ完成しても おかしくはない ","マヤ遺跡の中で<R=人工知能,AI>開発とはな ヒューイ？ ","だから 度重なる地震の中でも
+マヤの遺産が生き残れたの ","<R=人工知能,AI>","竟然在玛雅遗迹里开发<R=人工智能,AI>啊 Huey？ ","<R=人工智能,AI>",MATCH,72,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; RUBY_PRESERVED; HUEY_FIXED_IDENTITY; SOURCE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED
+5D3AF9ED,9,9,9,1,,page1963:tag2:entity10:key0000000A:ref9:ord0,"マヤ遺跡の中で<R=人工知能,AI>開発とはな ヒューイ？ ","だから 度重なる地震の中でも
+マヤの遺産が生き残れたの ",このペースなら 明朝には目的地に着くはずだ ,,"所以 即使经历一次又一次地震
+玛雅的遗产仍能保存下来 ",,MATCH,78,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; NEWLINE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED; REPEATED_EARTHQUAKE_SEMANTICS
+5D3AF9ED,10,10,10,1,,page1963:tag2:entity1:key00000001:ref10:ord0,"だから 度重なる地震の中でも
+マヤの遺産が生き残れたの ",このペースなら 明朝には目的地に着くはずだ ,スネーク ラバの調子はどう？,,照这个速度 明天早上应该能到达目的地 ,,MATCH,62,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SOURCE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED
+5D3AF9ED,11,11,11,1,,page1963:tag2:entity0:key00000000:ref11:ord0,このペースなら 明朝には目的地に着くはずだ ,スネーク ラバの調子はどう？,スネーク 良いニュースばかりじゃない,,Snake 骡子的状态怎么样？,,MATCH,40,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SNAKE_FIXED_IDENTITY; SOURCE_INTERNAL_ASCII_SPACE_PRESERVED
+5D3AF9ED,12,12,12,1,,page1963:tag2:entity21:key00000009:ref12:ord0,スネーク ラバの調子はどう？,スネーク 良いニュースばかりじゃない,"ストレンジラブの要望で
+<R=施設,ラボ>内の警備は最小限に絞られているんだ ",,Snake 不全是好消息,,MATCH,52,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SNAKE_FIXED_IDENTITY; AUX_SHIFT_REJECTED
+5D3AF9ED,13,13,13,1,,page1963:tag2:entity20:key00000008:ref13:ord0,スネーク 良いニュースばかりじゃない,"ストレンジラブの要望で
+<R=施設,ラボ>内の警備は最小限に絞られているんだ ",うん そっちは心配する必要はないよ ,"<R=施設,ラボ>","按Strangelove的要求
+<R=设施,ラボ>内的警备被压到了最低限度 ","<R=设施,ラボ>",MATCH,103,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; STRANGELOVE_FIXED_IDENTITY; RUBY_PRESERVED; JAPANESE_READING_ラボ_PRESERVED; NEWLINE_AND_TRAILING_SPACE_PRESERVED
+5D3AF9ED,14,14,14,1,,page1963:tag2:entity19:key00000007:ref14:ord0,"ストレンジラブの要望で
+<R=施設,ラボ>内の警備は最小限に絞られているんだ ",うん そっちは心配する必要はないよ ,研究所内部のセキュリティの方はどうなんだ？ ,,嗯 那边不用担心 ,,MATCH,50,23,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SOURCE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED
+5D3AF9ED,15,15,15,1,,page1963:tag2:entity18:key00000006:ref15:ord0,うん そっちは心配する必要はないよ ,研究所内部のセキュリティの方はどうなんだ？ ,"<R=人工知能,AI>さえ組み込まなければ
+コールドマンの<R=計画,ゲーム>はコールドする ",,研究所内部的安保怎么样？ ,,MATCH,64,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; TRAILING_ASCII_SPACE_PRESERVED; AUX_ADDED_LAUGHTER_REJECTED
+5D3AF9ED,16,16,16,1,,page1963:tag2:entity17:key00000005:ref16:ord0,研究所内部のセキュリティの方はどうなんだ？ ,"<R=人工知能,AI>さえ組み込まなければ
+コールドマンの<R=計画,ゲーム>はコールドする ","それがあれば ゲートを難なく通過できる
+後はスネーク次第だ","<R=人工知能,AI> | <R=計画,ゲーム>","<R=人工智能,AI>只要还没装进去
+Coldman的<R=计划,ゲーム>就会被冻结 ","<R=人工智能,AI> | <R=计划,ゲーム>",MATCH,113,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; TWO_RUBIES_COUNT_ORDER_PRESERVED; COLDMAN_FIXED_IDENTITY; GAME_READING_PRESERVED; NEWLINE_AND_TRAILING_SPACE_PRESERVED; COLD_WORDPLAY_RENDERED_AS_FREEZE
+5D3AF9ED,17,17,17,1,,page1963:tag2:entity16:key00000004:ref17:ord0,"<R=人工知能,AI>さえ組み込まなければ
+コールドマンの<R=計画,ゲーム>はコールドする ","それがあれば ゲートを難なく通過できる
+後はスネーク次第だ",ああ ちゃんと持ってる,,"有了它 就能轻松通过大门
+之后就看Snake的了",,MATCH,83,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SNAKE_FIXED_IDENTITY; NEWLINE_AND_SOURCE_INTERNAL_ASCII_SPACE_PRESERVED
+5D3AF9ED,18,18,18,1,,page1963:tag2:entity15:key00000003:ref18:ord0,"それがあれば ゲートを難なく通過できる
+後はスネーク次第だ",ああ ちゃんと持ってる,僕が渡したIDカード 持ってるよね？ ,,嗯 好好带着呢,,MATCH,31,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SOURCE_INTERNAL_ASCII_SPACE_PRESERVED
+5D3AF9ED,19,19,19,1,,page1963:tag2:entity14:key00000002:ref19:ord0,ああ ちゃんと持ってる,僕が渡したIDカード 持ってるよね？ ,本当だ,,我给你的ID卡 还带着吧？ ,,MATCH,49,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; ID_FIXED_ASCII_IDENTITY; SOURCE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED
+5D3AF9ED,20,20,20,1,,page1963:tag2:entity28:key00000010:ref20:ord0,僕が渡したIDカード 持ってるよね？ ,本当だ,了解 ,,真的,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY
+5D3AF9ED,21,21,21,1,,page1963:tag2:entity27:key0000000F:ref21:ord0,本当だ,了解 ,"<R=施設,ラボ>が近づいてきたら 今まで以上に注意してくれ ",,了解 ,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; TRAILING_ASCII_SPACE_PRESERVED
+5D3AF9ED,22,22,22,1,,page1963:tag2:entity26:key0000000E:ref22:ord0,了解 ,"<R=施設,ラボ>が近づいてきたら 今まで以上に注意してくれ ","ジャングルには<R=待ち伏せ,アンブッシュ>している
+スカウト兵もいるかもしれん ","<R=施設,ラボ>","接近<R=设施,ラボ>后 要比之前更加小心 ","<R=设施,ラボ>",MATCH,79,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; RUBY_PRESERVED; SOURCE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED
+5D3AF9ED,23,23,23,1,,page1963:tag2:entity25:key0000000D:ref23:ord0,"<R=施設,ラボ>が近づいてきたら 今まで以上に注意してくれ ","ジャングルには<R=待ち伏せ,アンブッシュ>している
+スカウト兵もいるかもしれん ","クリサリスとかいう<R=無人飛行機,UAV>も
+哨戒ヘリも多数確認した ","<R=待ち伏せ,アンブッシュ>","丛林里可能还有<R=埋伏,アンブッシュ>着的
+侦察兵 ","<R=埋伏,アンブッシュ>",MATCH,109,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; RUBY_PRESERVED; JAPANESE_READING_アンブッシュ_PRESERVED; NEWLINE_AND_TRAILING_SPACE_PRESERVED
+5D3AF9ED,24,24,24,1,,page1963:tag2:entity24:key0000000C:ref24:ord0,"ジャングルには<R=待ち伏せ,アンブッシュ>している
+スカウト兵もいるかもしれん ","クリサリスとかいう<R=無人飛行機,UAV>も
+哨戒ヘリも多数確認した ","<R=施設,ラボ>周囲の警備レベルが上がっているようだ ","<R=無人飛行機,UAV>","还有叫CHRYSALIS的<R=无人飞机,UAV>
+也确认到许多巡逻直升机 ","<R=无人飞机,UAV>",MATCH,88,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; CHRYSALIS_FIXED_AI_WEAPON_IDENTITY; RUBY_PRESERVED; UAV_READING_PRESERVED; NEWLINE_AND_TRAILING_SPACE_PRESERVED
+5D3AF9ED,25,25,25,1,,page1963:tag2:entity23:key0000000B:ref25:ord0,"クリサリスとかいう<R=無人飛行機,UAV>も
+哨戒ヘリも多数確認した ","<R=施設,ラボ>周囲の警備レベルが上がっているようだ ",コールドマンに俺達の存在が知られてしまった ,"<R=施設,ラボ>","<R=设施,ラボ>周围的警戒等级似乎提高了 ","<R=设施,ラボ>",MATCH,72,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; RUBY_PRESERVED; TRAILING_ASCII_SPACE_PRESERVED
+5D3AF9ED,26,26,26,1,,page1963:tag2:entity22:key0000000A:ref26:ord0,"<R=施設,ラボ>周囲の警備レベルが上がっているようだ ",コールドマンに俺達の存在が知られてしまった ,と言っても 入口のセキュリティに抜かりはない,,Coldman已经知道我们的存在了 ,,MATCH,64,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; COLDMAN_FIXED_IDENTITY; TRAILING_ASCII_SPACE_PRESERVED; AUX_SHIFT_REJECTED
+5D3AF9ED,27,27,27,1,,page1963:tag2:entity13:key00000001:ref27:ord0,コールドマンに俺達の存在が知られてしまった ,と言っても 入口のセキュリティに抜かりはない,ああ そうだね,,即便如此 入口的安保也毫无疏漏,,MATCH,64,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SOURCE_INTERNAL_ASCII_SPACE_PRESERVED
+5D3AF9ED,28,28,28,1,,page1963:tag2:entity12:key00000000:ref28:ord0,と言っても 入口のセキュリティに抜かりはない,ああ そうだね,"完成間近の<R=人工知能,AI>を破壊するんだ
+一刻も早く！ ",,嗯 是啊,,MATCH,19,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SOURCE_INTERNAL_ASCII_SPACE_PRESERVED; AUX_SEMANTIC_MISMATCH_REJECTED
+5D3AF9ED,29,29,29,1,,page1963:tag2:entity31:key00000002:ref29:ord0,ああ そうだね,"完成間近の<R=人工知能,AI>を破壊するんだ
+一刻も早く！ ","スネーク ストレンジラブ博士の<R=研究施設,ラボ>は北へ数マイル ","<R=人工知能,AI>","摧毁即将完成的<R=人工智能,AI>
+越快越好！ ","<R=人工智能,AI>",MATCH,75,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; RUBY_PRESERVED; NEWLINE_AND_TRAILING_ASCII_SPACE_PRESERVED; URGENCY_SEMANTICS_PRESERVED
+5D3AF9ED,30,30,30,1,,page1963:tag2:entity30:key00000001:ref30:ord0,"完成間近の<R=人工知能,AI>を破壊するんだ
+一刻も早く！ ","スネーク ストレンジラブ博士の<R=研究施設,ラボ>は北へ数マイル ",ふぅ… 何とかしのいだか…,"<R=研究施設,ラボ>","Snake Strangelove博士的<R=研究设施,ラボ>在北边几英里处 ","<R=研究设施,ラボ>",MATCH,88,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SNAKE_STRANGELOVE_FIXED_IDENTITIES; RUBY_PRESERVED; SOURCE_INTERNAL_AND_TRAILING_ASCII_SPACES_PRESERVED
+5D3AF9ED,31,31,31,1,,page1963:tag2:entity29:key00000000:ref31:ord0,"スネーク ストレンジラブ博士の<R=研究施設,ラボ>は北へ数マイル ",ふぅ… 何とかしのいだか…,,,呼… 总算撑过去了吗…,,MATCH,37,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PRIMARY; SOURCE_INTERNAL_ASCII_SPACE_PRESERVED; AUX_SHIFT_REJECTED

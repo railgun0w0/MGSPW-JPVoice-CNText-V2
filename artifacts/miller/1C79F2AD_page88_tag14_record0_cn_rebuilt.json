@@ -1,0 +1,96 @@
+{
+  "scope": {
+    "file_id": "1C79F2AD",
+    "page": 88,
+    "tag": 14,
+    "record": 0
+  },
+  "source": "D:\\GAME\\test\\MGSPW_GTT_DUMP\\20260902-174047\\01_JPN_ORIGINAL_1C79F2AD.ypk",
+  "source_physical_record_sha256": "8AD50B6DB73667C414F080DE99A2D230CCA41E478DFAE7723BE1A793BD6080D5",
+  "rebuilt_record": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\artifacts\\miller\\1C79F2AD_page88_tag14_record0_cn_rebuilt.bin",
+  "rebuilt_record_sha256": "A8837D6DBCC12BDBD6A26AC8FB2A2E50BF57BEBB2D92AACC6819F0B6750C7725",
+  "old_boundaries": [
+    [
+      0,
+      51
+    ],
+    [
+      51,
+      96
+    ],
+    [
+      96,
+      136
+    ]
+  ],
+  "new_boundaries": [
+    [
+      0,
+      39
+    ],
+    [
+      39,
+      67
+    ],
+    [
+      67,
+      101
+    ]
+  ],
+  "texts": [
+    {
+      "index": 0,
+      "text": "我是Miller。听得到吗，Snake？",
+      "utf8_byte_length": 38,
+      "utf8_byte_length_with_nul": 39
+    },
+    {
+      "index": 1,
+      "text": "看来你已经着陆了。",
+      "utf8_byte_length": 27,
+      "utf8_byte_length_with_nul": 28
+    },
+    {
+      "index": 2,
+      "text": "这对我们来说是一大步。",
+      "utf8_byte_length": 33,
+      "utf8_byte_length_with_nul": 34
+    }
+  ],
+  "nominal_capacity": 136,
+  "aligned_capacity": 144,
+  "required": 101,
+  "record_size_before": 232,
+  "record_size_after": 232,
+  "aligned_size_before": 240,
+  "aligned_size_after": 240,
+  "non_boundary_header_byte_identical": true,
+  "timing_and_non_boundary_header_byte_identical": true,
+  "round_trip": {
+    "segment_count": 3,
+    "header_size": 96,
+    "record_size": 232,
+    "aligned_size": 240,
+    "boundaries": [
+      [
+        0,
+        39
+      ],
+      [
+        39,
+        67
+      ],
+      [
+        67,
+        101
+      ]
+    ],
+    "texts": [
+      "我是Miller。听得到吗，Snake？",
+      "看来你已经着陆了。",
+      "这对我们来说是一大步。"
+    ],
+    "texts_exact": true
+  },
+  "dat_written": false
+}

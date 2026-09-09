@@ -1,0 +1,621 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5DE6EF4C,0,0,0,1,,page16:tag4:entity1:key001A9995:ref0:ord0,,WOLF,WHALE,,WOLF,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,1,1,1,1,,page16:tag4:entity4:key002101DD:ref1:ord0,WOLF,WHALE,SWALLOW,,WHALE,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,2,2,2,1,,page16:tag4:entity8:key003FA427:ref2:ord0,WHALE,SWALLOW,SCORPION,,SWALLOW,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,3,3,3,1,,page16:tag4:entity5:key0027B9AF:ref3:ord0,SWALLOW,SCORPION,RAVEN,,SCORPION,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,4,4,4,1,,page16:tag4:entity11:key0049AEB0:ref4:ord0,SCORPION,RAVEN,PUMA,,RAVEN,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,5,5,5,1,,page16:tag4:entity6:key0035962D:ref5:ord0,RAVEN,PUMA,PIRANHA,,PUMA,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,6,6,6,1,,page16:tag4:entity15:key006EAEAD:ref6:ord0,PUMA,PIRANHA,ORCA,,PIRANHA,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,7,7,7,1,,page16:tag4:entity23:key00F5959F:ref7:ord0,PIRANHA,ORCA,OCTOPUS,,ORCA,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,8,8,8,1,,page16:tag4:entity22:key00D4D5B6:ref8:ord0,ORCA,OCTOPUS,KANGAROO,,OCTOPUS,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,9,9,9,1,,page16:tag4:entity19:key00A60212:ref9:ord0,OCTOPUS,KANGAROO,HOUND,,KANGAROO,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,10,10,10,1,,page16:tag4:entity13:key005F15AD:ref10:ord0,KANGAROO,HOUND,HAWK,,HOUND,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,11,11,11,1,,page16:tag4:entity16:key007F91DE:ref11:ord0,HOUND,HAWK,GULL,,HAWK,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,12,12,12,1,,page16:tag4:entity3:key002091AD:ref12:ord0,HAWK,GULL,FOXHOUND,,GULL,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,13,13,13,1,,page16:tag4:entity0:key000F18FA:ref13:ord0,GULL,FOXHOUND,FOX,,FOXHOUND,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,14,14,14,1,,page16:tag4:entity18:key008C5DF1:ref14:ord0,FOXHOUND,FOX,FIREFLY,,FOX,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,15,15,15,1,,page16:tag4:entity17:key0086B08B:ref15:ord0,FOX,FIREFLY,EEL,,FIREFLY,,MATCH,7,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,16,16,16,1,,page16:tag4:entity9:key00405DEC:ref16:ord0,FIREFLY,EEL,DOBERMAN,,EEL,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,17,17,17,1,,page16:tag4:entity12:key004CEA48:ref17:ord0,EEL,DOBERMAN,DEER,,DOBERMAN,,MATCH,8,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,18,18,18,1,,page16:tag4:entity10:key00468FEC:ref18:ord0,DOBERMAN,DEER,CAT,,DEER,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,19,19,19,1,,page16:tag4:entity21:key00C85DE3:ref19:ord0,DEER,CAT,BUTTERFLY,,CAT,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,20,20,20,1,,page16:tag4:entity2:key001C4CB7:ref20:ord0,CAT,BUTTERFLY,BEE,,BUTTERFLY,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,21,21,21,1,,page16:tag4:entity7:key00395DE0:ref21:ord0,BUTTERFLY,BEE,BEAR,,BEE,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,22,22,22,1,,page16:tag4:entity20:key00C68EEB:ref22:ord0,BEE,BEAR,ANT,,BEAR,,MATCH,4,4,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,23,23,23,1,,page16:tag4:entity14:key00685DDD:ref23:ord0,BEAR,ANT,"主に中射程の武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。",,ANT,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,24,24,24,1,,page16:tag4:entity25:key001A9995:ref24:ord0,ANT,"主に中射程の武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。","主に爆発力のある武器を用い、仲間と協力しながら、
+敵はキルするより戦闘力を奪うことを主眼に戦った
+兵士に与えられる称号。",,"授予主要使用中距离武器、
+与同伴合作，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,158,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,25,25,25,1,,page16:tag4:entity28:key002101DD:ref25:ord0,"主に中射程の武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。","主に爆発力のある武器を用い、仲間と協力しながら、
+敵はキルするより戦闘力を奪うことを主眼に戦った
+兵士に与えられる称号。","主に長射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。",,"授予主要使用爆炸性武器、与同伴合作，
+并以非致命手段削弱敌
+人战斗力的士兵的称号。",,MATCH,176,119,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,26,26,26,1,,page16:tag4:entity32:key003FA427:ref26:ord0,"主に爆発力のある武器を用い、仲間と協力しながら、
+敵はキルするより戦闘力を奪うことを主眼に戦った
+兵士に与えられる称号。","主に長射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。",,"授予主要使用远距离武器，
+并以非致命手段削弱敌人战斗力的士兵的称号。",,MATCH,139,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,27,27,27,1,,page16:tag4:entity29:key0027B9AF:ref27:ord0,"主に長射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。","主に長射程の武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。",,"授予主要使用近距离武器，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,127,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,28,28,28,1,,page16:tag4:entity35:key0049AEB0:ref28:ord0,"主に短射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。","主に長射程の武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。","主に中射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。",,"授予主要使用远距离武器、
+与同伴合作，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,158,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,29,29,29,1,,page16:tag4:entity30:key0035962D:ref29:ord0,"主に長射程の武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。","主に中射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。","主に爆発力のある武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。",,"授予主要使用中距离武器，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,127,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,30,30,30,1,,page16:tag4:entity39:key006EAEAD:ref30:ord0,"主に中射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。","主に爆発力のある武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。","主に爆発力のある武器を用い、敵への対処はキルする
+ことを主体に戦った兵士に与えられる称号。",,"授予主要使用爆炸性武器、
+与同伴合作，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,164,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,31,31,31,1,,page16:tag4:entity47:key00F5959F:ref31:ord0,"主に爆発力のある武器を用い、仲間と協力しながら、
+敵への対処はキルすることを主体に戦った兵士に
+与えられる称号。","主に爆発力のある武器を用い、敵への対処はキルする
+ことを主体に戦った兵士に与えられる称号。","主に爆発力のある武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。",,"授予主要使用爆炸性武器，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,133,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,32,32,32,1,,page16:tag4:entity46:key00D4D5B6:ref32:ord0,"主に爆発力のある武器を用い、敵への対処はキルする
+ことを主体に戦った兵士に与えられる称号。","主に爆発力のある武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主にCQCを駆使し、仲間と協力しながら、敵はキルするより
+戦闘力を奪うことを主眼に戦った兵士に与えられる称号。",,"授予主要使用爆炸性武器，
+并以非致命手段削弱敌人战斗力的士兵的称号。",,MATCH,145,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,33,33,33,1,,page16:tag4:entity43:key00A60212:ref33:ord0,"主に爆発力のある武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主にCQCを駆使し、仲間と協力しながら、敵はキルするより
+戦闘力を奪うことを主眼に戦った兵士に与えられる称号。","あらゆる武器を用い、敵への対処はキルすることを主体に
+して、最後まで戦い抜いた英雄に与えられる称号。",,"授予主要运用CQC、与同伴合作，
+并以非致命手段削弱敌人战斗力的士兵的称号。",,MATCH,157,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,34,34,34,1,,page16:tag4:entity37:key005F15AD:ref34:ord0,"主にCQCを駆使し、仲間と協力しながら、敵はキルするより
+戦闘力を奪うことを主眼に戦った兵士に与えられる称号。","あらゆる武器を用い、敵への対処はキルすることを主体に
+して、最後まで戦い抜いた英雄に与えられる称号。","主に長射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。",,"授予使用各种武器、以致命手段应
+对敌人并奋战到底的英雄的称号。",,MATCH,148,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,35,35,35,1,,page16:tag4:entity40:key007F91DE:ref35:ord0,"あらゆる武器を用い、敵への対処はキルすることを主体に
+して、最後まで戦い抜いた英雄に与えられる称号。","主に長射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。","主に長射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。",,"授予主要使用远距离武器，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,127,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,36,36,36,1,,page16:tag4:entity27:key002091AD:ref36:ord0,"主に長射程の武器を用い、敵への対処はキルすることを
+主体に戦った兵士に与えられる称号。","主に長射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。","あらゆる武器を用い、仲間と協力しながら、敵はキルする
+より戦闘力を奪うことを主眼に、最後まで戦い抜いた英雄に
+与えられる称号。",,"授予主要使用远距离武器、与同伴合作，
+并以非致命手段削弱敌
+人战斗力的士兵的称号。",,MATCH,170,119,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,37,37,37,1,,page16:tag4:entity24:key000F18FA:ref37:ord0,"主に長射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。","あらゆる武器を用い、仲間と協力しながら、敵はキルする
+より戦闘力を奪うことを主眼に、最後まで戦い抜いた英雄に
+与えられる称号。","あらゆる武器を用い、敵はキルするより戦闘力を奪うことを
+主眼に、最後まで戦い抜いた英雄に与えられる称号。",,"授予使用各种武器、
+与同伴合作，以非致命手
+段削弱敌人战斗力并奋战到底的英雄的称号。",,MATCH,185,122,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,38,38,38,1,,page16:tag4:entity42:key008C5DF1:ref38:ord0,"あらゆる武器を用い、仲間と協力しながら、敵はキルする
+より戦闘力を奪うことを主眼に、最後まで戦い抜いた英雄に
+与えられる称号。","あらゆる武器を用い、敵はキルするより戦闘力を奪うことを
+主眼に、最後まで戦い抜いた英雄に与えられる称号。","主にスタンロッドを用い、仲間と協力しながら、敵はキルする
+より戦闘力を奪うことを主眼に戦った兵士に与えられる称号。",,"授予使用各种武器、以非致命手段削弱
+敌人战斗力并奋战到底的英雄的称号。",,MATCH,154,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,39,39,39,1,,page16:tag4:entity41:key0086B08B:ref39:ord0,"あらゆる武器を用い、敵はキルするより戦闘力を奪うことを
+主眼に、最後まで戦い抜いた英雄に与えられる称号。","主にスタンロッドを用い、仲間と協力しながら、敵はキルする
+より戦闘力を奪うことを主眼に戦った兵士に与えられる称号。","主にスタンロッドを用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。",,"授予主要使用电击棒、与同伴合作，
+并以非致命手段削弱敌人战斗力的士兵的称号。",,MATCH,169,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,40,40,40,1,,page16:tag4:entity33:key00405DEC:ref40:ord0,"主にスタンロッドを用い、仲間と協力しながら、敵はキルする
+より戦闘力を奪うことを主眼に戦った兵士に与えられる称号。","主にスタンロッドを用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","あらゆる武器を用い、仲間と協力しながら、敵への対処は
+キルすることを主眼に、最後まで戦い抜いた英雄に
+与えられる称号。",,"授予主要使用电击棒，并以非致命
+手段削弱敌人战斗力的士兵的称号。",,MATCH,139,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,41,41,41,1,,page16:tag4:entity36:key004CEA48:ref41:ord0,"主にスタンロッドを用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","あらゆる武器を用い、仲間と協力しながら、敵への対処は
+キルすることを主眼に、最後まで戦い抜いた英雄に
+与えられる称号。","主に中射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。",,"授予使用各种武器、与同伴合作，
+以致命手段应对敌人并
+奋战到底的英雄的称号。",,MATCH,173,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,42,42,42,1,,page16:tag4:entity34:key00468FEC:ref42:ord0,"あらゆる武器を用い、仲間と協力しながら、敵への対処は
+キルすることを主眼に、最後まで戦い抜いた英雄に
+与えられる称号。","主に中射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。","主に中射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。",,"授予主要使用中距离武器、与同伴合作，
+并以非致命手段削弱敌
+人战斗力的士兵的称号。",,MATCH,170,119,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,43,43,43,1,,page16:tag4:entity45:key00C85DE3:ref43:ord0,"主に中射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。","主に中射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。",,"授予主要使用中距离武器，
+并以非致命手段削弱敌人战斗力的士兵的称号。",,MATCH,139,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,44,44,44,1,,page16:tag4:entity26:key001C4CB7:ref44:ord0,"主に中射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、仲間と協力しながら、敵への
+対処はキルすることを主体に戦った兵士へと与えられる
+称号。",,"授予主要使用近距离武器，
+并以非致命手段削弱敌人战斗力的士兵的称号。",,MATCH,139,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,45,45,45,1,,page16:tag4:entity31:key00395DE0:ref45:ord0,"主に短射程の武器を用い、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、仲間と協力しながら、敵への
+対処はキルすることを主体に戦った兵士へと与えられる
+称号。","主にCQCを駆使し、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。",,"授予主要使用近距离武器、
+与同伴合作，
+并以致命手段消灭敌人的士兵的称号。",,MATCH,161,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,46,46,46,1,,page16:tag4:entity44:key00C68EEB:ref46:ord0,"主に短射程の武器を用い、仲間と協力しながら、敵への
+対処はキルすることを主体に戦った兵士へと与えられる
+称号。","主にCQCを駆使し、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。",,"授予主要运用CQC，并以非致命
+手段削弱敌人战斗力的士兵的称号。",,MATCH,127,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,47,47,47,1,,page16:tag4:entity38:key00685DDD:ref47:ord0,"主にCQCを駆使し、敵はキルするより戦闘力を
+奪うことを主眼に戦った兵士に与えられる称号。","主に短射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。",VSフルトン回収・スペシャリスト(Rank A),,"授予主要使用近距离武器、与同伴合作，
+并以非致命手段削弱敌
+人战斗力的士兵的称号。",,MATCH,170,119,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,48,48,48,1,,page16:tag4:entity58:key0000D421:ref48:ord0,"主に短射程の武器を用い、仲間と協力しながら、敵はキル
+するより戦闘力を奪うことを主眼に戦った兵士に与えられる
+称号。",VSフルトン回収・スペシャリスト(Rank A),VSフルトン回収・スペシャリスト(Rank B),,VS富尔顿回收专家（A级）,,MATCH,52,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,49,49,49,1,,page16:tag4:entity57:key0000BD21:ref49:ord0,VSフルトン回収・スペシャリスト(Rank A),VSフルトン回収・スペシャリスト(Rank B),VSフルトン回収・スペシャリスト(Rank C),,VS富尔顿回收专家（B级）,,MATCH,52,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,50,50,50,1,,page16:tag4:entity56:key0000BC21:ref50:ord0,VSフルトン回収・スペシャリスト(Rank B),VSフルトン回収・スペシャリスト(Rank C),キャプチャリング・プロフェッショナル(Rank A),,VS富尔顿回收专家（C级）,,MATCH,52,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,51,51,51,1,,page16:tag4:entity55:key0000BB21:ref51:ord0,VSフルトン回収・スペシャリスト(Rank C),キャプチャリング・プロフェッショナル(Rank A),キャプチャリング・プロフェッショナル(Rank B),,捕获专家（A级）,,MATCH,62,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,52,52,52,1,,page16:tag4:entity54:key0000BA21:ref52:ord0,キャプチャリング・プロフェッショナル(Rank A),キャプチャリング・プロフェッショナル(Rank B),キャプチャリング・プロフェッショナル(Rank C),,捕获专家（B级）,,MATCH,62,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,53,53,53,1,,page16:tag4:entity53:key0000B921:ref53:ord0,キャプチャリング・プロフェッショナル(Rank B),キャプチャリング・プロフェッショナル(Rank C),拠点制圧スペシャリスト(Rank A),,捕获专家（C级）,,MATCH,62,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,54,54,54,1,,page16:tag4:entity52:key0000B821:ref54:ord0,キャプチャリング・プロフェッショナル(Rank C),拠点制圧スペシャリスト(Rank A),拠点制圧スペシャリスト(Rank B),,基地专家（A级）,,MATCH,41,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,55,55,55,1,,page16:tag4:entity51:key0000B721:ref55:ord0,拠点制圧スペシャリスト(Rank A),拠点制圧スペシャリスト(Rank B),拠点制圧スペシャリスト(Rank C),,基地专家（B级）,,MATCH,41,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,56,56,56,1,,page16:tag4:entity50:key0000B621:ref56:ord0,拠点制圧スペシャリスト(Rank B),拠点制圧スペシャリスト(Rank C),VSヘッドショット・ストリークマスター(Rank A),,基地专家（C级）,,MATCH,41,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,57,57,57,1,,page16:tag4:entity49:key0000B521:ref57:ord0,拠点制圧スペシャリスト(Rank C),VSヘッドショット・ストリークマスター(Rank A),VSヘッドショット・ストリークマスター(Rank B),,VS连续爆头大师（A级）,,MATCH,61,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,58,58,58,1,,page16:tag4:entity48:key0000B421:ref58:ord0,VSヘッドショット・ストリークマスター(Rank A),VSヘッドショット・ストリークマスター(Rank B),VSヘッドショット・ストリークマスター(Rank C),,VS连续爆头大师（B级）,,MATCH,61,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,59,59,59,1,,page16:tag4:entity157:key00FDDD20:ref59:ord0,VSヘッドショット・ストリークマスター(Rank B),VSヘッドショット・ストリークマスター(Rank C),VSストリーク・バトルマスター(Rank A),,VS连续爆头大师（C级）,,MATCH,61,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,60,60,60,1,,page16:tag4:entity156:key00FDDC20:ref60:ord0,VSヘッドショット・ストリークマスター(Rank C),VSストリーク・バトルマスター(Rank A),VSストリーク・バトルマスター(Rank B),,VS连续击杀大师（A级）,,MATCH,49,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,61,61,61,1,,page16:tag4:entity155:key00FDDB20:ref61:ord0,VSストリーク・バトルマスター(Rank A),VSストリーク・バトルマスター(Rank B),VSストリーク・バトルマスター(Rank C),,VS连续击杀大师（B级）,,MATCH,49,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,62,62,62,1,,page16:tag4:entity154:key00FDDA20:ref62:ord0,VSストリーク・バトルマスター(Rank B),VSストリーク・バトルマスター(Rank C),VSバトルマスター(Rank A),,VS连续击杀大师（C级）,,MATCH,49,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,63,63,63,1,,page16:tag4:entity153:key00FDD920:ref63:ord0,VSストリーク・バトルマスター(Rank C),VSバトルマスター(Rank A),VSバトルマスター(Rank B),,VS战斗大师（A级）,,MATCH,31,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,64,64,64,1,,page16:tag4:entity152:key00FDD820:ref64:ord0,VSバトルマスター(Rank A),VSバトルマスター(Rank B),VSバトルマスター(Rank C),,VS战斗大师（B级）,,MATCH,31,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,65,65,65,1,,page16:tag4:entity151:key00FDD720:ref65:ord0,VSバトルマスター(Rank B),VSバトルマスター(Rank C),キャプチャー・プロフェッショナル,,VS战斗大师（C级）,,MATCH,31,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,66,66,66,1,,page16:tag4:entity150:key00FDD620:ref66:ord0,VSバトルマスター(Rank C),キャプチャー・プロフェッショナル,拠点制圧マスター,,捕获专家,,MATCH,48,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,67,67,67,1,,page16:tag4:entity149:key00FDD520:ref67:ord0,キャプチャー・プロフェッショナル,拠点制圧マスター,チームデスマッチ・マスター,,基地大师,,MATCH,24,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,68,68,68,1,,page16:tag4:entity148:key00FDD420:ref68:ord0,拠点制圧マスター,チームデスマッチ・マスター,デスマッチ・マスター,,团队死斗大师,,MATCH,39,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,69,69,69,1,,page16:tag4:entity147:key00FDBD20:ref69:ord0,チームデスマッチ・マスター,デスマッチ・マスター,???,,死斗大师,,MATCH,30,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,70,70,70;71;72;76;77;78;180;181;182;186;187;188,12,,page16:tag4:entity146:key00FDBC20:ref70:ord0;page16:tag4:entity145:key00FDBB20:ref71:ord0;page16:tag4:entity144:key00FDBA20:ref72:ord0;page16:tag4:entity140:key00FDB620:ref76:ord0;page16:tag4:entity139:key00FDB520:ref77:ord0;page16:tag4:entity138:key00FDB420:ref78:ord0;page16:tag4:entity256:key00FDBC20:ref180:ord0;page16:tag4:entity255:key00FDBB20:ref181:ord0;page16:tag4:entity254:key00FDBA20:ref182:ord0;page16:tag4:entity250:key00FDB620:ref186:ord0;page16:tag4:entity249:key00FDB520:ref187:ord0;page16:tag4:entity248:key00FDB420:ref188:ord0,デスマッチ・マスター,???,VSマスター(Rank A),,???,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=12; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,71,73,73,1,,page16:tag4:entity143:key00FDB920:ref73:ord0,???,VSマスター(Rank A),VSマスター(Rank B),,VS大师（A级）,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,72,74,74,1,,page16:tag4:entity142:key00FDB820:ref74:ord0,VSマスター(Rank A),VSマスター(Rank B),VSマスター(Rank C),,VS大师（B级）,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,73,75,75,1,,page16:tag4:entity141:key00FDB720:ref75:ord0,VSマスター(Rank B),VSマスター(Rank C),???,,VS大师（C级）,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,74,79,79,1,,page16:tag4:entity137:key00FD9D20:ref79:ord0,???,VSエンスージアスト(Rank A),VSエンスージアスト(Rank B),,VS爱好者（A级）,,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,75,80,80,1,,page16:tag4:entity136:key00FD9C20:ref80:ord0,VSエンスージアスト(Rank A),VSエンスージアスト(Rank B),VSエンスージアスト(Rank C),,VS爱好者（B级）,,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,76,81,81,1,,page16:tag4:entity135:key00FD9B20:ref81:ord0,VSエンスージアスト(Rank B),VSエンスージアスト(Rank C),VSルーキー,,VS爱好者（C级）,,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,77,82,82,1,,page16:tag4:entity134:key00FD9A20:ref82:ord0,VSエンスージアスト(Rank C),VSルーキー,マスター・オブ・マザーベース,,VS新秀,,MATCH,14,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,78,83,83,1,,page16:tag4:entity133:key00FD9920:ref83:ord0,VSルーキー,マスター・オブ・マザーベース,マザーベース・ディベロップ・スペシャリスト,,Mother Base大师,,MATCH,42,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,79,84,84,1,,page16:tag4:entity132:key00FD9820:ref84:ord0,マスター・オブ・マザーベース,マザーベース・ディベロップ・スペシャリスト,マスター・オブ・ウェポン,,Mother Base开发专家,,MATCH,63,23,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,80,85,85,1,,page16:tag4:entity131:key00FD9720:ref85:ord0,マザーベース・ディベロップ・スペシャリスト,マスター・オブ・ウェポン,スタンロッド・スペシャリスト,,武器大师,,MATCH,36,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,81,86,86,1,,page16:tag4:entity130:key00FD9620:ref86:ord0,マスター・オブ・ウェポン,スタンロッド・スペシャリスト,エクスプロシブ・スペシャリスト,,电击棒专家,,MATCH,42,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,82,87,87,1,,page16:tag4:entity129:key00FD9520:ref87:ord0,スタンロッド・スペシャリスト,エクスプロシブ・スペシャリスト,グレネード・スペシャリスト,,爆炸物专家,,MATCH,45,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,83,88,88,1,,page16:tag4:entity128:key00FD9420:ref88:ord0,エクスプロシブ・スペシャリスト,グレネード・スペシャリスト,ミサイル・スペシャリスト,,手榴弹专家,,MATCH,39,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,84,89,89,1,,page16:tag4:entity127:key00FD7D20:ref89:ord0,グレネード・スペシャリスト,ミサイル・スペシャリスト,マシンガン・スペシャリスト,,导弹专家,,MATCH,36,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,85,90,90,1,,page16:tag4:entity126:key00FD7C20:ref90:ord0,ミサイル・スペシャリスト,マシンガン・スペシャリスト,スナイパーライフル・スペシャリスト,,机枪专家,,MATCH,39,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,86,91,91,1,,page16:tag4:entity125:key00FD7B20:ref91:ord0,マシンガン・スペシャリスト,スナイパーライフル・スペシャリスト,アサルトライフル・スペシャリスト,,狙击步枪专家,,MATCH,51,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,87,92,92,1,,page16:tag4:entity124:key00FD7A20:ref92:ord0,スナイパーライフル・スペシャリスト,アサルトライフル・スペシャリスト,ショットガン・スペシャリスト,,突击步枪专家,,MATCH,48,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,88,93,93,1,,page16:tag4:entity123:key00FD7920:ref93:ord0,アサルトライフル・スペシャリスト,ショットガン・スペシャリスト,サブマシンガン・スペシャリスト,,霰弹枪专家,,MATCH,42,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,89,94,94,1,,page16:tag4:entity122:key00FD7820:ref94:ord0,ショットガン・スペシャリスト,サブマシンガン・スペシャリスト,ハンドガン・スペシャリスト,,冲锋枪专家,,MATCH,45,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,90,95,95,1,,page16:tag4:entity121:key00FD7720:ref95:ord0,サブマシンガン・スペシャリスト,ハンドガン・スペシャリスト,メカハンティング・スペシャリスト,,手枪专家,,MATCH,39,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,91,96,96,1,,page16:tag4:entity120:key00FD7620:ref96:ord0,ハンドガン・スペシャリスト,メカハンティング・スペシャリスト,ウェポン・クリエーター,,机甲狩猎专家,,MATCH,48,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,92,97,97,1,,page16:tag4:entity119:key00FD7520:ref97:ord0,メカハンティング・スペシャリスト,ウェポン・クリエーター,アイテム・クリエーター,,武器创造者,,MATCH,33,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,93,98,98,1,,page16:tag4:entity118:key00FD7420:ref98:ord0,ウェポン・クリエーター,アイテム・クリエーター,WACコーディネーター,,道具创造者,,MATCH,33,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,94,99,99,1,,page16:tag4:entity117:key00FD5D20:ref99:ord0,アイテム・クリエーター,WACコーディネーター,称号コレクト・スペシャリスト(Rank A),,WAC协调员,,MATCH,27,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,95,100,100,1,,page16:tag4:entity116:key00FD5C20:ref100:ord0,WACコーディネーター,称号コレクト・スペシャリスト(Rank A),称号コレクト・スペシャリスト(Rank B),,称号收集专家（A级）,,MATCH,50,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,96,101,101,1,,page16:tag4:entity115:key00FD5B20:ref101:ord0,称号コレクト・スペシャリスト(Rank A),称号コレクト・スペシャリスト(Rank B),称号コレクト・スペシャリスト(Rank C),,称号收集专家（B级）,,MATCH,50,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,97,102,102,1,,page16:tag4:entity114:key00FD5A20:ref102:ord0,称号コレクト・スペシャリスト(Rank B),称号コレクト・スペシャリスト(Rank C),勲章コレクト・スペシャリスト(Rank A),,称号收集专家（C级）,,MATCH,50,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,98,103,103,1,,page16:tag4:entity113:key00FD5920:ref103:ord0,称号コレクト・スペシャリスト(Rank C),勲章コレクト・スペシャリスト(Rank A),勲章コレクト・スペシャリスト(Rank B),,勋章收集专家（A级）,,MATCH,50,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,99,104,104,1,,page16:tag4:entity112:key00FD5820:ref104:ord0,勲章コレクト・スペシャリスト(Rank A),勲章コレクト・スペシャリスト(Rank B),勲章コレクト・スペシャリスト(Rank C),,勋章收集专家（B级）,,MATCH,50,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,100,105,105,1,,page16:tag4:entity111:key00FD5720:ref105:ord0,勲章コレクト・スペシャリスト(Rank B),勲章コレクト・スペシャリスト(Rank C),モンスターハンティング・スペシャリスト(Rank A),,勋章收集专家（C级）,,MATCH,50,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,101,106,106,1,,page16:tag4:entity110:key00FD5620:ref106:ord0,勲章コレクト・スペシャリスト(Rank C),モンスターハンティング・スペシャリスト(Rank A),モンスターハンティング・スペシャリスト(Rank B),,怪物狩猎专家（A级）,,MATCH,65,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,102,107,107,1,,page16:tag4:entity109:key00FD5520:ref107:ord0,モンスターハンティング・スペシャリスト(Rank A),モンスターハンティング・スペシャリスト(Rank B),モンスターハンティング・スペシャリスト(Rank C),,怪物狩猎专家（B级）,,MATCH,65,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,103,108,108,1,,page16:tag4:entity108:key00FD5420:ref108:ord0,モンスターハンティング・スペシャリスト(Rank B),モンスターハンティング・スペシャリスト(Rank C),パーツ回収・スペシャリスト(Rank A),,怪物狩猎专家（C级）,,MATCH,65,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,104,109,109,1,,page16:tag4:entity107:key00FD3D20:ref109:ord0,モンスターハンティング・スペシャリスト(Rank C),パーツ回収・スペシャリスト(Rank A),パーツ回収・スペシャリスト(Rank B),,零件回收专家（A级）,,MATCH,47,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,105,110,110,1,,page16:tag4:entity106:key00FD3C20:ref110:ord0,パーツ回収・スペシャリスト(Rank A),パーツ回収・スペシャリスト(Rank B),パーツ回収・スペシャリスト(Rank C),,零件回收专家（B级）,,MATCH,47,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,106,111,111,1,,page16:tag4:entity105:key00FD3B20:ref111:ord0,パーツ回収・スペシャリスト(Rank B),パーツ回収・スペシャリスト(Rank C),フルトン回収・スペシャリスト(Rank A),,零件回收专家（C级）,,MATCH,47,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,107,112,112,1,,page16:tag4:entity104:key00FD3A20:ref112:ord0,パーツ回収・スペシャリスト(Rank C),フルトン回収・スペシャリスト(Rank A),フルトン回収・スペシャリスト(Rank B),,富尔顿回收专家（A级）,,MATCH,50,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,108,113,113,1,,page16:tag4:entity103:key00FD3920:ref113:ord0,フルトン回収・スペシャリスト(Rank A),フルトン回収・スペシャリスト(Rank B),フルトン回収・スペシャリスト(Rank C),,富尔顿回收专家（B级）,,MATCH,50,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,109,114,114,1,,page16:tag4:entity102:key00FD3820:ref114:ord0,フルトン回収・スペシャリスト(Rank B),フルトン回収・スペシャリスト(Rank C),CO-OPS通信・スペシャリスト,,富尔顿回收专家（C级）,,MATCH,50,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,110,115,115,1,,page16:tag4:entity101:key00FD3720:ref115:ord0,フルトン回収・スペシャリスト(Rank C),CO-OPS通信・スペシャリスト,ネイキッド・エンスージアスト,,CO-OPS通信专家,,MATCH,36,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,111,116,116,1,,page16:tag4:entity100:key00FD3620:ref116:ord0,CO-OPS通信・スペシャリスト,ネイキッド・エンスージアスト,フォト・スペシャリスト,,NAKED爱好者,,MATCH,42,14,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,112,117,117,1,,page16:tag4:entity99:key00FD3520:ref117:ord0,ネイキッド・エンスージアスト,フォト・スペシャリスト,ダンボール・ラヴァー,,拍照专家,,MATCH,33,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,113,118,118,1,,page16:tag4:entity98:key00FD3420:ref118:ord0,フォト・スペシャリスト,ダンボール・ラヴァー,エネミーサーチ・スペシャリスト,,纸箱爱好者,,MATCH,30,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,114,119,119,1,,page16:tag4:entity97:key00FD1D20:ref119:ord0,ダンボール・ラヴァー,エネミーサーチ・スペシャリスト,ミッションクリア・プロフェッショナル,,索敌专家,,MATCH,45,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,115,120,120,1,,page16:tag4:entity96:key00FD1C20:ref120:ord0,エネミーサーチ・スペシャリスト,ミッションクリア・プロフェッショナル,OUTER OPS・スペシャリスト(Rank A),,任务完成高手,,MATCH,54,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,116,121,121,1,,page16:tag4:entity95:key00FD1B20:ref121:ord0,ミッションクリア・プロフェッショナル,OUTER OPS・スペシャリスト(Rank A),OUTER OPS・スペシャリスト(Rank B),,OUTER OPS专家（A级）,,MATCH,41,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,117,122,122,1,,page16:tag4:entity94:key00FD1A20:ref122:ord0,OUTER OPS・スペシャリスト(Rank A),OUTER OPS・スペシャリスト(Rank B),OUTER OPS・スペシャリスト(Rank C),,OUTER OPS专家（B级）,,MATCH,41,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,118,123,123,1,,page16:tag4:entity93:key00FD1920:ref123:ord0,OUTER OPS・スペシャリスト(Rank B),OUTER OPS・スペシャリスト(Rank C),ミッションクリア・スペシャリスト(Rank A),,OUTER OPS专家（C级）,,MATCH,41,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,119,124,124,1,,page16:tag4:entity92:key00FD1820:ref124:ord0,OUTER OPS・スペシャリスト(Rank C),ミッションクリア・スペシャリスト(Rank A),ミッションクリア・スペシャリスト(Rank B),,任务完成专家（A级）,,MATCH,56,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,120,125,125,1,,page16:tag4:entity91:key00FD1720:ref125:ord0,ミッションクリア・スペシャリスト(Rank A),ミッションクリア・スペシャリスト(Rank B),ミッションクリア・スペシャリスト(Rank C),,任务完成专家（B级）,,MATCH,56,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,121,126,126,1,,page16:tag4:entity90:key00FD1620:ref126:ord0,ミッションクリア・スペシャリスト(Rank B),ミッションクリア・スペシャリスト(Rank C),プレゼント・エンスージアスト,,任务完成专家（C级）,,MATCH,56,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,122,127,127,1,,page16:tag4:entity89:key00FD1520:ref127:ord0,ミッションクリア・スペシャリスト(Rank C),プレゼント・エンスージアスト,人事マネージャー,,礼物爱好者,,MATCH,42,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,123,128,128,1,,page16:tag4:entity88:key00FD1420:ref128:ord0,プレゼント・エンスージアスト,人事マネージャー,ラブダンボール・スペシャリスト,,人事经理,,MATCH,24,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,124,129,129,1,,page16:tag4:entity87:key00FCFD20:ref129:ord0,人事マネージャー,ラブダンボール・スペシャリスト,アイテムシェア・スペシャリスト,,爱心纸箱专家,,MATCH,45,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,125,130,130,1,,page16:tag4:entity86:key00FCFC20:ref130:ord0,ラブダンボール・スペシャリスト,アイテムシェア・スペシャリスト,シンクロ・スペシャリスト,,道具分享专家,,MATCH,45,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,126,131,131,1,,page16:tag4:entity85:key00FCFB20:ref131:ord0,アイテムシェア・スペシャリスト,シンクロ・スペシャリスト,スネークフォーメーション・スペシャリスト,,同步专家,,MATCH,36,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,127,132,132,1,,page16:tag4:entity84:key00FCFA20:ref132:ord0,シンクロ・スペシャリスト,スネークフォーメーション・スペシャリスト,CO-OPイン・スペシャリスト,,蛇形编队专家,,MATCH,60,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,128,133,133,1,,page16:tag4:entity83:key00FCF920:ref133:ord0,スネークフォーメーション・スペシャリスト,CO-OPイン・スペシャリスト,メディック・マスター(Rank A),,CO-OP加入专家,,MATCH,35,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,129,134,134,1,,page16:tag4:entity82:key00FCF820:ref134:ord0,CO-OPイン・スペシャリスト,メディック・マスター(Rank A),メディック・マスター(Rank B),,医疗大师（A级）,,MATCH,38,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,130,135,135,1,,page16:tag4:entity81:key00FCF720:ref135:ord0,メディック・マスター(Rank A),メディック・マスター(Rank B),メディック・マスター(Rank C),,医疗大师（B级）,,MATCH,38,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,131,136,136,1,,page16:tag4:entity80:key00FCF620:ref136:ord0,メディック・マスター(Rank B),メディック・マスター(Rank C),CO-OP・スペシャリスト(Rank A),,医疗大师（C级）,,MATCH,38,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,132,137,137,1,,page16:tag4:entity79:key00FCF520:ref137:ord0,メディック・マスター(Rank C),CO-OP・スペシャリスト(Rank A),CO-OP・スペシャリスト(Rank B),,CO-OPS专家（A级）,,MATCH,37,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,133,138,138,1,,page16:tag4:entity78:key00FCF420:ref138:ord0,CO-OP・スペシャリスト(Rank A),CO-OP・スペシャリスト(Rank B),CO-OP・スペシャリスト(Rank C),,CO-OPS专家（B级）,,MATCH,37,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,134,139,139,1,,page16:tag4:entity77:key00FCDD20:ref139:ord0,CO-OP・スペシャリスト(Rank B),CO-OP・スペシャリスト(Rank C),ヘッドショット・マスター(Rank A),,CO-OPS专家（C级）,,MATCH,37,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,135,140,140,1,,page16:tag4:entity76:key00FCDC20:ref140:ord0,CO-OP・スペシャリスト(Rank C),ヘッドショット・マスター(Rank A),ヘッドショット・マスター(Rank B),,爆头大师（A级）,,MATCH,44,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,136,141,141,1,,page16:tag4:entity75:key00FCDB20:ref141:ord0,ヘッドショット・マスター(Rank A),ヘッドショット・マスター(Rank B),ヘッドショット・マスター(Rank C),,爆头大师（B级）,,MATCH,44,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,137,142,142,1,,page16:tag4:entity74:key00FCDA20:ref142:ord0,ヘッドショット・マスター(Rank B),ヘッドショット・マスター(Rank C),CQC・マスター(Rank A),,爆头大师（C级）,,MATCH,44,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,138,143,143,1,,page16:tag4:entity73:key00FCD920:ref143:ord0,ヘッドショット・マスター(Rank C),CQC・マスター(Rank A),CQC・マスター(Rank B),,CQC大师（A级）,,MATCH,26,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,139,144,144,1,,page16:tag4:entity72:key00FCD820:ref144:ord0,CQC・マスター(Rank A),CQC・マスター(Rank B),CQC・マスター(Rank C),,CQC大师（B级）,,MATCH,26,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,140,145,145,1,,page16:tag4:entity71:key00FCD720:ref145:ord0,CQC・マスター(Rank B),CQC・マスター(Rank C),ノーリカバリー・マスター(Rank A),,CQC大师（C级）,,MATCH,26,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,141,146,146,1,,page16:tag4:entity70:key00FCD620:ref146:ord0,CQC・マスター(Rank C),ノーリカバリー・マスター(Rank A),ノーリカバリー・マスター(Rank B),,无回收大师（A级）,,MATCH,44,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,142,147,147,1,,page16:tag4:entity69:key00FCD520:ref147:ord0,ノーリカバリー・マスター(Rank A),ノーリカバリー・マスター(Rank B),ノーリカバリー・マスター(Rank C),,无回收大师（B级）,,MATCH,44,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,143,148,148,1,,page16:tag4:entity68:key00FCD420:ref148:ord0,ノーリカバリー・マスター(Rank B),ノーリカバリー・マスター(Rank C),ホールドアップ・マスター(Rank A),,无回收大师（C级）,,MATCH,44,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,144,149,149,1,,page16:tag4:entity67:key00FCBD20:ref149:ord0,ノーリカバリー・マスター(Rank C),ホールドアップ・マスター(Rank A),ホールドアップ・マスター(Rank B),,胁迫大师（A级）,,MATCH,44,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,145,150,150,1,,page16:tag4:entity66:key00FCBC20:ref150:ord0,ホールドアップ・マスター(Rank A),ホールドアップ・マスター(Rank B),ホールドアップ・マスター(Rank C),,胁迫大师（B级）,,MATCH,44,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,146,151,151,1,,page16:tag4:entity65:key00FCBB20:ref151:ord0,ホールドアップ・マスター(Rank B),ホールドアップ・マスター(Rank C),ノーキル・マスター(Rank A),,胁迫大师（C级）,,MATCH,44,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,147,152,152,1,,page16:tag4:entity64:key00FCBA20:ref152:ord0,ホールドアップ・マスター(Rank C),ノーキル・マスター(Rank A),ノーキル・マスター(Rank B),,无杀伤大师（A级）,,MATCH,35,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,148,153,153,1,,page16:tag4:entity63:key00FCB920:ref153:ord0,ノーキル・マスター(Rank A),ノーキル・マスター(Rank B),ノーキル・マスター(Rank C),,无杀伤大师（B级）,,MATCH,35,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,149,154,154,1,,page16:tag4:entity62:key00FCB820:ref154:ord0,ノーキル・マスター(Rank B),ノーキル・マスター(Rank C),ステルス・マスター(Rank A),,无杀伤大师（C级）,,MATCH,35,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,150,155,155,1,,page16:tag4:entity61:key00FCB720:ref155:ord0,ノーキル・マスター(Rank C),ステルス・マスター(Rank A),ステルス・マスター(Rank B),,潜行大师（A级）,,MATCH,35,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,151,156,156,1,,page16:tag4:entity60:key00FCB620:ref156:ord0,ステルス・マスター(Rank A),ステルス・マスター(Rank B),ステルス・マスター(Rank C),,潜行大师（B级）,,MATCH,35,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,152,157,157,1,,page16:tag4:entity59:key00FCB520:ref157:ord0,ステルス・マスター(Rank B),ステルス・マスター(Rank C),"対戦でフルトン回収を成功させた回数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）",,潜行大师（C级）,,MATCH,35,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,153,158,158;159;160,3,,page16:tag4:entity168:key0000D421:ref158:ord0;page16:tag4:entity167:key0000BD21:ref159:ord0;page16:tag4:entity166:key0000BC21:ref160:ord0,ステルス・マスター(Rank C),"対戦でフルトン回収を成功させた回数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）","ターゲットゴール（カウントを０にする）回数が$1を越えた
+功績をたたえ授与される（英雄度$2増加）。",$1 | $2,"因在VS中成功进行超过$1次富尔
+顿回收而授予。（英雄值增加$2）",$1 | $2,MATCH,128,85,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,154,161,161;162;163,3,,page16:tag4:entity165:key0000BB21:ref161:ord0;page16:tag4:entity164:key0000BA21:ref162:ord0;page16:tag4:entity163:key0000B921:ref163:ord0,"対戦でフルトン回収を成功させた回数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）","ターゲットゴール（カウントを０にする）回数が$1を越えた
+功績をたたえ授与される（英雄度$2増加）。","拠点の制圧回数が$1を越えた功績をたたえ授与される。
+（英雄度$2増加）",$1 | $2,"因将目标送达终点（计数归零）
+超过$1次而授予。（英雄值增加$2）",$1 | $2,MATCH,140,89,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,155,164,164;165;166,3,,page16:tag4:entity162:key0000B821:ref164:ord0;page16:tag4:entity161:key0000B721:ref165:ord0;page16:tag4:entity160:key0000B621:ref166:ord0,"ターゲットゴール（カウントを０にする）回数が$1を越えた
+功績をたたえ授与される（英雄度$2増加）。","拠点の制圧回数が$1を越えた功績をたたえ授与される。
+（英雄度$2増加）","対戦で$1回以上連続してヘッドショットを成功させた功績を
+たたえ授与される（英雄度$2増加）。",$1 | $2,"因占领据点超过$1次而授予。
+（英雄值增加$2）",$1 | $2,MATCH,98,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,156,167,167;168;169,3,,page16:tag4:entity159:key0000B521:ref167:ord0;page16:tag4:entity158:key0000B421:ref168:ord0;page16:tag4:entity267:key00FDDD20:ref169:ord0,"拠点の制圧回数が$1を越えた功績をたたえ授与される。
+（英雄度$2増加）","対戦で$1回以上連続してヘッドショットを成功させた功績を
+たたえ授与される（英雄度$2増加）。","対戦で$1回以上連続してキルを獲得した功績をたたえ
+授与される（英雄度$2増加）。",$1 | $2,"因在VS中连续成功爆头$1次
+以上而授予。（英雄值增加$2）",$1 | $2,MATCH,131,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,157,170,170;171;172,3,,page16:tag4:entity266:key00FDDC20:ref170:ord0;page16:tag4:entity265:key00FDDB20:ref171:ord0;page16:tag4:entity264:key00FDDA20:ref172:ord0,"対戦で$1回以上連続してヘッドショットを成功させた功績を
+たたえ授与される（英雄度$2増加）。","対戦で$1回以上連続してキルを獲得した功績をたたえ
+授与される（英雄度$2増加）。","対戦での敵キル・睡眠・気絶総数が、$1を越えた功績を
+たたえ授与される。（英雄度$2増加）",$1 | $2,"因在VS中连续取得$1次以上
+击杀而授予。（英雄值增加$2）",$1 | $2,MATCH,113,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,158,173,173;174;175,3,,page16:tag4:entity263:key00FDD920:ref173:ord0;page16:tag4:entity262:key00FDD820:ref174:ord0;page16:tag4:entity261:key00FDD720:ref175:ord0,"対戦で$1回以上連続してキルを獲得した功績をたたえ
+授与される（英雄度$2増加）。","対戦での敵キル・睡眠・気絶総数が、$1を越えた功績を
+たたえ授与される。（英雄度$2増加）","対戦ルール『キャプチャー（CAP）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）",$1 | $2,"因VS中的敌人击杀、睡眠与击晕总数
+超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,125,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,159,176,176,1,,page16:tag4:entity260:key00FDD620:ref176:ord0,"対戦での敵キル・睡眠・気絶総数が、$1を越えた功績を
+たたえ授与される。（英雄度$2増加）","対戦ルール『キャプチャー（CAP）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）","対戦ルール『拠点制圧（BASE）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）",$1 | $2,"因在对战规则“占领（CAP）”中获胜的
+关卡数超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,152,104,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,160,177,177,1,,page16:tag4:entity259:key00FDD520:ref177:ord0,"対戦ルール『キャプチャー（CAP）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）","対戦ルール『拠点制圧（BASE）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）","対戦ルール『チームデスマッチ（TDM）』での勝利ステージ数が$1を
+越えた功績をたたえ授与される。（英雄度$2増加）",$1 | $2,"因在对战规则“据点制压（BASE）
+”中获胜的关卡数超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,147,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,161,178,178,1,,page16:tag4:entity258:key00FDD420:ref178:ord0,"対戦ルール『拠点制圧（BASE）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）","対戦ルール『チームデスマッチ（TDM）』での勝利ステージ数が$1を
+越えた功績をたたえ授与される。（英雄度$2増加）","対戦ルール『デスマッチ（DM）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）",$1 | $2,"因在对战规则“团队死斗（TDM）
+”中获胜的关卡数超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,158,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,162,179,179,1,,page16:tag4:entity257:key00FDBD20:ref179:ord0,"対戦ルール『チームデスマッチ（TDM）』での勝利ステージ数が$1を
+越えた功績をたたえ授与される。（英雄度$2増加）","対戦ルール『デスマッチ（DM）』での勝利ステージ数が$1を越えた
+功績をたたえ授与される。（英雄度$2増加）",???,$1 | $2,"因在对战规则“死斗（DM）”中获胜的关
+卡数超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,148,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,163,183,183;184;185,3,,page16:tag4:entity253:key00FDB920:ref183:ord0;page16:tag4:entity252:key00FDB820:ref184:ord0;page16:tag4:entity251:key00FDB720:ref185:ord0,???,"対戦プレイでの勝利ステージ数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）",???,$1 | $2,"因VS对战中获胜的关卡数超过
+$1而授予。（英雄值增加$2）",$1 | $2,MATCH,119,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,164,189,189;190;191,3,,page16:tag4:entity247:key00FD9D20:ref189:ord0;page16:tag4:entity246:key00FD9C20:ref190:ord0;page16:tag4:entity245:key00FD9B20:ref191:ord0,???,"対戦でのプレイラウンド数が$1を越えた記念に
+授与される。（英雄度$2増加）","対戦プレイに初参戦した記念に授与される。
+（英雄度$2増加）",$1 | $2,"因VS对战的游玩回合数超过
+$1而授予。（英雄值增加$2）",$1 | $2,MATCH,104,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,165,192,192,1,,page16:tag4:entity244:key00FD9A20:ref192:ord0,"対戦でのプレイラウンド数が$1を越えた記念に
+授与される。（英雄度$2増加）","対戦プレイに初参戦した記念に授与される。
+（英雄度$2増加）","マザーベースで行える全ての開発を最終段階まで進めた
+功績をたたえ授与される。（英雄度$2増加）",$2,"为纪念首次参加VS对战而授予。
+（英雄值增加$2）",$2,MATCH,84,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,166,193,193,1,,page16:tag4:entity243:key00FD9920:ref193:ord0,"対戦プレイに初参戦した記念に授与される。
+（英雄度$2増加）","マザーベースで行える全ての開発を最終段階まで進めた
+功績をたたえ授与される。（英雄度$2増加）","マザーベース本体の改良強化を最終段階まで進めた功績を
+たたえ授与される。（英雄度$2増加）",$2,"因将Mother Base中可进行的全部开
+发推进到最终阶段而授予。（英雄值增加$2）",$2,MATCH,135,101,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,167,194,194,1,,page16:tag4:entity242:key00FD9820:ref194:ord0,"マザーベースで行える全ての開発を最終段階まで進めた
+功績をたたえ授与される。（英雄度$2増加）","マザーベース本体の改良強化を最終段階まで進めた功績を
+たたえ授与される。（英雄度$2増加）","全ての武器のレベルを最大にした功績をたたえ授与される。
+（英雄度$2増加）",$2,"因将Mother Base本体的改良强化
+推进到最终阶段而授予。（英雄值增加$2）",$2,MATCH,129,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,168,195,195,1,,page16:tag4:entity241:key00FD9720:ref195:ord0,"マザーベース本体の改良強化を最終段階まで進めた功績を
+たたえ授与される。（英雄度$2増加）","全ての武器のレベルを最大にした功績をたたえ授与される。
+（英雄度$2増加）","スタンロッドのレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将所有武器等级提升至最高
+而授予。（英雄值增加$2）",$2,MATCH,105,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,169,196,196,1,,page16:tag4:entity240:key00FD9620:ref196:ord0,"全ての武器のレベルを最大にした功績をたたえ授与される。
+（英雄度$2増加）","スタンロッドのレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","設置系武器全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将电击棒等级提升至最高而授予。
+（英雄值增加$2）",$2,MATCH,108,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,170,197,197,1,,page16:tag4:entity239:key00FD9520:ref197:ord0,"スタンロッドのレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","設置系武器全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","投擲系武器全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将所有设置型武器的等级提升至
+最高而授予。（英雄值增加$2）",$2,MATCH,114,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,171,198,198,1,,page16:tag4:entity238:key00FD9420:ref198:ord0,"設置系武器全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","投擲系武器全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","ミサイル・ロケット弾全種類のレベルを最大にした功績を
+たたえ授与される。（英雄度$2増加）",$2,"因将所有投掷型武器的等级提升至
+最高而授予。（英雄值增加$2）",$2,MATCH,114,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,172,199,199,1,,page16:tag4:entity237:key00FD7D20:ref199:ord0,"投擲系武器全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","ミサイル・ロケット弾全種類のレベルを最大にした功績を
+たたえ授与される。（英雄度$2増加）","マシンガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将所有导弹、火箭弹的等级提升
+至最高而授予。（英雄值增加$2）",$2,MATCH,129,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,173,200,200,1,,page16:tag4:entity236:key00FD7C20:ref200:ord0,"ミサイル・ロケット弾全種類のレベルを最大にした功績を
+たたえ授与される。（英雄度$2増加）","マシンガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","スナイパーライフル全種類のレベルを最大にした功績を
+たたえ授与される。（英雄度$2増加）",$2,"因将所有机枪的等级提升至最
+高而授予。（英雄值增加$2）",$2,MATCH,114,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,174,201,201,1,,page16:tag4:entity235:key00FD7B20:ref201:ord0,"マシンガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","スナイパーライフル全種類のレベルを最大にした功績を
+たたえ授与される。（英雄度$2増加）","アサルトライフル全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将所有狙击步枪的等级提升至
+最高而授予。（英雄值增加$2）",$2,MATCH,126,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,175,202,202,1,,page16:tag4:entity234:key00FD7A20:ref202:ord0,"スナイパーライフル全種類のレベルを最大にした功績を
+たたえ授与される。（英雄度$2増加）","アサルトライフル全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","ショットガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将所有突击步枪的等级提升至
+最高而授予。（英雄值增加$2）",$2,MATCH,123,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,176,203,203,1,,page16:tag4:entity233:key00FD7920:ref203:ord0,"アサルトライフル全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","ショットガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","サブマシンガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将所有霰弹枪的等级提升至最
+高而授予。（英雄值增加$2）",$2,MATCH,117,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,177,204,204,1,,page16:tag4:entity232:key00FD7820:ref204:ord0,"ショットガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","サブマシンガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","ハンドガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）",$2,"因将所有冲锋枪的等级提升至最
+高而授予。（英雄值增加$2）",$2,MATCH,120,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,178,205,205,1,,page16:tag4:entity231:key00FD7720:ref205:ord0,"サブマシンガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","ハンドガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","メカを全種類鹵獲した功績をたたえ授与される。
+（英雄度$2増加）",$2,"因将所有手枪的等级提升至最
+高而授予。（英雄值增加$2）",$2,MATCH,114,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,179,206,206,1,,page16:tag4:entity230:key00FD7620:ref206:ord0,"ハンドガン全種類のレベルを最大にした功績をたたえ
+授与される。（英雄度$2増加）","メカを全種類鹵獲した功績をたたえ授与される。
+（英雄度$2増加）","武器を全種類開発した功績をたたえ授与される。
+（英雄度$2増加）",$2,"因捕获全部种类的机甲而授予。
+（英雄值增加$2）",$2,MATCH,90,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,180,207,207,1,,page16:tag4:entity229:key00FD7520:ref207:ord0,"メカを全種類鹵獲した功績をたたえ授与される。
+（英雄度$2増加）","武器を全種類開発した功績をたたえ授与される。
+（英雄度$2増加）","アイテムを全種類開発した功績をたたえ授与される。
+（英雄度$2増加）",$2,"因开发全部武器而授予。
+（英雄值增加$2）",$2,MATCH,90,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,181,208,208,1,,page16:tag4:entity228:key00FD7420:ref208:ord0,"武器を全種類開発した功績をたたえ授与される。
+（英雄度$2増加）","アイテムを全種類開発した功績をたたえ授与される。
+（英雄度$2増加）","MSFのスタッフを全員女性だけで編成した功績をたたえ
+授与される。（英雄度$2増加）",$2,"因开发全部道具而授予。
+（英雄值增加$2）",$2,MATCH,96,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,182,209,209,1,,page16:tag4:entity227:key00FD5D20:ref209:ord0,"アイテムを全種類開発した功績をたたえ授与される。
+（英雄度$2増加）","MSFのスタッフを全員女性だけで編成した功績をたたえ
+授与される。（英雄度$2増加）","全ての称号を獲得したことを記念し授与される。
+（英雄度$2増加）",$2,"因将MSF全体人员编成全部由女
+性组成而授予。（英雄值增加$2）",$2,MATCH,114,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,183,210,210,1,,page16:tag4:entity226:key00FD5C20:ref210:ord0,"MSFのスタッフを全員女性だけで編成した功績をたたえ
+授与される。（英雄度$2増加）","全ての称号を獲得したことを記念し授与される。
+（英雄度$2増加）","称号獲得数が、全称号の$1％を越えたことを記念し
+授与される。（英雄度$2増加）",$2,"为纪念获得全部称号而授予。
+（英雄值增加$2）",$2,MATCH,90,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,184,211,211;212,2,,page16:tag4:entity225:key00FD5B20:ref211:ord0;page16:tag4:entity224:key00FD5A20:ref212:ord0,"全ての称号を獲得したことを記念し授与される。
+（英雄度$2増加）","称号獲得数が、全称号の$1％を越えたことを記念し
+授与される。（英雄度$2増加）","全ての勲章を獲得したことを記念し授与される。
+（英雄度$2増加）",$1 | $2,"为纪念获得的称号数量超过全部称号
+的$1％而授予。（英雄值增加$2）",$1 | $2,MATCH,110,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,185,213,213,1,,page16:tag4:entity223:key00FD5920:ref213:ord0,"称号獲得数が、全称号の$1％を越えたことを記念し
+授与される。（英雄度$2増加）","全ての勲章を獲得したことを記念し授与される。
+（英雄度$2増加）","勲章獲得数が、全勲章の$1％を越えたことを記念し
+授与される。（英雄度$2増加）",$2,"为纪念获得全部勋章而授予。
+（英雄值增加$2）",$2,MATCH,90,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,186,214,214;215,2,,page16:tag4:entity222:key00FD5820:ref214:ord0;page16:tag4:entity221:key00FD5720:ref215:ord0,"全ての勲章を獲得したことを記念し授与される。
+（英雄度$2増加）","勲章獲得数が、全勲章の$1％を越えたことを記念し
+授与される。（英雄度$2増加）","ハントしたモンスターの数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）",$1 | $2,"为纪念获得的勋章数量超过全部勋章
+的$1％而授予。（英雄值增加$2）",$1 | $2,MATCH,110,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,187,216,216;217;218,3,,page16:tag4:entity220:key00FD5620:ref216:ord0;page16:tag4:entity219:key00FD5520:ref217:ord0;page16:tag4:entity218:key00FD5420:ref218:ord0,"勲章獲得数が、全勲章の$1％を越えたことを記念し
+授与される。（英雄度$2増加）","ハントしたモンスターの数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","取得したメカパーツの数が$1以上となった功績をたたえ
+授与される。（英雄度$2増加）",$1 | $2,"因狩猎的怪物数量超过$1而授予。
+（英雄值增加$2）",$1 | $2,MATCH,113,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,188,219,219,1,,page16:tag4:entity217:key00FD3D20:ref219:ord0,"ハントしたモンスターの数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","取得したメカパーツの数が$1以上となった功績をたたえ
+授与される。（英雄度$2増加）","取得したメカパーツの数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）",$1 | $2,"因获得的机甲零件数量达到$1
+以上而授予。（英雄值增加$2）",$1 | $2,MATCH,116,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,189,220,220;221,2,,page16:tag4:entity216:key00FD3C20:ref220:ord0;page16:tag4:entity215:key00FD3B20:ref221:ord0,"取得したメカパーツの数が$1以上となった功績をたたえ
+授与される。（英雄度$2増加）","取得したメカパーツの数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","フルトン回収した人数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）",$1 | $2,"因获得的机甲零件数量超过$1
+而授予。（英雄值增加$2）",$1 | $2,MATCH,110,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,190,222,222;223;224,3,,page16:tag4:entity214:key00FD3A20:ref222:ord0;page16:tag4:entity213:key00FD3920:ref223:ord0;page16:tag4:entity212:key00FD3820:ref224:ord0,"取得したメカパーツの数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","フルトン回収した人数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","CO-OPS通信の使用回数が$1を越えた者に与えられる。
+（英雄度$2増加）",$1 | $2,"因通过富尔顿回收的人数超过
+$1而授予。（英雄值增加$2）",$1 | $2,MATCH,107,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,191,225,225,1,,page16:tag4:entity211:key00FD3720:ref225:ord0,"フルトン回収した人数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","CO-OPS通信の使用回数が$1を越えた者に与えられる。
+（英雄度$2増加）","上半身裸でクリアしたミッション数が$1を越えた
+根性に対し授与される。（英雄度$2増加）",$1 | $2,"因使用CO-OPS通信超过$1
+次而授予。（英雄值增加$2）",$1 | $2,MATCH,92,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,192,226,226,1,,page16:tag4:entity210:key00FD3620:ref226:ord0,"CO-OPS通信の使用回数が$1を越えた者に与えられる。
+（英雄度$2増加）","上半身裸でクリアしたミッション数が$1を越えた
+根性に対し授与される。（英雄度$2増加）","撮影した写真の枚数が$1を越えた者に与えられる。
+（英雄度$2増加）",$1 | $2,"因上半身赤裸完成的任务数超过
+$1而授予。（英雄值增加$2）",$1 | $2,MATCH,122,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,193,227,227,1,,page16:tag4:entity209:key00FD3520:ref227:ord0,"上半身裸でクリアしたミッション数が$1を越えた
+根性に対し授与される。（英雄度$2増加）","撮影した写真の枚数が$1を越えた者に与えられる。
+（英雄度$2増加）","ダンボール箱に入っていた時間が$1時間を越えた者の
+忍耐をたたえ授与される（英雄度$2増加）。",$1 | $2,"因拍摄的照片数量超过$1而授予。
+（英雄值增加$2）",$1 | $2,MATCH,92,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,194,228,228,1,,page16:tag4:entity208:key00FD3420:ref228:ord0,"撮影した写真の枚数が$1を越えた者に与えられる。
+（英雄度$2増加）","ダンボール箱に入っていた時間が$1時間を越えた者の
+忍耐をたたえ授与される（英雄度$2増加）。","エネミーサーチ中敵を指示（タギング）した回数が$1を
+越えた功績をたたえ授与される（英雄度$2増加）。",$1 | $2,"因在纸箱中待了超过$1小时而授予，
+以表彰其耐心。（英雄值增加$2）",$1 | $2,MATCH,131,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,195,229,229,1,,page16:tag4:entity207:key00FD1D20:ref229:ord0,"ダンボール箱に入っていた時間が$1時間を越えた者の
+忍耐をたたえ授与される（英雄度$2増加）。","エネミーサーチ中敵を指示（タギング）した回数が$1を
+越えた功績をたたえ授与される（英雄度$2増加）。","クリアしたミッション数がのべ$1を越えた功績をたたえ
+授与される。（英雄度$2増加）",$1 | $2,"因在索敌中标记敌人的次数超过
+$1而授予。（英雄值增加$2）",$1 | $2,MATCH,143,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,196,230,230,1,,page16:tag4:entity206:key00FD1C20:ref230:ord0,"エネミーサーチ中敵を指示（タギング）した回数が$1を
+越えた功績をたたえ授与される（英雄度$2増加）。","クリアしたミッション数がのべ$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","全てのOUTER OPSをクリアした功績をたたえ
+授与される。（英雄度$2増加）",$1 | $2,"因累计完成的任务数超过$1
+而授予。（英雄值增加$2）",$1 | $2,MATCH,116,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,197,231,231,1,,page16:tag4:entity205:key00FD1B20:ref231:ord0,"クリアしたミッション数がのべ$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","全てのOUTER OPSをクリアした功績をたたえ
+授与される。（英雄度$2増加）","OUTER OPSのクリア率が$1%を越えた功績をたたえ
+授与される。（英雄度$2増加）",$2,"因完成全部OUTER
+OPS而授予。（英雄值增加$2）",$2,MATCH,96,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,198,232,232;233,2,,page16:tag4:entity204:key00FD1A20:ref232:ord0;page16:tag4:entity203:key00FD1920:ref233:ord0,"全てのOUTER OPSをクリアした功績をたたえ
+授与される。（英雄度$2増加）","OUTER OPSのクリア率が$1%を越えた功績をたたえ
+授与される。（英雄度$2増加）","全てのミッションをSINGLEとCO-OPSの両方でプレイし、かつ
+ランクSでクリアした功績をたたえ授与される。（英雄度$2増加）",$1 | $2,"因OUTER OPS完成率超过
+$1%而授予。（英雄值增加$2）",$1 | $2,MATCH,102,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,199,234,234,1,,page16:tag4:entity202:key00FD1820:ref234:ord0,"OUTER OPSのクリア率が$1%を越えた功績をたたえ
+授与される。（英雄度$2増加）","全てのミッションをSINGLEとCO-OPSの両方でプレイし、かつ
+ランクSでクリアした功績をたたえ授与される。（英雄度$2増加）","全てのミッションをSINGLEとCO-OPSの両方でプレイし、かつ
+ランクA以上の結果でクリアした功績をたたえ授与される。
+（英雄度$2増加）",$2,"因在SINGLE和CO-OPS两种模式下游玩全
+部任务，并以S级完成而授予。（英雄值增加$2）",$2,MATCH,163,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,200,235,235,1,,page16:tag4:entity201:key00FD1720:ref235:ord0,"全てのミッションをSINGLEとCO-OPSの両方でプレイし、かつ
+ランクSでクリアした功績をたたえ授与される。（英雄度$2増加）","全てのミッションをSINGLEとCO-OPSの両方でプレイし、かつ
+ランクA以上の結果でクリアした功績をたたえ授与される。
+（英雄度$2増加）","全てのミッションをSINGLEとCO-OPSの両方でプレイし、
+かつクリアした功績をたたえ授与される。（英雄度$2増加）",$2,"因在SINGLE和CO-O
+PS两种模式下游玩全部任务，
+并以A级以上成绩完成而授予。（英雄值增加$2）",$2,MATCH,179,122,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,201,236,236,1,,page16:tag4:entity200:key00FD1620:ref236:ord0,"全てのミッションをSINGLEとCO-OPSの両方でプレイし、かつ
+ランクA以上の結果でクリアした功績をたたえ授与される。
+（英雄度$2増加）","全てのミッションをSINGLEとCO-OPSの両方でプレイし、
+かつクリアした功績をたたえ授与される。（英雄度$2増加）","他のプレイヤーに武器やアイテムをプレゼントした回数が
+$1を越えた者の寛容さに対し授与される。
+（英雄度$2増加）",$2,"因在SINGLE和CO-OPS两种模式下游
+玩并完成全部任务而授予。（英雄值增加$2）",$2,MATCH,150,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,202,237,237,1,,page16:tag4:entity199:key00FD1520:ref237:ord0,"全てのミッションをSINGLEとCO-OPSの両方でプレイし、
+かつクリアした功績をたたえ授与される。（英雄度$2増加）","他のプレイヤーに武器やアイテムをプレゼントした回数が
+$1を越えた者の寛容さに対し授与される。
+（英雄度$2増加）","スタッフトレードの実施回数が$1を越えた者に
+与えられる（英雄度$2増加）。",$1 | $2,"因向其他玩家赠送武器
+或道具的次数超过$1
+而授予，以表彰其慷慨。（英雄值增加$2）",$1 | $2,MATCH,159,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,203,238,238,1,,page16:tag4:entity198:key00FD1420:ref238:ord0,"他のプレイヤーに武器やアイテムをプレゼントした回数が
+$1を越えた者の寛容さに対し授与される。
+（英雄度$2増加）","スタッフトレードの実施回数が$1を越えた者に
+与えられる（英雄度$2増加）。","2人でダンボールに入っていた時間が$1時間以上で、
+その状態での移動距離が$3mを越えた者に与えられる。
+（英雄度$2増加）",$1 | $2,"因进行人员交换的次数超过$1
+而授予。（英雄值增加$2）",$1 | $2,MATCH,104,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,204,239,239,1,,page16:tag4:entity197:key00FCFD20:ref239:ord0,"スタッフトレードの実施回数が$1を越えた者に
+与えられる（英雄度$2増加）。","2人でダンボールに入っていた時間が$1時間以上で、
+その状態での移動距離が$3mを越えた者に与えられる。
+（英雄度$2増加）","武器、アイテムの共有状態と仲間に使用された回数が、
+各々$1を越えた者に与えられる（英雄度$2増加）。",$1 | $3m | $2,"因两人一起进入纸箱的时间达到$1小时以上，
+且在此状态下移动距离超过$3m
+而授予。（英雄值增加$2）",$1 | $3m | $2,MATCH,166,135,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,205,240,240,1,,page16:tag4:entity196:key00FCFC20:ref240:ord0,"2人でダンボールに入っていた時間が$1時間以上で、
+その状態での移動距離が$3mを越えた者に与えられる。
+（英雄度$2増加）","武器、アイテムの共有状態と仲間に使用された回数が、
+各々$1を越えた者に与えられる（英雄度$2増加）。","スネークシンクロ状態になった回数が$1を越えた者に
+与えられる。（英雄度$2増加）",$1 | $2,"因武器、道具处于共享状态以及被同伴使用的次
+数分别都超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,143,119,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,206,241,241,1,,page16:tag4:entity195:key00FCFB20:ref241:ord0,"武器、アイテムの共有状態と仲間に使用された回数が、
+各々$1を越えた者に与えられる（英雄度$2増加）。","スネークシンクロ状態になった回数が$1を越えた者に
+与えられる。（英雄度$2増加）","スネーク・イン回数が$1を越えた者に与えられる。
+（英雄度$2増加）",$1 | $2,"因进入Snake Sync状态的次
+数超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,113,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,207,242,242,1,,page16:tag4:entity194:key00FCFA20:ref242:ord0,"スネークシンクロ状態になった回数が$1を越えた者に
+与えられる。（英雄度$2増加）","スネーク・イン回数が$1を越えた者に与えられる。
+（英雄度$2増加）","CO-OPイン回数が$1を越えた者に与えられる。
+（英雄度$2増加）",$1 | $2,"因Snake In次数超过
+$1而授予。（英雄值增加$2）",$1 | $2,MATCH,92,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,208,243,243,1,,page16:tag4:entity193:key00FCF920:ref243:ord0,"スネーク・イン回数が$1を越えた者に与えられる。
+（英雄度$2増加）","CO-OPイン回数が$1を越えた者に与えられる。
+（英雄度$2増加）","心臓マッサージ、救命ダンボール使用、言霊効果、
+これらの救命合計数が$1を越えた功績をたたえ授与される。
+（英雄度$2増加）",$1 | $2,"因CO-OP In次数超过
+$1而授予。（英雄值增加$2）",$1 | $2,MATCH,82,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,209,244,244;245;246,3,,page16:tag4:entity192:key00FCF820:ref244:ord0;page16:tag4:entity191:key00FCF720:ref245:ord0;page16:tag4:entity190:key00FCF620:ref246:ord0,"CO-OPイン回数が$1を越えた者に与えられる。
+（英雄度$2増加）","心臓マッサージ、救命ダンボール使用、言霊効果、
+これらの救命合計数が$1を越えた功績をたたえ授与される。
+（英雄度$2増加）","友情度の合計値が$1を越えた者に与えられる。
+（英雄度$2増加）",$1 | $2,"因心脏按摩、使用救命纸箱、
+言灵效果的救命
+总次数超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,174,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,210,247,247;248;249,3,,page16:tag4:entity189:key00FCF520:ref247:ord0;page16:tag4:entity188:key00FCF420:ref248:ord0;page16:tag4:entity187:key00FCDD20:ref249:ord0,"心臓マッサージ、救命ダンボール使用、言霊効果、
+これらの救命合計数が$1を越えた功績をたたえ授与される。
+（英雄度$2増加）","友情度の合計値が$1を越えた者に与えられる。
+（英雄度$2増加）","ヘッドショットを成功させた回数が$1を越えた者に
+与えられる。（英雄度$2増加）",$1 | $2,"因友情度合计值超过$1而授予。
+（英雄值增加$2）",$1 | $2,MATCH,86,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,211,250,250;251;252,3,,page16:tag4:entity186:key00FCDC20:ref250:ord0;page16:tag4:entity185:key00FCDB20:ref251:ord0;page16:tag4:entity184:key00FCDA20:ref252:ord0,"友情度の合計値が$1を越えた者に与えられる。
+（英雄度$2増加）","ヘッドショットを成功させた回数が$1を越えた者に
+与えられる。（英雄度$2増加）","CQCの実行回数が$1を越えた者に与えられる。
+（英雄度$2増加）",$1 | $2,"因成功爆头的次数超过$1而授予。
+（英雄值增加$2）",$1 | $2,MATCH,110,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,212,253,253;254;255,3,,page16:tag4:entity183:key00FCD920:ref253:ord0;page16:tag4:entity182:key00FCD820:ref254:ord0;page16:tag4:entity181:key00FCD720:ref255:ord0,"ヘッドショットを成功させた回数が$1を越えた者に
+与えられる。（英雄度$2増加）","CQCの実行回数が$1を越えた者に与えられる。
+（英雄度$2増加）","回復系アイテムを使わずにクリアしたミッション数が
+$1を越えた功績をたたえ授与される。（英雄度$2増加）",$1 | $2,"因执行CQC的次数超过$1
+而授予。（英雄值增加$2）",$1 | $2,MATCH,83,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,213,256,256;257;258,3,,page16:tag4:entity180:key00FCD620:ref256:ord0;page16:tag4:entity179:key00FCD520:ref257:ord0;page16:tag4:entity178:key00FCD420:ref258:ord0,"CQCの実行回数が$1を越えた者に与えられる。
+（英雄度$2増加）","回復系アイテムを使わずにクリアしたミッション数が
+$1を越えた功績をたたえ授与される。（英雄度$2増加）","ホールドアップした敵兵の数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）",$1 | $2,"因不使用恢复类道具完成的任务数超
+过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,146,89,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,214,259,259;260;261,3,,page16:tag4:entity177:key00FCBD20:ref259:ord0;page16:tag4:entity176:key00FCBC20:ref260:ord0;page16:tag4:entity175:key00FCBB20:ref261:ord0,"回復系アイテムを使わずにクリアしたミッション数が
+$1を越えた功績をたたえ授与される。（英雄度$2増加）","ホールドアップした敵兵の数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","誰もキルせずクリアしたミッション数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）",$1 | $2,"因胁迫的敌兵数量超过$1而授予。
+（英雄值增加$2）",$1 | $2,MATCH,116,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,215,262,262;263;264,3,,page16:tag4:entity174:key00FCBA20:ref262:ord0;page16:tag4:entity173:key00FCB920:ref263:ord0;page16:tag4:entity172:key00FCB820:ref264:ord0,"ホールドアップした敵兵の数が$1を越えた功績をたたえ
+授与される。（英雄度$2増加）","誰もキルせずクリアしたミッション数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）","敵に見つからずにクリアしたミッション数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）",$1 | $2,"因在不杀任何人的情况下完成的任务数
+超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,128,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING
+5DE6EF4C,216,265,265;266;267,3,,page16:tag4:entity171:key00FCB720:ref265:ord0;page16:tag4:entity170:key00FCB620:ref266:ord0;page16:tag4:entity169:key00FCB520:ref267:ord0,"誰もキルせずクリアしたミッション数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）","敵に見つからずにクリアしたミッション数が$1を越えた功績を
+たたえ授与される。（英雄度$2増加）",,$1 | $2,"因在不被敌人发现的情况下完成的任务
+数超过$1而授予。（英雄值增加$2）",$1 | $2,MATCH,134,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=EXACT_JPN_REUSE_FROM_VALIDATED_MAPPING

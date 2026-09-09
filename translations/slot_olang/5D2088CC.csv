@@ -1,0 +1,108 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D2088CC,0,0,0,1,,page76:tag12:entity9:key00000009:ref0:ord0,,"カニンガム…<R=ＦＯＸ,フォックス>の捕虜尋問官？",四週間前まではＣＩＡにいた,"<R=ＦＯＸ,フォックス>","Cunningham…<R=FOX,FOX>的俘虏审讯官？","<R=FOX,FOX>",MATCH,68,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=RUBY_COUNT_ORDER_PRESERVED; JPN_FOX_IDENTITY_LATINIZED_CONSISTENTLY; AUX_SEMANTICS_ONLY
+5D2088CC,1,1,1,1,,page76:tag12:entity8:key00000008:ref1:ord0,"カニンガム…<R=ＦＯＸ,フォックス>の捕虜尋問官？",四週間前まではＣＩＡにいた,あんたは？,,直到四周前还在CIA,,MATCH,39,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FOUR_WEEKS_AND_CIA_SEMANTICS_PRESERVED; NO_AUX_ADDED_INTRODUCTION_OR_NEWLINE
+5D2088CC,2,2,2,1,,page76:tag12:entity7:key00000007:ref2:ord0,四週間前まではＣＩＡにいた,あんたは？,"…人違いで連れてこられたわけでは
+なさそうだな",,你呢？,,MATCH,15,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SHORT_QUESTION_PRESERVED
+5D2088CC,3,3,3,1,,page76:tag12:entity6:key00000006:ref3:ord0,あんたは？,"…人違いで連れてこられたわけでは
+なさそうだな","それともスネークと呼ばれるほうが好みかね
+…ネイキッド・スネーク",,"…看来并不是抓错人
+才把我带到这里的啊",,MATCH,67,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_LEADING_ELLIPSIS_AND_SINGLE_NEWLINE_PRESERVED
+5D2088CC,4,4,4,1,,page76:tag12:entity5:key00000005:ref4:ord0,"…人違いで連れてこられたわけでは
+なさそうだな","それともスネークと呼ばれるほうが好みかね
+…ネイキッド・スネーク","とぼけても無駄だ
+おまえのことはよく知っている",,"还是说你更喜欢别人叫你Snake呢
+…Naked Snake",,MATCH,94,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_LEADING_SECOND_LINE_ELLIPSIS_AND_NAKED_SNAKE_IDENTITY_PRESERVED; AUX_QUESTION_MARK_NOT_FORCED
+5D2088CC,5,5,5,1,,page76:tag12:entity4:key00000004:ref5:ord0,"それともスネークと呼ばれるほうが好みかね
+…ネイキッド・スネーク","とぼけても無駄だ
+おまえのことはよく知っている",…誰のことだ,,"装傻也没用
+你的事我很清楚",,MATCH,67,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_AND_TWO_CLAUSE_STRUCTURE_PRESERVED; AUX_ADDED_BOSS_REJECTED
+5D2088CC,6,6,6,1,,page76:tag12:entity3:key00000003:ref6:ord0,"とぼけても無駄だ
+おまえのことはよく知っている",…誰のことだ,"いい夢は見られたかね <R=ＢＩＧＢＯＳＳ,ビッグボス>",,…你说的是谁,,MATCH,18,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_LEADING_ELLIPSIS_AND_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,7,7,7,1,,page76:tag12:entity2:key00000002:ref7:ord0,…誰のことだ,"いい夢は見られたかね <R=ＢＩＧＢＯＳＳ,ビッグボス>",たしかにそうなっているな 表向きは,"<R=ＢＩＧＢＯＳＳ,ビッグボス>","做了个好梦吗 <R=BIGBOSS,BIG BOSS>","<R=BIGBOSS,BIG BOSS>",MATCH,72,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACE_BEFORE_RUBY_PRESERVED; RUBY_STYLE_MATCHES_EXISTING_BIGBOSS_MAPPING
+5D2088CC,8,8,8,1,,page76:tag12:entity16:key00000010:ref8:ord0,"いい夢は見られたかね <R=ＢＩＧＢＯＳＳ,ビッグボス>",たしかにそうなっているな 表向きは,除隊か,,确实是这样 表面上,,MATCH,49,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_AND_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,9,9,9,1,,page76:tag12:entity15:key0000000F:ref9:ord0,たしかにそうなっているな 表向きは,除隊か,同窓会にしてはずいぶん手荒い歓迎だが,,退役吗,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_IMPLIED_QUESTION_WITH_NO_TERMINAL_PUNCTUATION_PRESERVED; AUX_QUESTION_MARK_REJECTED
+5D2088CC,10,10,10,1,,page76:tag12:entity14:key0000000E:ref10:ord0,除隊か,同窓会にしてはずいぶん手荒い歓迎だが,…ＦＯＸを除隊した俺に今更なんの用だ？,,这场同窗会的欢迎还真够粗暴的,,MATCH,54,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_REUNION_ROUGH_WELCOME_SEMANTICS_PRESERVED; NO_AUX_ADDED_GOONS_DETAIL
+5D2088CC,11,11,11,1,,page76:tag12:entity13:key0000000D:ref11:ord0,同窓会にしてはずいぶん手荒い歓迎だが,…ＦＯＸを除隊した俺に今更なんの用だ？,そうだな 今はそういうことにしておこう,,…我都已经退出FOX了，现在找我还有什么事？,,MATCH,57,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_LEADING_ELLIPSIS_FOX_IDENTITY_AND_QUESTION_PRESERVED
+5D2088CC,12,12,12,1,,page76:tag12:entity12:key0000000C:ref12:ord0,…ＦＯＸを除隊した俺に今更なんの用だ？,そうだな 今はそういうことにしておこう,俺を襲ってきたのもＦＯＸの隊員なのか？,,是啊 现在就先当作是这样吧,,MATCH,55,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_AND_PROVISIONAL_SEMANTICS_PRESERVED
+5D2088CC,13,13,13,1,,page76:tag12:entity11:key0000000B:ref13:ord0,そうだな 今はそういうことにしておこう,俺を襲ってきたのもＦＯＸの隊員なのか？,知っていてくれたとは光栄だよ スネーク,,袭击我的也是FOX的队员吗？,,MATCH,57,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_FOX_ATTACKER_QUESTION_PRESERVED; AUX_ADDED_LINEBREAK_REJECTED
+5D2088CC,14,14,14,1,,page76:tag12:entity10:key0000000A:ref14:ord0,俺を襲ってきたのもＦＯＸの隊員なのか？,知っていてくれたとは光栄だよ スネーク,正確なお目覚めだな,,你知道我，真是荣幸啊 Snake,,MATCH,55,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACE_BEFORE_SNAKE_PRESERVED; NO_TERMINAL_PUNCTUATION_ADDED
+5D2088CC,15,15,15,1,,page76:tag12:entity1:key00000001:ref15:ord0,知っていてくれたとは光栄だよ スネーク,正確なお目覚めだな,薬剤投与後12時間ちょうどか,,醒得很准时啊,,MATCH,27,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CURRENT_ROW_JPN_WAKE_TIMING_SEMANTICS_RESTORED; SHIFTED_AUX_DRUG_LINE_REJECTED
+5D2088CC,16,16,16,1,,page76:tag12:entity0:key00000000:ref16:ord0,正確なお目覚めだな,薬剤投与後12時間ちょうどか,「賢者の遺産」のことか…？,,注射药物后正好12小时吗,,MATCH,38,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CURRENT_ROW_JPN_12_HOUR_DRUG_SEMANTICS_RESTORED; SHIFTED_AUX_RIGHT_ON_TIME_LINE_REJECTED; NO_QUESTION_MARK_ADDED
+5D2088CC,17,17,17,1,,page76:tag12:entity26:key00000009:ref17:ord0,薬剤投与後12時間ちょうどか,「賢者の遺産」のことか…？,「遺産」はどこだ？,,是「贤者的遗产」吗…？,,MATCH,39,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_CORNER_QUOTES_ELLIPSIS_AND_QUESTION_PRESERVED
+5D2088CC,18,18,18,1,,page76:tag12:entity25:key00000008:ref18:ord0,「賢者の遺産」のことか…？,「遺産」はどこだ？,"おまえはあの任務で…
+グロズニィグラードでなにを見た？",,「遗产」在哪里？,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_CORNER_QUOTES_AND_QUESTION_PRESERVED
+5D2088CC,19,19,19,1,,page76:tag12:entity24:key00000007:ref19:ord0,「遺産」はどこだ？,"おまえはあの任務で…
+グロズニィグラードでなにを見た？",実に奇妙な話だ,,"你在那次任务中…
+在格罗兹尼格勒看到了什么？",,MATCH,79,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ELLIPSIS_SINGLE_NEWLINE_AND_GROZNYJ_GRAD_CONTEXT_PRESERVED
+5D2088CC,20,20,20,1,,page76:tag12:entity23:key00000006:ref20:ord0,"おまえはあの任務で…
+グロズニィグラードでなにを見た？",実に奇妙な話だ,地位も名誉も投げ捨てて,,真是奇怪的事,,MATCH,21,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_STRANGE_STORY_SEMANTICS_AND_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,21,21,21,1,,page76:tag12:entity22:key00000005:ref21:ord0,実に奇妙な話だ,地位も名誉も投げ捨てて,"しかしそれから間もなく
+おまえはＦＯＸを除隊した",,连地位和荣誉都抛弃了,,MATCH,33,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_STATUS_HONOR_ABANDONMENT_SEMANTICS_PRESERVED
+5D2088CC,22,22,22,1,,page76:tag12:entity21:key00000004:ref22:ord0,地位も名誉も投げ捨てて,"しかしそれから間もなく
+おまえはＦＯＸを除隊した","真の愛国者として称えられ
+大統領からＢＩＧＢＯＳＳの称号を与えられた",,"但没过多久
+你就退出了FOX",,MATCH,70,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_AND_FOX_DEPARTURE_SEMANTICS_PRESERVED
+5D2088CC,23,23,23,1,,page76:tag12:entity20:key00000003:ref23:ord0,"しかしそれから間もなく
+おまえはＦＯＸを除隊した","真の愛国者として称えられ
+大統領からＢＩＧＢＯＳＳの称号を与えられた","六年前 おまえはＦＯＸの隊員として
+全面核戦争の危機を救った",,"被赞誉为真正的爱国者
+还被总统授予BIGBOSS的称号",,MATCH,100,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_AND_FIXED_BIGBOSS_NO_SPACE_IDENTITY_PRESERVED; AUX_BIG_BOSS_NORMALIZATION_REJECTED
+5D2088CC,24,24,24,1,,page76:tag12:entity19:key00000002:ref24:ord0,"真の愛国者として称えられ
+大統領からＢＩＧＢＯＳＳの称号を与えられた","六年前 おまえはＦＯＸの隊員として
+全面核戦争の危機を救った","「遺産」なら ＣＩＡが手に入れた
+六年前の<R=作戦,ミッション>でな",,"六年前 你作为FOX队员
+挽救了全面核战争的危机",,MATCH,86,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_SINGLE_NEWLINE_FOX_IDENTITY_AND_NUCLEAR_CRISIS_SEMANTICS_PRESERVED
+5D2088CC,25,25,25,1,,page76:tag12:entity29:key0000000C:ref25:ord0,"六年前 おまえはＦＯＸの隊員として
+全面核戦争の危機を救った","「遺産」なら ＣＩＡが手に入れた
+六年前の<R=作戦,ミッション>でな","第二次大戦中に集められたという
+三大国の莫大な秘密資金だよ","<R=作戦,ミッション>","「遗产」的话 CIA已经拿到了
+就在六年前的<R=行动,MISSION>中","<R=行动,MISSION>",MATCH,91,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACE_AFTER_TOPIC_SINGLE_NEWLINE_AND_RUBY_COUNT_ORDER_PRESERVED; DISPLAY_LOCALIZED_READING_LATINIZED
+5D2088CC,26,26,26,1,,page76:tag12:entity28:key0000000B:ref26:ord0,"「遺産」なら ＣＩＡが手に入れた
+六年前の<R=作戦,ミッション>でな","第二次大戦中に集められたという
+三大国の莫大な秘密資金だよ",そうだ,,"据说是在第二次世界大战期间筹集的
+三大国巨额秘密资金",,MATCH,85,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_THREE_NATIONS_SECRET_FUNDS_SEMANTICS_PRESERVED
+5D2088CC,27,27,27,1,,page76:tag12:entity27:key0000000A:ref27:ord0,"第二次大戦中に集められたという
+三大国の莫大な秘密資金だよ",そうだ,簡単な質問をするだけだ,,没错,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SHORT_AFFIRMATION_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,28,28,28,1,,page76:tag12:entity18:key00000001:ref28:ord0,そうだ,簡単な質問をするだけだ,"安心しろ おまえに新しい<R=任務,ミッション>を
+与えるつもりはない",,只是问几个简单的问题,,MATCH,33,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SIMPLE_QUESTIONS_SEMANTICS_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,29,29,29,1,,page76:tag12:entity17:key00000000:ref29:ord0,簡単な質問をするだけだ,"安心しろ おまえに新しい<R=任務,ミッション>を
+与えるつもりはない",悪いが 初耳だ,"<R=任務,ミッション>","放心 我没打算把新的<R=任务,MISSION>
+交给你","<R=任务,MISSION>",MATCH,91,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_SINGLE_NEWLINE_AND_RUBY_COUNT_ORDER_PRESERVED; DISPLAY_LOCALIZED_READING_LATINIZED
+5D2088CC,30,30,30,1,,page76:tag12:entity39:key00000009:ref30:ord0,"安心しろ おまえに新しい<R=任務,ミッション>を
+与えるつもりはない",悪いが 初耳だ,「遺産」の在処を教えてもらおう スネーク,,抱歉 我还是第一次听说,,MATCH,19,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_FIRST_HEARING_SEMANTICS_PRESERVED
+5D2088CC,31,31,31,1,,page76:tag12:entity38:key00000008:ref31:ord0,悪いが 初耳だ,「遺産」の在処を教えてもらおう スネーク,"「遺産」の残り半分の行方を
+知っているはずだ",,把「遗产」的所在地告诉我吧 Snake,,MATCH,58,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_ASCII_SPACE_BEFORE_SNAKE_CORNER_QUOTES_AND_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,32,32,32,1,,page76:tag12:entity37:key00000007:ref32:ord0,「遺産」の在処を教えてもらおう スネーク,"「遺産」の残り半分の行方を
+知っているはずだ",ザ・ボスと戦って生き延びたおまえは,,"「遗产」剩下那一半的去向
+你应该知道",,MATCH,64,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_HALF_REMAINDER_WHEREABOUTS_SEMANTICS_PRESERVED
+5D2088CC,33,33,33,1,,page76:tag12:entity36:key00000006:ref33:ord0,"「遺産」の残り半分の行方を
+知っているはずだ",ザ・ボスと戦って生き延びたおまえは,芝居は止せ,,你和The Boss交战后活了下来,,MATCH,51,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_THE_BOSS_IDENTITY_AND_SURVIVAL_SEMANTICS_PRESERVED
+5D2088CC,34,34,34,1,,page76:tag12:entity35:key00000005:ref34:ord0,ザ・ボスと戦って生き延びたおまえは,芝居は止せ,ＣＩＡが手に入れた「遺産」が 半分…！？,,别演戏了,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_STOP_ACTING_COMMAND_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,35,35,35,1,,page76:tag12:entity34:key00000004:ref35:ord0,芝居は止せ,ＣＩＡが手に入れた「遺産」が 半分…！？,"残り半分の資金の行方を
+おまえは知っているはずだ",,CIA拿到的「遗产」 只有一半…！？,,MATCH,58,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_ELLIPSIS_EXCLAMATION_QUESTION_ORDER_PRESERVED
+5D2088CC,36,36,36,1,,page76:tag12:entity33:key00000003:ref36:ord0,ＣＩＡが手に入れた「遺産」が 半分…！？,"残り半分の資金の行方を
+おまえは知っているはずだ","スネークイーター作戦でＣＩＡがソ連から奪った
+「賢者の遺産」は半分だけだった",,"剩下一半资金的下落
+你应该知道",,MATCH,70,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_REMAINING_HALF_FUNDS_WHEREABOUTS_PRESERVED
+5D2088CC,37,37,37,1,,page76:tag12:entity32:key00000002:ref37:ord0,"残り半分の資金の行方を
+おまえは知っているはずだ","スネークイーター作戦でＣＩＡがソ連から奪った
+「賢者の遺産」は半分だけだった","俺もかつての仲間を尋問するような
+真似はせずに済むのだがな",,"在食蛇者行动中CIA从苏联夺走的
+「贤者的遗产」只有一半",,MATCH,112,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_SNAKE_EATER_OPERATION_CIA_SOVIET_AND_HALF_LEGACY_SEMANTICS_PRESERVED
+5D2088CC,38,38,38,1,,page76:tag12:entity41:key0000000B:ref38:ord0,"スネークイーター作戦でＣＩＡがソ連から奪った
+「賢者の遺産」は半分だけだった","俺もかつての仲間を尋問するような
+真似はせずに済むのだがな",素直に協力してくれれば,,"我也就不用审讯昔日的同伴
+做这种事了",,MATCH,85,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_FORMER_COMRADE_INTERROGATION_AVOIDANCE_SEMANTICS_PRESERVED
+5D2088CC,39,39,39,1,,page76:tag12:entity40:key0000000A:ref39:ord0,"俺もかつての仲間を尋問するような
+真似はせずに済むのだがな",素直に協力してくれれば,効果的な尋問を行うための俺のポリシーでな,,只要你老实合作,,MATCH,33,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_CONDITIONAL_COOPERATION_FRAGMENT_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D2088CC,40,40,40,1,,page76:tag12:entity31:key00000001:ref40:ord0,素直に協力してくれれば,効果的な尋問を行うための俺のポリシーでな,"「正確な苦痛を 正確な場所に 正確な量」
+というのが",,这是我为了有效审讯而坚持的原则,,MATCH,60,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_EFFECTIVE_INTERROGATION_POLICY_SEMANTICS_PRESERVED
+5D2088CC,41,41,41,1,,page76:tag12:entity30:key00000000:ref41:ord0,効果的な尋問を行うための俺のポリシーでな,"「正確な苦痛を 正確な場所に 正確な量」
+というのが",…これが正規のＦＯＸの任務だ 今はな,,"「准确的痛苦 准确的位置 准确的量」
+就是这样",,MATCH,72,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_TWO_INTERNAL_ASCII_SPACES_SINGLE_NEWLINE_AND_CORNER_QUOTES_PRESERVED; AUX_COMMA_REWRITE_REJECTED
+5D2088CC,42,42,42,1,,page76:tag12:entity46:key00000004:ref42:ord0,"「正確な苦痛を 正確な場所に 正確な量」
+というのが",…これが正規のＦＯＸの任務だ 今はな,ゼロ少佐はどうした？　本当のことを言え！,,…这就是FOX的正式任务 至少现在是,,MATCH,52,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_LEADING_ELLIPSIS_INTERNAL_ASCII_SPACE_FOX_IDENTITY_AND_CURRENT_STATUS_SEMANTICS_PRESERVED
+5D2088CC,43,43,43,1,,page76:tag12:entity45:key00000003:ref43:ord0,…これが正規のＦＯＸの任務だ 今はな,ゼロ少佐はどうした？　本当のことを言え！,おい これは正規の任務じゃないな？,,Zero少校怎么了？　说实话！,,MATCH,60,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_IDEOGRAPHIC_SPACE_BETWEEN_QUESTION_AND_COMMAND_PRESERVED
+5D2088CC,44,44,44,1,,page76:tag12:entity44:key00000002:ref44:ord0,ゼロ少佐はどうした？　本当のことを言え！,おい これは正規の任務じゃないな？,せいぜい ゆっくり思い出してもらおう,,喂 这不是正式任务吧？,,MATCH,49,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_AND_QUESTION_PRESERVED
+5D2088CC,45,45,45,1,,page76:tag12:entity43:key00000001:ref45:ord0,おい これは正規の任務じゃないな？,せいぜい ゆっくり思い出してもらおう,まあいい まだ時間はある,,你就 慢慢回想吧,,MATCH,52,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_AND_RECALL_SEMANTICS_PRESERVED
+5D2088CC,46,46,46,1,,page76:tag12:entity42:key00000000:ref46:ord0,せいぜい ゆっくり思い出してもらおう,まあいい まだ時間はある,,,算了 还有时间,,MATCH,34,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_AND_NO_TERMINAL_PUNCTUATION_PRESERVED

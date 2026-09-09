@@ -1,0 +1,17 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D3B060D,0,0,0,1,,page2125:tag1:entity7:key00000007:ref0:ord0,,パス…,それがお前達が選んだ 道だ！,,Paz…,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=PAZ_LATIN_NAME_FORM_AND_JPN_SINGLE_ELLIPSIS_PRESERVED
+5D3B060D,1,1,1,1,,page2125:tag1:entity6:key00000006:ref1:ord0,パス…,それがお前達が選んだ 道だ！,"お前達は利用され 陵辱され
+最後には 社会悪として棄てられる",,那就是你们选择的 道路！,,MATCH,40,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_AND_EXCLAMATION_PRESERVED; AUX_SINGULAR_YOU_NOT_FORCED
+5D3B060D,2,2,2,1,,page2125:tag1:entity5:key00000005:ref2:ord0,それがお前達が選んだ 道だ！,"お前達は利用され 陵辱され
+最後には 社会悪として棄てられる",ひとときの平和幻想の中で,,"你们会被利用 被凌辱
+最后作为社会之恶被抛弃",,MATCH,84,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_INTERNAL_ASCII_SPACE_AND_SINGLE_NEWLINE_PRESERVED; 陵辱_AND_SOCIAL_EVIL_SEMANTICS_RESTORED; AUX_PARTIAL_LINE_OMISSION_REJECTED
+5D3B060D,3,3,3,1,,page2125:tag1:entity4:key00000004:ref3:ord0,"お前達は利用され 陵辱され
+最後には 社会悪として棄てられる",ひとときの平和幻想の中で,"お前達という抑止力が必要とされる以上
+真の平和など訪れない",,在短暂的和平幻象之中,,MATCH,36,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CURRENT_JPN_FRAGMENT_ONLY; AUX_MERGED_NEIGHBOR_LINES_REJECTED
+5D3B060D,4,4,4,1,,page2125:tag1:entity3:key00000003:ref4:ord0,ひとときの平和幻想の中で,"お前達という抑止力が必要とされる以上
+真の平和など訪れない","<R=BIGBOSS,ビッグボス> いい…？",,"只要世间仍需要你们这股威慑力量
+真正的和平就不会到来",,MATCH,85,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_SINGLE_NEWLINE_AND_DETERRENCE_SEMANTICS_PRESERVED; AUX_ARMY_NARROWING_NOT_FORCED
+5D3B060D,5,5,5,1,,page2125:tag1:entity2:key00000002:ref5:ord0,"お前達という抑止力が必要とされる以上
+真の平和など訪れない","<R=BIGBOSS,ビッグボス> いい…？",…これまでね,"<R=BIGBOSS,ビッグボス>","<R=BIGBOSS,BIG BOSS> 明白吗…？","<R=BIGBOSS,BIG BOSS>",MATCH,40,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=RUBY_COUNT_ORDER_PRESERVED; JPN_BIGBOSS_DISPLAY_IDENTITY_PRESERVED; READING_LATINIZED_AS_BIG_BOSS; ASCII_SPACE_AFTER_RUBY_AND_ELLIPSIS_QUESTION_PRESERVED
+5D3B060D,6,6,6,1,,page2125:tag1:entity1:key00000001:ref6:ord0,"<R=BIGBOSS,ビッグボス> いい…？",…これまでね,"ダメ… もう<R=ZEKE,ジーク>を制御出来ない ",,…就到这里了,,MATCH,18,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_LEADING_SINGLE_ELLIPSIS_AND_NO_TERMINAL_PUNCTUATION_PRESERVED
+5D3B060D,7,7,7,1,,page2125:tag1:entity0:key00000000:ref7:ord0,…これまでね,"ダメ… もう<R=ZEKE,ジーク>を制御出来ない ",,"<R=ZEKE,ジーク>","不行了… 已经无法控制<R=ZEKE,ZEKE>了 ","<R=ZEKE,ZEKE>",MATCH,56,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=RUBY_COUNT_ORDER_PRESERVED; ZEKE_DISPLAY_IDENTITY_AND_LATIN_READING_PRESERVED; JPN_ASCII_SPACE_AFTER_ELLIPSIS_AND_TRAILING_ASCII_SPACE_PRESERVED; AUX_PERIOD_NOT_IMPORTED

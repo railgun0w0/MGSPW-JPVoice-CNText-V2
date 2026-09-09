@@ -1,0 +1,413 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+LANG_DATAINSTALL.OLANG,0,0,0;1;0;1;0;1,6,,page23:tag:entity51:key00F7C3D5:ref0:ord0;page23:tag:entity20:key00765DEC:ref1:ord0;page88:tag:entity51:key00F7C3D5:ref0:ord0;page88:tag:entity20:key00765DEC:ref1:ord0;page180:tag:entity51:key00F7C3D5:ref0:ord0;page180:tag:entity20:key00765DEC:ref1:ord0,,DATA INSTALL,"インストールするパッケージを選択してください。
+フルパッケージではより高速な動作をお楽しみいただけます（UMD®版の場合）。",,DATA INSTALL,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=6; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+LANG_DATAINSTALL.OLANG,1,2,2;2;2,3,,page23:tag:entity7:key0034C85C:ref2:ord0;page88:tag:entity7:key0034C85C:ref2:ord0;page180:tag:entity7:key0034C85C:ref2:ord0,DATA INSTALL,"インストールするパッケージを選択してください。
+フルパッケージではより高速な動作をお楽しみいただけます（UMD®版の場合）。",フルパッケージ　　　（必要な空き容量：$1MB）,,"请选择要安装的安装包。
+完整安装包可带来更快的运行速度（仅限UMD®版）。",,MATCH,177,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=JPN_FULL_PACKAGE_PERFORMANCE_WORDING_USED; AUXILIARY_GENERALIZATION_NOT_COPIED
+LANG_DATAINSTALL.OLANG,2,3,3;3;3,3,,page23:tag:entity49:key00EB16FB:ref3:ord0;page88:tag:entity49:key00EB16FB:ref3:ord0;page180:tag:entity49:key00EB16FB:ref3:ord0,"インストールするパッケージを選択してください。
+フルパッケージではより高速な動作をお楽しみいただけます（UMD®版の場合）。",フルパッケージ　　　（必要な空き容量：$1MB）,ミドルパッケージ　　（必要な空き容量：$1MB）,$1MB,完整安装包　　　（所需空间：$1MB）,$1MB,MATCH,64,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,3,4,4;4;4,3,,page23:tag:entity48:key00EA16FB:ref4:ord0;page88:tag:entity48:key00EA16FB:ref4:ord0;page180:tag:entity48:key00EA16FB:ref4:ord0,フルパッケージ　　　（必要な空き容量：$1MB）,ミドルパッケージ　　（必要な空き容量：$1MB）,スモールパッケージ　（必要な空き容量：$1MB）,$1MB,中型安装包　　　（所需空间：$1MB）,$1MB,MATCH,64,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,4,5,5;5;5,3,,page23:tag:entity44:key00E916FB:ref5:ord0;page88:tag:entity44:key00E916FB:ref5:ord0;page180:tag:entity44:key00E916FB:ref5:ord0,ミドルパッケージ　　（必要な空き容量：$1MB）,スモールパッケージ　（必要な空き容量：$1MB）,キャンセル：<I=CAN>,$1MB,小型安装包　（所需空间：$1MB）,$1MB,MATCH,64,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,5,7,7;7;7,3,,page23:tag:entity39:key00D0E8F0:ref7:ord0;page88:tag:entity39:key00D0E8F0:ref7:ord0;page180:tag:entity39:key00D0E8F0:ref7:ord0,スモールパッケージ　（必要な空き容量：$1MB）,キャンセル：<I=CAN>,"データインストールには、$1分～$2分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+データインストール中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",<I=CAN>,取消：<I=CAN>,<I=CAN>,MATCH,25,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,6,12,12;12;12,3,,page23:tag:entity21:key00789681:ref12:ord0;page88:tag:entity21:key00789681:ref12:ord0;page180:tag:entity21:key00789681:ref12:ord0,キャンセル：<I=CAN>,"データインストールには、$1分～$2分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+データインストール中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","メモリースティック<I=TM>の空き容量が不足しています。
+システムデータをインストールするには $1MBの
+空き容量が必要です。
+
+タイトルメニューに戻り[DELETE]メニューから
+不要なデータの削除を行うことができます。",$1 | $2 | <I=TM>,"数据安装大约需要$1～$2分钟。
+建议连接AC适配器后执行。
+数据安装期间，
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",$1 | $2 | <I=TM>,MATCH,379,178,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,7,13,13;13;13,3,,page23:tag:entity14:key005AC548:ref13:ord0;page88:tag:entity14:key005AC548:ref13:ord0;page180:tag:entity14:key005AC548:ref13:ord0,"データインストールには、$1分～$2分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+データインストール中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","メモリースティック<I=TM>の空き容量が不足しています。
+システムデータをインストールするには $1MBの
+空き容量が必要です。
+
+タイトルメニューに戻り[DELETE]メニューから
+不要なデータの削除を行うことができます。",(不要)システムデータの作成に失敗しました。,<I=TM> | $1MB,"Memory Stick<I=TM>剩余空间不足。
+安装系统数据需要$1MB可用空间。
+
+返回标题菜单后，可从[删除]菜单
+删除不需要的数据。",<I=TM> | $1MB,MATCH,291,157,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,8,14,14;14;14,3,,page23:tag:entity41:key00D9FA67:ref14:ord0;page88:tag:entity41:key00D9FA67:ref14:ord0;page180:tag:entity41:key00D9FA67:ref14:ord0,"メモリースティック<I=TM>の空き容量が不足しています。
+システムデータをインストールするには $1MBの
+空き容量が必要です。
+
+タイトルメニューに戻り[DELETE]メニューから
+不要なデータの削除を行うことができます。",(不要)システムデータの作成に失敗しました。,(不要)システムデータを作成が完了しました。,,(无需)系统数据创建失败。,,MATCH,62,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,9,15,15;15;15,3,,page23:tag:entity23:key007AC54B:ref15:ord0;page88:tag:entity23:key007AC54B:ref15:ord0;page180:tag:entity23:key007AC54B:ref15:ord0,(不要)システムデータの作成に失敗しました。,(不要)システムデータを作成が完了しました。,"(不要)システムデータがありません。
+（システムデータがある場合に有用な説明とか）
+（システムデータが無い場合の制限の説明とか）
+システムデータを作成してよろしいですか？",,(无需)系统数据创建完成。,,MATCH,62,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,10,16,16;16;16,3,,page23:tag:entity22:key007ABC92:ref16:ord0;page88:tag:entity22:key007ABC92:ref16:ord0;page180:tag:entity22:key007ABC92:ref16:ord0,(不要)システムデータを作成が完了しました。,"(不要)システムデータがありません。
+（システムデータがある場合に有用な説明とか）
+（システムデータが無い場合の制限の説明とか）
+システムデータを作成してよろしいですか？","(不要)システムデータ作成には、Ｘ分～Ｙ分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+システムデータ作成中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。
+
+システムデータを開始します。
+よろしいですか？",,"(无需)没有系统数据。
+（这里填写有系统数据时的说明之类）
+（这里填写没有系统数据时的限制说明之类）
+要创建系统数据吗？",,MATCH,245,170,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,11,17,17;17;17,3,,page23:tag:entity50:key00F23EB5:ref17:ord0;page88:tag:entity50:key00F23EB5:ref17:ord0;page180:tag:entity50:key00F23EB5:ref17:ord0,"(不要)システムデータがありません。
+（システムデータがある場合に有用な説明とか）
+（システムデータが無い場合の制限の説明とか）
+システムデータを作成してよろしいですか？","(不要)システムデータ作成には、Ｘ分～Ｙ分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+システムデータ作成中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。
+
+システムデータを開始します。
+よろしいですか？",(不要)システムデータを作成しています。,<I=TM>,"(无需)创建系统数据大约需要Ｘ～Ｙ分钟。
+建议连接AC适配器后执行。
+创建系统数据期间，
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。
+
+开始创建系统数据。
+确定吗？",<I=TM>,MATCH,458,242,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,12,18,18;18;18,3,,page23:tag:entity28:key009A3274:ref18:ord0;page88:tag:entity28:key009A3274:ref18:ord0;page180:tag:entity28:key009A3274:ref18:ord0,"(不要)システムデータ作成には、Ｘ分～Ｙ分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+システムデータ作成中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。
+
+システムデータを開始します。
+よろしいですか？",(不要)システムデータを作成しています。,"インストールしたデータをチェックしています。（進行度 $1％）
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",,(无需)正在创建系统数据。,,MATCH,56,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,13,19,19;19;19,3,,page23:tag:entity53:key00FE90E7:ref19:ord0;page88:tag:entity53:key00FE90E7:ref19:ord0;page180:tag:entity53:key00FE90E7:ref19:ord0,(不要)システムデータを作成しています。,"インストールしたデータをチェックしています。（進行度 $1％）
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","(不要)システムファイルを作成しています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",$1 | <I=TM>,"正在检查已安装的数据。（进度 $1％）
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",$1 | <I=TM>,MATCH,251,131,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,14,20,20;20;20,3,,page23:tag:entity52:key00FA3996:ref20:ord0;page88:tag:entity52:key00FA3996:ref20:ord0;page180:tag:entity52:key00FA3996:ref20:ord0,"インストールしたデータをチェックしています。（進行度 $1％）
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","(不要)システムファイルを作成しています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","インストールしています。（進行度 $1％）
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",<I=TM>,"(无需)正在创建系统文件。
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",<I=TM>,MATCH,223,115,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED; SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,15,21,21;21;21,3,,page23:tag:entity16:key006C94FA:ref21:ord0;page88:tag:entity16:key006C94FA:ref21:ord0;page180:tag:entity16:key006C94FA:ref21:ord0,"(不要)システムファイルを作成しています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","インストールしています。（進行度 $1％）
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","メモリースティック<I=TM>にインストールデータ用のフォルダと
+ダウンロードデータ用のフォルダを作成しています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",$1 | <I=TM>,"正在安装。（进度 $1％）
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",$1 | <I=TM>,MATCH,221,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,16,22,22;22;22,3,,page23:tag:entity9:key00398BCA:ref22:ord0;page88:tag:entity9:key00398BCA:ref22:ord0;page180:tag:entity9:key00398BCA:ref22:ord0,"インストールしています。（進行度 $1％）
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","メモリースティック<I=TM>にインストールデータ用のフォルダと
+ダウンロードデータ用のフォルダを作成しています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","メモリースティック<I=TM>をチェックしています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",<I=TM> | <I=TM>,"正在Memory Stick<I=TM>中创建安装数据和
+下载数据文件夹。
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",<I=TM> | <I=TM>,MATCH,321,153,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,17,23,23;23;23,3,,page23:tag:entity29:key00A99DC2:ref23:ord0;page88:tag:entity29:key00A99DC2:ref23:ord0;page180:tag:entity29:key00A99DC2:ref23:ord0,"メモリースティック<I=TM>にインストールデータ用のフォルダと
+ダウンロードデータ用のフォルダを作成しています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","メモリースティック<I=TM>をチェックしています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","(不要)メモリースティック<I=TM>にゲームを開始するのに必要なデータのインストールを行います。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",<I=TM> | <I=TM>,"正在检查Memory Stick<I=TM>。
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",<I=TM> | <I=TM>,MATCH,230,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,18,24,24;24;24,3,,page23:tag:entity3:key001DC881:ref24:ord0;page88:tag:entity3:key001DC881:ref24:ord0;page180:tag:entity3:key001DC881:ref24:ord0,"メモリースティック<I=TM>をチェックしています。
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","(不要)メモリースティック<I=TM>にゲームを開始するのに必要なデータのインストールを行います。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","(不要)下の項目に行くほど高速な動作をお楽しみいただけますが、
+メモリースティック<I=TM>の容量を多く使用します。",<I=TM> | <I=TM>,"(无需)正在向Memory Stick<I=TM>安装启动游戏所需的数据。
+安装期间，请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",<I=TM> | <I=TM>,MATCH,322,166,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED; SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,19,27,27;27;27,3,,page23:tag:entity18:key006F3653:ref27:ord0;page88:tag:entity18:key006F3653:ref27:ord0;page180:tag:entity18:key006F3653:ref27:ord0,"(不要)メモリースティック<I=TM>にゲームを開始するのに必要なデータのインストールを行います。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","(不要)下の項目に行くほど高速な動作をお楽しみいただけますが、
+メモリースティック<I=TM>の容量を多く使用します。","データインストールを中断しました。
+メモリースティック<I=TM>が抜かれたり、
+スリープモードの操作が行われた可能性があります。",<I=TM>,"(无需)越靠下的安装项目可带来更快的运行速度，
+但会占用更多Memory Stick<I=TM>空间。",<I=TM>,MATCH,159,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,20,28,28;28;28,3,,page23:tag:entity0:key0002B875:ref28:ord0;page88:tag:entity0:key0002B875:ref28:ord0;page180:tag:entity0:key0002B875:ref28:ord0,"(不要)下の項目に行くほど高速な動作をお楽しみいただけますが、
+メモリースティック<I=TM>の容量を多く使用します。","データインストールを中断しました。
+メモリースティック<I=TM>が抜かれたり、
+スリープモードの操作が行われた可能性があります。","メモリースティック<I=TM>の空き容量が不足しています。
+システムデータをインストールするには、$1MB以上の
+空き容量が必要です。
+
+タイトルメニューに戻り、[DELETE]メニューから、
+不要なデータの削除を行う事ができます。",<I=TM>,"数据安装已中断。
+可能拔出了Memory Stick<I=TM>，
+或进行了睡眠模式操作。",<I=TM>,MATCH,179,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,21,29,29;29;29,3,,page23:tag:entity43:key00DACDAF:ref29:ord0;page88:tag:entity43:key00DACDAF:ref29:ord0;page180:tag:entity43:key00DACDAF:ref29:ord0,"データインストールを中断しました。
+メモリースティック<I=TM>が抜かれたり、
+スリープモードの操作が行われた可能性があります。","メモリースティック<I=TM>の空き容量が不足しています。
+システムデータをインストールするには、$1MB以上の
+空き容量が必要です。
+
+タイトルメニューに戻り、[DELETE]メニューから、
+不要なデータの削除を行う事ができます。","メモリースティック<I=TM>の空き容量が不足しています。
+このパッケージをインストールするには、$1MB以上の
+空き容量が必要です。
+
+タイトルメニューに戻り、[DELETE]メニューから、
+不要なデータの削除を行う事ができます。",<I=TM> | $1MB,"Memory Stick<I=TM>剩余空间不足。
+安装系统数据至少需要$1MB可用空间。
+
+返回标题菜单后，可从[删除]菜单
+删除不需要的数据。",<I=TM> | $1MB,MATCH,302,163,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,22,30,30;30;30,3,,page23:tag:entity54:key00FEA1EA:ref30:ord0;page88:tag:entity54:key00FEA1EA:ref30:ord0;page180:tag:entity54:key00FEA1EA:ref30:ord0,"メモリースティック<I=TM>の空き容量が不足しています。
+システムデータをインストールするには、$1MB以上の
+空き容量が必要です。
+
+タイトルメニューに戻り、[DELETE]メニューから、
+不要なデータの削除を行う事ができます。","メモリースティック<I=TM>の空き容量が不足しています。
+このパッケージをインストールするには、$1MB以上の
+空き容量が必要です。
+
+タイトルメニューに戻り、[DELETE]メニューから、
+不要なデータの削除を行う事ができます。",(不要)システムデータが同じメモリースティック<I=TM>にありません。,<I=TM> | $1MB,"Memory Stick<I=TM>剩余空间不足。
+安装此安装包至少需要$1MB可用空间。
+
+返回标题菜单后，可从[删除]菜单
+删除不需要的数据。",<I=TM> | $1MB,MATCH,302,163,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,23,31,31;31;31,3,,page23:tag:entity35:key00C4ADDB:ref31:ord0;page88:tag:entity35:key00C4ADDB:ref31:ord0;page180:tag:entity35:key00C4ADDB:ref31:ord0,"メモリースティック<I=TM>の空き容量が不足しています。
+このパッケージをインストールするには、$1MB以上の
+空き容量が必要です。
+
+タイトルメニューに戻り、[DELETE]メニューから、
+不要なデータの削除を行う事ができます。",(不要)システムデータが同じメモリースティック<I=TM>にありません。,メモリースティック<I=TM>が正しく挿し込まれていません。,<I=TM>,(无需)同一张Memory Stick<I=TM>中没有系统数据。,<I=TM>,MATCH,92,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,24,32,32;32;32,3,,page23:tag:entity4:key00216756:ref32:ord0;page88:tag:entity4:key00216756:ref32:ord0;page180:tag:entity4:key00216756:ref32:ord0,(不要)システムデータが同じメモリースティック<I=TM>にありません。,メモリースティック<I=TM>が正しく挿し込まれていません。,"メモリースティック<I=TM>がロックされています。
+インストールができませんでした。",<I=TM>,Memory Stick<I=TM>未正确插入。,<I=TM>,MATCH,78,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,25,33,33;33;33,3,,page23:tag:entity5:key00229DED:ref33:ord0;page88:tag:entity5:key00229DED:ref33:ord0;page180:tag:entity5:key00229DED:ref33:ord0,メモリースティック<I=TM>が正しく挿し込まれていません。,"メモリースティック<I=TM>がロックされています。
+インストールができませんでした。","データインストールに失敗しました。
+メモリースティック<I=TM>が破損している可能性があります。",<I=TM>,"Memory Stick<I=TM>已锁定。
+无法进行安装。",<I=TM>,MATCH,115,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED; AUXILIARY_WRITE_PROTECT_EXPLANATION_NOT_IMPORTED_BEYOND_JPN
+LANG_DATAINSTALL.OLANG,26,34,34;34;34,3,,page23:tag:entity19:key00761AF1:ref34:ord0;page88:tag:entity19:key00761AF1:ref34:ord0;page180:tag:entity19:key00761AF1:ref34:ord0,"メモリースティック<I=TM>がロックされています。
+インストールができませんでした。","データインストールに失敗しました。
+メモリースティック<I=TM>が破損している可能性があります。","(不要)（削除予定 ）データインストールを利用するよう設定し
+メモリースティック<I=TM>に保存しますか？",<I=TM>,"数据安装失败。
+Memory Stick<I=TM>可能已损坏。",<I=TM>,MATCH,133,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,27,35,35;35;35,3,,page23:tag:entity31:key00B1F28A:ref35:ord0;page88:tag:entity31:key00B1F28A:ref35:ord0;page180:tag:entity31:key00B1F28A:ref35:ord0,"データインストールに失敗しました。
+メモリースティック<I=TM>が破損している可能性があります。","(不要)（削除予定 ）データインストールを利用するよう設定し
+メモリースティック<I=TM>に保存しますか？","インストール済のデータが存在します。
+上書きしてもよろしいですか？",<I=TM>,"(无需)（计划删除）要启用数据安装设置并
+保存到Memory Stick<I=TM>吗？",<I=TM>,MATCH,142,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,28,36,36;36;36,3,,page23:tag:entity26:key00971BF9:ref36:ord0;page88:tag:entity26:key00971BF9:ref36:ord0;page180:tag:entity26:key00971BF9:ref36:ord0,"(不要)（削除予定 ）データインストールを利用するよう設定し
+メモリースティック<I=TM>に保存しますか？","インストール済のデータが存在します。
+上書きしてもよろしいですか？",システムデータのインストールが完了しました。,,"已存在安装数据。
+要覆盖吗？",,MATCH,97,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,29,38,38;38;38,3,,page23:tag:entity13:key0059DDB4:ref38:ord0;page88:tag:entity13:key0059DDB4:ref38:ord0;page180:tag:entity13:key0059DDB4:ref38:ord0,"インストール済のデータが存在します。
+上書きしてもよろしいですか？",システムデータのインストールが完了しました。,データインストールを完了しました。,,系统数据安装完成。,,MATCH,66,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,30,39,39;39;39,3,,page23:tag:entity55:key00FF31CC:ref39:ord0;page88:tag:entity55:key00FF31CC:ref39:ord0;page180:tag:entity55:key00FF31CC:ref39:ord0,システムデータのインストールが完了しました。,データインストールを完了しました。,"(不要)データインストールが完了しました。
+データインストールを利用するためには
+オプション画面にてデータインストールを有効にする必要があります。
+設定を有効にしますか？
+（設定はオプション画面で変更できます）",,数据安装完成。,,MATCH,51,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,31,40,40;40;40,3,,page23:tag:entity40:key00D8E1E6:ref40:ord0;page88:tag:entity40:key00D8E1E6:ref40:ord0;page180:tag:entity40:key00D8E1E6:ref40:ord0,データインストールを完了しました。,"(不要)データインストールが完了しました。
+データインストールを利用するためには
+オプション画面にてデータインストールを有効にする必要があります。
+設定を有効にしますか？
+（設定はオプション画面で変更できます）","(不要)installing_bg1pspfontデータインストールには、Ｘ分～Ｙ分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+データインストール中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。
+
+データインストールを開始します。
+よろしいですか？",,"(无需)数据安装完成。
+要使用数据安装，
+必须在选项画面中启用数据安装。
+要启用该设置吗？
+（可在选项画面中更改设置）",,MATCH,303,165,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,32,41,41;41;41,3,,page23:tag:entity2:key001A2E5A:ref41:ord0;page88:tag:entity2:key001A2E5A:ref41:ord0;page180:tag:entity2:key001A2E5A:ref41:ord0,"(不要)データインストールが完了しました。
+データインストールを利用するためには
+オプション画面にてデータインストールを有効にする必要があります。
+設定を有効にしますか？
+（設定はオプション画面で変更できます）","(不要)installing_bg1pspfontデータインストールには、Ｘ分～Ｙ分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+データインストール中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。
+
+データインストールを開始します。
+よろしいですか？","(不要)（削除予定 ）メモリースティック<I=TM>のアクセス中には
+メモリースティック<I=TM>を抜かないようにしてください。",<I=TM>,"(无需)installing_bg1pspfont数据安装大约需要Ｘ～Ｙ分钟。
+建议连接AC适配器后执行。
+数据安装期间，
+请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。
+
+开始数据安装。
+确定吗？",<I=TM>,MATCH,485,245,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需; LITERAL_installing_bg1pspfont_PRESERVED
+LANG_DATAINSTALL.OLANG,33,42,42;42;42,3,,page23:tag:entity34:key00C1EEA9:ref42:ord0;page88:tag:entity34:key00C1EEA9:ref42:ord0;page180:tag:entity34:key00C1EEA9:ref42:ord0,"(不要)installing_bg1pspfontデータインストールには、Ｘ分～Ｙ分程度の時間がかかります。
+ACアダプターを接続している状態で実行することをおすすめします。
+データインストール中は、
+メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。
+
+データインストールを開始します。
+よろしいですか？","(不要)（削除予定 ）メモリースティック<I=TM>のアクセス中には
+メモリースティック<I=TM>を抜かないようにしてください。","メモリースティック<I=TM>にMETAL GEAR SOLID PEACE WALKER の
+システムデータをインストールします。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",<I=TM> | <I=TM>,"(无需)（计划删除）访问Memory Stick<I=TM>期间，
+请勿拔出Memory Stick<I=TM>。",<I=TM> | <I=TM>,MATCH,163,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=SOURCE_UNUSED_OR_DELETION_PLACEHOLDER_TRANSLATED; MARKER_LOCALIZED_AS_无需
+LANG_DATAINSTALL.OLANG,34,43,43;43;43,3,,page23:tag:entity27:key0099A81C:ref43:ord0;page88:tag:entity27:key0099A81C:ref43:ord0;page180:tag:entity27:key0099A81C:ref43:ord0,"(不要)（削除予定 ）メモリースティック<I=TM>のアクセス中には
+メモリースティック<I=TM>を抜かないようにしてください。","メモリースティック<I=TM>にMETAL GEAR SOLID PEACE WALKER の
+システムデータをインストールします。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","データインストールをご利用いただきますと、メモリースティック<I=TM>に
+ゲームデータをインストールすることによって、
+ゲーム中の無線に音声が付いたり、読み込み時間が短縮されます。
+インストールしたデータは、PSP<I=REG>本体の
+XMB<I=TM>の[ゲーム]＞[セーブデータ管理]にある
+［METAL GEAR SOLID PEACE WALKER インストールデータ］が
+表示された状態から<I=△>ボタンで［削除］することができます。
+データインストールを行いますか？",<I=TM> | <I=TM>,"将在Memory Stick<I=TM>中安装METAL GEAR SOLID PEACE WALKER的
+系统数据。
+安装期间，请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",<I=TM> | <I=TM>,MATCH,315,176,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,35,44,44;44;44,3,,page23:tag:entity12:key0054C2EC:ref44:ord0;page88:tag:entity12:key0054C2EC:ref44:ord0;page180:tag:entity12:key0054C2EC:ref44:ord0,"メモリースティック<I=TM>にMETAL GEAR SOLID PEACE WALKER の
+システムデータをインストールします。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","データインストールをご利用いただきますと、メモリースティック<I=TM>に
+ゲームデータをインストールすることによって、
+ゲーム中の無線に音声が付いたり、読み込み時間が短縮されます。
+インストールしたデータは、PSP<I=REG>本体の
+XMB<I=TM>の[ゲーム]＞[セーブデータ管理]にある
+［METAL GEAR SOLID PEACE WALKER インストールデータ］が
+表示された状態から<I=△>ボタンで［削除］することができます。
+データインストールを行いますか？","メモリースティック<I=TM>にゲームに必要なデータのインストールを行います。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。",<I=TM> | <I=REG> | <I=TM> | <I=△>,"使用数据安装功能将游戏数据安装到Memory Stick<I=TM>后，
+可为游戏中的无线电添加语音，并缩短读取时间。
+要删除已安装的数据，请在PSP<I=REG>主机的
+XMB<I=TM>[游戏]＞[存档数据管理]中，
+显示[METAL GEAR SOLID PEACE WALKER 安装数据]后
+按<I=△>按钮选择[删除]。
+要进行数据安装吗？",<I=TM> | <I=REG> | <I=TM> | <I=△>,MATCH,583,358,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=JPN_CONTROL_STRUCTURE_PRESERVED; AUXILIARY_<I=BL>_INSERTION_AND_PSP_TM_SUBSTITUTION_REJECTED
+LANG_DATAINSTALL.OLANG,36,45,45;45;45,3,,page23:tag:entity17:key006E7290:ref45:ord0;page88:tag:entity17:key006E7290:ref45:ord0;page180:tag:entity17:key006E7290:ref45:ord0,"データインストールをご利用いただきますと、メモリースティック<I=TM>に
+ゲームデータをインストールすることによって、
+ゲーム中の無線に音声が付いたり、読み込み時間が短縮されます。
+インストールしたデータは、PSP<I=REG>本体の
+XMB<I=TM>の[ゲーム]＞[セーブデータ管理]にある
+［METAL GEAR SOLID PEACE WALKER インストールデータ］が
+表示された状態から<I=△>ボタンで［削除］することができます。
+データインストールを行いますか？","メモリースティック<I=TM>にゲームに必要なデータのインストールを行います。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","データインストールをご利用いただきますと、メモリースティック<I=TM>に
+ゲームデータをインストールすることによって、
+ゲーム中の無線に音声が付いたり、読み込み時間が短縮されます。
+インストールしたデータは、PSP<I=REG>本体の
+XMB<I=TM>の[ゲーム]＞[セーブデータ管理]にある
+［METAL GEAR SOLID PEACE WALKER インストールデータ］が
+表示された状態から<I=△>ボタンで［削除］することができます。",<I=TM> | <I=TM>,"将在Memory Stick<I=TM>中安装游戏所需的数据。
+安装期间，请勿拔出Memory Stick<I=TM>、关闭主机电源，
+或进入睡眠模式。",<I=TM> | <I=TM>,MATCH,296,152,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,37,46,46;46;46,3,,page23:tag:entity11:key004C39C6:ref46:ord0;page88:tag:entity11:key004C39C6:ref46:ord0;page180:tag:entity11:key004C39C6:ref46:ord0,"メモリースティック<I=TM>にゲームに必要なデータのインストールを行います。
+インストール中は、メモリースティック<I=TM>を抜く、本体の電源を切る、
+スリープモードの操作を行う、といった行為をしないでください。","データインストールをご利用いただきますと、メモリースティック<I=TM>に
+ゲームデータをインストールすることによって、
+ゲーム中の無線に音声が付いたり、読み込み時間が短縮されます。
+インストールしたデータは、PSP<I=REG>本体の
+XMB<I=TM>の[ゲーム]＞[セーブデータ管理]にある
+［METAL GEAR SOLID PEACE WALKER インストールデータ］が
+表示された状態から<I=△>ボタンで［削除］することができます。","システムデータのインストールがキャンセルされました。
+このゲームはメモリースティック<I=TM>にシステムデータを
+必ずインストールする必要があります。
+
+タイトルメニューに戻ります。",<I=TM> | <I=REG> | <I=TM> | <I=△>,"使用数据安装功能将游戏数据安装到Memory Stick<I=TM>后，
+可为游戏中的无线电添加语音，并缩短读取时间。
+要删除已安装的数据，请在PSP<I=REG>主机的
+XMB<I=TM>[游戏]＞[存档数据管理]中，
+显示[METAL GEAR SOLID PEACE WALKER 安装数据]后
+按<I=△>按钮选择[删除]。",<I=TM> | <I=REG> | <I=TM> | <I=△>,MATCH,534,330,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=JPN_CONTROL_STRUCTURE_PRESERVED; AUXILIARY_<I=BL>_INSERTION_AND_PSP_TM_SUBSTITUTION_REJECTED
+LANG_DATAINSTALL.OLANG,38,47,47;47;47,3,,page23:tag:entity46:key00E9BB59:ref47:ord0;page88:tag:entity46:key00E9BB59:ref47:ord0;page180:tag:entity46:key00E9BB59:ref47:ord0,"データインストールをご利用いただきますと、メモリースティック<I=TM>に
+ゲームデータをインストールすることによって、
+ゲーム中の無線に音声が付いたり、読み込み時間が短縮されます。
+インストールしたデータは、PSP<I=REG>本体の
+XMB<I=TM>の[ゲーム]＞[セーブデータ管理]にある
+［METAL GEAR SOLID PEACE WALKER インストールデータ］が
+表示された状態から<I=△>ボタンで［削除］することができます。","システムデータのインストールがキャンセルされました。
+このゲームはメモリースティック<I=TM>にシステムデータを
+必ずインストールする必要があります。
+
+タイトルメニューに戻ります。",データインストールがキャンセルされました。,<I=TM>,"系统数据安装已取消。
+本游戏必须在Memory Stick<I=TM>中
+安装系统数据才能游玩。
+
+将返回标题菜单。",<I=TM>,MATCH,256,130,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=AUXILIARY_<I=BL>_INSERTION_REJECTED; JPN_CONTROL_STRUCTURE_PRESERVED
+LANG_DATAINSTALL.OLANG,39,48,48;48;48,3,,page23:tag:entity32:key00B3E3C8:ref48:ord0;page88:tag:entity32:key00B3E3C8:ref48:ord0;page180:tag:entity32:key00B3E3C8:ref48:ord0,"システムデータのインストールがキャンセルされました。
+このゲームはメモリースティック<I=TM>にシステムデータを
+必ずインストールする必要があります。
+
+タイトルメニューに戻ります。",データインストールがキャンセルされました。,インストールデータ,,数据安装已取消。,,MATCH,63,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,40,49,49;49;49,3,,page23:tag:entity47:key00E9EAC8:ref49:ord0;page88:tag:entity47:key00E9EAC8:ref49:ord0;page180:tag:entity47:key00E9EAC8:ref49:ord0,データインストールがキャンセルされました。,インストールデータ,ダウンロードデータ,,安装数据,,MATCH,27,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,41,50,50;50;50,3,,page23:tag:entity6:key00237A21:ref50:ord0;page88:tag:entity6:key00237A21:ref50:ord0;page180:tag:entity6:key00237A21:ref50:ord0,インストールデータ,ダウンロードデータ,"METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。",,下载数据,,MATCH,27,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,42,51,51;51;51,3,,page23:tag:entity10:key003F7D5D:ref51:ord0;page88:tag:entity10:key003F7D5D:ref51:ord0;page180:tag:entity10:key003F7D5D:ref51:ord0,ダウンロードデータ,"METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","音声データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。",,"这是METAL GEAR SOLID PEACE WALKER游玩时使用的数据。
+删除时请注意。",,MATCH,130,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,43,52,52;52;52,3,,page23:tag:entity1:key0019F243:ref52:ord0;page88:tag:entity1:key0019F243:ref52:ord0;page180:tag:entity1:key0019F243:ref52:ord0,"METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","音声データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","画像データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。",,"语音数据
+METAL GEAR SOLID PEACE WALKER游玩时使用的数据。
+删除时请注意。",,MATCH,146,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,44,53,53;53;53,3,,page23:tag:entity33:key00C1D659:ref53:ord0;page88:tag:entity33:key00C1D659:ref53:ord0;page180:tag:entity33:key00C1D659:ref53:ord0,"音声データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","画像データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","譜面データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。",,"图像数据
+METAL GEAR SOLID PEACE WALKER游玩时使用的数据。
+删除时请注意。",,MATCH,146,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,45,54,54;54;54,3,,page23:tag:entity45:key00E91811:ref54:ord0;page88:tag:entity45:key00E91811:ref54:ord0;page180:tag:entity45:key00E91811:ref54:ord0,"画像データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","譜面データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","音楽データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。",,"乐谱数据
+METAL GEAR SOLID PEACE WALKER游玩时使用的数据。
+删除时请注意。",,MATCH,146,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3
+LANG_DATAINSTALL.OLANG,46,55,55;55;55,3,,page23:tag:entity15:key0067357E:ref55:ord0;page88:tag:entity15:key0067357E:ref55:ord0;page180:tag:entity15:key0067357E:ref55:ord0,"譜面データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。","音楽データ
+METAL GEAR SOLID PEACE WALKER のゲームプレイ中に使用するデータです。
+削除する際はご注意願います。",DATA INSTALL,,"音乐数据
+METAL GEAR SOLID PEACE WALKER游玩时使用的数据。
+删除时请注意。",,MATCH,146,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=STAGEDAT_OLANG; source_objects=3; review_flag=JPN_音楽_TRANSLATED_AS_音乐; AUXILIARY_歌曲_NOT_FOLLOWED

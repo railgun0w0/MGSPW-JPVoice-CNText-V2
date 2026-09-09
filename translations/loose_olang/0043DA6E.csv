@@ -1,0 +1,50 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+0043DA6E,0,4,4,1,,page:tag:entity16:key00E16F1D:ref4:ord4,,ネットワーク接続が切断されたため、シングルプレイとなります。,HOST以外のメンバーが切断されたため、シングルプレイとなります。,,网络连接已断开，将切换为单人游戏。,,MATCH,90,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,1,10,10,1,,page:tag:entity3:key0020ABF0:ref10:ord4,ネットワーク接続が切断されたため、シングルプレイとなります。,HOST以外のメンバーが切断されたため、シングルプレイとなります。,現在のセーブデータでは利用することができないモードのため、ゲームに参加することができません。,,HOST以外的成员已断开连接，将切换为单人游戏。,,MATCH,91,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_HOST_SCOPE_PRESERVED
+0043DA6E,2,16,16,1,,page:tag:entity9:key00932C67:ref16:ord4,HOST以外のメンバーが切断されたため、シングルプレイとなります。,現在のセーブデータでは利用することができないモードのため、ゲームに参加することができません。,ルームの検索に失敗しました。,,当前存档数据无法使用此模式，因此无法加入游戏。,,MATCH,138,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,3,22,22,1,,page:tag:entity14:key00D5A07D:ref22:ord4,現在のセーブデータでは利用することができないモードのため、ゲームに参加することができません。,ルームの検索に失敗しました。,HOSTとの通信が切断されました。,,房间搜索失败。,,MATCH,42,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,4,28,28,1,,page:tag:entity19:key00F98609:ref28:ord4,ルームの検索に失敗しました。,HOSTとの通信が切断されました。,ルームに参加することができませんでした。,,与HOST的通信已断开。,,MATCH,43,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,5,34,34,1,,page:tag:entity17:key00F11E61:ref34:ord4,HOSTとの通信が切断されました。,ルームに参加することができませんでした。,HOSTがルームを削除しました。,,无法加入房间。,,MATCH,60,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,6,40,40,1,,page:tag:entity13:key00CB23B3:ref40:ord4,ルームに参加することができませんでした。,HOSTがルームを削除しました。,ルームの作成に失敗しました。,,HOST已删除房间。,,MATCH,40,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,7,46,46,1,,page:tag:entity10:key00A75E7B:ref46:ord4,HOSTがルームを削除しました。,ルームの作成に失敗しました。,"Xbox LIVEにサインインしていないため処理を続けることができません。
+ダッシュボードからXbox LIVEにサインインしてください。",,房间创建失败。,,MATCH,42,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,8,52,52,1,,page:tag:entity4:key00434337:ref52:ord4,ルームの作成に失敗しました。,"Xbox LIVEにサインインしていないため処理を続けることができません。
+ダッシュボードからXbox LIVEにサインインしてください。",現在のゲーマー プロフィールではオンラインプレイをすることができません。,,"由于尚未登录Xbox LIVE，无法继续操作。
+请从控制面板登录Xbox LIVE。",,MATCH,169,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0043DA6E,9,58,58,1,,page:tag:entity6:key0058BCD8:ref58:ord4,"Xbox LIVEにサインインしていないため処理を続けることができません。
+ダッシュボードからXbox LIVEにサインインしてください。",現在のゲーマー プロフィールではオンラインプレイをすることができません。,Xbox LIVEへの接続に失敗しました。,,当前玩家档案无法进行在线游戏。,,MATCH,106,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0043DA6E,10,64,64,1,,page:tag:entity15:key00D851E8:ref64:ord4,現在のゲーマー プロフィールではオンラインプレイをすることができません。,Xbox LIVEへの接続に失敗しました。,ネットワークに接続することができませんでした。,,连接Xbox LIVE失败。,,MATCH,45,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0043DA6E,11,70,70,1,,page:tag:entity0:key00024EBC:ref70:ord4,Xbox LIVEへの接続に失敗しました。,ネットワークに接続することができませんでした。,Xbox LIVEから切断されました。,,无法连接网络。,,MATCH,69,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_INCORRECTLY_NARROWS_TO_XBOX_LIVE;JPN_TRANSLATED_DIRECTLY
+0043DA6E,12,76,76,1,,page:tag:entity5:key00508F74:ref76:ord4,ネットワークに接続することができませんでした。,Xbox LIVEから切断されました。,"ストレージ機器を選択せずに
+ゲームを開始したため、セーブすることができません。",,已从Xbox LIVE断开。,,MATCH,39,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0043DA6E,13,88,88,1,,page:tag:entity11:key00B0BE5C:ref88:ord4,Xbox LIVEから切断されました。,"ストレージ機器を選択せずに
+ゲームを開始したため、セーブすることができません。","ゲーマープロフィールにサインインせずに
+ゲームを開始したため、セーブすることができません。",,"开始游戏时未选择存储设备，
+因此无法保存。",,MATCH,115,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_REPHRASES_CAUSALITY;JPN_TRANSLATED_DIRECTLY
+0043DA6E,14,94,94,1,,page:tag:entity20:key00FB72A4:ref94:ord4,"ストレージ機器を選択せずに
+ゲームを開始したため、セーブすることができません。","ゲーマープロフィールにサインインせずに
+ゲームを開始したため、セーブすることができません。","選択ストレージ機器に保存されたシステムデータは、別のゲーマープロフィールで作成されています。
+このまま続けるとゲームの内容をセーブすることはできません。
+このまま続けますか？",,"开始游戏时未登录玩家档案，
+因此无法保存。",,MATCH,133,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_TRANSLATED_DIRECTLY
+0043DA6E,15,100,100,1,,page:tag:entity12:key00B8DC0D:ref100:ord4,"ゲーマープロフィールにサインインせずに
+ゲームを開始したため、セーブすることができません。","選択ストレージ機器に保存されたシステムデータは、別のゲーマープロフィールで作成されています。
+このまま続けるとゲームの内容をセーブすることはできません。
+このまま続けますか？","選択ストレージ機器に保存されたセーブデータは、別のゲーマープロフィールで作成されています。
+ロードすることができません。",,"所选存储设备中的系统数据由其他玩家档案创建。
+如果继续，将无法保存游戏内容。
+是否继续？",,MATCH,257,128,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_TRANSLATED_DIRECTLY
+0043DA6E,16,106,106,1,,page:tag:entity18:key00F8F04E:ref106:ord4,"選択ストレージ機器に保存されたシステムデータは、別のゲーマープロフィールで作成されています。
+このまま続けるとゲームの内容をセーブすることはできません。
+このまま続けますか？","選択ストレージ機器に保存されたセーブデータは、別のゲーマープロフィールで作成されています。
+ロードすることができません。",既にルームに参加しているため、招待を受けることができません。,,"所选存储设备中的存档数据由其他玩家档案创建。
+无法读取。",,MATCH,178,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_TRANSLATED_DIRECTLY
+0043DA6E,17,112,112,1,,page:tag:entity8:key007A57B9:ref112:ord4,"選択ストレージ機器に保存されたセーブデータは、別のゲーマープロフィールで作成されています。
+ロードすることができません。",既にルームに参加しているため、招待を受けることができません。,確認,,由于已经加入房间，无法接受邀请。,,MATCH,90,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,18,118,118,1,,page:tag:entity1:key00043FF0:ref118:ord4,既にルームに参加しているため、招待を受けることができません。,確認,"サインインの状態が変更されたため、ゲームを続けることができません。
+タイトルメニューに戻ります。",,确认,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0043DA6E,19,124,124,1,,page:tag:entity2:key00192971:ref124:ord4,確認,"サインインの状態が変更されたため、ゲームを続けることができません。
+タイトルメニューに戻ります。",接続に失敗しました。,,"登录状态已发生变化，无法继续游戏。
+将返回标题菜单。",,MATCH,142,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_TRANSLATED_DIRECTLY
+0043DA6E,20,130,130,1,,page:tag:entity21:key002E012F:ref130:ord4,"サインインの状態が変更されたため、ゲームを続けることができません。
+タイトルメニューに戻ります。",接続に失敗しました。,,,连接失败。,,MATCH,30,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1

@@ -1,0 +1,477 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D420130,0,0,0,1,,page76:tag3:entity0:key00000000:ref0:ord0,,ボス お願いします！,ありがとうございました ボス！,,Boss，拜托了！,,MATCH,28,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,1,1,1,1,,page76:tag3:entity1:key00000000:ref1:ord0,ボス お願いします！,ありがとうございました ボス！,ボス！ ありがとうございました！,,谢谢您，Boss！,,MATCH,43,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,2,2,2,1,,page76:tag3:entity2:key00000000:ref2:ord0,ありがとうございました ボス！,ボス！ ありがとうございました！,行かないでください ボス！,,Boss！谢谢您！,,MATCH,46,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,3,3,3,1,,page76:tag3:entity3:key00000000:ref3:ord0,ボス！ ありがとうございました！,行かないでください ボス！,ボス！ 戻って下さい！,,别走，Boss！,,MATCH,37,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,4,4,4,1,,page76:tag3:entity4:key00000000:ref4:ord0,行かないでください ボス！,ボス！ 戻って下さい！,お願いします ボス！,,Boss！请回来！,,MATCH,31,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,5,5,5,1,,page76:tag3:entity5:key00000000:ref5:ord0,ボス！ 戻って下さい！,お願いします ボス！,食べました…,,拜托了，Boss！,,MATCH,28,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,6,6,6,1,,page76:tag3:entity7:key00000001:ref6:ord0,お願いします ボス！,食べました…,カンヅメを一人で全部…,,是我吃的……,,MATCH,18,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,7,7,7,1,,page76:tag3:entity6:key00000000:ref7:ord0,食べました…,カンヅメを一人で全部…,カノジョに会っています…,,罐头……全被我一个人吃了……,,MATCH,33,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,8,8,8,1,,page76:tag3:entity9:key00000001:ref8:ord0,カンヅメを一人で全部…,カノジョに会っています…,ときどき…,,我去见女朋友了……,,MATCH,36,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,9,9,9,1,,page76:tag3:entity8:key00000000:ref9:ord0,カノジョに会っています…,ときどき…,眠れません…,,偶尔……,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,10,10,10,1,,page76:tag3:entity11:key00000001:ref10:ord0,ときどき…,眠れません…,ボスのいびきで…,,我睡不着……,,MATCH,18,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,11,11,11,1,,page76:tag3:entity10:key00000000:ref11:ord0,眠れません…,ボスのいびきで…,寒い方が好きです…,,因为Boss的鼾声……,,MATCH,24,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,12,12,12,1,,page76:tag3:entity13:key00000001:ref12:ord0,ボスのいびきで…,寒い方が好きです…,本当は…,,我更喜欢冷一点……,,MATCH,27,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,13,13,13,1,,page76:tag3:entity12:key00000000:ref13:ord0,寒い方が好きです…,本当は…,…,,其实……,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,14,14,14,1,,page76:tag3:entity16:key00000002:ref14:ord0,本当は…,…,本当は訓練より…,,……,,MATCH,3,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,15,15,15,1,,page76:tag3:entity15:key00000001:ref15:ord0,…,本当は訓練より…,すいません…,,其实，比起训练……,,MATCH,24,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,16,16,16,1,,page76:tag3:entity14:key00000000:ref16:ord0,本当は訓練より…,すいません…,こんなことしてる場合じゃ…,,对不起……,,MATCH,18,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,17,17,17,1,,page76:tag3:entity20:key00000003:ref17:ord0,すいません…,こんなことしてる場合じゃ…,明日 試験なんです…,,现在不是做这种事的时候……,,MATCH,39,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,18,18,18,1,,page76:tag3:entity19:key00000002:ref18:ord0,こんなことしてる場合じゃ…,明日 試験なんです…,ええ,,我明天有考试……,,MATCH,28,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,19,19,19,1,,page76:tag3:entity18:key00000001:ref19:ord0,明日 試験なんです…,ええ,ごめんなさい…,,是……,,MATCH,6,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,20,20,20,1,,page76:tag3:entity17:key00000000:ref20:ord0,ええ,ごめんなさい…,アクションは苦手なんで…,,对不起……,,MATCH,21,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,21,21,21,1,,page76:tag3:entity23:key00000002:ref21:ord0,ごめんなさい…,アクションは苦手なんで…,ボスの事 知りませんでした…,,我不擅长动作游戏……,,MATCH,36,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,22,22,22,1,,page76:tag3:entity22:key00000001:ref22:ord0,アクションは苦手なんで…,ボスの事 知りませんでした…,ええ ええ…,,我以前不了解Boss……,,MATCH,40,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,23,23,23,1,,page76:tag3:entity21:key00000000:ref23:ord0,ボスの事 知りませんでした…,ええ ええ…,正直 面白いかどうか…,,嗯，嗯……,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,24,24,24,1,,page76:tag3:entity26:key00000002:ref24:ord0,ええ ええ…,正直 面白いかどうか…,まだ始めたばかりで…,,老实说，我还不知道好不好玩……,,MATCH,31,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,25,25,25,1,,page76:tag3:entity25:key00000001:ref25:ord0,正直 面白いかどうか…,まだ始めたばかりで…,そ そうです…,,我才刚开始……,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,26,26,26,1,,page76:tag3:entity24:key00000000:ref26:ord0,まだ始めたばかりで…,そ そうです…,あれっ,,是、是的……,,MATCH,19,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,27,30,30,1,,page76:tag3:entity30:key00000000:ref30:ord0,そ そうです…,あれっ,ビリビリビリ！,,咦？,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,28,31,31,1,,page76:tag3:entity31:key00000000:ref31:ord0,あれっ,ビリビリビリ！,開始！,,滋滋滋！,,MATCH,21,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,29,35,35,1,,page76:tag3:entity35:key00000000:ref35:ord0,ビリビリビリ！,開始！,始め！,,开始！,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,30,36,36,1,,page76:tag3:entity36:key00000000:ref36:ord0,開始！,始め！,もう一回！,,开始！,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,31,37,37,1,,page76:tag3:entity37:key00000000:ref37:ord0,始め！,もう一回！,よし！,,再来一次！,,MATCH,15,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,32,38,38,1,,page76:tag3:entity38:key00000000:ref38:ord0,もう一回！,よし！,いいぞ,,好！,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,33,39,39,1,,page76:tag3:entity39:key00000000:ref39:ord0,よし！,いいぞ,ではもう一度説明する！,,很好,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,34,40,40,1,,page76:tag3:entity40:key00000000:ref40:ord0,いいぞ,ではもう一度説明する！,違う！ 何してる！,,那我再说明一遍！,,MATCH,33,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,35,41,41,1,,page76:tag3:entity41:key00000000:ref41:ord0,ではもう一度説明する！,違う！ 何してる！,ボス 言うとおりにお願いします！,,不对！你在干什么！,,MATCH,25,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,36,42,42,1,,page76:tag3:entity42:key00000000:ref42:ord0,違う！ 何してる！,ボス 言うとおりにお願いします！,お願いします ボス,,Boss，请按我说的做！,,MATCH,46,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,37,43,43,1,,page76:tag3:entity43:key00000000:ref43:ord0,ボス 言うとおりにお願いします！,お願いします ボス,ボス 違うのでは…,,拜托了，Boss,,MATCH,25,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,38,44,44,1,,page76:tag3:entity44:key00000000:ref44:ord0,お願いします ボス,ボス 違うのでは…,ボス…？ あの…,,Boss，好像不对……,,MATCH,25,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,39,45,45,1,,page76:tag3:entity45:key00000000:ref45:ord0,ボス 違うのでは…,ボス…？ あの…,ボス ありがとうございます,,Boss……？那个……,,MATCH,22,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,40,46,46,1,,page76:tag3:entity46:key00000000:ref46:ord0,ボス…？ あの…,ボス ありがとうございます,見事です ボス！,,谢谢您，Boss,,MATCH,37,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,41,47,47,1,,page76:tag3:entity47:key00000000:ref47:ord0,ボス ありがとうございます,見事です ボス！,凄い！,,干得漂亮，Boss！,,MATCH,22,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,42,48,48,1,,page76:tag3:entity48:key00000000:ref48:ord0,見事です ボス！,凄い！,では次だ,,太厉害了！,,MATCH,9,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,43,49,49,1,,page76:tag3:entity49:key00000000:ref49:ord0,凄い！,では次だ,では 次に行きます,,那么，下一项,,MATCH,12,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,44,50,50,1,,page76:tag3:entity51:key00000001:ref50:ord0,では次だ,では 次に行きます,あ…,,那么，进入下一项,,MATCH,25,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,45,51,51,1,,page76:tag3:entity50:key00000000:ref51:ord0,では 次に行きます,あ…,ボス お見事でした,,啊……,,MATCH,6,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,46,52,52,1,,page76:tag3:entity52:key00000000:ref52:ord0,あ…,ボス お見事でした,ボス ありがとうございました,,Boss，干得漂亮,,MATCH,25,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,47,53,53;248,2,,page76:tag3:entity53:key00000000:ref53:ord0;page76:tag3:entity248:key00000000:ref248:ord0,ボス お見事でした,ボス ありがとうございました,お前達！ ボスが参加して下さるぞ！,,谢谢您，Boss,,MATCH,40,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,48,54,54,1,,page76:tag3:entity54:key00000000:ref54:ord0,ボス ありがとうございました,お前達！ ボスが参加して下さるぞ！,ボス 宜しくお願いします,,大家！Boss要亲自参加训练了！,,MATCH,49,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,49,55,55,1,,page76:tag3:entity55:key00000000:ref55:ord0,お前達！ ボスが参加して下さるぞ！,ボス 宜しくお願いします,そのためにまず『注視点の移動』を体得するんだ,,Boss，请多指教,,MATCH,34,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,50,56,56,1,,page76:tag3:entity58:key00000002:ref56:ord0,ボス 宜しくお願いします,そのためにまず『注視点の移動』を体得するんだ,"どこを見るか
+いかに早く目標を発見するかが生死を分ける",,为此，首先要掌握『移动视线』,,MATCH,66,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,51,57,57,1,,page76:tag3:entity57:key00000001:ref57:ord0,そのためにまず『注視点の移動』を体得するんだ,"どこを見るか
+いかに早く目標を発見するかが生死を分ける",敵地で最も重要なのは『状況の把握』だ,,"看向哪里
+能多快发现目标，将决定生死",,MATCH,79,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,52,58,58,1,,page76:tag3:entity56:key00000000:ref58:ord0,"どこを見るか
+いかに早く目標を発見するかが生死を分ける",敵地で最も重要なのは『状況の把握』だ,今から私の指示した方向を見るんだ,,在敌区最重要的是『掌握情况』,,MATCH,54,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,53,59,59,1,,page76:tag3:entity60:key00000001:ref59:ord0,敵地で最も重要なのは『状況の把握』だ,今から私の指示した方向を見るんだ,『注視点の移動』には『カメラボタン』を使え,,现在开始，按我的指示看向指定方向,,MATCH,48,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,54,60,60,1,,page76:tag3:entity59:key00000000:ref60:ord0,今から私の指示した方向を見るんだ,『注視点の移動』には『カメラボタン』を使え,上を見ろ！,,『移动视线』要使用『镜头键』,,MATCH,63,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,55,61,61,1,,page76:tag3:entity61:key00000000:ref61:ord0,『注視点の移動』には『カメラボタン』を使え,上を見ろ！,下を見ろ！,,向上看！,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,56,62,62,1,,page76:tag3:entity62:key00000000:ref62:ord0,上を見ろ！,下を見ろ！,左を見ろ！,,向下看！,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,57,63,63,1,,page76:tag3:entity63:key00000000:ref63:ord0,下を見ろ！,左を見ろ！,右を見ろ！,,向左看！,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,58,64,64,1,,page76:tag3:entity64:key00000000:ref64:ord0,左を見ろ！,右を見ろ！,"『注視点の移動』には
+『カメラボタン』の上下を使え",,向右看！,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,59,65,65,1,,page76:tag3:entity66:key00000001:ref65:ord0,右を見ろ！,"『注視点の移動』には
+『カメラボタン』の上下を使え",どうした？,,"『移动视线』时
+使用『镜头键』的上下键",,MATCH,73,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,60,66,66;68,2,,page76:tag3:entity65:key00000000:ref66:ord0;page76:tag3:entity67:key00000000:ref68:ord0,"『注視点の移動』には
+『カメラボタン』の上下を使え",どうした？,"『注視点の移動』には
+『カメラボタン』の左右を使え",,怎么了？,,MATCH,15,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,61,67,67,1,,page76:tag3:entity68:key00000001:ref67:ord0,どうした？,"『注視点の移動』には
+『カメラボタン』の左右を使え",どうした？,,"『移动视线』时
+使用『镜头键』的左右键",,MATCH,73,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,62,69,69,1,,page76:tag3:entity69:key00000000:ref69:ord0,どうした？,"ボス『注視点の移動』には
+『カメラボタン』の上下です！","ボス『注視点の移動』には
+『カメラボタン』の左右です！",,"Boss，『移动视线』要用
+『镜头键』的上下键！",,MATCH,79,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,63,70,70,1,,page76:tag3:entity70:key00000000:ref70:ord0,"ボス『注視点の移動』には
+『カメラボタン』の上下です！","ボス『注視点の移動』には
+『カメラボタン』の左右です！",問題なければ『アクションボタン』を押すんだ,,"Boss，『移动视线』要用
+『镜头键』的左右键！",,MATCH,79,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,64,71,71;73,2,,page76:tag3:entity72:key00000001:ref71:ord0;page76:tag3:entity74:key00000001:ref73:ord0,"ボス『注視点の移動』には
+『カメラボタン』の左右です！",問題なければ『アクションボタン』を押すんだ,『カメラボタン』上下の使い方はこれでいいな？,,没问题的话就按『动作键』,,MATCH,63,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,65,72,72,1,,page76:tag3:entity71:key00000000:ref72:ord0,問題なければ『アクションボタン』を押すんだ,『カメラボタン』上下の使い方はこれでいいな？,問題なければ『アクションボタン』を押すんだ,,『镜头键』上下方向的操作这样可以吧？,,MATCH,66,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,66,74,74,1,,page76:tag3:entity73:key00000000:ref74:ord0,問題なければ『アクションボタン』を押すんだ,『カメラボタン』左右の使い方はこれでいいな？,よし次 左右の確認を行う,,『镜头键』左右方向的操作这样可以吧？,,MATCH,66,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,67,75,75,1,,page76:tag3:entity75:key00000000:ref75:ord0,『カメラボタン』左右の使い方はこれでいいな？,よし次 左右の確認を行う,よし 続いて上下の確認を行う,,好，接下来确认左右方向,,MATCH,34,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,68,76,76,1,,page76:tag3:entity76:key00000000:ref76:ord0,よし次 左右の確認を行う,よし 続いて上下の確認を行う,"よし ではもう一度
+『カメラボタン』で上下の確認を行う",,好，接着确认上下方向,,MATCH,40,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,69,77,77,1,,page76:tag3:entity77:key00000000:ref77:ord0,よし 続いて上下の確認を行う,"よし ではもう一度
+『カメラボタン』で上下の確認を行う","よし ではもう一度
+『カメラボタン』で左右の確認を行う",,"好，那就再用一次
+『镜头键』确认上下方向",,MATCH,77,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,70,78,78,1,,page76:tag3:entity78:key00000000:ref78:ord0,"よし ではもう一度
+『カメラボタン』で上下の確認を行う","よし ではもう一度
+『カメラボタン』で左右の確認を行う","操作方法は『<R=OPTIONS,オプション>』で
+いつでも変えることが出来る",,"好，那就再用一次
+『镜头键』确认左右方向",,MATCH,77,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,71,79,79,1,,page76:tag3:entity79:key00000000:ref79:ord0,"よし ではもう一度
+『カメラボタン』で左右の確認を行う","操作方法は『<R=OPTIONS,オプション>』で
+いつでも変えることが出来る",自分に最も馴染む方法を選べ,"<R=OPTIONS,オプション>","操作方式可在『<R=选项,OPTIONS>』中
+随时更改","<R=选项,OPTIONS>",MATCH,91,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,72,80,80,1,,page76:tag3:entity80:key00000000:ref80:ord0,"操作方法は『<R=OPTIONS,オプション>』で
+いつでも変えることが出来る",自分に最も馴染む方法を選べ,ではこれで決定する,,选择最适合自己的操作方式,,MATCH,39,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,73,81,81,1,,page76:tag3:entity81:key00000000:ref81:ord0,自分に最も馴染む方法を選べ,ではこれで決定する,繰り返す,,那就这样决定了,,MATCH,27,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,74,82,82,1,,page76:tag3:entity91:key00000009:ref82:ord0,ではこれで決定する,繰り返す,"ただし『ホフク』している間は
+移動することが出来ない",,我再重复一遍,,MATCH,12,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,75,83,83,1,,page76:tag3:entity90:key00000008:ref83:ord0,繰り返す,"ただし『ホフク』している間は
+移動することが出来ない","『しゃがみボタン』を長く押すと
+押している間は『ホフク』する",,"不过，『匍匐』时
+无法移动",,MATCH,76,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,76,84,84,1,,page76:tag3:entity89:key00000007:ref84:ord0,"ただし『ホフク』している間は
+移動することが出来ない","『しゃがみボタン』を長く押すと
+押している間は『ホフク』する",それぞれの姿勢で移動も可能だ,,"长按『蹲伏键』时
+按住期间会保持『匍匐』",,MATCH,88,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,77,85,85,1,,page76:tag3:entity88:key00000006:ref85:ord0,"『しゃがみボタン』を長く押すと
+押している間は『ホフク』する",それぞれの姿勢で移動も可能だ,"『しゃがみボタン』を短く押すと
+『立ち』と『しゃがみ』に姿勢が変化する",,各种姿势下都可以移动,,MATCH,42,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,78,86,86,1,,page76:tag3:entity87:key00000005:ref86:ord0,それぞれの姿勢で移動も可能だ,"『しゃがみボタン』を短く押すと
+『立ち』と『しゃがみ』に姿勢が変化する",姿勢の変更には『しゃがみボタン』を使う,,"短按『蹲伏键』可在
+『站立』与『蹲伏』之间切换",,MATCH,103,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,79,87,87,1,,page76:tag3:entity86:key00000004:ref87:ord0,"『しゃがみボタン』を短く押すと
+『立ち』と『しゃがみ』に姿勢が変化する",姿勢の変更には『しゃがみボタン』を使う,"姿勢の種類は『立ち』
+『しゃがみ』『ホフク』の3つ",,切换姿势要使用『蹲伏键』,,MATCH,57,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,80,88,88,1,,page76:tag3:entity85:key00000003:ref88:ord0,姿勢の変更には『しゃがみボタン』を使う,"姿勢の種類は『立ち』
+『しゃがみ』『ホフク』の3つ","敵に見つからないように
+時には姿勢を低くする必要がある",,"姿势共有『站立』
+『蹲伏』『匍匐』三种",,MATCH,71,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,81,89,89,1,,page76:tag3:entity84:key00000002:ref89:ord0,"姿勢の種類は『立ち』
+『しゃがみ』『ホフク』の3つ","敵に見つからないように
+時には姿勢を低くする必要がある",ホフク中に移動は出来ない！ 注意しろ！,,"为了不被敌人发现
+有时需要压低姿势",,MATCH,79,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,82,90,90,1,,page76:tag3:entity92:key0000000A:ref90:ord0,"敵に見つからないように
+時には姿勢を低くする必要がある",ホフク中に移動は出来ない！ 注意しろ！,敵を目前に棒立ちしているなど自殺行為だ,,匍匐时无法移动！注意！,,MATCH,55,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,83,91,91,1,,page76:tag3:entity83:key00000001:ref91:ord0,ホフク中に移動は出来ない！ 注意しろ！,敵を目前に棒立ちしているなど自殺行為だ,次に姿勢変更の方法を説明する,,在敌人面前直挺挺站着等于自杀,,MATCH,57,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,84,92,92,1,,page76:tag3:entity82:key00000000:ref92:ord0,敵を目前に棒立ちしているなど自殺行為だ,次に姿勢変更の方法を説明する,『しゃがみ』！,,接下来说明如何切换姿势,,MATCH,42,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,85,93,93,1,,page76:tag3:entity93:key00000000:ref93:ord0,次に姿勢変更の方法を説明する,『しゃがみ』！,"どうした『姿勢の変更』には
+『しゃがみボタン』を使え",,『蹲伏』！,,MATCH,21,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,86,94,94,1,,page76:tag3:entity94:key00000000:ref94:ord0,『しゃがみ』！,"どうした『姿勢の変更』には
+『しゃがみボタン』を使え",ボス『姿勢の変更』は『しゃがみボタン』です！,,"怎么了？『切换姿势』要用
+『蹲伏键』",,MATCH,76,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,87,95,95,1,,page76:tag3:entity95:key00000000:ref95:ord0,"どうした『姿勢の変更』には
+『しゃがみボタン』を使え",ボス『姿勢の変更』は『しゃがみボタン』です！,敵に見つかりやすくなるから注意しろ,,Boss，『切换姿势』要用『蹲伏键』！,,MATCH,66,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,88,96,96,1,,page76:tag3:entity101:key00000005:ref96:ord0,ボス『姿勢の変更』は『しゃがみボタン』です！,敵に見つかりやすくなるから注意しろ,走っている時は足音も大きい,,会更容易被敌人发现，注意,,MATCH,51,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,89,97,97,1,,page76:tag3:entity100:key00000004:ref97:ord0,敵に見つかりやすくなるから注意しろ,走っている時は足音も大きい,状況によって使い分けるんだ,,奔跑时脚步声也会更大,,MATCH,39,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,90,98,98,1,,page76:tag3:entity99:key00000003:ref98:ord0,走っている時は足音も大きい,状況によって使い分けるんだ,"少し入力すればゆっくり歩き
+多く入力すれば速く走る",,要根据情况灵活使用,,MATCH,39,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,91,99,99,1,,page76:tag3:entity98:key00000002:ref99:ord0,状況によって使い分けるんだ,"少し入力すればゆっくり歩き
+多く入力すれば速く走る",移動には『アナログパッド』を使う,,"轻推时会慢慢走
+推得更深则会快速奔跑",,MATCH,73,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,92,100,100,1,,page76:tag3:entity97:key00000001:ref100:ord0,"少し入力すればゆっくり歩き
+多く入力すれば速く走る",移動には『アナログパッド』を使う,次に移動方法の確認だ,,移动要使用『摇杆』,,MATCH,48,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,93,101,101,1,,page76:tag3:entity96:key00000000:ref101:ord0,移動には『アナログパッド』を使う,次に移動方法の確認だ,走れ！,,接下来确认移动方式,,MATCH,30,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,94,102,102,1,,page76:tag3:entity102:key00000000:ref102:ord0,次に移動方法の確認だ,走れ！,どうした『移動』には『アナログパッド』を使え,,跑起来！,,MATCH,9,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,95,103,103,1,,page76:tag3:entity103:key00000000:ref103:ord0,走れ！,どうした『移動』には『アナログパッド』を使え,ボス…『移動』には『アナログパッド』です！,,怎么了？『移动』要用『摇杆』,,MATCH,66,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,96,104,104,1,,page76:tag3:entity104:key00000000:ref104:ord0,どうした『移動』には『アナログパッド』を使え,ボス…『移動』には『アナログパッド』です！,"いいな 走りながら『攻撃ボタン』を短く押す！
+よく覚えておけ！",,Boss……『移动』要用『摇杆』！,,MATCH,63,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,97,105,105,1,,page76:tag3:entity110:key00000005:ref105:ord0,ボス…『移動』には『アナログパッド』です！,"いいな 走りながら『攻撃ボタン』を短く押す！
+よく覚えておけ！","『ローリング』するには走りながら
+『攻撃ボタン』を短く押せ",,"听好，奔跑时短按『攻击键』！
+给我记住！",,MATCH,89,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,98,106,106,1,,page76:tag3:entity109:key00000004:ref106:ord0,"いいな 走りながら『攻撃ボタン』を短く押す！
+よく覚えておけ！","『ローリング』するには走りながら
+『攻撃ボタン』を短く押せ","しかもローリングは小さな溝や障害物を
+飛び越えることも出来る",,"要『翻滚』，就在奔跑时
+短按『攻击键』",,MATCH,85,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,99,107,107;113,2,,page76:tag3:entity108:key00000003:ref107:ord0;page76:tag3:entity114:key00000003:ref113:ord0,"『ローリング』するには走りながら
+『攻撃ボタン』を短く押せ","しかもローリングは小さな溝や障害物を
+飛び越えることも出来る",敵に囲まれて突破が困難な時に役立つだろう,,"而且翻滚还能跃过
+小沟和障碍物",,MATCH,88,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,100,108,108;114,2,,page76:tag3:entity107:key00000002:ref108:ord0;page76:tag3:entity113:key00000002:ref114:ord0,"しかもローリングは小さな溝や障害物を
+飛び越えることも出来る",敵に囲まれて突破が困難な時に役立つだろう,ローリングは前方の邪魔な敵をなぎ払う,,被敌人包围、难以突围时也会很有用,,MATCH,60,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,101,109,109;115,2,,page76:tag3:entity106:key00000001:ref109:ord0;page76:tag3:entity112:key00000001:ref115:ord0,敵に囲まれて突破が困難な時に役立つだろう,ローリングは前方の邪魔な敵をなぎ払う,では次にローリングの訓練だ,,翻滚还能撞倒前方挡路的敌人,,MATCH,54,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,102,110,110;116,2,,page76:tag3:entity105:key00000000:ref110:ord0;page76:tag3:entity111:key00000000:ref116:ord0,ローリングは前方の邪魔な敵をなぎ払う,では次にローリングの訓練だ,"いいな 走りながら『しゃがみボタン』を押す！
+よく覚えておけ！",,接下来进行翻滚训练,,MATCH,39,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,103,111,111,1,,page76:tag3:entity116:key00000005:ref111:ord0,では次にローリングの訓練だ,"いいな 走りながら『しゃがみボタン』を押す！
+よく覚えておけ！","『ローリング』するには走りながら
+『しゃがみボタン』を押せ",,"听好，奔跑时按『蹲伏键』！
+给我记住！",,MATCH,89,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,104,112,112,1,,page76:tag3:entity115:key00000004:ref112:ord0,"いいな 走りながら『しゃがみボタン』を押す！
+よく覚えておけ！","『ローリング』するには走りながら
+『しゃがみボタン』を押せ","しかもローリングは小さな溝や障害物を
+飛び越えることも出来る",,"要『翻滚』，就在奔跑时
+按『蹲伏键』",,MATCH,85,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,105,117,117,1,,page76:tag3:entity117:key00000000:ref117:ord0,では次にローリングの訓練だ,ローリング！,"どうした『アナログパッド』で走りながら
+『攻撃ボタン』を短く押すんだ！",,翻滚！,,MATCH,18,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,106,118,118,1,,page76:tag3:entity118:key00000000:ref118:ord0,ローリング！,"どうした『アナログパッド』で走りながら
+『攻撃ボタン』を短く押すんだ！","どうした『アナログパッド』で
+走りながら『しゃがみボタン』を押すんだ！",,"怎么了？用『摇杆』奔跑的同时
+短按『攻击键』！",,MATCH,103,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,107,119,119,1,,page76:tag3:entity119:key00000000:ref119:ord0,"どうした『アナログパッド』で走りながら
+『攻撃ボタン』を短く押すんだ！","どうした『アナログパッド』で
+走りながら『しゃがみボタン』を押すんだ！","ボス『アナログパッド』で走りながら
+『攻撃ボタン』を短く押して！",,"怎么了？用『摇杆』
+奔跑时按『蹲伏键』！",,MATCH,103,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,108,120,120,1,,page76:tag3:entity120:key00000000:ref120:ord0,"どうした『アナログパッド』で
+走りながら『しゃがみボタン』を押すんだ！","ボス『アナログパッド』で走りながら
+『攻撃ボタン』を短く押して！","ボス『アナログパッド』で走りながら
+『しゃがみボタン』を押して！",,"Boss，用『摇杆』奔跑的同时
+短按『攻击键』！",,MATCH,94,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,109,121,121,1,,page76:tag3:entity121:key00000000:ref121:ord0,"ボス『アナログパッド』で走りながら
+『攻撃ボタン』を短く押して！","ボス『アナログパッド』で走りながら
+『しゃがみボタン』を押して！","この攻撃が正確に決まれば
+どんな相手でも立っていられないだろう",,"Boss，用『摇杆』奔跑的同时
+按『蹲伏键』！",,MATCH,94,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,110,122,122,1,,page76:tag3:entity125:key00000003:ref122:ord0,"ボス『アナログパッド』で走りながら
+『しゃがみボタン』を押して！","この攻撃が正確に決まれば
+どんな相手でも立っていられないだろう",弾切れをおこした時などに 役に立つ,,"这一击要是打准了
+不管什么对手都站不起来",,MATCH,91,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,111,123,123,1,,page76:tag3:entity124:key00000002:ref123:ord0,"この攻撃が正確に決まれば
+どんな相手でも立っていられないだろう",弾切れをおこした時などに 役に立つ,とっさに敵に遭遇した時 武器を持っていない時,,弹药耗尽时也很有用,,MATCH,49,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,112,124,124,1,,page76:tag3:entity123:key00000001:ref124:ord0,弾切れをおこした時などに 役に立つ,とっさに敵に遭遇した時 武器を持っていない時,よし では打撃攻撃について説明する,,突然遇敌或手上没有武器时,,MATCH,64,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,113,125,125,1,,page76:tag3:entity122:key00000000:ref125:ord0,とっさに敵に遭遇した時 武器を持っていない時,よし では打撃攻撃について説明する,"では私の号令で『攻撃ボタン』を続けて押し
+相手を倒せ！",,好，接下来说明格斗攻击,,MATCH,49,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,114,126,126,1,,page76:tag3:entity127:key00000001:ref126:ord0,よし では打撃攻撃について説明する,"では私の号令で『攻撃ボタン』を続けて押し
+相手を倒せ！",打撃攻撃は移動せずに『攻撃ボタン』だ！,,"听我口令，连续按『攻击键』
+把对手打倒！",,MATCH,79,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,115,127,127,1,,page76:tag3:entity126:key00000000:ref127:ord0,"では私の号令で『攻撃ボタン』を続けて押し
+相手を倒せ！",打撃攻撃は移動せずに『攻撃ボタン』だ！,"では私の号令で『素手攻撃ボタン（□）』を続けて押し
+相手を倒せ！",,格斗攻击要站定不动，按『攻击键』！,,MATCH,57,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,116,128,128,1,,page76:tag3:entity129:key00000001:ref128:ord0,打撃攻撃は移動せずに『攻撃ボタン』だ！,"では私の号令で『素手攻撃ボタン（□）』を続けて押し
+相手を倒せ！",打撃攻撃は移動せずに『素手攻撃ボタン（□）』だ！,,"听我口令，连续按『格斗攻击键（□）』
+把对手打倒！",,MATCH,94,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,117,129,129,1,,page76:tag3:entity128:key00000000:ref129:ord0,"では私の号令で『素手攻撃ボタン（□）』を続けて押し
+相手を倒せ！",打撃攻撃は移動せずに『素手攻撃ボタン（□）』だ！,どうした 移動しないで『攻撃ボタン』だ！,,格斗攻击要站定不动，按『格斗攻击键（□）』！,,MATCH,72,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,118,130,130,1,,page76:tag3:entity130:key00000000:ref130:ord0,打撃攻撃は移動せずに『素手攻撃ボタン（□）』だ！,どうした 移動しないで『攻撃ボタン』だ！,どうした 移動しないで『素手攻撃ボタン（□）』だ！,,怎么了？别移动，按『攻击键』！,,MATCH,58,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,119,131,131,1,,page76:tag3:entity131:key00000000:ref131:ord0,どうした 移動しないで『攻撃ボタン』だ！,どうした 移動しないで『素手攻撃ボタン（□）』だ！,ボス 移動せずに『攻撃ボタン』です！,,怎么了？别移动，按『格斗攻击键（□）』！,,MATCH,73,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,120,132,132,1,,page76:tag3:entity132:key00000000:ref132:ord0,どうした 移動しないで『素手攻撃ボタン（□）』だ！,ボス 移動せずに『攻撃ボタン』です！,ボス 移動せずに『素手攻撃ボタン（□）』です！,,Boss，别移动，按『攻击键』！,,MATCH,52,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,121,133,133,1,,page76:tag3:entity133:key00000000:ref133:ord0,ボス 移動せずに『攻撃ボタン』です！,ボス 移動せずに『素手攻撃ボタン（□）』です！,接触した相手はたまらず気を失うだろう,,Boss，别移动，按『格斗攻击键（□）』！,,MATCH,67,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,122,134,134,1,,page76:tag3:entity136:key00000002:ref134:ord0,ボス 移動せずに『素手攻撃ボタン（□）』です！,接触した相手はたまらず気を失うだろう,"『スタンロッド』を突き出すと
+１５０万ボルトの電流が放出される",,被击中的对手会承受不住而昏厥,,MATCH,54,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,123,135,135,1,,page76:tag3:entity135:key00000001:ref135:ord0,接触した相手はたまらず気を失うだろう,"『スタンロッド』を突き出すと
+１５０万ボルトの電流が放出される",次に『スタンロッド』の訓練を行う,,"用『电击棒』刺中对手时
+会释放150万伏特的电流",,MATCH,91,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,124,136,136,1,,page76:tag3:entity134:key00000000:ref136:ord0,"『スタンロッド』を突き出すと
+１５０万ボルトの電流が放出される",次に『スタンロッド』の訓練を行う,では スタンロッド攻撃訓練用意！,,接下来进行『电击棒』训练,,MATCH,48,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,125,137,137;142,2,,page76:tag3:entity141:key00000004:ref137:ord0;page76:tag3:entity146:key00000004:ref142:ord0,次に『スタンロッド』の訓練を行う,では スタンロッド攻撃訓練用意！,"模擬ロッドで突かれた方は
+その効果を自己申告しろ",,好，准备开始电击棒攻击训练！,,MATCH,46,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,126,138,138;143,2,,page76:tag3:entity140:key00000003:ref138:ord0;page76:tag3:entity145:key00000003:ref143:ord0,では スタンロッド攻撃訓練用意！,"模擬ロッドで突かれた方は
+その効果を自己申告しろ",訓練には模擬ロッドを使用する,,"被模拟棒刺中的人
+自行报告受到的效果",,MATCH,70,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,127,139,139;144,2,,page76:tag3:entity139:key00000002:ref139:ord0;page76:tag3:entity144:key00000002:ref144:ord0,"模擬ロッドで突かれた方は
+その効果を自己申告しろ",訓練には模擬ロッドを使用する,"『スタンロッド』を構えながら
+『攻撃ボタン』を押せ",,训练中使用模拟电击棒,,MATCH,42,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,128,140,140,1,,page76:tag3:entity138:key00000001:ref140:ord0,訓練には模擬ロッドを使用する,"『スタンロッド』を構えながら
+『攻撃ボタン』を押せ","スタンロッドを使用するには
+『構えボタン』を押して",,"举起『电击棒』的同时
+按『攻击键』",,MATCH,73,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,129,141,141,1,,page76:tag3:entity137:key00000000:ref141:ord0,"『スタンロッド』を構えながら
+『攻撃ボタン』を押せ","スタンロッドを使用するには
+『構えボタン』を押して",では スタンロッド攻撃訓練用意！,,"要使用电击棒
+先按『瞄准键』",,MATCH,73,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,130,145,145,1,,page76:tag3:entity143:key00000001:ref145:ord0,訓練には模擬ロッドを使用する,続いて『武器攻撃ボタン（△）』を押せ,"スタンロッドを使用するには
+『構えボタン（△）』を押して『スタンロッド』を構え",,接着按『武器攻击键（△）』,,MATCH,54,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,131,146,146,1,,page76:tag3:entity142:key00000000:ref146:ord0,続いて『武器攻撃ボタン（△）』を押せ,"スタンロッドを使用するには
+『構えボタン（△）』を押して『スタンロッド』を構え",どうした『構えボタン』を押し続けるんだ！,,"要使用电击棒
+按『瞄准键（△）』举起『电击棒』",,MATCH,115,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,132,147,147,1,,page76:tag3:entity147:key00000000:ref147:ord0,"スタンロッドを使用するには
+『構えボタン（△）』を押して『スタンロッド』を構え",どうした『構えボタン』を押し続けるんだ！,どうした『構えボタン（△）』を押すんだ！,,怎么了？一直按住『瞄准键』！,,MATCH,60,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,133,148,148,1,,page76:tag3:entity148:key00000000:ref148:ord0,どうした『構えボタン』を押し続けるんだ！,どうした『構えボタン（△）』を押すんだ！,ボス『構えボタン』を押したままにしてください！,,怎么了？按『瞄准键（△）』！,,MATCH,60,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,134,149,149,1,,page76:tag3:entity149:key00000000:ref149:ord0,どうした『構えボタン（△）』を押すんだ！,ボス『構えボタン』を押したままにしてください！,ボス『構えボタン（△）』を押してください！,,Boss，请一直按住『瞄准键』！,,MATCH,69,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,135,150,150,1,,page76:tag3:entity150:key00000000:ref150:ord0,ボス『構えボタン』を押したままにしてください！,ボス『構えボタン（△）』を押してください！,突け！,,Boss，请按『瞄准键（△）』！,,MATCH,63,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,136,151,151,1,,page76:tag3:entity151:key00000000:ref151:ord0,ボス『構えボタン（△）』を押してください！,突け！,スタンロッド 突け！,,刺！,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,137,152,152,1,,page76:tag3:entity152:key00000000:ref152:ord0,突け！,スタンロッド 突け！,"どうした『構えボタン』を押しながら
+『攻撃ボタン』を押すんだ！",,用电击棒刺！,,MATCH,28,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,138,153,153,1,,page76:tag3:entity153:key00000000:ref153:ord0,スタンロッド 突け！,"どうした『構えボタン』を押しながら
+『攻撃ボタン』を押すんだ！","どうした『構えボタン（△）』を押してから
+『武器攻撃ボタン（△）』を押すんだ！",,"怎么了？按住『瞄准键』的同时
+按『攻击键』！",,MATCH,91,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,139,154,154,1,,page76:tag3:entity154:key00000000:ref154:ord0,"どうした『構えボタン』を押しながら
+『攻撃ボタン』を押すんだ！","どうした『構えボタン（△）』を押してから
+『武器攻撃ボタン（△）』を押すんだ！","ボス『構えボタン』を押しながら
+『攻撃ボタン』を押してください！",,"怎么了？先按『瞄准键（△）』
+再按『武器攻击键（△）』！",,MATCH,115,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,140,155,155,1,,page76:tag3:entity155:key00000000:ref155:ord0,"どうした『構えボタン（△）』を押してから
+『武器攻撃ボタン（△）』を押すんだ！","ボス『構えボタン』を押しながら
+『攻撃ボタン』を押してください！","ボス『構えボタン（△）』を押してから
+『武器攻撃ボタン（△）』を押してください！",,"Boss，请按住『瞄准键』的同时
+按『攻击键』！",,MATCH,94,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,141,156,156,1,,page76:tag3:entity156:key00000000:ref156:ord0,"ボス『構えボタン』を押しながら
+『攻撃ボタン』を押してください！","ボス『構えボタン（△）』を押してから
+『武器攻撃ボタン（△）』を押してください！",相手を掴んですぐ投げる方法だ,,"Boss，请先按『瞄准键（△）』
+再按『武器攻击键（△）』！",,MATCH,118,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,142,157,157,1,,page76:tag3:entity164:key00000007:ref157:ord0,"ボス『構えボタン（△）』を押してから
+『武器攻撃ボタン（△）』を押してください！",相手を掴んですぐ投げる方法だ,まずは…,,这是抓住对手后立即摔投的方法,,MATCH,42,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,143,158,158,1,,page76:tag3:entity163:key00000006:ref158:ord0,相手を掴んですぐ投げる方法だ,まずは…,初心に帰ったつもりで取り組んでくれ,,首先……,,MATCH,12,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,144,159,159,1,,page76:tag3:entity162:key00000005:ref159:ord0,まずは…,初心に帰ったつもりで取り組んでくれ,"慣れているからといって甘く見るな
+これまでとは勝手が違うだろう",,就当自己回到初学者状态，认真练习,,MATCH,51,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,145,160,160,1,,page76:tag3:entity161:key00000004:ref160:ord0,初心に帰ったつもりで取り組んでくれ,"慣れているからといって甘く見るな
+これまでとは勝手が違うだろう","CQCには様々な種類がある
+それをひとつずつ体得してもらう",,"别因为熟悉就掉以轻心
+操作方式和以前不一样",,MATCH,91,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,146,161,161,1,,page76:tag3:entity160:key00000003:ref161:ord0,"慣れているからといって甘く見るな
+これまでとは勝手が違うだろう","CQCには様々な種類がある
+それをひとつずつ体得してもらう",目前の敵を手際よく排除するのに有効だ,,"CQC有多种技巧
+你要逐一掌握",,MATCH,79,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,147,162,162,1,,page76:tag3:entity159:key00000002:ref162:ord0,"CQCには様々な種類がある
+それをひとつずつ体得してもらう",目前の敵を手際よく排除するのに有効だ,"CQC…クロース・クォーターズ・コンバットとは
+近接戦闘術のことを指す",,很适合迅速解决眼前的敌人,,MATCH,54,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,148,163,163,1,,page76:tag3:entity158:key00000001:ref163:ord0,目前の敵を手際よく排除するのに有効だ,"CQC…クロース・クォーターズ・コンバットとは
+近接戦闘術のことを指す",ではCQCの訓練に移る,,"CQC……Close Quarters Combat
+指的就是近身格斗术",,MATCH,97,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,149,164,164,1,,page76:tag3:entity157:key00000000:ref164:ord0,"CQC…クロース・クォーターズ・コンバットとは
+近接戦闘術のことを指す",ではCQCの訓練に移る,では私の号令で相手を投げてみろ,,那么，开始CQC训练,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,150,165,165;169,2,,page76:tag3:entity168:key00000003:ref165:ord0;page76:tag3:entity172:key00000003:ref169:ord0,ではCQCの訓練に移る,では私の号令で相手を投げてみろ,『アイコン』が出ているタイミングを狙うんだ,,听我口令，把对手摔出去,,MATCH,45,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,151,166,166,1,,page76:tag3:entity167:key00000002:ref166:ord0,では私の号令で相手を投げてみろ,『アイコン』が出ているタイミングを狙うんだ,"相手の近くで『アナログパッド』を入力しながら
+『攻撃ボタン』だ",,抓准『图标』出现的时机,,MATCH,63,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,152,167,167,1,,page76:tag3:entity166:key00000001:ref167:ord0,『アイコン』が出ているタイミングを狙うんだ,"相手の近くで『アナログパッド』を入力しながら
+『攻撃ボタン』だ",掴んですぐ投げるには,,"靠近对手时推动『摇杆』
+同时按『攻击键』",,MATCH,91,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,153,168,168;172,2,,page76:tag3:entity165:key00000000:ref168:ord0;page76:tag3:entity169:key00000000:ref172:ord0,"相手の近くで『アナログパッド』を入力しながら
+『攻撃ボタン』だ",掴んですぐ投げるには,では私の号令で相手を投げてみろ,,要抓住后立即摔投,,MATCH,30,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,154,170,170,1,,page76:tag3:entity171:key00000002:ref170:ord0,では私の号令で相手を投げてみろ,"『アイコン』が出ている
+タイミングを狙うんだ","相手の近くで『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』だ",,"抓准『图标』
+出现的时机",,MATCH,64,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,155,171,171,1,,page76:tag3:entity170:key00000001:ref171:ord0,"『アイコン』が出ている
+タイミングを狙うんだ","相手の近くで『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』だ",掴んですぐ投げるには,,"靠近对手时推动『摇杆』
+同时按『格斗攻击键（□）』",,MATCH,106,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,156,173,173;201,2,,page76:tag3:entity173:key00000000:ref173:ord0;page76:tag3:entity201:key00000000:ref201:ord0,掴んですぐ投げるには,投げ！,"どうした『アナログパッド』を入力しながら
+『攻撃ボタン』を押すんだ！",,摔！,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,157,174,174,1,,page76:tag3:entity174:key00000000:ref174:ord0,投げ！,"どうした『アナログパッド』を入力しながら
+『攻撃ボタン』を押すんだ！","どうした『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』を押すんだ！",,"怎么了？推动『摇杆』的同时
+按『攻击键』！",,MATCH,100,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,158,175,175,1,,page76:tag3:entity175:key00000000:ref175:ord0,"どうした『アナログパッド』を入力しながら
+『攻撃ボタン』を押すんだ！","どうした『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』を押すんだ！",『アイコン』が出ているタイミングを狙え！,,"怎么了？推动『摇杆』的同时
+按『格斗攻击键（□）』！",,MATCH,115,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,159,176,176,1,,page76:tag3:entity176:key00000000:ref176:ord0,"どうした『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』を押すんだ！",『アイコン』が出ているタイミングを狙え！,"ボス『アナログパッド』を入力しながら
+『攻撃ボタン』を押してください！",,抓准『图标』出现的时机！,,MATCH,60,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,160,177,177,1,,page76:tag3:entity177:key00000000:ref177:ord0,『アイコン』が出ているタイミングを狙え！,"ボス『アナログパッド』を入力しながら
+『攻撃ボタン』を押してください！","ボス『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』を押してください！",,"Boss，请推动『摇杆』的同时
+按『攻击键』！",,MATCH,103,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,161,178,178,1,,page76:tag3:entity178:key00000000:ref178:ord0,"ボス『アナログパッド』を入力しながら
+『攻撃ボタン』を押してください！","ボス『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』を押してください！",『アイコン』が出ている時です！,,"Boss，请推动『摇杆』的同时
+按『格斗攻击键（□）』！",,MATCH,118,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,162,179,179,1,,page76:tag3:entity179:key00000000:ref179:ord0,"ボス『アナログパッド』を入力しながら
+『素手攻撃ボタン（□）』を押してください！",『アイコン』が出ている時です！,そこからどうするもお前の自由だ,,就是『图标』出现的时候！,,MATCH,45,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,163,180,180,1,,page76:tag3:entity183:key00000003:ref180:ord0,『アイコン』が出ている時です！,そこからどうするもお前の自由だ,"相手を拘束すると
+そいつの運命はお前の手に落ちる",,接下来怎么做由你自己决定,,MATCH,45,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,164,181,181,1,,page76:tag3:entity182:key00000002:ref181:ord0,そこからどうするもお前の自由だ,"相手を拘束すると
+そいつの運命はお前の手に落ちる",これはCQCの基礎だ,,"一旦制伏对手
+他的命运就掌握在你手里",,MATCH,70,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,165,182,182,1,,page76:tag3:entity181:key00000001:ref182:ord0,"相手を拘束すると
+そいつの運命はお前の手に落ちる",これはCQCの基礎だ,次に 近くの相手を拘束する方法を教える,,这是CQC的基础,,MATCH,24,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,166,183,183,1,,page76:tag3:entity180:key00000000:ref183:ord0,これはCQCの基礎だ,次に 近くの相手を拘束する方法を教える,気をつけてくれ,,接下来教你如何制伏近身的对手,,MATCH,55,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,167,184,184,1,,page76:tag3:entity186:key00000002:ref184:ord0,次に 近くの相手を拘束する方法を教える,気をつけてくれ,"長時間拘束していると
+大概の相手は気絶してしまうだろう",,注意,,MATCH,21,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,168,185,185,1,,page76:tag3:entity185:key00000001:ref185:ord0,気をつけてくれ,"長時間拘束していると
+大概の相手は気絶してしまうだろう",ただし,,"长时间制伏对手的话
+一般人多半会昏过去",,MATCH,79,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,169,186,186,1,,page76:tag3:entity184:key00000000:ref186:ord0,"長時間拘束していると
+大概の相手は気絶してしまうだろう",ただし,大概の相手は気絶してしまうだろう,,不过,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,170,187,187,1,,page76:tag3:entity188:key00000001:ref187:ord0,ただし,大概の相手は気絶してしまうだろう,"拘束している時 再度『攻撃ボタン』を押すと
+頸部を更に圧迫することが出来る",,一般人多半会昏过去,,MATCH,48,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,171,188,188,1,,page76:tag3:entity187:key00000000:ref188:ord0,大概の相手は気絶してしまうだろう,"拘束している時 再度『攻撃ボタン』を押すと
+頸部を更に圧迫することが出来る",では始めよう,,"制伏对手时再次按『攻击键』
+可以进一步压迫其颈部",,MATCH,107,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,172,189,189,1,,page76:tag3:entity189:key00000000:ref189:ord0,"拘束している時 再度『攻撃ボタン』を押すと
+頸部を更に圧迫することが出来る",では始めよう,私の号令に合わせて相手を拘束しろ,,那么开始吧,,MATCH,18,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,173,190,190;192,2,,page76:tag3:entity191:key00000001:ref190:ord0;page76:tag3:entity193:key00000001:ref192:ord0,では始めよう,私の号令に合わせて相手を拘束しろ,"相手を拘束するには
+相手の近くで『攻撃ボタン』を長く押す",,听我口令，制伏对手,,MATCH,48,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,174,191,191,1,,page76:tag3:entity190:key00000000:ref191:ord0,私の号令に合わせて相手を拘束しろ,"相手を拘束するには
+相手の近くで『攻撃ボタン』を長く押す",私の号令に合わせて相手を拘束しろ,,"要制伏对手
+靠近对手时长按『攻击键』",,MATCH,82,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,175,193,193,1,,page76:tag3:entity192:key00000000:ref193:ord0,私の号令に合わせて相手を拘束しろ,"相手を拘束するには
+相手の近くで『素手攻撃ボタン（□）』を長く押す",どうした 相手の近くで『攻撃ボタン』を押せ！,,"要制伏对手
+靠近对手时长按『格斗攻击键（□）』",,MATCH,97,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,176,194,194,1,,page76:tag3:entity194:key00000000:ref194:ord0,"相手を拘束するには
+相手の近くで『素手攻撃ボタン（□）』を長く押す",どうした 相手の近くで『攻撃ボタン』を押せ！,どうした 相手の近くで『素手攻撃ボタン（□）』を押せ！,,怎么了？靠近对手按『攻击键』！,,MATCH,64,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,177,195,195,1,,page76:tag3:entity195:key00000000:ref195:ord0,どうした 相手の近くで『攻撃ボタン』を押せ！,どうした 相手の近くで『素手攻撃ボタン（□）』を押せ！,ボス 相手のそばで『攻撃ボタン』を押してみては！？,,怎么了？靠近对手按『格斗攻击键（□）』！,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,178,196,196,1,,page76:tag3:entity196:key00000000:ref196:ord0,どうした 相手の近くで『素手攻撃ボタン（□）』を押せ！,ボス 相手のそばで『攻撃ボタン』を押してみては！？,ボス 相手のそばで『素手攻撃ボタン（□）』を押してみては！？,,Boss，试着在对手旁边按『攻击键』啊！？,,MATCH,73,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,179,197,197,1,,page76:tag3:entity197:key00000000:ref197:ord0,ボス 相手のそばで『攻撃ボタン』を押してみては！？,ボス 相手のそばで『素手攻撃ボタン（□）』を押してみては！？,では次に 拘束した相手を投げる,,Boss，试着在对手旁边按『格斗攻击键（□）』啊！？,,MATCH,88,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,180,198,198,1,,page76:tag3:entity198:key00000000:ref198:ord0,ボス 相手のそばで『素手攻撃ボタン（□）』を押してみては！？,では次に 拘束した相手を投げる,"拘束した相手を投げ飛ばすには
+拘束中に『アナログパッド』を入力するんだ",,接下来，把制伏的对手摔出去,,MATCH,43,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,181,199,199,1,,page76:tag3:entity199:key00000000:ref199:ord0,では次に 拘束した相手を投げる,"拘束した相手を投げ飛ばすには
+拘束中に『アナログパッド』を入力するんだ",私の号令に合わせ 相手を拘束 投げ飛ばせ,,"要把制伏的对手摔出去
+制伏时推动『摇杆』",,MATCH,103,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,182,200,200,1,,page76:tag3:entity200:key00000000:ref200:ord0,"拘束した相手を投げ飛ばすには
+拘束中に『アナログパッド』を入力するんだ",私の号令に合わせ 相手を拘束 投げ飛ばせ,投げ！,,听我口令，制伏对手后把他摔出去,,MATCH,56,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,183,202,202,1,,page76:tag3:entity203:key00000001:ref202:ord0,投げ！,"次は拘束した相手から情報を聞き出す
+『尋問』の方法を教える","さて 拘束した相手によっては
+有効な情報を持っている者もいるだろう",,"接下来教你如何从制伏的对手口中套取情报
+也就是『审问』",,MATCH,85,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,184,203,203,1,,page76:tag3:entity202:key00000000:ref203:ord0,"次は拘束した相手から情報を聞き出す
+『尋問』の方法を教える","さて 拘束した相手によっては
+有効な情報を持っている者もいるだろう",では私の号令に合わせ 相手を拘束 尋問するんだ,,"有些被制伏的敌人
+可能掌握着有用情报",,MATCH,95,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,185,204,204;206,2,,page76:tag3:entity205:key00000001:ref204:ord0;page76:tag3:entity207:key00000001:ref206:ord0,"さて 拘束した相手によっては
+有効な情報を持っている者もいるだろう",では私の号令に合わせ 相手を拘束 尋問するんだ,"尋問するには『攻撃ボタン』で相手を拘束
+その状態で『アクションボタン』を押せ",,听我口令，制伏并审问对手,,MATCH,65,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,186,205,205,1,,page76:tag3:entity204:key00000000:ref205:ord0,では私の号令に合わせ 相手を拘束 尋問するんだ,"尋問するには『攻撃ボタン』で相手を拘束
+その状態で『アクションボタン』を押せ",では私の号令に合わせ 相手を拘束 尋問するんだ,,"要审问，就用『攻击键』制伏对手
+然后按『动作键』",,MATCH,112,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,187,207,207,1,,page76:tag3:entity206:key00000000:ref207:ord0,では私の号令に合わせ 相手を拘束 尋問するんだ,"尋問するには『素手攻撃ボタン（□）』で相手を拘束
+その状態で『Rボタン』を押せ",拘束！,,"要审问，就用『格斗攻击键（□）』制伏对手
+然后按『R键』",,MATCH,113,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,188,208,208,1,,page76:tag3:entity208:key00000000:ref208:ord0,"尋問するには『素手攻撃ボタン（□）』で相手を拘束
+その状態で『Rボタン』を押せ",拘束！,尋問！,,制伏！,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,189,209,209,1,,page76:tag3:entity209:key00000000:ref209:ord0,拘束！,尋問！,どうした『アクションボタン』を押すんだ！,,审问！,,MATCH,9,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,190,210,210,1,,page76:tag3:entity210:key00000000:ref210:ord0,尋問！,どうした『アクションボタン』を押すんだ！,どうした『Rボタン』を押すんだ！,,怎么了？按『动作键』！,,MATCH,60,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,191,211,211,1,,page76:tag3:entity211:key00000000:ref211:ord0,どうした『アクションボタン』を押すんだ！,どうした『Rボタン』を押すんだ！,ボス『アクションボタン』を押すんです！,,怎么了？按『R键』！,,MATCH,46,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,192,212,212,1,,page76:tag3:entity212:key00000000:ref212:ord0,どうした『Rボタン』を押すんだ！,ボス『アクションボタン』を押すんです！,ボス『Rボタン』を押すんです！,,Boss，要按『动作键』！,,MATCH,57,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,193,213,213,1,,page76:tag3:entity213:key00000000:ref213:ord0,ボス『アクションボタン』を押すんです！,ボス『Rボタン』を押すんです！,では複数の敵を相手にしたCQCに移る,,Boss，要按『R键』！,,MATCH,43,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,194,214,214,1,,page76:tag3:entity214:key00000000:ref214:ord0,ボス『Rボタン』を押すんです！,では複数の敵を相手にしたCQCに移る,一人 前に出ろ,,接下来进行对付多名敌人的CQC训练,,MATCH,48,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,195,215,215,1,,page76:tag3:entity215:key00000000:ref215:ord0,では複数の敵を相手にしたCQCに移る,一人 前に出ろ,では私の号令に合わせて相手を投げてみろ,,一个人，上前！,,MATCH,19,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,196,216,216,1,,page76:tag3:entity217:key00000001:ref216:ord0,一人 前に出ろ,では私の号令に合わせて相手を投げてみろ,"『アイコン』が出ているタイミングを
+狙うんだ",,听我口令，把对手摔出去,,MATCH,57,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,197,217,217,1,,page76:tag3:entity216:key00000000:ref217:ord0,では私の号令に合わせて相手を投げてみろ,"『アイコン』が出ているタイミングを
+狙うんだ",一度に多くの敵を片づけることが出来る,,"抓准『图标』出现的
+时机",,MATCH,64,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,198,218,218,1,,page76:tag3:entity219:key00000001:ref218:ord0,"『アイコン』が出ているタイミングを
+狙うんだ",一度に多くの敵を片づけることが出来る,CQCで拘束した相手を 他の敵にぶつけると,,可以一次解决多个敌人,,MATCH,54,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,199,219,219,1,,page76:tag3:entity218:key00000000:ref219:ord0,一度に多くの敵を片づけることが出来る,CQCで拘束した相手を 他の敵にぶつけると,"では号令に合わせ 相手を拘束
+投げ飛ばすんだ",,用CQC制伏对手后，把他撞向其他敌人,,MATCH,55,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,200,220,220;225,2,,page76:tag3:entity224:key00000004:ref220:ord0;page76:tag3:entity229:key00000004:ref225:ord0,CQCで拘束した相手を 他の敵にぶつけると,"では号令に合わせ 相手を拘束
+投げ飛ばすんだ",その方向に相手を投げ飛ばすことが出来る,,"听我口令，制伏对手
+把他摔出去",,MATCH,62,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,201,221,221;226,2,,page76:tag3:entity223:key00000003:ref221:ord0;page76:tag3:entity228:key00000003:ref226:ord0,"では号令に合わせ 相手を拘束
+投げ飛ばすんだ",その方向に相手を投げ飛ばすことが出来る,"この時 他の敵に向けて
+『アナログパッド』を入力すると",,就能把对手朝那个方向摔出去,,MATCH,57,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,202,222,222,1,,page76:tag3:entity222:key00000002:ref222:ord0,その方向に相手を投げ飛ばすことが出来る,"この時 他の敵に向けて
+『アナログパッド』を入力すると","拘束中に『アナログパッド』を入力して
+相手を投げ飛ばす",,"这时朝其他敌人的方向
+推动『摇杆』",,MATCH,77,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,203,223,223;228,2,,page76:tag3:entity221:key00000001:ref223:ord0;page76:tag3:entity226:key00000001:ref228:ord0,"この時 他の敵に向けて
+『アナログパッド』を入力すると","拘束中に『アナログパッド』を入力して
+相手を投げ飛ばす",相手の近くで『攻撃ボタン』を押して相手を拘束,,"制伏时推动『摇杆』
+把对手摔出去",,MATCH,79,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,204,224,224,1,,page76:tag3:entity220:key00000000:ref224:ord0,"拘束中に『アナログパッド』を入力して
+相手を投げ飛ばす",相手の近くで『攻撃ボタン』を押して相手を拘束,"では号令に合わせ 相手を拘束
+投げ飛ばすんだ",,靠近对手按『攻击键』将其制伏,,MATCH,66,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,205,227,227,1,,page76:tag3:entity227:key00000002:ref227:ord0,その方向に相手を投げ飛ばすことが出来る,"この時　他の敵に向けて
+『アナログパッド』を入力すると","拘束中に『アナログパッド』を入力して
+相手を投げ飛ばす",,"这时　朝其他敌人的方向
+推动『摇杆』",,MATCH,79,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,206,229,229,1,,page76:tag3:entity225:key00000000:ref229:ord0,"拘束中に『アナログパッド』を入力して
+相手を投げ飛ばす",相手の近くで『素手攻撃ボタン（□）』を押して相手を拘束,"どうした
+拘束中に『アナログパッド』を動かしてみろ！",,靠近对手按『格斗攻击键（□）』将其制伏,,MATCH,81,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,207,230,230,1,,page76:tag3:entity230:key00000000:ref230:ord0,相手の近くで『素手攻撃ボタン（□）』を押して相手を拘束,"どうした
+拘束中に『アナログパッド』を動かしてみろ！",ボス 拘束中に『アナログパッド』を動かすんです！,,"怎么了？
+制伏时动一下『摇杆』！",,MATCH,76,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,208,231,231,1,,page76:tag3:entity231:key00000000:ref231:ord0,"どうした
+拘束中に『アナログパッド』を動かしてみろ！",ボス 拘束中に『アナログパッド』を動かすんです！,ボス 本気でお願いします,,Boss，制伏时要推动『摇杆』！,,MATCH,70,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,209,232,232,1,,page76:tag3:entity235:key00000003:ref232:ord0,ボス 拘束中に『アナログパッド』を動かすんです！,ボス 本気でお願いします,根性を叩き直してもらいたい奴は前に出ろ,,Boss，请认真一点,,MATCH,34,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,210,233,233,1,,page76:tag3:entity234:key00000002:ref233:ord0,ボス 本気でお願いします,根性を叩き直してもらいたい奴は前に出ろ,今日はボスが参加して下さっている,,想让Boss好好教训一番的，站出来！,,MATCH,57,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,211,234,234,1,,page76:tag3:entity233:key00000001:ref234:ord0,根性を叩き直してもらいたい奴は前に出ろ,今日はボスが参加して下さっている,よし,,今天Boss亲自参加训练,,MATCH,48,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,212,235,235,1,,page76:tag3:entity232:key00000000:ref235:ord0,今日はボスが参加して下さっている,よし,『アイコン』が出ているタイミングを狙え,,好,,MATCH,6,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,213,236,236;239,2,,page76:tag3:entity238:key00000002:ref236:ord0;page76:tag3:entity241:key00000002:ref239:ord0,よし,『アイコン』が出ているタイミングを狙え,相手を投げ飛ばす時 更に『攻撃ボタン』を押すんだ,,抓准『图标』出现的时机,,MATCH,57,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,214,237,237,1,,page76:tag3:entity237:key00000001:ref237:ord0,『アイコン』が出ているタイミングを狙え,相手を投げ飛ばす時 更に『攻撃ボタン』を押すんだ,"複数の相手がそばにいるときは
+次々と他の敵を相手にしなければならない",,把对手摔出去时，再按一次『攻击键』,,MATCH,70,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,215,238,238;241,2,,page76:tag3:entity236:key00000000:ref238:ord0;page76:tag3:entity239:key00000000:ref241:ord0,相手を投げ飛ばす時 更に『攻撃ボタン』を押すんだ,"複数の相手がそばにいるときは
+次々と他の敵を相手にしなければならない",『アイコン』が出ているタイミングを狙え,,"身边有多个敌人时
+必须接连对付其他敌人",,MATCH,100,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D420130,216,240,240,1,,page76:tag3:entity240:key00000001:ref240:ord0,『アイコン』が出ているタイミングを狙え,相手を投げ飛ばす時 更に『素手攻撃ボタン（□）』を押すんだ,"複数の相手がそばにいるときは
+次々と他の敵を相手にしなければならない",,把对手摔出去时，再按一次『格斗攻击键（□）』,,MATCH,85,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,217,242,242,1,,page76:tag3:entity242:key00000000:ref242:ord0,"複数の相手がそばにいるときは
+次々と他の敵を相手にしなければならない",『アイコン』が出ている時に『攻撃ボタン』を押せ！,『アイコン』が出ている時に『素手攻撃ボタン（□）』を押せ！,,『图标』出现时按『攻击键』！,,MATCH,72,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,218,243,243,1,,page76:tag3:entity243:key00000000:ref243:ord0,『アイコン』が出ている時に『攻撃ボタン』を押せ！,『アイコン』が出ている時に『素手攻撃ボタン（□）』を押せ！,"ボス『アイコン』が出ている時に
+『攻撃ボタン』を押すんです！",,『图标』出现时按『格斗攻击键（□）』！,,MATCH,87,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,219,244,244,1,,page76:tag3:entity244:key00000000:ref244:ord0,『アイコン』が出ている時に『素手攻撃ボタン（□）』を押せ！,"ボス『アイコン』が出ている時に
+『攻撃ボタン』を押すんです！","ボス『アイコン』が出ている時に
+『素手攻撃ボタン（□）』を押すんです！",,"Boss，『图标』出现时
+按『攻击键』！",,MATCH,88,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,220,245,245,1,,page76:tag3:entity245:key00000000:ref245:ord0,"ボス『アイコン』が出ている時に
+『攻撃ボタン』を押すんです！","ボス『アイコン』が出ている時に
+『素手攻撃ボタン（□）』を押すんです！",止めえ！,,"Boss，『图标』出现时
+按『格斗攻击键（□）』！",,MATCH,103,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,221,246,246,1,,page76:tag3:entity246:key00000000:ref246:ord0,"ボス『アイコン』が出ている時に
+『素手攻撃ボタン（□）』を押すんです！",止めえ！,今日はここまでだ,,停！,,MATCH,12,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,222,247,247,1,,page76:tag3:entity247:key00000000:ref247:ord0,止めえ！,今日はここまでだ,ボス ありがとうございました,,今天就到这里,,MATCH,24,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D420130,223,249,249,1,,page76:tag3:entity249:key00000000:ref249:ord0,ボス ありがとうございました,全員 ボスに敬礼！,,,全员向Boss敬礼！,,MATCH,25,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1

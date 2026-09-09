@@ -1,0 +1,697 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+5D904CFF,0,0,0;1;2;3;4;5;6;7;8;9;11;12;13;14;15;16;24;25;26;27;28;35;36;37;38;39;52;54;55;56;57;123;124;136;137;138;140;143;144;145;146;147;148;149;150;151;152;154;155;156;157;158;159;160;161;162;163;165;166;167;168;169;170;171;173;174;177;179;180;190;191;192;193;194;195;196;197;199;202;203;205;206;207;210;211;221;227;228;229;230;232;233;234;235;236;237;238;239;240;241;243;244;245;246;247;248;249;250;251;252;254;255;256;257;258;259;260;261;262;263;265;266;267;268;269;270;271;272;273;274;276;277;278;279;280;281;282;283;284;285;288;289;290;291;292;293;294;295;296;297;299;300;301;302;303;304;305;306;307;308;310;311;312;313;314;315;316;317;318;319;321;322;323;324;325;326;327;328;329;330;332;333;334;335;336;337;338;339;340;341;343;344;345;346;347;348;349;350;351;352;354;355;356;357;358;359;360;361;362;363;365;366;367;368;369;370;371;372;373;374;376;377;378;379;380;381;382;383;384;385;387;388;389;390;391;392;393;394;395;396;399;400;401;402;403;404;405;406;407;410;411;412;413;414;415;416;417;418;419;421;422;423;424;428;429;430;432;433;434;435;436;437;438;439;440;441;443;444;445;446;447;448;449;450;451;452;454;455;456;457;458;459;460;461;462;463;465;466;467;468;469;470;471;472;473;474;476;477;478;479;480;481;482;483;484;485;487;488;489;490;491;492;493;494;495;496;498;499;500;501;502;503;504;505;506;507;563;565;566;567;636;637;638;639;640;641;643;644;645;646;647;648;649;650;651;652;654;655;656;657;658;659;660;661;662;663;665;666;667;668;669;670;671;672;673;674;676;677;678;679;680;681;682;683;684;685;688;689;690;691;692;693;694;695;696;697;699;700;701;702;703;704;705;706;707;708;710;711;712;713;714;715;716;717;718;719;721;722;723;724;725;726;727;728;729;730;732;733;734;735;736;737;738;739;740;741;743;744;745;746;747;748;749;750;751;752;754;755;756;757;758;759;760;761;762;763;765;766;767;768;769;770;771;772;773;774;776;777;778;779;780;781;782;783;784;785;787;788;789;790;791;792;793;794;795;796;799;800;801;802;803;804;805;806;807;808;810;811;812;813;814;815;816;817;818;819;821;822;823;824;825;826;827;828;829;830;832;833;834;835;836;837;838;839;840;841;843;844;845;846;847;848;849;850;851;852;854;855;856;857;858;859;860;861;862;863;865;866;867;868;876,551,,page22:tag4:entity99:key00000063:ref0:ord0;page22:tag4:entity98:key00000062:ref1:ord0;page22:tag4:entity97:key00000061:ref2:ord0;page22:tag4:entity96:key00000060:ref3:ord0;page22:tag4:entity95:key0000005F:ref4:ord0;page22:tag4:entity94:key0000005E:ref5:ord0;page22:tag4:entity93:key0000005D:ref6:ord0;page22:tag4:entity92:key0000005C:ref7:ord0;page22:tag4:entity91:key0000005B:ref8:ord0;page22:tag4:entity90:key0000005A:ref9:ord0;page22:tag4:entity89:key00000059:ref11:ord0;page22:tag4:entity88:key00000058:ref12:ord0;page22:tag4:entity87:key00000057:ref13:ord0;page22:tag4:entity86:key00000056:ref14:ord0;page22:tag4:entity85:key00000055:ref15:ord0;page22:tag4:entity84:key00000054:ref16:ord0;page22:tag4:entity77:key0000004D:ref24:ord0;page22:tag4:entity76:key0000004C:ref25:ord0;page22:tag4:entity75:key0000004B:ref26:ord0;page22:tag4:entity74:key0000004A:ref27:ord0;page22:tag4:entity73:key00000049:ref28:ord0;page22:tag4:entity67:key00000043:ref35:ord0;page22:tag4:entity66:key00000042:ref36:ord0;page22:tag4:entity65:key00000041:ref37:ord0;page22:tag4:entity64:key00000040:ref38:ord0;page22:tag4:entity63:key0000003F:ref39:ord0;page22:tag4:entity510:key000001FE:ref52:ord0;page22:tag4:entity509:key000001FD:ref54:ord0;page22:tag4:entity508:key000001FC:ref55:ord0;page22:tag4:entity507:key000001FB:ref56:ord0;page22:tag4:entity506:key000001FA:ref57:ord0;page22:tag4:entity447:key000001BF:ref123:ord0;page22:tag4:entity446:key000001BE:ref124:ord0;page22:tag4:entity435:key000001B3:ref136:ord0;page22:tag4:entity434:key000001B2:ref137:ord0;page22:tag4:entity433:key000001B1:ref138:ord0;page22:tag4:entity431:key000001AF:ref140:ord0;page22:tag4:entity429:key000001AD:ref143:ord0;page22:tag4:entity428:key000001AC:ref144:ord0;page22:tag4:entity427:key000001AB:ref145:ord0;page22:tag4:entity426:key000001AA:ref146:ord0;page22:tag4:entity425:key000001A9:ref147:ord0;page22:tag4:entity424:key000001A8:ref148:ord0;page22:tag4:entity423:key000001A7:ref149:ord0;page22:tag4:entity422:key000001A6:ref150:ord0;page22:tag4:entity421:key000001A5:ref151:ord0;page22:tag4:entity420:key000001A4:ref152:ord0;page22:tag4:entity419:key000001A3:ref154:ord0;page22:tag4:entity418:key000001A2:ref155:ord0;page22:tag4:entity417:key000001A1:ref156:ord0;page22:tag4:entity416:key000001A0:ref157:ord0;page22:tag4:entity415:key0000019F:ref158:ord0;page22:tag4:entity414:key0000019E:ref159:ord0;page22:tag4:entity413:key0000019D:ref160:ord0;page22:tag4:entity412:key0000019C:ref161:ord0;page22:tag4:entity411:key0000019B:ref162:ord0;page22:tag4:entity410:key0000019A:ref163:ord0;page22:tag4:entity409:key00000199:ref165:ord0;page22:tag4:entity408:key00000198:ref166:ord0;page22:tag4:entity407:key00000197:ref167:ord0;page22:tag4:entity406:key00000196:ref168:ord0;page22:tag4:entity405:key00000195:ref169:ord0;page22:tag4:entity404:key00000194:ref170:ord0;page22:tag4:entity403:key00000193:ref171:ord0;page22:tag4:entity401:key00000191:ref173:ord0;page22:tag4:entity400:key00000190:ref174:ord0;page22:tag4:entity399:key0000018F:ref177:ord0;page22:tag4:entity397:key0000018D:ref179:ord0;page22:tag4:entity396:key0000018C:ref180:ord0;page22:tag4:entity387:key00000183:ref190:ord0;page22:tag4:entity386:key00000182:ref191:ord0;page22:tag4:entity385:key00000181:ref192:ord0;page22:tag4:entity384:key00000180:ref193:ord0;page22:tag4:entity383:key0000017F:ref194:ord0;page22:tag4:entity382:key0000017E:ref195:ord0;page22:tag4:entity381:key0000017D:ref196:ord0;page22:tag4:entity380:key0000017C:ref197:ord0;page22:tag4:entity379:key0000017B:ref199:ord0;page22:tag4:entity376:key00000178:ref202:ord0;page22:tag4:entity375:key00000177:ref203:ord0;page22:tag4:entity373:key00000175:ref205:ord0;page22:tag4:entity372:key00000174:ref206:ord0;page22:tag4:entity371:key00000173:ref207:ord0;page22:tag4:entity369:key00000171:ref210:ord0;page22:tag4:entity368:key00000170:ref211:ord0;page22:tag4:entity359:key00000167:ref221:ord0;page22:tag4:entity353:key00000161:ref227:ord0;page22:tag4:entity352:key00000160:ref228:ord0;page22:tag4:entity351:key0000015F:ref229:ord0;page22:tag4:entity350:key0000015E:ref230:ord0;page22:tag4:entity349:key0000015D:ref232:ord0;page22:tag4:entity348:key0000015C:ref233:ord0;page22:tag4:entity347:key0000015B:ref234:ord0;page22:tag4:entity346:key0000015A:ref235:ord0;page22:tag4:entity345:key00000159:ref236:ord0;page22:tag4:entity344:key00000158:ref237:ord0;page22:tag4:entity343:key00000157:ref238:ord0;page22:tag4:entity342:key00000156:ref239:ord0;page22:tag4:entity341:key00000155:ref240:ord0;page22:tag4:entity340:key00000154:ref241:ord0;page22:tag4:entity339:key00000153:ref243:ord0;page22:tag4:entity338:key00000152:ref244:ord0;page22:tag4:entity337:key00000151:ref245:ord0;page22:tag4:entity336:key00000150:ref246:ord0;page22:tag4:entity335:key0000014F:ref247:ord0;page22:tag4:entity334:key0000014E:ref248:ord0;page22:tag4:entity333:key0000014D:ref249:ord0;page22:tag4:entity332:key0000014C:ref250:ord0;page22:tag4:entity331:key0000014B:ref251:ord0;page22:tag4:entity330:key0000014A:ref252:ord0;page22:tag4:entity329:key00000149:ref254:ord0;page22:tag4:entity328:key00000148:ref255:ord0;page22:tag4:entity327:key00000147:ref256:ord0;page22:tag4:entity326:key00000146:ref257:ord0;page22:tag4:entity325:key00000145:ref258:ord0;page22:tag4:entity324:key00000144:ref259:ord0;page22:tag4:entity323:key00000143:ref260:ord0;page22:tag4:entity322:key00000142:ref261:ord0;page22:tag4:entity321:key00000141:ref262:ord0;page22:tag4:entity320:key00000140:ref263:ord0;page22:tag4:entity319:key0000013F:ref265:ord0;page22:tag4:entity318:key0000013E:ref266:ord0;page22:tag4:entity317:key0000013D:ref267:ord0;page22:tag4:entity316:key0000013C:ref268:ord0;page22:tag4:entity315:key0000013B:ref269:ord0;page22:tag4:entity314:key0000013A:ref270:ord0;page22:tag4:entity313:key00000139:ref271:ord0;page22:tag4:entity312:key00000138:ref272:ord0;page22:tag4:entity311:key00000137:ref273:ord0;page22:tag4:entity310:key00000136:ref274:ord0;page22:tag4:entity309:key00000135:ref276:ord0;page22:tag4:entity308:key00000134:ref277:ord0;page22:tag4:entity307:key00000133:ref278:ord0;page22:tag4:entity306:key00000132:ref279:ord0;page22:tag4:entity305:key00000131:ref280:ord0;page22:tag4:entity304:key00000130:ref281:ord0;page22:tag4:entity303:key0000012F:ref282:ord0;page22:tag4:entity302:key0000012E:ref283:ord0;page22:tag4:entity301:key0000012D:ref284:ord0;page22:tag4:entity300:key0000012C:ref285:ord0;page22:tag4:entity299:key0000012B:ref288:ord0;page22:tag4:entity298:key0000012A:ref289:ord0;page22:tag4:entity297:key00000129:ref290:ord0;page22:tag4:entity296:key00000128:ref291:ord0;page22:tag4:entity295:key00000127:ref292:ord0;page22:tag4:entity294:key00000126:ref293:ord0;page22:tag4:entity293:key00000125:ref294:ord0;page22:tag4:entity292:key00000124:ref295:ord0;page22:tag4:entity291:key00000123:ref296:ord0;page22:tag4:entity290:key00000122:ref297:ord0;page22:tag4:entity289:key00000121:ref299:ord0;page22:tag4:entity288:key00000120:ref300:ord0;page22:tag4:entity287:key0000011F:ref301:ord0;page22:tag4:entity286:key0000011E:ref302:ord0;page22:tag4:entity285:key0000011D:ref303:ord0;page22:tag4:entity284:key0000011C:ref304:ord0;page22:tag4:entity283:key0000011B:ref305:ord0;page22:tag4:entity282:key0000011A:ref306:ord0;page22:tag4:entity281:key00000119:ref307:ord0;page22:tag4:entity280:key00000118:ref308:ord0;page22:tag4:entity279:key00000117:ref310:ord0;page22:tag4:entity278:key00000116:ref311:ord0;page22:tag4:entity277:key00000115:ref312:ord0;page22:tag4:entity276:key00000114:ref313:ord0;page22:tag4:entity275:key00000113:ref314:ord0;page22:tag4:entity274:key00000112:ref315:ord0;page22:tag4:entity273:key00000111:ref316:ord0;page22:tag4:entity272:key00000110:ref317:ord0;page22:tag4:entity271:key0000010F:ref318:ord0;page22:tag4:entity270:key0000010E:ref319:ord0;page22:tag4:entity269:key0000010D:ref321:ord0;page22:tag4:entity268:key0000010C:ref322:ord0;page22:tag4:entity267:key0000010B:ref323:ord0;page22:tag4:entity266:key0000010A:ref324:ord0;page22:tag4:entity265:key00000109:ref325:ord0;page22:tag4:entity264:key00000108:ref326:ord0;page22:tag4:entity263:key00000107:ref327:ord0;page22:tag4:entity262:key00000106:ref328:ord0;page22:tag4:entity261:key00000105:ref329:ord0;page22:tag4:entity260:key00000104:ref330:ord0;page22:tag4:entity259:key00000103:ref332:ord0;page22:tag4:entity258:key00000102:ref333:ord0;page22:tag4:entity257:key00000101:ref334:ord0;page22:tag4:entity256:key00000100:ref335:ord0;page22:tag4:entity255:key000000FF:ref336:ord0;page22:tag4:entity254:key000000FE:ref337:ord0;page22:tag4:entity253:key000000FD:ref338:ord0;page22:tag4:entity252:key000000FC:ref339:ord0;page22:tag4:entity251:key000000FB:ref340:ord0;page22:tag4:entity250:key000000FA:ref341:ord0;page22:tag4:entity249:key000000F9:ref343:ord0;page22:tag4:entity248:key000000F8:ref344:ord0;page22:tag4:entity247:key000000F7:ref345:ord0;page22:tag4:entity246:key000000F6:ref346:ord0;page22:tag4:entity245:key000000F5:ref347:ord0;page22:tag4:entity244:key000000F4:ref348:ord0;page22:tag4:entity243:key000000F3:ref349:ord0;page22:tag4:entity242:key000000F2:ref350:ord0;page22:tag4:entity241:key000000F1:ref351:ord0;page22:tag4:entity240:key000000F0:ref352:ord0;page22:tag4:entity239:key000000EF:ref354:ord0;page22:tag4:entity238:key000000EE:ref355:ord0;page22:tag4:entity237:key000000ED:ref356:ord0;page22:tag4:entity236:key000000EC:ref357:ord0;page22:tag4:entity235:key000000EB:ref358:ord0;page22:tag4:entity234:key000000EA:ref359:ord0;page22:tag4:entity233:key000000E9:ref360:ord0;page22:tag4:entity232:key000000E8:ref361:ord0;page22:tag4:entity231:key000000E7:ref362:ord0;page22:tag4:entity230:key000000E6:ref363:ord0;page22:tag4:entity229:key000000E5:ref365:ord0;page22:tag4:entity228:key000000E4:ref366:ord0;page22:tag4:entity227:key000000E3:ref367:ord0;page22:tag4:entity226:key000000E2:ref368:ord0;page22:tag4:entity225:key000000E1:ref369:ord0;page22:tag4:entity224:key000000E0:ref370:ord0;page22:tag4:entity223:key000000DF:ref371:ord0;page22:tag4:entity222:key000000DE:ref372:ord0;page22:tag4:entity221:key000000DD:ref373:ord0;page22:tag4:entity220:key000000DC:ref374:ord0;page22:tag4:entity219:key000000DB:ref376:ord0;page22:tag4:entity218:key000000DA:ref377:ord0;page22:tag4:entity217:key000000D9:ref378:ord0;page22:tag4:entity216:key000000D8:ref379:ord0;page22:tag4:entity215:key000000D7:ref380:ord0;page22:tag4:entity214:key000000D6:ref381:ord0;page22:tag4:entity213:key000000D5:ref382:ord0;page22:tag4:entity212:key000000D4:ref383:ord0;page22:tag4:entity211:key000000D3:ref384:ord0;page22:tag4:entity210:key000000D2:ref385:ord0;page22:tag4:entity209:key000000D1:ref387:ord0;page22:tag4:entity208:key000000D0:ref388:ord0;page22:tag4:entity207:key000000CF:ref389:ord0;page22:tag4:entity206:key000000CE:ref390:ord0;page22:tag4:entity205:key000000CD:ref391:ord0;page22:tag4:entity204:key000000CC:ref392:ord0;page22:tag4:entity203:key000000CB:ref393:ord0;page22:tag4:entity202:key000000CA:ref394:ord0;page22:tag4:entity201:key000000C9:ref395:ord0;page22:tag4:entity200:key000000C8:ref396:ord0;page22:tag4:entity199:key000000C7:ref399:ord0;page22:tag4:entity198:key000000C6:ref400:ord0;page22:tag4:entity197:key000000C5:ref401:ord0;page22:tag4:entity196:key000000C4:ref402:ord0;page22:tag4:entity195:key000000C3:ref403:ord0;page22:tag4:entity194:key000000C2:ref404:ord0;page22:tag4:entity193:key000000C1:ref405:ord0;page22:tag4:entity192:key000000C0:ref406:ord0;page22:tag4:entity191:key000000BF:ref407:ord0;page22:tag4:entity189:key000000BD:ref410:ord0;page22:tag4:entity188:key000000BC:ref411:ord0;page22:tag4:entity187:key000000BB:ref412:ord0;page22:tag4:entity186:key000000BA:ref413:ord0;page22:tag4:entity185:key000000B9:ref414:ord0;page22:tag4:entity184:key000000B8:ref415:ord0;page22:tag4:entity183:key000000B7:ref416:ord0;page22:tag4:entity182:key000000B6:ref417:ord0;page22:tag4:entity181:key000000B5:ref418:ord0;page22:tag4:entity180:key000000B4:ref419:ord0;page22:tag4:entity179:key000000B3:ref421:ord0;page22:tag4:entity178:key000000B2:ref422:ord0;page22:tag4:entity177:key000000B1:ref423:ord0;page22:tag4:entity176:key000000B0:ref424:ord0;page22:tag4:entity172:key000000AC:ref428:ord0;page22:tag4:entity171:key000000AB:ref429:ord0;page22:tag4:entity170:key000000AA:ref430:ord0;page22:tag4:entity169:key000000A9:ref432:ord0;page22:tag4:entity168:key000000A8:ref433:ord0;page22:tag4:entity167:key000000A7:ref434:ord0;page22:tag4:entity166:key000000A6:ref435:ord0;page22:tag4:entity165:key000000A5:ref436:ord0;page22:tag4:entity164:key000000A4:ref437:ord0;page22:tag4:entity163:key000000A3:ref438:ord0;page22:tag4:entity162:key000000A2:ref439:ord0;page22:tag4:entity161:key000000A1:ref440:ord0;page22:tag4:entity160:key000000A0:ref441:ord0;page22:tag4:entity159:key0000009F:ref443:ord0;page22:tag4:entity158:key0000009E:ref444:ord0;page22:tag4:entity157:key0000009D:ref445:ord0;page22:tag4:entity156:key0000009C:ref446:ord0;page22:tag4:entity155:key0000009B:ref447:ord0;page22:tag4:entity154:key0000009A:ref448:ord0;page22:tag4:entity153:key00000099:ref449:ord0;page22:tag4:entity152:key00000098:ref450:ord0;page22:tag4:entity151:key00000097:ref451:ord0;page22:tag4:entity150:key00000096:ref452:ord0;page22:tag4:entity149:key00000095:ref454:ord0;page22:tag4:entity148:key00000094:ref455:ord0;page22:tag4:entity147:key00000093:ref456:ord0;page22:tag4:entity146:key00000092:ref457:ord0;page22:tag4:entity145:key00000091:ref458:ord0;page22:tag4:entity144:key00000090:ref459:ord0;page22:tag4:entity143:key0000008F:ref460:ord0;page22:tag4:entity142:key0000008E:ref461:ord0;page22:tag4:entity141:key0000008D:ref462:ord0;page22:tag4:entity140:key0000008C:ref463:ord0;page22:tag4:entity139:key0000008B:ref465:ord0;page22:tag4:entity138:key0000008A:ref466:ord0;page22:tag4:entity137:key00000089:ref467:ord0;page22:tag4:entity136:key00000088:ref468:ord0;page22:tag4:entity135:key00000087:ref469:ord0;page22:tag4:entity134:key00000086:ref470:ord0;page22:tag4:entity133:key00000085:ref471:ord0;page22:tag4:entity132:key00000084:ref472:ord0;page22:tag4:entity131:key00000083:ref473:ord0;page22:tag4:entity130:key00000082:ref474:ord0;page22:tag4:entity129:key00000081:ref476:ord0;page22:tag4:entity128:key00000080:ref477:ord0;page22:tag4:entity127:key0000007F:ref478:ord0;page22:tag4:entity126:key0000007E:ref479:ord0;page22:tag4:entity125:key0000007D:ref480:ord0;page22:tag4:entity124:key0000007C:ref481:ord0;page22:tag4:entity123:key0000007B:ref482:ord0;page22:tag4:entity122:key0000007A:ref483:ord0;page22:tag4:entity121:key00000079:ref484:ord0;page22:tag4:entity120:key00000078:ref485:ord0;page22:tag4:entity119:key00000077:ref487:ord0;page22:tag4:entity118:key00000076:ref488:ord0;page22:tag4:entity117:key00000075:ref489:ord0;page22:tag4:entity116:key00000074:ref490:ord0;page22:tag4:entity115:key00000073:ref491:ord0;page22:tag4:entity114:key00000072:ref492:ord0;page22:tag4:entity113:key00000071:ref493:ord0;page22:tag4:entity112:key00000070:ref494:ord0;page22:tag4:entity111:key0000006F:ref495:ord0;page22:tag4:entity110:key0000006E:ref496:ord0;page22:tag4:entity109:key0000006D:ref498:ord0;page22:tag4:entity108:key0000006C:ref499:ord0;page22:tag4:entity107:key0000006B:ref500:ord0;page22:tag4:entity106:key0000006A:ref501:ord0;page22:tag4:entity105:key00000069:ref502:ord0;page22:tag4:entity104:key00000068:ref503:ord0;page22:tag4:entity103:key00000067:ref504:ord0;page22:tag4:entity102:key00000066:ref505:ord0;page22:tag4:entity101:key00000065:ref506:ord0;page22:tag4:entity100:key00000064:ref507:ord0;page22:tag4:entity1021:key000001FE:ref563:ord0;page22:tag4:entity1020:key000001FD:ref565:ord0;page22:tag4:entity1019:key000001FC:ref566:ord0;page22:tag4:entity1018:key000001FB:ref567:ord0;page22:tag4:entity956:key000001BD:ref636:ord0;page22:tag4:entity955:key000001BC:ref637:ord0;page22:tag4:entity954:key000001BB:ref638:ord0;page22:tag4:entity953:key000001BA:ref639:ord0;page22:tag4:entity952:key000001B9:ref640:ord0;page22:tag4:entity951:key000001B8:ref641:ord0;page22:tag4:entity950:key000001B7:ref643:ord0;page22:tag4:entity949:key000001B6:ref644:ord0;page22:tag4:entity948:key000001B5:ref645:ord0;page22:tag4:entity947:key000001B4:ref646:ord0;page22:tag4:entity946:key000001B3:ref647:ord0;page22:tag4:entity945:key000001B2:ref648:ord0;page22:tag4:entity944:key000001B1:ref649:ord0;page22:tag4:entity943:key000001B0:ref650:ord0;page22:tag4:entity942:key000001AF:ref651:ord0;page22:tag4:entity941:key000001AE:ref652:ord0;page22:tag4:entity940:key000001AD:ref654:ord0;page22:tag4:entity939:key000001AC:ref655:ord0;page22:tag4:entity938:key000001AB:ref656:ord0;page22:tag4:entity937:key000001AA:ref657:ord0;page22:tag4:entity936:key000001A9:ref658:ord0;page22:tag4:entity935:key000001A8:ref659:ord0;page22:tag4:entity934:key000001A7:ref660:ord0;page22:tag4:entity933:key000001A6:ref661:ord0;page22:tag4:entity932:key000001A5:ref662:ord0;page22:tag4:entity931:key000001A4:ref663:ord0;page22:tag4:entity930:key000001A3:ref665:ord0;page22:tag4:entity929:key000001A2:ref666:ord0;page22:tag4:entity928:key000001A1:ref667:ord0;page22:tag4:entity927:key000001A0:ref668:ord0;page22:tag4:entity926:key0000019F:ref669:ord0;page22:tag4:entity925:key0000019E:ref670:ord0;page22:tag4:entity924:key0000019D:ref671:ord0;page22:tag4:entity923:key0000019C:ref672:ord0;page22:tag4:entity922:key0000019B:ref673:ord0;page22:tag4:entity921:key0000019A:ref674:ord0;page22:tag4:entity920:key00000199:ref676:ord0;page22:tag4:entity919:key00000198:ref677:ord0;page22:tag4:entity918:key00000197:ref678:ord0;page22:tag4:entity917:key00000196:ref679:ord0;page22:tag4:entity916:key00000195:ref680:ord0;page22:tag4:entity915:key00000194:ref681:ord0;page22:tag4:entity914:key00000193:ref682:ord0;page22:tag4:entity913:key00000192:ref683:ord0;page22:tag4:entity912:key00000191:ref684:ord0;page22:tag4:entity911:key00000190:ref685:ord0;page22:tag4:entity910:key0000018F:ref688:ord0;page22:tag4:entity909:key0000018E:ref689:ord0;page22:tag4:entity908:key0000018D:ref690:ord0;page22:tag4:entity907:key0000018C:ref691:ord0;page22:tag4:entity906:key0000018B:ref692:ord0;page22:tag4:entity905:key0000018A:ref693:ord0;page22:tag4:entity904:key00000189:ref694:ord0;page22:tag4:entity903:key00000188:ref695:ord0;page22:tag4:entity902:key00000187:ref696:ord0;page22:tag4:entity901:key00000186:ref697:ord0;page22:tag4:entity900:key00000185:ref699:ord0;page22:tag4:entity899:key00000184:ref700:ord0;page22:tag4:entity898:key00000183:ref701:ord0;page22:tag4:entity897:key00000182:ref702:ord0;page22:tag4:entity896:key00000181:ref703:ord0;page22:tag4:entity895:key00000180:ref704:ord0;page22:tag4:entity894:key0000017F:ref705:ord0;page22:tag4:entity893:key0000017E:ref706:ord0;page22:tag4:entity892:key0000017D:ref707:ord0;page22:tag4:entity891:key0000017C:ref708:ord0;page22:tag4:entity890:key0000017B:ref710:ord0;page22:tag4:entity889:key0000017A:ref711:ord0;page22:tag4:entity888:key00000179:ref712:ord0;page22:tag4:entity887:key00000178:ref713:ord0;page22:tag4:entity886:key00000177:ref714:ord0;page22:tag4:entity885:key00000176:ref715:ord0;page22:tag4:entity884:key00000175:ref716:ord0;page22:tag4:entity883:key00000174:ref717:ord0;page22:tag4:entity882:key00000173:ref718:ord0;page22:tag4:entity881:key00000172:ref719:ord0;page22:tag4:entity880:key00000171:ref721:ord0;page22:tag4:entity879:key00000170:ref722:ord0;page22:tag4:entity878:key0000016F:ref723:ord0;page22:tag4:entity877:key0000016E:ref724:ord0;page22:tag4:entity876:key0000016D:ref725:ord0;page22:tag4:entity875:key0000016C:ref726:ord0;page22:tag4:entity874:key0000016B:ref727:ord0;page22:tag4:entity873:key0000016A:ref728:ord0;page22:tag4:entity872:key00000169:ref729:ord0;page22:tag4:entity871:key00000168:ref730:ord0;page22:tag4:entity870:key00000167:ref732:ord0;page22:tag4:entity869:key00000166:ref733:ord0;page22:tag4:entity868:key00000165:ref734:ord0;page22:tag4:entity867:key00000164:ref735:ord0;page22:tag4:entity866:key00000163:ref736:ord0;page22:tag4:entity865:key00000162:ref737:ord0;page22:tag4:entity864:key00000161:ref738:ord0;page22:tag4:entity863:key00000160:ref739:ord0;page22:tag4:entity862:key0000015F:ref740:ord0;page22:tag4:entity861:key0000015E:ref741:ord0;page22:tag4:entity860:key0000015D:ref743:ord0;page22:tag4:entity859:key0000015C:ref744:ord0;page22:tag4:entity858:key0000015B:ref745:ord0;page22:tag4:entity857:key0000015A:ref746:ord0;page22:tag4:entity856:key00000159:ref747:ord0;page22:tag4:entity855:key00000158:ref748:ord0;page22:tag4:entity854:key00000157:ref749:ord0;page22:tag4:entity853:key00000156:ref750:ord0;page22:tag4:entity852:key00000155:ref751:ord0;page22:tag4:entity851:key00000154:ref752:ord0;page22:tag4:entity850:key00000153:ref754:ord0;page22:tag4:entity849:key00000152:ref755:ord0;page22:tag4:entity848:key00000151:ref756:ord0;page22:tag4:entity847:key00000150:ref757:ord0;page22:tag4:entity846:key0000014F:ref758:ord0;page22:tag4:entity845:key0000014E:ref759:ord0;page22:tag4:entity844:key0000014D:ref760:ord0;page22:tag4:entity843:key0000014C:ref761:ord0;page22:tag4:entity842:key0000014B:ref762:ord0;page22:tag4:entity841:key0000014A:ref763:ord0;page22:tag4:entity840:key00000149:ref765:ord0;page22:tag4:entity839:key00000148:ref766:ord0;page22:tag4:entity838:key00000147:ref767:ord0;page22:tag4:entity837:key00000146:ref768:ord0;page22:tag4:entity836:key00000145:ref769:ord0;page22:tag4:entity835:key00000144:ref770:ord0;page22:tag4:entity834:key00000143:ref771:ord0;page22:tag4:entity833:key00000142:ref772:ord0;page22:tag4:entity832:key00000141:ref773:ord0;page22:tag4:entity831:key00000140:ref774:ord0;page22:tag4:entity830:key0000013F:ref776:ord0;page22:tag4:entity829:key0000013E:ref777:ord0;page22:tag4:entity828:key0000013D:ref778:ord0;page22:tag4:entity827:key0000013C:ref779:ord0;page22:tag4:entity826:key0000013B:ref780:ord0;page22:tag4:entity825:key0000013A:ref781:ord0;page22:tag4:entity824:key00000139:ref782:ord0;page22:tag4:entity823:key00000138:ref783:ord0;page22:tag4:entity822:key00000137:ref784:ord0;page22:tag4:entity821:key00000136:ref785:ord0;page22:tag4:entity820:key00000135:ref787:ord0;page22:tag4:entity819:key00000134:ref788:ord0;page22:tag4:entity818:key00000133:ref789:ord0;page22:tag4:entity817:key00000132:ref790:ord0;page22:tag4:entity816:key00000131:ref791:ord0;page22:tag4:entity815:key00000130:ref792:ord0;page22:tag4:entity814:key0000012F:ref793:ord0;page22:tag4:entity813:key0000012E:ref794:ord0;page22:tag4:entity812:key0000012D:ref795:ord0;page22:tag4:entity811:key0000012C:ref796:ord0;page22:tag4:entity810:key0000012B:ref799:ord0;page22:tag4:entity809:key0000012A:ref800:ord0;page22:tag4:entity808:key00000129:ref801:ord0;page22:tag4:entity807:key00000128:ref802:ord0;page22:tag4:entity806:key00000127:ref803:ord0;page22:tag4:entity805:key00000126:ref804:ord0;page22:tag4:entity804:key00000125:ref805:ord0;page22:tag4:entity803:key00000124:ref806:ord0;page22:tag4:entity802:key00000123:ref807:ord0;page22:tag4:entity801:key00000122:ref808:ord0;page22:tag4:entity800:key00000121:ref810:ord0;page22:tag4:entity799:key00000120:ref811:ord0;page22:tag4:entity798:key0000011F:ref812:ord0;page22:tag4:entity797:key0000011E:ref813:ord0;page22:tag4:entity796:key0000011D:ref814:ord0;page22:tag4:entity795:key0000011C:ref815:ord0;page22:tag4:entity794:key0000011B:ref816:ord0;page22:tag4:entity793:key0000011A:ref817:ord0;page22:tag4:entity792:key00000119:ref818:ord0;page22:tag4:entity791:key00000118:ref819:ord0;page22:tag4:entity790:key00000117:ref821:ord0;page22:tag4:entity789:key00000116:ref822:ord0;page22:tag4:entity788:key00000115:ref823:ord0;page22:tag4:entity787:key00000114:ref824:ord0;page22:tag4:entity786:key00000113:ref825:ord0;page22:tag4:entity785:key00000112:ref826:ord0;page22:tag4:entity784:key00000111:ref827:ord0;page22:tag4:entity783:key00000110:ref828:ord0;page22:tag4:entity782:key0000010F:ref829:ord0;page22:tag4:entity781:key0000010E:ref830:ord0;page22:tag4:entity780:key0000010D:ref832:ord0;page22:tag4:entity779:key0000010C:ref833:ord0;page22:tag4:entity778:key0000010B:ref834:ord0;page22:tag4:entity777:key0000010A:ref835:ord0;page22:tag4:entity776:key00000109:ref836:ord0;page22:tag4:entity775:key00000108:ref837:ord0;page22:tag4:entity774:key00000107:ref838:ord0;page22:tag4:entity773:key00000106:ref839:ord0;page22:tag4:entity772:key00000105:ref840:ord0;page22:tag4:entity771:key00000104:ref841:ord0;page22:tag4:entity770:key00000103:ref843:ord0;page22:tag4:entity769:key00000102:ref844:ord0;page22:tag4:entity768:key00000101:ref845:ord0;page22:tag4:entity767:key00000100:ref846:ord0;page22:tag4:entity766:key000000FF:ref847:ord0;page22:tag4:entity765:key000000FE:ref848:ord0;page22:tag4:entity764:key000000FD:ref849:ord0;page22:tag4:entity763:key000000FC:ref850:ord0;page22:tag4:entity762:key000000FB:ref851:ord0;page22:tag4:entity761:key000000FA:ref852:ord0;page22:tag4:entity760:key000000F9:ref854:ord0;page22:tag4:entity759:key000000F8:ref855:ord0;page22:tag4:entity758:key000000F7:ref856:ord0;page22:tag4:entity757:key000000F6:ref857:ord0;page22:tag4:entity756:key000000F5:ref858:ord0;page22:tag4:entity755:key000000F4:ref859:ord0;page22:tag4:entity754:key000000F3:ref860:ord0;page22:tag4:entity753:key000000F2:ref861:ord0;page22:tag4:entity752:key000000F1:ref862:ord0;page22:tag4:entity751:key000000F0:ref863:ord0;page22:tag4:entity750:key000000EF:ref865:ord0;page22:tag4:entity749:key000000EE:ref866:ord0;page22:tag4:entity748:key000000ED:ref867:ord0;page22:tag4:entity747:key000000EC:ref868:ord0;page22:tag4:entity740:key000000E5:ref876:ord0,,（不要）,"やあ、久しぶりだね。
+
+突然手紙なんて出してごめん。
+ほら、最近君、僕からの通信に出てくれないだろ…？
+何か気に障ること言ったかな。それだったらごめん。謝るよ。
+でも、できれば君に伝えたいことがあって…それで手紙を書いたんだけど…。
+
+いや、もちろん今はそんな状況じゃないよね。
+でも僕はとても、その、興味があるんだ。君…の研究に…さ…。
+そう言えば、ポッドの研究は順調？
+僕が書いた、二人の、その、AI同士のリンケージプログラム、
+うまく機能してるといいんだけど…
+もしうまく動かなかったら、そっちに行って…直しても…いいかな…？
+ほら、だって、気になるもんじゃないか、ちゃんと無事で、元気か…
+いや、プログラムが元気ってヘンだよね。ハハハ…。
+
+ごめん、話がずれたね。
+えっと、ともかく、ずっと言おうと思ってたんだ。
+それこそ、君とNASAで初めて会った頃から…。
+あの頃は楽しかったね。その…好きな、好きな…研究を思う存分できたしさ。
+当時から僕は君を…君のことを…つまり君の研究のことを…評価してたんだ。
+いや、それだけじゃない。
+僕は、君のことを…す、す、す…すごい人だな、ってさあ。
+ごめん、何言ってるか全然わかんないね。
+
+だからその、君がNASAから突然いなくなった時は、とても悲しかった。
+それではっきりとわかったんだ…。
+僕には君が、君が、必要…っていうか研究に？
+ああっ、違う！　っていや違わないけど、違うんだ、言いたいことは…。
+
+とにかく、コスタリカで君に再会した時にはびっくりしたよ。
+もしかしたら天の配剤かな、とか、誰かが書いたコードの上で、
+僕たちは、その、そうなるようになってるのかな、とか。
+君と僕、二人で、これからもずっと…その…二人で…
+研究したい。
+いや、研究だけじゃなくて、いやもちろん研究もなんだけど、
+いろいろあるじゃないか、研究も。ねえ？
+
+ごめん、また話がずれた。でも、もう時間がないんだ。
+ピースウォーカーが完成したら、この計画も終わりだろ？
+だから…えっと、その…ピースウォーカーは二人の共同作品…だよね？
+だから、ピースウォーカーが完成した時は…その時は……
+
+…いや、そうだね。まずは完成させるのが先決だよね、うん。そうだそうだ。
+だからそれまで、前みたいに黙っていなくならないでほしいな、なんて…。
+
+長々とごめん。とにかく研究の成功を祈ってるよ。
+
+親愛なる博士へ
+ヒューイ",,（未使用）,,MATCH,12,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=551; review_flag=UNUSED_LABEL
+5D904CFF,1,17,17,1,,page22:tag4:entity83:key00000053:ref17:ord0,（不要）,"やあ、久しぶりだね。
+
+突然手紙なんて出してごめん。
+ほら、最近君、僕からの通信に出てくれないだろ…？
+何か気に障ること言ったかな。それだったらごめん。謝るよ。
+でも、できれば君に伝えたいことがあって…それで手紙を書いたんだけど…。
+
+いや、もちろん今はそんな状況じゃないよね。
+でも僕はとても、その、興味があるんだ。君…の研究に…さ…。
+そう言えば、ポッドの研究は順調？
+僕が書いた、二人の、その、AI同士のリンケージプログラム、
+うまく機能してるといいんだけど…
+もしうまく動かなかったら、そっちに行って…直しても…いいかな…？
+ほら、だって、気になるもんじゃないか、ちゃんと無事で、元気か…
+いや、プログラムが元気ってヘンだよね。ハハハ…。
+
+ごめん、話がずれたね。
+えっと、ともかく、ずっと言おうと思ってたんだ。
+それこそ、君とNASAで初めて会った頃から…。
+あの頃は楽しかったね。その…好きな、好きな…研究を思う存分できたしさ。
+当時から僕は君を…君のことを…つまり君の研究のことを…評価してたんだ。
+いや、それだけじゃない。
+僕は、君のことを…す、す、す…すごい人だな、ってさあ。
+ごめん、何言ってるか全然わかんないね。
+
+だからその、君がNASAから突然いなくなった時は、とても悲しかった。
+それではっきりとわかったんだ…。
+僕には君が、君が、必要…っていうか研究に？
+ああっ、違う！　っていや違わないけど、違うんだ、言いたいことは…。
+
+とにかく、コスタリカで君に再会した時にはびっくりしたよ。
+もしかしたら天の配剤かな、とか、誰かが書いたコードの上で、
+僕たちは、その、そうなるようになってるのかな、とか。
+君と僕、二人で、これからもずっと…その…二人で…
+研究したい。
+いや、研究だけじゃなくて、いやもちろん研究もなんだけど、
+いろいろあるじゃないか、研究も。ねえ？
+
+ごめん、また話がずれた。でも、もう時間がないんだ。
+ピースウォーカーが完成したら、この計画も終わりだろ？
+だから…えっと、その…ピースウォーカーは二人の共同作品…だよね？
+だから、ピースウォーカーが完成した時は…その時は……
+
+…いや、そうだね。まずは完成させるのが先決だよね、うん。そうだそうだ。
+だからそれまで、前みたいに黙っていなくならないでほしいな、なんて…。
+
+長々とごめん。とにかく研究の成功を祈ってるよ。
+
+親愛なる博士へ
+ヒューイ","NWD-W202
+ヘッドホン一体型のウォークマン。
+ディスプレイなどの「機能を削る」ことで、シンプルな操作・大幅な
+小型軽量化を実現。スパイラルネックバンドを使うことで、
+装着中もずれにくく、軽い運動にも最適。曲の盛り上がり部分だけを
+連続再生する「ZAPPIN<I=TM>」を搭載し、曲の検索に利用したり、
+カウントダウン番組のような新しい聞き方も楽しめる。",,"嗨，好久不见。
+
+抱歉突然给你写信。
+你看，最近我发通信，你都不肯接，不是吗……？
+是不是我说了什么惹你生气的话？如果是，我向你道歉。
+可是，我有些话无论如何都想告诉你……所以才写了这封信……
+
+当然，我知道现在不是说这些的时候。
+但我真的对那个……你的……研究很感兴趣……
+说起来，舱体的研究还顺利吗？
+我写的那个连接两个AI的程序，
+希望它能正常运作……
+如果出了问题，我可以过去……帮你修好……吗？
+因为，我还是会担心它是否平安、状态是否良好……
+不对，说程序有精神好像很奇怪。哈哈哈……
+
+抱歉，跑题了。
+总之，这些话我一直都想对你说。
+其实，从我们在NASA第一次见面时起就……
+那时真开心。我们可以尽情研究……自己喜欢的东西。
+从那时候起，我就一直很欣赏你……欣赏你的……也就是你的研究。
+不，不只是这样。
+我觉得你……是、是、是……是个很了不起的人。
+抱歉，我自己都不知道在说什么了。
+
+所以，你突然从NASA消失时，我真的很难过。
+那一刻我才清楚地明白……
+我需要你……是说研究上需要你吗？
+啊，不对！虽然也不能说不对，但我想说的不是这个……
+
+总之，在哥斯达黎加再次见到你时，我真的很惊讶。
+我甚至觉得这也许是上天的安排，或者是谁写好了代码，
+让我们注定会变成现在这样。
+你和我两个人，从今往后也一直……两个人……
+一起研究。
+不只是研究，当然也包括研究，
+研究不是有很多种吗？对吧？
+
+抱歉，我又跑题了。可是已经没有时间了。
+等和平行者完成，这项计划也就结束了吧？
+所以……那个……和平行者是我们两个人的共同作品……对吧？
+那么，等和平行者完成时……到那时……
+
+……不，没错。现在应该先把它完成。嗯，就是这样。
+所以在那之前，我希望你不要再像以前那样默默消失……
+
+抱歉写了这么长。总之，祝你的研究成功。
+
+致亲爱的博士
+Huey",,MATCH,2939,2202,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_AUTHORITY_LONGFORM
+5D904CFF,2,18,18,1,,page22:tag4:entity82:key00000052:ref18:ord0,"やあ、久しぶりだね。
+
+突然手紙なんて出してごめん。
+ほら、最近君、僕からの通信に出てくれないだろ…？
+何か気に障ること言ったかな。それだったらごめん。謝るよ。
+でも、できれば君に伝えたいことがあって…それで手紙を書いたんだけど…。
+
+いや、もちろん今はそんな状況じゃないよね。
+でも僕はとても、その、興味があるんだ。君…の研究に…さ…。
+そう言えば、ポッドの研究は順調？
+僕が書いた、二人の、その、AI同士のリンケージプログラム、
+うまく機能してるといいんだけど…
+もしうまく動かなかったら、そっちに行って…直しても…いいかな…？
+ほら、だって、気になるもんじゃないか、ちゃんと無事で、元気か…
+いや、プログラムが元気ってヘンだよね。ハハハ…。
+
+ごめん、話がずれたね。
+えっと、ともかく、ずっと言おうと思ってたんだ。
+それこそ、君とNASAで初めて会った頃から…。
+あの頃は楽しかったね。その…好きな、好きな…研究を思う存分できたしさ。
+当時から僕は君を…君のことを…つまり君の研究のことを…評価してたんだ。
+いや、それだけじゃない。
+僕は、君のことを…す、す、す…すごい人だな、ってさあ。
+ごめん、何言ってるか全然わかんないね。
+
+だからその、君がNASAから突然いなくなった時は、とても悲しかった。
+それではっきりとわかったんだ…。
+僕には君が、君が、必要…っていうか研究に？
+ああっ、違う！　っていや違わないけど、違うんだ、言いたいことは…。
+
+とにかく、コスタリカで君に再会した時にはびっくりしたよ。
+もしかしたら天の配剤かな、とか、誰かが書いたコードの上で、
+僕たちは、その、そうなるようになってるのかな、とか。
+君と僕、二人で、これからもずっと…その…二人で…
+研究したい。
+いや、研究だけじゃなくて、いやもちろん研究もなんだけど、
+いろいろあるじゃないか、研究も。ねえ？
+
+ごめん、また話がずれた。でも、もう時間がないんだ。
+ピースウォーカーが完成したら、この計画も終わりだろ？
+だから…えっと、その…ピースウォーカーは二人の共同作品…だよね？
+だから、ピースウォーカーが完成した時は…その時は……
+
+…いや、そうだね。まずは完成させるのが先決だよね、うん。そうだそうだ。
+だからそれまで、前みたいに黙っていなくならないでほしいな、なんて…。
+
+長々とごめん。とにかく研究の成功を祈ってるよ。
+
+親愛なる博士へ
+ヒューイ","NWD-W202
+ヘッドホン一体型のウォークマン。
+ディスプレイなどの「機能を削る」ことで、シンプルな操作・大幅な
+小型軽量化を実現。スパイラルネックバンドを使うことで、
+装着中もずれにくく、軽い運動にも最適。曲の盛り上がり部分だけを
+連続再生する「ZAPPIN<I=TM>」を搭載し、曲の検索に利用したり、
+カウントダウン番組のような新しい聞き方も楽しめる。","WM-EX88
+ウォークマンのデザインと機能に新たな方向性を提示したモデル。
+使いやすさを第一に考えたデザインを追求しつつも、持ち運び時の誤動作を
+防ぐホールドシャッター、前後1曲の頭出しができ、動作状態が詳しく
+液晶に表示される「曲探し液晶リモコン」など便利機能が充実したモデル。",<I=TM>,"NWD-W202
+耳机一体式WALKMAN。
+通过削减显示屏等功能，实现了简单操作，
+并大幅轻量化、小型化。螺旋式颈带使佩戴时不易移位，
+也很适合轻度运动。搭载可连续播放歌曲高潮片段的
+「ZAPPIN<I=TM>」，既能用于搜歌，
+也能享受如倒数榜单节目般的新听法。",<I=TM>,MATCH,488,333,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=CONTROL_OK;NEWLINES_PRESERVED
+5D904CFF,3,19,19,1,,page22:tag4:entity81:key00000051:ref19:ord0,"NWD-W202
+ヘッドホン一体型のウォークマン。
+ディスプレイなどの「機能を削る」ことで、シンプルな操作・大幅な
+小型軽量化を実現。スパイラルネックバンドを使うことで、
+装着中もずれにくく、軽い運動にも最適。曲の盛り上がり部分だけを
+連続再生する「ZAPPIN<I=TM>」を搭載し、曲の検索に利用したり、
+カウントダウン番組のような新しい聞き方も楽しめる。","WM-EX88
+ウォークマンのデザインと機能に新たな方向性を提示したモデル。
+使いやすさを第一に考えたデザインを追求しつつも、持ち運び時の誤動作を
+防ぐホールドシャッター、前後1曲の頭出しができ、動作状態が詳しく
+液晶に表示される「曲探し液晶リモコン」など便利機能が充実したモデル。","WM-2
+通常とは逆に、まずデザインが決まり、それに合わせてエンジニアが設計
+した商品。初代ウォークマンよりさらに軽量化、カセットケースサイズまで
+小型化されただけでなく、鮮明なステレオ音を再生するメタルテープ対応、
+アンチローリングメカ搭載などの音質重視設計で爆発的な人気を博した
+「ウォークマンII」。",,"WM-EX88
+为WALKMAN的设计与功能提出全新方向的型号。
+在追求易用性至上的同时，还配备防止携带时误操作的锁定盖、
+可跳至前后曲目开头，并在液晶屏详细显示运行状态的
+「曲目搜索液晶遥控器」等多项便利功能。",,MATCH,399,282,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,4,20,20,1,,page22:tag4:entity80:key00000050:ref20:ord0,"WM-EX88
+ウォークマンのデザインと機能に新たな方向性を提示したモデル。
+使いやすさを第一に考えたデザインを追求しつつも、持ち運び時の誤動作を
+防ぐホールドシャッター、前後1曲の頭出しができ、動作状態が詳しく
+液晶に表示される「曲探し液晶リモコン」など便利機能が充実したモデル。","WM-2
+通常とは逆に、まずデザインが決まり、それに合わせてエンジニアが設計
+した商品。初代ウォークマンよりさらに軽量化、カセットケースサイズまで
+小型化されただけでなく、鮮明なステレオ音を再生するメタルテープ対応、
+アンチローリングメカ搭載などの音質重視設計で爆発的な人気を博した
+「ウォークマンII」。","TPS-L2
+ステレオカセットプレーヤー“ウォークマン”1号機。
+録音機能を省いた画期的なモデルは社内外の前評判に反して大ヒットとなり
+新たなライフスタイルを創造。ボディカラーには、ブルージーンズを意識した
+メタリックブルーを採用している。",,"WM-2
+这款产品先确定设计，再由工程师据此完成结构。
+它比初代WALKMAN更轻、更小，仅有磁带盒大小，
+同时支持金属磁带，可播放清晰的立体声，
+并搭载防滚动机构，以重视音质的设计
+赢得爆发式人气，被称为「WALKMAN II」。",,MATCH,437,296,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINES_PRESERVED
+5D904CFF,5,22,22,1,,page22:tag4:entity79:key0000004F:ref22:ord0,"WM-2
+通常とは逆に、まずデザインが決まり、それに合わせてエンジニアが設計
+した商品。初代ウォークマンよりさらに軽量化、カセットケースサイズまで
+小型化されただけでなく、鮮明なステレオ音を再生するメタルテープ対応、
+アンチローリングメカ搭載などの音質重視設計で爆発的な人気を博した
+「ウォークマンII」。","TPS-L2
+ステレオカセットプレーヤー“ウォークマン”1号機。
+録音機能を省いた画期的なモデルは社内外の前評判に反して大ヒットとなり
+新たなライフスタイルを創造。ボディカラーには、ブルージーンズを意識した
+メタリックブルーを採用している。","AXEフレグランスボディスプレー
+AXEは世界最大級の消費財メーカー、Unileverが世界中で展開する
+男性用化粧品ブランド。
+AXEフレグランスボディスプレーは、本体を軽くひねってスプレー
+するだけで、有名調香師が手がけた本格的な香りを手軽に楽しめる。
+香りが薄くつくスプレー形式なのでつけ過ぎの心配もなく、
+どんなシーンでもクールなあなたを演出。
+http://www.axeeffect.jp
+",,"TPS-L2
+立体声磁带播放器“WALKMAN”的首款机型。
+这款取消录音功能的革新产品打破了公司内外的负面预期，
+成为热销商品，创造了全新的生活方式。
+机身采用让人联想到蓝色牛仔裤的金属蓝色。",,MATCH,338,257,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINES_PRESERVED
+5D904CFF,6,23,23,1,,page22:tag4:entity78:key0000004E:ref23:ord0,"TPS-L2
+ステレオカセットプレーヤー“ウォークマン”1号機。
+録音機能を省いた画期的なモデルは社内外の前評判に反して大ヒットとなり
+新たなライフスタイルを創造。ボディカラーには、ブルージーンズを意識した
+メタリックブルーを採用している。","AXEフレグランスボディスプレー
+AXEは世界最大級の消費財メーカー、Unileverが世界中で展開する
+男性用化粧品ブランド。
+AXEフレグランスボディスプレーは、本体を軽くひねってスプレー
+するだけで、有名調香師が手がけた本格的な香りを手軽に楽しめる。
+香りが薄くつくスプレー形式なのでつけ過ぎの心配もなく、
+どんなシーンでもクールなあなたを演出。
+http://www.axeeffect.jp
+",（不要）,,"AXE香氛身体喷雾
+AXE是世界顶级消费品厂商Unilever
+在全球推广的男性护理品牌。
+AXE香氛身体喷雾只需轻轻旋转瓶身并喷洒，
+即可轻松享受知名调香师打造的专业香气。
+喷雾只会留下淡淡香味，不必担心使用过量，
+让你在任何场合都保持酷劲。
+http://www.axeeffect.jp
+",,MATCH,507,345,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_AUTHORITY_PRODUCT;NEWLINES_PRESERVED
+5D904CFF,7,29,29,1,,page22:tag4:entity72:key00000048:ref29:ord0,（不要）,"ボンカレーネオ
+2009年、発売41年目の2月12日、ボンカレーの日を記念して
+「ボンカレーネオ」が新発売された。お母さんが家族の為に
+手間ひまかけて作る愛情たっぷりの美味しさ。「ボンカレーネオ」は、
+その原点を大切にしながら、時代と共に進化し続けるカレーである。
+確かな素材で、ていねいに作られたボンカレーネオは、
+“フタをあけ、箱ごとレンジで2分”で調理することも出来る。
+これからも、「おいしい進化は、とまらない。」","ボンカレーゴールド21
+2001年、“21世紀スタンダードカレー”として質・量とも
+さらに充実された「ボンカレーゴールド21」の発売が開始
+された。辛さだけの違いではなく、フルーティな甘口、
+コクと旨みの中辛、スパイシーな辛口、辛さと旨さの熱辛と
+それぞれの辛さに合った味の個性が特長である。",,"Bon Curry Neo
+2009年2月12日，在上市第41周年的“Bon Curry之日”，
+全新的「Bon Curry Neo」正式发售。它保留了母亲为家人
+倾注时间与爱意烹制的美味，并在坚守这一原点的同时
+随时代不断进化。以可靠食材精心制作，
+还可“打开盒盖，连盒微波2分钟”完成加热。
+今后也将继续“让美味进化，永不停步”。
+",,MATCH,599,400,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_AUTHORITY_PRODUCT;NEWLINES_PRESERVED
+5D904CFF,8,30,30;31,2,,page22:tag4:entity71:key00000047:ref30:ord0;page22:tag4:entity70:key00000046:ref31:ord0,"ボンカレーネオ
+2009年、発売41年目の2月12日、ボンカレーの日を記念して
+「ボンカレーネオ」が新発売された。お母さんが家族の為に
+手間ひまかけて作る愛情たっぷりの美味しさ。「ボンカレーネオ」は、
+その原点を大切にしながら、時代と共に進化し続けるカレーである。
+確かな素材で、ていねいに作られたボンカレーネオは、
+“フタをあけ、箱ごとレンジで2分”で調理することも出来る。
+これからも、「おいしい進化は、とまらない。」","ボンカレーゴールド21
+2001年、“21世紀スタンダードカレー”として質・量とも
+さらに充実された「ボンカレーゴールド21」の発売が開始
+された。辛さだけの違いではなく、フルーティな甘口、
+コクと旨みの中辛、スパイシーな辛口、辛さと旨さの熱辛と
+それぞれの辛さに合った味の個性が特長である。","ボンカレー
+1968年2月12日、市販用として世界ではじめてのレトルト食品
+「ボンカレー」が新発売された（発売当初阪神地区限定）。
+いまや定番となった「ボンカレー」というネーミングだが、
+これは、フランス語のBON（良い、おいしい）と英語のCURRY
+（カレー）を組み合わせ、まさにおいしいカレーという意味が
+込められた「ボンカレー」に決定されたのである。",,"Bon Curry Gold 21
+2001年，作为“21世纪标准咖喱”，品质与分量都更加充实的
+「Bon Curry Gold 21」开始发售。各口味不只是辣度不同，
+甜味果香浓郁，中辣醇厚鲜美，辣味辛香十足，
+特辣兼具辛辣与美味，每种辣度都有各自鲜明的风味。
+",,MATCH,408,306,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=JPN_AUTHORITY_PRODUCT;NEWLINES_PRESERVED
+5D904CFF,9,33,33;34,2,,page22:tag4:entity69:key00000045:ref33:ord0;page22:tag4:entity68:key00000044:ref34:ord0,"ボンカレーゴールド21
+2001年、“21世紀スタンダードカレー”として質・量とも
+さらに充実された「ボンカレーゴールド21」の発売が開始
+された。辛さだけの違いではなく、フルーティな甘口、
+コクと旨みの中辛、スパイシーな辛口、辛さと旨さの熱辛と
+それぞれの辛さに合った味の個性が特長である。","ボンカレー
+1968年2月12日、市販用として世界ではじめてのレトルト食品
+「ボンカレー」が新発売された（発売当初阪神地区限定）。
+いまや定番となった「ボンカレー」というネーミングだが、
+これは、フランス語のBON（良い、おいしい）と英語のCURRY
+（カレー）を組み合わせ、まさにおいしいカレーという意味が
+込められた「ボンカレー」に決定されたのである。",（不要）,,"Bon Curry
+1968年2月12日，世界首款面向市场销售的蒸煮袋食品
+「Bon Curry」正式发售（最初仅限阪神地区）。
+如今已深入人心的名称“Bon Curry”，
+是由法语BON（好、美味）与英语CURRY
+（咖喱）组合而成，蕴含着
+“美味咖喱”的含义。",,MATCH,492,303,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2; review_flag=JPN_AUTHORITY_PRODUCT;NEWLINES_PRESERVED
+5D904CFF,10,125,125;126;127;128;129;130;132;133;134;135,10,,page22:tag4:entity445:key000001BD:ref125:ord0;page22:tag4:entity444:key000001BC:ref126:ord0;page22:tag4:entity443:key000001BB:ref127:ord0;page22:tag4:entity442:key000001BA:ref128:ord0;page22:tag4:entity441:key000001B9:ref129:ord0;page22:tag4:entity440:key000001B8:ref130:ord0;page22:tag4:entity439:key000001B7:ref132:ord0;page22:tag4:entity438:key000001B6:ref133:ord0;page22:tag4:entity437:key000001B5:ref134:ord0;page22:tag4:entity436:key000001B4:ref135:ord0,（不要）,（不要）（対戦専用）,（不要）,,（未使用）（对战专用）,,MATCH,30,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=10; review_flag=UNUSED_LABEL
+5D904CFF,11,139,139;141;172;178;181;182;183;184;185;186;188;189;200;201;204;208;212;213;214;215;216;217;218;219,24,,page22:tag4:entity432:key000001B0:ref139:ord0;page22:tag4:entity430:key000001AE:ref141:ord0;page22:tag4:entity402:key00000192:ref172:ord0;page22:tag4:entity398:key0000018E:ref178:ord0;page22:tag4:entity395:key0000018B:ref181:ord0;page22:tag4:entity394:key0000018A:ref182:ord0;page22:tag4:entity393:key00000189:ref183:ord0;page22:tag4:entity392:key00000188:ref184:ord0;page22:tag4:entity391:key00000187:ref185:ord0;page22:tag4:entity390:key00000186:ref186:ord0;page22:tag4:entity389:key00000185:ref188:ord0;page22:tag4:entity388:key00000184:ref189:ord0;page22:tag4:entity378:key0000017A:ref200:ord0;page22:tag4:entity377:key00000179:ref201:ord0;page22:tag4:entity374:key00000176:ref204:ord0;page22:tag4:entity370:key00000172:ref208:ord0;page22:tag4:entity367:key0000016F:ref212:ord0;page22:tag4:entity366:key0000016E:ref213:ord0;page22:tag4:entity365:key0000016D:ref214:ord0;page22:tag4:entity364:key0000016C:ref215:ord0;page22:tag4:entity363:key0000016B:ref216:ord0;page22:tag4:entity362:key0000016A:ref217:ord0;page22:tag4:entity361:key00000169:ref218:ord0;page22:tag4:entity360:key00000168:ref219:ord0,（不要）,（不要）（ダウンロード）,（不要）,,（未使用）（下载）,,MATCH,36,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=24; review_flag=UNUSED_LABEL
+5D904CFF,12,222,222;223;224,3,,page22:tag4:entity358:key00000166:ref222:ord0;page22:tag4:entity357:key00000165:ref223:ord0;page22:tag4:entity356:key00000164:ref224:ord0,（不要）,"ギアレックス
+謎多き竜の眷属。別称、核竜。
+大空を舞う翼膜は持っていないが、核による突然変異か
+巨銃を連想させる突起を持ち、その強酸の体液攻撃を防ぐ
+手段は皆無。","ティガレックス
+強靭な肉体を持ちその鋭い牙はなにものをも噛み砕く。
+まさに絶対的強者。その突進をとめられる者はいない。
+怒らせたら最後、ハンターは死を覚悟するしかないだろう。
+
+©CAPCOM CO., LTD.",,"Gear REX
+充满谜团的龙族，别称“核龙”。
+虽然没有翱翔天空的翼膜，
+却可能因核辐射突变长出形似巨炮的突起，
+其强酸体液攻击没有任何防御手段。",,MATCH,235,198,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=3; review_flag=NEWLINES_PRESERVED
+5D904CFF,13,225,225,1,,page22:tag4:entity355:key00000163:ref225:ord0,"ギアレックス
+謎多き竜の眷属。別称、核竜。
+大空を舞う翼膜は持っていないが、核による突然変異か
+巨銃を連想させる突起を持ち、その強酸の体液攻撃を防ぐ
+手段は皆無。","ティガレックス
+強靭な肉体を持ちその鋭い牙はなにものをも噛み砕く。
+まさに絶対的強者。その突進をとめられる者はいない。
+怒らせたら最後、ハンターは死を覚悟するしかないだろう。
+
+©CAPCOM CO., LTD.","リオレウス
+空の王者の異名を持つ、飛竜。
+その異名に恥じない空中からの攻撃を得意とする。
+空中からのブレスや爪攻撃に耐えられる者はいない。
+
+©CAPCOM CO., LTD.",,"轰龙
+拥有强韧的肉体，锐利獠牙足以咬碎一切。
+堪称绝对的强者，无人能够阻挡它的冲锋。
+一旦将其激怒，猎人恐怕只能做好死亡的觉悟。
+
+©CAPCOM CO., LTD.",,MATCH,275,206,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_COPYRIGHT_LITERAL
+5D904CFF,14,226,226,1,,page22:tag4:entity354:key00000162:ref226:ord0,"ティガレックス
+強靭な肉体を持ちその鋭い牙はなにものをも噛み砕く。
+まさに絶対的強者。その突進をとめられる者はいない。
+怒らせたら最後、ハンターは死を覚悟するしかないだろう。
+
+©CAPCOM CO., LTD.","リオレウス
+空の王者の異名を持つ、飛竜。
+その異名に恥じない空中からの攻撃を得意とする。
+空中からのブレスや爪攻撃に耐えられる者はいない。
+
+©CAPCOM CO., LTD.",（不要）,,"雄火龙
+有“天空王者”之称的飞龙。
+它擅长不负其名的空中攻击，
+无人能够承受从空中袭来的吐息与利爪。
+
+©CAPCOM CO., LTD.",,MATCH,221,164,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_COPYRIGHT_LITERAL
+5D904CFF,15,408,408,1,,page22:tag4:entity190:key000000BE:ref408:ord0,（不要）,"枯れ草で作られた箱。
+一見何の変哲もないただの箱にしか見えないが、敵を中に
+引き込んで気絶させることが出来る。また、CO-OP時に
+味方がフルトン回収システムを装備していると、引き込んだ敵を
+マザーベースへ搬送可能。",（不要）,,"用枯草制成的箱子。
+乍看只是普通箱子，
+却能把敌人拖进去并使其昏迷。CO-OP时
+若队友装备了富尔顿回收系统，
+还可将拖入箱中的敌人运往母基地。",,MATCH,306,198,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=NEWLINES_PRESERVED
+5D904CFF,16,425,425,1,,page22:tag4:entity175:key000000AF:ref425:ord0,（不要）,"ドリトス
+スペイン語から派生して“小さな金塊”という意味を持つ「ドリトス」は、 
+コーンをまるごとすりつぶして薄くのばしたものを、オーブンでこんがり
+焼いてからパリッと油で揚げた、独特の食感と香ばしい風味が特徴の
+スナック菓子。
+日本では1987年に発売され、日本のスナック市場で最初に
+トルティアチップスのカテゴリーを確立した商品として、
+20年以上にわたって愛され続けている。","ペプシネックス
+『ゼロカロリーでおいしい』を徹底追求したコーラ、ペプシネックス。
+厚みがありながらキレのあるすっきりとした味わいで、
+しかも『ゼロカロリー』。コーラならではの飲みごたえが特長。
+インパクトのある『黒』をベースにシルバーのグラデーションを施した
+スタイリッシュで存在感のあるデザインも高い支持を集めている。
+『ＮＥＸ』とは、新時代のコーラ（NEXT COLA）が語源。
+『NEW EXCITEMENT（新しい刺激）』
+『NEW EXPERIENCE（新しい体験）』
+『NEW EXPECTATION（新しい期待）』などの意味も込められている。",,"多力多滋
+“Doritos”源自西班牙语，意为“小金块”。
+它将整粒玉米磨碎压薄，先在烤箱中烘烤，
+再用油炸至酥脆，具有独特口感与香浓风味。
+1987年在日本上市，是日本零食市场首款
+建立玉米片品类的产品，
+二十多年来一直深受喜爱。
+",,MATCH,542,315,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_AUTHORITY_PRODUCT;NEWLINES_PRESERVED
+5D904CFF,17,426,426,1,,page22:tag4:entity174:key000000AE:ref426:ord0,"ドリトス
+スペイン語から派生して“小さな金塊”という意味を持つ「ドリトス」は、 
+コーンをまるごとすりつぶして薄くのばしたものを、オーブンでこんがり
+焼いてからパリッと油で揚げた、独特の食感と香ばしい風味が特徴の
+スナック菓子。
+日本では1987年に発売され、日本のスナック市場で最初に
+トルティアチップスのカテゴリーを確立した商品として、
+20年以上にわたって愛され続けている。","ペプシネックス
+『ゼロカロリーでおいしい』を徹底追求したコーラ、ペプシネックス。
+厚みがありながらキレのあるすっきりとした味わいで、
+しかも『ゼロカロリー』。コーラならではの飲みごたえが特長。
+インパクトのある『黒』をベースにシルバーのグラデーションを施した
+スタイリッシュで存在感のあるデザインも高い支持を集めている。
+『ＮＥＸ』とは、新時代のコーラ（NEXT COLA）が語源。
+『NEW EXCITEMENT（新しい刺激）』
+『NEW EXPERIENCE（新しい体験）』
+『NEW EXPECTATION（新しい期待）』などの意味も込められている。","マウンテンデュー
+1958年にアメリカで誕生して以来、若者を中心に人気を集め、
+日本を始め世界中で愛飲されているロングセラーブランド。
+ゴクゴク飲める心地よい刺激で喉の渇きをいやすユニークな
+柑橘系（シトラス）の味わいが特長の炭酸飲料。
+マウンテンデューとは、『山のしずく』という意味で、
+爽やかな美味しさを表している。",,"百事NEX
+彻底追求“零卡路里也美味”的可乐。
+口感醇厚却清爽利落，而且“零卡路里”。
+仍保留可乐特有的畅快饮感。
+以醒目的黑色为基调、辅以银色渐变的
+时尚设计也广受欢迎。
+“NEX”源自新时代可乐（NEXT COLA）。
+同时包含“NEW EXCITEMENT（新刺激）”
+“NEW EXPERIENCE（新体验）”“NEW EXPECTATION（新期待）”等含义。
+",,MATCH,712,424,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_AUTHORITY_PRODUCT;NEWLINES_PRESERVED
+5D904CFF,18,427,427,1,,page22:tag4:entity173:key000000AD:ref427:ord0,"ペプシネックス
+『ゼロカロリーでおいしい』を徹底追求したコーラ、ペプシネックス。
+厚みがありながらキレのあるすっきりとした味わいで、
+しかも『ゼロカロリー』。コーラならではの飲みごたえが特長。
+インパクトのある『黒』をベースにシルバーのグラデーションを施した
+スタイリッシュで存在感のあるデザインも高い支持を集めている。
+『ＮＥＸ』とは、新時代のコーラ（NEXT COLA）が語源。
+『NEW EXCITEMENT（新しい刺激）』
+『NEW EXPERIENCE（新しい体験）』
+『NEW EXPECTATION（新しい期待）』などの意味も込められている。","マウンテンデュー
+1958年にアメリカで誕生して以来、若者を中心に人気を集め、
+日本を始め世界中で愛飲されているロングセラーブランド。
+ゴクゴク飲める心地よい刺激で喉の渇きをいやすユニークな
+柑橘系（シトラス）の味わいが特長の炭酸飲料。
+マウンテンデューとは、『山のしずく』という意味で、
+爽やかな美味しさを表している。",（不要）,,"激浪
+自1958年诞生于美国以来，主要在年轻人中广受欢迎，
+成为包括日本在内风靡全球的长销品牌。
+其特色是独特的柑橘风味，
+顺口畅饮的舒适刺激能够消解口渴。
+Mountain Dew意为“山间露水”，
+象征清爽的美味。",,MATCH,460,283,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_AUTHORITY_PRODUCT;NEWLINES_PRESERVED
+5D904CFF,19,511,511;512;513;514;1013;1014;1015;1016;1017;1018,10,,page22:tag4:entity610:key00000063:ref511:ord0;page22:tag4:entity609:key00000062:ref512:ord0;page22:tag4:entity608:key00000061:ref513:ord0;page22:tag4:entity607:key00000060:ref514:ord0;page22:tag4:entity616:key00000069:ref1013:ord0;page22:tag4:entity615:key00000068:ref1014:ord0;page22:tag4:entity614:key00000067:ref1015:ord0;page22:tag4:entity613:key00000066:ref1016:ord0;page22:tag4:entity612:key00000065:ref1017:ord0;page22:tag4:entity611:key00000064:ref1018:ord0,（不要）,普通よりも大きめなダンボール箱。,ステルス状態になれる迷彩。,,比普通型号更大的纸箱。,,MATCH,48,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=10
+5D904CFF,20,515,515,1,,page22:tag4:entity606:key0000005F:ref515:ord0,普通よりも大きめなダンボール箱。,ステルス状態になれる迷彩。,ステルス状態になれるマット。,,可进入隐形状态的迷彩。,,MATCH,39,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,21,516,516;517,2,,page22:tag4:entity605:key0000005E:ref516:ord0;page22:tag4:entity604:key0000005D:ref517:ord0,ステルス状態になれる迷彩。,ステルス状態になれるマット。,敵情報解析装置。,,可进入隐形状态的垫子。,,MATCH,42,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D904CFF,22,518,518;519;520;522;523,5,,page22:tag4:entity603:key0000005C:ref518:ord0;page22:tag4:entity602:key0000005B:ref519:ord0;page22:tag4:entity601:key0000005A:ref520:ord0;page22:tag4:entity600:key00000059:ref522:ord0;page22:tag4:entity599:key00000058:ref523:ord0,ステルス状態になれるマット。,敵情報解析装置。,ジャーナリスト御用達一眼カメラ。,,敌情分析装置。,,MATCH,24,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,23,524,524,1,,page22:tag4:entity598:key00000057:ref524:ord0,敵情報解析装置。,ジャーナリスト御用達一眼カメラ。,"ストレンジラブの研究施設に入るために使う
+IDカード。",,记者常用的单反相机。,,MATCH,48,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,24,525,525,1,,page22:tag4:entity597:key00000056:ref525:ord0,ジャーナリスト御用達一眼カメラ。,"ストレンジラブの研究施設に入るために使う
+IDカード。",独房のドアを開くために使うIDカード。,,"用于进入Strangelove研究设施的
+ID卡。",,MATCH,75,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,25,526,526,1,,page22:tag4:entity596:key00000055:ref526:ord0,"ストレンジラブの研究施設に入るために使う
+IDカード。",独房のドアを開くために使うIDカード。,高硬度ワイヤーで作られた糸鋸。,,用于打开牢房门的ID卡。,,MATCH,53,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,26,527,527,1,,page22:tag4:entity595:key00000054:ref527:ord0,独房のドアを開くために使うIDカード。,高硬度ワイヤーで作られた糸鋸。,"ヒューイがスネークに託した、
+ストレンジラブへの手紙。",,用高硬度钢丝制成的线锯。,,MATCH,45,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,27,528,528,1,,page22:tag4:entity594:key00000053:ref528:ord0,高硬度ワイヤーで作られた糸鋸。,"ヒューイがスネークに託した、
+ストレンジラブへの手紙。","ポータブルオーディオプレーヤー。
+BGMを自由に変更できる。",,"Huey托Snake转交给
+Strangelove的信。",,MATCH,79,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,28,529,529;530;531;533,4,,page22:tag4:entity593:key00000052:ref529:ord0;page22:tag4:entity592:key00000051:ref530:ord0;page22:tag4:entity591:key00000050:ref531:ord0;page22:tag4:entity590:key0000004F:ref533:ord0,"ヒューイがスネークに託した、
+ストレンジラブへの手紙。","ポータブルオーディオプレーヤー。
+BGMを自由に変更できる。","使うと気力を回復してくれる
+フレグランス　ボディスプレー",,"便携式音频播放器。
+可自由更换BGM。",,MATCH,82,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5D904CFF,29,534,534,1,,page22:tag4:entity589:key0000004E:ref534:ord0,"ポータブルオーディオプレーヤー。
+BGMを自由に変更できる。","使うと気力を回復してくれる
+フレグランス　ボディスプレー",軍用バッテリー。,,"使用后可恢复精神值的
+香氛身体喷雾。",,MATCH,82,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,30,535,535;536;537;538;539,5,,page22:tag4:entity588:key0000004D:ref535:ord0;page22:tag4:entity587:key0000004C:ref536:ord0;page22:tag4:entity586:key0000004B:ref537:ord0;page22:tag4:entity585:key0000004A:ref538:ord0;page22:tag4:entity584:key00000049:ref539:ord0,"使うと気力を回復してくれる
+フレグランス　ボディスプレー",軍用バッテリー。,"レトルトカレー。
+体力（LIFE）を回復する。",,军用电池。,,MATCH,24,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,31,540,540;541;542;544;545,5,,page22:tag4:entity583:key00000048:ref540:ord0;page22:tag4:entity582:key00000047:ref541:ord0;page22:tag4:entity581:key00000046:ref542:ord0;page22:tag4:entity580:key00000045:ref544:ord0;page22:tag4:entity579:key00000044:ref545:ord0,軍用バッテリー。,"レトルトカレー。
+体力（LIFE）を回復する。",軍用携帯糧食。LIFEを回復する。,,"即食咖喱。
+恢复体力（LIFE）。",,MATCH,59,41,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,32,546,546;547;548;549;550,5,,page22:tag4:entity578:key00000043:ref546:ord0;page22:tag4:entity577:key00000042:ref547:ord0;page22:tag4:entity576:key00000041:ref548:ord0;page22:tag4:entity575:key00000040:ref549:ord0;page22:tag4:entity574:key0000003F:ref550:ord0,"レトルトカレー。
+体力（LIFE）を回復する。",軍用携帯糧食。LIFEを回復する。,（不要）,,军用便携口粮。恢复LIFE。,,MATCH,43,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,33,568,568,1,,page22:tag4:entity1017:key000001FA:ref568:ord0,（不要）,"哨戒兵から奪ったIDカード。
+ストレンジラブの研究施設に入るために使う。",ソ連製ライフル・機関銃用徹甲弾。,,"从巡逻兵手中夺来的ID卡。
+用于进入Strangelove的研究设施。",,MATCH,102,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,34,634,634,1,,page22:tag4:entity958:key000001BF:ref634:ord0,"哨戒兵から奪ったIDカード。
+ストレンジラブの研究施設に入るために使う。",ソ連製ライフル・機関銃用徹甲弾。,アサルトライフル用徹甲弾。,,苏制步枪、机枪用穿甲弹。,,MATCH,48,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,35,635,635,1,,page22:tag4:entity957:key000001BE:ref635:ord0,ソ連製ライフル・機関銃用徹甲弾。,アサルトライフル用徹甲弾。,（不要）,,突击步枪用穿甲弹。,,MATCH,39,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,36,869,869,1,,page22:tag4:entity746:key000000EB:ref869:ord0,（不要）,"カールグスタフ用予備弾薬。
+フルトン回収機能付き。",M202用予備ロケット弾。,,"Carl Gustav备用弹药。
+附带富尔顿回收功能。",,MATCH,73,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,37,870,870,1,,page22:tag4:entity745:key000000EA:ref870:ord0,"カールグスタフ用予備弾薬。
+フルトン回収機能付き。",M202用予備ロケット弾。,LAW用予備ロケット弾。,,M202备用火箭弹。,,MATCH,31,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,38,871,871,1,,page22:tag4:entity744:key000000E9:ref871:ord0,M202用予備ロケット弾。,LAW用予備ロケット弾。,M47用予備ミサイル。,,LAW备用火箭弹。,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,39,872,872,1,,page22:tag4:entity743:key000000E8:ref872:ord0,LAW用予備ロケット弾。,M47用予備ミサイル。,XFIM-92A用予備ミサイル。,,M47备用导弹。,,MATCH,27,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,40,873,873,1,,page22:tag4:entity742:key000000E7:ref873:ord0,M47用予備ミサイル。,XFIM-92A用予備ミサイル。,FIM-43用予備ミサイル。,,XFIM-92A备用导弹。,,MATCH,32,23,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,41,874,874,1,,page22:tag4:entity741:key000000E6:ref874:ord0,XFIM-92A用予備ミサイル。,FIM-43用予備ミサイル。,（不要）,,FIM-43备用导弹。,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,42,877,877,1,,page22:tag4:entity739:key000000E4:ref877:ord0,（不要）,"カールグスタフ用予備弾薬。
+多目的榴弾。",カールグスタフ用予備弾薬。,,"Carl Gustav备用弹药。
+多用途榴弹。",,MATCH,58,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,43,878,878,1,,page22:tag4:entity738:key000000E3:ref878:ord0,"カールグスタフ用予備弾薬。
+多目的榴弾。",カールグスタフ用予備弾薬。,RPG7用予備グレネード。,,Carl Gustav备用弹药。,,MATCH,39,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,44,879,879,1,,page22:tag4:entity737:key000000E2:ref879:ord0,カールグスタフ用予備弾薬。,RPG7用予備グレネード。,RPG2用予備グレネード。,,RPG7备用榴弹。,,MATCH,31,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,45,880,880,1,,page22:tag4:entity736:key000000E1:ref880:ord0,RPG7用予備グレネード。,RPG2用予備グレネード。,『レールガン。』用飛翔体。,,RPG2备用榴弹。,,MATCH,31,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,46,881,881,1,,page22:tag4:entity735:key000000E0:ref881:ord0,RPG2用予備グレネード。,『レールガン。』用飛翔体。,ライフル・機関銃用徹甲弾。,,『轨道炮。』用飞行弹体。,,MATCH,39,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1; review_flag=JPN_PUNCTUATION
+5D904CFF,47,882,882,1,,page22:tag4:entity734:key000000DF:ref882:ord0,『レールガン。』用飛翔体。,ライフル・機関銃用徹甲弾。,"ライフル用麻酔弾。
+非殺傷弾薬。",,步枪、机枪用穿甲弹。,,MATCH,39,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,48,883,883,1,,page22:tag4:entity733:key000000DE:ref883:ord0,ライフル・機関銃用徹甲弾。,"ライフル用麻酔弾。
+非殺傷弾薬。",火縄銃用の鉛玉。,,"步枪用麻醉弹。
+非致命弹药。",,MATCH,46,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,49,884,884,1,,page22:tag4:entity732:key000000DD:ref884:ord0,"ライフル用麻酔弾。
+非殺傷弾薬。",火縄銃用の鉛玉。,支援補給マーカー（射出型）,,火绳枪用铅弹。,,MATCH,24,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,50,885,885,1,,page22:tag4:entity731:key000000DC:ref885:ord0,火縄銃用の鉛玉。,支援補給マーカー（射出型）,支援砲撃マーカー（射出型）,,支援补给标记（发射型）,,MATCH,39,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,51,887,887,1,,page22:tag4:entity730:key000000DB:ref887:ord0,支援補給マーカー（射出型）,支援砲撃マーカー（射出型）,"ソ連製グレネードランチャー用発煙弾。
+非殺傷弾薬。",,支援炮击标记（发射型）,,MATCH,39,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,52,888,888,1,,page22:tag4:entity729:key000000DA:ref888:ord0,支援砲撃マーカー（射出型）,"ソ連製グレネードランチャー用発煙弾。
+非殺傷弾薬。","グレネードランチャー用発煙弾。
+非殺傷弾薬。",,"苏制榴弹发射器用烟雾弹。
+非致命弹药。",,MATCH,73,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,53,889,889,1,,page22:tag4:entity728:key000000D9:ref889:ord0,"ソ連製グレネードランチャー用発煙弾。
+非殺傷弾薬。","グレネードランチャー用発煙弾。
+非殺傷弾薬。","ショットガン用ゴム弾。
+非殺傷弾薬。",,"榴弹发射器用烟雾弹。
+非致命弹药。",,MATCH,64,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,54,890,890,1,,page22:tag4:entity727:key000000D8:ref890:ord0,"グレネードランチャー用発煙弾。
+非殺傷弾薬。","ショットガン用ゴム弾。
+非殺傷弾薬。","中南米でよく飲まれているお茶。
+気力を回復する。",,"霰弹枪用橡胶弹。
+非致命弹药。",,MATCH,52,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,55,891,891;892;893;894;895,5,,page22:tag4:entity726:key000000D7:ref891:ord0;page22:tag4:entity725:key000000D6:ref892:ord0;page22:tag4:entity724:key000000D5:ref893:ord0;page22:tag4:entity723:key000000D4:ref894:ord0;page22:tag4:entity722:key000000D3:ref895:ord0,"ショットガン用ゴム弾。
+非殺傷弾薬。","中南米でよく飲まれているお茶。
+気力を回復する。",焦げたレーション。おいしそうには見えない…。,,"中南美洲常饮用的茶。
+恢复精神值。",,MATCH,70,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,56,896,896;898;899;900;901,5,,page22:tag4:entity721:key000000D2:ref896:ord0;page22:tag4:entity720:key000000D1:ref898:ord0;page22:tag4:entity719:key000000D0:ref899:ord0;page22:tag4:entity718:key000000CF:ref900:ord0;page22:tag4:entity717:key000000CE:ref901:ord0,"中南米でよく飲まれているお茶。
+気力を回復する。",焦げたレーション。おいしそうには見えない…。,よく火の通ったレーション。とてもおいしそう。,,烤焦的口粮。看起来不太好吃……,,MATCH,66,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,57,902,902;903;904;905;906,5,,page22:tag4:entity716:key000000CD:ref902:ord0;page22:tag4:entity715:key000000CC:ref903:ord0;page22:tag4:entity714:key000000CB:ref904:ord0;page22:tag4:entity713:key000000CA:ref905:ord0;page22:tag4:entity712:key000000C9:ref906:ord0,焦げたレーション。おいしそうには見えない…。,よく火の通ったレーション。とてもおいしそう。,生焼けのレーション。かなり気持ち悪い…。,,完全烤熟的口粮。看起来非常美味。,,MATCH,66,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,58,907,907;910;911;912;913,5,,page22:tag4:entity711:key000000C8:ref907:ord0;page22:tag4:entity710:key000000C7:ref910:ord0;page22:tag4:entity709:key000000C6:ref911:ord0;page22:tag4:entity708:key000000C5:ref912:ord0;page22:tag4:entity707:key000000C4:ref913:ord0,よく火の通ったレーション。とてもおいしそう。,生焼けのレーション。かなり気持ち悪い…。,救急救命効果のあるダンボール箱。,,半生不熟的口粮。看起来很恶心……,,MATCH,60,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,59,914,914;915;916;917;918,5,,page22:tag4:entity706:key000000C3:ref914:ord0;page22:tag4:entity705:key000000C2:ref915:ord0;page22:tag4:entity704:key000000C1:ref916:ord0;page22:tag4:entity703:key000000C0:ref917:ord0;page22:tag4:entity702:key000000BF:ref918:ord0,生焼けのレーション。かなり気持ち悪い…。,救急救命効果のあるダンボール箱。,"枯れ草で作られた箱。
+特殊な効果がある。",,具有紧急救生效果的纸箱。,,MATCH,48,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,60,919,919,1,,page22:tag4:entity701:key000000BE:ref919:ord0,救急救命効果のあるダンボール箱。,"枯れ草で作られた箱。
+特殊な効果がある。",ここにいてはいけない…,,"用枯草制成的箱子。
+具有特殊效果。",,MATCH,58,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,61,921,921,1,,page22:tag4:entity700:key000000BD:ref921:ord0,"枯れ草で作られた箱。
+特殊な効果がある。",ここにいてはいけない…,"発煙効果のある爆破機能を持った
+ダンボール箱。",,不该待在这里……,,MATCH,33,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,62,922,922;923;924;925,4,,page22:tag4:entity699:key000000BC:ref922:ord0;page22:tag4:entity698:key000000BB:ref923:ord0;page22:tag4:entity697:key000000BA:ref924:ord0;page22:tag4:entity696:key000000B9:ref925:ord0,ここにいてはいけない…,"発煙効果のある爆破機能を持った
+ダンボール箱。","スタン効果のある爆破機能を持った
+ダンボール箱。",,"装有烟雾爆破装置的
+纸箱。",,MATCH,67,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5D904CFF,63,926,926;927;928;929,4,,page22:tag4:entity695:key000000B8:ref926:ord0;page22:tag4:entity694:key000000B7:ref927:ord0;page22:tag4:entity693:key000000B6:ref928:ord0;page22:tag4:entity692:key000000B5:ref929:ord0,"発煙効果のある爆破機能を持った
+ダンボール箱。","スタン効果のある爆破機能を持った
+ダンボール箱。",爆破機能を持ったダンボール箱。,,"装有眩晕爆破装置的
+纸箱。",,MATCH,70,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5D904CFF,64,930,930;932;933;934;935,5,,page22:tag4:entity691:key000000B4:ref930:ord0;page22:tag4:entity690:key000000B3:ref932:ord0;page22:tag4:entity689:key000000B2:ref933:ord0;page22:tag4:entity688:key000000B1:ref934:ord0;page22:tag4:entity687:key000000B0:ref935:ord0,"スタン効果のある爆破機能を持った
+ダンボール箱。",爆破機能を持ったダンボール箱。,"おいしいトルティアチップス。
+LIFEを回復する。",,装有爆破装置的纸箱。,,MATCH,45,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,65,936,936,1,,page22:tag4:entity686:key000000AF:ref936:ord0,爆破機能を持ったダンボール箱。,"おいしいトルティアチップス。
+LIFEを回復する。","ゼロカロリーでおいしいを追求したコーラ。
+キレのある味わいと強い刺激でリフレッシュ。",,"美味的玉米片。
+恢复LIFE。",,MATCH,65,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,66,937,937,1,,page22:tag4:entity685:key000000AE:ref937:ord0,"おいしいトルティアチップス。
+LIFEを回復する。","ゼロカロリーでおいしいを追求したコーラ。
+キレのある味わいと強い刺激でリフレッシュ。","クセになる柑橘系の味わいの炭酸飲料。
+ゴクゴク飲める心地よい刺激が渇きを癒す。",,"追求零卡路里与美味的可乐。
+清爽口感与强烈刺激让人精神一振。",,MATCH,124,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,67,938,938,1,,page22:tag4:entity684:key000000AD:ref938:ord0,"ゼロカロリーでおいしいを追求したコーラ。
+キレのある味わいと強い刺激でリフレッシュ。","クセになる柑橘系の味わいの炭酸飲料。
+ゴクゴク飲める心地よい刺激が渇きを癒す。",音源位置表示センサー。,,"令人上瘾的柑橘风味碳酸饮料。
+畅快的刺激能够消解口渴。",,MATCH,115,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,68,939,939;940;941;943;944,5,,page22:tag4:entity683:key000000AC:ref939:ord0;page22:tag4:entity682:key000000AB:ref940:ord0;page22:tag4:entity681:key000000AA:ref941:ord0;page22:tag4:entity680:key000000A9:ref943:ord0;page22:tag4:entity679:key000000A8:ref944:ord0,"クセになる柑橘系の味わいの炭酸飲料。
+ゴクゴク飲める心地よい刺激が渇きを癒す。",音源位置表示センサー。,高性能全方位監視レーダー。,,声源位置显示传感器。,,MATCH,33,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,69,945,945;946;947;948;949,5,,page22:tag4:entity678:key000000A7:ref945:ord0;page22:tag4:entity677:key000000A6:ref946:ord0;page22:tag4:entity676:key000000A5:ref947:ord0;page22:tag4:entity675:key000000A4:ref948:ord0;page22:tag4:entity674:key000000A3:ref949:ord0,音源位置表示センサー。,高性能全方位監視レーダー。,全方位音響視覚化センサー。,,高性能全方位监视雷达。,,MATCH,39,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,70,950,950;951,2,,page22:tag4:entity673:key000000A2:ref950:ord0;page22:tag4:entity672:key000000A1:ref951:ord0,高性能全方位監視レーダー。,全方位音響視覚化センサー。,"撃ち込むと相手を気絶させる
+特殊弾薬。",,全方位声响可视化传感器。,,MATCH,39,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D904CFF,71,952,952,1,,page22:tag4:entity671:key000000A0:ref952:ord0,全方位音響視覚化センサー。,"撃ち込むと相手を気絶させる
+特殊弾薬。","撃ち込むと相手のLIFEを回復する
+特殊弾薬。",,"命中后使目标昏迷的
+特殊弹药。",,MATCH,55,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,72,954,954,1,,page22:tag4:entity670:key0000009F:ref954:ord0,"撃ち込むと相手を気絶させる
+特殊弾薬。","撃ち込むと相手のLIFEを回復する
+特殊弾薬。","撃ち込むと相手の気力を回復する
+特殊弾薬。",,"命中后恢复目标LIFE的
+特殊弹药。",,MATCH,59,44,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,73,955,955,1,,page22:tag4:entity669:key0000009E:ref955:ord0,"撃ち込むと相手のLIFEを回復する
+特殊弾薬。","撃ち込むと相手の気力を回復する
+特殊弾薬。",小型成形炸薬弾。カンプピストル専用。,,"命中后恢复目标精神值的
+特殊弹药。",,MATCH,61,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,74,956,956,1,,page22:tag4:entity668:key0000009D:ref956:ord0,"撃ち込むと相手の気力を回復する
+特殊弾薬。",小型成形炸薬弾。カンプピストル専用。,ソ連製中型拳銃用弾薬。,,小型成形炸药弹。Kampfpistole专用。,,MATCH,54,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,75,957,957,1,,page22:tag4:entity667:key0000009C:ref957:ord0,小型成形炸薬弾。カンプピストル専用。,ソ連製中型拳銃用弾薬。,サブマシンガン用弾薬。,,苏制中型手枪用弹药。,,MATCH,33,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,76,958,958;970,2,,page22:tag4:entity666:key0000009B:ref958:ord0;page22:tag4:entity655:key00000090:ref970:ord0,ソ連製中型拳銃用弾薬。,サブマシンガン用弾薬。,旧式大口径ライフル用弾薬。,,冲锋枪用弹药。,,MATCH,33,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=2
+5D904CFF,77,959,959,1,,page22:tag4:entity665:key0000009A:ref959:ord0,サブマシンガン用弾薬。,旧式大口径ライフル用弾薬。,ソ連製ライフル・機関銃用弾薬。,,老式大口径步枪用弹药。,,MATCH,39,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,78,960,960,1,,page22:tag4:entity664:key00000099:ref960:ord0,旧式大口径ライフル用弾薬。,ソ連製ライフル・機関銃用弾薬。,大口径ライフル・機関銃用弾薬。,,苏制步枪、机枪用弹药。,,MATCH,45,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,79,961,961,1,,page22:tag4:entity663:key00000098:ref961:ord0,ソ連製ライフル・機関銃用弾薬。,大口径ライフル・機関銃用弾薬。,ソ連製アサルトライフル用弾薬。,,大口径步枪、机枪用弹药。,,MATCH,45,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,80,962,962,1,,page22:tag4:entity662:key00000097:ref962:ord0,大口径ライフル・機関銃用弾薬。,ソ連製アサルトライフル用弾薬。,アサルトライフル用弾薬。,,苏制突击步枪用弹药。,,MATCH,45,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,81,963,963,1,,page22:tag4:entity661:key00000096:ref963:ord0,ソ連製アサルトライフル用弾薬。,アサルトライフル用弾薬。,大型拳銃、サブマシンガン用弾薬。,,突击步枪用弹药。,,MATCH,36,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,82,965,965,1,,page22:tag4:entity660:key00000095:ref965:ord0,アサルトライフル用弾薬。,大型拳銃、サブマシンガン用弾薬。,"グレネードランチャー用弾薬。
+東側諸国装備用。",,大型手枪、冲锋枪用弹药。,,MATCH,48,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,83,966,966,1,,page22:tag4:entity659:key00000094:ref966:ord0,大型拳銃、サブマシンガン用弾薬。,"グレネードランチャー用弾薬。
+東側諸国装備用。","グレネードランチャー用弾薬。
+西側諸国装備用。",,"榴弹发射器用弹药。
+东侧国家装备专用。",,MATCH,67,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,84,967,967,1,,page22:tag4:entity658:key00000093:ref967:ord0,"グレネードランチャー用弾薬。
+東側諸国装備用。","グレネードランチャー用弾薬。
+西側諸国装備用。",試作ケースレス弾薬。G11専用。,,"榴弹发射器用弹药。
+西侧国家装备专用。",,MATCH,67,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,85,968,968,1,,page22:tag4:entity657:key00000092:ref968:ord0,"グレネードランチャー用弾薬。
+西側諸国装備用。",試作ケースレス弾薬。G11専用。,リボルバー用弾薬。,,试制无壳弹药。G11专用。,,MATCH,42,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,86,969,969,1,,page22:tag4:entity656:key00000091:ref969:ord0,試作ケースレス弾薬。G11専用。,リボルバー用弾薬。,サブマシンガン用弾薬。,,左轮手枪用弹药。,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,87,971,971,1,,page22:tag4:entity654:key0000008F:ref971:ord0,サブマシンガン用弾薬。,特殊ショットガン用弾薬。CAW専用。,対戦車ライフル用弾薬。,,特殊霰弹枪用弹药。CAW专用。,,MATCH,48,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,88,972,972,1,,page22:tag4:entity653:key0000008E:ref972:ord0,特殊ショットガン用弾薬。CAW専用。,対戦車ライフル用弾薬。,ショットガン用弾薬。,,反坦克步枪用弹药。,,MATCH,33,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,89,973,973,1,,page22:tag4:entity652:key0000008D:ref973:ord0,対戦車ライフル用弾薬。,ショットガン用弾薬。,"古いバンダナ。
+装備すると、無限に弾薬が補充される。",,霰弹枪用弹药。,,MATCH,30,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,90,974,974,1,,page22:tag4:entity651:key0000008C:ref974:ord0,ショットガン用弾薬。,"古いバンダナ。
+装備すると、無限に弾薬が補充される。",可変倍率双眼鏡。,,"旧头巾。
+装备后可无限补充弹药。",,MATCH,76,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,91,976,976,1,,page22:tag4:entity650:key0000008B:ref976:ord0,"古いバンダナ。
+装備すると、無限に弾薬が補充される。",可変倍率双眼鏡。,"個人携行用防弾盾。
+色付き。",,可变倍率望远镜。,,MATCH,24,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=1
+5D904CFF,92,977,977;978;979;980;981,5,,page22:tag4:entity649:key0000008A:ref977:ord0;page22:tag4:entity648:key00000089:ref978:ord0;page22:tag4:entity647:key00000088:ref979:ord0;page22:tag4:entity646:key00000087:ref980:ord0;page22:tag4:entity645:key00000086:ref981:ord0,可変倍率双眼鏡。,"個人携行用防弾盾。
+色付き。",個人携行用防弾盾。,,"个人携带式防弹盾牌。
+彩色款。",,MATCH,40,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,93,982,982;983;984;985;987,5,,page22:tag4:entity644:key00000085:ref982:ord0;page22:tag4:entity643:key00000084:ref983:ord0;page22:tag4:entity642:key00000083:ref984:ord0;page22:tag4:entity641:key00000082:ref985:ord0;page22:tag4:entity640:key00000081:ref987:ord0,"個人携行用防弾盾。
+色付き。",個人携行用防弾盾。,"人員の回収ならびに後送のために
+用いるシステム。",,个人携带式防弹盾牌。,,MATCH,27,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,94,988,988;989;990;991;992,5,,page22:tag4:entity639:key00000080:ref988:ord0;page22:tag4:entity638:key0000007F:ref989:ord0;page22:tag4:entity637:key0000007E:ref990:ord0;page22:tag4:entity636:key0000007D:ref991:ord0;page22:tag4:entity635:key0000007C:ref992:ord0,個人携行用防弾盾。,"人員の回収ならびに後送のために
+用いるシステム。",複合機能暗視ゴーグル。,,用于回收并后送人员的系统。,,MATCH,70,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,95,993,993;994;995;996;998,5,,page22:tag4:entity634:key0000007B:ref993:ord0;page22:tag4:entity633:key0000007A:ref994:ord0;page22:tag4:entity632:key00000079:ref995:ord0;page22:tag4:entity631:key00000078:ref996:ord0;page22:tag4:entity630:key00000077:ref998:ord0,"人員の回収ならびに後送のために
+用いるシステム。",複合機能暗視ゴーグル。,"タンデム複座のダンボール製戦車。
+スモーク砲装備。",,复合功能夜视镜。,,MATCH,33,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5
+5D904CFF,96,999,999;1000;1001;1002,4,,page22:tag4:entity629:key00000076:ref999:ord0;page22:tag4:entity628:key00000075:ref1000:ord0;page22:tag4:entity627:key00000074:ref1001:ord0;page22:tag4:entity626:key00000073:ref1002:ord0,複合機能暗視ゴーグル。,"タンデム複座のダンボール製戦車。
+スモーク砲装備。","タンデム複座のダンボール製戦車。
+スタン砲装備。",,"双人串联座椅的纸箱坦克。
+装备烟雾炮。",,MATCH,73,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5D904CFF,97,1003,1003;1004;1005;1006,4,,page22:tag4:entity625:key00000072:ref1003:ord0;page22:tag4:entity624:key00000071:ref1004:ord0;page22:tag4:entity623:key00000070:ref1005:ord0;page22:tag4:entity622:key0000006F:ref1006:ord0,"タンデム複座のダンボール製戦車。
+スモーク砲装備。","タンデム複座のダンボール製戦車。
+スタン砲装備。",タンデム複座のダンボール製戦車。,,"双人串联座椅的纸箱坦克。
+装备眩晕炮。",,MATCH,70,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4
+5D904CFF,98,1007,1007;1009;1010;1011;1012,5,,page22:tag4:entity621:key0000006E:ref1007:ord0;page22:tag4:entity620:key0000006D:ref1009:ord0;page22:tag4:entity619:key0000006C:ref1010:ord0;page22:tag4:entity618:key0000006B:ref1011:ord0;page22:tag4:entity617:key0000006A:ref1012:ord0,"タンデム複座のダンボール製戦車。
+スタン砲装備。",タンデム複座のダンボール製戦車。,普通よりも大きめなダンボール箱。,,双人串联座椅的纸箱坦克。,,MATCH,48,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=5

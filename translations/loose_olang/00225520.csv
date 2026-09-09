@@ -1,0 +1,216 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+00225520,0,4,4,1,,page:tag:entity1:key005C7A78:ref4:ord4,,"決定：<I=DEC> キャンセル：<I=CAN>
+ジャンプ：<I=MO_DEV_IT_*INFO_TOP_JAMP_0> 詳細：<I=MO_DEV_IT_*INFO_TOP_JAMP_1>","決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_IT_*INFO_TOP>",<I=DEC> | <I=CAN> | <I=MO_DEV_IT_*INFO_TOP_JAMP_0> | <I=MO_DEV_IT_*INFO_TOP_JAMP_1>,"确认：<I=DEC> 取消：<I=CAN>
+跳转：<I=MO_DEV_IT_*INFO_TOP_JAMP_0> 详情：<I=MO_DEV_IT_*INFO_TOP_JAMP_1>",<I=DEC> | <I=CAN> | <I=MO_DEV_IT_*INFO_TOP_JAMP_0> | <I=MO_DEV_IT_*INFO_TOP_JAMP_1>,MATCH,128,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,1,10,10,1,,page:tag:entity0:key00233641:ref10:ord4,"決定：<I=DEC> キャンセル：<I=CAN>
+ジャンプ：<I=MO_DEV_IT_*INFO_TOP_JAMP_0> 詳細：<I=MO_DEV_IT_*INFO_TOP_JAMP_1>","決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_IT_*INFO_TOP>",ビューア：<I=MO_DEV_IT_*INFO_MODEL>,<I=DEC> | <I=CAN> | <I=MO_DEV_IT_*INFO_TOP>,"确认：<I=DEC> 取消：<I=CAN>
+详情：<I=MO_DEV_IT_*INFO_TOP>",<I=DEC> | <I=CAN> | <I=MO_DEV_IT_*INFO_TOP>,MATCH,75,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,2,16,16,1,,page:tag:entity2:key0068DD78:ref16:ord4,"決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_IT_*INFO_TOP>",ビューア：<I=MO_DEV_IT_*INFO_MODEL>,"決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_MECHA_*INFO_TOP>",<I=MO_DEV_IT_*INFO_MODEL>,查看器：<I=MO_DEV_IT_*INFO_MODEL>,<I=MO_DEV_IT_*INFO_MODEL>,MATCH,40,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,3,22,22,1,,page:tag:entity3:key00233641:ref22:ord4,ビューア：<I=MO_DEV_IT_*INFO_MODEL>,"決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_MECHA_*INFO_TOP>",縮小：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW02>,<I=DEC> | <I=CAN> | <I=MO_DEV_MECHA_*INFO_TOP>,"确认：<I=DEC> 取消：<I=CAN>
+详情：<I=MO_DEV_MECHA_*INFO_TOP>",<I=DEC> | <I=CAN> | <I=MO_DEV_MECHA_*INFO_TOP>,MATCH,78,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,4,28,28,1,,page:tag:entity5:key006A33A7:ref28:ord4,"決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_MECHA_*INFO_TOP>",縮小：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW02>,拡大：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW01>,<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW02>,缩小：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW02>,<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW02>,MATCH,49,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,5,34,34,1,,page:tag:entity4:key006A33A6:ref34:ord4,縮小：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW02>,拡大：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW01>,"決定：<I=DEC> キャンセル：<I=CAN>
+ジャンプ：<I=MO_DEV_WP_*INFO_TOP_JAMP_0> 詳細：<I=MO_DEV_WP_*INFO_TOP_JAMP_1>",<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW01>,放大：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW01>,<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW01>,MATCH,49,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,6,40,40,1,,page:tag:entity7:key005C7A78:ref40:ord4,拡大：<I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW01>,"決定：<I=DEC> キャンセル：<I=CAN>
+ジャンプ：<I=MO_DEV_WP_*INFO_TOP_JAMP_0> 詳細：<I=MO_DEV_WP_*INFO_TOP_JAMP_1>","決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_WP_*INFO_TOP>",<I=DEC> | <I=CAN> | <I=MO_DEV_WP_*INFO_TOP_JAMP_0> | <I=MO_DEV_WP_*INFO_TOP_JAMP_1>,"确认：<I=DEC> 取消：<I=CAN>
+跳转：<I=MO_DEV_WP_*INFO_TOP_JAMP_0> 详情：<I=MO_DEV_WP_*INFO_TOP_JAMP_1>",<I=DEC> | <I=CAN> | <I=MO_DEV_WP_*INFO_TOP_JAMP_0> | <I=MO_DEV_WP_*INFO_TOP_JAMP_1>,MATCH,128,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,7,46,46,1,,page:tag:entity6:key00233641:ref46:ord4,"決定：<I=DEC> キャンセル：<I=CAN>
+ジャンプ：<I=MO_DEV_WP_*INFO_TOP_JAMP_0> 詳細：<I=MO_DEV_WP_*INFO_TOP_JAMP_1>","決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_WP_*INFO_TOP>",ビューア：<I=MO_DEV_WP_*INFO_MODEL>,<I=DEC> | <I=CAN> | <I=MO_DEV_WP_*INFO_TOP>,"确认：<I=DEC> 取消：<I=CAN>
+详情：<I=MO_DEV_WP_*INFO_TOP>",<I=DEC> | <I=CAN> | <I=MO_DEV_WP_*INFO_TOP>,MATCH,75,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,8,52,52,1,,page:tag:entity8:key0068DD78:ref52:ord4,"決定：<I=DEC> キャンセル：<I=CAN>
+詳細：<I=MO_DEV_WP_*INFO_TOP>",ビューア：<I=MO_DEV_WP_*INFO_MODEL>,縮小：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN02>,<I=MO_DEV_WP_*INFO_MODEL>,查看器：<I=MO_DEV_WP_*INFO_MODEL>,<I=MO_DEV_WP_*INFO_MODEL>,MATCH,40,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,9,58,58,1,,page:tag:entity18:key00C8ADBD:ref58:ord4,ビューア：<I=MO_DEV_WP_*INFO_MODEL>,縮小：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN02>,缩小：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN02>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,10,64,64,1,,page:tag:entity17:key00C8ADBC:ref64:ord4,縮小：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN01>,放大：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN01>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,11,70,70,1,,page:tag:entity16:key00A8ADBD:ref70:ord4,拡大：<I=MO_MODEL_VIEWER_*VIEWER06_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN02>,缩小：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN02>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,12,76,76,1,,page:tag:entity15:key00A8ADBC:ref76:ord4,縮小：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN01>,放大：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN01>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,13,82,82,1,,page:tag:entity14:key0088ADBD:ref82:ord4,拡大：<I=MO_MODEL_VIEWER_*VIEWER05_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN02>,缩小：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN02>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,14,88,88,1,,page:tag:entity13:key0088ADBC:ref88:ord4,縮小：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN01>,放大：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN01>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,15,94,94,1,,page:tag:entity12:key0048ADBD:ref94:ord4,拡大：<I=MO_MODEL_VIEWER_*VIEWER04_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN02>,缩小：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN02>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,16,100,100,1,,page:tag:entity11:key0048ADBC:ref100:ord4,縮小：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN01>,放大：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN01>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,17,106,106,1,,page:tag:entity10:key0028ADBD:ref106:ord4,拡大：<I=MO_MODEL_VIEWER_*VIEWER02_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN02>,缩小：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN02>,<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN02>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,18,112,112,1,,page:tag:entity9:key0028ADBC:ref112:ord4,縮小：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN02>,拡大：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*HELP_CONTENT2>,<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN01>,放大：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN01>,<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN01>,MATCH,47,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,19,118,118,1,,page:tag:entity20:key00C992CD:ref118:ord4,拡大：<I=MO_MODEL_VIEWER_*VIEWER01_ASSIGN01>,縮小：<I=MO_MODEL_VIEWER_*HELP_CONTENT2>,拡大：<I=MO_MODEL_VIEWER_*HELP_CONTENT1>,<I=MO_MODEL_VIEWER_*HELP_CONTENT2>,缩小：<I=MO_MODEL_VIEWER_*HELP_CONTENT2>,<I=MO_MODEL_VIEWER_*HELP_CONTENT2>,MATCH,43,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,20,124,124,1,,page:tag:entity19:key00C992CC:ref124:ord4,縮小：<I=MO_MODEL_VIEWER_*HELP_CONTENT2>,拡大：<I=MO_MODEL_VIEWER_*HELP_CONTENT1>,縮小：<I=MO_MO_STATUS_*HELP_CONTENT2>,<I=MO_MODEL_VIEWER_*HELP_CONTENT1>,放大：<I=MO_MODEL_VIEWER_*HELP_CONTENT1>,<I=MO_MODEL_VIEWER_*HELP_CONTENT1>,MATCH,43,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,21,130,130,1,,page:tag:entity22:key00C992CD:ref130:ord4,拡大：<I=MO_MODEL_VIEWER_*HELP_CONTENT1>,縮小：<I=MO_MO_STATUS_*HELP_CONTENT2>,拡大：<I=MO_MO_STATUS_*HELP_CONTENT1>,<I=MO_MO_STATUS_*HELP_CONTENT2>,缩小：<I=MO_MO_STATUS_*HELP_CONTENT2>,<I=MO_MO_STATUS_*HELP_CONTENT2>,MATCH,40,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,22,136,136,1,,page:tag:entity21:key00C992CC:ref136:ord4,縮小：<I=MO_MO_STATUS_*HELP_CONTENT2>,拡大：<I=MO_MO_STATUS_*HELP_CONTENT1>,【RC2 25/02/18】キーボード用テキスト,<I=MO_MO_STATUS_*HELP_CONTENT1>,放大：<I=MO_MO_STATUS_*HELP_CONTENT1>,<I=MO_MO_STATUS_*HELP_CONTENT1>,MATCH,40,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,23,142,142,1,,page:tag:entity23:key00275D8B:ref142:ord4,拡大：<I=MO_MO_STATUS_*HELP_CONTENT1>,【RC2 25/02/18】キーボード用テキスト,ビューア：<I=MO_STAFF_*INFO_DETAIL_VIEWER_0>　スキル説明：<I=MO_STAFF_*INFO_DETAIL_VIEWER_1>,,【RC2 25/02/18】键盘用文本,,MATCH,48,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=DEBUG/RC2 LABEL; DATE/MARKER PRESERVED
+00225520,24,148,148,1,,page:tag:entity24:key00AB317F:ref148:ord4,【RC2 25/02/18】キーボード用テキスト,ビューア：<I=MO_STAFF_*INFO_DETAIL_VIEWER_0>　スキル説明：<I=MO_STAFF_*INFO_DETAIL_VIEWER_1>,"トレード参加者を待っています。
+
+Xbox LIVE パーティー セッションへの招待：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>",<I=MO_STAFF_*INFO_DETAIL_VIEWER_0> | <I=MO_STAFF_*INFO_DETAIL_VIEWER_1>,查看器：<I=MO_STAFF_*INFO_DETAIL_VIEWER_0>　技能说明：<I=MO_STAFF_*INFO_DETAIL_VIEWER_1>,<I=MO_STAFF_*INFO_DETAIL_VIEWER_0> | <I=MO_STAFF_*INFO_DETAIL_VIEWER_1>,MATCH,104,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,25,154,154,1,,page:tag:entity25:key00C03B74:ref154:ord4,ビューア：<I=MO_STAFF_*INFO_DETAIL_VIEWER_0>　スキル説明：<I=MO_STAFF_*INFO_DETAIL_VIEWER_1>,"トレード参加者を待っています。
+
+Xbox LIVE パーティー セッションへの招待：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>","トレード参加者を待っています。
+
+フレンド招待：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>",<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>,"正在等待TRADE参与者。
+
+邀请至Xbox LIVE派对会话：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>",<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>,MATCH,143,104,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,26,160,160,1,,page:tag:entity26:key00D9422F:ref160:ord4,"トレード参加者を待っています。
+
+Xbox LIVE パーティー セッションへの招待：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>","トレード参加者を待っています。
+
+フレンド招待：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>",ミュート：<I=OPTION_MUTE>,<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>,"正在等待TRADE参与者。
+
+邀请好友：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>",<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>,MATCH,109,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,27,166,166;172,2,,page:tag:entity27:key00187156:ref166:ord4;page:tag:entity28:key001FC51A:ref172:ord4,"トレード参加者を待っています。
+
+フレンド招待：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>",ミュート：<I=OPTION_MUTE>,PRESS <I=VSOPS_START> KEY,<I=OPTION_MUTE>,静音：<I=OPTION_MUTE>,<I=OPTION_MUTE>,MATCH,30,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+00225520,28,178,178,1,,page:tag:entity29:key00057609:ref178:ord4,ミュート：<I=OPTION_MUTE>,PRESS <I=VSOPS_START> KEY,記憶板抜き取り:<I=aipod_menu_*AIPOD_RSRC_IDX_KEYHELP>,<I=VSOPS_START>,PRESS <I=VSOPS_START> KEY,<I=VSOPS_START>,MATCH,25,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+00225520,29,184,184,1,,page:tag:entity30:key003DF22B:ref184:ord4,PRESS <I=VSOPS_START> KEY,記憶板抜き取り:<I=aipod_menu_*AIPOD_RSRC_IDX_KEYHELP>,"戻る ：<I=CAN>
+装備を外す ：<I=charaedit_lang_*suit_equip_help>",<I=aipod_menu_*AIPOD_RSRC_IDX_KEYHELP>,移除记忆板：<I=aipod_menu_*AIPOD_RSRC_IDX_KEYHELP>,<I=aipod_menu_*AIPOD_RSRC_IDX_KEYHELP>,MATCH,60,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,30,190,190,1,,page:tag:entity31:key00EB30BC:ref190:ord4,記憶板抜き取り:<I=aipod_menu_*AIPOD_RSRC_IDX_KEYHELP>,"戻る ：<I=CAN>
+装備を外す ：<I=charaedit_lang_*suit_equip_help>","サイズの大きなダンボール箱。二人くらいは
+入れそう。装備品ウインドウを開き、選択した
+状態で<I=item_exp_IT_EQ_LOVE_CBOARD_R1>を押す（“DROP”する）と設置。",<I=CAN> | <I=charaedit_lang_*suit_equip_help>,"返回：<I=CAN>
+卸下装备：<I=charaedit_lang_*suit_equip_help>",<I=CAN> | <I=charaedit_lang_*suit_equip_help>,MATCH,72,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,31,196,196,1,,page:tag:entity32:key00000060:ref196:ord4,"戻る ：<I=CAN>
+装備を外す ：<I=charaedit_lang_*suit_equip_help>","サイズの大きなダンボール箱。二人くらいは
+入れそう。装備品ウインドウを開き、選択した
+状態で<I=item_exp_IT_EQ_LOVE_CBOARD_R1>を押す（“DROP”する）と設置。","戻る ：<I=CAN>
+魂を込める/はらう ：<I=kotodamaedit_lang_*helptext>",<I=item_exp_IT_EQ_LOVE_CBOARD_R1>,"大型纸箱。看起来能容纳两个人左右。
+打开装备窗口，选中后按<I=item_exp_IT_EQ_LOVE_CBOARD_R1>
+（执行“DROP”）即可放置。",<I=item_exp_IT_EQ_LOVE_CBOARD_R1>,MATCH,210,156,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=DROP COMMAND PRESERVED FROM JPN
+00225520,32,202,202,1,,page:tag:entity33:key003EFD93:ref202:ord4,"サイズの大きなダンボール箱。二人くらいは
+入れそう。装備品ウインドウを開き、選択した
+状態で<I=item_exp_IT_EQ_LOVE_CBOARD_R1>を押す（“DROP”する）と設置。","戻る ：<I=CAN>
+魂を込める/はらう ：<I=kotodamaedit_lang_*helptext>",ログ最大化：<I=mo_cyberval_log_*Log_KeyHelpText>　キャンセル：<I=CAN>,<I=CAN> | <I=kotodamaedit_lang_*helptext>,"返回：<I=CAN>
+使用/取消战吼：<I=kotodamaedit_lang_*helptext>",<I=CAN> | <I=kotodamaedit_lang_*helptext>,MATCH,78,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=SOUL IN/OUT FUNCTION RENDERED AS BATTLE CRY USE/CANCEL; REVIEW TERMINOLOGY
+00225520,33,208,208,1,,page:tag:entity34:key002B9E60:ref208:ord4,"戻る ：<I=CAN>
+魂を込める/はらう ：<I=kotodamaedit_lang_*helptext>",ログ最大化：<I=mo_cyberval_log_*Log_KeyHelpText>　キャンセル：<I=CAN>,情報表示：<I=pw_extra_dummy_*key_tri1>,<I=mo_cyberval_log_*Log_KeyHelpText> | <I=CAN>,最大化日志：<I=mo_cyberval_log_*Log_KeyHelpText>　取消：<I=CAN>,<I=mo_cyberval_log_*Log_KeyHelpText> | <I=CAN>,MATCH,82,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,34,214,214,1,,page:tag:entity36:key002F4789:ref214:ord4,ログ最大化：<I=mo_cyberval_log_*Log_KeyHelpText>　キャンセル：<I=CAN>,情報表示：<I=pw_extra_dummy_*key_tri1>,選択・非選択切替：<I=pw_extra_dummy_*key_square>,<I=pw_extra_dummy_*key_tri1>,显示信息：<I=pw_extra_dummy_*key_tri1>,<I=pw_extra_dummy_*key_tri1>,MATCH,43,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,35,220,220,1,,page:tag:entity35:key0014F360:ref220:ord4,情報表示：<I=pw_extra_dummy_*key_tri1>,選択・非選択切替：<I=pw_extra_dummy_*key_square>,PRESS <I=TITLE_START> KEY,<I=pw_extra_dummy_*key_square>,选择/取消选择：<I=pw_extra_dummy_*key_square>,<I=pw_extra_dummy_*key_square>,MATCH,57,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,36,226,226,1,,page:tag:entity37:key006B92BB:ref226:ord4,選択・非選択切替：<I=pw_extra_dummy_*key_square>,PRESS <I=TITLE_START> KEY,"決定：<I=DEC>　ボイス再生：<I=pw_title_option_dummy_*keyhelp_voice>
+キャンセル：<I=CAN>",<I=TITLE_START>,PRESS <I=TITLE_START> KEY,<I=TITLE_START>,MATCH,25,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09
+00225520,37,232,232,1,,page:tag:entity38:key000891FC:ref232:ord4,PRESS <I=TITLE_START> KEY,"決定：<I=DEC>　ボイス再生：<I=pw_title_option_dummy_*keyhelp_voice>
+キャンセル：<I=CAN>","尋問するには『<I=CQC>』で相手を拘束
+その状態で『<I=v906_135_gam_inst_2_*0>』を押せ",<I=DEC> | <I=pw_title_option_dummy_*keyhelp_voice> | <I=CAN>,"确认：<I=DEC>　播放语音：<I=pw_title_option_dummy_*keyhelp_voice>
+取消：<I=CAN>",<I=DEC> | <I=pw_title_option_dummy_*keyhelp_voice> | <I=CAN>,MATCH,103,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,38,238,238,1,,page:tag:entity39:key00000000:ref238:ord4,"決定：<I=DEC>　ボイス再生：<I=pw_title_option_dummy_*keyhelp_voice>
+キャンセル：<I=CAN>","尋問するには『<I=CQC>』で相手を拘束
+その状態で『<I=v906_135_gam_inst_2_*0>』を押せ",どうした『<I=v906_138_gam_inst_2_*0>』を押すんだ！,<I=CQC> | <I=v906_135_gam_inst_2_*0>,"要审问对手，先用<I=CQC>拘束对手，
+保持该状态按<I=v906_135_gam_inst_2_*0>。",<I=CQC> | <I=v906_135_gam_inst_2_*0>,MATCH,106,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=CONTROL TOKENS PRESERVED; AUXILIARY ENGLISH WAS TRUNCATED
+00225520,39,244,244,1,,page:tag:entity40:key00000000:ref244:ord4,"尋問するには『<I=CQC>』で相手を拘束
+その状態で『<I=v906_135_gam_inst_2_*0>』を押せ",どうした『<I=v906_138_gam_inst_2_*0>』を押すんだ！,ボス『<I=v906_139_gam_inst_2_*0>』を押すんです！,<I=v906_138_gam_inst_2_*0>,怎么了？按<I=v906_138_gam_inst_2_*0>！,<I=v906_138_gam_inst_2_*0>,MATCH,62,44,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,40,250,250,1,,page:tag:entity41:key00000000:ref250:ord4,どうした『<I=v906_138_gam_inst_2_*0>』を押すんだ！,ボス『<I=v906_139_gam_inst_2_*0>』を押すんです！,"小型軽量カービン。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_XM177_C_R5>ボタン。",<I=v906_139_gam_inst_2_*0>,Boss，按<I=v906_139_gam_inst_2_*0>！,<I=v906_139_gam_inst_2_*0>,MATCH,59,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,41,256,256,1,,page:tag:entity52:key00000062:ref256:ord4,ボス『<I=v906_139_gam_inst_2_*0>』を押すんです！,"小型軽量カービン。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_XM177_C_R5>ボタン。","小型軽量カービン。
+ショットガン装備。
+切り替えは<I=weapon_exp_WP_XM177_B_R5>。",<I=weapon_exp_WP_XM177_C_R5>,"小型轻量卡宾枪。
+配备烟雾榴弹发射器。
+按<I=weapon_exp_WP_XM177_C_R5>切换。",<I=weapon_exp_WP_XM177_C_R5>,MATCH,135,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,42,262,262,1,,page:tag:entity51:key00000060:ref262:ord4,"小型軽量カービン。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_XM177_C_R5>ボタン。","小型軽量カービン。
+ショットガン装備。
+切り替えは<I=weapon_exp_WP_XM177_B_R5>。","小型軽量カービン。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_XM177_A_R5>。",<I=weapon_exp_WP_XM177_B_R5>,"小型轻量卡宾枪。
+配备霰弹枪。
+按<I=weapon_exp_WP_XM177_B_R5>切换。",<I=weapon_exp_WP_XM177_B_R5>,MATCH,102,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,43,268,268,1,,page:tag:entity50:key0000005E:ref268:ord4,"小型軽量カービン。
+ショットガン装備。
+切り替えは<I=weapon_exp_WP_XM177_B_R5>。","小型軽量カービン。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_XM177_A_R5>。","新型軽量アサルトライフル。
+スモークグレネードランチャーとレーザー
+サイト装備。切り替えは<I=weapon_exp_WP_M16A1_C_R5>。",<I=weapon_exp_WP_XM177_A_R5>,"小型轻量卡宾枪。
+配备榴弹发射器。
+按<I=weapon_exp_WP_XM177_A_R5>切换。",<I=weapon_exp_WP_XM177_A_R5>,MATCH,114,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,44,274,274,1,,page:tag:entity49:key00000059:ref274:ord4,"小型軽量カービン。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_XM177_A_R5>。","新型軽量アサルトライフル。
+スモークグレネードランチャーとレーザー
+サイト装備。切り替えは<I=weapon_exp_WP_M16A1_C_R5>。","新型軽量アサルトライフル。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_C_R4>。",<I=weapon_exp_WP_M16A1_C_R5>,"新型轻量突击步枪。
+配备烟雾榴弹发射器和激光瞄准器。
+按<I=weapon_exp_WP_M16A1_C_R5>切换。",<I=weapon_exp_WP_M16A1_C_R5>,MATCH,162,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,45,280,280,1,,page:tag:entity48:key00000057:ref280:ord4,"新型軽量アサルトライフル。
+スモークグレネードランチャーとレーザー
+サイト装備。切り替えは<I=weapon_exp_WP_M16A1_C_R5>。","新型軽量アサルトライフル。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_C_R4>。","新型軽量アサルトライフル。
+グレネードランチャーとレーザーサイト装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_R5>。",<I=weapon_exp_WP_M16A1_C_R4>,"新型轻量突击步枪。
+配备烟雾榴弹发射器。
+按<I=weapon_exp_WP_M16A1_C_R4>切换。",<I=weapon_exp_WP_M16A1_C_R4>,MATCH,138,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,46,286,286,1,,page:tag:entity47:key00000055:ref286:ord4,"新型軽量アサルトライフル。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_C_R4>。","新型軽量アサルトライフル。
+グレネードランチャーとレーザーサイト装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_R5>。","新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_GRN_R4>。",<I=weapon_exp_WP_M16A1_B_R5>,"新型轻量突击步枪。
+配备榴弹发射器和激光瞄准器。
+按<I=weapon_exp_WP_M16A1_B_R5>切换。",<I=weapon_exp_WP_M16A1_B_R5>,MATCH,150,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,47,292,292,1,,page:tag:entity46:key00000054:ref292:ord4,"新型軽量アサルトライフル。
+グレネードランチャーとレーザーサイト装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_R5>。","新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_GRN_R4>。","新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_R4>。",<I=weapon_exp_WP_M16A1_B_GRN_R4>,"新型轻量突击步枪。
+配备榴弹发射器。
+按<I=weapon_exp_WP_M16A1_B_GRN_R4>切换。",<I=weapon_exp_WP_M16A1_B_GRN_R4>,MATCH,130,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,48,298,298,1,,page:tag:entity45:key00000053:ref298:ord4,"新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_GRN_R4>。","新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_R4>。","新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_SHT_R5>。",<I=weapon_exp_WP_M16A1_B_R4>,"新型轻量突击步枪。
+配备榴弹发射器。
+按<I=weapon_exp_WP_M16A1_B_R4>切换。",<I=weapon_exp_WP_M16A1_B_R4>,MATCH,126,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,49,304,304,1,,page:tag:entity44:key00000052:ref304:ord4,"新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_B_R4>。","新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_SHT_R5>。","新型軽量アサルトライフル。
+ショットガンとレーザーサイト装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_R5>。",<I=weapon_exp_WP_M16A1_A_SHT_R5>,"新型轻量突击步枪。
+配备榴弹发射器。
+按<I=weapon_exp_WP_M16A1_A_SHT_R5>切换。",<I=weapon_exp_WP_M16A1_A_SHT_R5>,MATCH,130,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,50,310,310,1,,page:tag:entity43:key00000051:ref310:ord4,"新型軽量アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_SHT_R5>。","新型軽量アサルトライフル。
+ショットガンとレーザーサイト装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_R5>。","新型軽量アサルトライフル。
+ショットガン装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_R4>。",<I=weapon_exp_WP_M16A1_A_R5>,"新型轻量突击步枪。
+配备霰弹枪和激光瞄准器。
+按<I=weapon_exp_WP_M16A1_A_R5>切换。",<I=weapon_exp_WP_M16A1_A_R5>,MATCH,138,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,51,316,316,1,,page:tag:entity42:key0000004F:ref316:ord4,"新型軽量アサルトライフル。
+ショットガンとレーザーサイト装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_R5>。","新型軽量アサルトライフル。
+ショットガン装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_R4>。","ソ連製アサルトライフル。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_AK47_B_R2>。",<I=weapon_exp_WP_M16A1_A_R4>,"新型轻量突击步枪。
+配备霰弹枪。
+按<I=weapon_exp_WP_M16A1_A_R4>切换。",<I=weapon_exp_WP_M16A1_A_R4>,MATCH,114,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,52,322,322,1,,page:tag:entity54:key00000067:ref322:ord4,"新型軽量アサルトライフル。
+ショットガン装備。
+切り替えは<I=weapon_exp_WP_M16A1_A_R4>。","ソ連製アサルトライフル。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_AK47_B_R2>。","ソ連製アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_AK47_A_R2>。",<I=weapon_exp_WP_AK47_B_R2>,"苏制突击步枪。
+配备烟雾榴弹发射器。
+按<I=weapon_exp_WP_AK47_B_R2>切换。",<I=weapon_exp_WP_AK47_B_R2>,MATCH,134,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00225520,53,328,328,1,,page:tag:entity53:key00000065:ref328:ord4,"ソ連製アサルトライフル。
+スモークグレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_AK47_B_R2>。","ソ連製アサルトライフル。
+グレネードランチャー装備。
+切り替えは<I=weapon_exp_WP_AK47_A_R2>。",,<I=weapon_exp_WP_AK47_A_R2>,"苏制突击步枪。
+配备榴弹发射器。
+按<I=weapon_exp_WP_AK47_A_R2>切换。",<I=weapon_exp_WP_AK47_A_R2>,MATCH,122,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1

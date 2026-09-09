@@ -1,0 +1,42 @@
+{
+  "file_id": "1C79F2AD",
+  "occurrences": [
+    {
+      "page": 88,
+      "tag": 14
+    },
+    {
+      "page": 94,
+      "tag": 14
+    }
+  ],
+  "records": 98,
+  "segments": 123,
+  "normal_fit": 97,
+  "alignment_spill": 1,
+  "hard_overflow": 0,
+  "record_0_boundaries": [
+    [
+      0,
+      42
+    ],
+    [
+      42,
+      82
+    ],
+    [
+      82,
+      110
+    ]
+  ],
+  "record_0_texts": [
+    "这里是Miller。Snake，听得到吗？",
+    "看来你已顺利<R=着陆,LANDING>。",
+    "这是我们的一大步。"
+  ],
+  "record_52_required": 29,
+  "record_52_nominal_capacity": 26,
+  "record_52_hard_capacity": 40,
+  "original_sha256": "C4C078F9BDEA6EF61EA5405289DB87F0E4178876729D47D1541EACDB41893EE6",
+  "rebuilt_sha256": "2067DF849A08CE20ADFD51982F027D77AA46233C27135E896C0719CE911F34A7"
+}

@@ -1,0 +1,90 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+00C79B17,0,4,4,1,,page:tag:entity0:key00551732:ref4:ord4,,レスキュー,米軍ミサイル基地,,救援,,MATCH,15,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C79B17,1,10,10,1,,page:tag:entity1:key0029E0FC:ref10:ord4,レスキュー,米軍ミサイル基地,ニカラグア湖南東部,,美军导弹基地,,MATCH,24,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C79B17,2,16,16,1,,page:tag:entity2:key0029E0FC:ref16:ord4,米軍ミサイル基地,ニカラグア湖南東部,NORAD,,尼加拉瓜湖东南部,,MATCH,27,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C79B17,3,22,22,1,,page:tag:entity3:key0029E0FC:ref22:ord4,ニカラグア湖南東部,NORAD,シャイアンマウンテン空軍基地,,NORAD,,MATCH,5,5,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_UNCHANGED_PROPER_ACRONYM_PRESERVED
+00C79B17,4,28,28,1,,page:tag:entity4:key0029E0FC:ref28:ord4,NORAD,シャイアンマウンテン空軍基地,"
+MISSION COMPLETE",,夏延山空军基地,,MATCH,42,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C79B17,5,34,34,1,,page:tag:entity5:key0029E0FC:ref34:ord4,シャイアンマウンテン空軍基地,"
+MISSION COMPLETE","ボス『注視点の移動』には
+『右スティック』の上下です！",,"
+任务完成",,MATCH,17,13,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=LEADING_NEWLINE_PRESERVED
+00C79B17,6,40,40,1,,page:tag:entity6:key00000000:ref40:ord4,"
+MISSION COMPLETE","ボス『注視点の移動』には
+『右スティック』の上下です！","ボス『注視点の移動』には
+『右スティック』の左右です！",,"Boss，要移动视线，
+上下拨动右摇杆！",,MATCH,79,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_SEMANTIC_MISMATCH_TEST_SAVE_REJECTED
+00C79B17,7,46,46,1,,page:tag:entity7:key00000000:ref46:ord4,"ボス『注視点の移動』には
+『右スティック』の上下です！","ボス『注視点の移動』には
+『右スティック』の左右です！","どうした『左スティック』で走りながら
+『攻撃ボタン』を短く押すんだ！",,"Boss，要移动视线，
+左右拨动右摇杆！",,MATCH,79,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C79B17,8,52,52,1,,page:tag:entity8:key00000000:ref52:ord4,"ボス『注視点の移動』には
+『右スティック』の左右です！","どうした『左スティック』で走りながら
+『攻撃ボタン』を短く押すんだ！","どうした『左スティック』で
+走りながら『しゃがみボタン』を押すんだ！",,"怎么了？用左摇杆跑动时
+轻按攻击键！",,MATCH,100,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_ROLL_RESULT_NOT_EXPLICIT_IN_JPN
+00C79B17,9,58,58,1,,page:tag:entity9:key00000000:ref58:ord4,"どうした『左スティック』で走りながら
+『攻撃ボタン』を短く押すんだ！","どうした『左スティック』で
+走りながら『しゃがみボタン』を押すんだ！","では私の号令で『素手攻撃ボタン（X）』を続けて押し
+相手を倒せ！",,"怎么了？用左摇杆跑动时
+按下蹲键！",,MATCH,100,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_ROLL_RESULT_NOT_EXPLICIT_IN_JPN
+00C79B17,10,64,64,1,,page:tag:entity11:key00000001:ref64:ord4,"どうした『左スティック』で
+走りながら『しゃがみボタン』を押すんだ！","では私の号令で『素手攻撃ボタン（X）』を続けて押し
+相手を倒せ！",打撃攻撃は移動せずに『素手攻撃ボタン（X）』だ！,,"听我口令，连续按徒手攻击键（X），
+放倒对手！",,MATCH,92,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,11,70,70,1,,page:tag:entity10:key00000000:ref70:ord4,"では私の号令で『素手攻撃ボタン（X）』を続けて押し
+相手を倒せ！",打撃攻撃は移動せずに『素手攻撃ボタン（X）』だ！,どうした 移動しないで『素手攻撃ボタン（X）』だ！,,打击攻击时不要移动，按徒手攻击键（X）！,,MATCH,70,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,12,76,76,1,,page:tag:entity12:key00000000:ref76:ord4,打撃攻撃は移動せずに『素手攻撃ボタン（X）』だ！,どうした 移動しないで『素手攻撃ボタン（X）』だ！,"相手の近くで『左スティック』を入力しながら
+『攻撃ボタン』だ",,怎么了？别移动，按徒手攻击键（X）！,,MATCH,71,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,13,82,82,1,,page:tag:entity13:key00000001:ref82:ord4,どうした 移動しないで『素手攻撃ボタン（X）』だ！,"相手の近くで『左スティック』を入力しながら
+『攻撃ボタン』だ","どうした『左スティック』を入力しながら
+『攻撃ボタン』を押すんだ！",,"靠近对手，推动左摇杆的同时
+按攻击键。",,MATCH,88,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_INCOMPLETE;JPN_TRANSLATED_DIRECTLY
+00C79B17,14,88,88,1,,page:tag:entity14:key00000000:ref88:ord4,"相手の近くで『左スティック』を入力しながら
+『攻撃ボタン』だ","どうした『左スティック』を入力しながら
+『攻撃ボタン』を押すんだ！","どうした『左スティック』を入力しながら
+『素手攻撃ボタン（X）』を押すんだ！",,"怎么了？推动左摇杆的同时
+按攻击键！",,MATCH,97,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_TRANSLATED_DIRECTLY
+00C79B17,15,94,94,1,,page:tag:entity15:key00000000:ref94:ord4,"どうした『左スティック』を入力しながら
+『攻撃ボタン』を押すんだ！","どうした『左スティック』を入力しながら
+『素手攻撃ボタン（X）』を押すんだ！","ボス『左スティック』を入力しながら
+『攻撃ボタン』を押してください！",,"怎么了？推动左摇杆的同时
+按徒手攻击键（X）！",,MATCH,110,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,16,100,100,1,,page:tag:entity16:key00000000:ref100:ord4,"どうした『左スティック』を入力しながら
+『素手攻撃ボタン（X）』を押すんだ！","ボス『左スティック』を入力しながら
+『攻撃ボタン』を押してください！","ボス『左スティック』を入力しながら
+『素手攻撃ボタン（X）』を押してください！",,"Boss，推动左摇杆的同时
+请按攻击键！",,MATCH,100,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_TRANSLATED_DIRECTLY
+00C79B17,17,106,106,1,,page:tag:entity17:key00000000:ref106:ord4,"ボス『左スティック』を入力しながら
+『攻撃ボタン』を押してください！","ボス『左スティック』を入力しながら
+『素手攻撃ボタン（X）』を押してください！","相手を拘束するには
+相手の近くで『素手攻撃ボタン（X）』を長く押す",,"Boss，推动左摇杆的同时
+请按徒手攻击键（X）！",,MATCH,113,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,18,112,112,1,,page:tag:entity18:key00000000:ref112:ord4,"ボス『左スティック』を入力しながら
+『素手攻撃ボタン（X）』を押してください！","相手を拘束するには
+相手の近くで『素手攻撃ボタン（X）』を長く押す",どうした 相手の近くで『素手攻撃ボタン（X）』を押せ！,,"要拘束对手，
+靠近对手后长按徒手攻击键（X）。",,MATCH,95,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,19,118,118,1,,page:tag:entity19:key00000000:ref118:ord4,"相手を拘束するには
+相手の近くで『素手攻撃ボタン（X）』を長く押す",どうした 相手の近くで『素手攻撃ボタン（X）』を押せ！,ボス 相手のそばで『素手攻撃ボタン（X）』を押してみては！？,,怎么了？靠近对手按徒手攻击键（X）！,,MATCH,77,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,20,124,124,1,,page:tag:entity20:key00000000:ref124:ord4,どうした 相手の近くで『素手攻撃ボタン（X）』を押せ！,ボス 相手のそばで『素手攻撃ボタン（X）』を押してみては！？,"拘束した相手を投げ飛ばすには
+拘束中に『左スティック』を入力するんだ",,Boss，不妨在对手身边按徒手攻击键（X）！？,,MATCH,86,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,21,130,130,1,,page:tag:entity21:key00000000:ref130:ord4,ボス 相手のそばで『素手攻撃ボタン（X）』を押してみては！？,"拘束した相手を投げ飛ばすには
+拘束中に『左スティック』を入力するんだ","尋問するには『素手攻撃ボタン（X）』で相手を拘束
+その状態で『RB』を押せ",,"要把拘束中的对手摔出去，
+拘束时推动左摇杆。",,MATCH,100,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C79B17,22,136,136,1,,page:tag:entity22:key00000000:ref136:ord4,"拘束した相手を投げ飛ばすには
+拘束中に『左スティック』を入力するんだ","尋問するには『素手攻撃ボタン（X）』で相手を拘束
+その状態で『RB』を押せ","どうした
+拘束中に『左スティック』を動かしてみろ！",,"要审问，先用徒手攻击键（X）拘束对手，
+保持该状态按RB。",,MATCH,103,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_RB_BUTTONS_PRESERVED
+00C79B17,23,142,142,1,,page:tag:entity23:key00000000:ref142:ord4,"尋問するには『素手攻撃ボタン（X）』で相手を拘束
+その状態で『RB』を押せ","どうした
+拘束中に『左スティック』を動かしてみろ！",相手を投げ飛ばす時 更に『素手攻撃ボタン（X）』を押すんだ,,"怎么了？
+拘束中试着推动左摇杆！",,MATCH,73,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+00C79B17,24,148,148,1,,page:tag:entity24:key00000001:ref148:ord4,"どうした
+拘束中に『左スティック』を動かしてみろ！",相手を投げ飛ばす時 更に『素手攻撃ボタン（X）』を押すんだ,"ボス『アイコン』が出ている時に
+『素手攻撃ボタン（X）』を押すんです！",,把对手摔出去时，再按一次徒手攻击键（X）。,,MATCH,83,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED
+00C79B17,25,154,154,1,,page:tag:entity25:key00000000:ref154:ord4,相手を投げ飛ばす時 更に『素手攻撃ボタン（X）』を押すんだ,"ボス『アイコン』が出ている時に
+『素手攻撃ボタン（X）』を押すんです！",,,"Boss，出现“图标”时
+按徒手攻击键（X）！",,MATCH,101,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=JPN_LITERAL_X_BUTTON_PRESERVED

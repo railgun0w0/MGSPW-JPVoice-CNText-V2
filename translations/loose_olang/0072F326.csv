@@ -1,0 +1,157 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+0072F326,0,4,4,1,,page:tag:entity5:key00FBB2F1:ref4:ord4,,上書きする,"利用可能なストレージ機器が接続されていません。
+ストレージ機器を選択しますか？",,覆盖,,MATCH,15,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,1,10,10,1,,page:tag:entity4:key00BA9D90:ref10:ord4,上書きする,"利用可能なストレージ機器が接続されていません。
+ストレージ機器を選択しますか？",保存しています。本体の電源を切らないでください。,,"未连接可用的存储设备。
+是否选择存储设备？",,MATCH,115,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,2,16,16;112,2,,page:tag:entity0:key004DFE7B:ref16:ord4;page:tag:entity30:key00836B27:ref112:ord4,"利用可能なストレージ機器が接続されていません。
+ストレージ機器を選択しますか？",保存しています。本体の電源を切らないでください。,セーブに失敗しました。再試行しますか？,,正在保存。请勿关闭主机电源。,,MATCH,72,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2
+0072F326,3,22,22,1,,page:tag:entity1:key0062A9E3:ref22:ord4,保存しています。本体の電源を切らないでください。,セーブに失敗しました。再試行しますか？,選択されたストレージ機器にはMETAL GEAR SOLID PEACE WALKER HD EDITIONのシステムデータが存在します。上書きしてよろしいですか？,,保存失败。是否重试？,,MATCH,57,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_ADDS_GAME_DATA_SCOPE_NOT_IN_JPN;JPN_TRANSLATED_DIRECTLY
+0072F326,4,28,28,1,,page:tag:entity2:key0079AB74:ref28:ord4,セーブに失敗しました。再試行しますか？,選択されたストレージ機器にはMETAL GEAR SOLID PEACE WALKER HD EDITIONのシステムデータが存在します。上書きしてよろしいですか？,選択されたストレージ機器にはMETAL GEAR SOLID PEACE WALKER HD EDITIONのセーブデータが存在します。上書きしてよろしいですか？,,所选存储设备中已存在METAL GEAR SOLID PEACE WALKER HD EDITION的系统数据。是否覆盖？,,MATCH,166,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,5,34,34,1,,page:tag:entity3:key008D4014:ref34:ord4,選択されたストレージ機器にはMETAL GEAR SOLID PEACE WALKER HD EDITIONのシステムデータが存在します。上書きしてよろしいですか？,選択されたストレージ機器にはMETAL GEAR SOLID PEACE WALKER HD EDITIONのセーブデータが存在します。上書きしてよろしいですか？,MANUAL,,所选存储设备中已存在METAL GEAR SOLID PEACE WALKER HD EDITION的存档数据。是否覆盖？,,MATCH,163,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,6,40,40,1,,page:tag:entity12:key00236883:ref40:ord4,選択されたストレージ機器にはMETAL GEAR SOLID PEACE WALKER HD EDITIONのセーブデータが存在します。上書きしてよろしいですか？,MANUAL,MGS PEACE WALKER HD,,MANUAL,,MATCH,6,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_EMPTY_UI_LABEL_TRANSLATED_FROM_JPN; JPN_ASCII_UI_PRESERVED; NO_RELIABLE_MLG_CN_REFERENCE; USER_READABLE_ENGLISH_FALLBACK_2026-09-09
+0072F326,7,46,46,1,,page:tag:entity25:key0071044E:ref46:ord4,MANUAL,MGS PEACE WALKER HD,METAL GEAR SOLID PEACE WALKER HD EDITION,,MGS PEACE WALKER HD,,MATCH,19,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_UNCHANGED_TITLE_PRESERVED
+0072F326,8,52,52;262,2,,page:tag:entity39:key00DC6EF3:ref52:ord4;page:tag:entity43:key000DBAB6:ref262:ord4,MGS PEACE WALKER HD,METAL GEAR SOLID PEACE WALKER HD EDITION,システムデータをセッティングしています。,,METAL GEAR SOLID PEACE WALKER HD EDITION,,MATCH,40,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=2; review_flag=AUX_UNCHANGED_TITLE_PRESERVED
+0072F326,9,58,58,1,,page:tag:entity17:key00422618:ref58:ord4,METAL GEAR SOLID PEACE WALKER HD EDITION,システムデータをセッティングしています。,YES,,正在配置系统数据。,,MATCH,60,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_SAYS_GAME_DATA_BUT_JPN_SAYS_SYSTEM_DATA;JPN_TRANSLATED_DIRECTLY
+0072F326,10,64,64,1,,page:tag:entity10:key00185EC9:ref64:ord4,システムデータをセッティングしています。,YES,ストレージ機器を選択,,是,,MATCH,3,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,11,70,70,1,,page:tag:entity18:key00468F9A:ref70:ord4,YES,ストレージ機器を選択,サインイン,,选择存储设备,,MATCH,30,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,12,76,76,1,,page:tag:entity32:key009FCD91:ref76:ord4,ストレージ機器を選択,サインイン,再試行,,登录,,MATCH,15,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,13,82,82,1,,page:tag:entity6:key000B32FA:ref82:ord4,サインイン,再試行,ロードせずに続ける,,重试,,MATCH,9,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,14,88,88,1,,page:tag:entity27:key0078C7A5:ref88:ord4,再試行,ロードせずに続ける,セーブせずに続ける,,不读取存档继续,,MATCH,27,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,15,94,94,1,,page:tag:entity19:key004AF71F:ref94:ord4,ロードせずに続ける,セーブせずに続ける,NO,,不保存继续,,MATCH,27,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,16,100,100,1,,page:tag:entity36:key00B0C19D:ref100:ord4,セーブせずに続ける,NO,セーブデータを作成する,,否,,MATCH,2,3,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=UI_LABEL_TRANSLATED_FROM_JPN
+0072F326,17,106,106,1,,page:tag:entity26:key0077C49D:ref106:ord4,NO,セーブデータを作成する,保存しています。本体の電源を切らないでください。,,创建存档数据,,MATCH,33,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=UI_LABEL_TRANSLATED_FROM_JPN
+0072F326,18,118,118,1,,page:tag:entity24:key006F6D2E:ref118:ord4,保存しています。本体の電源を切らないでください。,"セーブデータが見つかりません。
+オンラインでプレイするにはオンラインプレイ可能なセーブデータが必要です。
+招待を受けることができません。","セーブデータが見つかりません。
+セーブデータを読み込まないとオンラインでプレイすることができません。",,"未找到存档数据。
+进行在线游戏需要支持在线游玩的存档数据。
+无法接受邀请。",,MATCH,200,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,19,124,124,1,,page:tag:entity37:key00BDEECF:ref124:ord4,"セーブデータが見つかりません。
+オンラインでプレイするにはオンラインプレイ可能なセーブデータが必要です。
+招待を受けることができません。","セーブデータが見つかりません。
+セーブデータを読み込まないとオンラインでプレイすることができません。","招待されたゲームに参加せず
+通常通りゲームを開始します。",,"未找到存档数据。
+未读取存档数据前无法进行在线游戏。",,MATCH,148,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,20,130,130,1,,page:tag:entity31:key00872E48:ref130:ord4,"セーブデータが見つかりません。
+セーブデータを読み込まないとオンラインでプレイすることができません。","招待されたゲームに参加せず
+通常通りゲームを開始します。","このゲームはオートセーブ機能に対応しています。
+その間は本体の電源を切らないでください。",,"不加入受邀游戏，
+按通常方式开始游戏。",,MATCH,82,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,21,136,136,1,,page:tag:entity16:key003F129B:ref136:ord4,"招待されたゲームに参加せず
+通常通りゲームを開始します。","このゲームはオートセーブ機能に対応しています。
+その間は本体の電源を切らないでください。","セーブデータをロードしています。絶対に電源を切ったり
+ストレージ機器を抜いたりしないでください。",,"本游戏支持自动保存功能。
+保存期间请勿关闭主机电源。",,MATCH,130,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,22,142,142,1,,page:tag:entity41:key00E53E6D:ref142:ord4,"このゲームはオートセーブ機能に対応しています。
+その間は本体の電源を切らないでください。","セーブデータをロードしています。絶対に電源を切ったり
+ストレージ機器を抜いたりしないでください。",ロードが完了しました。,,"正在读取存档数据。请绝对不要关闭主机电源，
+也不要拔出存储设备。",,MATCH,142,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,23,148,148,1,,page:tag:entity11:key0019875A:ref148:ord4,"セーブデータをロードしています。絶対に電源を切ったり
+ストレージ機器を抜いたりしないでください。",ロードが完了しました。,"ストレージ機器が取り外されました。ストレージ機器を選択しないとセーブデータを作成できません。
+利用可能なストレージ機器を接続し、再試行しますか？",,读取完成。,,MATCH,33,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,24,154,154,1,,page:tag:entity14:key00348ED6:ref154:ord4,ロードが完了しました。,"ストレージ機器が取り外されました。ストレージ機器を選択しないとセーブデータを作成できません。
+利用可能なストレージ機器を接続し、再試行しますか？",ゲームデータのセーブに失敗しました。再試行しますか？,,"存储设备已被移除。未选择存储设备就无法创建存档数据。
+请连接可用的存储设备，是否重试？",,MATCH,214,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,25,160,160,1,,page:tag:entity22:key0066F18E:ref160:ord4,"ストレージ機器が取り外されました。ストレージ機器を選択しないとセーブデータを作成できません。
+利用可能なストレージ機器を接続し、再試行しますか？",ゲームデータのセーブに失敗しました。再試行しますか？,"ストレージ機器が取り外されました。
+ストレージ機器を選択しないとセーブデータをロードできません。
+再試行しますか？",,游戏数据保存失败。是否重试？,,MATCH,78,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,26,166,166,1,,page:tag:entity35:key00B081AB:ref166:ord4,ゲームデータのセーブに失敗しました。再試行しますか？,"ストレージ機器が取り外されました。
+ストレージ機器を選択しないとセーブデータをロードできません。
+再試行しますか？",セーブデータのロードに失敗しました。再試行しますか？,,"存储设备已被移除。
+未选择存储设备就无法读取存档数据。
+是否重试？",,MATCH,167,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,27,172,172,1,,page:tag:entity9:key0011E974:ref172:ord4,"ストレージ機器が取り外されました。
+ストレージ機器を選択しないとセーブデータをロードできません。
+再試行しますか？",セーブデータのロードに失敗しました。再試行しますか？,"オンラインプレイ可能なセーブデータがありません。
+オンラインでプレイするにはオープニングミッションを
+クリアしたセーブデータが必要です。
+通常通りゲームを開始します。",,存档数据读取失败。是否重试？,,MATCH,78,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,28,178,178,1,,page:tag:entity20:key005A12D1:ref178:ord4,セーブデータのロードに失敗しました。再試行しますか？,"オンラインプレイ可能なセーブデータがありません。
+オンラインでプレイするにはオープニングミッションを
+クリアしたセーブデータが必要です。
+通常通りゲームを開始します。","操作方法を選んでください。
+
+シュータータイプ…『MGS4』に近い操作方法です。　　　　　　　　　　　　　
+アクションタイプ…『MPO』に近い操作方法です。　　　　　　　　　　　　　
+ハンタータイプ……『モンスターハンターポータブル<I=REG>』シリーズに近い操作方法です。",,"没有支持在线游玩的存档数据。
+要进行在线游戏，需要已完成开场任务的存档数据。
+将按通常方式开始游戏。",,MATCH,243,146,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,29,184,184,1,,page:tag:entity13:key002DE9A9:ref184:ord4,"オンラインプレイ可能なセーブデータがありません。
+オンラインでプレイするにはオープニングミッションを
+クリアしたセーブデータが必要です。
+通常通りゲームを開始します。","操作方法を選んでください。
+
+シュータータイプ…『MGS4』に近い操作方法です。　　　　　　　　　　　　　
+アクションタイプ…『MPO』に近い操作方法です。　　　　　　　　　　　　　
+ハンタータイプ……『モンスターハンターポータブル<I=REG>』シリーズに近い操作方法です。","システムデータが破損しています。
+削除して新たにシステムデータを
+作成してよろしいですか？",<I=REG>,"请选择操作方式。
+
+射击类型……操作方式接近《MGS4》。
+动作类型……操作方式接近《MPO》。
+狩猎类型……操作方式接近《怪物猎人携带版<I=REG>》系列。",<I=REG>,MATCH,378,204,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=CONTROL_REG_PRESERVED;AUX_REPLACES_PORTABLE_WITH_FREEDOM_AND_REG_WITH_TM;JPN_TRANSLATED_DIRECTLY
+0072F326,30,190,190,1,,page:tag:entity28:key00802A26:ref190:ord4,"操作方法を選んでください。
+
+シュータータイプ…『MGS4』に近い操作方法です。　　　　　　　　　　　　　
+アクションタイプ…『MPO』に近い操作方法です。　　　　　　　　　　　　　
+ハンタータイプ……『モンスターハンターポータブル<I=REG>』シリーズに近い操作方法です。","システムデータが破損しています。
+削除して新たにシステムデータを
+作成してよろしいですか？","現在使用しているストレージ機器に既にセーブデータが存在します。
+NEW GAMEを選択すると既存のプレイデータは
+削除されます。このまま続けますか？",,"系统数据已损坏。
+是否删除并重新创建系统数据？",,MATCH,131,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_SAYS_GAME_DATA_BUT_JPN_SAYS_SYSTEM_DATA;JPN_TRANSLATED_DIRECTLY
+0072F326,31,196,196,1,,page:tag:entity15:key00350F34:ref196:ord4,"システムデータが破損しています。
+削除して新たにシステムデータを
+作成してよろしいですか？","現在使用しているストレージ機器に既にセーブデータが存在します。
+NEW GAMEを選択すると既存のプレイデータは
+削除されます。このまま続けますか？",選択されたストレージ機器にセーブデータが見つかりません。セーブデータを作成しますか？,,"当前使用的存储设备中已存在存档数据。
+选择NEW GAME后，现有游戏数据将被删除。
+是否继续？",,MATCH,202,124,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,32,202,202,1,,page:tag:entity33:key00AFE32F:ref202:ord4,"現在使用しているストレージ機器に既にセーブデータが存在します。
+NEW GAMEを選択すると既存のプレイデータは
+削除されます。このまま続けますか？",選択されたストレージ機器にセーブデータが見つかりません。セーブデータを作成しますか？,"このままゲームを始めるとゲームの内容はセーブされません。
+このままゲームを開始しますか？",,所选存储设备中未找到存档数据。是否创建存档数据？,,MATCH,126,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=AUX_CN_FIELD_CONTAINS_ENGLISH;JPN_TRANSLATED_DIRECTLY
+0072F326,33,208,208,1,,page:tag:entity8:key000D9F69:ref208:ord4,選択されたストレージ機器にセーブデータが見つかりません。セーブデータを作成しますか？,"このままゲームを始めるとゲームの内容はセーブされません。
+このままゲームを開始しますか？","選択されたストレージ機器の空き容量が足りないため、システムデータを作成することができません。
+システムデータの作成には[lack_strage_system_capacity]KB以上の空き容量が必要です。
+十分な空き容量があるストレージ機器を接続し、再試行しますか？",,"如果就这样开始游戏，游戏内容将不会被保存。
+是否继续开始游戏？",,MATCH,130,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,34,214,214,1,,page:tag:entity38:key00C436DA:ref214:ord4,"このままゲームを始めるとゲームの内容はセーブされません。
+このままゲームを開始しますか？","選択されたストレージ機器の空き容量が足りないため、システムデータを作成することができません。
+システムデータの作成には[lack_strage_system_capacity]KB以上の空き容量が必要です。
+十分な空き容量があるストレージ機器を接続し、再試行しますか？","選択されたストレージ機器の空き容量が足りないため、セーブデータを作成することができません。
+セーブデータの作成には[lack_strage_save_capacity]KB以上の空き容量が必要です。
+十分な空き容量があるストレージ機器を接続し、再試行しますか？",,"所选存储设备的可用空间不足，无法创建系统数据。
+创建系统数据需要至少[lack_strage_system_capacity]KB可用空间。
+请连接有足够可用空间的存储设备，是否重试？",,MATCH,336,210,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=RUNTIME_PLACEHOLDER_PRESERVED
+0072F326,35,220,220,1,,page:tag:entity34:key00B04128:ref220:ord4,"選択されたストレージ機器の空き容量が足りないため、システムデータを作成することができません。
+システムデータの作成には[lack_strage_system_capacity]KB以上の空き容量が必要です。
+十分な空き容量があるストレージ機器を接続し、再試行しますか？","選択されたストレージ機器の空き容量が足りないため、セーブデータを作成することができません。
+セーブデータの作成には[lack_strage_save_capacity]KB以上の空き容量が必要です。
+十分な空き容量があるストレージ機器を接続し、再試行しますか？",ゲーマー プロフィールにサインインしていません。このままゲームを開始するとセーブできません。サインインしますか？,,"所选存储设备的可用空间不足，无法创建存档数据。
+创建存档数据需要至少[lack_strage_save_capacity]KB可用空间。
+请连接有足够可用空间的存储设备，是否重试？",,MATCH,328,208,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1; review_flag=RUNTIME_PLACEHOLDER_PRESERVED
+0072F326,36,226,226,1,,page:tag:entity42:key00E67360:ref226:ord4,"選択されたストレージ機器の空き容量が足りないため、セーブデータを作成することができません。
+セーブデータの作成には[lack_strage_save_capacity]KB以上の空き容量が必要です。
+十分な空き容量があるストレージ機器を接続し、再試行しますか？",ゲーマー プロフィールにサインインしていません。このままゲームを開始するとセーブできません。サインインしますか？,"ストレージ機器を選択しないとセーブすることができません。
+ストレージ機器を選択しますか？",,尚未登录玩家档案。如果继续开始游戏将无法保存。是否登录？,,MATCH,166,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,37,232,232,1,,page:tag:entity40:key00DF5AD6:ref232:ord4,ゲーマー プロフィールにサインインしていません。このままゲームを開始するとセーブできません。サインインしますか？,"ストレージ機器を選択しないとセーブすることができません。
+ストレージ機器を選択しますか？","セーブデータを読み込まないと
+オンラインプレイすることができません。
+再試行しますか？",,"未选择存储设备就无法保存。
+是否选择存储设备？",,MATCH,130,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,38,238,238,1,,page:tag:entity21:key005BA6F0:ref238:ord4,"ストレージ機器を選択しないとセーブすることができません。
+ストレージ機器を選択しますか？","セーブデータを読み込まないと
+オンラインプレイすることができません。
+再試行しますか？",招待されたゲームに参加しますか？,,"未读取存档数据就无法进行在线游戏。
+是否重试？",,MATCH,125,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,39,244,244,1,,page:tag:entity7:key000BC73E:ref244:ord4,"セーブデータを読み込まないと
+オンラインプレイすることができません。
+再試行しますか？",招待されたゲームに参加しますか？,利用可能なストレージ機器が接続されていません。このままゲームを開始するとセーブすることができません。ストレージ機器を選択しますか？,,是否加入受邀的游戏？,,MATCH,48,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,40,250,250,1,,page:tag:entity23:key0067152E:ref250:ord4,招待されたゲームに参加しますか？,利用可能なストレージ機器が接続されていません。このままゲームを開始するとセーブすることができません。ストレージ機器を選択しますか？,"セーブデータが破損しています。
+セーブデータのロードに失敗しました。",,未连接可用的存储设备。如果继续开始游戏将无法保存。是否选择存储设备？,,MATCH,195,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
+0072F326,41,256,256,1,,page:tag:entity29:key0081ACFE:ref256:ord4,利用可能なストレージ機器が接続されていません。このままゲームを開始するとセーブすることができません。ストレージ機器を選択しますか？,"セーブデータが破損しています。
+セーブデータのロードに失敗しました。",METAL GEAR SOLID PEACE WALKER HD EDITION,,"存档数据已损坏。
+存档数据读取失败。",,MATCH,100,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=LOOSE_OLANG; source_objects=1
