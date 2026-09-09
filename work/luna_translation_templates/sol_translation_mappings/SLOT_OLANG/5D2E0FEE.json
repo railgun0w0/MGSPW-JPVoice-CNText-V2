@@ -53,10 +53,10 @@
     ],
     [
       5,
-      "VOCALOID设置",
+      "VOCALOID SETTING",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      16,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       6,
@@ -130,66 +130,66 @@
     ],
     [
       16,
-      "涂装",
+      "PAINT",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      5,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       17,
-      "自定义",
+      "CUSTOMIZE",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      9,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       18,
-      "AI舱",
+      "AI POD",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      6,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       19,
-      "感知",
+      "SENSE",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      5,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       20,
-      "机动",
+      "MOBILITY",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      8,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       21,
-      "控制",
+      "CONTROL",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      7,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       22,
-      "攻击",
+      "ATTACK",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      6,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       23,
-      "状态",
+      "STATUS",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      6,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       24,
-      "规格",
+      "SPEC",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      4,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       25,
@@ -242,10 +242,10 @@
     ],
     [
       32,
-      "动力单元",
+      "POWER UNIT",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      10,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       33,
@@ -263,38 +263,38 @@
     ],
     [
       35,
-      "装甲",
+      "ARMOR",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      5,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; NO_RELIABLE_MLG_CN_REFERENCE; USER_READABLE_ENGLISH_FALLBACK_2026-09-09"
     ],
     [
       36,
-      "轨道炮",
+      "RAILGUN",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      7,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       37,
-      "雷达罩",
+      "RADOME",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      6,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; NO_RELIABLE_MLG_CN_REFERENCE; USER_READABLE_ENGLISH_FALLBACK_2026-09-09"
     ],
     [
       38,
-      "喷气背包",
+      "JET PACK",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      8,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       39,
-      "未装备",
+      "NOT EQUIPPED",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      12,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       40,
@@ -382,10 +382,10 @@
     ],
     [
       52,
-      "涂装颜色",
+      "COLOR PAINT",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      11,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       53,
@@ -396,10 +396,10 @@
     ],
     [
       54,
-      "可选部件",
+      "OPTION PARTS",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      12,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       55,
@@ -424,17 +424,17 @@
     ],
     [
       58,
-      "头部单元",
+      "HEAD UNIT",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      9,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; NO_RELIABLE_MLG_CN_REFERENCE; USER_READABLE_ENGLISH_FALLBACK_2026-09-09"
     ],
     [
       59,
-      "腿部单元",
+      "FOOT UNIT",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      9,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; NO_RELIABLE_MLG_CN_REFERENCE; USER_READABLE_ENGLISH_FALLBACK_2026-09-09"
     ],
     [
       60,
@@ -452,17 +452,17 @@
     ],
     [
       62,
-      "查看操作",
+      "VIEW CONTROLS",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      13,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       63,
-      "主要部件",
+      "MAIN PARTS",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      10,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       64,
@@ -508,10 +508,10 @@
     ],
     [
       70,
-      "生命值",
+      "LIFE",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      4,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       71,
@@ -550,10 +550,10 @@
     ],
     [
       76,
-      "头部部件",
+      "HEAD PARTS",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      10,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       77,
@@ -571,10 +571,10 @@
     ],
     [
       79,
-      "腿部部件",
+      "FOOT PARTS",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      10,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       80,
@@ -585,10 +585,10 @@
     ],
     [
       81,
-      "部件自定义",
+      "PARTS CUSTOMIZE",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      15,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       82,
@@ -599,17 +599,17 @@
     ],
     [
       83,
-      "线条颜色",
+      "LINE COLOR",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      10,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       84,
-      "机体颜色",
+      "BODY COLOR",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      10,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       85,
@@ -690,17 +690,17 @@
     ],
     [
       96,
-      "AI存储",
+      "AI STORAGE",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      10,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       97,
-      "AI部件",
+      "AI PARTS",
       "",
-      null,
-      "JPN_CONFIRMED_AUX"
+      8,
+      "JPN_CONFIRMED_AUX; JPN_ASCII_UI_PRESERVED; MLG_CN_RETAINS_ASCII; UI_FONT_COMPATIBILITY_FIX_2026-09-09"
     ],
     [
       98,
