@@ -1,0 +1,49 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02C230,0,stream=0x2C000;block=0x230;text=0,"[""stream=0x2C000;block=0x230;text=0""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x230;block_file=0x2C230;text_base=0x2C26C;capacity=540""]",,"そのあたりからは、イラスの山系が一望できるはずよ。標
+高が高いから大きな木も生えていないし、視界は抜群だと
+思う。
+","身を隠す場所に苦労しそうだ。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从那里你应能俯瞰整个伊拉苏山脉。那个海拔大型树木不多，而且
+你多半会在云雾之上。","[""从那里你应能俯瞰整个伊拉苏山脉。那个海拔大型树木不多，而且\n你多半会在云雾之上。""]","You should be able to see across the Irazú
+mountain range from there.
+There are not as many big trees at that elevation,
+and you'll probably be well above the mist.
+","[""You should be able to see across the Irazú\nmountain range from there.\nThere are not as many big trees at that elevation,\nand you'll probably be well above the mist.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x2C230; ENG blocks=0xBD460,0xBD460; ENG source rows=0xBD460#0,0xBD460#1; block_semantic_score=0.086292."
+BRIEFING_FILES_BLOCK_02C230,1,stream=0x2C000;block=0x230;text=1,"[""stream=0x2C000;block=0x230;text=1""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x230;block_file=0x2C230;text_base=0x2C26C;capacity=540""]","そのあたりからは、イラスの山系が一望できるはずよ。標
+高が高いから大きな木も生えていないし、視界は抜群だと
+思う。
+","身を隠す場所に苦労しそうだ。
+","スネークにとっては、景色なんて関係ないのね。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在那上面很难隐蔽。,"[""在那上面很难隐蔽。""]","It'll be tough to hide up there.
+","[""It'll be tough to hide up there.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2C230; ENG blocks=0xBD460; ENG source rows=0xBD460#2; block_semantic_score=0.086292.
+BRIEFING_FILES_BLOCK_02C230,2,stream=0x2C000;block=0x230;text=2,"[""stream=0x2C000;block=0x230;text=2""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x230;block_file=0x2C230;text_base=0x2C26C;capacity=540""]","身を隠す場所に苦労しそうだ。
+","スネークにとっては、景色なんて関係ないのね。
+","敵に囲まれてなけりゃわからんが。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你现在没心思欣赏风景，对吧？,"[""你现在没心思欣赏风景，对吧？""]","You're not thinking about the scenery right now,
+are you?
+","[""You're not thinking about the scenery right now,\nare you?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2C230; ENG blocks=0xBD460; ENG source rows=0xBD460#3; block_semantic_score=0.086292.
+BRIEFING_FILES_BLOCK_02C230,3,stream=0x2C000;block=0x230;text=3,"[""stream=0x2C000;block=0x230;text=3""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x230;block_file=0x2C230;text_base=0x2C26C;capacity=540""]","スネークにとっては、景色なんて関係ないのね。
+","敵に囲まれてなけりゃわからんが。
+","平和な時に見てほしかったな。きっと感動すると思う。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,被坏蛋包围的时候可没那个心思。,"[""被坏蛋包围的时候可没那个心思。""]","Not while I'm surrounded by bad guys.
+","[""Not while I'm surrounded by bad guys.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2C230; ENG blocks=0xBD460; ENG source rows=0xBD460#4; block_semantic_score=0.086292.
+BRIEFING_FILES_BLOCK_02C230,4,stream=0x2C000;block=0x230;text=4,"[""stream=0x2C000;block=0x230;text=4""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x230;block_file=0x2C230;text_base=0x2C26C;capacity=540""]","敵に囲まれてなけりゃわからんが。
+","平和な時に見てほしかったな。きっと感動すると思う。
+","なら、それは作戦成功後の楽しみに取っておこう。それで
+いいだろう？
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你应该看看这个国家和平时的模样。,"[""你应该看看这个国家和平时的模样。""]","You should have seen it when the country was at
+peace.
+","[""You should have seen it when the country was at\npeace.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2C230; ENG blocks=0xBD460; ENG source rows=0xBD460#5; block_semantic_score=0.086292.
+BRIEFING_FILES_BLOCK_02C230,5,stream=0x2C000;block=0x230;text=5,"[""stream=0x2C000;block=0x230;text=5""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x230;block_file=0x2C230;text_base=0x2C26C;capacity=540""]","平和な時に見てほしかったな。きっと感動すると思う。
+","なら、それは作戦成功後の楽しみに取っておこう。それで
+いいだろう？
+","ありがと、スネーク。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那就把它当作我们任务
+成功的奖励。怎么样？","[""那就把它当作我们任务\n成功的奖励。怎么样？""]","Well, that'll be our reward for a successful mission.
+Sound good?
+","[""Well, that'll be our reward for a successful mission.\nSound good?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2C230; ENG blocks=0xBD460; ENG source rows=0xBD460#7; block_semantic_score=0.086292.
+BRIEFING_FILES_BLOCK_02C230,6,stream=0x2C000;block=0x230;text=6,"[""stream=0x2C000;block=0x230;text=6""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x230;block_file=0x2C230;text_base=0x2C26C;capacity=540""]","なら、それは作戦成功後の楽しみに取っておこう。それで
+いいだろう？
+","ありがと、スネーク。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,太好了。谢谢你，Snake。,"[""太好了。谢谢你，Snake。""]","Wonderful. Thank you, Snake.
+","[""Wonderful. Thank you, Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2C230; ENG blocks=0xBD460; ENG source rows=0xBD460#8; block_semantic_score=0.086292.

@@ -1,0 +1,42 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_021620,0,stream=0x21000;block=0x620;text=0,"[""stream=0x21000;block=0x620;text=0""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x620;block_file=0x21620;text_base=0x21654;capacity=564""]",,"哨戒兵やコマンド兵が装着している装備品、特に防弾着に
+はバリエーションがあることが判っている。
+","装備の重装化は敵の防御力と銃撃の精度上昇に正比例する、
+という観察報告もあがっている。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们知道巡逻兵和突击队员的
+装备种类各不相同，","[""我们知道巡逻兵和突击队员的\n装备种类各不相同，""]","We know there are variations in the kinds of gear
+patrolmen and commandos wear,
+","[""We know there are variations in the kinds of gear\npatrolmen and commandos wear,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x21620; ENG blocks=0xB28E0; ENG source rows=0xB28E0#0; block_semantic_score=0.200121.
+BRIEFING_FILES_BLOCK_021620,1,stream=0x21000;block=0x620;text=1,"[""stream=0x21000;block=0x620;text=1""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x620;block_file=0x21620;text_base=0x21654;capacity=564""]","哨戒兵やコマンド兵が装着している装備品、特に防弾着に
+はバリエーションがあることが判っている。
+","装備の重装化は敵の防御力と銃撃の精度上昇に正比例する、
+という観察報告もあがっている。
+","奴らの中でも戦闘スキルが高い兵士なんだろう。だから、
+重装備でも高いパフォーマンスのまま戦えるということだ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们的侦察兵报告，
+敌人的防御力和射击精度","[""我们的侦察兵报告，\n敌人的防御力和射击精度""]","Our scouts report that an enemy's defense and
+firing accuracy
+","[""Our scouts report that an enemy's defense and\nfiring accuracy\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x21620; ENG blocks=0xB28E0; ENG source rows=0xB28E0#2; block_semantic_score=0.200121.
+BRIEFING_FILES_BLOCK_021620,2,stream=0x21000;block=0x620;text=2,"[""stream=0x21000;block=0x620;text=2""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x620;block_file=0x21620;text_base=0x21654;capacity=564""]","装備の重装化は敵の防御力と銃撃の精度上昇に正比例する、
+という観察報告もあがっている。
+","奴らの中でも戦闘スキルが高い兵士なんだろう。だから、
+重装備でも高いパフォーマンスのまま戦えるということだ。
+","装備の違いは一目でわかるそうだ。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,与他们的装备重量成正比。那些肯定是战斗技能最高的家伙。,"[""与他们的装备重量成正比。那些肯定是战斗技能最高的家伙。""]","are directly proportional to how heavy their gear is.
+Those must be the guys with the highest combat
+skills.
+","[""are directly proportional to how heavy their gear is.\nThose must be the guys with the highest combat\nskills.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x21620; ENG blocks=0xB28E0,0xB28E0; ENG source rows=0xB28E0#3,0xB28E0#4; block_semantic_score=0.200121."
+BRIEFING_FILES_BLOCK_021620,3,stream=0x21000;block=0x620;text=3,"[""stream=0x21000;block=0x620;text=3""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x620;block_file=0x21620;text_base=0x21654;capacity=564""]","奴らの中でも戦闘スキルが高い兵士なんだろう。だから、
+重装備でも高いパフォーマンスのまま戦えるということだ。
+","装備の違いは一目でわかるそうだ。
+","重装備の敵兵には一層の注意が必要だ、忘れないでくれ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们能穿着更重的装备
+作战而不受影响。","[""他们能穿着更重的装备\n作战而不受影响。""]","They can fight in heavier gear without their
+performance suffering.
+","[""They can fight in heavier gear without their\nperformance suffering.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x21620; ENG blocks=0xB28E0; ENG source rows=0xB28E0#5; block_semantic_score=0.200121.
+BRIEFING_FILES_BLOCK_021620,4,stream=0x21000;block=0x620;text=4,"[""stream=0x21000;block=0x620;text=4""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x620;block_file=0x21620;text_base=0x21654;capacity=564""]","装備の違いは一目でわかるそうだ。
+","重装備の敵兵には一層の注意が必要だ、忘れないでくれ。
+",,[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对付穿着重型装备的
+敌人时要格外小心。","[""对付穿着重型装备的\n敌人时要格外小心。""]","use extra caution when dealing with enemies
+wearing heavy gear.
+","[""use extra caution when dealing with enemies\nwearing heavy gear.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x21620; ENG blocks=0xB28E0; ENG source rows=0xB28E0#8; block_semantic_score=0.200121.

@@ -1,0 +1,67 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_031670,0,stream=0x31000;block=0x670;text=0,"[""stream=0x31000;block=0x670;text=0""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]",,"<R=ニカラグア湖,ラゴ・コシボルカ>に浮かぶ火山島が、オメテペ島よ。二つの火
+山がつながって、<R=ヒョウタン,ポロンゴ>のような形になっている。
+","噴煙を上げているのがそれか。
+","[""<R=ニカラグア湖,ラゴ・コシボルカ>"", ""<R=ヒョウタン,ポロンゴ>""]",,,NOT_CHECKED,201,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"科西沃尔卡湖上有一座火山岛，
+叫做奥梅特佩岛。它由两座相连的火山组成，
+形状像葫芦（porongo）。","[""科西沃尔卡湖上有一座火山岛，\n叫做奥梅特佩岛。它由两座相连的火山组成，\n形状像葫芦（porongo）。""]","There is a volcanic island in Lago Cocibolca called
+Ometepe.
+It's formed from two connected volcanoes, shaped
+like a porongo (gourd).
+","[""There is a volcanic island in Lago Cocibolca called\nOmetepe.\nIt's formed from two connected volcanoes, shaped\nlike a porongo (gourd).\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x31670; ENG blocks=0xC2510,0xC2510; ENG source rows=0xC2510#0,0xC2510#1; block_semantic_score=0.231576."
+BRIEFING_FILES_BLOCK_031670,1,stream=0x31000;block=0x670;text=1,"[""stream=0x31000;block=0x670;text=1""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","<R=ニカラグア湖,ラゴ・コシボルカ>に浮かぶ火山島が、オメテペ島よ。二つの火
+山がつながって、<R=ヒョウタン,ポロンゴ>のような形になっている。
+","噴煙を上げているのがそれか。
+","ええ。煙が出ているのがコンセプシオン山。時々噴火して
+いる。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是那个冒烟的吗？,"[""是那个冒烟的吗？""]","The one with smoke coming out of it?
+","[""The one with smoke coming out of it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31670; ENG blocks=0xC2510; ENG source rows=0xC2510#2; block_semantic_score=0.231576.
+BRIEFING_FILES_BLOCK_031670,2,stream=0x31000;block=0x670;text=2,"[""stream=0x31000;block=0x670;text=2""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","噴煙を上げているのがそれか。
+","ええ。煙が出ているのがコンセプシオン山。時々噴火して
+いる。
+","もう一方のマデラス山には、噴火の記録がない。頂上はカ
+ルデラ湖になっているの。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就是它。那座冒烟的火山是
+康塞普西翁火山。它偶尔会喷发。","[""就是它。那座冒烟的火山是\n康塞普西翁火山。它偶尔会喷发。""]","That's the one. The smoking volcano is
+Concepción. It erupts once in a while.
+","[""That's the one. The smoking volcano is\nConcepción. It erupts once in a while.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31670; ENG blocks=0xC2510; ENG source rows=0xC2510#3; block_semantic_score=0.231576.
+BRIEFING_FILES_BLOCK_031670,3,stream=0x31000;block=0x670;text=3,"[""stream=0x31000;block=0x670;text=3""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","ええ。煙が出ているのがコンセプシオン山。時々噴火して
+いる。
+","もう一方のマデラス山には、噴火の記録がない。頂上はカ
+ルデラ湖になっているの。
+","カルデラ湖か…また地下に工場でもなければいいんだがな。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在有记载的历史上从未喷发过。
+山顶的火山口里有一个湖。","[""在有记载的历史上从未喷发过。\n山顶的火山口里有一个湖。""]","It's never erupted in recorded history. There's a
+lake in the caldera at the top.
+","[""It's never erupted in recorded history. There's a\nlake in the caldera at the top.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31670; ENG blocks=0xC2510; ENG source rows=0xC2510#5; block_semantic_score=0.231576.
+BRIEFING_FILES_BLOCK_031670,4,stream=0x31000;block=0x670;text=4,"[""stream=0x31000;block=0x670;text=4""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","もう一方のマデラス山には、噴火の記録がない。頂上はカ
+ルデラ湖になっているの。
+","カルデラ湖か…また地下に工場でもなければいいんだがな。
+","何言ってるの！
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"火山口湖…希望里面别
+再有个地下工厂了…","[""火山口湖…希望里面别\n再有个地下工厂了…""]","A crater lake... Let's hope there's not another
+underground factory inside...
+","[""A crater lake... Let's hope there's not another\nunderground factory inside...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31670; ENG blocks=0xC2510; ENG source rows=0xC2510#6; block_semantic_score=0.231576.
+BRIEFING_FILES_BLOCK_031670,5,stream=0x31000;block=0x670;text=5,"[""stream=0x31000;block=0x670;text=5""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","カルデラ湖か…また地下に工場でもなければいいんだがな。
+","何言ってるの！
+","もしピースウォーカーの核がここで爆発したら、地下のマ
+グマにも影響して、火山がまた噴火するかも知れない。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别这么说！,"[""别这么说！""]","Don't say that!
+","[""Don't say that!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31670; ENG blocks=0xC2510; ENG source rows=0xC2510#7; block_semantic_score=0.231576.
+BRIEFING_FILES_BLOCK_031670,6,stream=0x31000;block=0x670;text=6,"[""stream=0x31000;block=0x670;text=6""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","何言ってるの！
+","もしピースウォーカーの核がここで爆発したら、地下のマ
+グマにも影響して、火山がまた噴火するかも知れない。
+","そんなことになったら、<R=祖国,ニカラグア>はおしまいよ。絶対にピース
+ウォーカーを止めて、スネーク！
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果和平行者的核弹在那里引爆，
+会破坏下方岩浆的稳定。","[""如果和平行者的核弹在那里引爆，\n会破坏下方岩浆的稳定。""]","If Peace Walker's nukes detonated there, it would
+destabilize the magma underneath.
+","[""If Peace Walker's nukes detonated there, it would\ndestabilize the magma underneath.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31670; ENG blocks=0xC2510; ENG source rows=0xC2510#8; block_semantic_score=0.231576.
+BRIEFING_FILES_BLOCK_031670,7,stream=0x31000;block=0x670;text=7,"[""stream=0x31000;block=0x670;text=7""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","もしピースウォーカーの核がここで爆発したら、地下のマ
+グマにも影響して、火山がまた噴火するかも知れない。
+","そんなことになったら、<R=祖国,ニカラグア>はおしまいよ。絶対にピース
+ウォーカーを止めて、スネーク！
+",,"[""<R=祖国,ニカラグア>""]",,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果那样，我的国家就完了。
+Snake，你必须阻止和平行者！","[""如果那样，我的国家就完了。\nSnake，你必须阻止和平行者！""]","If that happens, my country is doomed. Snake, you
+must stop Peace Walker!
+","[""If that happens, my country is doomed. Snake, you\nmust stop Peace Walker!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31670; ENG blocks=0xC2510; ENG source rows=0xC2510#10; block_semantic_score=0.231576.

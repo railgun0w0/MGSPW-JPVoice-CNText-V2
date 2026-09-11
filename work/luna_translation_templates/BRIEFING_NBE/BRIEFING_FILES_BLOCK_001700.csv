@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_001700,0,stream=0x1000;block=0x700;text=0,"[""stream=0x1000;block=0x700;text=0""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]",,"スネーク、思い出してくれ。
+","俺達の創った国境なき軍隊…。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"记住我们创建MSF的初衷，Snake：
+为任何需要的人提供军事力量，","[""记住我们创建MSF的初衷，Snake：\n为任何需要的人提供军事力量，""]","Remember why we created MSF, Snake: to provide
+military force to whoever needs it,
+","[""Remember why we created MSF, Snake: to provide\nmilitary force to whoever needs it,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=2:1; JPN blocks=0x1700,0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#0; block_semantic_score=0.202421."
+BRIEFING_FILES_BLOCK_001700,1,stream=0x1000;block=0x700;text=1,"[""stream=0x1000;block=0x700;text=1""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","スネーク、思い出してくれ。
+","俺達の創った国境なき軍隊…。
+","<R=Militaires,ミリテール> <R=Sans,サン> <R=Frontières,フロンティエール>の目的は国家や思想に囚
+われず、必要な土地、勢力に必要な軍事力を供給すること
+だ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"记住我们创建MSF的初衷，Snake：
+为任何需要的人提供军事力量，","[""记住我们创建MSF的初衷，Snake：\n为任何需要的人提供军事力量，""]","Remember why we created MSF, Snake: to provide
+military force to whoever needs it,
+","[""Remember why we created MSF, Snake: to provide\nmilitary force to whoever needs it,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=2:1; JPN blocks=0x1700,0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#0; block_semantic_score=0.202421."
+BRIEFING_FILES_BLOCK_001700,2,stream=0x1000;block=0x700;text=2,"[""stream=0x1000;block=0x700;text=2""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","俺達の創った国境なき軍隊…。
+","<R=Militaires,ミリテール> <R=Sans,サン> <R=Frontières,フロンティエール>の目的は国家や思想に囚
+われず、必要な土地、勢力に必要な軍事力を供給すること
+だ。
+","ご大層な信念があるわけじゃないが…。
+","[""<R=Militaires,ミリテール>"", ""<R=Sans,サン>"", ""<R=Frontières,フロンティエール>""]",,,NOT_CHECKED,207,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不论他们身处何地，
+不分国籍与意识形态。","[""不论他们身处何地，\n不分国籍与意识形态。""]","wherever they are, regardless of nation or ideology.
+","[""wherever they are, regardless of nation or ideology.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#1; block_semantic_score=0.202421.
+BRIEFING_FILES_BLOCK_001700,3,stream=0x1000;block=0x700;text=3,"[""stream=0x1000;block=0x700;text=3""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","<R=Militaires,ミリテール> <R=Sans,サン> <R=Frontières,フロンティエール>の目的は国家や思想に囚
+われず、必要な土地、勢力に必要な軍事力を供給すること
+だ。
+","ご大層な信念があるわけじゃないが…。
+","国の思惑には振り回されない。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们的信念其实并不算多么崇高…,"[""我们的信念其实并不算多么崇高…""]","Our beliefs aren't all that lofty...
+","[""Our beliefs aren't all that lofty...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#2; block_semantic_score=0.202421.
+BRIEFING_FILES_BLOCK_001700,4,stream=0x1000;block=0x700;text=4,"[""stream=0x1000;block=0x700;text=4""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","ご大層な信念があるわけじゃないが…。
+","国の思惑には振り回されない。
+","そうだ。俺たちは戦うことしかできないが…国家の事情に
+翻弄されずに生きる。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们只是不想沦为任何
+一个国家的工具。","[""我们只是不想沦为任何\n一个国家的工具。""]","We just won't be the tools of any one country.
+","[""We just won't be the tools of any one country.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#3; block_semantic_score=0.202421.
+BRIEFING_FILES_BLOCK_001700,5,stream=0x1000;block=0x700;text=5,"[""stream=0x1000;block=0x700;text=5""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","国の思惑には振り回されない。
+","そうだ。俺たちは戦うことしかできないが…国家の事情に
+翻弄されずに生きる。
+","MSFのマークは2億5千万年前の、パンゲア大陸をモチー
+フにしている。世界がひとつの大陸だった時代。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但我们拒绝任由国家摆布自己的人生。,"[""但我们拒绝任由国家摆布自己的人生。""]","but we refuse to live our lives at the whim of the
+state.
+","[""but we refuse to live our lives at the whim of the\nstate.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#5; block_semantic_score=0.202421.
+BRIEFING_FILES_BLOCK_001700,6,stream=0x1000;block=0x700;text=6,"[""stream=0x1000;block=0x700;text=6""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","そうだ。俺たちは戦うことしかできないが…国家の事情に
+翻弄されずに生きる。
+","MSFのマークは2億5千万年前の、パンゲア大陸をモチー
+フにしている。世界がひとつの大陸だった時代。
+","隔たりのないひとつの世界。
+",[],,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,MSF的徽章图案取自盘古大陆，也就是两亿五千万年前的超大陆。那时候，整个世界还是一整块大陆。,"[""MSF的徽章图案取自盘古大陆，也就是两亿五千万年前的超大陆。那时候，整个世界还是一整块大陆。""]","The MSF seal is patterned after Pangaea,
+the supercontinent from 250 million years ago.
+Back then, the whole world was one landmass.
+","[""The MSF seal is patterned after Pangaea,\nthe supercontinent from 250 million years ago.\nBack then, the whole world was one landmass.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x1700; ENG blocks=0x95C80,0x95C80,0x95C80; ENG source rows=0x95C80#6,0x95C80#7,0x95C80#8; block_semantic_score=0.202421."
+BRIEFING_FILES_BLOCK_001700,7,stream=0x1000;block=0x700;text=7,"[""stream=0x1000;block=0x700;text=7""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","MSFのマークは2億5千万年前の、パンゲア大陸をモチー
+フにしている。世界がひとつの大陸だった時代。
+","隔たりのないひとつの世界。
+","俺達の力はそこに還元する。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一个世界，没有分裂，没有隔阂。,"[""一个世界，没有分裂，没有隔阂。""]","One world. No gaps, no rifts.
+","[""One world. No gaps, no rifts.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#9; block_semantic_score=0.202421.
+BRIEFING_FILES_BLOCK_001700,8,stream=0x1000;block=0x700;text=8,"[""stream=0x1000;block=0x700;text=8""]",1,BRIEFING FILES,"[""stream=0x1000;block=0x700;block_file=0x1700;text_base=0x1744;capacity=728""]","隔たりのないひとつの世界。
+","俺達の力はそこに還元する。
+",,[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但凭借我们的力量，
+总能回到那样的世界。","[""但凭借我们的力量，\n总能回到那样的世界。""]","Our strength will take us back there.
+","[""Our strength will take us back there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1700; ENG blocks=0x95C80; ENG source rows=0x95C80#10; block_semantic_score=0.202421.

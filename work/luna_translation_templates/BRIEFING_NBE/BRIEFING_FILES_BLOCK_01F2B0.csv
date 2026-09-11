@@ -1,0 +1,17 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01F2B0,0,stream=0x1F000;block=0x2B0;text=0,"[""stream=0x1F000;block=0x2B0;text=0""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x2B0;block_file=0x1F2B0;text_base=0x1F2DC;capacity=208""]",,"CIAが雇った敵の傭兵たちを、アマンダ達はいくつかのカ
+テゴリーに分類しているそうだ。
+","教えてくれ、参考にしたい。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,被中情局(CIA)雇佣的雇佣兵。,"[""被中情局(CIA)雇佣的雇佣兵。""]","of mercenaries employed by the CIA.
+","[""of mercenaries employed by the CIA.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F2B0; ENG blocks=0xB0350; ENG source rows=0xB0350#1; block_semantic_score=0.237228.
+BRIEFING_FILES_BLOCK_01F2B0,1,stream=0x1F000;block=0x2B0;text=1,"[""stream=0x1F000;block=0x2B0;text=1""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x2B0;block_file=0x1F2B0;text_base=0x1F2DC;capacity=208""]","CIAが雇った敵の傭兵たちを、アマンダ達はいくつかのカ
+テゴリーに分類しているそうだ。
+","教えてくれ、参考にしたい。
+","了解だ。順を追って説明する。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"给我简要说说。
+听起来是我能用得上的情报。","[""给我简要说说。\n听起来是我能用得上的情报。""]","Give me a rundown. Sounds like info I could use.
+","[""Give me a rundown. Sounds like info I could use.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F2B0; ENG blocks=0xB0350; ENG source rows=0xB0350#2; block_semantic_score=0.237228.
+BRIEFING_FILES_BLOCK_01F2B0,2,stream=0x1F000;block=0x2B0;text=2,"[""stream=0x1F000;block=0x2B0;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x2B0;block_file=0x1F2B0;text_base=0x1F2DC;capacity=208""]","教えてくれ、参考にしたい。
+","了解だ。順を追って説明する。
+",,[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没问题。我按顺序一一说明。,"[""没问题。我按顺序一一说明。""]","No problem. I'll go through them in order.
+","[""No problem. I'll go through them in order.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F2B0; ENG blocks=0xB0350; ENG source rows=0xB0350#3; block_semantic_score=0.237228.

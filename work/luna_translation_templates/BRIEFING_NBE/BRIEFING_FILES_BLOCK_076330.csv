@@ -1,0 +1,391 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_076330,0,stream=0x76000;block=0x330;text=0,"[""stream=0x76000;block=0x330;text=0""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]",,"設定日時を入力せよ。
+","1964年8月24日。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,输入模拟日期。,"[""输入模拟日期。""]","Enter simulation date.
+","[""Enter simulation date.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#0; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,1,stream=0x76000;block=0x330;text=1,"[""stream=0x76000;block=0x330;text=1""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","設定日時を入力せよ。
+","1964年8月24日。
+","<R=　場所　,ロケーション>は。
+",[],,,NOT_CHECKED,20,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,8月24日。,"[""8月24日。""]","August 24.
+","[""August 24.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#1; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,2,stream=0x76000;block=0x330;text=2,"[""stream=0x76000;block=0x330;text=2""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","1964年8月24日。
+","<R=　場所　,ロケーション>は。
+","ソビエト連邦領内、ツェリノヤルスク。
+","[""<R=　場所　,ロケーション>""]",,,NOT_CHECKED,42,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,地点？,"[""地点？""]","Location?
+","[""Location?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#2; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,3,stream=0x76000;block=0x330;text=3,"[""stream=0x76000;block=0x330;text=3""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=　場所　,ロケーション>は。
+","ソビエト連邦領内、ツェリノヤルスク。
+","任務は。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,苏联，切利诺亚尔斯克。,"[""苏联，切利诺亚尔斯克。""]","Tselinoyarsk, USSR.
+","[""Tselinoyarsk, USSR.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#3; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,4,stream=0x76000;block=0x330;text=4,"[""stream=0x76000;block=0x330;text=4""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","ソビエト連邦領内、ツェリノヤルスク。
+","任務は。
+","潜入エージェントのサポートだ。目的は核兵器技術者の奪
+還。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,任务？,"[""任务？""]","Mission?
+","[""Mission?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#4; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,5,stream=0x76000;block=0x330;text=5,"[""stream=0x76000;block=0x330;text=5""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","任務は。
+","潜入エージェントのサポートだ。目的は核兵器技術者の奪
+還。
+","そのエージェントとは。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"支援一名秘密特工，
+他的目标是营救一位核武器科学家。","[""支援一名秘密特工，\n他的目标是营救一位核武器科学家。""]","Support a covert agent whose objective is the
+rescue of a nuclear weapons scientist.
+","[""Support a covert agent whose objective is the\nrescue of a nuclear weapons scientist.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#5; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,6,stream=0x76000;block=0x330;text=6,"[""stream=0x76000;block=0x330;text=6""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","潜入エージェントのサポートだ。目的は核兵器技術者の奪
+還。
+","そのエージェントとは。
+","あなたの教え子、最も近い…。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那名特工是谁？,"[""那名特工是谁？""]","Who is the agent?
+","[""Who is the agent?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#6; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,7,stream=0x76000;block=0x330;text=7,"[""stream=0x76000;block=0x330;text=7""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","そのエージェントとは。
+","あなたの教え子、最も近い…。
+","…了解。現時点での作戦進捗を述べよ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你的学生。你最…深爱的人…,"[""你的学生。你最…深爱的人…""]","Your student. Your... most beloved...
+","[""Your student. Your... most beloved...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#7; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,8,stream=0x76000;block=0x330;text=8,"[""stream=0x76000;block=0x330;text=8""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたの教え子、最も近い…。
+","…了解。現時点での作戦進捗を述べよ。
+","あなたの協力もあって、エージェントは<R=技術者,ターゲット>との接触に
+成功。後は<R=回収,リカバリ>を待つだけだ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…收到。定义当前任务进度。,"[""…收到。定义当前任务进度。""]","...Acknowledged. Define current mission progress.
+","[""...Acknowledged. Define current mission progress.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#8; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,9,stream=0x76000;block=0x330;text=9,"[""stream=0x76000;block=0x330;text=9""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…了解。現時点での作戦進捗を述べよ。
+","あなたの協力もあって、エージェントは<R=技術者,ターゲット>との接触に
+成功。後は<R=回収,リカバリ>を待つだけだ。
+","この後、あなたが取るべき行動を推論せよ。
+","[""<R=技術者,ターゲット>"", ""<R=回収,リカバリ>""]",,,NOT_CHECKED,159,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在你的帮助下，
+那名特工已成功与目标接触。","[""在你的帮助下，\n那名特工已成功与目标接触。""]","With your help, the agent has successfully made
+contact with the target.
+","[""With your help, the agent has successfully made\ncontact with the target.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#9; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,10,stream=0x76000;block=0x330;text=10,"[""stream=0x76000;block=0x330;text=10""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたの協力もあって、エージェントは<R=技術者,ターゲット>との接触に
+成功。後は<R=回収,リカバリ>を待つだけだ。
+","この後、あなたが取るべき行動を推論せよ。
+","…そのエージェントから技術者を奪う。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在，推断出最佳行动方案。,"[""现在，推断出最佳行动方案。""]","Now, deduce the best course of action.
+","[""Now, deduce the best course of action.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#11; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,11,stream=0x76000;block=0x330;text=11,"[""stream=0x76000;block=0x330;text=11""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","この後、あなたが取るべき行動を推論せよ。
+","…そのエージェントから技術者を奪う。
+","何のために。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我从那名特工手中带走科学家。,"[""…我从那名特工手中带走科学家。""]","...I take the scientist away from the agent.
+","[""...I take the scientist away from the agent.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#12; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,12,stream=0x76000;block=0x330;text=12,"[""stream=0x76000;block=0x330;text=12""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…そのエージェントから技術者を奪う。
+","何のために。
+","亡命の手土産にするため。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为什么？,"[""为什么？""]","What for?
+","[""What for?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#13; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,13,stream=0x76000;block=0x330;text=13,"[""stream=0x76000;block=0x330;text=13""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","何のために。
+","亡命の手土産にするため。
+","…なぜ亡命を？
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,作为我叛逃时的礼物。,"[""作为我叛逃时的礼物。""]","As a gift when I defect.
+","[""As a gift when I defect.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#14; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,14,stream=0x76000;block=0x330;text=14,"[""stream=0x76000;block=0x330;text=14""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","亡命の手土産にするため。
+","…なぜ亡命を？
+","かつての戦友と、特殊部隊を再興するため。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你为什么要叛逃？,"[""…你为什么要叛逃？""]","...Why are you defecting?
+","[""...Why are you defecting?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#15; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,15,stream=0x76000;block=0x330;text=15,"[""stream=0x76000;block=0x330;text=15""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…なぜ亡命を？
+","かつての戦友と、特殊部隊を再興するため。
+","違う！　目的が知りたいんじゃない。理由を聞きたいの。
+祖国を裏切る理由を。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为了和我的老战友一起
+重组我的特种部队。","[""为了和我的老战友一起\n重组我的特种部队。""]","To reform my Special Forces unit with my former
+comrades-in-arms.
+","[""To reform my Special Forces unit with my former\ncomrades-in-arms.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#16; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,16,stream=0x76000;block=0x330;text=16,"[""stream=0x76000;block=0x330;text=16""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","かつての戦友と、特殊部隊を再興するため。
+","違う！　目的が知りたいんじゃない。理由を聞きたいの。
+祖国を裏切る理由を。
+","……<R=祖国,アメリカ>を裏切る為に亡命を決めたのではない。亡命を企
+てた結果、祖国に背く事になったのだ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不！我不想听你的目的。
+我问的是原因。你为什么要背叛你的国家？","[""不！我不想听你的目的。\n我问的是原因。你为什么要背叛你的国家？""]","NO! I don't want to know your objective. I'm asking
+for the reason.
+Why are you betraying your country?
+","[""NO! I don't want to know your objective. I'm asking\nfor the reason.\nWhy are you betraying your country?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#17,0x109080#18; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,17,stream=0x76000;block=0x330;text=17,"[""stream=0x76000;block=0x330;text=17""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","違う！　目的が知りたいんじゃない。理由を聞きたいの。
+祖国を裏切る理由を。
+","……<R=祖国,アメリカ>を裏切る為に亡命を決めたのではない。亡命を企
+てた結果、祖国に背く事になったのだ。
+","やはりここで回答に時間がかかる……推論選択の確信度が
+低いのか？
+","[""<R=祖国,アメリカ>""]",,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我叛逃不是为了背叛美国。背叛只是那次叛逃的结果。,"[""…我叛逃不是为了背叛美国。背叛只是那次叛逃的结果。""]","...I do not defect in order to betray America.
+Betrayal is merely the outcome of that defection.
+","[""...I do not defect in order to betray America.\nBetrayal is merely the outcome of that defection.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#19,0x109080#20; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,18,stream=0x76000;block=0x330;text=18,"[""stream=0x76000;block=0x330;text=18""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","……<R=祖国,アメリカ>を裏切る為に亡命を決めたのではない。亡命を企
+てた結果、祖国に背く事になったのだ。
+","やはりここで回答に時間がかかる……推論選択の確信度が
+低いのか？
+","西側の英雄であるあなたを、ソ連が信用する？
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这里的响应时间总是更慢…也许她对自己的判断缺乏信心。,"[""这里的响应时间总是更慢…也许她对自己的判断缺乏信心。""]","Response time is always slower here...
+Perhaps she lacks confidence in her judgment.
+","[""Response time is always slower here...\nPerhaps she lacks confidence in her judgment.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#21,0x109080#22; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,19,stream=0x76000;block=0x330;text=19,"[""stream=0x76000;block=0x330;text=19""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","やはりここで回答に時間がかかる……推論選択の確信度が
+低いのか？
+","西側の英雄であるあなたを、ソ連が信用する？
+","核技術者に加え、<R=携行型核砲弾,デイビー・クロケット>を供与し、
+<R=ソ連軍参謀本部情報総局,GRU>の将校達の歓心を買う。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你在西方是位英雄。
+苏联人凭什么信任你？","[""你在西方是位英雄。\n苏联人凭什么信任你？""]","You're a hero in the West. Why should the Soviets
+trust you?
+","[""You're a hero in the West. Why should the Soviets\ntrust you?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#23; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,20,stream=0x76000;block=0x330;text=20,"[""stream=0x76000;block=0x330;text=20""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","西側の英雄であるあなたを、ソ連が信用する？
+","核技術者に加え、<R=携行型核砲弾,デイビー・クロケット>を供与し、
+<R=ソ連軍参謀本部情報総局,GRU>の将校達の歓心を買う。
+","…そしてあなたは、核を撃った。
+","[""<R=携行型核砲弾,デイビー・クロケット>"", ""<R=ソ連軍参謀本部情報総局,GRU>""]",,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我还向他们提供一枚便携式核弹头，以博取一位俄国格鲁乌
+(GRU)军官的欢心。","[""我还向他们提供一枚便携式核弹头，以博取一位俄国格鲁乌\n(GRU)军官的欢心。""]","I provide them with a portable nuclear warhead
+in order to win the favor of a Russian GRU officer.
+","[""I provide them with a portable nuclear warhead\nin order to win the favor of a Russian GRU officer.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#25,0x109080#26; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,21,stream=0x76000;block=0x330;text=21,"[""stream=0x76000;block=0x330;text=21""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","核技術者に加え、<R=携行型核砲弾,デイビー・クロケット>を供与し、
+<R=ソ連軍参謀本部情報総局,GRU>の将校達の歓心を買う。
+","…そしてあなたは、核を撃った。
+","核を…撃つ？　私が？
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…然后你发射了它。,"[""…然后你发射了它。""]","...And then you launched it.
+","[""...And then you launched it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#27; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,22,stream=0x76000;block=0x330;text=22,"[""stream=0x76000;block=0x330;text=22""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…そしてあなたは、核を撃った。
+","核を…撃つ？　私が？
+","そうだ。ソ連領内へ向けて。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,发射…核弹？我？,"[""发射…核弹？我？""]","Launched... the nuke? Me?
+","[""Launched... the nuke? Me?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#28; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,23,stream=0x76000;block=0x330;text=23,"[""stream=0x76000;block=0x330;text=23""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","核を…撃つ？　私が？
+","そうだ。ソ連領内へ向けて。
+","核は…血を凍らせる。明日を奪う。私が…核を？
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。射向苏联境内的一处目标。,"[""没错。射向苏联境内的一处目标。""]","That's right. At a target inside Soviet territory.
+","[""That's right. At a target inside Soviet territory.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#29; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,24,stream=0x76000;block=0x330;text=24,"[""stream=0x76000;block=0x330;text=24""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","そうだ。ソ連領内へ向けて。
+","核は…血を凍らせる。明日を奪う。私が…核を？
+","人の生み出した<R=業,カルマ>を…いや、私の<R=業,カルマ>なのか？　私の<R=失敗,ミス>が
+生み出した<R=業,カルマ>…私は…私は…！
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"核武器…让我不寒而栗。
+它们会抹杀未来。我…怎么能…？","[""核武器…让我不寒而栗。\n它们会抹杀未来。我…怎么能…？""]","Nuclear weapons... make my blood run cold. They
+blot out the future. How... could I...?
+","[""Nuclear weapons... make my blood run cold. They\nblot out the future. How... could I...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#30; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,25,stream=0x76000;block=0x330;text=25,"[""stream=0x76000;block=0x330;text=25""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","核は…血を凍らせる。明日を奪う。私が…核を？
+","人の生み出した<R=業,カルマ>を…いや、私の<R=業,カルマ>なのか？　私の<R=失敗,ミス>が
+生み出した<R=業,カルマ>…私は…私は…！
+","…<R=命令,アテンション>。前向き推論を停止し、<R=知識,ナレッジ>ベースとの照合を行え。
+","[""<R=業,カルマ>"", ""<R=業,カルマ>"", ""<R=失敗,ミス>"", ""<R=業,カルマ>""]",,,NOT_CHECKED,175,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,业报…这…这是我的业报吗？,"[""业报…这…这是我的业报吗？""]","Karma... Is... is it my karma?
+","[""Karma... Is... is it my karma?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#31; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,26,stream=0x76000;block=0x330;text=26,"[""stream=0x76000;block=0x330;text=26""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","人の生み出した<R=業,カルマ>を…いや、私の<R=業,カルマ>なのか？　私の<R=失敗,ミス>が
+生み出した<R=業,カルマ>…私は…私は…！
+","…<R=命令,アテンション>。前向き推論を停止し、<R=知識,ナレッジ>ベースとの照合を行え。
+","<R=了解,レディ>。
+","[""<R=命令,アテンション>"", ""<R=知識,ナレッジ>""]",,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"注意。停止正向推理。
+与知识库交叉核对。","[""注意。停止正向推理。\n与知识库交叉核对。""]","Attention. Discontinue forward reasoning.
+Cross-check with knowledge base.
+","[""Attention. Discontinue forward reasoning.\nCross-check with knowledge base.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#33; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,27,stream=0x76000;block=0x330;text=27,"[""stream=0x76000;block=0x330;text=27""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…<R=命令,アテンション>。前向き推論を停止し、<R=知識,ナレッジ>ベースとの照合を行え。
+","<R=了解,レディ>。
+","…照合完了。推論を修正する。技術者が開発した新型兵器
+を奪取後、私は<R=　核　砲　弾　,デイビー・クロケット>を、兵器開発局へ向けて撃
+つ。
+","[""<R=了解,レディ>""]",,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我偷走科学家研发的新武器，,"[""我偷走科学家研发的新武器，""]","I steal the new weapons developed by the scientist
+","[""I steal the new weapons developed by the scientist\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#36; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,28,stream=0x76000;block=0x330;text=28,"[""stream=0x76000;block=0x330;text=28""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=了解,レディ>。
+","…照合完了。推論を修正する。技術者が開発した新型兵器
+を奪取後、私は<R=　核　砲　弾　,デイビー・クロケット>を、兵器開発局へ向けて撃
+つ。
+","前向き推論と後ろ向き推論とが<R=　競合　,コンフリクト>している…。
+","[""<R=　核　砲　弾　,デイビー・クロケット>""]",,,NOT_CHECKED,200,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,然后把核弹射向武器设计局。,"[""然后把核弹射向武器设计局。""]","and then launch the nuke at the weapons design
+bureau.
+","[""and then launch the nuke at the weapons design\nbureau.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#37; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,29,stream=0x76000;block=0x330;text=29,"[""stream=0x76000;block=0x330;text=29""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…照合完了。推論を修正する。技術者が開発した新型兵器
+を奪取後、私は<R=　核　砲　弾　,デイビー・クロケット>を、兵器開発局へ向けて撃
+つ。
+","前向き推論と後ろ向き推論とが<R=　競合　,コンフリクト>している…。
+","<R=命令,アテンション>。前向き推論に戻れ。
+","[""<R=　競合　,コンフリクト>""]",,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,正向推理和反向推理相互冲突…,"[""正向推理和反向推理相互冲突…""]","Forward and backward reasoning are in conflict...
+","[""Forward and backward reasoning are in conflict...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#38; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,30,stream=0x76000;block=0x330;text=30,"[""stream=0x76000;block=0x330;text=30""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","前向き推論と後ろ向き推論とが<R=　競合　,コンフリクト>している…。
+","<R=命令,アテンション>。前向き推論に戻れ。
+","<R=了解,レディ>。
+","[""<R=命令,アテンション>""]",,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,注意。回到正向推理。,"[""注意。回到正向推理。""]","Attention. Return to forward reasoning.
+","[""Attention. Return to forward reasoning.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#39; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,31,stream=0x76000;block=0x330;text=31,"[""stream=0x76000;block=0x330;text=31""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=命令,アテンション>。前向き推論に戻れ。
+","<R=了解,レディ>。
+","…あなたの弟子が、核技術者を奪い返しに来る。
+","[""<R=了解,レディ>""]",,,NOT_CHECKED,24,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白。,"[""明白。""]","Affirmative.
+","[""Affirmative.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#40; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,32,stream=0x76000;block=0x330;text=32,"[""stream=0x76000;block=0x330;text=32""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=了解,レディ>。
+","…あなたの弟子が、核技術者を奪い返しに来る。
+","追い返す。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你的徒弟回来找那名科学家。,"[""…你的徒弟回来找那名科学家。""]","...Your apprentice returns for the scientist.
+","[""...Your apprentice returns for the scientist.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#41; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,33,stream=0x76000;block=0x330;text=33,"[""stream=0x76000;block=0x330;text=33""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…あなたの弟子が、核技術者を奪い返しに来る。
+","追い返す。
+","彼は諦めない。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他没有放弃。,"[""他没有放弃。""]","He doesn't give up.
+","[""He doesn't give up.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#43; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,34,stream=0x76000;block=0x330;text=34,"[""stream=0x76000;block=0x330;text=34""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","追い返す。
+","彼は諦めない。
+","仲間に倒させる。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我派我的战友去打败他。,"[""我派我的战友去打败他。""]","I send my comrades to defeat him.
+","[""I send my comrades to defeat him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#44; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,35,stream=0x76000;block=0x330;text=35,"[""stream=0x76000;block=0x330;text=35""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","彼は諦めない。
+","仲間に倒させる。
+","全員返り討ちにされる。そればかりか、あなたの亡命を受
+け入れたGRUの将校までが、その弟子に倒される。新型核
+兵器と共に。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们全都失败了。,"[""他们全都失败了。""]","All of them fail.
+","[""All of them fail.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#45; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,36,stream=0x76000;block=0x330;text=36,"[""stream=0x76000;block=0x330;text=36""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","仲間に倒させる。
+","全員返り討ちにされる。そればかりか、あなたの亡命を受
+け入れたGRUの将校までが、その弟子に倒される。新型核
+兵器と共に。
+","あなたの取るべき行動は。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"连负责监督你叛逃的格鲁乌(GRU
+)军官也被你的徒弟打败了，——连同那件新武器一起。","[""连负责监督你叛逃的格鲁乌(GRU\n)军官也被你的徒弟打败了，——连同那件新武器一起。""]","Even the GRU officer who oversaw your defection
+is defeated by your apprentice
+- along with the new weapon.
+","[""Even the GRU officer who oversaw your defection\nis defeated by your apprentice\n- along with the new weapon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#46,0x109080#47; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,37,stream=0x76000;block=0x330;text=37,"[""stream=0x76000;block=0x330;text=37""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","全員返り討ちにされる。そればかりか、あなたの亡命を受
+け入れたGRUの将校までが、その弟子に倒される。新型核
+兵器と共に。
+","あなたの取るべき行動は。
+","…私が彼と戦う。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在，你的行动方针是什么？,"[""现在，你的行动方针是什么？""]","Now, what is your course of action?
+","[""Now, what is your course of action?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#48; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,38,stream=0x76000;block=0x330;text=38,"[""stream=0x76000;block=0x330;text=38""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたの取るべき行動は。
+","…私が彼と戦う。
+","なぜ？　将校が死んだ以上、あなたがそのエージェントと
+戦う意味はない。逃げればいい。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我与他战斗。,"[""…我与他战斗。""]","...I fight him.
+","[""...I fight him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#49; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,39,stream=0x76000;block=0x330;text=39,"[""stream=0x76000;block=0x330;text=39""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…私が彼と戦う。
+","なぜ？　将校が死んだ以上、あなたがそのエージェントと
+戦う意味はない。逃げればいい。
+","私は…彼と戦わなければならない。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为什么？你的格鲁乌(GRU)靠山已死，
+你没有理由再战。为什么不干脆逃走？","[""为什么？你的格鲁乌(GRU)靠山已死，\n你没有理由再战。为什么不干脆逃走？""]","Why? With your GRU patron dead, there's no
+reason for you to fight.
+Why not just run away?
+","[""Why? With your GRU patron dead, there's no\nreason for you to fight.\nWhy not just run away?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#50,0x109080#51; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,40,stream=0x76000;block=0x330;text=40,"[""stream=0x76000;block=0x330;text=40""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","なぜ？　将校が死んだ以上、あなたがそのエージェントと
+戦う意味はない。逃げればいい。
+","私は…彼と戦わなければならない。
+","理由がわからない。そもそも、あなた程の人が付いていな
+がら、なぜGRUの将校が倒されたの？　彼を見捨てた？
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我…必须与他战斗。,"[""我…必须与他战斗。""]","I... must fight him.
+","[""I... must fight him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#52; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,41,stream=0x76000;block=0x330;text=41,"[""stream=0x76000;block=0x330;text=41""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私は…彼と戦わなければならない。
+","理由がわからない。そもそも、あなた程の人が付いていな
+がら、なぜGRUの将校が倒されたの？　彼を見捨てた？
+","私は…待っていた…ずっと。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不明白原因。那个格鲁乌(GRU)
+军官身边有你这样水准的士兵，他一开始怎么可能会被打败？
+难道你也背叛了他？","[""我不明白原因。那个格鲁乌(GRU)\n军官身边有你这样水准的士兵，他一开始怎么可能会被打败？\n难道你也背叛了他？""]","I do not see the reason. With a solider of your
+caliber on his side,
+how could the GRU officer be defeated to begin
+with? Did you betray him, too?
+","[""I do not see the reason. With a solider of your\ncaliber on his side,\nhow could the GRU officer be defeated to begin\nwith? Did you betray him, too?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#53,0x109080#54; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,42,stream=0x76000;block=0x330;text=42,"[""stream=0x76000;block=0x330;text=42""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","理由がわからない。そもそも、あなた程の人が付いていな
+がら、なぜGRUの将校が倒されたの？　彼を見捨てた？
+","私は…待っていた…ずっと。
+","GRUからKGBに乗り換えればいい。
+残りの<R=　核　砲　弾　,デイビー・クロケット>を手土産に。
+あなたほどの英雄…受け入れないはずがない。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我…我一直在等…等了很久。,"[""我…我一直在等…等了很久。""]","I... I've been waiting... for a long time.
+","[""I... I've been waiting... for a long time.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#55; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,43,stream=0x76000;block=0x330;text=43,"[""stream=0x76000;block=0x330;text=43""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私は…待っていた…ずっと。
+","GRUからKGBに乗り換えればいい。
+残りの<R=　核　砲　弾　,デイビー・クロケット>を手土産に。
+あなたほどの英雄…受け入れないはずがない。
+","流されてゆけ。私は留まるしかない。
+","[""<R=　核　砲　弾　,デイビー・クロケット>""]",,,NOT_CHECKED,191,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你可以从格鲁乌(GRU
+)改投克格勃(KGB)，","[""你可以从格鲁乌(GRU\n)改投克格勃(KGB)，""]","You could switch allegiance from GRU to KGB,
+","[""You could switch allegiance from GRU to KGB,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#56; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,44,stream=0x76000;block=0x330;text=44,"[""stream=0x76000;block=0x330;text=44""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","GRUからKGBに乗り換えればいい。
+残りの<R=　核　砲　弾　,デイビー・クロケット>を手土産に。
+あなたほどの英雄…受け入れないはずがない。
+","流されてゆけ。私は留まるしかない。
+","そんなことは聞いてない！　推論の根拠を開示して！！　
+私に、真実を教えて…。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"像你这样的大英雄，
+他们不可能不欢迎。","[""像你这样的大英雄，\n他们不可能不欢迎。""]","There's no chance they wouldn't welcome a hero
+of your stature.
+","[""There's no chance they wouldn't welcome a hero\nof your stature.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#58; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,45,stream=0x76000;block=0x330;text=45,"[""stream=0x76000;block=0x330;text=45""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","流されてゆけ。私は留まるしかない。
+","そんなことは聞いてない！　推論の根拠を開示して！！　
+私に、真実を教えて…。
+","戦闘相手は政治によって決まる。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我问的不是这个！
+给我你推理的依据！告诉我真相…","[""我问的不是这个！\n给我你推理的依据！告诉我真相…""]","I didn't ask you that! Give me the basis for your
+reasoning! Tell me the truth...
+","[""I didn't ask you that! Give me the basis for your\nreasoning! Tell me the truth...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#60; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,46,stream=0x76000;block=0x330;text=46,"[""stream=0x76000;block=0x330;text=46""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","そんなことは聞いてない！　推論の根拠を開示して！！　
+私に、真実を教えて…。
+","戦闘相手は政治によって決まる。
+","なぜ答えてくれないの！？　これじゃ…これじゃまるで、
+あの男に殺されるために待ってたみたいじゃない！
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,政治决定你在战场上面对的是谁。,"[""政治决定你在战场上面对的是谁。""]","Politics determine who you face on the battlefield.
+","[""Politics determine who you face on the battlefield.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#61; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,47,stream=0x76000;block=0x330;text=47,"[""stream=0x76000;block=0x330;text=47""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","戦闘相手は政治によって決まる。
+","なぜ答えてくれないの！？　これじゃ…これじゃまるで、
+あの男に殺されるために待ってたみたいじゃない！
+","私は売国奴…祖国を裏切った。殺されて当然…。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为什么你不回答我？！
+你简直就像是在等着他来杀你！","[""为什么你不回答我？！\n你简直就像是在等着他来杀你！""]","Why won't you answer me?! It's like you were just
+waiting for him to kill you!
+","[""Why won't you answer me?! It's like you were just\nwaiting for him to kill you!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#62; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,48,stream=0x76000;block=0x330;text=48,"[""stream=0x76000;block=0x330;text=48""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","なぜ答えてくれないの！？　これじゃ…これじゃまるで、
+あの男に殺されるために待ってたみたいじゃない！
+","私は売国奴…祖国を裏切った。殺されて当然…。
+","あなたまでそんなことを！？　違うでしょう？　あなたは
+そんな人じゃない！
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不忠…背叛了祖国…我该死…,"[""我不忠…背叛了祖国…我该死…""]","I was disloyal... Betrayed my country... I deserve to
+die...
+","[""I was disloyal... Betrayed my country... I deserve to\ndie...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#63; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,49,stream=0x76000;block=0x330;text=49,"[""stream=0x76000;block=0x330;text=49""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私は売国奴…祖国を裏切った。殺されて当然…。
+","あなたまでそんなことを！？　違うでしょう？　あなたは
+そんな人じゃない！
+","私を…殺して…。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你怎么能这么说？！
+你不可能是叛徒！你不是那种人！","[""你怎么能这么说？！\n你不可能是叛徒！你不是那种人！""]","How can you say that?! You can't be a traitor!
+You're not that kind of person!
+","[""How can you say that?! You can't be a traitor!\nYou're not that kind of person!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#64; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,50,stream=0x76000;block=0x330;text=50,"[""stream=0x76000;block=0x330;text=50""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたまでそんなことを！？　違うでしょう？　あなたは
+そんな人じゃない！
+","私を…殺して…。
+","やめて！　やめて！！　<R=　命令　,アテンション>！　推論を中止しなさい！！
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,杀了我…现在就杀了我…,"[""杀了我…现在就杀了我…""]","Kill me... Kill me now...
+","[""Kill me... Kill me now...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#65; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,51,stream=0x76000;block=0x330;text=51,"[""stream=0x76000;block=0x330;text=51""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私を…殺して…。
+","やめて！　やめて！！　<R=　命令　,アテンション>！　推論を中止しなさい！！
+","どちらかが死に、どちらかが生きる…。
+","[""<R=　命令　,アテンション>""]",,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,住手！住手！注意！终止推理！！,"[""住手！住手！注意！终止推理！！""]","STOP IT! STOP IT! Attention! Discontinue reasoning!!
+","[""STOP IT! STOP IT! Attention! Discontinue reasoning!!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#66; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,52,stream=0x76000;block=0x330;text=52,"[""stream=0x76000;block=0x330;text=52""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","やめて！　やめて！！　<R=　命令　,アテンション>！　推論を中止しなさい！！
+","どちらかが死に、どちらかが生きる…。
+","なぜ止まらないの！？　推論中止！
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一人必须死，一人必须活…,"[""一人必须死，一人必须活…""]","One must die, and one must live...
+","[""One must die, and one must live...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#67; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,53,stream=0x76000;block=0x330;text=53,"[""stream=0x76000;block=0x330;text=53""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","どちらかが死に、どちらかが生きる…。
+","なぜ止まらないの！？　推論中止！
+","綺麗でしょ？　生命の終わりは……。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,住手，该死的！终止！！,"[""住手，该死的！终止！！""]","Stop it, damn you! DISCONTINUE!
+","[""Stop it, damn you! DISCONTINUE!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#68; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,54,stream=0x76000;block=0x330;text=54,"[""stream=0x76000;block=0x330;text=54""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","なぜ止まらないの！？　推論中止！
+","綺麗でしょ？　生命の終わりは……。
+","強制停止！！
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,生命的终结…不是很美吗…？,"[""生命的终结…不是很美吗…？""]","Life's end... Isn't it beautiful...?
+","[""Life's end... Isn't it beautiful...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#69; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,55,stream=0x76000;block=0x330;text=55,"[""stream=0x76000;block=0x330;text=55""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","綺麗でしょ？　生命の終わりは……。
+","強制停止！！
+","…いつもここで推論が暴走する。やはり真実を解く鍵は、
+あの男が握っているのか？
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],"SHUT DOWN!!
+","[""SHUT DOWN!!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#70; block_semantic_score=0.199975.
+BRIEFING_FILES_BLOCK_076330,56,stream=0x76000;block=0x330;text=56,"[""stream=0x76000;block=0x330;text=56""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","強制停止！！
+","…いつもここで推論が暴走する。やはり真実を解く鍵は、
+あの男が握っているのか？
+","あの男から聞き出さなくては。何としても…！
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…总是在同一个地方，
+她的推理就会错乱。有人握着钥匙…也许就是他…","[""…总是在同一个地方，\n她的推理就会错乱。有人握着钥匙…也许就是他…""]","...Always in the same place, her reasoning goes
+haywire.
+Someone holds the key... Perhaps it's him...
+","[""...Always in the same place, her reasoning goes\nhaywire.\nSomeone holds the key... Perhaps it's him...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x76330; ENG blocks=0x109080,0x109080; ENG source rows=0x109080#71,0x109080#72; block_semantic_score=0.199975."
+BRIEFING_FILES_BLOCK_076330,57,stream=0x76000;block=0x330;text=57,"[""stream=0x76000;block=0x330;text=57""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…いつもここで推論が暴走する。やはり真実を解く鍵は、
+あの男が握っているのか？
+","あの男から聞き出さなくては。何としても…！
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我会从他嘴里撬出来的。
+不管用什么办法…！","[""我会从他嘴里撬出来的。\n不管用什么办法…！""]","I'll get it out of him. One way or another...!
+","[""I'll get it out of him. One way or another...!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x76330; ENG blocks=0x109080; ENG source rows=0x109080#73; block_semantic_score=0.199975.

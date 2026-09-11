@@ -1,0 +1,19 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_383B10,0,stream=0x383000;block=0xB10;text=0,"[""stream=0x383000;block=0xB10;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xB10;block_file=0x383B10;text_base=0x383B3C;capacity=164""]",,"これより、ミッションを開始する。
+","ミッションを遂行し、フルトン回収地点まで、
+無事生還してくれ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,开始执行任务吧。,"[""开始执行任务吧。""]","Let's get this mission started.
+","[""Let's get this mission started.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x383B10; ENG blocks=0x398FC0; ENG source rows=0x398FC0#0; block_semantic_score=0.126913.
+BRIEFING_MISSION_BLOCK_383B10,1,stream=0x383000;block=0xB10;text=1,"[""stream=0x383000;block=0xB10;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xB10;block_file=0x383B10;text_base=0x383B3C;capacity=164""]","これより、ミッションを開始する。
+","ミッションを遂行し、フルトン回収地点まで、
+無事生還してくれ。
+","健闘を祈る。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,完成任务，前往富尔顿回收点，这样我们才能确保你安然无恙地回来。,"[""完成任务，前往富尔顿回收点，这样我们才能确保你安然无恙地回来。""]","Complete the mission and proceed to the
+Fulton recovery point
+so we can get you back alive and well.
+","[""Complete the mission and proceed to the\nFulton recovery point\nso we can get you back alive and well.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x383B10; ENG blocks=0x398FC0,0x398FC0; ENG source rows=0x398FC0#1,0x398FC0#2; block_semantic_score=0.126913."
+BRIEFING_MISSION_BLOCK_383B10,2,stream=0x383000;block=0xB10;text=2,"[""stream=0x383000;block=0xB10;text=2""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xB10;block_file=0x383B10;text_base=0x383B3C;capacity=164""]","ミッションを遂行し、フルトン回収地点まで、
+無事生還してくれ。
+","健闘を祈る。
+",,[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,祝你好运。,"[""祝你好运。""]","Good luck out there.
+","[""Good luck out there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x383B10; ENG blocks=0x398FC0; ENG source rows=0x398FC0#3; block_semantic_score=0.126913.

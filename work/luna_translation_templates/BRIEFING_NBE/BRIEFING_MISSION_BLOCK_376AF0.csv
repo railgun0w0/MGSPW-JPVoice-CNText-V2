@@ -1,0 +1,28 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_376AF0,0,stream=0x376000;block=0xAF0;text=0,"[""stream=0x376000;block=0xAF0;text=0""]",1,d4190_m0290_mrd,"[""stream=0x376000;block=0xAF0;block_file=0x376AF0;text_base=0x376B1C;capacity=292""]",,"スネーク…。
+これがあんたに聞こえているといいが…。
+","あんたはストレンジラブ博士に
+捕まっちまったようだ。
+武器装備は没収されたかもしれない…。
+",[],,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…Snake，希望你能听到我说话。,"[""…Snake，希望你能听到我说话。""]","...Snake, I hope you can hear me.
+","[""...Snake, I hope you can hear me.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x376AF0; ENG blocks=0x38D9D0; ENG source rows=0x38D9D0#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_376AF0,1,stream=0x376000;block=0xAF0;text=1,"[""stream=0x376000;block=0xAF0;text=1""]",1,d4190_m0290_mrd,"[""stream=0x376000;block=0xAF0;block_file=0x376AF0;text_base=0x376B1C;capacity=292""]","スネーク…。
+これがあんたに聞こえているといいが…。
+","あんたはストレンジラブ博士に
+捕まっちまったようだ。
+武器装備は没収されたかもしれない…。
+","だが、まだ何かあるはずだ。
+思い出してくれ、スネーク！
+",[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"消息说你被Strangelove抓住了。我猜他们没收了你的装备。
+但我知道你还有剩下点什么。","[""消息说你被Strangelove抓住了。我猜他们没收了你的装备。\n但我知道你还有剩下点什么。""]","Word is you've been captured by
+Strangelove.
+I'm guessing they confiscated your gear.
+But I know you've still got something left.
+","[""Word is you've been captured by\nStrangelove.\nI'm guessing they confiscated your gear.\nBut I know you've still got something left.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x376AF0; ENG blocks=0x38D9D0,0x38D9D0; ENG source rows=0x38D9D0#1,0x38D9D0#2; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_376AF0,2,stream=0x376000;block=0xAF0;text=2,"[""stream=0x376000;block=0xAF0;text=2""]",1,d4190_m0290_mrd,"[""stream=0x376000;block=0xAF0;block_file=0x376AF0;text_base=0x376B1C;capacity=292""]","あんたはストレンジラブ博士に
+捕まっちまったようだ。
+武器装備は没収されたかもしれない…。
+","だが、まだ何かあるはずだ。
+思い出してくれ、スネーク！
+",,[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,搜索你的记忆，Snake！,"[""搜索你的记忆，Snake！""]","Search your memory, Snake!
+","[""Search your memory, Snake!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x376AF0; ENG blocks=0x38D9D0; ENG source rows=0x38D9D0#3; block_semantic_score=1.000000.

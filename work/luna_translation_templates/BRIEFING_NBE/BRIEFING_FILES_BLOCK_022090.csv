@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_022090,0,stream=0x22000;block=0x90;text=0,"[""stream=0x22000;block=0x90;text=0""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]",,"Costa Ricaは“豊かな海岸”という意味よ。
+","コロンブスが名付け親って話は本当か？
+",[],,,NOT_CHECKED,56,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加在西班牙语中的
+意思是“富饶的海岸”。","[""哥斯达黎加在西班牙语中的\n意思是“富饶的海岸”。""]","Costa Rica means ""rich coast"" in Spanish.
+","[""Costa Rica means \""rich coast\"" in Spanish.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22090; ENG blocks=0xB3710; ENG source rows=0xB3710#0; block_semantic_score=0.193070.
+BRIEFING_FILES_BLOCK_022090,1,stream=0x22000;block=0x90;text=1,"[""stream=0x22000;block=0x90;text=1""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","Costa Ricaは“豊かな海岸”という意味よ。
+","コロンブスが名付け親って話は本当か？
+","どうかな。でも、大航海時代、コロンブスがリモンの近く
+に漂着したのは本当。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真的是哥伦布起的这个名字吗？,"[""真的是哥伦布起的这个名字吗？""]","Is it true that Columbus was the one who came up
+with the name?
+","[""Is it true that Columbus was the one who came up\nwith the name?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22090; ENG blocks=0xB3710; ENG source rows=0xB3710#1; block_semantic_score=0.193070.
+BRIEFING_FILES_BLOCK_022090,2,stream=0x22000;block=0x90;text=2,"[""stream=0x22000;block=0x90;text=2""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","コロンブスが名付け親って話は本当か？
+","どうかな。でも、大航海時代、コロンブスがリモンの近く
+に漂着したのは本当。
+","その時、<R=先住民,インディヘナ>から沢山金細工をもらったって、彼の日誌
+に書いてある。それが由来なのかも。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥伦布在大航海时代曾
+将船停泊在利蒙附近。","[""哥伦布在大航海时代曾\n将船停泊在利蒙附近。""]","that Columbus landed his ships near Limón back in
+the Age of Exploration.
+","[""that Columbus landed his ships near Limón back in\nthe Age of Exploration.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22090; ENG blocks=0xB3710; ENG source rows=0xB3710#3; block_semantic_score=0.193070.
+BRIEFING_FILES_BLOCK_022090,3,stream=0x22000;block=0x90;text=3,"[""stream=0x22000;block=0x90;text=3""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","どうかな。でも、大航海時代、コロンブスがリモンの近く
+に漂着したのは本当。
+","その時、<R=先住民,インディヘナ>から沢山金細工をもらったって、彼の日誌
+に書いてある。それが由来なのかも。
+","変な話。コスタリカでそんなに金が採れるわけでもないの
+に。
+","[""<R=先住民,インディヘナ>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"原住民纷纷送给他黄金
+礼物。因此得名。","[""原住民纷纷送给他黄金\n礼物。因此得名。""]","the indígena showered him with gifts of gold.
+Hence the name.
+","[""the indígena showered him with gifts of gold.\nHence the name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22090; ENG blocks=0xB3710; ENG source rows=0xB3710#5; block_semantic_score=0.193070.
+BRIEFING_FILES_BLOCK_022090,4,stream=0x22000;block=0x90;text=4,"[""stream=0x22000;block=0x90;text=4""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","その時、<R=先住民,インディヘナ>から沢山金細工をもらったって、彼の日誌
+に書いてある。それが由来なのかも。
+","変な話。コスタリカでそんなに金が採れるわけでもないの
+に。
+","もともと、<R=黄金の国,ジパング>を探して航海に出た連中だ。金には目
+がなかったんだろう。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这听起来有点奇怪。哥斯达黎加不可能找到那么多黄金。,"[""这听起来有点奇怪。哥斯达黎加不可能找到那么多黄金。""]","It sounds a little strange to me.
+There is no way they could find that much gold in
+Costa Rica.
+","[""It sounds a little strange to me.\nThere is no way they could find that much gold in\nCosta Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x22090; ENG blocks=0xB3710,0xB3710; ENG source rows=0xB3710#6,0xB3710#7; block_semantic_score=0.193070."
+BRIEFING_FILES_BLOCK_022090,5,stream=0x22000;block=0x90;text=5,"[""stream=0x22000;block=0x90;text=5""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","変な話。コスタリカでそんなに金が採れるわけでもないの
+に。
+","もともと、<R=黄金の国,ジパング>を探して航海に出た連中だ。金には目
+がなかったんだろう。
+","金なんかなくても、コスタリカは豊かな国よ。森や動物達、
+平和を愛する人々…私はそれを守りたい。
+","[""<R=黄金の国,ジパング>""]",,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥伦布原本就是为了寻找
+传说中的黄金国而出航的。","[""哥伦布原本就是为了寻找\n传说中的黄金国而出航的。""]","Columbus originally set sail in search of the
+legendary land of gold.
+","[""Columbus originally set sail in search of the\nlegendary land of gold.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22090; ENG blocks=0xB3710; ENG source rows=0xB3710#8; block_semantic_score=0.193070.
+BRIEFING_FILES_BLOCK_022090,6,stream=0x22000;block=0x90;text=6,"[""stream=0x22000;block=0x90;text=6""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","もともと、<R=黄金の国,ジパング>を探して航海に出た連中だ。金には目
+がなかったんだろう。
+","金なんかなくても、コスタリカは豊かな国よ。森や動物達、
+平和を愛する人々…私はそれを守りたい。
+","…ああ、そうだな。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看看这些森林、动物，
+还有热爱和平的人民…","[""看看这些森林、动物，\n还有热爱和平的人民…""]","Look at the forests and the animals, and the
+peace-loving people...
+","[""Look at the forests and the animals, and the\npeace-loving people...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22090; ENG blocks=0xB3710; ENG source rows=0xB3710#11; block_semantic_score=0.193070.
+BRIEFING_FILES_BLOCK_022090,7,stream=0x22000;block=0x90;text=7,"[""stream=0x22000;block=0x90;text=7""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","金なんかなくても、コスタリカは豊かな国よ。森や動物達、
+平和を愛する人々…私はそれを守りたい。
+","…ああ、そうだな。
+",,[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我明白你的感受。,"[""…我明白你的感受。""]","...I know how you feel.
+","[""...I know how you feel.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22090; ENG blocks=0xB3710; ENG source rows=0xB3710#13; block_semantic_score=0.193070.

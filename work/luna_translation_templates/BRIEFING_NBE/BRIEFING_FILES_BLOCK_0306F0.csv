@@ -1,0 +1,97 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0306F0,0,stream=0x30000;block=0x6F0;text=0,"[""stream=0x30000;block=0x6F0;text=0""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]",,"<R=初代のソモサ,タチョ>はもともと、<R=国家警備隊,グァルディア>の長官に過ぎなかっ
+た。本来なら、大統領になれるような器じゃないのよ。
+","でも、当時の大統領には力の後ろ盾がなかった。奴に力で
+対抗できたのは、サンディーノ将軍だけ…。
+","[""<R=初代のソモサ,タチョ>"", ""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,192,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最初的索摩查原本不过是
+国民警卫队的指挥官。","[""最初的索摩查原本不过是\n国民警卫队的指挥官。""]","The first Somoza was originally no more than the
+commander of la Guardia.
+","[""The first Somoza was originally no more than the\ncommander of la Guardia.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#0; block_semantic_score=0.132526.
+BRIEFING_FILES_BLOCK_0306F0,1,stream=0x30000;block=0x6F0;text=1,"[""stream=0x30000;block=0x6F0;text=1""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","<R=初代のソモサ,タチョ>はもともと、<R=国家警備隊,グァルディア>の長官に過ぎなかっ
+た。本来なら、大統領になれるような器じゃないのよ。
+","でも、当時の大統領には力の後ろ盾がなかった。奴に力で
+対抗できたのは、サンディーノ将軍だけ…。
+","いえ違う。対抗しようと考えたのが将軍だったってだけ。
+彼は特別な人間じゃなかった。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但当时的总统没有力量支持他。唯一有力量反对他的人，
+是桑地诺将军。","[""但当时的总统没有力量支持他。唯一有力量反对他的人，\n是桑地诺将军。""]","But the president at the time had no power to
+back him.
+The only one with the strength to oppose him was
+General Sandino.
+","[""But the president at the time had no power to\nback him.\nThe only one with the strength to oppose him was\nGeneral Sandino.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x306F0; ENG blocks=0xC16A0,0xC16A0; ENG source rows=0xC16A0#2,0xC16A0#3; block_semantic_score=0.132526."
+BRIEFING_FILES_BLOCK_0306F0,2,stream=0x30000;block=0x6F0;text=2,"[""stream=0x30000;block=0x6F0;text=2""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","でも、当時の大統領には力の後ろ盾がなかった。奴に力で
+対抗できたのは、サンディーノ将軍だけ…。
+","いえ違う。対抗しようと考えたのが将軍だったってだけ。
+彼は特別な人間じゃなかった。
+","正義を貫くには、なにより意志を持つことが大事。あたし
+達は、それを彼から学んだ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，更准确地说，
+将军是唯一敢于反对他的人。他其实没什么特别的。","[""不，更准确地说，\n将军是唯一敢于反对他的人。他其实没什么特别的。""]","....No. Better to say the General was the only one
+who dared oppose him.
+There was nothing special about him.
+","[""....No. Better to say the General was the only one\nwho dared oppose him.\nThere was nothing special about him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x306F0; ENG blocks=0xC16A0,0xC16A0; ENG source rows=0xC16A0#4,0xC16A0#5; block_semantic_score=0.132526."
+BRIEFING_FILES_BLOCK_0306F0,3,stream=0x30000;block=0x6F0;text=3,"[""stream=0x30000;block=0x6F0;text=3""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","いえ違う。対抗しようと考えたのが将軍だったってだけ。
+彼は特別な人間じゃなかった。
+","正義を貫くには、なにより意志を持つことが大事。あたし
+達は、それを彼から学んだ。
+","だが、だからこそソモサは、サンディーノを暗殺した…。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最重要的是，要伸张正义，
+需要坚强的意志。这是他教给我们的。","[""最重要的是，要伸张正义，\n需要坚强的意志。这是他教给我们的。""]","Above all, it takes a strong will to see justice done.
+That is what he taught us.
+","[""Above all, it takes a strong will to see justice done.\nThat is what he taught us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#6; block_semantic_score=0.132526.
+BRIEFING_FILES_BLOCK_0306F0,4,stream=0x30000;block=0x6F0;text=4,"[""stream=0x30000;block=0x6F0;text=4""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","正義を貫くには、なにより意志を持つことが大事。あたし
+達は、それを彼から学んだ。
+","だが、だからこそソモサは、サンディーノを暗殺した…。
+","ええ。後は簡単。大統領を追い出して、不正選挙で自分を
+選ばせた。そしてそのまま、権力を握り続けている。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也正是这一点，
+促使索摩查派人刺杀了他…","[""也正是这一点，\n促使索摩查派人刺杀了他…""]","It's also what motivated Somoza to have him killed...
+","[""It's also what motivated Somoza to have him killed...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#7; block_semantic_score=0.132526.
+BRIEFING_FILES_BLOCK_0306F0,5,stream=0x30000;block=0x6F0;text=5,"[""stream=0x30000;block=0x6F0;text=5""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","だが、だからこそソモサは、サンディーノを暗殺した…。
+","ええ。後は簡単。大統領を追い出して、不正選挙で自分を
+選ばせた。そしてそのまま、権力を握り続けている。
+","強引だな。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的。剩下的就简单了。他干掉了
+总统，在一场虚假选举中上台。","[""是的。剩下的就简单了。他干掉了\n总统，在一场虚假选举中上台。""]","Yes. The rest was easy. He got rid of the
+president, taking office in a sham election.
+","[""Yes. The rest was easy. He got rid of the\npresident, taking office in a sham election.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#8; block_semantic_score=0.132526.
+BRIEFING_FILES_BLOCK_0306F0,6,stream=0x30000;block=0x6F0;text=6,"[""stream=0x30000;block=0x6F0;text=6""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","ええ。後は簡単。大統領を追い出して、不正選挙で自分を
+選ばせた。そしてそのまま、権力を握り続けている。
+","強引だな。
+","ソモサのバックには、アメリカがいたからね。アメリカは、
+反抗的な将軍に政権を渡したくなかったから。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真是铁腕手段。,"[""真是铁腕手段。""]","Talk about heavy-handed.
+","[""Talk about heavy-handed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#10; block_semantic_score=0.132526.
+BRIEFING_FILES_BLOCK_0306F0,7,stream=0x30000;block=0x6F0;text=7,"[""stream=0x30000;block=0x6F0;text=7""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","強引だな。
+","ソモサのバックには、アメリカがいたからね。アメリカは、
+反抗的な将軍に政権を渡したくなかったから。
+","とは言え、そんな男をよくアメリカが承認したな。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们不想把权力交给一个叛逆的将军。,"[""他们不想把权力交给一个叛逆的将军。""]","They didn't want to hand over power to a
+rebellious general.
+","[""They didn't want to hand over power to a\nrebellious general.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#12; block_semantic_score=0.132526.
+BRIEFING_FILES_BLOCK_0306F0,8,stream=0x30000;block=0x6F0;text=8,"[""stream=0x30000;block=0x6F0;text=8""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","ソモサのバックには、アメリカがいたからね。アメリカは、
+反抗的な将軍に政権を渡したくなかったから。
+","とは言え、そんな男をよくアメリカが承認したな。
+","当時のアメリカ大統領は『ソモサは<R=ろくでなし,サノバビッチ>だが、我々
+の側の<R=ろくでなし,サノバビッチ>だ』って言ったらしい。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"即便如此，也很难相信
+华盛顿会纵容那种人。","[""即便如此，也很难相信\n华盛顿会纵容那种人。""]","Even so, it's hard to believe Washington would give
+its blessing to a guy like that.
+","[""Even so, it's hard to believe Washington would give\nits blessing to a guy like that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#13; block_semantic_score=0.132526.
+BRIEFING_FILES_BLOCK_0306F0,9,stream=0x30000;block=0x6F0;text=9,"[""stream=0x30000;block=0x6F0;text=9""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","とは言え、そんな男をよくアメリカが承認したな。
+","当時のアメリカ大統領は『ソモサは<R=ろくでなし,サノバビッチ>だが、我々
+の側の<R=ろくでなし,サノバビッチ>だ』って言ったらしい。
+","反米政権よりはましってことね。それが犬でも<R=蛙,ソモサ>でも。
+","[""<R=ろくでなし,サノバビッチ>"", ""<R=ろくでなし,サノバビッチ>""]",,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当时的美国总统是这样说的：“索摩查可能是个混蛋，
+但他是我们这边的混蛋。”换句话说，宁愿要一条狗，
+或los sapos（索摩查和反革命分子）","[""当时的美国总统是这样说的：“索摩查可能是个混蛋，\n但他是我们这边的混蛋。”换句话说，宁愿要一条狗，\n或los sapos（索摩查和反革命分子）""]","The American President at the time put it this way:
+""Somoza may be a son of a bitch, but he's our son
+of a bitch.""
+In other words, better a dog or los sapos (Somoza
+and counter-revolutionaries)
+","[""The American President at the time put it this way:\n\""Somoza may be a son of a bitch, but he's our son\nof a bitch.\""\nIn other words, better a dog or los sapos (Somoza\nand counter-revolutionaries)\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x306F0; ENG blocks=0xC16A0,0xC16A0,0xC16A0; ENG source rows=0xC16A0#14,0xC16A0#15,0xC16A0#16; block_semantic_score=0.132526."
+BRIEFING_FILES_BLOCK_0306F0,10,stream=0x30000;block=0x6F0;text=10,"[""stream=0x30000;block=0x6F0;text=10""]",1,BRIEFING FILES,"[""stream=0x30000;block=0x6F0;block_file=0x306F0;text_base=0x3073C;capacity=1320""]","当時のアメリカ大統領は『ソモサは<R=ろくでなし,サノバビッチ>だが、我々
+の側の<R=ろくでなし,サノバビッチ>だ』って言ったらしい。
+","反米政権よりはましってことね。それが犬でも<R=蛙,ソモサ>でも。
+",,"[""<R=蛙,ソモサ>""]",,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,也不要一个反美政权。,"[""也不要一个反美政权。""]","than an anti-US regime.
+","[""than an anti-US regime.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x306F0; ENG blocks=0xC16A0; ENG source rows=0xC16A0#17; block_semantic_score=0.132526.

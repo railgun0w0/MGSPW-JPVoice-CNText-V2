@@ -1,0 +1,65 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_05F7F0,0,stream=0x5F000;block=0x7F0;text=0,"[""stream=0x5F000;block=0x7F0;text=0""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]",,"フランスと言えば国歌も印象的だ。
+","ラ・マルセイェーズね。批判があることは知ってるけど。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我对法国还有一个印象：国歌。,"[""我对法国还有一个印象：国歌。""]","There's one other image I have of France: the
+national anthem.
+","[""There's one other image I have of France: the\nnational anthem.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F7F0; ENG blocks=0xED150; ENG source rows=0xED150#0; block_semantic_score=0.228976.
+BRIEFING_FILES_BLOCK_05F7F0,1,stream=0x5F000;block=0x7F0;text=1,"[""stream=0x5F000;block=0x7F0;text=1""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]","フランスと言えば国歌も印象的だ。
+","ラ・マルセイェーズね。批判があることは知ってるけど。
+","「市民よ武器を取れ、敵の汚れた血で田畑を染め上げろ」
+だからな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"啊，《马赛曲》…当然，
+不是所有人都喜欢它。","[""啊，《马赛曲》…当然，\n不是所有人都喜欢它。""]","Ah, La Marseillaise... Not everyone is a fan, of
+course.
+","[""Ah, La Marseillaise... Not everyone is a fan, of\ncourse.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F7F0; ENG blocks=0xED150; ENG source rows=0xED150#1; block_semantic_score=0.228976.
+BRIEFING_FILES_BLOCK_05F7F0,2,stream=0x5F000;block=0x7F0;text=2,"[""stream=0x5F000;block=0x7F0;text=2""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]","ラ・マルセイェーズね。批判があることは知ってるけど。
+","「市民よ武器を取れ、敵の汚れた血で田畑を染め上げろ」
+だからな。
+","あの曲が作られたのはフランス革命のすぐ後だったの。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就是那个‘公民们，武装起来。让不洁
+的血浇灌我们的田野。’那段，对吧？","[""就是那个‘公民们，武装起来。让不洁\n的血浇灌我们的田野。’那段，对吧？""]","The whole ""To arms, citizens. May an impure blood
+water our furrows."" thing, eh?
+","[""The whole \""To arms, citizens. May an impure blood\nwater our furrows.\"" thing, eh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F7F0; ENG blocks=0xED150; ENG source rows=0xED150#2; block_semantic_score=0.228976.
+BRIEFING_FILES_BLOCK_05F7F0,3,stream=0x5F000;block=0x7F0;text=3,"[""stream=0x5F000;block=0x7F0;text=3""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]","「市民よ武器を取れ、敵の汚れた血で田畑を染め上げろ」
+だからな。
+","あの曲が作られたのはフランス革命のすぐ後だったの。
+","周囲の国は革命の波が君主制を脅かすのを怖れたのね。そ
+れでフランスの新革命政府にいろいろ圧力をかけてきた。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这首歌是在法国
+大革命之后不久创作的。","[""这首歌是在法国\n大革命之后不久创作的。""]","The song was composed right after the French
+Revolution.
+","[""The song was composed right after the French\nRevolution.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F7F0; ENG blocks=0xED150; ENG source rows=0xED150#3; block_semantic_score=0.228976.
+BRIEFING_FILES_BLOCK_05F7F0,4,stream=0x5F000;block=0x7F0;text=4,"[""stream=0x5F000;block=0x7F0;text=4""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]","あの曲が作られたのはフランス革命のすぐ後だったの。
+","周囲の国は革命の波が君主制を脅かすのを怖れたのね。そ
+れでフランスの新革命政府にいろいろ圧力をかけてきた。
+","それに対し、立憲政治を守ろうとした義勇兵達の歌がラ・
+マルセイェーズなの。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"因为害怕革命浪潮所代表的东西，周边国家的统治阶级
+对年轻的政府施加了","[""因为害怕革命浪潮所代表的东西，周边国家的统治阶级\n对年轻的政府施加了""]","Fearing what the tide of the Revolution
+represented,
+the ruling classes in neighboring countries applied
+","[""Fearing what the tide of the Revolution\nrepresented,\nthe ruling classes in neighboring countries applied\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5F7F0; ENG blocks=0xED150,0xED150; ENG source rows=0xED150#4,0xED150#5; block_semantic_score=0.228976."
+BRIEFING_FILES_BLOCK_05F7F0,5,stream=0x5F000;block=0x7F0;text=5,"[""stream=0x5F000;block=0x7F0;text=5""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]","周囲の国は革命の波が君主制を脅かすのを怖れたのね。そ
+れでフランスの新革命政府にいろいろ圧力をかけてきた。
+","それに対し、立憲政治を守ろうとした義勇兵達の歌がラ・
+マルセイェーズなの。
+","武力がなければ立憲政治を守ることはできなかった。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"《马赛曲》成为志愿军的
+战歌，他们试图保卫","[""《马赛曲》成为志愿军的\n战歌，他们试图保卫""]","La Marseillaise became the anthem of the
+volunteer armies that sought to protect
+","[""La Marseillaise became the anthem of the\nvolunteer armies that sought to protect\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F7F0; ENG blocks=0xED150; ENG source rows=0xED150#7; block_semantic_score=0.228976.
+BRIEFING_FILES_BLOCK_05F7F0,6,stream=0x5F000;block=0x7F0;text=6,"[""stream=0x5F000;block=0x7F0;text=6""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]","それに対し、立憲政治を守ろうとした義勇兵達の歌がラ・
+マルセイェーズなの。
+","武力がなければ立憲政治を守ることはできなかった。
+","ええ。好戦的すぎる部分も確かにあるけど、彼らのおかげ
+で今の民主的なフランスがあることは忘れちゃいけないっ
+て思う。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,宪政体制，抵御那种压力。,"[""宪政体制，抵御那种压力。""]","constitutional rule against that pressure.
+","[""constitutional rule against that pressure.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F7F0; ENG blocks=0xED150; ENG source rows=0xED150#8; block_semantic_score=0.228976.
+BRIEFING_FILES_BLOCK_05F7F0,7,stream=0x5F000;block=0x7F0;text=7,"[""stream=0x5F000;block=0x7F0;text=7""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x7F0;block_file=0x5F7F0;text_base=0x5F830;capacity=820""]","武力がなければ立憲政治を守ることはできなかった。
+","ええ。好戦的すぎる部分も確かにあるけど、彼らのおかげ
+で今の民主的なフランスがあることは忘れちゃいけないっ
+て思う。
+",,[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的，我同意，
+有些部分确实有点好战，","[""是的，我同意，\n有些部分确实有点好战，""]","Oui. I agree, some parts are a little belligerent,
+","[""Oui. I agree, some parts are a little belligerent,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F7F0; ENG blocks=0xED150; ENG source rows=0xED150#10; block_semantic_score=0.228976.

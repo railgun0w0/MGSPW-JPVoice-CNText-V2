@@ -1,0 +1,83 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01F9B0,0,stream=0x1F000;block=0x9B0;text=0,"[""stream=0x1F000;block=0x9B0;text=0""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]",,"発見されて警戒状態に入ると、敵は増援の攻撃部隊を呼ぶ
+ことがある。
+","重装備で俊敏、危険な連中だ。アマンダ達はこいつらを
+「コマンド兵」と呼んでいる。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当敌人发现你并警戒时，
+他们可能会呼叫增援突击队。","[""当敌人发现你并警戒时，\n他们可能会呼叫增援突击队。""]","When the enemy spots you and goes on alert, they
+may call in a backup strike team.
+","[""When the enemy spots you and goes on alert, they\nmay call in a backup strike team.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0; ENG source rows=0xB0AF0#0; block_semantic_score=0.138794.
+BRIEFING_FILES_BLOCK_01F9B0,1,stream=0x1F000;block=0x9B0;text=1,"[""stream=0x1F000;block=0x9B0;text=1""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","発見されて警戒状態に入ると、敵は増援の攻撃部隊を呼ぶ
+ことがある。
+","重装備で俊敏、危険な連中だ。アマンダ達はこいつらを
+「コマンド兵」と呼んでいる。
+","こいつらは哨戒兵とは違って、積極的にこちらを狩り出そ
+うと追跡してくる。どう猛な<R=猟犬,ハウンド>みたいにな。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这些突击队全副武装，
+训练有素，极其危险。Amanda的人称他们为“突击兵”。","[""这些突击队全副武装，\n训练有素，极其危险。Amanda的人称他们为“突击兵”。""]","These assault teams are heavily armed, well
+trained, and highly dangerous.
+Amanda's crew calls them ""commandos.""
+","[""These assault teams are heavily armed, well\ntrained, and highly dangerous.\nAmanda's crew calls them \""commandos.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0,0xB0AF0; ENG source rows=0xB0AF0#1,0xB0AF0#2; block_semantic_score=0.138794."
+BRIEFING_FILES_BLOCK_01F9B0,2,stream=0x1F000;block=0x9B0;text=2,"[""stream=0x1F000;block=0x9B0;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","重装備で俊敏、危険な連中だ。アマンダ達はこいつらを
+「コマンド兵」と呼んでいる。
+","こいつらは哨戒兵とは違って、積極的にこちらを狩り出そ
+うと追跡してくる。どう猛な<R=猟犬,ハウンド>みたいにな。
+","元FOXHOUNDを狩る猟犬か…望むところだ。
+","[""<R=猟犬,ハウンド>""]",,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"与巡逻兵不同，这些家伙会像猎犬一样
+主动、不依不饶地追踪和猎杀你。","[""与巡逻兵不同，这些家伙会像猎犬一样\n主动、不依不饶地追踪和猎杀你。""]","Unlike the patrolmen, these guys will actively,
+relentlessly track and hunt you down - like hounds.
+","[""Unlike the patrolmen, these guys will actively,\nrelentlessly track and hunt you down - like hounds.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0; ENG source rows=0xB0AF0#3; block_semantic_score=0.138794.
+BRIEFING_FILES_BLOCK_01F9B0,3,stream=0x1F000;block=0x9B0;text=3,"[""stream=0x1F000;block=0x9B0;text=3""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","こいつらは哨戒兵とは違って、積極的にこちらを狩り出そ
+うと追跡してくる。どう猛な<R=猟犬,ハウンド>みたいにな。
+","元FOXHOUNDを狩る猟犬か…望むところだ。
+","こちらを見失ってもなかなか諦めない。隠れ場所と思しき
+ところを<R= 掃討 ,クリアリング>してくる。
+",[],,,NOT_CHECKED,54,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"猎犬来猎杀前猎狐犬
+部队成员…放马过来吧。","[""猎犬来猎杀前猎狐犬\n部队成员…放马过来吧。""]","Hounds to hunt a former FOXHOUND... Bring it on.
+","[""Hounds to hunt a former FOXHOUND... Bring it on.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0; ENG source rows=0xB0AF0#4; block_semantic_score=0.138794.
+BRIEFING_FILES_BLOCK_01F9B0,4,stream=0x1F000;block=0x9B0;text=4,"[""stream=0x1F000;block=0x9B0;text=4""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","元FOXHOUNDを狩る猟犬か…望むところだ。
+","こちらを見失ってもなかなか諦めない。隠れ場所と思しき
+ところを<R= 掃討 ,クリアリング>してくる。
+","うまく隠れたと思っても、油断したらまた見つかるかも知
+れない。連中の動きから目を離さないこと。
+","[""<R= 掃討 ,クリアリング>""]",,,NOT_CHECKED,138,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就算失去你的踪迹，
+他们也不会轻易放弃。他们会排查沿途遇到的
+任何可能的藏身之处。","[""就算失去你的踪迹，\n他们也不会轻易放弃。他们会排查沿途遇到的\n任何可能的藏身之处。""]","They won't give up easily even if they lose sight of
+you.
+They'll clear out any likely hiding places they come
+across.
+","[""They won't give up easily even if they lose sight of\nyou.\nThey'll clear out any likely hiding places they come\nacross.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0,0xB0AF0; ENG source rows=0xB0AF0#5,0xB0AF0#6; block_semantic_score=0.138794."
+BRIEFING_FILES_BLOCK_01F9B0,5,stream=0x1F000;block=0x9B0;text=5,"[""stream=0x1F000;block=0x9B0;text=5""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","こちらを見失ってもなかなか諦めない。隠れ場所と思しき
+ところを<R= 掃討 ,クリアリング>してくる。
+","うまく隠れたと思っても、油断したらまた見つかるかも知
+れない。連中の動きから目を離さないこと。
+","それから、コマンド兵の装備にも防弾着が含まれている。
+そんな連中に出くわしたら、闇雲に撃ちまくっても事態を
+打開できない。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以别在一个地方待得太舒服，
+不然可能又被抓。眼睛紧盯他们和他们的行动。","[""所以别在一个地方待得太舒服，\n不然可能又被抓。眼睛紧盯他们和他们的行动。""]","So don't get too comfy in one spot or you might
+get caught again.
+Keep your eyes fixed on them and what they're
+doing.
+","[""So don't get too comfy in one spot or you might\nget caught again.\nKeep your eyes fixed on them and what they're\ndoing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0,0xB0AF0; ENG source rows=0xB0AF0#7,0xB0AF0#8; block_semantic_score=0.138794."
+BRIEFING_FILES_BLOCK_01F9B0,6,stream=0x1F000;block=0x9B0;text=6,"[""stream=0x1F000;block=0x9B0;text=6""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","うまく隠れたと思っても、油断したらまた見つかるかも知
+れない。連中の動きから目を離さないこと。
+","それから、コマンド兵の装備にも防弾着が含まれている。
+そんな連中に出くわしたら、闇雲に撃ちまくっても事態を
+打開できない。
+","露出した弱点を狙い撃つだけだ。
+",[],,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,另外，注意突击兵的装备包含防弹衣。,"[""另外，注意突击兵的装备包含防弹衣。""]","Also, be aware that commando gear includes body
+armor.
+","[""Also, be aware that commando gear includes body\narmor.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0; ENG source rows=0xB0AF0#9; block_semantic_score=0.138794.
+BRIEFING_FILES_BLOCK_01F9B0,7,stream=0x1F000;block=0x9B0;text=7,"[""stream=0x1F000;block=0x9B0;text=7""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","それから、コマンド兵の装備にも防弾着が含まれている。
+そんな連中に出くわしたら、闇雲に撃ちまくっても事態を
+打開できない。
+","露出した弱点を狙い撃つだけだ。
+","ああ、それがいい。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我只要找到一个暴露的弱点然后…,"[""我只要找到一个暴露的弱点然后…""]","All I've got to do is find an exposed weak point
+and...
+","[""All I've got to do is find an exposed weak point\nand...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0; ENG source rows=0xB0AF0#11; block_semantic_score=0.138794.
+BRIEFING_FILES_BLOCK_01F9B0,8,stream=0x1F000;block=0x9B0;text=8,"[""stream=0x1F000;block=0x9B0;text=8""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x9B0;block_file=0x1F9B0;text_base=0x1F9F4;capacity=972""]","露出した弱点を狙い撃つだけだ。
+","ああ、それがいい。
+",,[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","Exactly.
+","[""Exactly.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F9B0; ENG blocks=0xB0AF0; ENG source rows=0xB0AF0#12; block_semantic_score=0.138794.

@@ -1,0 +1,48 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_382F40,0,stream=0x382000;block=0xF40;text=0,"[""stream=0x382000;block=0xF40;text=0""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0xF40;block_file=0x382F40;text_base=0x382F70;capacity=624""]",,"残念な知らせだ…。
+俺達のボスが敵の手に落ちてしまった。
+だがボスはきっと、自力で脱出すると信じている。
+","問題は敵に奪われた装備品だ。
+これを取り返さなければ、
+さすがのボスも脱出は困難のはずだ。
+",[],,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"坏消息：Boss落入了敌人手中。
+我相信他会想办法逃出来。","[""坏消息：Boss落入了敌人手中。\n我相信他会想办法逃出来。""]","Bad news: the Boss has fallen into enemy
+hands. I'm sure he'll find a way to escape.
+","[""Bad news: the Boss has fallen into enemy\nhands. I'm sure he'll find a way to escape.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x382F40; ENG blocks=0x398420; ENG source rows=0x398420#0; block_semantic_score=0.192424.
+BRIEFING_MISSION_BLOCK_382F40,1,stream=0x382000;block=0xF40;text=1,"[""stream=0x382000;block=0xF40;text=1""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0xF40;block_file=0x382F40;text_base=0x382F70;capacity=624""]","残念な知らせだ…。
+俺達のボスが敵の手に落ちてしまった。
+だがボスはきっと、自力で脱出すると信じている。
+","問題は敵に奪われた装備品だ。
+これを取り返さなければ、
+さすがのボスも脱出は困難のはずだ。
+","そこであんたは、
+採掘場偽装基地の地下通路へと潜入し、
+スネークの装備品を全て回収してきて欲しい。
+",[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"其实我更担心他的装备。
+没有装备他会很难办。","[""其实我更担心他的装备。\n没有装备他会很难办。""]","Actually, I'm more worried about his gear.
+He's gonna have a tough time without it.
+","[""Actually, I'm more worried about his gear.\nHe's gonna have a tough time without it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x382F40; ENG blocks=0x398420; ENG source rows=0x398420#1; block_semantic_score=0.192424.
+BRIEFING_MISSION_BLOCK_382F40,2,stream=0x382000;block=0xF40;text=2,"[""stream=0x382000;block=0xF40;text=2""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0xF40;block_file=0x382F40;text_base=0x382F70;capacity=624""]","問題は敵に奪われた装備品だ。
+これを取り返さなければ、
+さすがのボスも脱出は困難のはずだ。
+","そこであんたは、
+採掘場偽装基地の地下通路へと潜入し、
+スネークの装備品を全て回収してきて欲しい。
+","直接ボスを助け出したい気持ちはわかる。
+だが、今はボスを信じてバックアップに徹するんだ。
+あんたの活躍は俺が見届ける。頼んだぞ。
+",[],,,NOT_CHECKED,144,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我要你从矿井的地下通道潜入，并取回,"[""我要你从矿井的地下通道潜入，并取回""]","I need you to sneak in through the
+mine's underground passage and recover
+","[""I need you to sneak in through the\nmine's underground passage and recover\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x382F40; ENG blocks=0x398420; ENG source rows=0x398420#3; block_semantic_score=0.192424.
+BRIEFING_MISSION_BLOCK_382F40,3,stream=0x382000;block=0xF40;text=3,"[""stream=0x382000;block=0xF40;text=3""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0xF40;block_file=0x382F40;text_base=0x382F70;capacity=624""]","そこであんたは、
+採掘場偽装基地の地下通路へと潜入し、
+スネークの装備品を全て回収してきて欲しい。
+","直接ボスを助け出したい気持ちはわかる。
+だが、今はボスを信じてバックアップに徹するんだ。
+あんたの活躍は俺が見届ける。頼んだぞ。
+",,[],,,NOT_CHECKED,189,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我知道你想亲自去救他，但请相信。这就足够了。我会看着
+你的。祝你好运。","[""我知道你想亲自去救他，但请相信。这就足够了。我会看着\n你的。祝你好运。""]","I know you'd like to rescue him yourself,
+but have faith.
+This will be more than enough. I'll be
+watching you. Good luck.
+","[""I know you'd like to rescue him yourself,\nbut have faith.\nThis will be more than enough. I'll be\nwatching you. Good luck.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x382F40; ENG blocks=0x398420,0x398420; ENG source rows=0x398420#5,0x398420#6; block_semantic_score=0.192424."

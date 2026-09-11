@@ -1,0 +1,38 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37AD00,0,stream=0x37A000;block=0xD00;text=0,"[""stream=0x37A000;block=0xD00;text=0""]",1,d6010_m0380_mrd,"[""stream=0x37A000;block=0xD00;block_file=0x37AD00;text_base=0x37AD30;capacity=400""]",,"スネーク、大変だ。
+拘留していたザドルノフが、姿を消した。
+","何だって？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，我们遇到麻烦了。
+Zadornov不在他的牢房里。","[""Snake，我们遇到麻烦了。\nZadornov不在他的牢房里。""]","Snake, we've got a problem. Zadornov's
+not in his cell.
+","[""Snake, we've got a problem. Zadornov's\nnot in his cell.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37AD00; ENG blocks=0x3904C0; ENG source rows=0x3904C0#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_37AD00,1,stream=0x37A000;block=0xD00;text=1,"[""stream=0x37A000;block=0xD00;text=1""]",1,d6010_m0380_mrd,"[""stream=0x37A000;block=0xD00;block_file=0x37AD00;text_base=0x37AD30;capacity=400""]","スネーク、大変だ。
+拘留していたザドルノフが、姿を消した。
+","何だって？
+","恐らく、義手をバーナーのように使って鉄格子を
+焼き切ったんだろう。だが奴に取り付けた発信器で、
+逃げた<R=場所,エリア>は絞り込めた。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？！,"[""什么？！""]","What?!
+","[""What?!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37AD00; ENG blocks=0x3904C0; ENG source rows=0x3904C0#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_37AD00,2,stream=0x37A000;block=0xD00;text=2,"[""stream=0x37A000;block=0xD00;text=2""]",1,d6010_m0380_mrd,"[""stream=0x37A000;block=0xD00;block_file=0x37AD00;text_base=0x37AD30;capacity=400""]","何だって？
+","恐らく、義手をバーナーのように使って鉄格子を
+焼き切ったんだろう。だが奴に取り付けた発信器で、
+逃げた<R=場所,エリア>は絞り込めた。
+","新ミッションを用意した。
+KGBの工作員、ザドルノフを見つけ出してくれ！
+","[""<R=場所,エリア>""]",,,NOT_CHECKED,191,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他一定是把假肢当喷灯，烧断了铁条。不过，我们已经靠安在他身上的
+发射器，缩小了他的位置范围。","[""他一定是把假肢当喷灯，烧断了铁条。不过，我们已经靠安在他身上的\n发射器，缩小了他的位置范围。""]","He must have used his prosthetic as a
+blowtorch to cut through the bars.
+But we've managed to narrow down his
+location using a transmitter we planted
+on him.
+","[""He must have used his prosthetic as a\nblowtorch to cut through the bars.\nBut we've managed to narrow down his\nlocation using a transmitter we planted\non him.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37AD00; ENG blocks=0x3904C0,0x3904C0; ENG source rows=0x3904C0#2,0x3904C0#3; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_37AD00,3,stream=0x37A000;block=0xD00;text=3,"[""stream=0x37A000;block=0xD00;text=3""]",1,d6010_m0380_mrd,"[""stream=0x37A000;block=0xD00;block_file=0x37AD00;text_base=0x37AD30;capacity=400""]","恐らく、義手をバーナーのように使って鉄格子を
+焼き切ったんだろう。だが奴に取り付けた発信器で、
+逃げた<R=場所,エリア>は絞り込めた。
+","新ミッションを用意した。
+KGBの工作員、ザドルノフを見つけ出してくれ！
+",,[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我要追加一个新任务。
+找到克格勃(KGB)特工Zadornov！","[""我要追加一个新任务。\n找到克格勃(KGB)特工Zadornov！""]","I'm adding a new mission. Find the KGB
+agent Zadornov!
+","[""I'm adding a new mission. Find the KGB\nagent Zadornov!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37AD00; ENG blocks=0x3904C0; ENG source rows=0x3904C0#4; block_semantic_score=1.000000.

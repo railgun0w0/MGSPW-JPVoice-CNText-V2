@@ -1,0 +1,55 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02EA50,0,stream=0x2E000;block=0xA50;text=0,"[""stream=0x2E000;block=0xA50;text=0""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xA50;block_file=0x2EA50;text_base=0x2EA8C;capacity=552""]",,"このあたりは鉱山地帯か…何が採れるんだ？
+","金じゃないかな。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对了，这附近都开采些什么？,"[""对了，这附近都开采些什么？""]","So tell me, what do they mine around here?
+","[""So tell me, what do they mine around here?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EA50; ENG blocks=0xBFCF0; ENG source rows=0xBFCF0#0; block_semantic_score=0.138585.
+BRIEFING_FILES_BLOCK_02EA50,1,stream=0x2E000;block=0xA50;text=1,"[""stream=0x2E000;block=0xA50;text=1""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xA50;block_file=0x2EA50;text_base=0x2EA8C;capacity=552""]","このあたりは鉱山地帯か…何が採れるんだ？
+","金じゃないかな。
+","金？　すごいじゃないか。それをどうして早く…。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果我没弄错的话，是黄金。,"[""如果我没弄错的话，是黄金。""]","Gold, if I am not mistaken.
+","[""Gold, if I am not mistaken.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EA50; ENG blocks=0xBFCF0; ENG source rows=0xBFCF0#1; block_semantic_score=0.138585.
+BRIEFING_FILES_BLOCK_02EA50,2,stream=0x2E000;block=0xA50;text=2,"[""stream=0x2E000;block=0xA50;text=2""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xA50;block_file=0x2EA50;text_base=0x2EA8C;capacity=552""]","金じゃないかな。
+","金？　すごいじゃないか。それをどうして早く…。
+","でも、うまくいかなかったみたい。このあたりで今操業し
+てるって話、聞かないから。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"黄金？！真的假的。
+我在想，最快能怎么…","[""黄金？！真的假的。\n我在想，最快能怎么…""]","Gold?! No kidding. I wonder what'd be the fastest
+way to...
+","[""Gold?! No kidding. I wonder what'd be the fastest\nway to...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EA50; ENG blocks=0xBFCF0; ENG source rows=0xBFCF0#2; block_semantic_score=0.138585.
+BRIEFING_FILES_BLOCK_02EA50,3,stream=0x2E000;block=0xA50;text=3,"[""stream=0x2E000;block=0xA50;text=3""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xA50;block_file=0x2EA50;text_base=0x2EA8C;capacity=552""]","金？　すごいじゃないか。それをどうして早く…。
+","でも、うまくいかなかったみたい。このあたりで今操業し
+てるって話、聞かないから。
+","なんだ、そうか…。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不清楚他们有多大收获。也没听说现在还有人在这附近开矿了。,"[""我不清楚他们有多大收获。也没听说现在还有人在这附近开矿了。""]","I do not know how much success they've had.
+You do not hear of anyone still operating mines
+around here.
+","[""I do not know how much success they've had.\nYou do not hear of anyone still operating mines\naround here.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2EA50; ENG blocks=0xBFCF0,0xBFCF0; ENG source rows=0xBFCF0#3,0xBFCF0#4; block_semantic_score=0.138585."
+BRIEFING_FILES_BLOCK_02EA50,4,stream=0x2E000;block=0xA50;text=4,"[""stream=0x2E000;block=0xA50;text=4""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xA50;block_file=0x2EA50;text_base=0x2EA8C;capacity=552""]","でも、うまくいかなかったみたい。このあたりで今操業し
+てるって話、聞かないから。
+","なんだ、そうか…。
+","大体、外国資本が資源を掘ること自体、あまりよく思われ
+ていないの。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦…,"[""哦…""]","Oh...
+","[""Oh...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EA50; ENG blocks=0xBFCF0; ENG source rows=0xBFCF0#5; block_semantic_score=0.138585.
+BRIEFING_FILES_BLOCK_02EA50,5,stream=0x2E000;block=0xA50;text=5,"[""stream=0x2E000;block=0xA50;text=5""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xA50;block_file=0x2EA50;text_base=0x2EA8C;capacity=552""]","なんだ、そうか…。
+","大体、外国資本が資源を掘ること自体、あまりよく思われ
+ていないの。
+","4年前には、鉱山採掘権を外国企業に認めたっていう理由
+で、国会に投石騒ぎがあったくらいなんだから。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"总的来说，本地人对外来资本进来夺走国家自然资源这种事，
+并不怎么欢迎。","[""总的来说，本地人对外来资本进来夺走国家自然资源这种事，\n并不怎么欢迎。""]","Generally speaking, people here are not too thrilled
+with outside capital
+coming in and taking away the country's natural
+resources.
+","[""Generally speaking, people here are not too thrilled\nwith outside capital\ncoming in and taking away the country's natural\nresources.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2EA50; ENG blocks=0xBFCF0,0xBFCF0; ENG source rows=0xBFCF0#6,0xBFCF0#7; block_semantic_score=0.138585."
+BRIEFING_FILES_BLOCK_02EA50,6,stream=0x2E000;block=0xA50;text=6,"[""stream=0x2E000;block=0xA50;text=6""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xA50;block_file=0x2EA50;text_base=0x2EA8C;capacity=552""]","大体、外国資本が資源を掘ること自体、あまりよく思われ
+ていないの。
+","4年前には、鉱山採掘権を外国企業に認めたっていう理由
+で、国会に投石騒ぎがあったくらいなんだから。
+",,[],,,NOT_CHECKED,144,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"四年前，一群抗议者
+朝议会大楼扔石块，就是因为人们发现国家把
+采矿权都给了外国公司。","[""四年前，一群抗议者\n朝议会大楼扔石块，就是因为人们发现国家把\n采矿权都给了外国公司。""]","Four years ago, a group of protestors hurled
+stones at the parliament building
+when people found out the country had been
+bestowing mining rights to foreign companies.
+","[""Four years ago, a group of protestors hurled\nstones at the parliament building\nwhen people found out the country had been\nbestowing mining rights to foreign companies.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2EA50; ENG blocks=0xBFCF0,0xBFCF0; ENG source rows=0xBFCF0#8,0xBFCF0#9; block_semantic_score=0.138585."

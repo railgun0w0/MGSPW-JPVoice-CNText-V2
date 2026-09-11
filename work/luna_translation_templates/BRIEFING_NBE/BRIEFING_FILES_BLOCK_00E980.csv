@@ -1,0 +1,578 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00E980,0,stream=0xE000;block=0x980;text=0,"[""stream=0xE000;block=0x980;text=0""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]",,"1945年、3月10日。38万1300発のクラスター爆弾が
+東京に落とされた。
+","当時の日本家屋は木造がほとんどだったんだ。この日だけ
+でも東京の3分の1が燃えて無くなった。
+",[],,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"1945年3月10日，
+381,300枚集束炸弹倾泻在东京。","[""1945年3月10日，\n381,300枚集束炸弹倾泻在东京。""]","March 10, 1945. 381,300 cluster bombs were
+dropped on Tokyo.
+","[""March 10, 1945. 381,300 cluster bombs were\ndropped on Tokyo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#0; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,1,stream=0xE000;block=0x980;text=1,"[""stream=0xE000;block=0x980;text=1""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","1945年、3月10日。38万1300発のクラスター爆弾が
+東京に落とされた。
+","当時の日本家屋は木造がほとんどだったんだ。この日だけ
+でも東京の3分の1が燃えて無くなった。
+","俺のお袋はこの空襲で家族と家を亡くした。それで横須賀
+の従姉を頼って引っ越したんだ。
+",[],,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当时的日本房屋几乎全是木制结构。仅一天之内，东京三分之一的
+面积便被烧为平地。","[""当时的日本房屋几乎全是木制结构。仅一天之内，东京三分之一的\n面积便被烧为平地。""]","Japanese houses at the time were almost all made
+of wood.
+In that single day, a third of Tokyo burned to the
+ground.
+","[""Japanese houses at the time were almost all made\nof wood.\nIn that single day, a third of Tokyo burned to the\nground.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#1,0xA15F0#2; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,2,stream=0xE000;block=0x980;text=2,"[""stream=0xE000;block=0x980;text=2""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","当時の日本家屋は木造がほとんどだったんだ。この日だけ
+でも東京の3分の1が燃えて無くなった。
+","俺のお袋はこの空襲で家族と家を亡くした。それで横須賀
+の従姉を頼って引っ越したんだ。
+","B29はそれからも日本の主要都市を容赦なく焼き払った。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我母亲在空袭中失去了家人和家园。她不得不搬到横须贺，
+寄住在表亲家中。","[""我母亲在空袭中失去了家人和家园。她不得不搬到横须贺，\n寄住在表亲家中。""]","My mom lost her family and home in that raid.
+She had to move to Yokosuka and live with her
+cousin.
+","[""My mom lost her family and home in that raid.\nShe had to move to Yokosuka and live with her\ncousin.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#3,0xA15F0#4; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,3,stream=0xE000;block=0x980;text=3,"[""stream=0xE000;block=0x980;text=3""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺のお袋はこの空襲で家族と家を亡くした。それで横須賀
+の従姉を頼って引っ越したんだ。
+","B29はそれからも日本の主要都市を容赦なく焼き払った。
+","そして8月、ヒロシマとナガサキに原爆が落とされた。と
+うとう日本はアメリカに降伏した。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"B-29轰炸机持续来袭，
+毫不留情地摧毁着日本其他主要城市。","[""B-29轰炸机持续来袭，\n毫不留情地摧毁着日本其他主要城市。""]","The B-29s kept on coming, razing other major
+cities throughout Japan without mercy.
+","[""The B-29s kept on coming, razing other major\ncities throughout Japan without mercy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#5; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,4,stream=0xE000;block=0x980;text=4,"[""stream=0xE000;block=0x980;text=4""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","B29はそれからも日本の主要都市を容赦なく焼き払った。
+","そして8月、ヒロシマとナガサキに原爆が落とされた。と
+うとう日本はアメリカに降伏した。
+","それから横須賀は、進駐軍のアメリカ兵で溢れかえった。
+",[],,,NOT_CHECKED,126,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"随后，八月，他们向广岛
+和长崎投下了原子弹，日本终于向美国投降。","[""随后，八月，他们向广岛\n和长崎投下了原子弹，日本终于向美国投降。""]","Then, in August, they dropped atomic bombs on
+Hiroshima and Nagasaki,
+and Japan surrendered to the United States at last.
+","[""Then, in August, they dropped atomic bombs on\nHiroshima and Nagasaki,\nand Japan surrendered to the United States at last.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#6,0xA15F0#7; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,5,stream=0xE000;block=0x980;text=5,"[""stream=0xE000;block=0x980;text=5""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","そして8月、ヒロシマとナガサキに原爆が落とされた。と
+うとう日本はアメリカに降伏した。
+","それから横須賀は、進駐軍のアメリカ兵で溢れかえった。
+","従姉はまだ10代も半ばだったお袋に、この町で生きていく
+方法を教えたんだ。アメリカ兵を相手にな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"此后，横须贺涌入了前来
+占领日本的美军士兵。","[""此后，横须贺涌入了前来\n占领日本的美军士兵。""]","After that, Yokosuka was flooded with American
+soldiers come to occupy the country.
+","[""After that, Yokosuka was flooded with American\nsoldiers come to occupy the country.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#8; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,6,stream=0xE000;block=0x980;text=6,"[""stream=0xE000;block=0x980;text=6""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","それから横須賀は、進駐軍のアメリカ兵で溢れかえった。
+","従姉はまだ10代も半ばだったお袋に、この町で生きていく
+方法を教えたんだ。アメリカ兵を相手にな。
+","そこでお袋は親父と知り合った。それで、俺が生まれたん
+だ。
+",[],,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我的母亲当时才十几岁，
+她从表亲那里学来在那座城镇谋生的手段——
+靠为美军服务。","[""我的母亲当时才十几岁，\n她从表亲那里学来在那座城镇谋生的手段——\n靠为美军服务。""]","My mother was still in her mid-teens, and she
+learned from her cousin
+how to survive in that town - by servicing the
+troops.
+","[""My mother was still in her mid-teens, and she\nlearned from her cousin\nhow to survive in that town - by servicing the\ntroops.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#9,0xA15F0#10; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,7,stream=0xE000;block=0x980;text=7,"[""stream=0xE000;block=0x980;text=7""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","従姉はまだ10代も半ばだったお袋に、この町で生きていく
+方法を教えたんだ。アメリカ兵を相手にな。
+","そこでお袋は親父と知り合った。それで、俺が生まれたん
+だ。
+","親父は<R=連合国軍最高司令官総司令部,GHQ>の<R=幕僚部民政局,GS>で、ホ
+イットニー准将の元で働いていた将校だった。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她就这样结识了我的
+父亲，而我也因此出生。我的父亲是一名军官，","[""她就这样结识了我的\n父亲，而我也因此出生。我的父亲是一名军官，""]","That's how she met my father. And how I was born.
+My father was an officer
+","[""That's how she met my father. And how I was born.\nMy father was an officer\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#11,0xA15F0#12; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,8,stream=0xE000;block=0x980;text=8,"[""stream=0xE000;block=0x980;text=8""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","そこでお袋は親父と知り合った。それで、俺が生まれたん
+だ。
+","親父は<R=連合国軍最高司令官総司令部,GHQ>の<R=幕僚部民政局,GS>で、ホ
+イットニー准将の元で働いていた将校だった。
+","マッカーサーの分身と言われた男の下だ。親父もそれなり
+の地位だったろう。
+","[""<R=連合国軍最高司令官総司令部,GHQ>"", ""<R=幕僚部民政局,GS>""]",,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在盟军最高统帅部的民政局任职，
+受惠特尼将军指挥。","[""在盟军最高统帅部的民政局任职，\n受惠特尼将军指挥。""]","serving with the Government Section of Allied GHQ,
+under General Whitney.
+","[""serving with the Government Section of Allied GHQ,\nunder General Whitney.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#13; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,9,stream=0xE000;block=0x980;text=9,"[""stream=0xE000;block=0x980;text=9""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は<R=連合国軍最高司令官総司令部,GHQ>の<R=幕僚部民政局,GS>で、ホ
+イットニー准将の元で働いていた将校だった。
+","マッカーサーの分身と言われた男の下だ。親父もそれなり
+の地位だったろう。
+","在日中、お袋を妻のように扱っていたというが、アメリカ
+に戻ってから、もう連絡はなかった。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我父亲凭着他的提携，
+也做到了相当高的职位。","[""我父亲凭着他的提携，\n也做到了相当高的职位。""]","and my father rode his coattails to a pretty high
+rank.
+","[""and my father rode his coattails to a pretty high\nrank.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#15; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,10,stream=0xE000;block=0x980;text=10,"[""stream=0xE000;block=0x980;text=10""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","マッカーサーの分身と言われた男の下だ。親父もそれなり
+の地位だったろう。
+","在日中、お袋を妻のように扱っていたというが、アメリカ
+に戻ってから、もう連絡はなかった。
+","俺が生まれたのは親父がアメリカに戻った後だった。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在日本期间，他待我母亲如同妻子。但他回到美国之后，
+母亲便再也没有收到他的音讯。","[""在日本期间，他待我母亲如同妻子。但他回到美国之后，\n母亲便再也没有收到他的音讯。""]","While he was in Japan, he treated my mom like a
+wife.
+After he went back to the States, though, she
+never heard from him.
+","[""While he was in Japan, he treated my mom like a\nwife.\nAfter he went back to the States, though, she\nnever heard from him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#16,0xA15F0#17; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,11,stream=0xE000;block=0x980;text=11,"[""stream=0xE000;block=0x980;text=11""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","在日中、お袋を妻のように扱っていたというが、アメリカ
+に戻ってから、もう連絡はなかった。
+","俺が生まれたのは親父がアメリカに戻った後だった。
+","お袋は一人で俺を育ててくれた。親父が残したはした金で
+店を開いて、進駐軍相手に煙草なんかを売っていた。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我是在他回国之后才出生的。,"[""我是在他回国之后才出生的。""]","I wasn't born until after he went back.
+","[""I wasn't born until after he went back.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#18; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,12,stream=0xE000;block=0x980;text=12,"[""stream=0xE000;block=0x980;text=12""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺が生まれたのは親父がアメリカに戻った後だった。
+","お袋は一人で俺を育ててくれた。親父が残したはした金で
+店を開いて、進駐軍相手に煙草なんかを売っていた。
+","生活は人並み。だが俺には国籍がなかった。今は改正の動
+きもあるが、日本は父親がわからないと戸籍がとれないん
+だ。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,母亲作为单亲妈妈，独自把我拉扯大。她用父亲留下的钱开了一家店，向占领军兜售香烟之类的东西。,"[""母亲作为单亲妈妈，独自把我拉扯大。她用父亲留下的钱开了一家店，向占领军兜售香烟之类的东西。""]","My mom raised me as a single mother.
+She used the money my father left her to open a
+shop,
+selling cigarettes and stuff to occupation troops.
+","[""My mom raised me as a single mother.\nShe used the money my father left her to open a\nshop,\nselling cigarettes and stuff to occupation troops.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0,0xA15F0; ENG source rows=0xA15F0#19,0xA15F0#20,0xA15F0#21; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,13,stream=0xE000;block=0x980;text=13,"[""stream=0xE000;block=0x980;text=13""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","お袋は一人で俺を育ててくれた。親父が残したはした金で
+店を開いて、進駐軍相手に煙草なんかを売っていた。
+","生活は人並み。だが俺には国籍がなかった。今は改正の動
+きもあるが、日本は父親がわからないと戸籍がとれないん
+だ。
+","だから俺は街のアメリカ兵を見ながら、自分に言い聞かせ
+た。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"日子还算过得去。可我没有国籍。现在法律在改了，但那个时候，
+如果父亲身份不明，就上不了日本的户籍，","[""日子还算过得去。可我没有国籍。现在法律在改了，但那个时候，\n如果父亲身份不明，就上不了日本的户籍，""]","It was a decent living. But I didn't have citizenship.
+They're working to change the law now, but back
+then, if your father was unknown,
+you couldn't get onto the Japanese family register
+","[""It was a decent living. But I didn't have citizenship.\nThey're working to change the law now, but back\nthen, if your father was unknown,\nyou couldn't get onto the Japanese family register\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0,0xA15F0; ENG source rows=0xA15F0#22,0xA15F0#23,0xA15F0#24; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,14,stream=0xE000;block=0x980;text=14,"[""stream=0xE000;block=0x980;text=14""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","生活は人並み。だが俺には国籍がなかった。今は改正の動
+きもあるが、日本は父親がわからないと戸籍がとれないん
+だ。
+","だから俺は街のアメリカ兵を見ながら、自分に言い聞かせ
+た。
+","俺は勝者アメリカの子なんだと。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"于是，我看着满街的
+美国大兵，对自己说：","[""于是，我看着满街的\n美国大兵，对自己说：""]","So as I watched the American soldiers around
+town, I said to myself:
+","[""So as I watched the American soldiers around\ntown, I said to myself:\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#26; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,15,stream=0xE000;block=0x980;text=15,"[""stream=0xE000;block=0x980;text=15""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","だから俺は街のアメリカ兵を見ながら、自分に言い聞かせ
+た。
+","俺は勝者アメリカの子なんだと。
+","髪も目も、痩せてうつむいた他の日本人とは違う。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我是胜利者——美国的儿子。,"[""我是胜利者——美国的儿子。""]","I'm a son of America, the victor.
+","[""I'm a son of America, the victor.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#27; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,16,stream=0xE000;block=0x980;text=16,"[""stream=0xE000;block=0x980;text=16""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は勝者アメリカの子なんだと。
+","髪も目も、痩せてうつむいた他の日本人とは違う。
+","いつかこの国を離れて、本当の祖国に帰るんだってね。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我的头发和眼睛，跟身边那些瘦小、
+受尽压迫的日本人都不一样。","[""我的头发和眼睛，跟身边那些瘦小、\n受尽压迫的日本人都不一样。""]","My hair and eyes were different from the skinny,
+downtrodden Japanese around me.
+","[""My hair and eyes were different from the skinny,\ndowntrodden Japanese around me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#28; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,17,stream=0xE000;block=0x980;text=17,"[""stream=0xE000;block=0x980;text=17""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","髪も目も、痩せてうつむいた他の日本人とは違う。
+","いつかこの国を離れて、本当の祖国に帰るんだってね。
+","10才になったころ。お袋は身体を悪くして、俺はすっかり
+店番を任されるようになっていた。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我告诉自己，总有一天要离开
+这个国家，回到我真正的祖国…","[""我告诉自己，总有一天要离开\n这个国家，回到我真正的祖国…""]","I told myself I'd leave this country someday and
+return to my true homeland..
+","[""I told myself I'd leave this country someday and\nreturn to my true homeland..\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#29; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,18,stream=0xE000;block=0x980;text=18,"[""stream=0xE000;block=0x980;text=18""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","いつかこの国を離れて、本当の祖国に帰るんだってね。
+","10才になったころ。お袋は身体を悪くして、俺はすっかり
+店番を任されるようになっていた。
+","そのとき店の引き出しの奥から、1枚だけ親父の写真を見
+つけたんだ。
+",[],,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,大概十岁的时候，妈妈病倒了，,"[""大概十岁的时候，妈妈病倒了，""]","When I was around 10 years old, my mom fell ill,
+","[""When I was around 10 years old, my mom fell ill,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#30; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,19,stream=0xE000;block=0x980;text=19,"[""stream=0xE000;block=0x980;text=19""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","10才になったころ。お袋は身体を悪くして、俺はすっかり
+店番を任されるようになっていた。
+","そのとき店の引き出しの奥から、1枚だけ親父の写真を見
+つけたんだ。
+","俺は店に出入りするアメリカ人に親父の写真を見せた。
+",[],,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,店铺基本上就交给我一个人打理了。,"[""店铺基本上就交给我一个人打理了。""]","pretty much leaving me to run the shop in her
+place.
+","[""pretty much leaving me to run the shop in her\nplace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#31; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,20,stream=0xE000;block=0x980;text=20,"[""stream=0xE000;block=0x980;text=20""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","そのとき店の引き出しの奥から、1枚だけ親父の写真を見
+つけたんだ。
+","俺は店に出入りするアメリカ人に親父の写真を見せた。
+","そうして何年か経ったか、あるアメリカ人が教えてくれた。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有一天，我在店里抽屉最深处，
+找到了一张父亲唯一的照片。","[""有一天，我在店里抽屉最深处，\n找到了一张父亲唯一的照片。""]","One day, I found a single picture of my father in
+the back of a drawer in the shop.
+","[""One day, I found a single picture of my father in\nthe back of a drawer in the shop.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#32; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,21,stream=0xE000;block=0x980;text=21,"[""stream=0xE000;block=0x980;text=21""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は店に出入りするアメリカ人に親父の写真を見せた。
+","そうして何年か経ったか、あるアメリカ人が教えてくれた。
+","そいつはミラーだ、知ってるよ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,过了好几年，才终于有人认出了他。,"[""过了好几年，才终于有人认出了他。""]","A few years went by before one of them told me
+who he was.
+","[""A few years went by before one of them told me\nwho he was.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#34; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,22,stream=0xE000;block=0x980;text=22,"[""stream=0xE000;block=0x980;text=22""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","そうして何年か経ったか、あるアメリカ人が教えてくれた。
+","そいつはミラーだ、知ってるよ。
+","他の奴に訊いた。「ミラーはいま何処にいる？」。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“我认得他。那是 Miller。”,"[""“我认得他。那是 Miller。”""]","""I know him. That's Miller.""
+","[""\""I know him. That's Miller.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#35; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,23,stream=0xE000;block=0x980;text=23,"[""stream=0xE000;block=0x980;text=23""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","そいつはミラーだ、知ってるよ。
+","他の奴に訊いた。「ミラーはいま何処にいる？」。
+","「ミラーという将校の居場所を教えてくれないか」。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我开始挨个打听：
+“谁知道 Miller 现在在哪儿？”","[""我开始挨个打听：\n“谁知道 Miller 现在在哪儿？”""]","I started asking other guys. ""Do you know where
+Miller is now?""
+","[""I started asking other guys. \""Do you know where\nMiller is now?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#36; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,24,stream=0xE000;block=0x980;text=24,"[""stream=0xE000;block=0x980;text=24""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","他の奴に訊いた。「ミラーはいま何処にいる？」。
+","「ミラーという将校の居場所を教えてくれないか」。
+","親父は退役して、バージニア州で兵士相手に講師をして暮
+らしていたそうだ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“谁能告诉我 Miller
+上校现在在哪儿？”","[""“谁能告诉我 Miller\n上校现在在哪儿？”""]","""Can anybody tell me where Colonel Miller is now?""
+","[""\""Can anybody tell me where Colonel Miller is now?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#37; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,25,stream=0xE000;block=0x980;text=25,"[""stream=0xE000;block=0x980;text=25""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","「ミラーという将校の居場所を教えてくれないか」。
+","親父は退役して、バージニア州で兵士相手に講師をして暮
+らしていたそうだ。
+","教えてくれたのは親父の教え子だった。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,后来才知道，他已经退役了，,"[""后来才知道，他已经退役了，""]","Turns out he'd left the service
+","[""Turns out he'd left the service\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#38; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,26,stream=0xE000;block=0x980;text=26,"[""stream=0xE000;block=0x980;text=26""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は退役して、バージニア州で兵士相手に講師をして暮
+らしていたそうだ。
+","教えてくれたのは親父の教え子だった。
+","俺は英語で手紙を書いた。「あんたの息子だ、アメリカに
+行きたい」。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在弗吉尼亚靠给士兵当教官谋生。,"[""在弗吉尼亚靠给士兵当教官谋生。""]","and was making a living as an instructor for
+soldiers in Virginia.
+","[""and was making a living as an instructor for\nsoldiers in Virginia.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#39; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,27,stream=0xE000;block=0x980;text=27,"[""stream=0xE000;block=0x980;text=27""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","教えてくれたのは親父の教え子だった。
+","俺は英語で手紙を書いた。「あんたの息子だ、アメリカに
+行きたい」。
+","毎日待って、待ち疲れた頃、郵便屋が未来を運んできた。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我用英文给他写了封信：
+“我是你的儿子。我想去美国。”","[""我用英文给他写了封信：\n“我是你的儿子。我想去美国。”""]","I wrote him a letter in English. ""I'm your son. I want
+to go to the United States.""
+","[""I wrote him a letter in English. \""I'm your son. I want\nto go to the United States.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#41; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,28,stream=0xE000;block=0x980;text=28,"[""stream=0xE000;block=0x980;text=28""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は英語で手紙を書いた。「あんたの息子だ、アメリカに
+行きたい」。
+","毎日待って、待ち疲れた頃、郵便屋が未来を運んできた。
+","親父は金を送ってきた。俺は夢が叶ったと思った。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,邮局把我的未来送到了家门口。,"[""邮局把我的未来送到了家门口。""]","the post office delivered my future to the door.
+","[""the post office delivered my future to the door.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#43; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,29,stream=0xE000;block=0x980;text=29,"[""stream=0xE000;block=0x980;text=29""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","毎日待って、待ち疲れた頃、郵便屋が未来を運んできた。
+","親父は金を送ってきた。俺は夢が叶ったと思った。
+","自分のことしか見えてなかった。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"父亲寄了些钱来。
+我以为我的梦想就要成真了。","[""父亲寄了些钱来。\n我以为我的梦想就要成真了。""]","My father sent me some money. I thought my
+dream was going to come true.
+","[""My father sent me some money. I thought my\ndream was going to come true.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#44; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,30,stream=0xE000;block=0x980;text=30,"[""stream=0xE000;block=0x980;text=30""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は金を送ってきた。俺は夢が叶ったと思った。
+","自分のことしか見えてなかった。
+","それで俺は、寝床を出ない母親に「行ってこい」と言わせ
+たんだ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那时我只顾着想自己。,"[""那时我只顾着想自己。""]","I was only thinking of myself.
+","[""I was only thinking of myself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#45; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,31,stream=0xE000;block=0x980;text=31,"[""stream=0xE000;block=0x980;text=31""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","自分のことしか見えてなかった。
+","それで俺は、寝床を出ない母親に「行ってこい」と言わせ
+たんだ。
+","親父が手配させた真っ黒な車が俺を迎えに来た。いままで
+俺の髪の色を笑っていた近所の奴らが目を丸くして俺を見
+ていた。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"于是我去找卧床不起的妈妈，
+说服她让我走。","[""于是我去找卧床不起的妈妈，\n说服她让我走。""]","So I went to my bedridden mother and convinced
+her to let me go.
+","[""So I went to my bedridden mother and convinced\nher to let me go.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#46; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,32,stream=0xE000;block=0x980;text=32,"[""stream=0xE000;block=0x980;text=32""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","それで俺は、寝床を出ない母親に「行ってこい」と言わせ
+たんだ。
+","親父が手配させた真っ黒な車が俺を迎えに来た。いままで
+俺の髪の色を笑っていた近所の奴らが目を丸くして俺を見
+ていた。
+","お袋を病院に入れて、俺は一人でアメリカに渡った。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"父亲安排了一辆车来接我——
+那是一辆纯黑色的车。街坊里那些总拿我头发取笑的
+孩子，看到那辆车时，","[""父亲安排了一辆车来接我——\n那是一辆纯黑色的车。街坊里那些总拿我头发取笑的\n孩子，看到那辆车时，""]","My father arranged for a car to pick me up. It was
+jet-black.
+When the neighborhood kids who'd always made
+fun of my hair saw it,
+","[""My father arranged for a car to pick me up. It was\njet-black.\nWhen the neighborhood kids who'd always made\nfun of my hair saw it,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#47,0xA15F0#48; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,33,stream=0xE000;block=0x980;text=33,"[""stream=0xE000;block=0x980;text=33""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父が手配させた真っ黒な車が俺を迎えに来た。いままで
+俺の髪の色を笑っていた近所の奴らが目を丸くして俺を見
+ていた。
+","お袋を病院に入れて、俺は一人でアメリカに渡った。
+","初めて会った親父は広い家に一人暮らしだった。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我把妈妈送进医院，独自去了美国。,"[""我把妈妈送进医院，独自去了美国。""]","I put my mom in a hospital, and went on my own to
+America.
+","[""I put my mom in a hospital, and went on my own to\nAmerica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#50; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,34,stream=0xE000;block=0x980;text=34,"[""stream=0xE000;block=0x980;text=34""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","お袋を病院に入れて、俺は一人でアメリカに渡った。
+","初めて会った親父は広い家に一人暮らしだった。
+","息子に…、アメリカの息子にベトナムで死なれたそうだ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"第一次见到父亲时，
+他一个人住在一座大房子里。","[""第一次见到父亲时，\n他一个人住在一座大房子里。""]","When I met my father for the first time, he was
+living alone in a big house.
+","[""When I met my father for the first time, he was\nliving alone in a big house.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#51; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,35,stream=0xE000;block=0x980;text=35,"[""stream=0xE000;block=0x980;text=35""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","初めて会った親父は広い家に一人暮らしだった。
+","息子に…、アメリカの息子にベトナムで死なれたそうだ。
+","写真を見せられたよ。俺の兄貴だよな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他告诉我，他的儿子…
+他那个美国儿子…死在了越南。","[""他告诉我，他的儿子…\n他那个美国儿子…死在了越南。""]","He told me he'd lost his son... his American son... in
+Vietnam.
+","[""He told me he'd lost his son... his American son... in\nVietnam.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#52; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,36,stream=0xE000;block=0x980;text=36,"[""stream=0xE000;block=0x980;text=36""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","息子に…、アメリカの息子にベトナムで死なれたそうだ。
+","写真を見せられたよ。俺の兄貴だよな。
+","親父は離婚も重なって寂しくなったのか…、それで俺なん
+かに興味を持ったんだろう。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他给我看了一张照片。
+那是我哥哥的照片。","[""他给我看了一张照片。\n那是我哥哥的照片。""]","He showed me a picture. A picture of my older
+brother.
+","[""He showed me a picture. A picture of my older\nbrother.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#53; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,37,stream=0xE000;block=0x980;text=37,"[""stream=0xE000;block=0x980;text=37""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","写真を見せられたよ。俺の兄貴だよな。
+","親父は離婚も重なって寂しくなったのか…、それで俺なん
+かに興味を持ったんだろう。
+","親父は講師をやめていた。背中を丸めて、あまり動かなか
+った。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大概失去儿子，
+加上离了婚，让他备感孤独…这大概也是他为什么终于对
+我这个儿子有了点兴趣。","[""大概失去儿子，\n加上离了婚，让他备感孤独…这大概也是他为什么终于对\n我这个儿子有了点兴趣。""]","I guess that and his divorce left my father feeling
+lonely...
+which is probably why he finally took an interest in
+me.
+","[""I guess that and his divorce left my father feeling\nlonely...\nwhich is probably why he finally took an interest in\nme.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#54,0xA15F0#55; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,38,stream=0xE000;block=0x980;text=38,"[""stream=0xE000;block=0x980;text=38""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は離婚も重なって寂しくなったのか…、それで俺なん
+かに興味を持ったんだろう。
+","親父は講師をやめていた。背中を丸めて、あまり動かなか
+った。
+","だが、親父は俺にミラーという姓と学費をくれた。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他已经不再教书了，
+腰也弯了，走路都很费劲。","[""他已经不再教书了，\n腰也弯了，走路都很费劲。""]","He'd retired from teaching. He was stooped over,
+could hardly walk.
+","[""He'd retired from teaching. He was stooped over,\ncould hardly walk.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#56; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,39,stream=0xE000;block=0x980;text=39,"[""stream=0xE000;block=0x980;text=39""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は講師をやめていた。背中を丸めて、あまり動かなか
+った。
+","だが、親父は俺にミラーという姓と学費をくれた。
+","俺はその金で英語を習い、大学を出た。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但他给了我两样东西：
+Miller 这个姓，和上学的钱。","[""但他给了我两样东西：\nMiller 这个姓，和上学的钱。""]","But he gave me two things: the name Miller, and
+money for school.
+","[""But he gave me two things: the name Miller, and\nmoney for school.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#57; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,40,stream=0xE000;block=0x980;text=40,"[""stream=0xE000;block=0x980;text=40""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","だが、親父は俺にミラーという姓と学費をくれた。
+","俺はその金で英語を習い、大学を出た。
+","アメリカは長引くベトナム戦争で疲れ切っていた。他所で
+戦争しながら、国内じゃ平和を叫んでいたよ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我用这笔钱学了英语，然后上了大学。,"[""我用这笔钱学了英语，然后上了大学。""]","I used it to learn English and then go to college.
+","[""I used it to learn English and then go to college.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#58; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,41,stream=0xE000;block=0x980;text=41,"[""stream=0xE000;block=0x980;text=41""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺はその金で英語を習い、大学を出た。
+","アメリカは長引くベトナム戦争で疲れ切っていた。他所で
+戦争しながら、国内じゃ平和を叫んでいたよ。
+","卒業してすぐ、俺は一人で日本に戻った。親父はお袋に会
+うのを拒んだからな。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那时的美国，被连年
+越战拖得筋疲力尽。他们在异国打仗，而国内
+人们呐喊着要和平。","[""那时的美国，被连年\n越战拖得筋疲力尽。他们在异国打仗，而国内\n人们呐喊着要和平。""]","America was exhausted from years of fighting in
+Vietnam.
+They were waging war in a foreign land while at
+home people were screaming for peace.
+","[""America was exhausted from years of fighting in\nVietnam.\nThey were waging war in a foreign land while at\nhome people were screaming for peace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#59,0xA15F0#60; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,42,stream=0xE000;block=0x980;text=42,"[""stream=0xE000;block=0x980;text=42""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","アメリカは長引くベトナム戦争で疲れ切っていた。他所で
+戦争しながら、国内じゃ平和を叫んでいたよ。
+","卒業してすぐ、俺は一人で日本に戻った。親父はお袋に会
+うのを拒んだからな。
+","久しぶりに会ったお袋は俺のことを見もしなかった。初め
+は怒っているのかと思った。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一毕业，我就回了日本。独自一人。,"[""一毕业，我就回了日本。独自一人。""]","Right after I graduated, I went back to Japan.
+Alone.
+","[""Right after I graduated, I went back to Japan.\nAlone.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#61; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,43,stream=0xE000;block=0x980;text=43,"[""stream=0xE000;block=0x980;text=43""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","卒業してすぐ、俺は一人で日本に戻った。親父はお袋に会
+うのを拒んだからな。
+","久しぶりに会ったお袋は俺のことを見もしなかった。初め
+は怒っているのかと思った。
+","だが違った。頭を菌でやられていたんだ。若い頃、無茶し
+たせいだ。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那是我多年后第一次见到她，
+可她却连看都不看我一眼。起初我以为她还在生我的气。","[""那是我多年后第一次见到她，\n可她却连看都不看我一眼。起初我以为她还在生我的气。""]","It was the first time I'd seen her in years, and she
+wouldn't even look at me.
+At first I thought she was mad at me.
+","[""It was the first time I'd seen her in years, and she\nwouldn't even look at me.\nAt first I thought she was mad at me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#63,0xA15F0#64; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,44,stream=0xE000;block=0x980;text=44,"[""stream=0xE000;block=0x980;text=44""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","久しぶりに会ったお袋は俺のことを見もしなかった。初め
+は怒っているのかと思った。
+","だが違った。頭を菌でやられていたんだ。若い頃、無茶し
+たせいだ。
+","お袋は俺が誰なのか、わからなくなっていた。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但不是的。是疾病夺走了她的神智…一种她年轻时，在绝望中染上的病。,"[""但不是的。是疾病夺走了她的神智…一种她年轻时，在绝望中染上的病。""]","But that wasn't it. Disease had taken her mind...
+A disease she'd gotten when she was young and
+desperate.
+","[""But that wasn't it. Disease had taken her mind...\nA disease she'd gotten when she was young and\ndesperate.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#65,0xA15F0#66; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,45,stream=0xE000;block=0x980;text=45,"[""stream=0xE000;block=0x980;text=45""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","だが違った。頭を菌でやられていたんだ。若い頃、無茶し
+たせいだ。
+","お袋は俺が誰なのか、わからなくなっていた。
+","俺は自分の名前を言った。「お袋、カズヒラだ」って。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她根本就不认得我了。,"[""她根本就不认得我了。""]","She didn't even know who I was.
+","[""She didn't even know who I was.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#67; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,46,stream=0xE000;block=0x980;text=46,"[""stream=0xE000;block=0x980;text=46""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","お袋は俺が誰なのか、わからなくなっていた。
+","俺は自分の名前を言った。「お袋、カズヒラだ」って。
+","そのとき俺は、自分の声にはっとした。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我说：“妈，是我，Kazuhira。”,"[""我说：“妈，是我，Kazuhira。”""]","I said, ""Mom, it's me, Kazuhira.""
+","[""I said, \""Mom, it's me, Kazuhira.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#68; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,47,stream=0xE000;block=0x980;text=47,"[""stream=0xE000;block=0x980;text=47""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は自分の名前を言った。「お袋、カズヒラだ」って。
+","そのとき俺は、自分の声にはっとした。
+","“和平”。お袋がつけた名前、意味は日本語で“平和”。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说出口的时候，
+我自己的声音在耳边回响。","[""说出口的时候，\n我自己的声音在耳边回响。""]","As I spoke, the sound of my own voice rang in my
+ears.
+","[""As I spoke, the sound of my own voice rang in my\nears.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#69; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,48,stream=0xE000;block=0x980;text=48,"[""stream=0xE000;block=0x980;text=48""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","そのとき俺は、自分の声にはっとした。
+","“和平”。お袋がつけた名前、意味は日本語で“平和”。
+","俺は日本人だった。少なくとも、この小さな日本人の息子
+だったんだ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Kazuhira。我妈妈给我起的名字。
+在日语里是“和平”的意思。","[""Kazuhira。我妈妈给我起的名字。\n在日语里是“和平”的意思。""]","Kazuhira. The name my mom gave me. It means
+""peace"" in Japanese.
+","[""Kazuhira. The name my mom gave me. It means\n\""peace\"" in Japanese.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#70; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,49,stream=0xE000;block=0x980;text=49,"[""stream=0xE000;block=0x980;text=49""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","“和平”。お袋がつけた名前、意味は日本語で“平和”。
+","俺は日本人だった。少なくとも、この小さな日本人の息子
+だったんだ。
+","お袋がこの名前をつけた理由が、思いが、このとき初めて
+わかった。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我是日本人。至少，
+我是这个瘦小的日本女人的儿子。","[""我是日本人。至少，\n我是这个瘦小的日本女人的儿子。""]","I was Japanese. At least, I was the son of this tiny
+Japanese woman.
+","[""I was Japanese. At least, I was the son of this tiny\nJapanese woman.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#71; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,50,stream=0xE000;block=0x980;text=50,"[""stream=0xE000;block=0x980;text=50""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は日本人だった。少なくとも、この小さな日本人の息子
+だったんだ。
+","お袋がこの名前をつけた理由が、思いが、このとき初めて
+わかった。
+","生まれた街と家族を焼かれ、身体も心も戦争に冒されたお
+袋は…。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是什么心情——什么情感，
+让妈妈给我起了这个名字。","[""是什么心情——什么情感，\n让妈妈给我起了这个名字。""]","- the emotion - that inspired my mother to give me
+that name.
+","[""- the emotion - that inspired my mother to give me\nthat name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#73; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,51,stream=0xE000;block=0x980;text=51,"[""stream=0xE000;block=0x980;text=51""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","お袋がこの名前をつけた理由が、思いが、このとき初めて
+わかった。
+","生まれた街と家族を焼かれ、身体も心も戦争に冒されたお
+袋は…。
+","かつての敵との間に、“平和”という名の子供を産もうと
+したんだ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她的身体和心灵都被
+战争摧残得不成样子…","[""她的身体和心灵都被\n战争摧残得不成样子…""]","Her body and her mind were ravaged by war...
+","[""Her body and her mind were ravaged by war...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#75; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,52,stream=0xE000;block=0x980;text=52,"[""stream=0xE000;block=0x980;text=52""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","生まれた街と家族を焼かれ、身体も心も戦争に冒されたお
+袋は…。
+","かつての敵との間に、“平和”という名の子供を産もうと
+したんだ。
+","日本は戦争に負けた。だが戦争という物差しに何の価値が
+ある？
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可她却选择生下这个
+名叫“和平”的孩子，和一个曾经是敌人的男人。","[""可她却选择生下这个\n名叫“和平”的孩子，和一个曾经是敌人的男人。""]","And yet she chose to have a child named ""peace,""
+with a man who was once her enemy.
+","[""And yet she chose to have a child named \""peace,\""\nwith a man who was once her enemy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#76,0xA15F0#77; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,53,stream=0xE000;block=0x980;text=53,"[""stream=0xE000;block=0x980;text=53""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","かつての敵との間に、“平和”という名の子供を産もうと
+したんだ。
+","日本は戦争に負けた。だが戦争という物差しに何の価値が
+ある？
+","去年のオイルショックまで、戦後の日本経済は登り続けて
+いた。もっと強い国になろうとしている。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"日本输掉了战争。可战争，
+又有什么资格衡量一个国家？","[""日本输掉了战争。可战争，\n又有什么资格衡量一个国家？""]","Japan lost the war. But what good is war as a
+measure of a country?
+","[""Japan lost the war. But what good is war as a\nmeasure of a country?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#78; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,54,stream=0xE000;block=0x980;text=54,"[""stream=0xE000;block=0x980;text=54""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","日本は戦争に負けた。だが戦争という物差しに何の価値が
+ある？
+","去年のオイルショックまで、戦後の日本経済は登り続けて
+いた。もっと強い国になろうとしている。
+","俺は日本に残り、自衛隊に入った。22だった。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,从战后，一直到去年的石油危机，日本的经济每年都在增长。它正在走向一个前所未有的强国。,"[""从战后，一直到去年的石油危机，日本的经济每年都在增长。它正在走向一个前所未有的强国。""]","Since the war, and up until the oil shock last year,
+Japan's economy has grown every single year.
+It's on its way to becoming a stronger country
+than ever.
+","[""Since the war, and up until the oil shock last year,\nJapan's economy has grown every single year.\nIt's on its way to becoming a stronger country\nthan ever.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0,0xA15F0; ENG source rows=0xA15F0#79,0xA15F0#80,0xA15F0#81; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,55,stream=0xE000;block=0x980;text=55,"[""stream=0xE000;block=0x980;text=55""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","去年のオイルショックまで、戦後の日本経済は登り続けて
+いた。もっと強い国になろうとしている。
+","俺は日本に残り、自衛隊に入った。22だった。
+","治療費と生活のため…といっても、いくらでも働き口はあ
+ったはずだ。
+",[],,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我留在了日本，加入了自卫队。
+那时我二十二岁。","[""我留在了日本，加入了自卫队。\n那时我二十二岁。""]","I stayed in Japan and joined the JSDF. I was
+twenty-two at the time.
+","[""I stayed in Japan and joined the JSDF. I was\ntwenty-two at the time.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#82; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,56,stream=0xE000;block=0x980;text=56,"[""stream=0xE000;block=0x980;text=56""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は日本に残り、自衛隊に入った。22だった。
+","治療費と生活のため…といっても、いくらでも働き口はあ
+ったはずだ。
+","そこまで解っていて、それでも俺は、他に自分の道を思い
+つかなかった。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我这么做是为了付家里的账单…
+但也不只是这样。
+我本来可以在任何地方找到工作。","[""我这么做是为了付家里的账单…\n但也不只是这样。\n我本来可以在任何地方找到工作。""]","I did it to pay our bills... but it wasn't just that. I
+could have found work anywhere.
+","[""I did it to pay our bills... but it wasn't just that. I\ncould have found work anywhere.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#83; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,57,stream=0xE000;block=0x980;text=57,"[""stream=0xE000;block=0x980;text=57""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","治療費と生活のため…といっても、いくらでも働き口はあ
+ったはずだ。
+","そこまで解っていて、それでも俺は、他に自分の道を思い
+つかなかった。
+","その2年後、治療費はいらなくなった。お袋が死んだんだ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我自己心里也清楚。可即便如此，
+我想不到还能做什么。","[""我自己心里也清楚。可即便如此，\n我想不到还能做什么。""]","And I knew it. And still, I couldn't think of anything
+else to do with myself.
+","[""And I knew it. And still, I couldn't think of anything\nelse to do with myself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#84; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,58,stream=0xE000;block=0x980;text=58,"[""stream=0xE000;block=0x980;text=58""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","そこまで解っていて、それでも俺は、他に自分の道を思い
+つかなかった。
+","その2年後、治療費はいらなくなった。お袋が死んだんだ。
+","俺は自衛隊を辞めてまたアメリカに戻った。
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"两年后，我再也不用
+担心母亲的住院费了…","[""两年后，我再也不用\n担心母亲的住院费了…""]","Two years later, I didn't have to worry about mom's
+hospital bills anymore...
+","[""Two years later, I didn't have to worry about mom's\nhospital bills anymore...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#85; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,59,stream=0xE000;block=0x980;text=59,"[""stream=0xE000;block=0x980;text=59""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","その2年後、治療費はいらなくなった。お袋が死んだんだ。
+","俺は自衛隊を辞めてまたアメリカに戻った。
+","親父は墓の中だった。自分で頭を撃ったらしい。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我离开了自卫队，回到了美国。,"[""我离开了自卫队，回到了美国。""]","I left the JSDF and went back to the States.
+","[""I left the JSDF and went back to the States.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#86; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,60,stream=0xE000;block=0x980;text=60,"[""stream=0xE000;block=0x980;text=60""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は自衛隊を辞めてまたアメリカに戻った。
+","親父は墓の中だった。自分で頭を撃ったらしい。
+","アメリカは日本に勝った。だが親父はアメリカに負けた。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我的父亲已经死了，也埋了。
+他们告诉我他是朝自己脑袋开了一枪。","[""我的父亲已经死了，也埋了。\n他们告诉我他是朝自己脑袋开了一枪。""]","My father was already dead and buried. I was told
+he'd shot himself in the head.
+","[""My father was already dead and buried. I was told\nhe'd shot himself in the head.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#87; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,61,stream=0xE000;block=0x980;text=61,"[""stream=0xE000;block=0x980;text=61""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は墓の中だった。自分で頭を撃ったらしい。
+","アメリカは日本に勝った。だが親父はアメリカに負けた。
+","アメリカンドリームは終わった。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"美国击垮了日本。
+但它也击垮了我的父亲。","[""美国击垮了日本。\n但它也击垮了我的父亲。""]","America crushed Japan. But it also crushed my
+father.
+","[""America crushed Japan. But it also crushed my\nfather.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#88; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,62,stream=0xE000;block=0x980;text=62,"[""stream=0xE000;block=0x980;text=62""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","アメリカは日本に勝った。だが親父はアメリカに負けた。
+","アメリカンドリームは終わった。
+","俺は、あとは流れるまま、あんたも知っての通りだ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我的美国梦结束了。,"[""我的美国梦结束了。""]","My American Dream was over.
+","[""My American Dream was over.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#89; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,63,stream=0xE000;block=0x980;text=63,"[""stream=0xE000;block=0x980;text=63""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","アメリカンドリームは終わった。
+","俺は、あとは流れるまま、あんたも知っての通りだ。
+","…GHQはお袋のような女を作った。日本の平和憲法と自衛
+隊を作った。そしてこの俺を作った。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从那以后，我四处
+漂泊…之后的，你都知道了。","[""从那以后，我四处\n漂泊…之后的，你都知道了。""]","After that, I drifted around and... well, you know the
+rest.
+","[""After that, I drifted around and... well, you know the\nrest.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#90; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,64,stream=0xE000;block=0x980;text=64,"[""stream=0xE000;block=0x980;text=64""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は、あとは流れるまま、あんたも知っての通りだ。
+","…GHQはお袋のような女を作った。日本の平和憲法と自衛
+隊を作った。そしてこの俺を作った。
+","俺は戦争で生まれたんだ。だが戦争で死にたくない。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…GHQ造就了像我母亲那样的女人。它造就了日本的和平宪法
+和自卫队。也造就了我。","[""…GHQ造就了像我母亲那样的女人。它造就了日本的和平宪法\n和自卫队。也造就了我。""]","...GHQ made women like my mother.
+It made Japan's peace constitution and the JSDF.
+And it made me.
+","[""...GHQ made women like my mother.\nIt made Japan's peace constitution and the JSDF.\nAnd it made me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xE980; ENG blocks=0xA15F0,0xA15F0; ENG source rows=0xA15F0#91,0xA15F0#92; block_semantic_score=0.218990."
+BRIEFING_FILES_BLOCK_00E980,65,stream=0xE000;block=0x980;text=65,"[""stream=0xE000;block=0x980;text=65""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","…GHQはお袋のような女を作った。日本の平和憲法と自衛
+隊を作った。そしてこの俺を作った。
+","俺は戦争で生まれたんだ。だが戦争で死にたくない。
+","国家の事情で死ぬのも、貧しく生きるのも嫌だ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我因战争而生。但我不想死于战争。,"[""我因战争而生。但我不想死于战争。""]","I was spawned by war. But I don't want to die in
+one.
+","[""I was spawned by war. But I don't want to die in\none.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#93; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,66,stream=0xE000;block=0x980;text=66,"[""stream=0xE000;block=0x980;text=66""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺は戦争で生まれたんだ。だが戦争で死にたくない。
+","国家の事情で死ぬのも、貧しく生きるのも嫌だ。
+","戸籍や生まれで運命づけられるのも嫌だ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不会为任何一个国家而死，
+也不会过得像个穷光蛋。","[""我不会为任何一个国家而死，\n也不会过得像个穷光蛋。""]","I won't die for a country, and I won't live like a
+pauper.
+","[""I won't die for a country, and I won't live like a\npauper.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#94; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,67,stream=0xE000;block=0x980;text=67,"[""stream=0xE000;block=0x980;text=67""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","国家の事情で死ぬのも、貧しく生きるのも嫌だ。
+","戸籍や生まれで運命づけられるのも嫌だ。
+","ボス、あんたといると、そうはならない気がするんだ。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不会让什么户籍来决定我的命运。,"[""我不会让什么户籍来决定我的命运。""]","I won't have my fate decided by some family
+register.
+","[""I won't have my fate decided by some family\nregister.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#95; block_semantic_score=0.218990.
+BRIEFING_FILES_BLOCK_00E980,68,stream=0xE000;block=0x980;text=68,"[""stream=0xE000;block=0x980;text=68""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","戸籍や生まれで運命づけられるのも嫌だ。
+","ボス、あんたといると、そうはならない気がするんだ。
+",,[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以只要我跟着你，Boss，
+我就感觉这些都不会发生。","[""所以只要我跟着你，Boss，\n我就感觉这些都不会发生。""]","So as long as I stick with you, Boss, I've got a
+good feeling none of that will happen.
+","[""So as long as I stick with you, Boss, I've got a\ngood feeling none of that will happen.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE980; ENG blocks=0xA15F0; ENG source rows=0xA15F0#96; block_semantic_score=0.218990.

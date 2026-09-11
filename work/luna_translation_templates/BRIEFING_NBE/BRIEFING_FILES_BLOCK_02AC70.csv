@@ -1,0 +1,39 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02AC70,0,stream=0x2A000;block=0xC70;text=0,"[""stream=0x2A000;block=0xC70;text=0""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]",,"コスタリカで本格的な鉄道が走り始めたのは、100年位前
+のことよ。
+","中央盆地で穫れるコーヒーを、カリブ海側から輸出したか
+ったのね。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加大约一百年前建成了
+第一条真正投入运营的铁路。","[""哥斯达黎加大约一百年前建成了\n第一条真正投入运营的铁路。""]","Costa Rica got its first real railroads up and
+running about a hundred years ago.
+","[""Costa Rica got its first real railroads up and\nrunning about a hundred years ago.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2AC70; ENG blocks=0xBBFC0; ENG source rows=0xBBFC0#0; block_semantic_score=0.160277.
+BRIEFING_FILES_BLOCK_02AC70,1,stream=0x2A000;block=0xC70;text=1,"[""stream=0x2A000;block=0xC70;text=1""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","コスタリカで本格的な鉄道が走り始めたのは、100年位前
+のことよ。
+","中央盆地で穫れるコーヒーを、カリブ海側から輸出したか
+ったのね。
+","このジャングルだらけの地形を、100年も前にか！　ご苦
+労なことだ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,其首要目的是将中央盆地收获的咖啡豆,"[""其首要目的是将中央盆地收获的咖啡豆""]","Their primary purpose was to move coffee
+harvested in the central basin
+","[""Their primary purpose was to move coffee\nharvested in the central basin\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2AC70; ENG blocks=0xBBFC0; ENG source rows=0xBBFC0#1; block_semantic_score=0.160277.
+BRIEFING_FILES_BLOCK_02AC70,2,stream=0x2A000;block=0xC70;text=2,"[""stream=0x2A000;block=0xC70;text=2""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","中央盆地で穫れるコーヒーを、カリブ海側から輸出したか
+ったのね。
+","このジャングルだらけの地形を、100年も前にか！　ご苦
+労なことだ。
+","実際、かなりの難工事だったって話よ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一百年前就在这里修了
+铁路？真了不起。","[""一百年前就在这里修了\n铁路？真了不起。""]","They built railroads here a hundred years ago?
+That's impressive.
+","[""They built railroads here a hundred years ago?\nThat's impressive.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2AC70; ENG blocks=0xBBFC0; ENG source rows=0xBBFC0#3; block_semantic_score=0.160277.
+BRIEFING_FILES_BLOCK_02AC70,3,stream=0x2A000;block=0xC70;text=3,"[""stream=0x2A000;block=0xC70;text=3""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","このジャングルだらけの地形を、100年も前にか！　ご苦
+労なことだ。
+","実際、かなりの難工事だったって話よ。
+","その後、鉄道はバナナの輸送にも使われるようになったの。
+このあたりにも、支線が残っているかもね。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,难度比你想象中还要大。,"[""难度比你想象中还要大。""]","It was even more difficult than you would imagine.
+","[""It was even more difficult than you would imagine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2AC70; ENG blocks=0xBBFC0; ENG source rows=0xBBFC0#4; block_semantic_score=0.160277.
+BRIEFING_FILES_BLOCK_02AC70,4,stream=0x2A000;block=0xC70;text=4,"[""stream=0x2A000;block=0xC70;text=4""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","実際、かなりの難工事だったって話よ。
+","その後、鉄道はバナナの輸送にも使われるようになったの。
+このあたりにも、支線が残っているかもね。
+",,[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这附近可能还有几条支线留存。,"[""这附近可能还有几条支线留存。""]","There still might be some branch lines around here.
+","[""There still might be some branch lines around here.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2AC70; ENG blocks=0xBBFC0; ENG source rows=0xBBFC0#6; block_semantic_score=0.160277.

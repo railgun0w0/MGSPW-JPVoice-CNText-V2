@@ -1,0 +1,21 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_029A10,0,stream=0x29000;block=0xA10;text=0,"[""stream=0x29000;block=0xA10;text=0""]",1,BRIEFING FILES,"[""stream=0x29000;block=0xA10;block_file=0x29A10;text_base=0x29A3C;capacity=344""]",,"川が氾濫すると、岸が削れて沼地ができるの。このあたり
+ではよく見かける地形よ。
+","沼地か。下が<R=　 泥　 ,エル・セナガル>じゃ、足音に気をつけないとな。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"河水淹没一片区域时，
+河岸可能坍塌，形成沼泽。","[""河水淹没一片区域时，\n河岸可能坍塌，形成沼泽。""]","When a river floods an area, the banks can
+collapse, creating a marsh.
+","[""When a river floods an area, the banks can\ncollapse, creating a marsh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x29A10; ENG blocks=0xBAE80; ENG source rows=0xBAE80#0; block_semantic_score=0.199176.
+BRIEFING_FILES_BLOCK_029A10,1,stream=0x29000;block=0xA10;text=1,"[""stream=0x29000;block=0xA10;text=1""]",1,BRIEFING FILES,"[""stream=0x29000;block=0xA10;block_file=0x29A10;text_base=0x29A3C;capacity=344""]","川が氾濫すると、岸が削れて沼地ができるの。このあたり
+ではよく見かける地形よ。
+","沼地か。下が<R=　 泥　 ,エル・セナガル>じゃ、足音に気をつけないとな。
+","川を挟んだ反対側にも、同じような沼地があるわ。吊り橋
+を渡れば、向こう岸へ行ける。
+","[""<R=　 泥　 ,エル・セナガル>""]",,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我需要注意在泥沼里脚下发出的声响。,"[""我需要注意在泥沼里脚下发出的声响。""]","I'll need to watch the noise my feet make in el
+cenegal.
+","[""I'll need to watch the noise my feet make in el\ncenegal.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x29A10; ENG blocks=0xBAE80; ENG source rows=0xBAE80#2; block_semantic_score=0.199176.
+BRIEFING_FILES_BLOCK_029A10,2,stream=0x29000;block=0xA10;text=2,"[""stream=0x29000;block=0xA10;text=2""]",1,BRIEFING FILES,"[""stream=0x29000;block=0xA10;block_file=0x29A10;text_base=0x29A3C;capacity=344""]","沼地か。下が<R=　 泥　 ,エル・セナガル>じゃ、足音に気をつけないとな。
+","川を挟んだ反対側にも、同じような沼地があるわ。吊り橋
+を渡れば、向こう岸へ行ける。
+",,[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,吊桥可以带你过去。,"[""吊桥可以带你过去。""]","The suspension bridge will take you there.
+","[""The suspension bridge will take you there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x29A10; ENG blocks=0xBAE80; ENG source rows=0xBAE80#4; block_semantic_score=0.199176.

@@ -1,0 +1,58 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0229B0,0,stream=0x22000;block=0x9B0;text=0,"[""stream=0x22000;block=0x9B0;text=0""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x9B0;block_file=0x229B0;text_base=0x229EC;capacity=612""]",,"今年選ばれたオドゥベル大統領は、アメリカと距離を置こ
+うとしているみたい。
+","アメリカの銀行に与えられた特権を制限したり、キューバ
+への制裁をやめたり…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"今年选出了一位新总统——
+奥杜维尔总统。","[""今年选出了一位新总统——\n奥杜维尔总统。""]","A new president was elected this year - President
+Oduber.
+","[""A new president was elected this year - President\nOduber.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x229B0; ENG blocks=0xB4050; ENG source rows=0xB4050#0; block_semantic_score=0.207555.
+BRIEFING_FILES_BLOCK_0229B0,1,stream=0x22000;block=0x9B0;text=1,"[""stream=0x22000;block=0x9B0;text=1""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x9B0;block_file=0x229B0;text_base=0x229EC;capacity=612""]","今年選ばれたオドゥベル大統領は、アメリカと距離を置こ
+うとしているみたい。
+","アメリカの銀行に与えられた特権を制限したり、キューバ
+への制裁をやめたり…。
+","前の大統領は、CIAとの癒着を疑われたくらいの親米家だ
+ったんだけど。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他限制了美国银行的特权，
+取消了对古巴的制裁…","[""他限制了美国银行的特权，\n取消了对古巴的制裁…""]","He's limited the privileges granted to American
+banks, lifted the sanctions on Cuba...
+","[""He's limited the privileges granted to American\nbanks, lifted the sanctions on Cuba...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x229B0; ENG blocks=0xB4050; ENG source rows=0xB4050#2; block_semantic_score=0.207555.
+BRIEFING_FILES_BLOCK_0229B0,2,stream=0x22000;block=0x9B0;text=2,"[""stream=0x22000;block=0x9B0;text=2""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x9B0;block_file=0x229B0;text_base=0x229EC;capacity=612""]","アメリカの銀行に与えられた特権を制限したり、キューバ
+への制裁をやめたり…。
+","前の大統領は、CIAとの癒着を疑われたくらいの親米家だ
+ったんだけど。
+","CIAが動いているのは、大統領の方針変更に危機感を持っ
+たから…？
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们上一任总统太过亲美，
+人们都怀疑他和中情局(CIA)有染。","[""我们上一任总统太过亲美，\n人们都怀疑他和中情局(CIA)有染。""]","Our last president was so pro-U.S., people
+suspected he was in bed with the CIA.
+","[""Our last president was so pro-U.S., people\nsuspected he was in bed with the CIA.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x229B0; ENG blocks=0xB4050; ENG source rows=0xB4050#3; block_semantic_score=0.207555.
+BRIEFING_FILES_BLOCK_0229B0,3,stream=0x22000;block=0x9B0;text=3,"[""stream=0x22000;block=0x9B0;text=3""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x9B0;block_file=0x229B0;text_base=0x229EC;capacity=612""]","前の大統領は、CIAとの癒着を疑われたくらいの親米家だ
+ったんだけど。
+","CIAが動いているのは、大統領の方針変更に危機感を持っ
+たから…？
+","そうかも。でも、それだけであんな軍隊を持ち込むのかな
+…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你觉得中情局(CIA)这样做，是因为
+感到总统的政策转变威胁到了他们…？","[""你觉得中情局(CIA)这样做，是因为\n感到总统的政策转变威胁到了他们…？""]","You think the CIA's doing this because it feels
+threatened by the president's shift in policy...?
+","[""You think the CIA's doing this because it feels\nthreatened by the president's shift in policy...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x229B0; ENG blocks=0xB4050; ENG source rows=0xB4050#4; block_semantic_score=0.207555.
+BRIEFING_FILES_BLOCK_0229B0,4,stream=0x22000;block=0x9B0;text=4,"[""stream=0x22000;block=0x9B0;text=4""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x9B0;block_file=0x229B0;text_base=0x229EC;capacity=612""]","CIAが動いているのは、大統領の方針変更に危機感を持っ
+たから…？
+","そうかも。でも、それだけであんな軍隊を持ち込むのかな
+…。
+","それを調べるのも俺たちの仕事だ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有可能。但他们真的会仅因为
+这个就调来这么庞大的军队吗？","[""有可能。但他们真的会仅因为\n这个就调来这么庞大的军队吗？""]","It is possible. But would they really bring in such a
+huge army just because of that?
+","[""It is possible. But would they really bring in such a\nhuge army just because of that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x229B0; ENG blocks=0xB4050; ENG source rows=0xB4050#5; block_semantic_score=0.207555.
+BRIEFING_FILES_BLOCK_0229B0,5,stream=0x22000;block=0x9B0;text=5,"[""stream=0x22000;block=0x9B0;text=5""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x9B0;block_file=0x229B0;text_base=0x229EC;capacity=612""]","そうかも。でも、それだけであんな軍隊を持ち込むのかな
+…。
+","それを調べるのも俺たちの仕事だ。
+","うん。ありがとう、スネーク。ピース。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们的任务之一就是查明真相。,"[""我们的任务之一就是查明真相。""]","Part of our job is finding out.
+","[""Part of our job is finding out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x229B0; ENG blocks=0xB4050; ENG source rows=0xB4050#6; block_semantic_score=0.207555.
+BRIEFING_FILES_BLOCK_0229B0,6,stream=0x22000;block=0x9B0;text=6,"[""stream=0x22000;block=0x9B0;text=6""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x9B0;block_file=0x229B0;text_base=0x229EC;capacity=612""]","それを調べるのも俺たちの仕事だ。
+","うん。ありがとう、スネーク。ピース。
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。谢谢，Snake。再见。,"[""没错。谢谢，Snake。再见。""]","Exactly. Thanks, Snake. Peace.
+","[""Exactly. Thanks, Snake. Peace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x229B0; ENG blocks=0xB4050; ENG source rows=0xB4050#7; block_semantic_score=0.207555.

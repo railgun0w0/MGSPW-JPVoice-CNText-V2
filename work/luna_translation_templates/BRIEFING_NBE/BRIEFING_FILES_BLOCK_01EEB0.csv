@@ -1,0 +1,17 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01EEB0,0,stream=0x1E000;block=0xEB0;text=0,"[""stream=0x1E000;block=0xEB0;text=0""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xEB0;block_file=0x1EEB0;text_base=0x1EED8;capacity=220""]",,"爆破にはC4を使うことになるが、当然ながら起爆時には大
+きな音が出る。
+","設置してから起爆するまでの間に、十分に距離を取って自
+分の安全を確保するんだ。
+",[],,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你要用C4进行爆破。如你所想，引爆时会发出巨大的声响。,"[""你要用C4进行爆破。如你所想，引爆时会发出巨大的声响。""]","You'll be using C4 for demolition.
+As you might imagine, it's gonna make a big noise
+when it detonates.
+","[""You'll be using C4 for demolition.\nAs you might imagine, it's gonna make a big noise\nwhen it detonates.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1EEB0; ENG blocks=0xB00D0,0xB00D0; ENG source rows=0xB00D0#0,0xB00D0#1; block_semantic_score=0.277449."
+BRIEFING_FILES_BLOCK_01EEB0,1,stream=0x1E000;block=0xEB0;text=1,"[""stream=0x1E000;block=0xEB0;text=1""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xEB0;block_file=0x1EEB0;text_base=0x1EED8;capacity=220""]","爆破にはC4を使うことになるが、当然ながら起爆時には大
+きな音が出る。
+","設置してから起爆するまでの間に、十分に距離を取って自
+分の安全を確保するんだ。
+",,[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为了你的安全，务必在引爆前，与C4拉开足够的距离。,"[""为了你的安全，务必在引爆前，与C4拉开足够的距离。""]","For your own safety, make sure you put plenty of
+distance
+between yourself and the C4 before detonating it.
+","[""For your own safety, make sure you put plenty of\ndistance\nbetween yourself and the C4 before detonating it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1EEB0; ENG blocks=0xB00D0,0xB00D0; ENG source rows=0xB00D0#2,0xB00D0#3; block_semantic_score=0.277449."

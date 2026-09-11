@@ -1,0 +1,50 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0400C0,0,stream=0x40000;block=0xC0;text=0,"[""stream=0x40000;block=0xC0;text=0""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xC0;block_file=0x400C0;text_base=0x400F8;capacity=612""]",,"ゲリラ活動では、敵が数にものを言わせた捜索を行ってく
+ることがあるわ。
+","そんなときにこちらから戦いを仕掛けるのは自殺行為よ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有时敌人会以数量来回应游击活动。,"[""有时敌人会以数量来回应游击活动。""]","Sometimes the enemy will respond to guerilla
+activity with numbers.
+","[""Sometimes the enemy will respond to guerilla\nactivity with numbers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x400C0; ENG blocks=0xCF650; ENG source rows=0xCF650#0; block_semantic_score=0.175891.
+BRIEFING_FILES_BLOCK_0400C0,1,stream=0x40000;block=0xC0;text=1,"[""stream=0x40000;block=0xC0;text=1""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xC0;block_file=0x400C0;text_base=0x400F8;capacity=612""]","ゲリラ活動では、敵が数にものを言わせた捜索を行ってく
+ることがあるわ。
+","そんなときにこちらから戦いを仕掛けるのは自殺行為よ。
+","落ち着いて、相手の動きをよく見て、その視界から逃れる。
+それだけに集中して。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在这种情况下，
+无论如何都不要与敌人交战。","[""在这种情况下，\n无论如何都不要与敌人交战。""]","Under no circumstances should you engage the
+enemy in this situation.
+","[""Under no circumstances should you engage the\nenemy in this situation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x400C0; ENG blocks=0xCF650; ENG source rows=0xCF650#1; block_semantic_score=0.175891.
+BRIEFING_FILES_BLOCK_0400C0,2,stream=0x40000;block=0xC0;text=2,"[""stream=0x40000;block=0xC0;text=2""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xC0;block_file=0x400C0;text_base=0x400F8;capacity=612""]","そんなときにこちらから戦いを仕掛けるのは自殺行為よ。
+","落ち着いて、相手の動きをよく見て、その視界から逃れる。
+それだけに集中して。
+","もちろん、音を立てないように注意が必要。逆に相手の立
+てる音で位置を把握するのも重要だわ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"专注于保持冷静，仔细观察
+敌人的动向，避开他们的视线。","[""专注于保持冷静，仔细观察\n敌人的动向，避开他们的视线。""]","Focus on staying calm, carefully studying enemy
+movement, and staying out of sight.
+","[""Focus on staying calm, carefully studying enemy\nmovement, and staying out of sight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x400C0; ENG blocks=0xCF650; ENG source rows=0xCF650#2; block_semantic_score=0.175891.
+BRIEFING_FILES_BLOCK_0400C0,3,stream=0x40000;block=0xC0;text=3,"[""stream=0x40000;block=0xC0;text=3""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xC0;block_file=0x400C0;text_base=0x400F8;capacity=612""]","落ち着いて、相手の動きをよく見て、その視界から逃れる。
+それだけに集中して。
+","もちろん、音を立てないように注意が必要。逆に相手の立
+てる音で位置を把握するのも重要だわ。
+","視覚、聴覚だけじゃなくて、相手の気配にも気を配って。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"同样，注意倾听敌人发出的任何声响，
+以确定他们的位置，这一点很重要。","[""同样，注意倾听敌人发出的任何声响，\n以确定他们的位置，这一点很重要。""]","Likewise, it is important to listen for any noises the
+enemy makes to get a fix on their position.
+","[""Likewise, it is important to listen for any noises the\nenemy makes to get a fix on their position.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x400C0; ENG blocks=0xCF650; ENG source rows=0xCF650#4; block_semantic_score=0.175891.
+BRIEFING_FILES_BLOCK_0400C0,4,stream=0x40000;block=0xC0;text=4,"[""stream=0x40000;block=0xC0;text=4""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xC0;block_file=0x400C0;text_base=0x400F8;capacity=612""]","もちろん、音を立てないように注意が必要。逆に相手の立
+てる音で位置を把握するのも重要だわ。
+","視覚、聴覚だけじゃなくて、相手の気配にも気を配って。
+","敵の気配は、壁に張り付くかホフクした状態で<I=ESEARCH>で探れる
+わ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不要忘记，除了视觉和听觉之外，
+还要留意敌人的其他行踪迹象。","[""不要忘记，除了视觉和听觉之外，\n还要留意敌人的其他行踪迹象。""]","Do not forget to check for signs of the enemy
+other than sight and sound.
+","[""Do not forget to check for signs of the enemy\nother than sight and sound.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x400C0; ENG blocks=0xCF650; ENG source rows=0xCF650#5; block_semantic_score=0.175891.
+BRIEFING_FILES_BLOCK_0400C0,5,stream=0x40000;block=0xC0;text=5,"[""stream=0x40000;block=0xC0;text=5""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xC0;block_file=0x400C0;text_base=0x400F8;capacity=612""]","視覚、聴覚だけじゃなくて、相手の気配にも気を配って。
+","敵の気配は、壁に張り付くかホフクした状態で<I=ESEARCH>で探れる
+わ。
+",,"[""<I=ESEARCH>""]",,,NOT_CHECKED,94,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要搜索敌人的踪迹，
+可在贴墙或趴下时按<I=ESEARCH>。","[""要搜索敌人的踪迹，\n可在贴墙或趴下时按<I=ESEARCH>。""]","To check for signs of the enemy, do <I=ESEARCH> when
+you're pressed against a wall or prone.
+","[""To check for signs of the enemy, do <I=ESEARCH> when\nyou're pressed against a wall or prone.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x400C0; ENG blocks=0xCF650; ENG source rows=0xCF650#6; block_semantic_score=0.175891.

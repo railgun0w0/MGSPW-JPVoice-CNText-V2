@@ -1,0 +1,5 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_382900,0,stream=0x382000;block=0x900;text=0,"[""stream=0x382000;block=0x900;text=0""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0x900;block_file=0x382900;text_base=0x382924;capacity=156""]",,"スネーク。武器やアイテムの開発を進めるには、
+人手が不足している。
+『フルトン回収』で人員を集めてくれ。
+",,[],,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

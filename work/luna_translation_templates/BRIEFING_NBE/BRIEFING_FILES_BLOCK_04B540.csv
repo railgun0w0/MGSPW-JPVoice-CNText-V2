@@ -1,0 +1,56 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04B540,0,stream=0x4B000;block=0x540;text=0,"[""stream=0x4B000;block=0x540;text=0""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]",,"ティガレックスもリオレウスと同じ、飛竜種だ。
+","でも、地上での動きも得意で、岩を跳ね飛ばして遠くから
+攻撃してきたり、突進のスピードもすごかったんだって。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,轰龙和雄火龙一样，也是一种飞龙。,"[""轰龙和雄火龙一样，也是一种飞龙。""]","Tigrex is a wyvern just like Rathalos.
+","[""Tigrex is a wyvern just like Rathalos.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#0; block_semantic_score=0.139660.
+BRIEFING_FILES_BLOCK_04B540,1,stream=0x4B000;block=0x540;text=1,"[""stream=0x4B000;block=0x540;text=1""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","ティガレックスもリオレウスと同じ、飛竜種だ。
+","でも、地上での動きも得意で、岩を跳ね飛ばして遠くから
+攻撃してきたり、突進のスピードもすごかったんだって。
+","陸上での目撃談があるのか？
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但它也很擅长在地面上行动。它能远距离用岩石砸你，
+或者以惊人的速度冲向你。","[""但它也很擅长在地面上行动。它能远距离用岩石砸你，\n或者以惊人的速度冲向你。""]","But it's good at moving around on land, too.
+It can blast you with rocks from a distance, or
+rush at you with incredible speed.
+","[""But it's good at moving around on land, too.\nIt can blast you with rocks from a distance, or\nrush at you with incredible speed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4B540; ENG blocks=0xD71B0,0xD71B0; ENG source rows=0xD71B0#1,0xD71B0#2; block_semantic_score=0.139660."
+BRIEFING_FILES_BLOCK_04B540,2,stream=0x4B000;block=0x540;text=2,"[""stream=0x4B000;block=0x540;text=2""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","でも、地上での動きも得意で、岩を跳ね飛ばして遠くから
+攻撃してきたり、突進のスピードもすごかったんだって。
+","陸上での目撃談があるのか？
+","有名な女海賊、アンとメアリーは怪物の島に上陸したと言
+われてるんだ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有人在陆地上见过它？,"[""有人在陆地上见过它？""]","People have seen it on land?
+","[""People have seen it on land?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#3; block_semantic_score=0.139660.
+BRIEFING_FILES_BLOCK_04B540,3,stream=0x4B000;block=0x540;text=3,"[""stream=0x4B000;block=0x540;text=3""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","陸上での目撃談があるのか？
+","有名な女海賊、アンとメアリーは怪物の島に上陸したと言
+われてるんだ。
+","そこで彼女たちはティガレックスと一戦交えたらしい。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"据说有两位女海盗，
+安妮和玛丽，曾到过怪物岛。","[""据说有两位女海盗，\n安妮和玛丽，曾到过怪物岛。""]","It's said that these two lady pirates, Anne and
+Mary, visited Isla del Monstruo.
+","[""It's said that these two lady pirates, Anne and\nMary, visited Isla del Monstruo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#5; block_semantic_score=0.139660.
+BRIEFING_FILES_BLOCK_04B540,4,stream=0x4B000;block=0x540;text=4,"[""stream=0x4B000;block=0x540;text=4""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","有名な女海賊、アンとメアリーは怪物の島に上陸したと言
+われてるんだ。
+","そこで彼女たちはティガレックスと一戦交えたらしい。
+","アンは銃の名手だったらしいな。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她们就是在那里和轰龙交战的。,"[""她们就是在那里和轰龙交战的。""]","It was there that they did battle with Tigrex.
+","[""It was there that they did battle with Tigrex.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#6; block_semantic_score=0.139660.
+BRIEFING_FILES_BLOCK_04B540,5,stream=0x4B000;block=0x540;text=5,"[""stream=0x4B000;block=0x540;text=5""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","そこで彼女たちはティガレックスと一戦交えたらしい。
+","アンは銃の名手だったらしいな。
+","きっとすごい戦いだったんだろうな。見てみたかったぜ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,安妮的枪法相当不错，对吧？,"[""安妮的枪法相当不错，对吧？""]","Anne was quite a marksman, wasn't she?
+","[""Anne was quite a marksman, wasn't she?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#7; block_semantic_score=0.139660.
+BRIEFING_FILES_BLOCK_04B540,6,stream=0x4B000;block=0x540;text=6,"[""stream=0x4B000;block=0x540;text=6""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","アンは銃の名手だったらしいな。
+","きっとすごい戦いだったんだろうな。見てみたかったぜ。
+","俺も銃は得意だが…。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那一定是一场恶战。真希望我也在场。,"[""那一定是一场恶战。真希望我也在场。""]","Must've been a heck of a battle. I wish I'd been
+there.
+","[""Must've been a heck of a battle. I wish I'd been\nthere.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#8; block_semantic_score=0.139660.
+BRIEFING_FILES_BLOCK_04B540,7,stream=0x4B000;block=0x540;text=7,"[""stream=0x4B000;block=0x540;text=7""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","きっとすごい戦いだったんだろうな。見てみたかったぜ。
+","俺も銃は得意だが…。
+","わかってるって、あんたの強さはね！
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你知道，我自己的枪法也不赖…,"[""你知道，我自己的枪法也不赖…""]","You know, I'm not so bad with guns myself...
+","[""You know, I'm not so bad with guns myself...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#9; block_semantic_score=0.139660.
+BRIEFING_FILES_BLOCK_04B540,8,stream=0x4B000;block=0x540;text=8,"[""stream=0x4B000;block=0x540;text=8""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x540;block_file=0x4B540;text_base=0x4B584;capacity=660""]","俺も銃は得意だが…。
+","わかってるって、あんたの強さはね！
+",,[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我已经见识过你的本事了。,"[""我已经见识过你的本事了。""]","I've already seen how good you are.
+","[""I've already seen how good you are.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B540; ENG blocks=0xD71B0; ENG source rows=0xD71B0#10; block_semantic_score=0.139660.

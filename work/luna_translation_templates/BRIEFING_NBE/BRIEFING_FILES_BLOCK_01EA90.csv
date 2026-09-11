@@ -1,0 +1,24 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01EA90,0,stream=0x1E000;block=0xA90;text=0,"[""stream=0x1E000;block=0xA90;text=0""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xA90;block_file=0x1EA90;text_base=0x1EABC;capacity=332""]",,"小銃程度ではトラックを破壊するには力不足だ。ロケット
+弾あたりを使うのがいいだろう。
+","スナイパーライフルでも何かを誘爆させれば使えるかもし
+れないがな。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,光靠轻武器火力是打不掉卡车的。,"[""光靠轻武器火力是打不掉卡车的。""]","It's going to take more than small arms fire to take
+down a truck.
+","[""It's going to take more than small arms fire to take\ndown a truck.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1EA90; ENG blocks=0xAFCA0; ENG source rows=0xAFCA0#0; block_semantic_score=0.118709.
+BRIEFING_FILES_BLOCK_01EA90,1,stream=0x1E000;block=0xA90;text=1,"[""stream=0x1E000;block=0xA90;text=1""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xA90;block_file=0x1EA90;text_base=0x1EABC;capacity=332""]","小銃程度ではトラックを破壊するには力不足だ。ロケット
+弾あたりを使うのがいいだろう。
+","スナイパーライフルでも何かを誘爆させれば使えるかもし
+れないがな。
+","支援砲撃マーカーを打ち込むことができれば、支援砲撃も
+できるんだが…。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,最稳妥的还是用某种火箭弹。另一个战术是远距离引发爆炸。,"[""最稳妥的还是用某种火箭弹。另一个战术是远距离引发爆炸。""]","Some kind of rocket's your best bet.
+Another tactic to try would be setting off an
+explosion from afar.
+","[""Some kind of rocket's your best bet.\nAnother tactic to try would be setting off an\nexplosion from afar.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1EA90; ENG blocks=0xAFCA0,0xAFCA0; ENG source rows=0xAFCA0#1,0xAFCA0#2; block_semantic_score=0.118709."
+BRIEFING_FILES_BLOCK_01EA90,2,stream=0x1E000;block=0xA90;text=2,"[""stream=0x1E000;block=0xA90;text=2""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xA90;block_file=0x1EA90;text_base=0x1EABC;capacity=332""]","スナイパーライフルでも何かを誘爆させれば使えるかもし
+れないがな。
+","支援砲撃マーカーを打ち込むことができれば、支援砲撃も
+できるんだが…。
+",,[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你也可以呼叫支援打击，,"[""你也可以呼叫支援打击，""]","You could also call in a support strike,
+","[""You could also call in a support strike,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1EA90; ENG blocks=0xAFCA0; ENG source rows=0xAFCA0#3; block_semantic_score=0.118709.

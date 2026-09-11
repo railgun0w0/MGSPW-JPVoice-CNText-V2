@@ -1,0 +1,127 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06F880,0,stream=0x6F000;block=0x880;text=0,"[""stream=0x6F000;block=0x880;text=0""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]",,"チコはピースウォーカーのことを、バシリスコと呼んでい
+た。
+","バシリスコ？　…ああ、スペイン語か。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Chico把和平行者叫做""basilisco""。","[""Chico把和平行者叫做\""basilisco\""。""]","Chico called Peace Walker the basilisco.
+","[""Chico called Peace Walker the basilisco.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#0; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,1,stream=0x6F000;block=0x880;text=1,"[""stream=0x6F000;block=0x880;text=1""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","チコはピースウォーカーのことを、バシリスコと呼んでい
+た。
+","バシリスコ？　…ああ、スペイン語か。
+","奇遇だね。僕らも最初、ピースウォーカーの<R= 本体 ,プラットフォーム>を、バ
+シリスクって呼んでた。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Basilisco？…哦，对，西班牙语。,"[""Basilisco？…哦，对，西班牙语。""]","Basilisco? ...Oh, right, Spanish.
+","[""Basilisco? ...Oh, right, Spanish.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#1; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,2,stream=0x6F000;block=0x880;text=2,"[""stream=0x6F000;block=0x880;text=2""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","バシリスコ？　…ああ、スペイン語か。
+","奇遇だね。僕らも最初、ピースウォーカーの<R= 本体 ,プラットフォーム>を、バ
+シリスクって呼んでた。
+","どうしてそんなコードネームに？
+","[""<R= 本体 ,プラットフォーム>""]",,,NOT_CHECKED,141,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我自己也曾用""Basilisk""
+作为和平行者平台的代号。","[""我自己也曾用\""Basilisk\""\n作为和平行者平台的代号。""]","I once used the codename Basilisk for the Peace
+Walker platform myself.
+","[""I once used the codename Basilisk for the Peace\nWalker platform myself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#3; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,3,stream=0x6F000;block=0x880;text=3,"[""stream=0x6F000;block=0x880;text=3""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","奇遇だね。僕らも最初、ピースウォーカーの<R= 本体 ,プラットフォーム>を、バ
+シリスクって呼んでた。
+","どうしてそんなコードネームに？
+","バシリスクっていうトカゲは、どんな地形でも歩ける。緊
+急時には立ち上がって、水の上すら二本脚で走り抜けるん
+だ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为什么？,"[""为什么？""]","What for?
+","[""What for?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#4; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,4,stream=0x6F000;block=0x880;text=4,"[""stream=0x6F000;block=0x880;text=4""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","どうしてそんなコードネームに？
+","バシリスクっていうトカゲは、どんな地形でも歩ける。緊
+急時には立ち上がって、水の上すら二本脚で走り抜けるん
+だ。
+","中米の全地形に対応するっていう、今回のプロジェクトに
+ぴったりだろ？　それに、伝承さ。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"被称为basilisks的那类蜥蜴，
+能在任何地形上行走。必要时，它们甚至能直立起来，
+用两条腿跑过水面。","[""被称为basilisks的那类蜥蜴，\n能在任何地形上行走。必要时，它们甚至能直立起来，\n用两条腿跑过水面。""]","The class of lizards called basilisks can walk atop
+any type of terrain.
+In a pinch, they can even stand up on two legs and
+run across water.
+","[""The class of lizards called basilisks can walk atop\nany type of terrain.\nIn a pinch, they can even stand up on two legs and\nrun across water.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6F880; ENG blocks=0xFBE10,0xFBE10; ENG source rows=0xFBE10#5,0xFBE10#6; block_semantic_score=0.139399."
+BRIEFING_FILES_BLOCK_06F880,5,stream=0x6F000;block=0x880;text=5,"[""stream=0x6F000;block=0x880;text=5""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","バシリスクっていうトカゲは、どんな地形でも歩ける。緊
+急時には立ち上がって、水の上すら二本脚で走り抜けるん
+だ。
+","中米の全地形に対応するっていう、今回のプロジェクトに
+ぴったりだろ？　それに、伝承さ。
+","伝承？
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对一个能在中美洲任意行走的系统
+来说，这名字再合适不过了，对吧？","[""对一个能在中美洲任意行走的系统\n来说，这名字再合适不过了，对吧？""]","Perfect name for a system that can walk anywhere
+in Central America, right?
+","[""Perfect name for a system that can walk anywhere\nin Central America, right?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#7; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,6,stream=0x6F000;block=0x880;text=6,"[""stream=0x6F000;block=0x880;text=6""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","中米の全地形に対応するっていう、今回のプロジェクトに
+ぴったりだろ？　それに、伝承さ。
+","伝承？
+","伝承の中に出てくるバシリスクは、猛毒の持ち主だ。古代
+ローマの書物には、こんな話が伝わってる。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么传说？,"[""什么传说？""]","What legends?
+","[""What legends?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#9; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,7,stream=0x6F000;block=0x880;text=7,"[""stream=0x6F000;block=0x880;text=7""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","伝承？
+","伝承の中に出てくるバシリスクは、猛毒の持ち主だ。古代
+ローマの書物には、こんな話が伝わってる。
+","騎士がバシリスクを槍で突き殺した。すると、バシリスク
+の毒が槍を伝わって、人間も馬も死んでしまった…。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,传说中的basilisks是剧毒生物。,"[""传说中的basilisks是剧毒生物。""]","The basilisks of legend were highly venomous
+creatures.
+","[""The basilisks of legend were highly venomous\ncreatures.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#10; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,8,stream=0x6F000;block=0x880;text=8,"[""stream=0x6F000;block=0x880;text=8""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","伝承の中に出てくるバシリスクは、猛毒の持ち主だ。古代
+ローマの書物には、こんな話が伝わってる。
+","騎士がバシリスクを槍で突き殺した。すると、バシリスク
+の毒が槍を伝わって、人間も馬も死んでしまった…。
+","何かに似ていると思わないか？
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一名骑士用长矛刺穿了
+basilisk，将它杀死。那生物的毒液顺着长矛渗了上来，
+把马和骑士一起毒死了…","[""一名骑士用长矛刺穿了\nbasilisk，将它杀死。那生物的毒液顺着长矛渗了上来，\n把马和骑士一起毒死了…""]","A knight slew a basilisk by piercing it with his
+spear.
+The creature's poison seeped up the spear and
+killed both horse and rider...
+","[""A knight slew a basilisk by piercing it with his\nspear.\nThe creature's poison seeped up the spear and\nkilled both horse and rider...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6F880; ENG blocks=0xFBE10,0xFBE10; ENG source rows=0xFBE10#12,0xFBE10#13; block_semantic_score=0.139399."
+BRIEFING_FILES_BLOCK_06F880,9,stream=0x6F000;block=0x880;text=9,"[""stream=0x6F000;block=0x880;text=9""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","騎士がバシリスクを槍で突き殺した。すると、バシリスク
+の毒が槍を伝わって、人間も馬も死んでしまった…。
+","何かに似ていると思わないか？
+","…核抑止か。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这让你想起什么了吗，Snake？,"[""这让你想起什么了吗，Snake？""]","Remind you of anything, Snake?
+","[""Remind you of anything, Snake?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#14; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,10,stream=0x6F000;block=0x880;text=10,"[""stream=0x6F000;block=0x880;text=10""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","何かに似ていると思わないか？
+","…核抑止か。
+","正解。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,核威慑。,"[""核威慑。""]","Nuclear deterrence.
+","[""Nuclear deterrence.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#15; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,11,stream=0x6F000;block=0x880;text=11,"[""stream=0x6F000;block=0x880;text=11""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","…核抑止か。
+","正解。
+","殺そうとすれば自分も死ぬ。だから攻撃できない。僕はピ
+ースウォーカーを、そういう存在にしたかったんだ。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。杀了它，你也会跟着死——
+你的手也被绑住了。","[""没错。杀了它，你也会跟着死——\n你的手也被绑住了。""]","Bingo. Kill it, and you die along with it - your hands
+are bound.
+","[""Bingo. Kill it, and you die along with it - your hands\nare bound.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#16; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,12,stream=0x6F000;block=0x880;text=12,"[""stream=0x6F000;block=0x880;text=12""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","正解。
+","殺そうとすれば自分も死ぬ。だから攻撃できない。僕はピ
+ースウォーカーを、そういう存在にしたかったんだ。
+","人間がそんなに理性的だとは思えない。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我希望和平行者也能如此。,"[""我希望和平行者也能如此。""]","I wanted Peace Walker to be like that.
+","[""I wanted Peace Walker to be like that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#17; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,13,stream=0x6F000;block=0x880;text=13,"[""stream=0x6F000;block=0x880;text=13""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","殺そうとすれば自分も死ぬ。だから攻撃できない。僕はピ
+ースウォーカーを、そういう存在にしたかったんだ。
+","人間がそんなに理性的だとは思えない。
+","自分が死ぬとわかっていても…いや、わかっているからこ
+そ、理解できない行動を取ることもある。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你应该知道，人并没有那么理性。,"[""你应该知道，人并没有那么理性。""]","You should know that people aren't that rational.
+","[""You should know that people aren't that rational.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#18; block_semantic_score=0.139399.
+BRIEFING_FILES_BLOCK_06F880,14,stream=0x6F000;block=0x880;text=14,"[""stream=0x6F000;block=0x880;text=14""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","人間がそんなに理性的だとは思えない。
+","自分が死ぬとわかっていても…いや、わかっているからこ
+そ、理解できない行動を取ることもある。
+","そうかな。それこそ、僕には理解できないけどね。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有时候，人会做出毫无道理的事，即使他们知道自己会死——
+或者说，也许正因为如此。","[""有时候，人会做出毫无道理的事，即使他们知道自己会死——\n或者说，也许正因为如此。""]","Sometimes people do things that don't make sense,
+even when they know they're going to die - or
+maybe it's because of that.
+","[""Sometimes people do things that don't make sense,\neven when they know they're going to die - or\nmaybe it's because of that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6F880; ENG blocks=0xFBE10,0xFBE10; ENG source rows=0xFBE10#19,0xFBE10#20; block_semantic_score=0.139399."
+BRIEFING_FILES_BLOCK_06F880,15,stream=0x6F000;block=0x880;text=15,"[""stream=0x6F000;block=0x880;text=15""]",1,BRIEFING FILES,"[""stream=0x6F000;block=0x880;block_file=0x6F880;text_base=0x6F8E0;capacity=1428""]","自分が死ぬとわかっていても…いや、わかっているからこ
+そ、理解できない行動を取ることもある。
+","そうかな。それこそ、僕には理解できないけどね。
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许你说得对。
+但那正是我不理解的地方。","[""也许你说得对。\n但那正是我不理解的地方。""]","Maybe you're right. But that's exactly what I don't
+understand.
+","[""Maybe you're right. But that's exactly what I don't\nunderstand.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6F880; ENG blocks=0xFBE10; ENG source rows=0xFBE10#21; block_semantic_score=0.139399.

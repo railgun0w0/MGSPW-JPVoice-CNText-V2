@@ -1,0 +1,88 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_032C30,0,stream=0x32000;block=0xC30;text=0,"[""stream=0x32000;block=0xC30;text=0""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]",,"最近、スイカの売れ行きはどうだ？
+","ぼちぼちね。<R= 国 ,ニカラグア>に残った<R=仲間,コンパ>も、頑張ってるらしいから。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嘿。最近西瓜生意怎么样？,"[""嘿。最近西瓜生意怎么样？""]","Hey. How's the watermelon business these days?
+","[""Hey. How's the watermelon business these days?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#0; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,1,stream=0x32000;block=0xC30;text=1,"[""stream=0x32000;block=0xC30;text=1""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","最近、スイカの売れ行きはどうだ？
+","ぼちぼちね。<R= 国 ,ニカラグア>に残った<R=仲間,コンパ>も、頑張ってるらしいから。
+","何よりだ。
+","[""<R= 国 ,ニカラグア>"", ""<R=仲間,コンパ>""]",,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还不错。我听说家乡的
+同伴们也还在坚持。","[""还不错。我听说家乡的\n同伴们也还在坚持。""]","Not bad. I hear the compas back home are hanging
+in there, too.
+","[""Not bad. I hear the compas back home are hanging\nin there, too.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#1; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,2,stream=0x32000;block=0xC30;text=2,"[""stream=0x32000;block=0xC30;text=2""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","ぼちぼちね。<R= 国 ,ニカラグア>に残った<R=仲間,コンパ>も、頑張ってるらしいから。
+","何よりだ。
+","…<R=あたし達,サンディニスタ>がスイカ売りって呼ばれてること、よく知って
+るのね。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听到这个很高兴。,"[""听到这个很高兴。""]","Good to hear.
+","[""Good to hear.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#2; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,3,stream=0x32000;block=0xC30;text=3,"[""stream=0x32000;block=0xC30;text=3""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","何よりだ。
+","…<R=あたし達,サンディニスタ>がスイカ売りって呼ばれてること、よく知って
+るのね。
+","さすがはボス。
+","[""<R=あたし達,サンディニスタ>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…你知道我们的绰号。
+真让我印象深刻。","[""…你知道我们的绰号。\n真让我印象深刻。""]","...You know our nickname. I'm impressed.
+","[""...You know our nickname. I'm impressed.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#3; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,4,stream=0x32000;block=0xC30;text=4,"[""stream=0x32000;block=0xC30;text=4""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","…<R=あたし達,サンディニスタ>がスイカ売りって呼ばれてること、よく知って
+るのね。
+","さすがはボス。
+","お前達は、<R=国家警備隊,グァルディア>の監視の目を潜り抜けるため、中身
+をくり抜いたスイカに武器を隠して運んだ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,难怪他们叫你Boss。,"[""难怪他们叫你Boss。""]","No wonder they call you Boss.
+","[""No wonder they call you Boss.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#4; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,5,stream=0x32000;block=0xC30;text=5,"[""stream=0x32000;block=0xC30;text=5""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","さすがはボス。
+","お前達は、<R=国家警備隊,グァルディア>の監視の目を潜り抜けるため、中身
+をくり抜いたスイカに武器を隠して運んだ。
+","それこそ<R=手榴弾,パイナップル>もな。それが周辺国のシンパに知られるこ
+とになり…。
+","[""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,163,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你们以前把武器藏在挖空的西瓜里，就这么大摇大摆地从国民
+警卫队面前运过去。","[""你们以前把武器藏在挖空的西瓜里，就这么大摇大摆地从国民\n警卫队面前运过去。""]","You used to hide your weapons in hollowed-out
+watermelons,
+smuggle 'em right past the National Guard.
+","[""You used to hide your weapons in hollowed-out\nwatermelons,\nsmuggle 'em right past the National Guard.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x32C30; ENG blocks=0xC38B0,0xC38B0; ENG source rows=0xC38B0#5,0xC38B0#6; block_semantic_score=0.079494."
+BRIEFING_FILES_BLOCK_032C30,6,stream=0x32000;block=0xC30;text=6,"[""stream=0x32000;block=0xC30;text=6""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","お前達は、<R=国家警備隊,グァルディア>の監視の目を潜り抜けるため、中身
+をくり抜いたスイカに武器を隠して運んだ。
+","それこそ<R=手榴弾,パイナップル>もな。それが周辺国のシンパに知られるこ
+とになり…。
+","何それ。
+","[""<R=手榴弾,パイナップル>""]",,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"连菠萝手雷也是那样运的。这个名字在当地的
+同情者中传开了，然后…","[""连菠萝手雷也是那样运的。这个名字在当地的\n同情者中传开了，然后…""]","You even transported pineapple grenades that
+way.
+The name caught on among sympathizers in the
+region and...
+","[""You even transported pineapple grenades that\nway.\nThe name caught on among sympathizers in the\nregion and...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x32C30; ENG blocks=0xC38B0,0xC38B0; ENG source rows=0xC38B0#7,0xC38B0#8; block_semantic_score=0.079494."
+BRIEFING_FILES_BLOCK_032C30,7,stream=0x32000;block=0xC30;text=7,"[""stream=0x32000;block=0xC30;text=7""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","それこそ<R=手榴弾,パイナップル>もな。それが周辺国のシンパに知られるこ
+とになり…。
+","何それ。
+","えっ？
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你在说什么？,"[""你在说什么？""]","What are you talking about?
+","[""What are you talking about?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#9; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,8,stream=0x32000;block=0xC30;text=8,"[""stream=0x32000;block=0xC30;text=8""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","何それ。
+","えっ？
+","<R=あたし達,サンディニスタ>がスイカ売りって呼ばれるのは、<R=将軍の名前,サンディーノ>が<R= スイカ ,サンディーア>
+に似てるからなんだけど。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯？,"[""嗯？""]","Huh?
+","[""Huh?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#10; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,9,stream=0x32000;block=0xC30;text=9,"[""stream=0x32000;block=0xC30;text=9""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","えっ？
+","<R=あたし達,サンディニスタ>がスイカ売りって呼ばれるのは、<R=将軍の名前,サンディーノ>が<R= スイカ ,サンディーア>
+に似てるからなんだけど。
+","…そうなのか？
+","[""<R=あたし達,サンディニスタ>"", ""<R=将軍の名前,サンディーノ>"", ""<R= スイカ ,サンディーア>""]",,,NOT_CHECKED,196,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们叫我们西瓜贩子，
+是因为将军的名字","[""他们叫我们西瓜贩子，\n是因为将军的名字""]","They call us watermelon sellers because the
+General's name
+","[""They call us watermelon sellers because the\nGeneral's name\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#11; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,10,stream=0x32000;block=0xC30;text=10,"[""stream=0x32000;block=0xC30;text=10""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","<R=あたし達,サンディニスタ>がスイカ売りって呼ばれるのは、<R=将軍の名前,サンディーノ>が<R= スイカ ,サンディーア>
+に似てるからなんだけど。
+","…そうなのか？
+","そうよ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…真的吗？,"[""…真的吗？""]","...Really?
+","[""...Really?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#13; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,11,stream=0x32000;block=0xC30;text=11,"[""stream=0x32000;block=0xC30;text=11""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","…そうなのか？
+","そうよ。
+","カズのやつ…。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是。,"[""是。""]","Si.
+","[""Si.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#14; block_semantic_score=0.079494.
+BRIEFING_FILES_BLOCK_032C30,12,stream=0x32000;block=0xC30;text=12,"[""stream=0x32000;block=0xC30;text=12""]",1,BRIEFING FILES,"[""stream=0x32000;block=0xC30;block_file=0x32C30;text_base=0x32C84;capacity=896""]","そうよ。
+","カズのやつ…。
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,该死，Kaz…,"[""该死，Kaz…""]","Dammit, Kaz...
+","[""Dammit, Kaz...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x32C30; ENG blocks=0xC38B0; ENG source rows=0xC38B0#15; block_semantic_score=0.079494.

@@ -1,0 +1,38 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_029400,0,stream=0x29000;block=0x400;text=0,"[""stream=0x29000;block=0x400;text=0""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]",,"ここもボスケ・デル・アルバと同じ熱帯雨林。高温多湿の
+森林帯よ。エル・セナガルは「泥」の意味。
+","泥か。足を取られないようにしないとな。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这里是热带雨林，跟破晓森林一样。温度和湿度都可能很严酷。
+El Cenegal 意思是“泥沼之地”。","[""这里是热带雨林，跟破晓森林一样。温度和湿度都可能很严酷。\nEl Cenegal 意思是“泥沼之地”。""]","This is a tropical rainforest, just like Bosque del
+Alba.
+The temperature and humidity can be brutal. El
+Cenegal means ""Place of Mud.""
+","[""This is a tropical rainforest, just like Bosque del\nAlba.\nThe temperature and humidity can be brutal. El\nCenegal means \""Place of Mud.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x29400; ENG blocks=0xBA8B0,0xBA8B0; ENG source rows=0xBA8B0#0,0xBA8B0#1; block_semantic_score=0.178692."
+BRIEFING_FILES_BLOCK_029400,1,stream=0x29000;block=0x400;text=1,"[""stream=0x29000;block=0x400;text=1""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","ここもボスケ・デル・アルバと同じ熱帯雨林。高温多湿の
+森林帯よ。エル・セナガルは「泥」の意味。
+","泥か。足を取られないようにしないとな。
+","このあたりでは、よく川が氾濫するの。その時溢れた水が
+地表を削って作った溝が、あちこちにある。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,泥地。真好。我会注意脚下的。,"[""泥地。真好。我会注意脚下的。""]","Mud. Great. I'll watch my step.
+","[""Mud. Great. I'll watch my step.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x29400; ENG blocks=0xBA8B0; ENG source rows=0xBA8B0#2; block_semantic_score=0.178692.
+BRIEFING_FILES_BLOCK_029400,2,stream=0x29000;block=0x400;text=2,"[""stream=0x29000;block=0x400;text=2""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","泥か。足を取られないようにしないとな。
+","このあたりでは、よく川が氾濫するの。その時溢れた水が
+地表を削って作った溝が、あちこちにある。
+","隠れて進むにはよさそうだ。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,随处可见被水流冲刷出来的沟渠。,"[""随处可见被水流冲刷出来的沟渠。""]","There are canals here and there carved out by the
+water.
+","[""There are canals here and there carved out by the\nwater.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x29400; ENG blocks=0xBA8B0; ENG source rows=0xBA8B0#4; block_semantic_score=0.178692.
+BRIEFING_FILES_BLOCK_029400,3,stream=0x29000;block=0x400;text=3,"[""stream=0x29000;block=0x400;text=3""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","このあたりでは、よく川が氾濫するの。その時溢れた水が
+地表を削って作った溝が、あちこちにある。
+","隠れて進むにはよさそうだ。
+","こっちからの見通しが悪いってことでもある。気をつけて
+ね、スネーク。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,适合藏身的好地方。,"[""适合藏身的好地方。""]","Good places to hide.
+","[""Good places to hide.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x29400; ENG blocks=0xBA8B0; ENG source rows=0xBA8B0#5; block_semantic_score=0.178692.
+BRIEFING_FILES_BLOCK_029400,4,stream=0x29000;block=0x400;text=4,"[""stream=0x29000;block=0x400;text=4""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","隠れて進むにはよさそうだ。
+","こっちからの見通しが悪いってことでもある。気をつけて
+ね、スネーク。
+",,[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但它们也会让你更难观察
+四周。小心，Snake。","[""但它们也会让你更难观察\n四周。小心，Snake。""]","But they'll also make it harder for you to see. Be
+careful, Snake.
+","[""But they'll also make it harder for you to see. Be\ncareful, Snake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x29400; ENG blocks=0xBA8B0; ENG source rows=0xBA8B0#6; block_semantic_score=0.178692.

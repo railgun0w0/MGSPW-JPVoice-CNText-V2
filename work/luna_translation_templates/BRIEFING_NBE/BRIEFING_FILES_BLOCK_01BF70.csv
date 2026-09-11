@@ -1,0 +1,53 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01BF70,0,stream=0x1B000;block=0xF70;text=0,"[""stream=0x1B000;block=0xF70;text=0""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0xF70;block_file=0x1BF70;text_base=0x1BFAC;capacity=532""]",,"その基地、アマンダの同志からの情報以上に厳重な警備態
+勢だな…。
+","確かにな。軽装備では突破は難しいかも知れない。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"该死，那个基地的守备比
+Amanda 手下说的还要森严…","[""该死，那个基地的守备比\nAmanda 手下说的还要森严…""]","Damn, that base is even more heavily guarded than
+Amanda's men said it would be...
+","[""Damn, that base is even more heavily guarded than\nAmanda's men said it would be...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1BF70; ENG blocks=0xAD140; ENG source rows=0xAD140#0; block_semantic_score=0.087346.
+BRIEFING_FILES_BLOCK_01BF70,1,stream=0x1B000;block=0xF70;text=1,"[""stream=0x1B000;block=0xF70;text=1""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0xF70;block_file=0x1BF70;text_base=0x1BFAC;capacity=532""]","その基地、アマンダの同志からの情報以上に厳重な警備態
+勢だな…。
+","確かにな。軽装備では突破は難しいかも知れない。
+","火力にものを言わせて強行突破…そんな状況も想定した方
+がいいだろう。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可不是嘛。不带上硬货，很难啃得动。,"[""可不是嘛。不带上硬货，很难啃得动。""]","No kidding. It's gonna be tough to crack without
+some serious hardware.
+","[""No kidding. It's gonna be tough to crack without\nsome serious hardware.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1BF70; ENG blocks=0xAD140; ENG source rows=0xAD140#1; block_semantic_score=0.087346.
+BRIEFING_FILES_BLOCK_01BF70,2,stream=0x1B000;block=0xF70;text=2,"[""stream=0x1B000;block=0xF70;text=2""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0xF70;block_file=0x1BF70;text_base=0x1BFAC;capacity=532""]","確かにな。軽装備では突破は難しいかも知れない。
+","火力にものを言わせて強行突破…そんな状況も想定した方
+がいいだろう。
+","武器装備は出来る限り多く持って行くべきだな。防御力も
+高いほどいい。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说不定到头来只能硬碰硬，
+必要时就该动武。","[""说不定到头来只能硬碰硬，\n必要时就该动武。""]","You may end up having to fight fire with fire, so be
+ready to use force if necessary.
+","[""You may end up having to fight fire with fire, so be\nready to use force if necessary.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1BF70; ENG blocks=0xAD140; ENG source rows=0xAD140#2; block_semantic_score=0.087346.
+BRIEFING_FILES_BLOCK_01BF70,3,stream=0x1B000;block=0xF70;text=3,"[""stream=0x1B000;block=0xF70;text=3""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0xF70;block_file=0x1BF70;text_base=0x1BFAC;capacity=532""]","火力にものを言わせて強行突破…そんな状況も想定した方
+がいいだろう。
+","武器装備は出来る限り多く持って行くべきだな。防御力も
+高いほどいい。
+","了解だ。スーツを選ぶ時は気をつけよう。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能带的武器和道具尽量多带。,"[""能带的武器和道具尽量多带。""]","Take as many weapons and items as you can
+carry.
+","[""Take as many weapons and items as you can\ncarry.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1BF70; ENG blocks=0xAD140; ENG source rows=0xAD140#3; block_semantic_score=0.087346.
+BRIEFING_FILES_BLOCK_01BF70,4,stream=0x1B000;block=0xF70;text=4,"[""stream=0x1B000;block=0xF70;text=4""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0xF70;block_file=0x1BF70;text_base=0x1BFAC;capacity=532""]","武器装備は出来る限り多く持って行くべきだな。防御力も
+高いほどいい。
+","了解だ。スーツを選ぶ時は気をつけよう。
+","スネーク、俺もすぐに合流する。あと少しだけ踏ん張って
+くれ。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白。我选作战服时会考虑这点。,"[""明白。我选作战服时会考虑这点。""]","Roger. I'll keep that in mind when I pick my suit.
+","[""Roger. I'll keep that in mind when I pick my suit.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1BF70; ENG blocks=0xAD140; ENG source rows=0xAD140#5; block_semantic_score=0.087346.
+BRIEFING_FILES_BLOCK_01BF70,5,stream=0x1B000;block=0xF70;text=5,"[""stream=0x1B000;block=0xF70;text=5""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0xF70;block_file=0x1BF70;text_base=0x1BFAC;capacity=532""]","了解だ。スーツを選ぶ時は気をつけよう。
+","スネーク、俺もすぐに合流する。あと少しだけ踏ん張って
+くれ。
+","ああ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我会尽快跟你汇合，
+Snake。再稍等一会儿。","[""我会尽快跟你汇合，\nSnake。再稍等一会儿。""]","I'll meet up with you ASAP, Snake. Hang tight for
+just a little longer.
+","[""I'll meet up with you ASAP, Snake. Hang tight for\njust a little longer.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1BF70; ENG blocks=0xAD140; ENG source rows=0xAD140#6; block_semantic_score=0.087346.
+BRIEFING_FILES_BLOCK_01BF70,6,stream=0x1B000;block=0xF70;text=6,"[""stream=0x1B000;block=0xF70;text=6""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0xF70;block_file=0x1BF70;text_base=0x1BFAC;capacity=532""]","スネーク、俺もすぐに合流する。あと少しだけ踏ん張って
+くれ。
+","ああ。
+",,[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,行。,"[""行。""]","You got it.
+","[""You got it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1BF70; ENG blocks=0xAD140; ENG source rows=0xAD140#7; block_semantic_score=0.087346.

@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_381E50,0,stream=0x381000;block=0xE50;text=0,"[""stream=0x381000;block=0xE50;text=0""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]",,"ボス…。俺は思うんだが、フルトンで兵士を集めて
+回るのも、強引すぎやしないか？
+","今さら何を言い出すんだ。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Boss，我开始觉得用富尔顿回收
+系统招募士兵是不是有点…强硬？","[""Boss，我开始觉得用富尔顿回收\n系统招募士兵是不是有点…强硬？""]","Boss, I'm starting to wonder if recruiting
+soldiers with the Fulton isn't a little...
+heavy-handed?
+","[""Boss, I'm starting to wonder if recruiting\nsoldiers with the Fulton isn't a little...\nheavy-handed?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381E50; ENG blocks=0x396E60; ENG source rows=0x396E60#0; block_semantic_score=0.214933.
+BRIEFING_MISSION_BLOCK_381E50,1,stream=0x381000;block=0xE50;text=1,"[""stream=0x381000;block=0xE50;text=1""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","ボス…。俺は思うんだが、フルトンで兵士を集めて
+回るのも、強引すぎやしないか？
+","今さら何を言い出すんだ。
+","それよりも志願兵を募る方が現実的だ。
+俺達は会社組織じゃないが、規模的には、
+もう大企業と言っていい。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我已经觉得这事不太妙了…,"[""我已经觉得这事不太妙了…""]","I already don't like where this is going...
+","[""I already don't like where this is going...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381E50; ENG blocks=0x396E60; ENG source rows=0x396E60#1; block_semantic_score=0.214933.
+BRIEFING_MISSION_BLOCK_381E50,2,stream=0x381000;block=0xE50;text=2,"[""stream=0x381000;block=0xE50;text=2""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","今さら何を言い出すんだ。
+","それよりも志願兵を募る方が現実的だ。
+俺達は会社組織じゃないが、規模的には、
+もう大企業と言っていい。
+","いつまでもゲリラ的な方法で兵士を集め続けるわけに
+もいかないだろう。
+",[],,,NOT_CHECKED,150,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我认为自愿的方式可能更务实。严格来说，我们不是一个企业实体，,"[""我认为自愿的方式可能更务实。严格来说，我们不是一个企业实体，""]","I think the voluntary approach could be
+more pragmatic.
+Technically we're not a corporate entity,
+","[""I think the voluntary approach could be\nmore pragmatic.\nTechnically we're not a corporate entity,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x381E50; ENG blocks=0x396E60,0x396E60; ENG source rows=0x396E60#2,0x396E60#3; block_semantic_score=0.214933."
+BRIEFING_MISSION_BLOCK_381E50,3,stream=0x381000;block=0xE50;text=3,"[""stream=0x381000;block=0xE50;text=3""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","それよりも志願兵を募る方が現実的だ。
+俺達は会社組織じゃないが、規模的には、
+もう大企業と言っていい。
+","いつまでもゲリラ的な方法で兵士を集め続けるわけに
+もいかないだろう。
+","志願兵を募るには、メニューから
+<R=『RECRUIT』,リクルート>を選んでみてくれ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但以我们的规模，
+这和事实也相差不远了。我们不能一直用游击战术
+来寻找新鲜血液。","[""但以我们的规模，\n这和事实也相差不远了。我们不能一直用游击战术\n来寻找新鲜血液。""]","but at our size that's not too far from
+the truth.
+We can't keep using guerilla tactics to
+find new blood.
+","[""but at our size that's not too far from\nthe truth.\nWe can't keep using guerilla tactics to\nfind new blood.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x381E50; ENG blocks=0x396E60,0x396E60; ENG source rows=0x396E60#4,0x396E60#5; block_semantic_score=0.214933."
+BRIEFING_MISSION_BLOCK_381E50,4,stream=0x381000;block=0xE50;text=4,"[""stream=0x381000;block=0xE50;text=4""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","いつまでもゲリラ的な方法で兵士を集め続けるわけに
+もいかないだろう。
+","志願兵を募るには、メニューから
+<R=『RECRUIT』,リクルート>を選んでみてくれ。
+","それから、<R=『TRADE』,トレード>を選べば、
+他の傭兵部隊などと、兵士を交換することもできる。
+","[""<R=『RECRUIT』,リクルート>""]",,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要寻找志愿者，
+请从菜单中选择“招募”。","[""要寻找志愿者，\n请从菜单中选择“招募”。""]","To search for volunteers, select
+""RECRUIT"" from the menu.
+","[""To search for volunteers, select\n\""RECRUIT\"" from the menu.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381E50; ENG blocks=0x396E60; ENG source rows=0x396E60#6; block_semantic_score=0.214933.
+BRIEFING_MISSION_BLOCK_381E50,5,stream=0x381000;block=0xE50;text=5,"[""stream=0x381000;block=0xE50;text=5""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","志願兵を募るには、メニューから
+<R=『RECRUIT』,リクルート>を選んでみてくれ。
+","それから、<R=『TRADE』,トレード>を選べば、
+他の傭兵部隊などと、兵士を交換することもできる。
+","そんな<R=“潜友”,トモダチ>がいれば、だな。
+","[""<R=『TRADE』,トレード>""]",,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"或者，选择“交易”
+与其他雇佣兵部队交换士兵。","[""或者，选择“交易”\n与其他雇佣兵部队交换士兵。""]","Or, select ""Trade"" to exchange soldiers
+with other mercenary units.
+","[""Or, select \""Trade\"" to exchange soldiers\nwith other mercenary units.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381E50; ENG blocks=0x396E60; ENG source rows=0x396E60#7; block_semantic_score=0.214933.
+BRIEFING_MISSION_BLOCK_381E50,6,stream=0x381000;block=0xE50;text=6,"[""stream=0x381000;block=0xE50;text=6""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","それから、<R=『TRADE』,トレード>を選べば、
+他の傭兵部隊などと、兵士を交換することもできる。
+","そんな<R=“潜友”,トモダチ>がいれば、だな。
+",,"[""<R=“潜友”,トモダチ>""]",,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，前提是我们有那样的朋友。,"[""是啊，前提是我们有那样的朋友。""]","Yeah, Provided we got the friends for
+that.
+","[""Yeah, Provided we got the friends for\nthat.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381E50; ENG blocks=0x396E60; ENG source rows=0x396E60#8; block_semantic_score=0.214933.

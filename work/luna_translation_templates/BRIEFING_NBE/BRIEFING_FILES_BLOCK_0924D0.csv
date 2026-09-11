@@ -1,0 +1,381 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0924D0,0,stream=0x92000;block=0x4D0;text=0,"[""stream=0x92000;block=0x4D0;text=0""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]",,"再びソ連に潜入したザ・ボスを待っていた相手。
+","彼女が確保したスリーパーを抱き込み、偽情報を流した男。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她回到俄罗斯时，等着她的会是谁呢？,"[""她回到俄罗斯时，等着她的会是谁呢？""]","And who should she find awaiting her return to
+Russia?
+","[""And who should she find awaiting her return to\nRussia?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#0; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,1,stream=0x92000;block=0x4D0;text=1,"[""stream=0x92000;block=0x4D0;text=1""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","再びソ連に潜入したザ・ボスを待っていた相手。
+","彼女が確保したスリーパーを抱き込み、偽情報を流した男。
+","それはザ・ボスのかつての戦友であり、彼女が生んだ子の
+父親だった。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是那个把她的卧底策反、
+一直向他们灌输谎言的人？","[""是那个把她的卧底策反、\n一直向他们灌输谎言的人？""]","The one who'd turned her sleeper against her,
+who'd fed them lies all this time?
+","[""The one who'd turned her sleeper against her,\nwho'd fed them lies all this time?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#1; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,2,stream=0x92000;block=0x4D0;text=2,"[""stream=0x92000;block=0x4D0;text=2""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","彼女が確保したスリーパーを抱き込み、偽情報を流した男。
+","それはザ・ボスのかつての戦友であり、彼女が生んだ子の
+父親だった。
+","そう、ザ・ソローと呼ばれたあの男よ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那是她昔日的战友，她孩子的父亲。,"[""那是她昔日的战友，她孩子的父亲。""]","It was her former comrade-in-arms, the father of
+her child.
+","[""It was her former comrade-in-arms, the father of\nher child.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#2; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,3,stream=0x92000;block=0x4D0;text=3,"[""stream=0x92000;block=0x4D0;text=3""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","それはザ・ボスのかつての戦友であり、彼女が生んだ子の
+父親だった。
+","そう、ザ・ソローと呼ばれたあの男よ。
+","彼も、スリーパーを送り込んだのがザ・ボスとは知らなか
+った。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那个名叫The Sorrow的男人。,"[""那个名叫The Sorrow的男人。""]","The man known as The Sorrow.
+","[""The man known as The Sorrow.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#3; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,4,stream=0x92000;block=0x4D0;text=4,"[""stream=0x92000;block=0x4D0;text=4""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","そう、ザ・ソローと呼ばれたあの男よ。
+","彼も、スリーパーを送り込んだのがザ・ボスとは知らなか
+った。
+","いえ、ソ連側の賢者達が意図的に知らせていなかったの。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他不知道是The Boss派出的卧底。,"[""他不知道是The Boss派出的卧底。""]","He didn't know it was The Boss who'd sent the
+sleeper.
+","[""He didn't know it was The Boss who'd sent the\nsleeper.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#4; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,5,stream=0x92000;block=0x4D0;text=5,"[""stream=0x92000;block=0x4D0;text=5""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","彼も、スリーパーを送り込んだのがザ・ボスとは知らなか
+った。
+","いえ、ソ連側の賢者達が意図的に知らせていなかったの。
+","かつて愛し合った二人を戦わせ、殺し合わせる。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"或者更准确地说，
+是苏联哲学家们没有告诉他。","[""或者更准确地说，\n是苏联哲学家们没有告诉他。""]","Or to be more precise, the Soviet Philosophers
+never told him.
+","[""Or to be more precise, the Soviet Philosophers\nnever told him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#5; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,6,stream=0x92000;block=0x4D0;text=6,"[""stream=0x92000;block=0x4D0;text=6""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","いえ、ソ連側の賢者達が意図的に知らせていなかったの。
+","かつて愛し合った二人を戦わせ、殺し合わせる。
+","「どちらかが生き、どちらかが死ぬ。それがソ連側賢者達
+の、私への報復だった」…そう彼女は言っていた。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,昔日恋人，被迫战斗到死。,"[""昔日恋人，被迫战斗到死。""]","Former lovers, forced to fight to the death.
+","[""Former lovers, forced to fight to the death.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#6; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,7,stream=0x92000;block=0x4D0;text=7,"[""stream=0x92000;block=0x4D0;text=7""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","かつて愛し合った二人を戦わせ、殺し合わせる。
+","「どちらかが生き、どちらかが死ぬ。それがソ連側賢者達
+の、私への報復だった」…そう彼女は言っていた。
+","二人ともが生き残れば、今度は彼らの子供が報復の対象に
+なる。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“一个活，一个死，”她告诉我。“那就是苏联哲学家们
+为我准备的报复。”","[""“一个活，一个死，”她告诉我。“那就是苏联哲学家们\n为我准备的报复。”""]","""One would live, and one would die,"" she told me.
+""That was the revenge the Soviet Philosophers had
+in store for me.""
+","[""\""One would live, and one would die,\"" she told me.\n\""That was the revenge the Soviet Philosophers had\nin store for me.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x924D0; ENG blocks=0x11DC60,0x11DC60; ENG source rows=0x11DC60#7,0x11DC60#8; block_semantic_score=0.143923."
+BRIEFING_FILES_BLOCK_0924D0,8,stream=0x92000;block=0x4D0;text=8,"[""stream=0x92000;block=0x4D0;text=8""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","「どちらかが生き、どちらかが死ぬ。それがソ連側賢者達
+の、私への報復だった」…そう彼女は言っていた。
+","二人ともが生き残れば、今度は彼らの子供が報復の対象に
+なる。
+","選択の余地はなかった。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果两个人都活下来，
+他们的孩子就会替他们受苦。","[""如果两个人都活下来，\n他们的孩子就会替他们受苦。""]","If both of them survived, their child would suffer in
+their place.
+","[""If both of them survived, their child would suffer in\ntheir place.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#9; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,9,stream=0x92000;block=0x4D0;text=9,"[""stream=0x92000;block=0x4D0;text=9""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","二人ともが生き残れば、今度は彼らの子供が報復の対象に
+なる。
+","選択の余地はなかった。
+","ザ・ボスは<R=　彼　,ザ・ソロー>を撃った。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们别无选择。,"[""他们别无选择。""]","They were left with no other option.
+","[""They were left with no other option.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#10; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,10,stream=0x92000;block=0x4D0;text=10,"[""stream=0x92000;block=0x4D0;text=10""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","選択の余地はなかった。
+","ザ・ボスは<R=　彼　,ザ・ソロー>を撃った。
+","彼はそれを自ら受け入れた…。
+","[""<R=　彼　,ザ・ソロー>""]",,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,The Boss开枪打死了他。,"[""The Boss开枪打死了他。""]","The Boss shot him.
+","[""The Boss shot him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#11; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,11,stream=0x92000;block=0x4D0;text=11,"[""stream=0x92000;block=0x4D0;text=11""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ザ・ボスは<R=　彼　,ザ・ソロー>を撃った。
+","彼はそれを自ら受け入れた…。
+","ソ連から<R=祖国,アメリカ>に戻った彼女に、もう居場所はなかった。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他没有抵抗…,"[""他没有抵抗…""]","He offered no resistance...
+","[""He offered no resistance...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#12; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,12,stream=0x92000;block=0x4D0;text=12,"[""stream=0x92000;block=0x4D0;text=12""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","彼はそれを自ら受け入れた…。
+","ソ連から<R=祖国,アメリカ>に戻った彼女に、もう居場所はなかった。
+","祖国に尽くし、そのために亡者としての扱いを受ける…。
+","[""<R=祖国,アメリカ>""]",,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当她从苏联回来时，
+已经没有她的容身之处了。","[""当她从苏联回来时，\n已经没有她的容身之处了。""]","When she returned from the Soviet Union, there
+was no place left for her to go.
+","[""When she returned from the Soviet Union, there\nwas no place left for her to go.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#13; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,13,stream=0x92000;block=0x4D0;text=13,"[""stream=0x92000;block=0x4D0;text=13""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ソ連から<R=祖国,アメリカ>に戻った彼女に、もう居場所はなかった。
+","祖国に尽くし、そのために亡者としての扱いを受ける…。
+","為政者が代わったというだけで、理不尽に責任を負わされ
+る。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她为国家牺牲了一切——一切——,"[""她为国家牺牲了一切——一切——""]","She'd sacrificed everything - EVERYTHING - for her
+country,
+","[""She'd sacrificed everything - EVERYTHING - for her\ncountry,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#14; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,14,stream=0x92000;block=0x4D0;text=14,"[""stream=0x92000;block=0x4D0;text=14""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","祖国に尽くし、そのために亡者としての扱いを受ける…。
+","為政者が代わったというだけで、理不尽に責任を負わされ
+る。
+","私なら到底耐えられない。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而作为回报，他们把她当成一个死人…她无缘无故地成了替罪羊,"[""而作为回报，他们把她当成一个死人…她无缘无故地成了替罪羊""]","and in return they treated her like a dead woman...
+She was made a scapegoat for no good reason
+","[""and in return they treated her like a dead woman...\nShe was made a scapegoat for no good reason\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x924D0; ENG blocks=0x11DC60,0x11DC60; ENG source rows=0x11DC60#15,0x11DC60#16; block_semantic_score=0.143923."
+BRIEFING_FILES_BLOCK_0924D0,15,stream=0x92000;block=0x4D0;text=15,"[""stream=0x92000;block=0x4D0;text=15""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","為政者が代わったというだけで、理不尽に責任を負わされ
+る。
+","私なら到底耐えられない。
+","そんな彼女に声をかけたのが、SASで同期だったゼロ少佐
+だった。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,换了意志稍弱的人，早就崩溃了。,"[""换了意志稍弱的人，早就崩溃了。""]","Any lesser being would have long since cracked.
+","[""Any lesser being would have long since cracked.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#18; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,16,stream=0x92000;block=0x4D0;text=16,"[""stream=0x92000;block=0x4D0;text=16""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","私なら到底耐えられない。
+","そんな彼女に声をかけたのが、SASで同期だったゼロ少佐
+だった。
+","これがFOXの始まりよ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就在那时，她的一位SAS老战友
+向她伸出了手——Zero少校。","[""就在那时，她的一位SAS老战友\n向她伸出了手——Zero少校。""]","It was then that one of her old SAS comrades
+reached out to her - Major Zero.
+","[""It was then that one of her old SAS comrades\nreached out to her - Major Zero.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#19; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,17,stream=0x92000;block=0x4D0;text=17,"[""stream=0x92000;block=0x4D0;text=17""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","そんな彼女に声をかけたのが、SASで同期だったゼロ少佐
+だった。
+","これがFOXの始まりよ。
+","その彼女が受けた任務…ごめんなさい、これはあなたが一
+番よく身に染みて知っているはずね。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,于是，FOX诞生了。,"[""于是，FOX诞生了。""]","And so FOX was born.
+","[""And so FOX was born.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#20; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,18,stream=0x92000;block=0x4D0;text=18,"[""stream=0x92000;block=0x4D0;text=18""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","これがFOXの始まりよ。
+","その彼女が受けた任務…ごめんなさい、これはあなたが一
+番よく身に染みて知っているはずね。
+","アラン・シェパードの弾道飛行から20日後、ケネディ大統
+領は月へ人間を送り込むと宣言した。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她执行了一项任务…嗯，
+你应该比谁都清楚。你是其中一员。","[""她执行了一项任务…嗯，\n你应该比谁都清楚。你是其中一员。""]","She undertook a mission that... Well, you should
+know better than anybody. You were a part of it.
+","[""She undertook a mission that... Well, you should\nknow better than anybody. You were a part of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#21; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,19,stream=0x92000;block=0x4D0;text=19,"[""stream=0x92000;block=0x4D0;text=19""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","その彼女が受けた任務…ごめんなさい、これはあなたが一
+番よく身に染みて知っているはずね。
+","アラン・シェパードの弾道飛行から20日後、ケネディ大統
+領は月へ人間を送り込むと宣言した。
+","ザ・ボスが手に入れた情報がなければ、アメリカの宇宙開
+発は決定的に遅れていた。
+",[],,,NOT_CHECKED,130,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"谢泼德飞行二十天后，
+肯尼迪总统宣布：美国将把人送上月球。","[""谢泼德飞行二十天后，\n肯尼迪总统宣布：美国将把人送上月球。""]","Twenty days after Shepard's flight, President
+Kennedy announced that
+America would put a man on the moon.
+","[""Twenty days after Shepard's flight, President\nKennedy announced that\nAmerica would put a man on the moon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x924D0; ENG blocks=0x11DC60,0x11DC60; ENG source rows=0x11DC60#22,0x11DC60#23; block_semantic_score=0.143923."
+BRIEFING_FILES_BLOCK_0924D0,20,stream=0x92000;block=0x4D0;text=20,"[""stream=0x92000;block=0x4D0;text=20""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","アラン・シェパードの弾道飛行から20日後、ケネディ大統
+領は月へ人間を送り込むと宣言した。
+","ザ・ボスが手に入れた情報がなければ、アメリカの宇宙開
+発は決定的に遅れていた。
+","人類が月へ行くこともなかったかもしれない。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果没有The Boss获取的情报，,"[""如果没有The Boss获取的情报，""]","Without the intelligence The Boss obtained,
+","[""Without the intelligence The Boss obtained,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#24; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,21,stream=0x92000;block=0x4D0;text=21,"[""stream=0x92000;block=0x4D0;text=21""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ザ・ボスが手に入れた情報がなければ、アメリカの宇宙開
+発は決定的に遅れていた。
+","人類が月へ行くこともなかったかもしれない。
+","でも、その任務が彼女の身体を蝕み、名誉を奪い、愛する
+人をも喪わせた。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"阿姆斯特朗和奥尔德林
+也许永远不会踏上月球。","[""阿姆斯特朗和奥尔德林\n也许永远不会踏上月球。""]","Armstrong and Aldrin might never have walked on
+the moon.
+","[""Armstrong and Aldrin might never have walked on\nthe moon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#26; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,22,stream=0x92000;block=0x4D0;text=22,"[""stream=0x92000;block=0x4D0;text=22""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","人類が月へ行くこともなかったかもしれない。
+","でも、その任務が彼女の身体を蝕み、名誉を奪い、愛する
+人をも喪わせた。
+","ただ数奇と言うには、哀し過ぎる巡り合わせ…。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但美国人的收获，
+代价是The Boss失去了健康、
+荣誉，以及她所爱的男人。","[""但美国人的收获，\n代价是The Boss失去了健康、\n荣誉，以及她所爱的男人。""]","But the Americans' gain had cost The Boss her
+health, her honor, and the man she loved.
+","[""But the Americans' gain had cost The Boss her\nhealth, her honor, and the man she loved.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#27; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,23,stream=0x92000;block=0x4D0;text=23,"[""stream=0x92000;block=0x4D0;text=23""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","でも、その任務が彼女の身体を蝕み、名誉を奪い、愛する
+人をも喪わせた。
+","ただ数奇と言うには、哀し過ぎる巡り合わせ…。
+","ソ連も有人飛行の実績を重ね、63年にはテレシコワが世界
+初の女性宇宙飛行士となった。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“悲剧”这个词，甚至不足以
+形容她所承受的一切。","[""“悲剧”这个词，甚至不足以\n形容她所承受的一切。""]","The word ""tragedy"" doesn't even begin to describe
+what she endured.
+","[""The word \""tragedy\"" doesn't even begin to describe\nwhat she endured.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#28; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,24,stream=0x92000;block=0x4D0;text=24,"[""stream=0x92000;block=0x4D0;text=24""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ただ数奇と言うには、哀し過ぎる巡り合わせ…。
+","ソ連も有人飛行の実績を重ね、63年にはテレシコワが世界
+初の女性宇宙飛行士となった。
+","闇に葬られた、NASAの「オリジナル・レディ」計画を参
+考にしたとも言われているわ。
+",[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"1963年，瓦莲京娜·捷列什科娃成了
+所谓的“太空第一位女性”。","[""1963年，瓦莲京娜·捷列什科娃成了\n所谓的“太空第一位女性”。""]","and in 1963 Valentina Tereshkova became the
+so-called ""first woman in space.""
+","[""and in 1963 Valentina Tereshkova became the\nso-called \""first woman in space.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#30; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,25,stream=0x92000;block=0x4D0;text=25,"[""stream=0x92000;block=0x4D0;text=25""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ソ連も有人飛行の実績を重ね、63年にはテレシコワが世界
+初の女性宇宙飛行士となった。
+","闇に葬られた、NASAの「オリジナル・レディ」計画を参
+考にしたとも言われているわ。
+","これが、ザ・ボスがあなたと離れてから果たした任務の全
+て。
+",[],,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"据说他们是从NASA尘封已久的
+“水星女士”计划中得到了启发。","[""据说他们是从NASA尘封已久的\n“水星女士”计划中得到了启发。""]","It's said they took their cue from NASA's
+long-buried ""Mercury Lady"" project.
+","[""It's said they took their cue from NASA's\nlong-buried \""Mercury Lady\"" project.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#31; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,26,stream=0x92000;block=0x4D0;text=26,"[""stream=0x92000;block=0x4D0;text=26""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","闇に葬られた、NASAの「オリジナル・レディ」計画を参
+考にしたとも言われているわ。
+","これが、ザ・ボスがあなたと離れてから果たした任務の全
+て。
+","スネーク、あなたはこう言うかも知れない。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以，Snake，她就是去执行
+这个任务，才离开你那么久。","[""所以，Snake，她就是去执行\n这个任务，才离开你那么久。""]","And so that, Snake, is the mission that kept her
+away from you for so long.
+","[""And so that, Snake, is the mission that kept her\naway from you for so long.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#32; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,27,stream=0x92000;block=0x4D0;text=27,"[""stream=0x92000;block=0x4D0;text=27""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","これが、ザ・ボスがあなたと離れてから果たした任務の全
+て。
+","スネーク、あなたはこう言うかも知れない。
+","自分をエージェントに使ってくれたら、決して裏切らなか
+った…そうでしょう？
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在，我知道你在想什么。,"[""现在，我知道你在想什么。""]","Now, I know what you're thinking.
+","[""Now, I know what you're thinking.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#33; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,28,stream=0x92000;block=0x4D0;text=28,"[""stream=0x92000;block=0x4D0;text=28""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","スネーク、あなたはこう言うかも知れない。
+","自分をエージェントに使ってくれたら、決して裏切らなか
+った…そうでしょう？
+","でも、ザ・ボスはあなたを巻き込みたくなかったんだと思
+う。彼女には予感があったんでしょうね。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“为什么不用我当她的特工？
+她知道我连想都不会想背叛她…”","[""“为什么不用我当她的特工？\n她知道我连想都不会想背叛她…”""]","""Why not use me as her agent? She knew I'd never
+even think of betraying her...""
+","[""\""Why not use me as her agent? She knew I'd never\neven think of betraying her...\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#34; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,29,stream=0x92000;block=0x4D0;text=29,"[""stream=0x92000;block=0x4D0;text=29""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","自分をエージェントに使ってくれたら、決して裏切らなか
+った…そうでしょう？
+","でも、ザ・ボスはあなたを巻き込みたくなかったんだと思
+う。彼女には予感があったんでしょうね。
+","この任務には、『賢者達』のネットワークが必要になる。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想是因为她不想把你卷进来。她大概预见到了会发生什么。,"[""我想是因为她不想把你卷进来。她大概预见到了会发生什么。""]","I think it's because she didn't want to drag you
+into it.
+She probably knew what was going to happen.
+","[""I think it's because she didn't want to drag you\ninto it.\nShe probably knew what was going to happen.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x924D0; ENG blocks=0x11DC60,0x11DC60; ENG source rows=0x11DC60#35,0x11DC60#36; block_semantic_score=0.143923."
+BRIEFING_FILES_BLOCK_0924D0,30,stream=0x92000;block=0x4D0;text=30,"[""stream=0x92000;block=0x4D0;text=30""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","でも、ザ・ボスはあなたを巻き込みたくなかったんだと思
+う。彼女には予感があったんでしょうね。
+","この任務には、『賢者達』のネットワークが必要になる。
+","それを使う以上、どちらに転んでも何らかの代償を支払わ
+なければならない…。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要完成任务，她必须
+求助于哲学家组织…","[""要完成任务，她必须\n求助于哲学家组织…""]","To complete the mission, she'd have to turn to the
+Philosophers...
+","[""To complete the mission, she'd have to turn to the\nPhilosophers...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#37; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,31,stream=0x92000;block=0x4D0;text=31,"[""stream=0x92000;block=0x4D0;text=31""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","この任務には、『賢者達』のネットワークが必要になる。
+","それを使う以上、どちらに転んでも何らかの代償を支払わ
+なければならない…。
+","それを、誰よりもわかっていたんだと思う。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而一旦她那么做了，
+无论结果如何，都要付出代价。","[""而一旦她那么做了，\n无论结果如何，都要付出代价。""]","And once she did that, whatever came of it,
+there'd be a price to pay.
+","[""And once she did that, whatever came of it,\nthere'd be a price to pay.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#38; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,32,stream=0x92000;block=0x4D0;text=32,"[""stream=0x92000;block=0x4D0;text=32""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","それを使う以上、どちらに転んでも何らかの代償を支払わ
+なければならない…。
+","それを、誰よりもわかっていたんだと思う。
+","だからどうか、悔やまないで。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没有人比她更明白这一点。,"[""没有人比她更明白这一点。""]","No one understood that better than her.
+","[""No one understood that better than her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#39; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,33,stream=0x92000;block=0x4D0;text=33,"[""stream=0x92000;block=0x4D0;text=33""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","それを、誰よりもわかっていたんだと思う。
+","だからどうか、悔やまないで。
+","ザ・ボスはこの写真を託す時、あなたに渡すかどうかは私
+に任せる、と言った。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以，求你了，Snake，放下吧。,"[""所以，求你了，Snake，放下吧。""]","So please, Snake, let it go.
+","[""So please, Snake, let it go.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#40; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,34,stream=0x92000;block=0x4D0;text=34,"[""stream=0x92000;block=0x4D0;text=34""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","だからどうか、悔やまないで。
+","ザ・ボスはこの写真を託す時、あなたに渡すかどうかは私
+に任せる、と言った。
+","彼女もきっと迷ってたんだと思う。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她把照片交给我的时候，
+把是否转交给你的决定权留给了我。","[""她把照片交给我的时候，\n把是否转交给你的决定权留给了我。""]","When she gave me the photo, she left me to
+decide whether or not to pass it along to you.
+","[""When she gave me the photo, she left me to\ndecide whether or not to pass it along to you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#41; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,35,stream=0x92000;block=0x4D0;text=35,"[""stream=0x92000;block=0x4D0;text=35""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ザ・ボスはこの写真を託す時、あなたに渡すかどうかは私
+に任せる、と言った。
+","彼女もきっと迷ってたんだと思う。
+","あなたが自分を責めるだろうとわかっていたから。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我知道她为此很纠结——就像我一样。,"[""我知道她为此很纠结——就像我一样。""]","I know she was torn about it - just as I was.
+","[""I know she was torn about it - just as I was.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#42; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,36,stream=0x92000;block=0x4D0;text=36,"[""stream=0x92000;block=0x4D0;text=36""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","彼女もきっと迷ってたんだと思う。
+","あなたが自分を責めるだろうとわかっていたから。
+","なぜザ・ボスがこの写真をずっと持っていたのか。それは
+わからない。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她知道你很可能会自责。,"[""她知道你很可能会自责。""]","She knew you'd probably blame yourself.
+","[""She knew you'd probably blame yourself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#43; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,37,stream=0x92000;block=0x4D0;text=37,"[""stream=0x92000;block=0x4D0;text=37""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","あなたが自分を責めるだろうとわかっていたから。
+","なぜザ・ボスがこの写真をずっと持っていたのか。それは
+わからない。
+","存在を消された恨みを忘れないため？　違う、彼女はそん
+な人じゃない。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她为什么把它保存了那么久？
+这我说不上来。","[""她为什么把它保存了那么久？\n这我说不上来。""]","Why did she hold on to it for so long? That I can't
+say.
+","[""Why did she hold on to it for so long? That I can't\nsay.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#44; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,38,stream=0x92000;block=0x4D0;text=38,"[""stream=0x92000;block=0x4D0;text=38""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","なぜザ・ボスがこの写真をずっと持っていたのか。それは
+わからない。
+","存在を消された恨みを忘れないため？　違う、彼女はそん
+な人じゃない。
+","きっと彼女はこう伝えたかったんだと思う。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为了提醒自己被人抹去有多痛？
+她不是那种人。","[""为了提醒自己被人抹去有多痛？\n她不是那种人。""]","To remind her of how much it hurt to be erased?
+She wasn't that kind of person.
+","[""To remind her of how much it hurt to be erased?\nShe wasn't that kind of person.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#45; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,39,stream=0x92000;block=0x4D0;text=39,"[""stream=0x92000;block=0x4D0;text=39""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","存在を消された恨みを忘れないため？　違う、彼女はそん
+な人じゃない。
+","きっと彼女はこう伝えたかったんだと思う。
+","自分は生ける亡者として存在を消された。でも、あなたに
+だけは真実を知っていてほしい、と。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，我觉得她是想把它
+当作留给你的信息。","[""不，我觉得她是想把它\n当作留给你的信息。""]","No, I think she meant it to be a message to you.
+","[""No, I think she meant it to be a message to you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#46; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,40,stream=0x92000;block=0x4D0;text=40,"[""stream=0x92000;block=0x4D0;text=40""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","きっと彼女はこう伝えたかったんだと思う。
+","自分は生ける亡者として存在を消された。でも、あなたに
+だけは真実を知っていてほしい、と。
+","スネーク、もう気付いていると思う。10年間渡せなかった
+写真を今届ける気になったのは、偶然じゃない。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她的身份——她的人生——被人夺走了。但偏偏是你，她最想让你知道真相。,"[""她的身份——她的人生——被人夺走了。但偏偏是你，她最想让你知道真相。""]","She had her identity - her life - taken away.
+But she wanted you, of all people, to know the
+truth.
+","[""She had her identity - her life - taken away.\nBut she wanted you, of all people, to know the\ntruth.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x924D0; ENG blocks=0x11DC60,0x11DC60; ENG source rows=0x11DC60#47,0x11DC60#48; block_semantic_score=0.143923."
+BRIEFING_FILES_BLOCK_0924D0,41,stream=0x92000;block=0x4D0;text=41,"[""stream=0x92000;block=0x4D0;text=41""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","自分は生ける亡者として存在を消された。でも、あなたに
+だけは真実を知っていてほしい、と。
+","スネーク、もう気付いていると思う。10年間渡せなかった
+写真を今届ける気になったのは、偶然じゃない。
+","あなたがある決断をした、って話を聞いたから…。
+",[],,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我到现在才把隐瞒了这么久的
+东西交给你，这不是偶然。","[""但我到现在才把隐瞒了这么久的\n东西交给你，这不是偶然。""]","but it's no accident that I'm only now sending you
+something I've withheld for so long.
+","[""but it's no accident that I'm only now sending you\nsomething I've withheld for so long.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#50; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,42,stream=0x92000;block=0x4D0;text=42,"[""stream=0x92000;block=0x4D0;text=42""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","スネーク、もう気付いていると思う。10年間渡せなかった
+写真を今届ける気になったのは、偶然じゃない。
+","あなたがある決断をした、って話を聞いたから…。
+","もちろん、あなたとザ・ボスとは違う人間。私もあなたの
+決断を翻そうというつもりはない。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有小道消息告诉我，
+你最近做了一个重大决定…","[""有小道消息告诉我，\n你最近做了一个重大决定…""]","A little bird tells me you recently made a big
+decision...
+","[""A little bird tells me you recently made a big\ndecision...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#51; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,43,stream=0x92000;block=0x4D0;text=43,"[""stream=0x92000;block=0x4D0;text=43""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","あなたがある決断をした、って話を聞いたから…。
+","もちろん、あなたとザ・ボスとは違う人間。私もあなたの
+決断を翻そうというつもりはない。
+","ただ…彼女が何を見、何を感じたかを知ってほしかった。
+それだけ…。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你和The Boss是不同的人。我明白。我也不是要质疑你的决定。,"[""你和The Boss是不同的人。我明白。我也不是要质疑你的决定。""]","You and The Boss are different people. I
+understand that.
+And I'm not trying to second-guess you.
+","[""You and The Boss are different people. I\nunderstand that.\nAnd I'm not trying to second-guess you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x924D0; ENG blocks=0x11DC60,0x11DC60; ENG source rows=0x11DC60#52,0x11DC60#53; block_semantic_score=0.143923."
+BRIEFING_FILES_BLOCK_0924D0,44,stream=0x92000;block=0x4D0;text=44,"[""stream=0x92000;block=0x4D0;text=44""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","もちろん、あなたとザ・ボスとは違う人間。私もあなたの
+決断を翻そうというつもりはない。
+","ただ…彼女が何を見、何を感じたかを知ってほしかった。
+それだけ…。
+","だから、心に刻んで。彼女の軌跡を、忘れないでいて。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我…我只是想让你知道她看到了什么，
+她的感受。仅此而已。","[""我…我只是想让你知道她看到了什么，\n她的感受。仅此而已。""]","I... I simply wanted you to know what she saw. How
+she felt. That's all.
+","[""I... I simply wanted you to know what she saw. How\nshe felt. That's all.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#54; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,45,stream=0x92000;block=0x4D0;text=45,"[""stream=0x92000;block=0x4D0;text=45""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ただ…彼女が何を見、何を感じたかを知ってほしかった。
+それだけ…。
+","だから、心に刻んで。彼女の軌跡を、忘れないでいて。
+","この地上で彼女の真実を知る人間は、私とあなただけなの
+だから…。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"把它带在身边，Snake。把它深藏在
+心底。永远不要忘记她走过的路。","[""把它带在身边，Snake。把它深藏在\n心底。永远不要忘记她走过的路。""]","Keep it with you, Snake. Keep it deep inside. Don't
+ever forget the path she took.
+","[""Keep it with you, Snake. Keep it deep inside. Don't\never forget the path she took.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#55; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,46,stream=0x92000;block=0x4D0;text=46,"[""stream=0x92000;block=0x4D0;text=46""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","だから、心に刻んで。彼女の軌跡を、忘れないでいて。
+","この地上で彼女の真実を知る人間は、私とあなただけなの
+だから…。
+","ボス…。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"因为在这个世界上，
+道真相的就只有你和我了…","[""因为在这个世界上，\n道真相的就只有你和我了…""]","Because you and I are the only people on this
+earth who know the truth...
+","[""Because you and I are the only people on this\nearth who know the truth...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#56; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,47,stream=0x92000;block=0x4D0;text=47,"[""stream=0x92000;block=0x4D0;text=47""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","この地上で彼女の真実を知る人間は、私とあなただけなの
+だから…。
+","ボス…。
+","だが、それでも俺は…。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Boss…,"[""Boss…""]","Boss...
+","[""Boss...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#57; block_semantic_score=0.143923.
+BRIEFING_FILES_BLOCK_0924D0,48,stream=0x92000;block=0x4D0;text=48,"[""stream=0x92000;block=0x4D0;text=48""]",1,BRIEFING FILES,"[""stream=0x92000;block=0x4D0;block_file=0x924D0;text_base=0x925B4;capacity=4192""]","ボス…。
+","だが、それでも俺は…。
+",,[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对不起…但我不能…,"[""对不起…但我不能…""]","I'm sorry... But I can't...
+","[""I'm sorry... But I can't...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x924D0; ENG blocks=0x11DC60; ENG source rows=0x11DC60#58; block_semantic_score=0.143923.

@@ -1,0 +1,7 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_385460,0,stream=0x385000;block=0x460;text=0,"[""stream=0x385000;block=0x460;text=0""]",1,BRIEFING MISSION,"[""stream=0x385000;block=0x460;block_file=0x385460;text_base=0x385484;capacity=120""]",,"俺達のボスが沿岸の資材搬入施設付近区域に潜入し、
+そこにいた兵士を気絶させた。
+",,[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Boss已经潜入了沿海
+补给设施周边区域，","[""Boss已经潜入了沿海\n补给设施周边区域，""]","The Boss has infiltrated the area around
+the coastal supply facility
+","[""The Boss has infiltrated the area around\nthe coastal supply facility\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x385460; ENG blocks=0x397F00; ENG source rows=0x397F00#0; block_semantic_score=0.196687.

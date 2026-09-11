@@ -1,0 +1,150 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0552A0,0,stream=0x55000;block=0x2A0;text=0,"[""stream=0x55000;block=0x2A0;text=0""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]",,"ここに来る前は<R=高等研究企画局,ARPA>にいたのか。
+","ああ。当時仕事としてAIの研究ができそうなのはあそこぐ
+らいだったから。
+","[""<R=高等研究企画局,ARPA>""]",,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这么说，你来这里之前是在ARPA工作？,"[""这么说，你来这里之前是在ARPA工作？""]","So you were with ARPA before you came here,
+huh?
+","[""So you were with ARPA before you came here,\nhuh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#0; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,1,stream=0x55000;block=0x2A0;text=1,"[""stream=0x55000;block=0x2A0;text=1""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","ここに来る前は<R=高等研究企画局,ARPA>にいたのか。
+","ああ。当時仕事としてAIの研究ができそうなのはあそこぐ
+らいだったから。
+","その前は？
+",[],,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的。当时那真的是唯一能
+让我靠AI研究谋生的地方。","[""是的。当时那真的是唯一能\n让我靠AI研究谋生的地方。""]","Yes. Back then it was really the only place I could
+make a living from my AI research.
+","[""Yes. Back then it was really the only place I could\nmake a living from my AI research.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#1; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,2,stream=0x55000;block=0x2A0;text=2,"[""stream=0x55000;block=0x2A0;text=2""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","ああ。当時仕事としてAIの研究ができそうなのはあそこぐ
+らいだったから。
+","その前は？
+","私は元々、<R=アメリカ航空宇宙局,NASA>にいた。そこで彼女と知り
+合った。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那再之前呢？,"[""那再之前呢？""]","And before that?
+","[""And before that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#2; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,3,stream=0x55000;block=0x2A0;text=3,"[""stream=0x55000;block=0x2A0;text=3""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","その前は？
+","私は元々、<R=アメリカ航空宇宙局,NASA>にいた。そこで彼女と知り
+合った。
+","そしてボスを宇宙に…。
+","[""<R=アメリカ航空宇宙局,NASA>""]",,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我最初是在NASA。
+我就是在那里遇见她的。","[""我最初是在NASA。\n我就是在那里遇见她的。""]","I started out at NASA. That's where I met her.
+","[""I started out at NASA. That's where I met her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#3; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,4,stream=0x55000;block=0x2A0;text=4,"[""stream=0x55000;block=0x2A0;text=4""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","私は元々、<R=アメリカ航空宇宙局,NASA>にいた。そこで彼女と知り
+合った。
+","そしてボスを宇宙に…。
+","…そう。あの事件がきっかけで、私は航空宇宙工学から離
+れた。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当Boss进入太空的时候…,"[""当Boss进入太空的时候…""]","When Boss went into space...
+","[""When Boss went into space...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#4; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,5,stream=0x55000;block=0x2A0;text=5,"[""stream=0x55000;block=0x2A0;text=5""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","そしてボスを宇宙に…。
+","…そう。あの事件がきっかけで、私は航空宇宙工学から離
+れた。
+","生身の人間にとって、宇宙はあまりに危険な場所。だから
+私は、AIの早急な開発が必要だと感じた。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…是的。正是那次事件让
+我离开了航天工程领域。","[""…是的。正是那次事件让\n我离开了航天工程领域。""]","...Yes. It was that incident that turned me away
+from aerospace engineering.
+","[""...Yes. It was that incident that turned me away\nfrom aerospace engineering.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#5; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,6,stream=0x55000;block=0x2A0;text=6,"[""stream=0x55000;block=0x2A0;text=6""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","…そう。あの事件がきっかけで、私は航空宇宙工学から離
+れた。
+","生身の人間にとって、宇宙はあまりに危険な場所。だから
+私は、AIの早急な開発が必要だと感じた。
+","結局、その後はロケットの安全性も向上し、人類も月面ま
+で行ってしまったけど…。
+",[],,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以我才立刻感到有必要开发AI。,"[""所以我才立刻感到有必要开发AI。""]","That was why I felt an immediate need to develop
+AI.
+","[""That was why I felt an immediate need to develop\nAI.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#7; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,7,stream=0x55000;block=0x2A0;text=7,"[""stream=0x55000;block=0x2A0;text=7""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","生身の人間にとって、宇宙はあまりに危険な場所。だから
+私は、AIの早急な開発が必要だと感じた。
+","結局、その後はロケットの安全性も向上し、人類も月面ま
+で行ってしまったけど…。
+","いずれにしても冷戦の徒花だ。早い話、ロケットに核弾頭
+を積めば核ミサイルだから。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"结果后来火箭变得安全多了，
+人类也登上了月球表面…","[""结果后来火箭变得安全多了，\n人类也登上了月球表面…""]","As it turned out, rockets later became much safer,
+and mankind reached the surface of the moon...
+","[""As it turned out, rockets later became much safer,\nand mankind reached the surface of the moon...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#8; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,8,stream=0x55000;block=0x2A0;text=8,"[""stream=0x55000;block=0x2A0;text=8""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","結局、その後はロケットの安全性も向上し、人類も月面ま
+で行ってしまったけど…。
+","いずれにしても冷戦の徒花だ。早い話、ロケットに核弾頭
+を積めば核ミサイルだから。
+","ゆえに宇宙開発でイニシアチブを取ることは、軍事的な示
+威行為でもあった。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管怎样，那只是一场
+空洞的冷战胜利。说到底，核导弹不过是
+绑了个核弹头的火箭。","[""不管怎样，那只是一场\n空洞的冷战胜利。说到底，核导弹不过是\n绑了个核弹头的火箭。""]","In any event, it was a hollow Cold War victory.
+When you get down to it, a nuclear missile is just a
+rocket with a nuclear warhead strapped to it.
+","[""In any event, it was a hollow Cold War victory.\nWhen you get down to it, a nuclear missile is just a\nrocket with a nuclear warhead strapped to it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x552A0; ENG blocks=0xE3280,0xE3280; ENG source rows=0xE3280#9,0xE3280#10; block_semantic_score=0.210355."
+BRIEFING_FILES_BLOCK_0552A0,9,stream=0x55000;block=0x2A0;text=9,"[""stream=0x55000;block=0x2A0;text=9""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","いずれにしても冷戦の徒花だ。早い話、ロケットに核弾頭
+を積めば核ミサイルだから。
+","ゆえに宇宙開発でイニシアチブを取ることは、軍事的な示
+威行為でもあった。
+","その膨大な予算負担に米ソ両国は耐えられなかった。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"因此，在太空竞赛中抢占先机
+就等同于军事上的武力展示。","[""因此，在太空竞赛中抢占先机\n就等同于军事上的武力展示。""]","Thus, taking the initiative in the space race was
+tantamount to a military show of force.
+","[""Thus, taking the initiative in the space race was\ntantamount to a military show of force.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#11; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,10,stream=0x55000;block=0x2A0;text=10,"[""stream=0x55000;block=0x2A0;text=10""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","ゆえに宇宙開発でイニシアチブを取ることは、軍事的な示
+威行為でもあった。
+","その膨大な予算負担に米ソ両国は耐えられなかった。
+","そう。キューバ危機の衝撃やベトナム問題もあった。そし
+て<R=緊張緩和,デタント>…。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但预算压力太大，
+无论是华盛顿还是莫斯科都难以承受。","[""但预算压力太大，\n无论是华盛顿还是莫斯科都难以承受。""]","But the budgetary strain was too big for
+Washington or Moscow to handle.
+","[""But the budgetary strain was too big for\nWashington or Moscow to handle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#12; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,11,stream=0x55000;block=0x2A0;text=11,"[""stream=0x55000;block=0x2A0;text=11""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","その膨大な予算負担に米ソ両国は耐えられなかった。
+","そう。キューバ危機の衝撃やベトナム問題もあった。そし
+て<R=緊張緩和,デタント>…。
+","月面着陸でソ連を大きく引き離したアメリカは、72年でア
+ポロ計画を終了させる。
+","[""<R=緊張緩和,デタント>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，之后又有古巴导弹危机和
+越南战争。然后就迎来了缓和…","[""是啊，之后又有古巴导弹危机和\n越南战争。然后就迎来了缓和…""]","Yes, and then there was the Cuban Missile Crisis
+and the Vietnam War. And then came Détente...
+","[""Yes, and then there was the Cuban Missile Crisis\nand the Vietnam War. And then came Détente...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#13; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,12,stream=0x55000;block=0x2A0;text=12,"[""stream=0x55000;block=0x2A0;text=12""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","そう。キューバ危機の衝撃やベトナム問題もあった。そし
+て<R=緊張緩和,デタント>…。
+","月面着陸でソ連を大きく引き離したアメリカは、72年でア
+ポロ計画を終了させる。
+","同時期に<R=高等研究企画局,ARPA>は<R=国防高等研究企画局,DARPA>に改称され、
+組織も縮小した。
+",[],,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"美国凭借登月领先了苏联，
+在72年终止了阿波罗计划。","[""美国凭借登月领先了苏联，\n在72年终止了阿波罗计划。""]","Having leapt ahead of the Soviet Union with its
+moon landing, America shut down the Apollo
+program in '72.
+","[""Having leapt ahead of the Soviet Union with its\nmoon landing, America shut down the Apollo\nprogram in '72.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#14; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,13,stream=0x55000;block=0x2A0;text=13,"[""stream=0x55000;block=0x2A0;text=13""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","月面着陸でソ連を大きく引き離したアメリカは、72年でア
+ポロ計画を終了させる。
+","同時期に<R=高等研究企画局,ARPA>は<R=国防高等研究企画局,DARPA>に改称され、
+組織も縮小した。
+","AI研究の続行も困難になった。私にとってコールドマンの
+誘いは渡りに船だった。彼女のデータを集めさせることも
+できた。
+","[""<R=高等研究企画局,ARPA>"", ""<R=国防高等研究企画局,DARPA>""]",,,NOT_CHECKED,126,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大约就在那时，ARPA遭到缩编并
+更名为DARPA，‘D’代表‘国防’。","[""大约就在那时，ARPA遭到缩编并\n更名为DARPA，‘D’代表‘国防’。""]","It was around then that ARPA was downsized and
+renamed DARPA, the ""D"" standing for ""defense.""
+","[""It was around then that ARPA was downsized and\nrenamed DARPA, the \""D\"" standing for \""defense.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#15; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,14,stream=0x55000;block=0x2A0;text=14,"[""stream=0x55000;block=0x2A0;text=14""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","同時期に<R=高等研究企画局,ARPA>は<R=国防高等研究企画局,DARPA>に改称され、
+組織も縮小した。
+","AI研究の続行も困難になった。私にとってコールドマンの
+誘いは渡りに船だった。彼女のデータを集めさせることも
+できた。
+","その結果が今回の事件か。
+",[],,,NOT_CHECKED,170,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当时我的AI研究几乎没有前景，
+Coldman的邀请简直是天赐良机。这也是个让他们收集她数据的机会。","[""当时我的AI研究几乎没有前景，\nColdman的邀请简直是天赐良机。这也是个让他们收集她数据的机会。""]","With few prospects for continuing my AI research,
+Coldman's invitation was a godsend.
+It was also a chance to have them collect data on
+her.
+","[""With few prospects for continuing my AI research,\nColdman's invitation was a godsend.\nIt was also a chance to have them collect data on\nher.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x552A0; ENG blocks=0xE3280,0xE3280; ENG source rows=0xE3280#16,0xE3280#17; block_semantic_score=0.210355."
+BRIEFING_FILES_BLOCK_0552A0,15,stream=0x55000;block=0x2A0;text=15,"[""stream=0x55000;block=0x2A0;text=15""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","AI研究の続行も困難になった。私にとってコールドマンの
+誘いは渡りに船だった。彼女のデータを集めさせることも
+できた。
+","その結果が今回の事件か。
+","だが私達は、彼女に平和の尊さを教えられた。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,最终的结果就是这团乱局。,"[""最终的结果就是这团乱局。""]","The end result being this mess.
+","[""The end result being this mess.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#18; block_semantic_score=0.210355.
+BRIEFING_FILES_BLOCK_0552A0,16,stream=0x55000;block=0x2A0;text=16,"[""stream=0x55000;block=0x2A0;text=16""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","その結果が今回の事件か。
+","だが私達は、彼女に平和の尊さを教えられた。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我们确实从她身上学到了
+宝贵的东西——和平的崇高。","[""但我们确实从她身上学到了\n宝贵的东西——和平的崇高。""]","But we did learn something valuable from her - the
+nobility of peace.
+","[""But we did learn something valuable from her - the\nnobility of peace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x552A0; ENG blocks=0xE3280; ENG source rows=0xE3280#19; block_semantic_score=0.210355.

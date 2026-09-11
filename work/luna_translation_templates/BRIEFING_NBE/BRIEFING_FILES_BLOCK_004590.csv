@@ -1,0 +1,79 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_004590,0,stream=0x4000;block=0x590;text=0,"[""stream=0x4000;block=0x590;text=0""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]",,"確かに<R=相互確証破壊,MAD>による平和には、事故による危険が付
+きまとう。
+","機械の誤作動なんかで世界が終わられちゃ困る。
+","[""<R=相互確証破壊,MAD>""]",,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你说得对—即使和平是靠
+相互确保摧毁来保障的，","[""你说得对—即使和平是靠\n相互确保摧毁来保障的，""]","You're right - even with peace guaranteed by MAD,
+","[""You're right - even with peace guaranteed by MAD,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#0; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,1,stream=0x4000;block=0x590;text=1,"[""stream=0x4000;block=0x590;text=1""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","確かに<R=相互確証破壊,MAD>による平和には、事故による危険が付
+きまとう。
+","機械の誤作動なんかで世界が終わられちゃ困る。
+","とはいえ、核抑止のおかげで世界大戦はあれ以降起きてな
+いんだ。ずいぶんと平和になったじゃないか。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没人希望世界因为某台
+机器出故障而毁灭。","[""没人希望世界因为某台\n机器出故障而毁灭。""]","Nobody wants the world to end on account of
+some machine's malfunctioning.
+","[""Nobody wants the world to end on account of\nsome machine's malfunctioning.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#2; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,2,stream=0x4000;block=0x590;text=2,"[""stream=0x4000;block=0x590;text=2""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","機械の誤作動なんかで世界が終わられちゃ困る。
+","とはいえ、核抑止のおかげで世界大戦はあれ以降起きてな
+いんだ。ずいぶんと平和になったじゃないか。
+","俺達とは無縁だがな。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另一方面，多亏了威慑力，自1945
+年以来我们再没爆发过世界大战。","[""另一方面，多亏了威慑力，自1945\n年以来我们再没爆发过世界大战。""]","On the other hand, thanks to deterrence, we
+haven't had a world war since 1945.
+","[""On the other hand, thanks to deterrence, we\nhaven't had a world war since 1945.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#3; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,3,stream=0x4000;block=0x590;text=3,"[""stream=0x4000;block=0x590;text=3""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","とはいえ、核抑止のおかげで世界大戦はあれ以降起きてな
+いんだ。ずいぶんと平和になったじゃないか。
+","俺達とは無縁だがな。
+","核開発競争だの宇宙開発競争だので冷戦などと言うが、武
+力衝突がないならむしろ世界は平和というべきだろう。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过这跟我们没什么关系。,"[""不过这跟我们没什么关系。""]","Not that it matters to us.
+","[""Not that it matters to us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#5; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,4,stream=0x4000;block=0x590;text=4,"[""stream=0x4000;block=0x590;text=4""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","俺達とは無縁だがな。
+","核開発競争だの宇宙開発競争だので冷戦などと言うが、武
+力衝突がないならむしろ世界は平和というべきだろう。
+","戦争がなくなったわけじゃない。朝鮮戦争やベトナム戦争
+を見てみろ。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有人指着核军备竞赛和
+太空竞赛，管这叫冷战。要我说，只要他们不互相开火，
+那就算是世界和平了吧？","[""有人指着核军备竞赛和\n太空竞赛，管这叫冷战。要我说，只要他们不互相开火，\n那就算是世界和平了吧？""]","People point at the nuclear arms and space races
+and call it a Cold War.
+I say if they're not shooting at each other, why not
+call it world peace?
+","[""People point at the nuclear arms and space races\nand call it a Cold War.\nI say if they're not shooting at each other, why not\ncall it world peace?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4590; ENG blocks=0x98B30,0x98B30; ENG source rows=0x98B30#6,0x98B30#7; block_semantic_score=0.156799."
+BRIEFING_FILES_BLOCK_004590,5,stream=0x4000;block=0x590;text=5,"[""stream=0x4000;block=0x590;text=5""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","核開発競争だの宇宙開発競争だので冷戦などと言うが、武
+力衝突がないならむしろ世界は平和というべきだろう。
+","戦争がなくなったわけじゃない。朝鮮戦争やベトナム戦争
+を見てみろ。
+","それはそうだが、相対的な話さ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这不代表战争消失了。
+看看朝鲜，看看越南。","[""这不代表战争消失了。\n看看朝鲜，看看越南。""]","Doesn't mean war is gone. Look at Korea. Look at
+Vietnam.
+","[""Doesn't mean war is gone. Look at Korea. Look at\nVietnam.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#8; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,6,stream=0x4000;block=0x590;text=6,"[""stream=0x4000;block=0x590;text=6""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","戦争がなくなったわけじゃない。朝鮮戦争やベトナム戦争
+を見てみろ。
+","それはそうだが、相対的な話さ。
+","それに、戦争が根絶されたら俺たちが困る。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，是啊，不过我说的是相对而言。,"[""嗯，是啊，不过我说的是相对而言。""]","Well, yeah, but I'm talking in relative terms here.
+","[""Well, yeah, but I'm talking in relative terms here.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#9; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,7,stream=0x4000;block=0x590;text=7,"[""stream=0x4000;block=0x590;text=7""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","それはそうだが、相対的な話さ。
+","それに、戦争が根絶されたら俺たちが困る。
+","…俺たちは戦争屋じゃない。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"再说了，要是战争彻底消失了，
+我们可就惨了。","[""再说了，要是战争彻底消失了，\n我们可就惨了。""]","Besides, if war died out completely we'd be SOL.
+","[""Besides, if war died out completely we'd be SOL.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#10; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,8,stream=0x4000;block=0x590;text=8,"[""stream=0x4000;block=0x590;text=8""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","それに、戦争が根絶されたら俺たちが困る。
+","…俺たちは戦争屋じゃない。
+","とはいえ、平和な世界にも生きられない。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我们不是好战分子。,"[""…我们不是好战分子。""]","...We're not warmongers.
+","[""...We're not warmongers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#11; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,9,stream=0x4000;block=0x590;text=9,"[""stream=0x4000;block=0x590;text=9""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","…俺たちは戦争屋じゃない。
+","とはいえ、平和な世界にも生きられない。
+","それはそうなんだが…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可我们又没法在一个
+和平的世界里生存下去。","[""可我们又没法在一个\n和平的世界里生存下去。""]","And yet we can't survive in a world that's at peace.
+","[""And yet we can't survive in a world that's at peace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#12; block_semantic_score=0.156799.
+BRIEFING_FILES_BLOCK_004590,10,stream=0x4000;block=0x590;text=10,"[""stream=0x4000;block=0x590;text=10""]",1,BRIEFING FILES,"[""stream=0x4000;block=0x590;block_file=0x4590;text_base=0x45DC;capacity=848""]","とはいえ、平和な世界にも生きられない。
+","それはそうなんだが…。
+",,[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你说得有道理…,"[""你说得有道理…""]","You've got a point...
+","[""You've got a point...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4590; ENG blocks=0x98B30; ENG source rows=0x98B30#13; block_semantic_score=0.156799.

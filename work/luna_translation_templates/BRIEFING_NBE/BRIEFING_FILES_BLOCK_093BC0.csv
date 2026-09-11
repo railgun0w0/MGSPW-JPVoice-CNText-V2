@@ -1,0 +1,130 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_093BC0,0,stream=0x93000;block=0xBC0;text=0,"[""stream=0x93000;block=0xBC0;text=0""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]",,"…私です。
+","ええ、順調です。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…是我。,"[""…是我。""]","...It's me.
+","[""...It's me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#0; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,1,stream=0x93000;block=0xBC0;text=1,"[""stream=0x93000;block=0xBC0;text=1""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","…私です。
+","ええ、順調です。
+","はい、<R=BIGBOSS,ビッグボス>にも真実は…。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,顺利，自然。,"[""顺利，自然。""]","Smoothly, naturally.
+","[""Smoothly, naturally.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#1; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,2,stream=0x93000;block=0xBC0;text=2,"[""stream=0x93000;block=0xBC0;text=2""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ええ、順調です。
+","はい、<R=BIGBOSS,ビッグボス>にも真実は…。
+","ええ、<R=本部,ラングレー>もまだ判断を決めかねているようです。
+","[""<R=BIGBOSS,ビッグボス>""]",,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不，Big Boss不知道真相…,"[""不，Big Boss不知道真相…""]","No, Big Boss doesn't know the truth...
+","[""No, Big Boss doesn't know the truth...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#2; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,3,stream=0x93000;block=0xBC0;text=3,"[""stream=0x93000;block=0xBC0;text=3""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","はい、<R=BIGBOSS,ビッグボス>にも真実は…。
+","ええ、<R=本部,ラングレー>もまだ判断を決めかねているようです。
+","それよりも<R=身内,コールドマン>の後始末に大変なようです。
+","[""<R=本部,ラングレー>""]",,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不，兰利还没决定要怎么做。,"[""不，兰利还没决定要怎么做。""]","No, Langley hasn't decided what to do yet.
+","[""No, Langley hasn't decided what to do yet.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#3; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,4,stream=0x93000;block=0xBC0;text=4,"[""stream=0x93000;block=0xBC0;text=4""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ええ、<R=本部,ラングレー>もまだ判断を決めかねているようです。
+","それよりも<R=身内,コールドマン>の後始末に大変なようです。
+","ええ、<R=KGB,ルビヤンカ>の方も同じく…。
+","[""<R=身内,コールドマン>""]",,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们光收拾自己的烂摊子就够忙了。,"[""他们光收拾自己的烂摊子就够忙了。""]","Their hands are full with their own mess.
+","[""Their hands are full with their own mess.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#4; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,5,stream=0x93000;block=0xBC0;text=5,"[""stream=0x93000;block=0xBC0;text=5""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","それよりも<R=身内,コールドマン>の後始末に大変なようです。
+","ええ、<R=KGB,ルビヤンカ>の方も同じく…。
+","はい、他の目も監視を続行していますが…まだ彼らが接触
+した形跡はありません。
+","[""<R=KGB,ルビヤンカ>""]",,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错，卢比扬卡也是一样。,"[""没错，卢比扬卡也是一样。""]","True, Lubyanka is in the same boat...
+","[""True, Lubyanka is in the same boat...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#5; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,6,stream=0x93000;block=0xBC0;text=6,"[""stream=0x93000;block=0xBC0;text=6""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ええ、<R=KGB,ルビヤンカ>の方も同じく…。
+","はい、他の目も監視を続行していますが…まだ彼らが接触
+した形跡はありません。
+","ええ、そうです。非正規で自由に使える軍隊です。今すぐ、
+潰すよりも彼らを利用する方が得だという判断でしょう。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的，其他眼睛仍在盯着，
+但至今没有接触的迹象。","[""是的，其他眼睛仍在盯着，\n但至今没有接触的迹象。""]","Yes, other eyes continue to watch, but no sign of
+contact so far.
+","[""Yes, other eyes continue to watch, but no sign of\ncontact so far.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#6; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,7,stream=0x93000;block=0xBC0;text=7,"[""stream=0x93000;block=0xBC0;text=7""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","はい、他の目も監視を続行していますが…まだ彼らが接触
+した形跡はありません。
+","ええ、そうです。非正規で自由に使える軍隊です。今すぐ、
+潰すよりも彼らを利用する方が得だという判断でしょう。
+","ええ…アンゴラあたりで候補が…。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…正是。一支非国家军队，
+可以任由他们随意使用。","[""…正是。一支非国家军队，\n可以任由他们随意使用。""]","...Exactly. It's a non-state army to use however
+they want.
+","[""...Exactly. It's a non-state army to use however\nthey want.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#7; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,8,stream=0x93000;block=0xBC0;text=8,"[""stream=0x93000;block=0xBC0;text=8""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ええ、そうです。非正規で自由に使える軍隊です。今すぐ、
+潰すよりも彼らを利用する方が得だという判断でしょう。
+","ええ…アンゴラあたりで候補が…。
+","それから、あのAIの検証も完了しています…。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,确实有…安哥拉附近有一个地点…,"[""确实有…安哥拉附近有一个地点…""]","Indeed they have... There's a site near Angola...
+","[""Indeed they have... There's a site near Angola...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#10; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,9,stream=0x93000;block=0xBC0;text=9,"[""stream=0x93000;block=0xBC0;text=9""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ええ…アンゴラあたりで候補が…。
+","それから、あのAIの検証も完了しています…。
+","ええ、そうですね。所詮、機械は機械。シギントの言うと
+おりでした。考え方を変えた方がよさそうです。
+",[],,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且我们也已经充分验证了AI…,"[""而且我们也已经充分验证了AI…""]","And we've fully validated the AI as well...
+","[""And we've fully validated the AI as well...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#11; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,10,stream=0x93000;block=0xBC0;text=10,"[""stream=0x93000;block=0xBC0;text=10""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","それから、あのAIの検証も完了しています…。
+","ええ、そうですね。所詮、機械は機械。シギントの言うと
+おりでした。考え方を変えた方がよさそうです。
+","やはり機械は高度な情報処理に特化させるべきです。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"同意。说到底，机器终究只是机器。Sigint说得对。
+看来是时候换个做法了。","[""同意。说到底，机器终究只是机器。Sigint说得对。\n看来是时候换个做法了。""]","Agreed. In the end, a machine is just that: a
+machine.
+Sigint was right. It seems it's time for a change in
+approach.
+","[""Agreed. In the end, a machine is just that: a\nmachine.\nSigint was right. It seems it's time for a change in\napproach.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x93BC0; ENG blocks=0x11F180,0x11F180; ENG source rows=0x11F180#12,0x11F180#13; block_semantic_score=0.163239."
+BRIEFING_FILES_BLOCK_093BC0,11,stream=0x93000;block=0xBC0;text=11,"[""stream=0x93000;block=0xBC0;text=11""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ええ、そうですね。所詮、機械は機械。シギントの言うと
+おりでした。考え方を変えた方がよさそうです。
+","やはり機械は高度な情報処理に特化させるべきです。
+","はい…わかりました。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,机器最适合专精于高级数据处理。,"[""机器最适合专精于高级数据处理。""]","Machines are best suited to specialize in high-level
+data processing.
+","[""Machines are best suited to specialize in high-level\ndata processing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#14; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,12,stream=0x93000;block=0xBC0;text=12,"[""stream=0x93000;block=0xBC0;text=12""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","やはり機械は高度な情報処理に特化させるべきです。
+","はい…わかりました。
+","それと、例の<R=“息子たち”,バックアッププラン>は…？
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是…当然。,"[""是…当然。""]","Yes... Of course.
+","[""Yes... Of course.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#15; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,13,stream=0x93000;block=0xBC0;text=13,"[""stream=0x93000;block=0xBC0;text=13""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","はい…わかりました。
+","それと、例の<R=“息子たち”,バックアッププラン>は…？
+","なるほど、2歳の誕生日を…。
+","[""<R=“息子たち”,バックアッププラン>""]",,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说到这个，那些
+“孩子”们有消息了吗…？","[""说到这个，那些\n“孩子”们有消息了吗…？""]","Speaking of which, any news on the ""sons""...?
+","[""Speaking of which, any news on the \""sons\""...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#16; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,14,stream=0x93000;block=0xBC0;text=14,"[""stream=0x93000;block=0xBC0;text=14""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","それと、例の<R=“息子たち”,バックアッププラン>は…？
+","なるほど、2歳の誕生日を…。
+","…しかし、あくまでも保険なのですよね？
+",[],,,NOT_CHECKED,41,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,已经有两个了…真的…,"[""已经有两个了…真的…""]","Two already... Really...
+","[""Two already... Really...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#17; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,15,stream=0x93000;block=0xBC0;text=15,"[""stream=0x93000;block=0xBC0;text=15""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","なるほど、2歳の誕生日を…。
+","…しかし、あくまでも保険なのですよね？
+","ふむふむ…なるほど、そいつは…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…但他们严格来说只是
+一份保险，对吧？","[""…但他们严格来说只是\n一份保险，对吧？""]","...But they're strictly an insurance policy, yes?
+","[""...But they're strictly an insurance policy, yes?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#18; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,16,stream=0x93000;block=0xBC0;text=16,"[""stream=0x93000;block=0xBC0;text=16""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","…しかし、あくまでも保険なのですよね？
+","ふむふむ…なるほど、そいつは…。
+","<R=BIGBOSS,ビッグボス>がどう出るか…。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯…就是这么个打算…,"[""嗯…就是这么个打算…""]","Mmmmm... So that's the idea...
+","[""Mmmmm... So that's the idea...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#19; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,17,stream=0x93000;block=0xBC0;text=17,"[""stream=0x93000;block=0xBC0;text=17""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ふむふむ…なるほど、そいつは…。
+","<R=BIGBOSS,ビッグボス>がどう出るか…。
+","ええ、でも私はビジネスにしか興味はありません。
+","[""<R=BIGBOSS,ビッグボス>""]",,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我很好奇Big Boss会作何反应…,"[""我很好奇Big Boss会作何反应…""]","I wonder how Big Boss will respond...
+","[""I wonder how Big Boss will respond...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#20; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,18,stream=0x93000;block=0xBC0;text=18,"[""stream=0x93000;block=0xBC0;text=18""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","<R=BIGBOSS,ビッグボス>がどう出るか…。
+","ええ、でも私はビジネスにしか興味はありません。
+","何度も言うように、私はあなたの敵でも味方でもない。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是的。但我只关心生意层面。,"[""是的。但我只关心生意层面。""]","Yes. But I'm only interested in the business angle.
+","[""Yes. But I'm only interested in the business angle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#21; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,19,stream=0x93000;block=0xBC0;text=19,"[""stream=0x93000;block=0xBC0;text=19""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ええ、でも私はビジネスにしか興味はありません。
+","何度も言うように、私はあなたの敵でも味方でもない。
+","ただのビジネス・パートナーです。それをお忘れなく。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就像我之前说过的，
+我既不是敌人，也不是盟友。","[""就像我之前说过的，\n我既不是敌人，也不是盟友。""]","Like I said before, I'm neither an enemy nor an ally.
+","[""Like I said before, I'm neither an enemy nor an ally.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#22; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,20,stream=0x93000;block=0xBC0;text=20,"[""stream=0x93000;block=0xBC0;text=20""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","何度も言うように、私はあなたの敵でも味方でもない。
+","ただのビジネス・パートナーです。それをお忘れなく。
+","では…また。親愛なる<R=ゼロ,CIPHER>。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我只是个生意伙伴。别忘了这一点。,"[""我只是个生意伙伴。别忘了这一点。""]","I'm merely a business partner. Don't forget it.
+","[""I'm merely a business partner. Don't forget it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#23; block_semantic_score=0.163239.
+BRIEFING_FILES_BLOCK_093BC0,21,stream=0x93000;block=0xBC0;text=21,"[""stream=0x93000;block=0xBC0;text=21""]",1,BRIEFING FILES,"[""stream=0x93000;block=0xBC0;block_file=0x93BC0;text_base=0x93C38;capacity=1540""]","ただのビジネス・パートナーです。それをお忘れなく。
+","では…また。親愛なる<R=ゼロ,CIPHER>。
+",,"[""<R=ゼロ,CIPHER>""]",,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我亲爱的Zero（CIPHER）。,"[""我亲爱的Zero（CIPHER）。""]","my dear Zero (CIPHER).
+","[""my dear Zero (CIPHER).\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x93BC0; ENG blocks=0x11F180; ENG source rows=0x11F180#25; block_semantic_score=0.163239.

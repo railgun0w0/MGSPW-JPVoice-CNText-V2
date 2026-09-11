@@ -1,0 +1,80 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04B950,0,stream=0x4B000;block=0x950;text=0,"[""stream=0x4B000;block=0x950;text=0""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]",,"上陸したアンとメアリーは、地上を走り回る小型の恐竜も
+目撃したらしい。
+","それがランポスか？
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"安妮和玛丽还看到岛上
+到处跑的小恐龙。","[""安妮和玛丽还看到岛上\n到处跑的小恐龙。""]","Anne and Mary also saw little dinosaurs running
+around the island.
+","[""Anne and Mary also saw little dinosaurs running\naround the island.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#0; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,1,stream=0x4B000;block=0x950;text=1,"[""stream=0x4B000;block=0x950;text=1""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","上陸したアンとメアリーは、地上を走り回る小型の恐竜も
+目撃したらしい。
+","それがランポスか？
+","そうさ。小型だけにすばしこいけど、銃があれば怖れるほ
+どの相手じゃなかったみたいだな。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,蓝速龙？,"[""蓝速龙？""]","Velocipreys?
+","[""Velocipreys?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#1; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,2,stream=0x4B000;block=0x950;text=2,"[""stream=0x4B000;block=0x950;text=2""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","それがランポスか？
+","そうさ。小型だけにすばしこいけど、銃があれば怖れるほ
+どの相手じゃなかったみたいだな。
+","ただ、一体一体は大したことなくても、囲まれると危険だ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。不出所料，它们非常敏捷——
+但还不是枪的对手。","[""没错。不出所料，它们非常敏捷——\n但还不是枪的对手。""]","Yup. As you'd expect they're very nimble - but no
+match for a firearm.
+","[""Yup. As you'd expect they're very nimble - but no\nmatch for a firearm.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#2; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,3,stream=0x4B000;block=0x950;text=3,"[""stream=0x4B000;block=0x950;text=3""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","そうさ。小型だけにすばしこいけど、銃があれば怖れるほ
+どの相手じゃなかったみたいだな。
+","ただ、一体一体は大したことなくても、囲まれると危険だ。
+","そうだろうな。戦闘において、数の優位を覆すのは並大抵
+のことじゃない。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过，你不会想被它们包围的。,"[""不过，你不会想被它们包围的。""]","You wouldn't want to get surrounded by them,
+though.
+","[""You wouldn't want to get surrounded by them,\nthough.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#3; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,4,stream=0x4B000;block=0x950;text=4,"[""stream=0x4B000;block=0x950;text=4""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","ただ、一体一体は大したことなくても、囲まれると危険だ。
+","そうだろうな。戦闘において、数の優位を覆すのは並大抵
+のことじゃない。
+","うん。だから、あらかじめ囲まれないように用心するのが
+ベストだと思う。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那当然。没人想在战斗中寡不敌众。,"[""那当然。没人想在战斗中寡不敌众。""]","I'll bet. Nobody wants to be outnumbered in battle.
+","[""I'll bet. Nobody wants to be outnumbered in battle.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#4; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,5,stream=0x4B000;block=0x950;text=5,"[""stream=0x4B000;block=0x950;text=5""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","そうだろうな。戦闘において、数の優位を覆すのは並大抵
+のことじゃない。
+","うん。だから、あらかじめ囲まれないように用心するのが
+ベストだと思う。
+","そうしよう。単独潜入では隠密行動が原則だからな。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对。最好的办法就是
+确保它们无法包围你。","[""对。最好的办法就是\n确保它们无法包围你。""]","Right. Your best move would be to make sure they
+cannot encircle you.
+","[""Right. Your best move would be to make sure they\ncannot encircle you.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#5; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,6,stream=0x4B000;block=0x950;text=6,"[""stream=0x4B000;block=0x950;text=6""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","うん。だから、あらかじめ囲まれないように用心するのが
+ベストだと思う。
+","そうしよう。単独潜入では隠密行動が原則だからな。
+","だが戦闘では不利だとしても、潜入に関しては単独ならで
+はのアドバンテージがある。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，潜行是所有单人潜入任务的基础…,"[""嗯，潜行是所有单人潜入任务的基础…""]","Well, stealth is the basis of all solo sneaking
+missions...
+","[""Well, stealth is the basis of all solo sneaking\nmissions...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#6; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,7,stream=0x4B000;block=0x950;text=7,"[""stream=0x4B000;block=0x950;text=7""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","そうしよう。単独潜入では隠密行動が原則だからな。
+","だが戦闘では不利だとしても、潜入に関しては単独ならで
+はのアドバンテージがある。
+","さすがボス。アドバイスなんて要らなそうだな。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,虽然这样会让战斗更艰难，但独自行动在渗透时也有优势。,"[""虽然这样会让战斗更艰难，但独自行动在渗透时也有优势。""]","While it makes battle tougher,
+working alone has its advantages when it comes to
+infiltration.
+","[""While it makes battle tougher,\nworking alone has its advantages when it comes to\ninfiltration.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x4B950; ENG blocks=0xD7560,0xD7560; ENG source rows=0xD7560#7,0xD7560#8; block_semantic_score=0.088292."
+BRIEFING_FILES_BLOCK_04B950,8,stream=0x4B000;block=0x950;text=8,"[""stream=0x4B000;block=0x950;text=8""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","だが戦闘では不利だとしても、潜入に関しては単独ならで
+はのアドバンテージがある。
+","さすがボス。アドバイスなんて要らなそうだな。
+","見直したか？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这就是你能当老大的原因，
+Boss！你不需要我的建议。","[""这就是你能当老大的原因，\nBoss！你不需要我的建议。""]","That's what makes you the boss, Boss! You don't
+need any advice from me.
+","[""That's what makes you the boss, Boss! You don't\nneed any advice from me.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#9; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,9,stream=0x4B000;block=0x950;text=9,"[""stream=0x4B000;block=0x950;text=9""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","さすがボス。アドバイスなんて要らなそうだな。
+","見直したか？
+","うん…。でも、気をつけてね…。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对老手来说还不赖吧，Chico？,"[""对老手来说还不赖吧，Chico？""]","Not bad for an old-timer, eh Chico?
+","[""Not bad for an old-timer, eh Chico?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#10; block_semantic_score=0.088292.
+BRIEFING_FILES_BLOCK_04B950,10,stream=0x4B000;block=0x950;text=10,"[""stream=0x4B000;block=0x950;text=10""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0x950;block_file=0x4B950;text_base=0x4B99C;capacity=888""]","見直したか？
+","うん…。でも、気をつけてね…。
+",,[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不，是相当不错。不过，还是要小心。,"[""不，是相当不错。不过，还是要小心。""]","Nope. Still, be careful.
+","[""Nope. Still, be careful.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4B950; ENG blocks=0xD7560; ENG source rows=0xD7560#11; block_semantic_score=0.088292.

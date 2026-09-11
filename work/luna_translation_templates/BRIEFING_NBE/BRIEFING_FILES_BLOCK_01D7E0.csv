@@ -1,0 +1,65 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01D7E0,0,stream=0x1D000;block=0x7E0;text=0,"[""stream=0x1D000;block=0x7E0;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]",,"これは<R= 狙撃 ,スナイピング>ミッションだ。スナイパーライフルを忘れず
+に持っていってくれよ。
+","スナイパーライフルを構えることでスコープをのぞき込め
+る。
+","[""<R= 狙撃 ,スナイピング>""]",,,NOT_CHECKED,135,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这是个狙击任务，
+别忘了带上你的狙击步枪。","[""这是个狙击任务，\n别忘了带上你的狙击步枪。""]","This is a sniping mission. So don't forget your
+sniper rifle.
+","[""This is a sniping mission. So don't forget your\nsniper rifle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0; ENG source rows=0xAE9F0#0; block_semantic_score=0.278702.
+BRIEFING_FILES_BLOCK_01D7E0,1,stream=0x1D000;block=0x7E0;text=1,"[""stream=0x1D000;block=0x7E0;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","これは<R= 狙撃 ,スナイピング>ミッションだ。スナイパーライフルを忘れず
+に持っていってくれよ。
+","スナイパーライフルを構えることでスコープをのぞき込め
+る。
+","スコープの倍率は<I=ZOOMIN>、<I=ZOOMOUT>で変更可能だ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"装备狙击步枪时，
+可以透过瞄准镜进行瞄准。","[""装备狙击步枪时，\n可以透过瞄准镜进行瞄准。""]","When equipping a sniper rifle, you can look through
+the scope to aim.
+","[""When equipping a sniper rifle, you can look through\nthe scope to aim.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0; ENG source rows=0xAE9F0#1; block_semantic_score=0.278702.
+BRIEFING_FILES_BLOCK_01D7E0,2,stream=0x1D000;block=0x7E0;text=2,"[""stream=0x1D000;block=0x7E0;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","スナイパーライフルを構えることでスコープをのぞき込め
+る。
+","スコープの倍率は<I=ZOOMIN>、<I=ZOOMOUT>で変更可能だ。
+","ただし、スコープを使えば視界は狭くなる。
+","[""<I=ZOOMIN>"", ""<I=ZOOMOUT>""]",,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,按<I=ZOOMIN>和<I=ZOOMOUT>可以改变瞄准镜的倍率。,"[""按<I=ZOOMIN>和<I=ZOOMOUT>可以改变瞄准镜的倍率。""]","You can change the scope's zoom level by
+pressing <I=ZOOMIN> and <I=ZOOMOUT>.
+","[""You can change the scope's zoom level by\npressing <I=ZOOMIN> and <I=ZOOMOUT>.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0; ENG source rows=0xAE9F0#2; block_semantic_score=0.278702.
+BRIEFING_FILES_BLOCK_01D7E0,3,stream=0x1D000;block=0x7E0;text=3,"[""stream=0x1D000;block=0x7E0;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","スコープの倍率は<I=ZOOMIN>、<I=ZOOMOUT>で変更可能だ。
+","ただし、スコープを使えば視界は狭くなる。
+","あらかじめある程度方向を合わせてから構えるといいだろ
+う。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但要注意，使用瞄准镜
+会收窄你的视野。","[""但要注意，使用瞄准镜\n会收窄你的视野。""]","Keep in mind, though, that using the scope cuts
+down your field of vision.
+","[""Keep in mind, though, that using the scope cuts\ndown your field of vision.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0; ENG source rows=0xAE9F0#3; block_semantic_score=0.278702.
+BRIEFING_FILES_BLOCK_01D7E0,4,stream=0x1D000;block=0x7E0;text=4,"[""stream=0x1D000;block=0x7E0;text=4""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","ただし、スコープを使えば視界は狭くなる。
+","あらかじめある程度方向を合わせてから構えるといいだろ
+う。
+","遠距離を狙うときは、わずかな手ぶれでも大きく照準がず
+れる。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,建议先大致对准方向，再开始瞄准。,"[""建议先大致对准方向，再开始瞄准。""]","You'll want to be pointing in the right general
+direction before taking aim.
+","[""You'll want to be pointing in the right general\ndirection before taking aim.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0; ENG source rows=0xAE9F0#4; block_semantic_score=0.278702.
+BRIEFING_FILES_BLOCK_01D7E0,5,stream=0x1D000;block=0x7E0;text=5,"[""stream=0x1D000;block=0x7E0;text=5""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","あらかじめある程度方向を合わせてから構えるといいだろ
+う。
+","遠距離を狙うときは、わずかな手ぶれでも大きく照準がず
+れる。
+","ただ、しばらくじっとして気持ちを落ち着ければ、自然と
+手ぶれは少なくなるはずだ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,瞄准远处目标时，哪怕手稍微抖一下，弹道都会偏很远。,"[""瞄准远处目标时，哪怕手稍微抖一下，弹道都会偏很远。""]","When aiming at distant targets,
+even a slight hand tremor can throw your aim way
+off.
+","[""When aiming at distant targets,\neven a slight hand tremor can throw your aim way\noff.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0,0xAE9F0; ENG source rows=0xAE9F0#5,0xAE9F0#6; block_semantic_score=0.278702."
+BRIEFING_FILES_BLOCK_01D7E0,6,stream=0x1D000;block=0x7E0;text=6,"[""stream=0x1D000;block=0x7E0;text=6""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","遠距離を狙うときは、わずかな手ぶれでも大きく照準がず
+れる。
+","ただ、しばらくじっとして気持ちを落ち着ければ、自然と
+手ぶれは少なくなるはずだ。
+","あとは姿勢を低くするのも有効だ。覚えておいてくれ。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不一会儿，抖动自然就会平息。,"[""不一会儿，抖动自然就会平息。""]","and before long the tremors should calm down
+naturally.
+","[""and before long the tremors should calm down\nnaturally.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0; ENG source rows=0xAE9F0#8; block_semantic_score=0.278702.
+BRIEFING_FILES_BLOCK_01D7E0,7,stream=0x1D000;block=0x7E0;text=7,"[""stream=0x1D000;block=0x7E0;text=7""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","ただ、しばらくじっとして気持ちを落ち着ければ、自然と
+手ぶれは少なくなるはずだ。
+","あとは姿勢を低くするのも有効だ。覚えておいてくれ。
+",,[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,趴低身体也有助于稳定瞄准。,"[""趴低身体也有助于稳定瞄准。""]","Keeping low to the ground will also help you
+maintain your aim.
+","[""Keeping low to the ground will also help you\nmaintain your aim.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D7E0; ENG blocks=0xAE9F0; ENG source rows=0xAE9F0#9; block_semantic_score=0.278702.

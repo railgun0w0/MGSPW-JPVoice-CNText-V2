@@ -1,0 +1,8 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_373980,0,stream=0x373000;block=0x980;text=0,"[""stream=0x373000;block=0x980;text=0""]",1,d3080_m0200_mrd,"[""stream=0x373000;block=0x980;block_file=0x373980;text_base=0x3739A4;capacity=216""]",,"スネーク、ストレンジラブ博士の<R=研究施設,ラボ>に向かい、
+<R=人工知能,AI>を制止、または破壊するんだ。
+まずは遺跡に造られた<R=研究施設,ラボ>に向かえ。
+",,"[""<R=研究施設,ラボ>"", ""<R=人工知能,AI>"", ""<R=研究施設,ラボ>""]",,,NOT_CHECKED,215,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"潜入Strangelove博士的研究实验室，
+然后关闭或摧毁那个AI。","[""潜入Strangelove博士的研究实验室，\n然后关闭或摧毁那个AI。""]","infiltrate Dr. Strangelove's research lab
+and either deactivate or destroy the AI.
+","[""infiltrate Dr. Strangelove's research lab\nand either deactivate or destroy the AI.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373980; ENG blocks=0x38B020; ENG source rows=0x38B020#1; block_semantic_score=1.000000.

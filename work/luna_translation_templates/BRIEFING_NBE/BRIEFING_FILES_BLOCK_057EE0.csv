@@ -1,0 +1,128 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_057EE0,0,stream=0x57000;block=0xEE0;text=0,"[""stream=0x57000;block=0xEE0;text=0""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]",,"メタルギア<R=ZEKE,ジーク>の音声合成システムについて説明してお
+きたい。
+","音声合成システム？
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我最好跟你说明一下
+ZEKE的语音合成系统。","[""我最好跟你说明一下\nZEKE的语音合成系统。""]","I'd better fill you in on ZEKE's speech synthesis
+system.
+","[""I'd better fill you in on ZEKE's speech synthesis\nsystem.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#0; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,1,stream=0x57000;block=0xEE0;text=1,"[""stream=0x57000;block=0xEE0;text=1""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","メタルギア<R=ZEKE,ジーク>の音声合成システムについて説明してお
+きたい。
+","音声合成システム？
+","通常の兵器なら操縦者が話をすればいいが、自律行動する
+AI兵器には操縦者がいない。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,语音合成系统？,"[""语音合成系统？""]","Speech synthesis system?
+","[""Speech synthesis system?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#1; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,2,stream=0x57000;block=0xEE0;text=2,"[""stream=0x57000;block=0xEE0;text=2""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","音声合成システム？
+","通常の兵器なら操縦者が話をすればいいが、自律行動する
+AI兵器には操縦者がいない。
+","AI兵器自身が状況を周囲に伝えないと、周囲の歩兵と連携
+した行動ができない。
+",[],,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,人类会替自己使用的常规武器发声，但自主AI兵器就另当别论了。,"[""人类会替自己使用的常规武器发声，但自主AI兵器就另当别论了。""]","Humans speak for the conventional weapons they
+wield,
+but an autonomous AI weapon is a different story.
+","[""Humans speak for the conventional weapons they\nwield,\nbut an autonomous AI weapon is a different story.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x57EE0; ENG blocks=0xE5DD0,0xE5DD0; ENG source rows=0xE5DD0#2,0xE5DD0#3; block_semantic_score=0.204796."
+BRIEFING_FILES_BLOCK_057EE0,3,stream=0x57000;block=0xEE0;text=3,"[""stream=0x57000;block=0xEE0;text=3""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","通常の兵器なら操縦者が話をすればいいが、自律行動する
+AI兵器には操縦者がいない。
+","AI兵器自身が状況を周囲に伝えないと、周囲の歩兵と連携
+した行動ができない。
+","確かに。戦場でも言葉でのコミュニケーションは重要だ。
+",[],,,NOT_CHECKED,109,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果AI无法与周围部队沟通，
+那它们怎么能作为一个整体作战？","[""如果AI无法与周围部队沟通，\n那它们怎么能作为一个整体作战？""]","If the AI can't communicate with surrounding
+forces, how can they function as a unit?
+","[""If the AI can't communicate with surrounding\nforces, how can they function as a unit?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#4; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,4,stream=0x57000;block=0xEE0;text=4,"[""stream=0x57000;block=0xEE0;text=4""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","AI兵器自身が状況を周囲に伝えないと、周囲の歩兵と連携
+した行動ができない。
+","確かに。戦場でも言葉でのコミュニケーションは重要だ。
+","だからAI兵器には音声合成システムが搭載されている。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。在战场上，语言沟通至关重要。,"[""没错。在战场上，语言沟通至关重要。""]","True. Verbal communication is critical on the
+battlefield.
+","[""True. Verbal communication is critical on the\nbattlefield.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#5; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,5,stream=0x57000;block=0xEE0;text=5,"[""stream=0x57000;block=0xEE0;text=5""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","確かに。戦場でも言葉でのコミュニケーションは重要だ。
+","だからAI兵器には音声合成システムが搭載されている。
+","とはいえ、自らの意志で会話ができたのはピースウォーカ
+ーだけだ。
+",[],,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"因此，AI兵器需要一个
+专门的系统来生成语音。","[""因此，AI兵器需要一个\n专门的系统来生成语音。""]","Thus, an AI weapon requires a dedicated system to
+produce speech.
+","[""Thus, an AI weapon requires a dedicated system to\nproduce speech.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#6; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,6,stream=0x57000;block=0xEE0;text=6,"[""stream=0x57000;block=0xEE0;text=6""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","だからAI兵器には音声合成システムが搭載されている。
+","とはいえ、自らの意志で会話ができたのはピースウォーカ
+ーだけだ。
+","他のAIは、プリセットされた言葉を状況に応じて発声して
+いる。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过准确地说，只有和平
+行者能够自行生成语音。","[""不过准确地说，只有和平\n行者能够自行生成语音。""]","To be precise, though, only Peace Walker was
+capable of self-generated speech.
+","[""To be precise, though, only Peace Walker was\ncapable of self-generated speech.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#7; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,7,stream=0x57000;block=0xEE0;text=7,"[""stream=0x57000;block=0xEE0;text=7""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","とはいえ、自らの意志で会話ができたのはピースウォーカ
+ーだけだ。
+","他のAIは、プリセットされた言葉を状況に応じて発声して
+いる。
+","<R=ZEKE,ジーク>に関しても同じだが、お前があらかじめ音声を用意
+しておけば、好きなときにそれを使うこともできる。
+",[],,,NOT_CHECKED,88,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"其他AI都只是根据情况
+重复预设的信息。","[""其他AI都只是根据情况\n重复预设的信息。""]","All the other AI simply repeat preset messages
+depending on the situation.
+","[""All the other AI simply repeat preset messages\ndepending on the situation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#8; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,8,stream=0x57000;block=0xEE0;text=8,"[""stream=0x57000;block=0xEE0;text=8""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","他のAIは、プリセットされた言葉を状況に応じて発声して
+いる。
+","<R=ZEKE,ジーク>に関しても同じだが、お前があらかじめ音声を用意
+しておけば、好きなときにそれを使うこともできる。
+","音声を用意したければ<R=エクストラ,EXTRAS>メニューからEDITモード
+に入ればいい。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"ZEKE也不例外。不过，
+你确实可以随意设置这些信息。","[""ZEKE也不例外。不过，\n你确实可以随意设置这些信息。""]","ZEKE is no different. However, you do have the
+ability to set those messages as you please.
+","[""ZEKE is no different. However, you do have the\nability to set those messages as you please.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#9; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,9,stream=0x57000;block=0xEE0;text=9,"[""stream=0x57000;block=0xEE0;text=9""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","<R=ZEKE,ジーク>に関しても同じだが、お前があらかじめ音声を用意
+しておけば、好きなときにそれを使うこともできる。
+","音声を用意したければ<R=エクストラ,EXTRAS>メニューからEDITモード
+に入ればいい。
+","用意周到だな。
+","[""<R=エクストラ,EXTRAS>""]",,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要创建信息，请前往附加菜单，
+然后选择编辑模式。","[""要创建信息，请前往附加菜单，\n然后选择编辑模式。""]","To create a message, go to the Extras Menu, and
+then select Edit Mode.
+","[""To create a message, go to the Extras Menu, and\nthen select Edit Mode.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#10; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,10,stream=0x57000;block=0xEE0;text=10,"[""stream=0x57000;block=0xEE0;text=10""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","音声を用意したければ<R=エクストラ,EXTRAS>メニューからEDITモード
+に入ればいい。
+","用意周到だな。
+","歌を歌わせることもできるぞ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你想得真周到。,"[""你想得真周到。""]","You thought of everything.
+","[""You thought of everything.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#11; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,11,stream=0x57000;block=0xEE0;text=11,"[""stream=0x57000;block=0xEE0;text=11""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","用意周到だな。
+","歌を歌わせることもできるぞ。
+","歌？
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你甚至还能让它唱歌。,"[""你甚至还能让它唱歌。""]","You can even have it sing, too.
+","[""You can even have it sing, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#12; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,12,stream=0x57000;block=0xEE0;text=12,"[""stream=0x57000;block=0xEE0;text=12""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","歌を歌わせることもできるぞ。
+","歌？
+","歌は大切だ。私はあのとき、歌の力を思い知らされた。
+",[],,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,唱歌？,"[""唱歌？""]","Sing?
+","[""Sing?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#13; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,13,stream=0x57000;block=0xEE0;text=13,"[""stream=0x57000;block=0xEE0;text=13""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","歌？
+","歌は大切だ。私はあのとき、歌の力を思い知らされた。
+","もっとも、<R=ZEKE,ジーク>のAIが自分の意志で歌うことはない。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"歌曲可以是一种非常宝贵的资产。
+我在湖边意识到了这一点。","[""歌曲可以是一种非常宝贵的资产。\n我在湖边意识到了这一点。""]","Song can be a very valuable asset. I realized that
+at the lake.
+","[""Song can be a very valuable asset. I realized that\nat the lake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#14; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,14,stream=0x57000;block=0xEE0;text=14,"[""stream=0x57000;block=0xEE0;text=14""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","歌は大切だ。私はあのとき、歌の力を思い知らされた。
+","もっとも、<R=ZEKE,ジーク>のAIが自分の意志で歌うことはない。
+","あくまで、用意された歌を再生するだけだ。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然，ZEKE的AI无法演奏原创作品。,"[""当然，ZEKE的AI无法演奏原创作品。""]","Naturally, ZEKE's AI doesn't allow for it to perform
+original compositions.
+","[""Naturally, ZEKE's AI doesn't allow for it to perform\noriginal compositions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#15; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,15,stream=0x57000;block=0xEE0;text=15,"[""stream=0x57000;block=0xEE0;text=15""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","もっとも、<R=ZEKE,ジーク>のAIが自分の意志で歌うことはない。
+","あくまで、用意された歌を再生するだけだ。
+","スネーク、お前には作曲は無理だろうが…歌詞は好きなよ
+うに変えてみるといい。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它只能播放提供给它的录音。,"[""它只能播放提供给它的录音。""]","It can only play back recordings provided to it.
+","[""It can only play back recordings provided to it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#16; block_semantic_score=0.204796.
+BRIEFING_FILES_BLOCK_057EE0,16,stream=0x57000;block=0xEE0;text=16,"[""stream=0x57000;block=0xEE0;text=16""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","あくまで、用意された歌を再生するだけだ。
+","スネーク、お前には作曲は無理だろうが…歌詞は好きなよ
+うに変えてみるといい。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我怀疑你算不上什么作曲家，
+Snake，但你随时可以试试写歌词。","[""我怀疑你算不上什么作曲家，\nSnake，但你随时可以试试写歌词。""]","I doubt you're much of a composer, Snake, but you
+could always have a go at the lyrics.
+","[""I doubt you're much of a composer, Snake, but you\ncould always have a go at the lyrics.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57EE0; ENG blocks=0xE5DD0; ENG source rows=0xE5DD0#17; block_semantic_score=0.204796.

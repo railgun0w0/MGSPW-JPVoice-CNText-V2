@@ -1,0 +1,94 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_36F0E0,0,stream=0x36F000;block=0xE0;text=0,"[""stream=0x36F000;block=0xE0;text=0""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]",,"見たか、スネーク！
+さっきの巨大兵器っ！
+","あれは何だ、無人兵器らしい。
+",[],,,NOT_CHECKED,59,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，那东西到底是什么？！,"[""Snake，那东西到底是什么？！""]","Snake, what was that thing?!
+","[""Snake, what was that thing?!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,1,stream=0x36F000;block=0xE0;text=1,"[""stream=0x36F000;block=0xE0;text=1""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","見たか、スネーク！
+さっきの巨大兵器っ！
+","あれは何だ、無人兵器らしい。
+","無人兵器…？
+そうか、噂に聞いてはいたが、
+既に完成していたとは。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管那是什么，
+看起来都是无人操控的。","[""不管那是什么，\n看起来都是无人操控的。""]","Whatever it was, it looked unmanned.
+","[""Whatever it was, it looked unmanned.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,2,stream=0x36F000;block=0xE0;text=2,"[""stream=0x36F000;block=0xE0;text=2""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","あれは何だ、無人兵器らしい。
+","無人兵器…？
+そうか、噂に聞いてはいたが、
+既に完成していたとは。
+","一体、ここで何が起きているんだ。
+",[],,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"无人驾驶？我听说过传闻，
+但已经投入实战的作战单位…？","[""无人驾驶？我听说过传闻，\n但已经投入实战的作战单位…？""]","Unmanned? I'd heard rumors, but an
+operational unit...?
+","[""Unmanned? I'd heard rumors, but an\noperational unit...?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,3,stream=0x36F000;block=0xE0;text=3,"[""stream=0x36F000;block=0xE0;text=3""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","無人兵器…？
+そうか、噂に聞いてはいたが、
+既に完成していたとは。
+","一体、ここで何が起きているんだ。
+","アマンダじゃないが、この兵器群の投入量は尋常
+じゃない。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这里到底是怎么回事？,"[""这里到底是怎么回事？""]","What the hell is going on here?
+","[""What the hell is going on here?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#3; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,4,stream=0x36F000;block=0xE0;text=4,"[""stream=0x36F000;block=0xE0;text=4""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","一体、ここで何が起きているんだ。
+","アマンダじゃないが、この兵器群の投入量は尋常
+じゃない。
+","明らかに過剰だ。核の持ち込みは十中八九、
+間違いない。
+…問題は核を何に使うか、だ。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不是要引用Amanda的话，但他们这里的
+装备不只是不寻常，而是火力过剩。","[""不是要引用Amanda的话，但他们这里的\n装备不只是不寻常，而是火力过剩。""]","Not to quote Amanda, but the hardware
+they've got here isn't just unusual, it's
+overkill.
+","[""Not to quote Amanda, but the hardware\nthey've got here isn't just unusual, it's\noverkill.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,5,stream=0x36F000;block=0xE0;text=5,"[""stream=0x36F000;block=0xE0;text=5""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","アマンダじゃないが、この兵器群の投入量は尋常
+じゃない。
+","明らかに過剰だ。核の持ち込みは十中八九、
+間違いない。
+…問題は核を何に使うか、だ。
+","もっと情報が欲しいな。判断材料が少なすぎる。
+",[],,,NOT_CHECKED,123,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这只能说明一件事：是核武器。
+所以现在的问题就成了：为什么？","[""这只能说明一件事：是核武器。\n所以现在的问题就成了：为什么？""]","Which means one thing: it's nukes. So the
+question now becomes, why?
+","[""Which means one thing: it's nukes. So the\nquestion now becomes, why?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#5; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,6,stream=0x36F000;block=0xE0;text=6,"[""stream=0x36F000;block=0xE0;text=6""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","明らかに過剰だ。核の持ち込みは十中八九、
+間違いない。
+…問題は核を何に使うか、だ。
+","もっと情報が欲しいな。判断材料が少なすぎる。
+","どうする？
+情報源の<R=司令官,コマンダンテ>は死んだ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们现在还不能下这个结论。
+我们需要更多情报。","[""我们现在还不能下这个结论。\n我们需要更多情报。""]","We can't make that call yet. We need
+more intel.
+","[""We can't make that call yet. We need\nmore intel.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#6; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,7,stream=0x36F000;block=0xE0;text=7,"[""stream=0x36F000;block=0xE0;text=7""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","もっと情報が欲しいな。判断材料が少なすぎる。
+","どうする？
+情報源の<R=司令官,コマンダンテ>は死んだ。
+","いや、娘のアマンダならまだ無事だ。
+","[""<R=司令官,コマンダンテ>""]",,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么查？我们的线人已经死了。,"[""怎么查？我们的线人已经死了。""]","How? Our source is dead.
+","[""How? Our source is dead.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#7; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,8,stream=0x36F000;block=0xE0;text=8,"[""stream=0x36F000;block=0xE0;text=8""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","どうする？
+情報源の<R=司令官,コマンダンテ>は死んだ。
+","いや、娘のアマンダならまだ無事だ。
+","なるほど、彼女達を追うか…。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但他女儿还活着。,"[""但他女儿还活着。""]","But his daughter isn't.
+","[""But his daughter isn't.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#8; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,9,stream=0x36F000;block=0xE0;text=9,"[""stream=0x36F000;block=0xE0;text=9""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","いや、娘のアマンダならまだ無事だ。
+","なるほど、彼女達を追うか…。
+","スネーク、次の拠点に向かおう。
+アマンダが無事なら、もう一度、接触出来るはずだ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好主意。我们可以跟着她…,"[""好主意。我们可以跟着她…""]","Good thinking. We can follow her...
+","[""Good thinking. We can follow her...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#9; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,10,stream=0x36F000;block=0xE0;text=10,"[""stream=0x36F000;block=0xE0;text=10""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","なるほど、彼女達を追うか…。
+","スネーク、次の拠点に向かおう。
+アマンダが無事なら、もう一度、接触出来るはずだ。
+","了解。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"前往下一个前哨站，和Amanda
+取得联系…如果她还活着的话。","[""前往下一个前哨站，和Amanda\n取得联系…如果她还活着的话。""]","Head for that the next outpost, and make
+contact with Amanda... if she's still alive.
+","[""Head for that the next outpost, and make\ncontact with Amanda... if she's still alive.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#10; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F0E0,11,stream=0x36F000;block=0xE0;text=11,"[""stream=0x36F000;block=0xE0;text=11""]",1,d1050_m0030_mrd,"[""stream=0x36F000;block=0xE0;block_file=0x36F0E0;text_base=0x36F130;capacity=832""]","スネーク、次の拠点に向かおう。
+アマンダが無事なら、もう一度、接触出来るはずだ。
+","了解。
+",,[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,收到。,"[""收到。""]","Roger.
+","[""Roger.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F0E0; ENG blocks=0x387380; ENG source rows=0x387380#11; block_semantic_score=1.000000.

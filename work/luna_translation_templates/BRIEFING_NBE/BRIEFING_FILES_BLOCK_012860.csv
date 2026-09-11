@@ -1,0 +1,68 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_012860,0,stream=0x12000;block=0x860;text=0,"[""stream=0x12000;block=0x860;text=0""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]",,"スネーク、あんたほどの戦士でも照準のぶれはあるだろう。
+","『気力』が充実している時はともかく、疲れてるとどうし
+ても手ぶれが起きてしまう。特に大きい、重い武器だとな。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"即使是你这样天生的战士，
+Snake，也会手抖。","[""即使是你这样天生的战士，\nSnake，也会手抖。""]","Even a born warrior like you gets hand tremors,
+Snake.
+","[""Even a born warrior like you gets hand tremors,\nSnake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x12860; ENG blocks=0xA5540; ENG source rows=0xA5540#0; block_semantic_score=0.121313.
+BRIEFING_FILES_BLOCK_012860,1,stream=0x12000;block=0x860;text=1,"[""stream=0x12000;block=0x860;text=1""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","スネーク、あんたほどの戦士でも照準のぶれはあるだろう。
+","『気力』が充実している時はともかく、疲れてるとどうし
+ても手ぶれが起きてしまう。特に大きい、重い武器だとな。
+","もちろん、立っているよりは、しゃがんだほうが狙いやす
+くはなる。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当你疲惫时只会更糟——
+尤其是拿着更大、更重的武器。","[""当你疲惫时只会更糟——\n尤其是拿着更大、更重的武器。""]","and it only gets worse when you're tired -
+especially with larger, heavier weapons.
+","[""and it only gets worse when you're tired -\nespecially with larger, heavier weapons.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x12860; ENG blocks=0xA5540; ENG source rows=0xA5540#2; block_semantic_score=0.121313.
+BRIEFING_FILES_BLOCK_012860,2,stream=0x12000;block=0x860;text=2,"[""stream=0x12000;block=0x860;text=2""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","『気力』が充実している時はともかく、疲れてるとどうし
+ても手ぶれが起きてしまう。特に大きい、重い武器だとな。
+","もちろん、立っているよりは、しゃがんだほうが狙いやす
+くはなる。
+","スコープで覗くような武器だと、一所に落ち着いていれば、
+段々と狙いが正確になっていくしな。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,显然，蹲姿瞄准会比站立瞄准更准。而且使用瞄准镜时，将准星对准一个点,"[""显然，蹲姿瞄准会比站立瞄准更准。而且使用瞄准镜时，将准星对准一个点""]","Obviously, you'll get better aim crouching than you
+will standing.
+And when you use a scope, setting your sights on
+a single point
+","[""Obviously, you'll get better aim crouching than you\nwill standing.\nAnd when you use a scope, setting your sights on\na single point\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x12860; ENG blocks=0xA5540,0xA5540; ENG source rows=0xA5540#3,0xA5540#4; block_semantic_score=0.121313."
+BRIEFING_FILES_BLOCK_012860,3,stream=0x12000;block=0x860;text=3,"[""stream=0x12000;block=0x860;text=3""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","もちろん、立っているよりは、しゃがんだほうが狙いやす
+くはなる。
+","スコープで覗くような武器だと、一所に落ち着いていれば、
+段々と狙いが正確になっていくしな。
+","だがマザーベースで銃の開発を進めていけば、同系統でも
+照準ブレの少ない銃ができるかも知れん。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过，随着我们在母基地
+开发出更好的武器，","[""不过，随着我们在母基地\n开发出更好的武器，""]","As we develop better weapons at Mother Base,
+though,
+","[""As we develop better weapons at Mother Base,\nthough,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x12860; ENG blocks=0xA5540; ENG source rows=0xA5540#6; block_semantic_score=0.121313.
+BRIEFING_FILES_BLOCK_012860,4,stream=0x12000;block=0x860;text=4,"[""stream=0x12000;block=0x860;text=4""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","スコープで覗くような武器だと、一所に落ち着いていれば、
+段々と狙いが正確になっていくしな。
+","だがマザーベースで銃の開発を進めていけば、同系統でも
+照準ブレの少ない銃ができるかも知れん。
+","照準ぶれが気になるようなら、そっちに力を入れるのも手
+だ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你也许能拿到同款枪械的
+新型低抖动版本。","[""你也许能拿到同款枪械的\n新型低抖动版本。""]","you may gain access to new, low-tremor versions
+of the same guns.
+","[""you may gain access to new, low-tremor versions\nof the same guns.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x12860; ENG blocks=0xA5540; ENG source rows=0xA5540#7; block_semantic_score=0.121313.
+BRIEFING_FILES_BLOCK_012860,5,stream=0x12000;block=0x860;text=5,"[""stream=0x12000;block=0x860;text=5""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","だがマザーベースで銃の開発を進めていけば、同系統でも
+照準ブレの少ない銃ができるかも知れん。
+","照準ぶれが気になるようなら、そっちに力を入れるのも手
+だ。
+","覚えておこう。だが銃ってもんは、使っている内に手に馴
+染んでくる。あんまり浮気するのも考えものだ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以如果你觉得手抖是个问题，不妨在研发上投入一些资源。,"[""所以如果你觉得手抖是个问题，不妨在研发上投入一些资源。""]","So if you expect the shakes to be a problem,
+you might want to put some resources into R&D.
+","[""So if you expect the shakes to be a problem,\nyou might want to put some resources into R&D.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x12860; ENG blocks=0xA5540,0xA5540; ENG source rows=0xA5540#8,0xA5540#9; block_semantic_score=0.121313."
+BRIEFING_FILES_BLOCK_012860,6,stream=0x12000;block=0x860;text=6,"[""stream=0x12000;block=0x860;text=6""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","照準ぶれが気になるようなら、そっちに力を入れるのも手
+だ。
+","覚えておこう。だが銃ってもんは、使っている内に手に馴
+染んでくる。あんまり浮気するのも考えものだ。
+",,[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我会记在心里。不过话说回来，
+一种武器用得越多，手就会越习惯它。有时，对自己的枪专一
+一点，是有好处的。","[""我会记在心里。不过话说回来，\n一种武器用得越多，手就会越习惯它。有时，对自己的枪专一\n一点，是有好处的。""]","I'll keep it in mind. Then again, the more you use a
+weapon,
+the more your hands get used to it.
+Sometimes it pays to be faithful to your gun.
+","[""I'll keep it in mind. Then again, the more you use a\nweapon,\nthe more your hands get used to it.\nSometimes it pays to be faithful to your gun.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x12860; ENG blocks=0xA5540,0xA5540,0xA5540; ENG source rows=0xA5540#10,0xA5540#11,0xA5540#12; block_semantic_score=0.121313."

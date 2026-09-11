@@ -1,0 +1,84 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0020A0,0,stream=0x2000;block=0xA0;text=0,"[""stream=0x2000;block=0xA0;text=0""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]",,"あんたの師匠だったザ・ボスは西側では特殊部隊の母とも
+呼ばれていたんだってな。
+","プロパガンダに過ぎん。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在西方，她被称为
+「特种部队之母」，对吧？","[""在西方，她被称为\n「特种部队之母」，对吧？""]","She was known in the West as the ""Mother of
+Special Forces,"" right?
+","[""She was known in the West as the \""Mother of\nSpecial Forces,\"" right?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#1; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,1,stream=0x2000;block=0xA0;text=1,"[""stream=0x2000;block=0xA0;text=1""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","あんたの師匠だったザ・ボスは西側では特殊部隊の母とも
+呼ばれていたんだってな。
+","プロパガンダに過ぎん。
+","だが嘘でもないだろう。最近じゃKGBは破壊工作対策課っ
+てのを立ち上げたらしい。<R=A,アルファ>グループって言ったかな。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过是宣传罢了。,"[""不过是宣传罢了。""]","Nothing but propaganda.
+","[""Nothing but propaganda.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#2; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,2,stream=0x2000;block=0xA0;text=2,"[""stream=0x2000;block=0xA0;text=2""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","プロパガンダに過ぎん。
+","だが嘘でもないだろう。最近じゃKGBは破壊工作対策課っ
+てのを立ち上げたらしい。<R=A,アルファ>グループって言ったかな。
+","ドイツではミュンヘンオリンピックの事件を受けて、国境
+警備隊にカウンターテロ部隊を創設したという噂もある。
+","[""<R=A,アルファ>""]",,,NOT_CHECKED,167,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我听说克格勃(KGB)刚成立了一个
+反破坏小组，好像叫阿尔法小组。","[""我听说克格勃(KGB)刚成立了一个\n反破坏小组，好像叫阿尔法小组。""]","I heard the KGB just set up a counter-sabotage
+cell. Alpha Group, I think they call it.
+","[""I heard the KGB just set up a counter-sabotage\ncell. Alpha Group, I think they call it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#4; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,3,stream=0x2000;block=0xA0;text=3,"[""stream=0x2000;block=0xA0;text=3""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","だが嘘でもないだろう。最近じゃKGBは破壊工作対策課っ
+てのを立ち上げたらしい。<R=A,アルファ>グループって言ったかな。
+","ドイツではミュンヘンオリンピックの事件を受けて、国境
+警備隊にカウンターテロ部隊を創設したという噂もある。
+","我らがアメリカといえば光輝栄えあるグリーンベレーに
+SEALチーム、そしてあんたが創ったFOXHOUND…。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"西德在其边境防卫队内部
+建立了一支反恐部队。","[""西德在其边境防卫队内部\n建立了一支反恐部队。""]","border police after the debacle at the Munich
+Olympics.
+","[""border police after the debacle at the Munich\nOlympics.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#6; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,4,stream=0x2000;block=0xA0;text=4,"[""stream=0x2000;block=0xA0;text=4""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","ドイツではミュンヘンオリンピックの事件を受けて、国境
+警備隊にカウンターテロ部隊を創設したという噂もある。
+","我らがアメリカといえば光輝栄えあるグリーンベレーに
+SEALチーム、そしてあんたが創ったFOXHOUND…。
+","ザ・ボスが撒いた種が芽を出し始めているんだ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在美国，他们有
+赫赫有名的绿色贝雷帽，海豹突击队，还有你
+亲手创建的猎狐犬部队…","[""在美国，他们有\n赫赫有名的绿色贝雷帽，海豹突击队，还有你\n亲手创建的猎狐犬部队…""]","Back home in the States, they've got the illustrious
+Green Berets,
+the SEALs, and your personal creation,
+FOXHOUND...
+","[""Back home in the States, they've got the illustrious\nGreen Berets,\nthe SEALs, and your personal creation,\nFOXHOUND...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20A0; ENG blocks=0x96600,0x96600; ENG source rows=0x96600#7,0x96600#8; block_semantic_score=0.164273."
+BRIEFING_FILES_BLOCK_0020A0,5,stream=0x2000;block=0xA0;text=5,"[""stream=0x2000;block=0xA0;text=5""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","我らがアメリカといえば光輝栄えあるグリーンベレーに
+SEALチーム、そしてあんたが創ったFOXHOUND…。
+","ザ・ボスが撒いた種が芽を出し始めているんだ。
+","MSFもそうだ。だろう？　あんたが創ったんだ。ザ・ボス
+の遺志を継いでな。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"The Boss播下的种子，
+正开始生根发芽。","[""The Boss播下的种子，\n正开始生根发芽。""]","The seeds sown by The Boss are beginning to
+sprout.
+","[""The seeds sown by The Boss are beginning to\nsprout.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#9; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,6,stream=0x2000;block=0xA0;text=6,"[""stream=0x2000;block=0xA0;text=6""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","ザ・ボスが撒いた種が芽を出し始めているんだ。
+","MSFもそうだ。だろう？　あんたが創ったんだ。ザ・ボス
+の遺志を継いでな。
+","ボスに戦い方を叩き込まれた。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"MSF也是一样吧？创建它的时候，
+你是在继承The Boss的遗志。","[""MSF也是一样吧？创建它的时候，\n你是在继承The Boss的遗志。""]","Same goes for MSF, right? In creating it, you were
+carrying on the will of The Boss.
+","[""Same goes for MSF, right? In creating it, you were\ncarrying on the will of The Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#10; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,7,stream=0x2000;block=0xA0;text=7,"[""stream=0x2000;block=0xA0;text=7""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","MSFもそうだ。だろう？　あんたが創ったんだ。ザ・ボス
+の遺志を継いでな。
+","ボスに戦い方を叩き込まれた。
+","お陰で俺達は通常戦闘以外の任務もやれる。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她教会了我如何战斗，用的是硬功夫——
+硬生生打进我脑子里。","[""她教会了我如何战斗，用的是硬功夫——\n硬生生打进我脑子里。""]","She taught me how to fight, the hard way - she
+beat it into me.
+","[""She taught me how to fight, the hard way - she\nbeat it into me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#11; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,8,stream=0x2000;block=0xA0;text=8,"[""stream=0x2000;block=0xA0;text=8""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","ボスに戦い方を叩き込まれた。
+","お陰で俺達は通常戦闘以外の任務もやれる。
+","正規軍の特殊部隊と母親が同じなんだからな。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"多亏了她，如今我们才能
+承接常规战斗以外的任务。","[""多亏了她，如今我们才能\n承接常规战斗以外的任务。""]","And now thanks to her, we can take on missions
+other than just conventional combat.
+","[""And now thanks to her, we can take on missions\nother than just conventional combat.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#12; block_semantic_score=0.164273.
+BRIEFING_FILES_BLOCK_0020A0,9,stream=0x2000;block=0xA0;text=9,"[""stream=0x2000;block=0xA0;text=9""]",1,BRIEFING FILES,"[""stream=0x2000;block=0xA0;block_file=0x20A0;text_base=0x20E8;capacity=964""]","お陰で俺達は通常戦闘以外の任務もやれる。
+","正規軍の特殊部隊と母親が同じなんだからな。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"毕竟，我们和陆军特种部队
+有着同一位「母亲」。","[""毕竟，我们和陆军特种部队\n有着同一位「母亲」。""]","After all, we've got the same mother as the Army's
+Special Forces.
+","[""After all, we've got the same mother as the Army's\nSpecial Forces.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20A0; ENG blocks=0x96600; ENG source rows=0x96600#13; block_semantic_score=0.164273.

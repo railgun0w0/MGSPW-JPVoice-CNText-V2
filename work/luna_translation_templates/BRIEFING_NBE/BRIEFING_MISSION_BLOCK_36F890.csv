@@ -1,0 +1,125 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_36F890,0,stream=0x36F000;block=0x890;text=0,"[""stream=0x36F000;block=0x890;text=0""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]",,"スネーク、アマンダが<R=マザーベース,プラント>に到着した。
+","スネーク。
+","[""<R=マザーベース,プラント>""]",,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，Amanda已经抵达平台了。,"[""Snake，Amanda已经抵达平台了。""]","Snake, Amanda's reached the plant.
+","[""Snake, Amanda's reached the plant.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,1,stream=0x36F000;block=0x890;text=1,"[""stream=0x36F000;block=0x890;text=1""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","スネーク、アマンダが<R=マザーベース,プラント>に到着した。
+","スネーク。
+","アマンダ、具合はどうだ？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake…,"[""Snake…""]","Snake...
+","[""Snake...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,2,stream=0x36F000;block=0x890;text=2,"[""stream=0x36F000;block=0x890;text=2""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","スネーク。
+","アマンダ、具合はどうだ？
+","生まれて初めてヘリに乗ったけど、
+おかげで大嫌いになれそう。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Amanda，你感觉怎么样？,"[""Amanda，你感觉怎么样？""]","Amanda, how do you feel?
+","[""Amanda, how do you feel?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,3,stream=0x36F000;block=0x890;text=3,"[""stream=0x36F000;block=0x890;text=3""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","アマンダ、具合はどうだ？
+","生まれて初めてヘリに乗ったけど、
+おかげで大嫌いになれそう。
+","聞いての通り元気だ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这第一次直升机坐得可真够呛。要是
+这也是最后一次，我就谢天谢地了。","[""这第一次直升机坐得可真够呛。要是\n这也是最后一次，我就谢天谢地了。""]","Some first helicopter ride. I'll be perfectly
+happy if it's my last.
+","[""Some first helicopter ride. I'll be perfectly\nhappy if it's my last.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#3; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,4,stream=0x36F000;block=0x890;text=4,"[""stream=0x36F000;block=0x890;text=4""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","生まれて初めてヘリに乗ったけど、
+おかげで大嫌いになれそう。
+","聞いての通り元気だ。
+","アマンダ専用の周波数を用意した。
+必要なときは、彼女に<R=無線,CALL>するんだ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如你所见，她好得很。,"[""如你所见，她好得很。""]","As you can see, she's doing fine.
+","[""As you can see, she's doing fine.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,5,stream=0x36F000;block=0x890;text=5,"[""stream=0x36F000;block=0x890;text=5""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","聞いての通り元気だ。
+","アマンダ専用の周波数を用意した。
+必要なときは、彼女に<R=無線,CALL>するんだ。
+","米拠点と傭兵部隊、それから<R=FSLN,フレンテ>のことなら
+何だって聞いて。
+","[""<R=無線,CALL>""]",,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我帮Amanda设置了她自己的通信频率，
+需要的时候随时呼她。","[""我帮Amanda设置了她自己的通信频率，\n需要的时候随时呼她。""]","I set Amanda up with her own frequency,
+so call her anytime you need to.
+","[""I set Amanda up with her own frequency,\nso call her anytime you need to.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#5; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,6,stream=0x36F000;block=0x890;text=6,"[""stream=0x36F000;block=0x890;text=6""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","アマンダ専用の周波数を用意した。
+必要なときは、彼女に<R=無線,CALL>するんだ。
+","米拠点と傭兵部隊、それから<R=FSLN,フレンテ>のことなら
+何だって聞いて。
+","お願い。<R=同志,コンパ>とチコを。
+","[""<R=FSLN,フレンテ>""]",,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你对美国基地、雇佣兵部队，
+或者桑地诺民族解放阵线（FSLN）
+有什么想问的，尽管问。","[""如果你对美国基地、雇佣兵部队，\n或者桑地诺民族解放阵线（FSLN）\n有什么想问的，尽管问。""]","If you have any questions about American
+bases or mercenary units, or about el
+Frente, just ask.
+","[""If you have any questions about American\nbases or mercenary units, or about el\nFrente, just ask.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#6; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,7,stream=0x36F000;block=0x890;text=7,"[""stream=0x36F000;block=0x890;text=7""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","米拠点と傭兵部隊、それから<R=FSLN,フレンテ>のことなら
+何だって聞いて。
+","お願い。<R=同志,コンパ>とチコを。
+","わかった。
+","[""<R=同志,コンパ>""]",,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有，请别忘了我的同伴们和Chico…,"[""还有，请别忘了我的同伴们和Chico…""]","And please, don't forget my compas and
+Chico...
+","[""And please, don't forget my compas and\nChico...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#7; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,8,stream=0x36F000;block=0x890;text=8,"[""stream=0x36F000;block=0x890;text=8""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","お願い。<R=同志,コンパ>とチコを。
+","わかった。
+","よろしく、<R=あんた,VOS>。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别担心。,"[""别担心。""]","Don't worry.
+","[""Don't worry.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#8; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,9,stream=0x36F000;block=0x890;text=9,"[""stream=0x36F000;block=0x890;text=9""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","よろしく、<R=あんた,VOS>。
+","スネーク。
+","[""<R=あんた,VOS>""]",,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能和你一起行动，真是太好了，Boss。,"[""能和你一起行动，真是太好了，Boss。""]","It’s good to be working with you, Boss.
+","[""It’s good to be working with you, Boss.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#9; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,10,stream=0x36F000;block=0x890;text=10,"[""stream=0x36F000;block=0x890;text=10""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","よろしく、<R=あんた,VOS>。
+","スネーク。
+","アマンダの容体はマザーベースの『診療所』で
+確認出来る。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_36F890,11,stream=0x36F000;block=0x890;text=11,"[""stream=0x36F000;block=0x890;text=11""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","スネーク。
+","アマンダの容体はマザーベースの『診療所』で
+確認出来る。
+","わかった。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，我们可以在医务室
+监测她的身体状况。","[""Snake，我们可以在医务室\n监测她的身体状况。""]","Snake, we can monitor her condition in
+sick bay.
+","[""Snake, we can monitor her condition in\nsick bay.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#10; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,12,stream=0x36F000;block=0x890;text=12,"[""stream=0x36F000;block=0x890;text=12""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","アマンダの容体はマザーベースの『診療所』で
+確認出来る。
+","わかった。
+","それから、回収した戦闘捕虜を、
+人員配置することを忘れないでくれ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_36F890,13,stream=0x36F000;block=0x890;text=13,"[""stream=0x36F000;block=0x890;text=13""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","それから、回収した戦闘捕虜を、
+人員配置することを忘れないでくれ。
+","わかった。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"记住，给所有带回母
+基地的战俘分配职务。","[""记住，给所有带回母\n基地的战俘分配职务。""]","Remember to assign roles to any POWs
+you bring back to Mother Base.
+","[""Remember to assign roles to any POWs\nyou bring back to Mother Base.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#11; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,14,stream=0x36F000;block=0x890;text=14,"[""stream=0x36F000;block=0x890;text=14""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","それから、回収した戦闘捕虜を、
+人員配置することを忘れないでくれ。
+","わかった。
+","組織を創るのは『誰に何をさせるか』。
+これがマザーの成長方針を決める。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_36F890,15,stream=0x36F000;block=0x890;text=15,"[""stream=0x36F000;block=0x890;text=15""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","組織を創るのは『誰に何をさせるか』。
+これがマザーの成長方針を決める。
+","わかった。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这支队伍怎么建，
+取决于我们把谁派到什么岗位上。","[""这支队伍怎么建，\n取决于我们把谁派到什么岗位上。""]","How this outfit gets built depends on who
+we assign to what jobs.
+","[""How this outfit gets built depends on who\nwe assign to what jobs.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#12; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,16,stream=0x36F000;block=0x890;text=16,"[""stream=0x36F000;block=0x890;text=16""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","組織を創るのは『誰に何をさせるか』。
+これがマザーの成長方針を決める。
+","わかった。
+","ボスの重要な務めの一つだ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这将决定母基地如何发展壮大。,"[""这将决定母基地如何发展壮大。""]","That'll determine how Mother Base grows.
+","[""That'll determine how Mother Base grows.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#13; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,17,stream=0x36F000;block=0x890;text=17,"[""stream=0x36F000;block=0x890;text=17""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","ボスの重要な務めの一つだ。
+","わかってる。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这是你最重要的职责之一，Boss。,"[""这是你最重要的职责之一，Boss。""]","It's one of your most important roles,
+Boss.
+","[""It's one of your most important roles,\nBoss.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#14; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36F890,18,stream=0x36F000;block=0x890;text=18,"[""stream=0x36F000;block=0x890;text=18""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","ボスの重要な務めの一つだ。
+","わかってる。
+",,[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，我明白。,"[""是啊，我明白。""]","Yeah, I know.
+","[""Yeah, I know.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36F890; ENG blocks=0x3879E0; ENG source rows=0x3879E0#15; block_semantic_score=1.000000.

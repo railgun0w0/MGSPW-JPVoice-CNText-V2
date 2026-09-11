@@ -1,0 +1,87 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_042040,0,stream=0x42000;block=0x40;text=0,"[""stream=0x42000;block=0x40;text=0""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]",,"村の北には谷川があるんだ。そこには足場のついた水道管
+が渡してあって、橋に使える。もともと揚水発電所の導水
+に使うつもりだったらしいよ。
+","そこまで行くには収容施設北のバリケードを壊す必要があ
+るけどね。
+",[],,,NOT_CHECKED,201,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你会看到一条横跨河面的水管，
+上面有步道，可以当桥用。","[""你会看到一条横跨河面的水管，\n上面有步道，可以当桥用。""]","You'll see a water pipe running across that's got a
+walkway you can use as a bridge.
+","[""You'll see a water pipe running across that's got a\nwalkway you can use as a bridge.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#1; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,1,stream=0x42000;block=0x40;text=1,"[""stream=0x42000;block=0x40;text=1""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","村の北には谷川があるんだ。そこには足場のついた水道管
+が渡してあって、橋に使える。もともと揚水発電所の導水
+に使うつもりだったらしいよ。
+","そこまで行くには収容施設北のバリケードを壊す必要があ
+るけどね。
+","わかった。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过要去那里，
+你得先穿过监狱北边的路障。","[""不过要去那里，\n你得先穿过监狱北边的路障。""]","To get there, though, you gotta get past the
+barricade north of the prison.
+","[""To get there, though, you gotta get past the\nbarricade north of the prison.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#3; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,2,stream=0x42000;block=0x40;text=2,"[""stream=0x42000;block=0x40;text=2""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","そこまで行くには収容施設北のバリケードを壊す必要があ
+るけどね。
+","わかった。
+","谷川にはバシリスコがいるらしいけど、気を取られて落ち
+ないようにしてくれよ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了。,"[""明白了。""]","Got it.
+","[""Got it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#4; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,3,stream=0x42000;block=0x40;text=3,"[""stream=0x42000;block=0x40;text=3""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","わかった。
+","谷川にはバシリスコがいるらしいけど、気を取られて落ち
+ないようにしてくれよ。
+","バシリスコ…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"据说El basilisco就
+住在上面的峡谷里，所以小心别分心，掉进河里。","[""据说El basilisco就\n住在上面的峡谷里，所以小心别分心，掉进河里。""]","El basilisco supposedly lives in the gorge up there,
+so be careful you don't get distracted and fall in
+the river.
+","[""El basilisco supposedly lives in the gorge up there,\nso be careful you don't get distracted and fall in\nthe river.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x42040; ENG blocks=0xCFF70,0xCFF70; ENG source rows=0xCFF70#5,0xCFF70#6; block_semantic_score=0.144050."
+BRIEFING_FILES_BLOCK_042040,4,stream=0x42000;block=0x40;text=4,"[""stream=0x42000;block=0x40;text=4""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","谷川にはバシリスコがいるらしいけど、気を取られて落ち
+ないようにしてくれよ。
+","バシリスコ…。
+","あ、いや。俺が見た化け物のことじゃない。本物のバシリ
+スコさ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,basilisco…？,"[""basilisco…？""]","The basilisco...?
+","[""The basilisco...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#7; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,5,stream=0x42000;block=0x40;text=5,"[""stream=0x42000;block=0x40;text=5""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","バシリスコ…。
+","あ、いや。俺が見た化け物のことじゃない。本物のバシリ
+スコさ。
+","本物？　伝説の蛇の王か？
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不是我看到的那只大怪物。
+我是说真正的basilisco。","[""不是我看到的那只大怪物。\n我是说真正的basilisco。""]","Not the big monster I saw. I mean the real basilisco.
+","[""Not the big monster I saw. I mean the real basilisco.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#8; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,6,stream=0x42000;block=0x40;text=6,"[""stream=0x42000;block=0x40;text=6""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","あ、いや。俺が見た化け物のことじゃない。本物のバシリ
+スコさ。
+","本物？　伝説の蛇の王か？
+","蛇っていうか、トカゲだよ。川の上を走るんだ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真正的那个？传说中的蛇王？,"[""真正的那个？传说中的蛇王？""]","The real one? The legendary king of snakes?
+","[""The real one? The legendary king of snakes?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#9; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,7,stream=0x42000;block=0x40;text=7,"[""stream=0x42000;block=0x40;text=7""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","本物？　伝説の蛇の王か？
+","蛇っていうか、トカゲだよ。川の上を走るんだ。
+","そんなトカゲが？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我觉得更像是蜥蜴。
+它能在水面上行走。","[""我觉得更像是蜥蜴。\n它能在水面上行走。""]","More like a lizard, I guess. It walks on top of the
+river.
+","[""More like a lizard, I guess. It walks on top of the\nriver.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#10; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,8,stream=0x42000;block=0x40;text=8,"[""stream=0x42000;block=0x40;text=8""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","蛇っていうか、トカゲだよ。川の上を走るんだ。
+","そんなトカゲが？
+","あれはなかなか見物だぜ！　<R=1バーラ,80cm>程度だから、大きく
+はないけどな。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能在水上行走的蜥蜴？,"[""能在水上行走的蜥蜴？""]","A lizard that walks on water?
+","[""A lizard that walks on water?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#11; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,9,stream=0x42000;block=0x40;text=9,"[""stream=0x42000;block=0x40;text=9""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","そんなトカゲが？
+","あれはなかなか見物だぜ！　<R=1バーラ,80cm>程度だから、大きく
+はないけどな。
+","トカゲにしちゃ大きい方だ。
+","[""<R=1バーラ,80cm>""]",,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"天哪，你真该亲眼看看！不过它没那么
+大，只有一瓦拉（约30英寸）长。","[""天哪，你真该亲眼看看！不过它没那么\n大，只有一瓦拉（约30英寸）长。""]","Man, you should see it! It's not that big, though,
+only about one vara (30 in) long.
+","[""Man, you should see it! It's not that big, though,\nonly about one vara (30 in) long.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#12; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,10,stream=0x42000;block=0x40;text=10,"[""stream=0x42000;block=0x40;text=10""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","あれはなかなか見物だぜ！　<R=1バーラ,80cm>程度だから、大きく
+はないけどな。
+","トカゲにしちゃ大きい方だ。
+","恐竜に比べたら全然小さいさ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对蜥蜴来说，这体型算不小了。,"[""对蜥蜴来说，这体型算不小了。""]","Pretty good size for a lizard.
+","[""Pretty good size for a lizard.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#13; block_semantic_score=0.144050.
+BRIEFING_FILES_BLOCK_042040,11,stream=0x42000;block=0x40;text=11,"[""stream=0x42000;block=0x40;text=11""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","トカゲにしちゃ大きい方だ。
+","恐竜に比べたら全然小さいさ。
+",,[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，但跟恐龙比还是差远了！,"[""是啊，但跟恐龙比还是差远了！""]","Yeah, but not nearly as big as a dinosaur!
+","[""Yeah, but not nearly as big as a dinosaur!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42040; ENG blocks=0xCFF70; ENG source rows=0xCFF70#14; block_semantic_score=0.144050.

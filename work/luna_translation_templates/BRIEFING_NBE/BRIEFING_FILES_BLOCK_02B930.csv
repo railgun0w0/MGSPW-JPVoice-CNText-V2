@@ -1,0 +1,90 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02B930,0,stream=0x2B000;block=0x930;text=0,"[""stream=0x2B000;block=0x930;text=0""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]",,"コスタリカの鉄道建設は、難工事の連続。犠牲者が大勢出
+て、工事の中断もあったそうよ。
+","ここもその一つ。急な地形を登り切って、ようやく開けた
+場所に車庫を造ったらしいの。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"正如我之前说的，在哥斯达黎加
+修建铁路是个危险的工作。死了很多人，有时工程会完全停工。","[""正如我之前说的，在哥斯达黎加\n修建铁路是个危险的工作。死了很多人，有时工程会完全停工。""]","As I said before, building railroads in Costa Rica
+was a dangerous job.
+A lot of men died, and sometimes they stopped
+work altogether.
+","[""As I said before, building railroads in Costa Rica\nwas a dangerous job.\nA lot of men died, and sometimes they stopped\nwork altogether.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2B930; ENG blocks=0xBCB50,0xBCB50; ENG source rows=0xBCB50#0,0xBCB50#1; block_semantic_score=0.108000."
+BRIEFING_FILES_BLOCK_02B930,1,stream=0x2B000;block=0x930;text=1,"[""stream=0x2B000;block=0x930;text=1""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","コスタリカの鉄道建設は、難工事の連続。犠牲者が大勢出
+て、工事の中断もあったそうよ。
+","ここもその一つ。急な地形を登り切って、ようやく開けた
+場所に車庫を造ったらしいの。
+","それで付いた名前が…。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这地方就是其中之一。
+他们必须穿过陡峭的地形，","[""这地方就是其中之一。\n他们必须穿过陡峭的地形，""]","This is one of those places. They had to cut
+through steep terrain,
+","[""This is one of those places. They had to cut\nthrough steep terrain,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#2; block_semantic_score=0.108000.
+BRIEFING_FILES_BLOCK_02B930,2,stream=0x2B000;block=0x930;text=2,"[""stream=0x2B000;block=0x930;text=2""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","ここもその一つ。急な地形を登り切って、ようやく開けた
+場所に車庫を造ったらしいの。
+","それで付いた名前が…。
+","<R=絞首台,エル・カダルソ>か。いい趣味とは言えんな。しかしそんな調子で、
+よく建設資金が続いたもんだ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,也因此得名…,"[""也因此得名…""]","And that's why they named it...
+","[""And that's why they named it...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#4; block_semantic_score=0.108000.
+BRIEFING_FILES_BLOCK_02B930,3,stream=0x2B000;block=0x930;text=3,"[""stream=0x2B000;block=0x930;text=3""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","それで付いた名前が…。
+","<R=絞首台,エル・カダルソ>か。いい趣味とは言えんな。しかしそんな調子で、
+よく建設資金が続いたもんだ。
+","実際、足りなくなったの。でもバナナのおかげで、工事が
+完成したんですって。
+","[""<R=絞首台,エル・カダルソ>""]",,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,El Cadalso…绞刑台。真会起名。照当时的情况，我惊讶资金没断流。,"[""El Cadalso…绞刑台。真会起名。照当时的情况，我惊讶资金没断流。""]","El Cadalso... the Gallows. Charming.
+I'm surprised the construction money didn't dry up
+the way things were going.
+","[""El Cadalso... the Gallows. Charming.\nI'm surprised the construction money didn't dry up\nthe way things were going.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2B930; ENG blocks=0xBCB50,0xBCB50; ENG source rows=0xBCB50#5,0xBCB50#6; block_semantic_score=0.108000."
+BRIEFING_FILES_BLOCK_02B930,4,stream=0x2B000;block=0x930;text=4,"[""stream=0x2B000;block=0x930;text=4""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","<R=絞首台,エル・カダルソ>か。いい趣味とは言えんな。しかしそんな調子で、
+よく建設資金が続いたもんだ。
+","実際、足りなくなったの。でもバナナのおかげで、工事が
+完成したんですって。
+","バナナを食べて、工事を頑張ったって事か？　確かにバナ
+ナの栄養価は…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"实际上确实断了。但据说香蕉帮了忙，
+让工程最终完成。","[""实际上确实断了。但据说香蕉帮了忙，\n让工程最终完成。""]","Actually, it did. But the bananas helped complete it,
+so they say.
+","[""Actually, it did. But the bananas helped complete it,\nso they say.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#7; block_semantic_score=0.108000.
+BRIEFING_FILES_BLOCK_02B930,5,stream=0x2B000;block=0x930;text=5,"[""stream=0x2B000;block=0x930;text=5""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","実際、足りなくなったの。でもバナナのおかげで、工事が
+完成したんですって。
+","バナナを食べて、工事を頑張ったって事か？　確かにバナ
+ナの栄養価は…。
+","違う違う、鉄道建設の資金をひねり出すために、バナナの
+輸出を始めたってこと。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你是说…工人们吃香蕉获得的能量？我猜香蕉富含维生素，而且…,"[""你是说…工人们吃香蕉获得的能量？我猜香蕉富含维生素，而且…""]","You mean... the energy the workers got from
+eating bananas?
+I suppose they do have plenty of vitamins and...
+","[""You mean... the energy the workers got from\neating bananas?\nI suppose they do have plenty of vitamins and...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2B930; ENG blocks=0xBCB50,0xBCB50; ENG source rows=0xBCB50#8,0xBCB50#9; block_semantic_score=0.108000."
+BRIEFING_FILES_BLOCK_02B930,6,stream=0x2B000;block=0x930;text=6,"[""stream=0x2B000;block=0x930;text=6""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","バナナを食べて、工事を頑張ったって事か？　確かにバナ
+ナの栄養価は…。
+","違う違う、鉄道建設の資金をひねり出すために、バナナの
+輸出を始めたってこと。
+","なんだ…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不不不，我指的是他们靠出口
+香蕉赚到的钱，才完成了工程。","[""不不不，我指的是他们靠出口\n香蕉赚到的钱，才完成了工程。""]","No, no, no, I meant the money they got to finish it
+came from exporting bananas.
+","[""No, no, no, I meant the money they got to finish it\ncame from exporting bananas.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#10; block_semantic_score=0.108000.
+BRIEFING_FILES_BLOCK_02B930,7,stream=0x2B000;block=0x930;text=7,"[""stream=0x2B000;block=0x930;text=7""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","違う違う、鉄道建設の資金をひねり出すために、バナナの
+輸出を始めたってこと。
+","なんだ…。
+","ところがこれが大当たり！
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦…,"[""哦…""]","Oh...
+","[""Oh...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#11; block_semantic_score=0.108000.
+BRIEFING_FILES_BLOCK_02B930,8,stream=0x2B000;block=0x930;text=8,"[""stream=0x2B000;block=0x930;text=8""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","なんだ…。
+","ところがこれが大当たり！
+","鉄道のオーナーは、工事を完成させただけじゃなく、バナ
+ナの取引商社まで始めることにしたの。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但有一件事是确定的！,"[""但有一件事是确定的！""]","But one thing is for certain!
+","[""But one thing is for certain!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#12; block_semantic_score=0.108000.
+BRIEFING_FILES_BLOCK_02B930,9,stream=0x2B000;block=0x930;text=9,"[""stream=0x2B000;block=0x930;text=9""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","ところがこれが大当たり！
+","鉄道のオーナーは、工事を完成させただけじゃなく、バナ
+ナの取引商社まで始めることにしたの。
+","これが、コスタリカにおけるバナナ栽培の初めね。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"铁路的所有者在工程完工后，
+扩展到了香蕉贸易中。","[""铁路的所有者在工程完工后，\n扩展到了香蕉贸易中。""]","The owners of the railroads expanded into the
+banana trade
+","[""The owners of the railroads expanded into the\nbanana trade\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#13; block_semantic_score=0.108000.
+BRIEFING_FILES_BLOCK_02B930,10,stream=0x2B000;block=0x930;text=10,"[""stream=0x2B000;block=0x930;text=10""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x930;block_file=0x2B930;text_base=0x2B97C;capacity=1024""]","鉄道のオーナーは、工事を完成させただけじゃなく、バナ
+ナの取引商社まで始めることにしたの。
+","これが、コスタリカにおけるバナナ栽培の初めね。
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那就是哥斯达黎加香蕉种植的开端。,"[""那就是哥斯达黎加香蕉种植的开端。""]","after construction was completed.
+","[""after construction was completed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B930; ENG blocks=0xBCB50; ENG source rows=0xBCB50#14; block_semantic_score=0.108000.

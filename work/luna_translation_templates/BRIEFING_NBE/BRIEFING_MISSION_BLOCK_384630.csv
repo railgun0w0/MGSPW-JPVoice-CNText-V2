@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_384630,0,stream=0x384000;block=0x630;text=0,"[""stream=0x384000;block=0x630;text=0""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x630;block_file=0x384630;text_base=0x384660;capacity=520""]",,"昨夜未明、太平洋沿岸よりコスタリカ南部に上陸した
+ギアレックスは、なおも北上を続け…
+","本日正午に、イラス西部の火口付近へ到達。
+現在は、その動きを止めている。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"昨晚，一只Gear REX在
+哥斯达黎加的南太平洋沿岸登陆。","[""昨晚，一只Gear REX在\n哥斯达黎加的南太平洋沿岸登陆。""]","Last night, a Gear REX came ashore on
+the southern Pacific coast of Costa Rica.
+","[""Last night, a Gear REX came ashore on\nthe southern Pacific coast of Costa Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x384630; ENG blocks=0x399AA0; ENG source rows=0x399AA0#0; block_semantic_score=0.287601.
+BRIEFING_MISSION_BLOCK_384630,1,stream=0x384000;block=0x630;text=1,"[""stream=0x384000;block=0x630;text=1""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x630;block_file=0x384630;text_base=0x384660;capacity=520""]","昨夜未明、太平洋沿岸よりコスタリカ南部に上陸した
+ギアレックスは、なおも北上を続け…
+","本日正午に、イラス西部の火口付近へ到達。
+現在は、その動きを止めている。
+","軍隊のないコスタリカは、この猛威を抑止出来ず、
+付近ではギアレックスによる住居、建造物などの
+被害報告が相次いでいる。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"之后它一路向北，
+今天中午抵达伊拉苏火山口附近。","[""之后它一路向北，\n今天中午抵达伊拉苏火山口附近。""]","From there it headed north and reached
+the vicinity of Irazú's crater around noon
+today.
+","[""From there it headed north and reached\nthe vicinity of Irazú's crater around noon\ntoday.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x384630; ENG blocks=0x399AA0; ENG source rows=0x399AA0#1; block_semantic_score=0.287601.
+BRIEFING_MISSION_BLOCK_384630,2,stream=0x384000;block=0x630;text=2,"[""stream=0x384000;block=0x630;text=2""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x630;block_file=0x384630;text_base=0x384660;capacity=520""]","本日正午に、イラス西部の火口付近へ到達。
+現在は、その動きを止めている。
+","軍隊のないコスタリカは、この猛威を抑止出来ず、
+付近ではギアレックスによる住居、建造物などの
+被害報告が相次いでいる。
+","頼む！　コスタリカの平和のため、現地へ向かって
+ギアレックスを鎮めるんだ！
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加没有军队来
+对付这种级别的威胁。我们接到了数十起附近房屋和
+其他建筑遭到破坏的报告。","[""哥斯达黎加没有军队来\n对付这种级别的威胁。我们接到了数十起附近房屋和\n其他建筑遭到破坏的报告。""]","Costa Rica doesn't have an army to deal
+with threats this big.
+We're getting dozens of reports of
+damage to nearby houses and other
+buildings.
+","[""Costa Rica doesn't have an army to deal\nwith threats this big.\nWe're getting dozens of reports of\ndamage to nearby houses and other\nbuildings.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x384630; ENG blocks=0x399AA0,0x399AA0; ENG source rows=0x399AA0#3,0x399AA0#4; block_semantic_score=0.287601."
+BRIEFING_MISSION_BLOCK_384630,3,stream=0x384000;block=0x630;text=3,"[""stream=0x384000;block=0x630;text=3""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x630;block_file=0x384630;text_base=0x384660;capacity=520""]","軍隊のないコスタリカは、この猛威を抑止出来ず、
+付近ではギアレックスによる住居、建造物などの
+被害報告が相次いでいる。
+","頼む！　コスタリカの平和のため、現地へ向かって
+ギアレックスを鎮めるんだ！
+",,[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为了哥斯达黎加的和平，我们需要你前往火山口，
+把Gear REX控制住！","[""为了哥斯达黎加的和平，我们需要你前往火山口，\n把Gear REX控制住！""]","For the sake of peace in Costa Rica,
+we need you to head to the crater and
+get the Gear REX under control!
+","[""For the sake of peace in Costa Rica,\nwe need you to head to the crater and\nget the Gear REX under control!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x384630; ENG blocks=0x399AA0,0x399AA0; ENG source rows=0x399AA0#5,0x399AA0#6; block_semantic_score=0.287601."

@@ -1,0 +1,68 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_045660,0,stream=0x45000;block=0x660;text=0,"[""stream=0x45000;block=0x660;text=0""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]",,"モノスってのは初耳だ。
+","ビッグフットに比べると有名じゃないかもな。ベネズエラ
+にいる猿人なんだけど。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,得承认，我从没听说过Mono Grande。,"[""得承认，我从没听说过Mono Grande。""]","Gotta admit, I've never heard of Mono Grande.
+","[""Gotta admit, I've never heard of Mono Grande.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#0; block_semantic_score=0.129109.
+BRIEFING_FILES_BLOCK_045660,1,stream=0x45000;block=0x660;text=1,"[""stream=0x45000;block=0x660;text=1""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","モノスってのは初耳だ。
+","ビッグフットに比べると有名じゃないかもな。ベネズエラ
+にいる猿人なんだけど。
+","大きさは<R=2バーラ,1.6m>以下だから大したことないんだけど、凶
+暴さではビッグフット以上らしいぜ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，他没大脚怪那么有名。他和
+大脚怪很像，不过他住在委内瑞拉。","[""是啊，他没大脚怪那么有名。他和\n大脚怪很像，不过他住在委内瑞拉。""]","Yeah, he's not as famous as Bigfoot. He's similar,
+but he lives in Venezuela.
+","[""Yeah, he's not as famous as Bigfoot. He's similar,\nbut he lives in Venezuela.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#1; block_semantic_score=0.129109.
+BRIEFING_FILES_BLOCK_045660,2,stream=0x45000;block=0x660;text=2,"[""stream=0x45000;block=0x660;text=2""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","ビッグフットに比べると有名じゃないかもな。ベネズエラ
+にいる猿人なんだけど。
+","大きさは<R=2バーラ,1.6m>以下だから大したことないんだけど、凶
+暴さではビッグフット以上らしいぜ。
+","どんなに凶暴なんだろうな？　捕まえた動物を死ぬまで殴
+り続けるとか…。
+","[""<R=2バーラ,1.6m>""]",,,NOT_CHECKED,138,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他没那么大——不到两瓦拉（5.5英尺）——但他比大脚怪凶猛多了。,"[""他没那么大——不到两瓦拉（5.5英尺）——但他比大脚怪凶猛多了。""]","He's not that big - less than two vara (5.5 ft)
+- but he's way more ferocious than Bigfoot.
+","[""He's not that big - less than two vara (5.5 ft)\n- but he's way more ferocious than Bigfoot.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x45660; ENG blocks=0xD3310,0xD3310; ENG source rows=0xD3310#2,0xD3310#3; block_semantic_score=0.129109."
+BRIEFING_FILES_BLOCK_045660,3,stream=0x45000;block=0x660;text=3,"[""stream=0x45000;block=0x660;text=3""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","大きさは<R=2バーラ,1.6m>以下だから大したことないんだけど、凶
+暴さではビッグフット以上らしいぜ。
+","どんなに凶暴なんだろうな？　捕まえた動物を死ぬまで殴
+り続けるとか…。
+","獲物を殺して食べるのは自然の掟だ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我好奇他到底有多凶残？比如他抓
+到猎物时，会不会一拳把它打死…？","[""我好奇他到底有多凶残？比如他抓\n到猎物时，会不会一拳把它打死…？""]","I wonder just how mean he is? Like when he
+catches his prey, does he punch it to death...?
+","[""I wonder just how mean he is? Like when he\ncatches his prey, does he punch it to death...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#4; block_semantic_score=0.129109.
+BRIEFING_FILES_BLOCK_045660,4,stream=0x45000;block=0x660;text=4,"[""stream=0x45000;block=0x660;text=4""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","どんなに凶暴なんだろうな？　捕まえた動物を死ぬまで殴
+り続けるとか…。
+","獲物を殺して食べるのは自然の掟だ。
+","でも、噛みつくより殴りつけるほうが凶暴そうだよな。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这就是野外的法则：
+抓到猎物，杀了，然后吃掉。","[""这就是野外的法则：\n抓到猎物，杀了，然后吃掉。""]","That's the law of the wild: you catch your prey,
+you kill it, and you eat it.
+","[""That's the law of the wild: you catch your prey,\nyou kill it, and you eat it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#5; block_semantic_score=0.129109.
+BRIEFING_FILES_BLOCK_045660,5,stream=0x45000;block=0x660;text=5,"[""stream=0x45000;block=0x660;text=5""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","獲物を殺して食べるのは自然の掟だ。
+","でも、噛みつくより殴りつけるほうが凶暴そうだよな。
+","人間に似ているだけにそう感じるのかもしれない。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对对！但用拳头打可比
+用嘴咬凶猛多了。","[""对对！但用拳头打可比\n用嘴咬凶猛多了。""]","Yeah! Yeah! But punching is way more ferocious
+than biting.
+","[""Yeah! Yeah! But punching is way more ferocious\nthan biting.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#6; block_semantic_score=0.129109.
+BRIEFING_FILES_BLOCK_045660,6,stream=0x45000;block=0x660;text=6,"[""stream=0x45000;block=0x660;text=6""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","でも、噛みつくより殴りつけるほうが凶暴そうだよな。
+","人間に似ているだけにそう感じるのかもしれない。
+","…それにしても随分楽しそうだな、チコ。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许你会这么觉得，
+是因为人类就是这样干的。","[""也许你会这么觉得，\n是因为人类就是这样干的。""]","Maybe it seems that way because that's what
+humans do.
+","[""Maybe it seems that way because that's what\nhumans do.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#7; block_semantic_score=0.129109.
+BRIEFING_FILES_BLOCK_045660,7,stream=0x45000;block=0x660;text=7,"[""stream=0x45000;block=0x660;text=7""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","人間に似ているだけにそう感じるのかもしれない。
+","…それにしても随分楽しそうだな、チコ。
+","やっぱり、未知の生き物には凶暴であって欲しいぜ。そう
+じゃないとハンターも狩り甲斐がないからな！
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你还真是喜欢未知生物啊，Chico？,"[""…你还真是喜欢未知生物啊，Chico？""]","...You really love UMAs, don't you, Chico?
+","[""...You really love UMAs, don't you, Chico?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#8; block_semantic_score=0.129109.
+BRIEFING_FILES_BLOCK_045660,8,stream=0x45000;block=0x660;text=8,"[""stream=0x45000;block=0x660;text=8""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x660;block_file=0x45660;text_base=0x456A4;capacity=800""]","…それにしても随分楽しそうだな、チコ。
+","やっぱり、未知の生き物には凶暴であって欲しいぜ。そう
+じゃないとハンターも狩り甲斐がないからな！
+",,[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道我怎么想吗？
+我觉得未知生物就该危险一点。","[""你知道我怎么想吗？\n我觉得未知生物就该危险一点。""]","You know what I think? I think UMAs should be
+dangerous.
+","[""You know what I think? I think UMAs should be\ndangerous.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45660; ENG blocks=0xD3310; ENG source rows=0xD3310#9; block_semantic_score=0.129109.

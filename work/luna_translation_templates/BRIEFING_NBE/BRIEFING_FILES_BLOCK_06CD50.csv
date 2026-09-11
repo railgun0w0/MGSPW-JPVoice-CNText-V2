@@ -1,0 +1,111 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06CD50,0,stream=0x6C000;block=0xD50;text=0,"[""stream=0x6C000;block=0xD50;text=0""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]",,"<R=CIA,コールドマン>の言う「<R=平和歩行計画,ピースウォーカー>」…本当に信じていたのか。
+","ああ。信じていたよ。…いや、本当は信じたかっただけな
+のかも。
+","[""<R=CIA,コールドマン>"", ""<R=平和歩行計画,ピースウォーカー>""]",,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"中情局(CIA)所说的这个“和平行者
+计划”——你当时相信它，对吧？","[""中情局(CIA)所说的这个“和平行者\n计划”——你当时相信它，对吧？""]","This ""Peace Walker Project"" the CIA's talking about
+- you believed in it, huh?
+","[""This \""Peace Walker Project\"" the CIA's talking about\n- you believed in it, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#0; block_semantic_score=0.160418.
+BRIEFING_FILES_BLOCK_06CD50,1,stream=0x6C000;block=0xD50;text=1,"[""stream=0x6C000;block=0xD50;text=1""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","<R=CIA,コールドマン>の言う「<R=平和歩行計画,ピースウォーカー>」…本当に信じていたのか。
+","ああ。信じていたよ。…いや、本当は信じたかっただけな
+のかも。
+","どういうことだ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊。我相信过…其实，
+也许我只是想要相信。","[""是啊。我相信过…其实，\n也许我只是想要相信。""]","Yeah. I believed... Actually, maybe I just wanted to
+believe.
+","[""Yeah. I believed... Actually, maybe I just wanted to\nbelieve.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#1; block_semantic_score=0.160418.
+BRIEFING_FILES_BLOCK_06CD50,2,stream=0x6C000;block=0xD50;text=2,"[""stream=0x6C000;block=0xD50;text=2""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","ああ。信じていたよ。…いや、本当は信じたかっただけな
+のかも。
+","どういうことだ。
+","コールドマンはこう言った。ピースウォーカーは真の核抑
+止を実現する、平和のための兵器だ。中米情勢を安定させ
+るための重しにもなる…。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么意思？,"[""什么意思？""]","What do you mean?
+","[""What do you mean?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#2; block_semantic_score=0.160418.
+BRIEFING_FILES_BLOCK_06CD50,3,stream=0x6C000;block=0xD50;text=3,"[""stream=0x6C000;block=0xD50;text=3""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","どういうことだ。
+","コールドマンはこう言った。ピースウォーカーは真の核抑
+止を実現する、平和のための兵器だ。中米情勢を安定させ
+るための重しにもなる…。
+","『君の造った核兵器は決して使われず、永遠に君臨する平
+和の<R=象徴,イコン>になるのだ』とね。
+",[],,,NOT_CHECKED,195,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Coldman是这样解释的：
+和平行者是和平的武器，一种确保真正核威慑的武器。它将成为稳定中美洲的基石…","[""Coldman是这样解释的：\n和平行者是和平的武器，一种确保真正核威慑的武器。它将成为稳定中美洲的基石…""]","Here's how Coldman explained it. Peace Walker's a
+weapon for peace,
+one to ensure true nuclear deterrence.
+It'd be the anchor to bring stability to Central
+America...
+","[""Here's how Coldman explained it. Peace Walker's a\nweapon for peace,\none to ensure true nuclear deterrence.\nIt'd be the anchor to bring stability to Central\nAmerica...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x6CD50; ENG blocks=0xF9500,0xF9500,0xF9500; ENG source rows=0xF9500#3,0xF9500#4,0xF9500#5; block_semantic_score=0.160418."
+BRIEFING_FILES_BLOCK_06CD50,4,stream=0x6C000;block=0xD50;text=4,"[""stream=0x6C000;block=0xD50;text=4""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","コールドマンはこう言った。ピースウォーカーは真の核抑
+止を実現する、平和のための兵器だ。中米情勢を安定させ
+るための重しにもなる…。
+","『君の造った核兵器は決して使われず、永遠に君臨する平
+和の<R=象徴,イコン>になるのだ』とね。
+","そしてその実現のためには、僕の二足歩行技術が必要だ…
+そう言われた時、正直嬉しかった。
+","[""<R=象徴,イコン>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他告诉我：“你建造的核武器
+系统永远不会被使用。它将作为和平的象征永远守望。”","[""他告诉我：“你建造的核武器\n系统永远不会被使用。它将作为和平的象征永远守望。”""]","He told me, ""The nuclear weapons system you've
+built will never be used.
+It will forever stand vigil as an icon of peace.""
+","[""He told me, \""The nuclear weapons system you've\nbuilt will never be used.\nIt will forever stand vigil as an icon of peace.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6CD50; ENG blocks=0xF9500,0xF9500; ENG source rows=0xF9500#6,0xF9500#7; block_semantic_score=0.160418."
+BRIEFING_FILES_BLOCK_06CD50,5,stream=0x6C000;block=0xD50;text=5,"[""stream=0x6C000;block=0xD50;text=5""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","『君の造った核兵器は決して使われず、永遠に君臨する平
+和の<R=象徴,イコン>になるのだ』とね。
+","そしてその実現のためには、僕の二足歩行技術が必要だ…
+そう言われた時、正直嬉しかった。
+","嬉しかった？
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而为了实现那个目标，
+他需要我的双足行走技术…","[""而为了实现那个目标，\n他需要我的双足行走技术…""]","And to achieve that, he needed my bipedal
+locomotion technology...
+","[""And to achieve that, he needed my bipedal\nlocomotion technology...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#8; block_semantic_score=0.160418.
+BRIEFING_FILES_BLOCK_06CD50,6,stream=0x6C000;block=0xD50;text=6,"[""stream=0x6C000;block=0xD50;text=6""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","そしてその実現のためには、僕の二足歩行技術が必要だ…
+そう言われた時、正直嬉しかった。
+","嬉しかった？
+","だってそうだろう？　僕は学会の連中にずっと馬鹿にされ
+てきた。二足歩行なんて非現実的だ、意味がないって。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,受宠若惊？,"[""受宠若惊？""]","Flattered?
+","[""Flattered?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#10; block_semantic_score=0.160418.
+BRIEFING_FILES_BLOCK_06CD50,7,stream=0x6C000;block=0xD50;text=7,"[""stream=0x6C000;block=0xD50;text=7""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","嬉しかった？
+","だってそうだろう？　僕は学会の連中にずっと馬鹿にされ
+てきた。二足歩行なんて非現実的だ、意味がないって。
+","初めて自分の研究が認められたんだ…嬉しくないわけがな
+い…それに。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"科学界的同事们从来就没把我当回事。他们告诉我双足行走是白日梦，
+永远成不了气候。","[""科学界的同事们从来就没把我当回事。他们告诉我双足行走是白日梦，\n永远成不了气候。""]","My colleagues in the scientific community have
+never taken me seriously.
+They told me bipedal locomotion was a pipe dream,
+that it'd never amount to anything.
+","[""My colleagues in the scientific community have\nnever taken me seriously.\nThey told me bipedal locomotion was a pipe dream,\nthat it'd never amount to anything.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6CD50; ENG blocks=0xF9500,0xF9500; ENG source rows=0xF9500#12,0xF9500#13; block_semantic_score=0.160418."
+BRIEFING_FILES_BLOCK_06CD50,8,stream=0x6C000;block=0xD50;text=8,"[""stream=0x6C000;block=0xD50;text=8""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","だってそうだろう？　僕は学会の連中にずっと馬鹿にされ
+てきた。二足歩行なんて非現実的だ、意味がないって。
+","初めて自分の研究が認められたんだ…嬉しくないわけがな
+い…それに。
+","これで僕は、父を超えることができる。平和のための核を
+作ることで。…そう思ったんだ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那是第一次有人认可我的工作…我怎么能不高兴？再说了…,"[""那是第一次有人认可我的工作…我怎么能不高兴？再说了…""]","It was the first time anybody recognized my work...
+How could I not be happy? And besides...
+","[""It was the first time anybody recognized my work...\nHow could I not be happy? And besides...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6CD50; ENG blocks=0xF9500,0xF9500; ENG source rows=0xF9500#14,0xF9500#15; block_semantic_score=0.160418."
+BRIEFING_FILES_BLOCK_06CD50,9,stream=0x6C000;block=0xD50;text=9,"[""stream=0x6C000;block=0xD50;text=9""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","初めて自分の研究が認められたんだ…嬉しくないわけがな
+い…それに。
+","これで僕は、父を超えることができる。平和のための核を
+作ることで。…そう思ったんだ。
+","だが、コールドマンは実際に核を撃つつもりだ。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那是我超越父亲的机会。,"[""那是我超越父亲的机会。""]","It was my chance to surpass my father.
+","[""It was my chance to surpass my father.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#16; block_semantic_score=0.160418.
+BRIEFING_FILES_BLOCK_06CD50,10,stream=0x6C000;block=0xD50;text=10,"[""stream=0x6C000;block=0xD50;text=10""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","これで僕は、父を超えることができる。平和のための核を
+作ることで。…そう思ったんだ。
+","だが、コールドマンは実際に核を撃つつもりだ。
+","ああ。考えてみれば、当たり前の話さ。「無人システムな
+ら核を撃てる」…そう実証しなければ、この計画は認めら
+れないんだからね。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为了和平而制造核武器…
+至少我当时是这么想的。","[""为了和平而制造核武器…\n至少我当时是这么想的。""]","To create nukes for peace... Or so I thought,
+anyway.
+","[""To create nukes for peace... Or so I thought,\nanyway.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#17; block_semantic_score=0.160418.
+BRIEFING_FILES_BLOCK_06CD50,11,stream=0x6C000;block=0xD50;text=11,"[""stream=0x6C000;block=0xD50;text=11""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","だが、コールドマンは実際に核を撃つつもりだ。
+","ああ。考えてみれば、当たり前の話さ。「無人システムな
+ら核を撃てる」…そう実証しなければ、この計画は認めら
+れないんだからね。
+",,[],,,NOT_CHECKED,186,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"除非能证明无人系统具备发射核弹的
+能力，否则没人会关注这个项目。","[""除非能证明无人系统具备发射核弹的\n能力，否则没人会关注这个项目。""]","No one would give the project any notice unless
+they could prove that an unmanned system is
+capable of launching a nuke.
+","[""No one would give the project any notice unless\nthey could prove that an unmanned system is\ncapable of launching a nuke.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CD50; ENG blocks=0xF9500; ENG source rows=0xF9500#20; block_semantic_score=0.160418.

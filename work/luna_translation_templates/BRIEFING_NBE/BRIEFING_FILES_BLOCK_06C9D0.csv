@@ -1,0 +1,45 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06C9D0,0,stream=0x6C000;block=0x9D0;text=0,"[""stream=0x6C000;block=0x9D0;text=0""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x9D0;block_file=0x6C9D0;text_base=0x6CA04;capacity=640""]",,"それにしても、ピースウォーカーが脚で移動する必要はな
+いんじゃないか？　キャタピラで十分だと思うが。
+","それがダメなんだ。知っての通り、中米の地形は複雑で険
+しい。特にコスタリカ、カリブ海沿岸はね。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"好吧，但为什么和平
+行者需要两条腿走路？","[""好吧，但为什么和平\n行者需要两条腿走路？""]","OK, but why does Peace Walker need to walk on
+two legs?
+","[""OK, but why does Peace Walker need to walk on\ntwo legs?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C9D0; ENG blocks=0xF9120; ENG source rows=0xF9120#0; block_semantic_score=0.103514.
+BRIEFING_FILES_BLOCK_06C9D0,1,stream=0x6C000;block=0x9D0;text=1,"[""stream=0x6C000;block=0x9D0;text=1""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x9D0;block_file=0x6C9D0;text_base=0x6CA04;capacity=640""]","それにしても、ピースウォーカーが脚で移動する必要はな
+いんじゃないか？　キャタピラで十分だと思うが。
+","それがダメなんだ。知っての通り、中米の地形は複雑で険
+しい。特にコスタリカ、カリブ海沿岸はね。
+","密林・湿地・山岳…どんな険しい地形でも走破できるのは、
+結局脚以外にないんだよ。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如你所知，中美洲的地形崎岖复杂。尤其是在哥斯达黎加的
+加勒比海岸沿线。","[""如你所知，中美洲的地形崎岖复杂。尤其是在哥斯达黎加的\n加勒比海岸沿线。""]","As you know, the terrain in Central America is
+rugged and complex.
+Especially along the Caribbean coast of Costa Rica.
+","[""As you know, the terrain in Central America is\nrugged and complex.\nEspecially along the Caribbean coast of Costa Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6C9D0; ENG blocks=0xF9120,0xF9120; ENG source rows=0xF9120#3,0xF9120#4; block_semantic_score=0.103514."
+BRIEFING_FILES_BLOCK_06C9D0,2,stream=0x6C000;block=0x9D0;text=2,"[""stream=0x6C000;block=0x9D0;text=2""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x9D0;block_file=0x6C9D0;text_base=0x6CA04;capacity=640""]","それがダメなんだ。知っての通り、中米の地形は複雑で険
+しい。特にコスタリカ、カリブ海沿岸はね。
+","密林・湿地・山岳…どんな険しい地形でも走破できるのは、
+結局脚以外にないんだよ。
+","湿地のぬかるみは、脚で歩くにも大変だと思うがな。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那里有丛林、沼泽、山地…,"[""那里有丛林、沼泽、山地…""]","You've got jungles, swamps, mountains...
+","[""You've got jungles, swamps, mountains...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C9D0; ENG blocks=0xF9120; ENG source rows=0xF9120#5; block_semantic_score=0.103514.
+BRIEFING_FILES_BLOCK_06C9D0,3,stream=0x6C000;block=0x9D0;text=3,"[""stream=0x6C000;block=0x9D0;text=3""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x9D0;block_file=0x6C9D0;text_base=0x6CA04;capacity=640""]","密林・湿地・山岳…どんな険しい地形でも走破できるのは、
+結局脚以外にないんだよ。
+","湿地のぬかるみは、脚で歩くにも大変だと思うがな。
+","もちろん、苦労はしたさ。コスタリカを実験場に選んだの
+は、あらゆる地形でテストできるからでもあるんだ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而要想穿越所有这些地形，
+无论多么崎岖，唯一的方式就是用腿。","[""而要想穿越所有这些地形，\n无论多么崎岖，唯一的方式就是用腿。""]","And the only way to get across all that terrain, no
+matter how rugged, is on legs.
+","[""And the only way to get across all that terrain, no\nmatter how rugged, is on legs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C9D0; ENG blocks=0xF9120; ENG source rows=0xF9120#6; block_semantic_score=0.103514.
+BRIEFING_FILES_BLOCK_06C9D0,4,stream=0x6C000;block=0x9D0;text=4,"[""stream=0x6C000;block=0x9D0;text=4""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x9D0;block_file=0x6C9D0;text_base=0x6CA04;capacity=640""]","湿地のぬかるみは、脚で歩くにも大変だと思うがな。
+","もちろん、苦労はしたさ。コスタリカを実験場に選んだの
+は、あらゆる地形でテストできるからでもあるんだ。
+",,[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那当然不容易，这点可以肯定。我们之所以选择
+哥斯达黎加作为试验场，是因为我们可以在各种地形上测试它。","[""那当然不容易，这点可以肯定。我们之所以选择\n哥斯达黎加作为试验场，是因为我们可以在各种地形上测试它。""]","It wasn't easy, that's for sure.
+The reason we picked Costa Rica as a proving
+ground
+is because we can test it on every type of terrain.
+","[""It wasn't easy, that's for sure.\nThe reason we picked Costa Rica as a proving\nground\nis because we can test it on every type of terrain.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x6C9D0; ENG blocks=0xF9120,0xF9120,0xF9120; ENG source rows=0xF9120#8,0xF9120#9,0xF9120#10; block_semantic_score=0.103514."

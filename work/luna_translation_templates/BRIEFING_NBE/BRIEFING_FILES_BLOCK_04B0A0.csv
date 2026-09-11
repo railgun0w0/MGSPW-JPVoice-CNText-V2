@@ -1,0 +1,57 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04B0A0,0,stream=0x4B000;block=0xA0;text=0,"[""stream=0x4B000;block=0xA0;text=0""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]",,"海賊たちの伝承を集めた本を持ってたんだ。それによると、
+リオレウスは空の王者とも呼ばれている。
+","一般に伝えられている見た目は、翼の生えた竜…いわゆる
+ワイバーンそのものらしい。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我以前有本讲海盗传说的书。,"[""我以前有本讲海盗传说的书。""]","I used to have this book full of pirate lore.
+","[""I used to have this book full of pirate lore.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#0; block_semantic_score=0.184424.
+BRIEFING_FILES_BLOCK_04B0A0,1,stream=0x4B000;block=0xA0;text=1,"[""stream=0x4B000;block=0xA0;text=1""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]","海賊たちの伝承を集めた本を持ってたんだ。それによると、
+リオレウスは空の王者とも呼ばれている。
+","一般に伝えられている見た目は、翼の生えた竜…いわゆる
+ワイバーンそのものらしい。
+","ワイバーン…ヴラド公の紋章にも使われていた、二本足の<R=竜,ドラゴン>
+か。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,书里有个关于天空之王雄火龙的故事。,"[""书里有个关于天空之王雄火龙的故事。""]","It had this story about Rathalos, King of the Skies.
+","[""It had this story about Rathalos, King of the Skies.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#1; block_semantic_score=0.184424.
+BRIEFING_FILES_BLOCK_04B0A0,2,stream=0x4B000;block=0xA0;text=2,"[""stream=0x4B000;block=0xA0;text=2""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]","一般に伝えられている見た目は、翼の生えた竜…いわゆる
+ワイバーンそのものらしい。
+","ワイバーン…ヴラド公の紋章にも使われていた、二本足の<R=竜,ドラゴン>
+か。
+","そう、ドラキュラのモデルにもなったヴラド公の紋章さ。
+","[""<R=竜,ドラゴン>""]",,,NOT_CHECKED,106,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大多数记载都说它是有翅膀的龙，
+或者说是一种飞龙。","[""大多数记载都说它是有翅膀的龙，\n或者说是一种飞龙。""]","Most accounts describe it as a dragon with wings,
+or a wyvern.
+","[""Most accounts describe it as a dragon with wings,\nor a wyvern.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#2; block_semantic_score=0.184424.
+BRIEFING_FILES_BLOCK_04B0A0,3,stream=0x4B000;block=0xA0;text=3,"[""stream=0x4B000;block=0xA0;text=3""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]","ワイバーン…ヴラド公の紋章にも使われていた、二本足の<R=竜,ドラゴン>
+か。
+","そう、ドラキュラのモデルにもなったヴラド公の紋章さ。
+","島影も見えない大海原で船が襲われることもあったらしい
+から、リオレウスはかなり長距離を飛行できたんだろうね。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"飞龙…一种两足龙。
+穿刺公弗拉德的纹章上就有一只。","[""飞龙…一种两足龙。\n穿刺公弗拉德的纹章上就有一只。""]","A wyvern... A two-legged dragon. Vlad the Impaler's
+coat of arms had one on it.
+","[""A wyvern... A two-legged dragon. Vlad the Impaler's\ncoat of arms had one on it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#3; block_semantic_score=0.184424.
+BRIEFING_FILES_BLOCK_04B0A0,4,stream=0x4B000;block=0xA0;text=4,"[""stream=0x4B000;block=0xA0;text=4""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]","そう、ドラキュラのモデルにもなったヴラド公の紋章さ。
+","島影も見えない大海原で船が襲われることもあったらしい
+から、リオレウスはかなり長距離を飛行できたんだろうね。
+","それから、リオレウスは炎も吐くらしい。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以雄火龙一定能够长距离飞行。,"[""所以雄火龙一定能够长距离飞行。""]","so Rathalos must be able to fly great distances.
+","[""so Rathalos must be able to fly great distances.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#6; block_semantic_score=0.184424.
+BRIEFING_FILES_BLOCK_04B0A0,5,stream=0x4B000;block=0xA0;text=5,"[""stream=0x4B000;block=0xA0;text=5""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]","島影も見えない大海原で船が襲われることもあったらしい
+から、リオレウスはかなり長距離を飛行できたんだろうね。
+","それから、リオレウスは炎も吐くらしい。
+","炎を吐く？　そんな生き物がいるはずがない！
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且，据说雄火龙还会喷火！,"[""而且，据说雄火龙还会喷火！""]","And what's more, Rathalos is said to breathe fire!
+","[""And what's more, Rathalos is said to breathe fire!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#7; block_semantic_score=0.184424.
+BRIEFING_FILES_BLOCK_04B0A0,6,stream=0x4B000;block=0xA0;text=6,"[""stream=0x4B000;block=0xA0;text=6""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]","それから、リオレウスは炎も吐くらしい。
+","炎を吐く？　そんな生き物がいるはずがない！
+","相手は<R=怪物,モンストルオ>なんだ。そんな常識は捨てちまった方がいい。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,喷火？那样的动物不可能是真的！,"[""喷火？那样的动物不可能是真的！""]","Breathe fire? An animal like that can't possibly be
+real!
+","[""Breathe fire? An animal like that can't possibly be\nreal!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#8; block_semantic_score=0.184424.
+BRIEFING_FILES_BLOCK_04B0A0,7,stream=0x4B000;block=0xA0;text=7,"[""stream=0x4B000;block=0xA0;text=7""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xA0;block_file=0x4B0A0;text_base=0x4B0E0;capacity=840""]","炎を吐く？　そんな生き物がいるはずがない！
+","相手は<R=怪物,モンストルオ>なんだ。そんな常識は捨てちまった方がいい。
+",,"[""<R=怪物,モンストルオ>""]",,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们说的是怪物，Snake。
+忘掉你以为你知道的一切吧！","[""我们说的是怪物，Snake。\n忘掉你以为你知道的一切吧！""]","We're talking about a monster, Snake. Forget what
+you think you know!
+","[""We're talking about a monster, Snake. Forget what\nyou think you know!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4B0A0; ENG blocks=0xD6DC0; ENG source rows=0xD6DC0#9; block_semantic_score=0.184424.

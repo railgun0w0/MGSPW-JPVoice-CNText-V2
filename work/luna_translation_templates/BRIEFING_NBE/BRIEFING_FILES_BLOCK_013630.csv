@@ -1,0 +1,87 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_013630,0,stream=0x13000;block=0x630;text=0,"[""stream=0x13000;block=0x630;text=0""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]",,"『NAKED』…その名の通り裸だ。パンツはJUNGLE
+FATIGUESと共通だが。
+","生身の体を露出しているから、当然防御力もカムフラ率も
+低い。
+",[],,,NOT_CHECKED,87,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,赤身…穿上这身，你还真是名副其实。裤子跟丛林迷彩服是同款。,"[""赤身…穿上这身，你还真是名副其实。裤子跟丛林迷彩服是同款。""]","Naked... That's exactly what you are with this
+uniform.
+The pants are the same as the jungle fatigues.
+","[""Naked... That's exactly what you are with this\nuniform.\nThe pants are the same as the jungle fatigues.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x13630; ENG blocks=0xA63E0,0xA63E0; ENG source rows=0xA63E0#0,0xA63E0#1; block_semantic_score=0.123520."
+BRIEFING_FILES_BLOCK_013630,1,stream=0x13000;block=0x630;text=1,"[""stream=0x13000;block=0x630;text=1""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","『NAKED』…その名の通り裸だ。パンツはJUNGLE
+FATIGUESと共通だが。
+","生身の体を露出しているから、当然防御力もカムフラ率も
+低い。
+","ただ、身軽な分移動は速い。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然了，既然你直接露着皮肤，防御力和迷彩效果都会很低。,"[""当然了，既然你直接露着皮肤，防御力和迷彩效果都会很低。""]","Obviously, since you're exposing your bare skin,
+your defense and camo index are going to be low.
+","[""Obviously, since you're exposing your bare skin,\nyour defense and camo index are going to be low.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x13630; ENG blocks=0xA63E0,0xA63E0; ENG source rows=0xA63E0#2,0xA63E0#3; block_semantic_score=0.123520."
+BRIEFING_FILES_BLOCK_013630,2,stream=0x13000;block=0x630;text=2,"[""stream=0x13000;block=0x630;text=2""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","生身の体を露出しているから、当然防御力もカムフラ率も
+低い。
+","ただ、身軽な分移動は速い。
+","見た目通り、肉体派ってわけだ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好的一面是，轻便到可以走更快。,"[""好的一面是，轻便到可以走更快。""]","On the plus side, it's so light you can move around
+quicker.
+","[""On the plus side, it's so light you can move around\nquicker.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#4; block_semantic_score=0.123520.
+BRIEFING_FILES_BLOCK_013630,3,stream=0x13000;block=0x630;text=3,"[""stream=0x13000;block=0x630;text=3""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","ただ、身軽な分移動は速い。
+","見た目通り、肉体派ってわけだ。
+","なあ、スネーク。あんたの昔のコードネームは、この格好
+で暴れまわったことから来てるってのは、本当か？
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,秀肌肉也挺合适。,"[""秀肌肉也挺合适。""]","Good for showing off muscles, too.
+","[""Good for showing off muscles, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#5; block_semantic_score=0.123520.
+BRIEFING_FILES_BLOCK_013630,4,stream=0x13000;block=0x630;text=4,"[""stream=0x13000;block=0x630;text=4""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","見た目通り、肉体派ってわけだ。
+","なあ、スネーク。あんたの昔のコードネームは、この格好
+で暴れまわったことから来てるってのは、本当か？
+","デマに決まってるだろう。“NAKED”ってのは、武器装
+備、食料、すべてが現地調達だったことから付いたコード
+ネームで…。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"喂，Snake。听说他们给你那个老代号是因为你以前光着膀子
+到处跑。这是真的？","[""喂，Snake。听说他们给你那个老代号是因为你以前光着膀子\n到处跑。这是真的？""]","Hey, Snake. I heard they gave you your old code
+name
+because you used to run around with your shirt
+off. Is that true?
+","[""Hey, Snake. I heard they gave you your old code\nname\nbecause you used to run around with your shirt\noff. Is that true?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x13630; ENG blocks=0xA63E0,0xA63E0; ENG source rows=0xA63E0#6,0xA63E0#7; block_semantic_score=0.123520."
+BRIEFING_FILES_BLOCK_013630,5,stream=0x13000;block=0x630;text=5,"[""stream=0x13000;block=0x630;text=5""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","なあ、スネーク。あんたの昔のコードネームは、この格好
+で暴れまわったことから来てるってのは、本当か？
+","デマに決まってるだろう。“NAKED”ってのは、武器装
+備、食料、すべてが現地調達だったことから付いたコード
+ネームで…。
+","じゃ、上半身どころか、素っ裸でジャングルに放り込まれ
+たってことか！？　それも、高度10,000mからのHAL
+O降下で。さすが伝説のボス！！
+",[],,,NOT_CHECKED,170,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别什么都信。他们叫我“Naked”,"[""别什么都信。他们叫我“Naked”""]","Don't believe everything you hear. They called me
+""Naked""
+","[""Don't believe everything you hear. They called me\n\""Naked\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#8; block_semantic_score=0.123520.
+BRIEFING_FILES_BLOCK_013630,6,stream=0x13000;block=0x630;text=6,"[""stream=0x13000;block=0x630;text=6""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","デマに決まってるだろう。“NAKED”ってのは、武器装
+備、食料、すべてが現地調達だったことから付いたコード
+ネームで…。
+","じゃ、上半身どころか、素っ裸でジャングルに放り込まれ
+たってことか！？　それも、高度10,000mからのHAL
+O降下で。さすが伝説のボス！！
+","…からかってるのか？　カズ。
+",[],,,NOT_CHECKED,188,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是因为我什么都不带就投入战斗。
+装备食物都靠现场搜刮…","[""是因为我什么都不带就投入战斗。\n装备食物都靠现场搜刮…""]","because I went in without gear or food. I had to
+procure everything on site...
+","[""because I went in without gear or food. I had to\nprocure everything on site...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#9; block_semantic_score=0.123520.
+BRIEFING_FILES_BLOCK_013630,7,stream=0x13000;block=0x630;text=7,"[""stream=0x13000;block=0x630;text=7""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","じゃ、上半身どころか、素っ裸でジャングルに放り込まれ
+たってことか！？　それも、高度10,000mからのHAL
+O降下で。さすが伝説のボス！！
+","…からかってるのか？　カズ。
+","わかるか？
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你意思是连条裤子都没
+给你就扔进丛林了？！","[""你意思是连条裤子都没\n给你就扔进丛林了？！""]","You mean they sent you into the jungle without
+even a pair of pants?!
+","[""You mean they sent you into the jungle without\neven a pair of pants?!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#10; block_semantic_score=0.123520.
+BRIEFING_FILES_BLOCK_013630,8,stream=0x13000;block=0x630;text=8,"[""stream=0x13000;block=0x630;text=8""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","…からかってるのか？　カズ。
+","わかるか？
+","…一生そうやってろ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你在拿我寻开心吧，Kaz？,"[""…你在拿我寻开心吧，Kaz？""]","...You're busting my balls, aren't you, Kaz?
+","[""...You're busting my balls, aren't you, Kaz?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#12; block_semantic_score=0.123520.
+BRIEFING_FILES_BLOCK_013630,9,stream=0x13000;block=0x630;text=9,"[""stream=0x13000;block=0x630;text=9""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","わかるか？
+","…一生そうやってろ。
+","裸になって何が悪い！
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,稍微有一点。,"[""稍微有一点。""]","A little bit, yeah.
+","[""A little bit, yeah.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#13; block_semantic_score=0.123520.
+BRIEFING_FILES_BLOCK_013630,10,stream=0x13000;block=0x630;text=10,"[""stream=0x13000;block=0x630;text=10""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x630;block_file=0x13630;text_base=0x1367C;capacity=904""]","…一生そうやってろ。
+","裸になって何が悪い！
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…真有意思。,"[""…真有意思。""]","...Hilarious
+","[""...Hilarious\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13630; ENG blocks=0xA63E0; ENG source rows=0xA63E0#14; block_semantic_score=0.123520.

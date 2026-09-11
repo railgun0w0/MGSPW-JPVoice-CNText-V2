@@ -1,0 +1,57 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_029020,0,stream=0x29000;block=0x20;text=0,"[""stream=0x29000;block=0x20;text=0""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]",,"傭兵達が資材の搬入に使う基地は、海沿いの高台にあるの。
+","あの人たちは、勝手にここを“プエルト・デル・アルバ”
+と呼んでる。「曙光の港」という意味よ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"雇佣兵的补给基地位于
+海岸边的高地上。","[""雇佣兵的补给基地位于\n海岸边的高地上。""]","The mercenaries' supply base is situated on
+elevated ground by the coast.
+","[""The mercenaries' supply base is situated on\nelevated ground by the coast.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x29020; ENG blocks=0xBA530; ENG source rows=0xBA530#0; block_semantic_score=0.098829.
+BRIEFING_FILES_BLOCK_029020,1,stream=0x29000;block=0x20;text=1,"[""stream=0x29000;block=0x20;text=1""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]","傭兵達が資材の搬入に使う基地は、海沿いの高台にあるの。
+","あの人たちは、勝手にここを“プエルト・デル・アルバ”
+と呼んでる。「曙光の港」という意味よ。
+","基地から周りは丸見え。私達は見つからないように忍び込
+もうとしたけど…見張りに見つかって、それで…。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我听他们管它叫
+“Puerto del Alba”——“破晓港”。","[""我听他们管它叫\n“Puerto del Alba”——“破晓港”。""]","I heard them call it ""Puerto del Alba"" - ""Port of
+Dawn.""
+","[""I heard them call it \""Puerto del Alba\"" - \""Port of\nDawn.\""\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x29020; ENG blocks=0xBA530; ENG source rows=0xBA530#1; block_semantic_score=0.098829.
+BRIEFING_FILES_BLOCK_029020,2,stream=0x29000;block=0x20;text=2,"[""stream=0x29000;block=0x20;text=2""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]","あの人たちは、勝手にここを“プエルト・デル・アルバ”
+と呼んでる。「曙光の港」という意味よ。
+","基地から周りは丸見え。私達は見つからないように忍び込
+もうとしたけど…見張りに見つかって、それで…。
+","どうした？
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从那里他们能对整个地区一览无余。我们尽了最大努力
+潜入不被发现，但是…一个守卫发现了我们，然后我们…","[""从那里他们能对整个地区一览无余。我们尽了最大努力\n潜入不被发现，但是…一个守卫发现了我们，然后我们…""]","They have perfect visibility of the area from up
+there.
+We did our best to sneak in undetected, but...
+one of the guards spotted us, and we...
+","[""They have perfect visibility of the area from up\nthere.\nWe did our best to sneak in undetected, but...\none of the guards spotted us, and we...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:3; JPN blocks=0x29020; ENG blocks=0xBA530,0xBA530,0xBA530; ENG source rows=0xBA530#2,0xBA530#3,0xBA530#4; block_semantic_score=0.098829."
+BRIEFING_FILES_BLOCK_029020,3,stream=0x29000;block=0x20;text=3,"[""stream=0x29000;block=0x20;text=3""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]","基地から周りは丸見え。私達は見つからないように忍び込
+もうとしたけど…見張りに見つかって、それで…。
+","どうした？
+","…ごめんなさい、詳しいことはガルベス先生から聞いて？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么了？,"[""怎么了？""]","What is it?
+","[""What is it?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x29020; ENG blocks=0xBA530; ENG source rows=0xBA530#5; block_semantic_score=0.098829.
+BRIEFING_FILES_BLOCK_029020,4,stream=0x29000;block=0x20;text=4,"[""stream=0x29000;block=0x20;text=4""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]","どうした？
+","…ごめんなさい、詳しいことはガルベス先生から聞いて？
+","…わかった。無理に思い出すことはない。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…抱歉，剩下的你得
+去问Gálvez教授了。","[""…抱歉，剩下的你得\n去问Gálvez教授了。""]","...I'm sorry, you'll have to ask Professor Gálvez the
+rest.
+","[""...I'm sorry, you'll have to ask Professor Gálvez the\nrest.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x29020; ENG blocks=0xBA530; ENG source rows=0xBA530#6; block_semantic_score=0.098829.
+BRIEFING_FILES_BLOCK_029020,5,stream=0x29000;block=0x20;text=5,"[""stream=0x29000;block=0x20;text=5""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]","…ごめんなさい、詳しいことはガルベス先生から聞いて？
+","…わかった。無理に思い出すことはない。
+","ごめんなさい…どうしても、私…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…没关系。你已经经历了很多了。,"[""…没关系。你已经经历了很多了。""]","...It's OK. You've been through a lot.
+","[""...It's OK. You've been through a lot.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x29020; ENG blocks=0xBA530; ENG source rows=0xBA530#7; block_semantic_score=0.098829.
+BRIEFING_FILES_BLOCK_029020,6,stream=0x29000;block=0x20;text=6,"[""stream=0x29000;block=0x20;text=6""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]","…わかった。無理に思い出すことはない。
+","ごめんなさい…どうしても、私…。
+","君の努力を無駄にはしない。よく頑張ったな。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对不起，我…我只是没办法…,"[""对不起，我…我只是没办法…""]","I am sorry, I... I just cannot...
+","[""I am sorry, I... I just cannot...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x29020; ENG blocks=0xBA530; ENG source rows=0xBA530#8; block_semantic_score=0.098829.
+BRIEFING_FILES_BLOCK_029020,7,stream=0x29000;block=0x20;text=7,"[""stream=0x29000;block=0x20;text=7""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x20;block_file=0x29020;text_base=0x29060;capacity=644""]","ごめんなさい…どうしても、私…。
+","君の努力を無駄にはしない。よく頑張ったな。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你做得很好，Paz。
+我不会让你的努力白费的。","[""你做得很好，Paz。\n我不会让你的努力白费的。""]","You did great, Paz. I won't let your efforts go
+wasted.
+","[""You did great, Paz. I won't let your efforts go\nwasted.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x29020; ENG blocks=0xBA530; ENG source rows=0xBA530#9; block_semantic_score=0.098829.

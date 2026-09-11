@@ -1,0 +1,15 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_383F60,0,stream=0x383000;block=0xF60;text=0,"[""stream=0x383000;block=0xF60;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xF60;block_file=0x383F60;text_base=0x383F8C;capacity=144""]",,"訓練を兼ねたミッションを開始する。
+","基礎能力を上げる重要なミッションだ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,开始训练任务。,"[""开始训练任务。""]","Commencing training mission.
+","[""Commencing training mission.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x383F60; ENG blocks=0x399400; ENG source rows=0x399400#0; block_semantic_score=0.162375.
+BRIEFING_MISSION_BLOCK_383F60,1,stream=0x383000;block=0xF60;text=1,"[""stream=0x383000;block=0xF60;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xF60;block_file=0x383F60;text_base=0x383F8C;capacity=144""]","訓練を兼ねたミッションを開始する。
+","基礎能力を上げる重要なミッションだ。
+","心してかかってくれ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这类任务是提升基本功的关键。,"[""这类任务是提升基本功的关键。""]","Missions like this are key to building up
+your basic skills.
+","[""Missions like this are key to building up\nyour basic skills.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x383F60; ENG blocks=0x399400; ENG source rows=0x399400#1; block_semantic_score=0.162375.
+BRIEFING_MISSION_BLOCK_383F60,2,stream=0x383000;block=0xF60;text=2,"[""stream=0x383000;block=0xF60;text=2""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xF60;block_file=0x383F60;text_base=0x383F8C;capacity=144""]","基礎能力を上げる重要なミッションだ。
+","心してかかってくれ。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在外面小心点。,"[""在外面小心点。""]","Be careful out there.
+","[""Be careful out there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x383F60; ENG blocks=0x399400; ENG source rows=0x399400#2; block_semantic_score=0.162375.

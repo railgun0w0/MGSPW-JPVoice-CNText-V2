@@ -1,0 +1,54 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02A4F0,0,stream=0x2A000;block=0x4F0;text=0,"[""stream=0x2A000;block=0x4F0;text=0""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]",,"20年くらい前に、パナマ病が大流行したの。そのせいで、
+つぶれてしまったバナナ農園もあるみたい。
+","パナマ病？
+",[],,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,大约20年前，巴拿马病在这一带肆虐，,"[""大约20年前，巴拿马病在这一带肆虐，""]","Panama disease was rampant here about 20 years
+ago,
+","[""Panama disease was rampant here about 20 years\nago,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A4F0; ENG blocks=0xBB8B0; ENG source rows=0xBB8B0#0; block_semantic_score=0.219552.
+BRIEFING_FILES_BLOCK_02A4F0,1,stream=0x2A000;block=0x4F0;text=1,"[""stream=0x2A000;block=0x4F0;text=1""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","20年くらい前に、パナマ病が大流行したの。そのせいで、
+つぶれてしまったバナナ農園もあるみたい。
+","パナマ病？
+","カビの一種よ。パナマ病のせいで、それまで栽培されてい
+た種類のバナナは、ほぼ全滅してしまったそうなの。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,巴拿马病？,"[""巴拿马病？""]","Panama disease?
+","[""Panama disease?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A4F0; ENG blocks=0xBB8B0; ENG source rows=0xBB8B0#2; block_semantic_score=0.219552.
+BRIEFING_FILES_BLOCK_02A4F0,2,stream=0x2A000;block=0x4F0;text=2,"[""stream=0x2A000;block=0x4F0;text=2""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","パナマ病？
+","カビの一種よ。パナマ病のせいで、それまで栽培されてい
+た種類のバナナは、ほぼ全滅してしまったそうなの。
+","全滅なんてことがあるのか？
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,栽培香蕉不结种子。,"[""栽培香蕉不结种子。""]","Cultivated bananas do not produce seeds.
+","[""Cultivated bananas do not produce seeds.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A4F0; ENG blocks=0xBB8B0; ENG source rows=0xBB8B0#6; block_semantic_score=0.219552.
+BRIEFING_FILES_BLOCK_02A4F0,3,stream=0x2A000;block=0x4F0;text=3,"[""stream=0x2A000;block=0x4F0;text=3""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","カビの一種よ。パナマ病のせいで、それまで栽培されてい
+た種類のバナナは、ほぼ全滅してしまったそうなの。
+","全滅なんてことがあるのか？
+","食用のバナナは種をつけないから、芽を分けて育てるの。
+それを次々と畑に植えていくから…。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以成片的植物都是完全相同的？,"[""所以成片的植物都是完全相同的？""]","So you've got acres of identical plants?
+","[""So you've got acres of identical plants?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A4F0; ENG blocks=0xBB8B0; ENG source rows=0xBB8B0#8; block_semantic_score=0.219552.
+BRIEFING_FILES_BLOCK_02A4F0,4,stream=0x2A000;block=0x4F0;text=4,"[""stream=0x2A000;block=0x4F0;text=4""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","全滅なんてことがあるのか？
+","食用のバナナは種をつけないから、芽を分けて育てるの。
+それを次々と畑に植えていくから…。
+","畑に大量の複製が並んでいるようなものか。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_02A4F0,5,stream=0x2A000;block=0x4F0;text=5,"[""stream=0x2A000;block=0x4F0;text=5""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","食用のバナナは種をつけないから、芽を分けて育てるの。
+それを次々と畑に植えていくから…。
+","畑に大量の複製が並んでいるようなものか。
+","うん。一つの株が病気になれば、すぐ広がってしまう。遺
+伝的に多様性のない種は、弱いのよ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是。一株染病，病害就会迅速蔓延。,"[""是。一株染病，病害就会迅速蔓延。""]","Si. When one plant is infected, the disease spreads
+quickly.
+","[""Si. When one plant is infected, the disease spreads\nquickly.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A4F0; ENG blocks=0xBB8B0; ENG source rows=0xBB8B0#9; block_semantic_score=0.219552.
+BRIEFING_FILES_BLOCK_02A4F0,6,stream=0x2A000;block=0x4F0;text=6,"[""stream=0x2A000;block=0x4F0;text=6""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","畑に大量の複製が並んでいるようなものか。
+","うん。一つの株が病気になれば、すぐ広がってしまう。遺
+伝的に多様性のない種は、弱いのよ。
+","今栽培されているのは、別の種類のバナナなの。パナマ病
+に耐性があるんだって。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,缺乏遗传多样性的物种会变得脆弱。,"[""缺乏遗传多样性的物种会变得脆弱。""]","Species lacking genetic diversity become weak.
+","[""Species lacking genetic diversity become weak.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A4F0; ENG blocks=0xBB8B0; ENG source rows=0xBB8B0#10; block_semantic_score=0.219552.
+BRIEFING_FILES_BLOCK_02A4F0,7,stream=0x2A000;block=0x4F0;text=7,"[""stream=0x2A000;block=0x4F0;text=7""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","うん。一つの株が病気になれば、すぐ広がってしまう。遺
+伝的に多様性のない種は、弱いのよ。
+","今栽培されているのは、別の種類のバナナなの。パナマ病
+に耐性があるんだって。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如今他们改种其他香蕉品种了，据说是抗巴拿马病的品种。,"[""如今他们改种其他香蕉品种了，据说是抗巴拿马病的品种。""]","They grow different bananas today,
+ones said to be resistant to Panama disease.
+","[""They grow different bananas today,\nones said to be resistant to Panama disease.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2A4F0; ENG blocks=0xBB8B0,0xBB8B0; ENG source rows=0xBB8B0#11,0xBB8B0#12; block_semantic_score=0.219552."

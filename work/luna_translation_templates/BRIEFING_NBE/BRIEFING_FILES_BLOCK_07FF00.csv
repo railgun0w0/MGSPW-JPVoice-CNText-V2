@@ -1,0 +1,341 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_07FF00,0,stream=0x7F000;block=0xF00;text=0,"[""stream=0x7F000;block=0xF00;text=0""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]",,"例の準備は着々と進んでいる。
+","ザドルノフを逃がしたのが私だということに、誰も気づい
+ていない。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,准备工作进展得很顺利。,"[""准备工作进展得很顺利。""]","Preparations are coming along nicely.
+","[""Preparations are coming along nicely.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#0; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,1,stream=0x7F000;block=0xF00;text=1,"[""stream=0x7F000;block=0xF00;text=1""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","例の準備は着々と進んでいる。
+","ザドルノフを逃がしたのが私だということに、誰も気づい
+ていない。
+","今日はアマンダと一緒に、セシールにガジョピントの作り
+方をレクチャーした。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没人怀疑是我把Zadornov放出了牢房。,"[""没人怀疑是我把Zadornov放出了牢房。""]","No one suspects me of being the one to let
+Zadornov out of his cell.
+","[""No one suspects me of being the one to let\nZadornov out of his cell.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#1; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,2,stream=0x7F000;block=0xF00;text=2,"[""stream=0x7F000;block=0xF00;text=2""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","ザドルノフを逃がしたのが私だということに、誰も気づい
+ていない。
+","今日はアマンダと一緒に、セシールにガジョピントの作り
+方をレクチャーした。
+","ガジョピントは<R=黒いんげん豆,フリホレス>と<R=　米　,アロス>を合わせた、素朴な
+家庭料理だ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"今天，我和Amanda教
+Cecile怎么做黑豆饭。","[""今天，我和Amanda教\nCecile怎么做黑豆饭。""]","Today, Amanda and I taught Cecile how to make
+gallo pinto.
+","[""Today, Amanda and I taught Cecile how to make\ngallo pinto.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#2; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,3,stream=0x7F000;block=0xF00;text=3,"[""stream=0x7F000;block=0xF00;text=3""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","今日はアマンダと一緒に、セシールにガジョピントの作り
+方をレクチャーした。
+","ガジョピントは<R=黒いんげん豆,フリホレス>と<R=　米　,アロス>を合わせた、素朴な
+家庭料理だ。
+","コスタリカに限らず、中米一帯でよく知られている料理だ
+けに、<R=ニカラグア人,ニカ>のアマンダも得意料理らしい。
+","[""<R=黒いんげん豆,フリホレス>"", ""<R=　米　,アロス>""]",,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那是一道简单的家常菜，
+用黑豆和米饭拌在一起。","[""那是一道简单的家常菜，\n用黑豆和米饭拌在一起。""]","It is a simple, home-cooked dish consisting of black
+frijoles mixed with arroz.
+","[""It is a simple, home-cooked dish consisting of black\nfrijoles mixed with arroz.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#3; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,4,stream=0x7F000;block=0xF00;text=4,"[""stream=0x7F000;block=0xF00;text=4""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","ガジョピントは<R=黒いんげん豆,フリホレス>と<R=　米　,アロス>を合わせた、素朴な
+家庭料理だ。
+","コスタリカに限らず、中米一帯でよく知られている料理だ
+けに、<R=ニカラグア人,ニカ>のアマンダも得意料理らしい。
+","でも、私は物心ついて以来、<R=合衆国,ステイツ>で育てられたから、母
+のガジョピントをほとんど思い出すこともできない。
+","[""<R=ニカラグア人,ニカ>""]",,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这道菜在整个中美洲都很有名，
+不只是哥斯达黎加，所以像Amanda这样的尼加拉瓜
+人擅长做这道菜也不奇怪。","[""这道菜在整个中美洲都很有名，\n不只是哥斯达黎加，所以像Amanda这样的尼加拉瓜\n人擅长做这道菜也不奇怪。""]","It is well-known throughout Central America, not
+just in Costa Rica,
+so it is no surprise that a Nica like Amanda would
+be good at making it.
+","[""It is well-known throughout Central America, not\njust in Costa Rica,\nso it is no surprise that a Nica like Amanda would\nbe good at making it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70; ENG source rows=0x10BE70#4,0x10BE70#5; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,5,stream=0x7F000;block=0xF00;text=5,"[""stream=0x7F000;block=0xF00;text=5""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","コスタリカに限らず、中米一帯でよく知られている料理だ
+けに、<R=ニカラグア人,ニカ>のアマンダも得意料理らしい。
+","でも、私は物心ついて以来、<R=合衆国,ステイツ>で育てられたから、母
+のガジョピントをほとんど思い出すこともできない。
+","脳天気なセシールや革命家気取りのアマンダに話を合わせ
+るのは鬱陶しかった。
+","[""<R=合衆国,ステイツ>""]",,,NOT_CHECKED,169,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我从小就在美国长大，几乎连妈妈做的黑豆
+饭的味道都记不清了。不得不和那个一无所知的鸟类爱好者","[""但我从小就在美国长大，几乎连妈妈做的黑豆\n饭的味道都记不清了。不得不和那个一无所知的鸟类爱好者""]","But I was raised in the States from a very young
+age
+and can hardly even remember my mother's gallo
+pinto.
+Having to make chit-chat with that clueless
+bird-lover
+","[""But I was raised in the States from a very young\nage\nand can hardly even remember my mother's gallo\npinto.\nHaving to make chit-chat with that clueless\nbird-lover\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70,0x10BE70; ENG source rows=0x10BE70#6,0x10BE70#7,0x10BE70#8; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,6,stream=0x7F000;block=0xF00;text=6,"[""stream=0x7F000;block=0xF00;text=6""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","でも、私は物心ついて以来、<R=合衆国,ステイツ>で育てられたから、母
+のガジョピントをほとんど思い出すこともできない。
+","脳天気なセシールや革命家気取りのアマンダに話を合わせ
+るのは鬱陶しかった。
+","とはいえ、あまり素っ気なくするのも怪しまれそうで、私
+は彼女たちに付き合うしかないのだ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还有那个所谓的革命家
+没话找话，真是煎熬。","[""还有那个所谓的革命家\n没话找话，真是煎熬。""]","and the so-called revolutionary was excruciating.
+","[""and the so-called revolutionary was excruciating.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#9; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,7,stream=0x7F000;block=0xF00;text=7,"[""stream=0x7F000;block=0xF00;text=7""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","脳天気なセシールや革命家気取りのアマンダに話を合わせ
+るのは鬱陶しかった。
+","とはいえ、あまり素っ気なくするのも怪しまれそうで、私
+は彼女たちに付き合うしかないのだ。
+","特にセシールは、あのテープを録音した本人だけに注意が
+必要だ。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且——不管她是不是真那么没头脑——
+我都得对Cecile格外小心，","[""而且——不管她是不是真那么没头脑——\n我都得对Cecile格外小心，""]","And - clueless or not - I will need to be especially
+careful around Cecile,
+","[""And - clueless or not - I will need to be especially\ncareful around Cecile,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#10; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,8,stream=0x7F000;block=0xF00;text=8,"[""stream=0x7F000;block=0xF00;text=8""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","とはいえ、あまり素っ気なくするのも怪しまれそうで、私
+は彼女たちに付き合うしかないのだ。
+","特にセシールは、あのテープを録音した本人だけに注意が
+必要だ。
+","ミラー達は私が、見つけたテープを勝手に友達のものと思
+った、と誤解してくれたようだが…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,毕竟那盘磁带就是她录的。,"[""毕竟那盘磁带就是她录的。""]","the one who actually recorded that tape.
+","[""the one who actually recorded that tape.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#11; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,9,stream=0x7F000;block=0xF00;text=9,"[""stream=0x7F000;block=0xF00;text=9""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","特にセシールは、あのテープを録音した本人だけに注意が
+必要だ。
+","ミラー達は私が、見つけたテープを勝手に友達のものと思
+った、と誤解してくれたようだが…。
+","何にしても、用心するに越したことはない。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"幸好，Miller和他手下的人似乎相信，
+我是把我找到的那盘
+磁带误认成了朋友做的…","[""幸好，Miller和他手下的人似乎相信，\n我是把我找到的那盘\n磁带误认成了朋友做的…""]","Thankfully, Miller and his men seem to believe I
+mistook the tape I found for one my friend made...
+","[""Thankfully, Miller and his men seem to believe I\nmistook the tape I found for one my friend made...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#12; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,10,stream=0x7F000;block=0xF00;text=10,"[""stream=0x7F000;block=0xF00;text=10""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","ミラー達は私が、見つけたテープを勝手に友達のものと思
+った、と誤解してくれたようだが…。
+","何にしても、用心するに越したことはない。
+","…まずはみんなでニンニクや香草を切って、昨日から水に
+つけておいた豆と一緒に煮込んだ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,总之，再怎么小心也不为过。,"[""总之，再怎么小心也不为过。""]","In any case, one can never be too careful.
+","[""In any case, one can never be too careful.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#13; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,11,stream=0x7F000;block=0xF00;text=11,"[""stream=0x7F000;block=0xF00;text=11""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","何にしても、用心するに越したことはない。
+","…まずはみんなでニンニクや香草を切って、昨日から水に
+つけておいた豆と一緒に煮込んだ。
+","豆が煮えるのを待つ間に、フライパンでタマネギと<R=米,アロス>を炒
+める。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…总之，我们三个把大蒜和香草切碎，然后和泡了一夜的黑豆
+一起放进锅里煮。","[""…总之，我们三个把大蒜和香草切碎，然后和泡了一夜的黑豆\n一起放进锅里煮。""]","...Anyway, the three of us minced garlic and herbs,
+then cooked them in a pot with frijoles we'd
+soaked overnight.
+","[""...Anyway, the three of us minced garlic and herbs,\nthen cooked them in a pot with frijoles we'd\nsoaked overnight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70; ENG source rows=0x10BE70#14,0x10BE70#15; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,12,stream=0x7F000;block=0xF00;text=12,"[""stream=0x7F000;block=0xF00;text=12""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","…まずはみんなでニンニクや香草を切って、昨日から水に
+つけておいた豆と一緒に煮込んだ。
+","豆が煮えるのを待つ間に、フライパンでタマネギと<R=米,アロス>を炒
+める。
+","フライパンを持ったセシールにアマンダがいろいろと指示
+を出したけれど、セシールは少し鬱陶しそうだった。
+","[""<R=米,アロス>""]",,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"等它们煮的时候，
+我们又在平底锅里炒洋葱和米饭。","[""等它们煮的时候，\n我们又在平底锅里炒洋葱和米饭。""]","While waiting for them to cook, we sautéed onions
+and arroz in a frying pan.
+","[""While waiting for them to cook, we sautéed onions\nand arroz in a frying pan.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#16; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,13,stream=0x7F000;block=0xF00;text=13,"[""stream=0x7F000;block=0xF00;text=13""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","豆が煮えるのを待つ間に、フライパンでタマネギと<R=米,アロス>を炒
+める。
+","フライパンを持ったセシールにアマンダがいろいろと指示
+を出したけれど、セシールは少し鬱陶しそうだった。
+","フランス人だけあって、料理自体は得意らしい。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Cecile按照Amanda的指示掌勺，
+看起来有点闷闷不乐。","[""Cecile按照Amanda的指示掌勺，\n看起来有点闷闷不乐。""]","Cecile worked the frying pan according to
+Amanda's directions, but seemed a bit glum.
+","[""Cecile worked the frying pan according to\nAmanda's directions, but seemed a bit glum.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#17; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,14,stream=0x7F000;block=0xF00;text=14,"[""stream=0x7F000;block=0xF00;text=14""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","フライパンを持ったセシールにアマンダがいろいろと指示
+を出したけれど、セシールは少し鬱陶しそうだった。
+","フランス人だけあって、料理自体は得意らしい。
+","それからフライパンに水を入れ、炊きあがるのを待つ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过她确实有烹饪天赋——
+毕竟她是法国人。","[""不过她确实有烹饪天赋——\n毕竟她是法国人。""]","She does have a knack for cooking, though - she
+is French, after all.
+","[""She does have a knack for cooking, though - she\nis French, after all.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#18; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,15,stream=0x7F000;block=0xF00;text=15,"[""stream=0x7F000;block=0xF00;text=15""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","フランス人だけあって、料理自体は得意らしい。
+","それからフライパンに水を入れ、炊きあがるのを待つ。
+","その間にアマンダは母親の思い出を語ってくれた。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们往锅里加了水，
+看着米饭开始冒热气。","[""我们往锅里加了水，\n看着米饭开始冒热气。""]","We added water to the pan, and watched the arroz
+begin to steam.
+","[""We added water to the pan, and watched the arroz\nbegin to steam.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#19; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,16,stream=0x7F000;block=0xF00;text=16,"[""stream=0x7F000;block=0xF00;text=16""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","それからフライパンに水を入れ、炊きあがるのを待つ。
+","その間にアマンダは母親の思い出を語ってくれた。
+","ソモサのせいで彼女も母とは離ればなれになってしまった
+らしいが、“おふくろの味”はしっかり覚えているらしい。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"等饭的时候，Amanda跟我们
+讲起了她母亲的回忆。","[""等饭的时候，Amanda跟我们\n讲起了她母亲的回忆。""]","While we waited, Amanda shared memories of her
+mother with us.
+","[""While we waited, Amanda shared memories of her\nmother with us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#20; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,17,stream=0x7F000;block=0xF00;text=17,"[""stream=0x7F000;block=0xF00;text=17""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","その間にアマンダは母親の思い出を語ってくれた。
+","ソモサのせいで彼女も母とは離ればなれになってしまった
+らしいが、“おふくろの味”はしっかり覚えているらしい。
+","豆が煮えると水を捨てて、残りの野菜と一緒に炒めなくて
+はならない。家庭料理とはいえ、手順は割と複雑だ。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但母亲做菜的味道在
+她记忆里依然清晰。","[""但母亲做菜的味道在\n她记忆里依然清晰。""]","but the taste of her mother's cooking was still
+fresh in her mind.
+","[""but the taste of her mother's cooking was still\nfresh in her mind.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#22; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,18,stream=0x7F000;block=0xF00;text=18,"[""stream=0x7F000;block=0xF00;text=18""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","ソモサのせいで彼女も母とは離ればなれになってしまった
+らしいが、“おふくろの味”はしっかり覚えているらしい。
+","豆が煮えると水を捨てて、残りの野菜と一緒に炒めなくて
+はならない。家庭料理とはいえ、手順は割と複雑だ。
+","とはいえ、忙しいのはありがたい。長時間話しすぎると、
+正体を疑われる可能性も高まる。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,黑豆煮好以后，我们把水沥干，和剩下的蔬菜一起翻炒。对家常菜来说，这过程还真复杂。,"[""黑豆煮好以后，我们把水沥干，和剩下的蔬菜一起翻炒。对家常菜来说，这过程还真复杂。""]","When the frijoles were ready, we drained the
+water,
+stir-frying them with the rest of the vegetables.
+Quite a complicated process for home-cooking.
+","[""When the frijoles were ready, we drained the\nwater,\nstir-frying them with the rest of the vegetables.\nQuite a complicated process for home-cooking.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70,0x10BE70; ENG source rows=0x10BE70#23,0x10BE70#24,0x10BE70#25; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,19,stream=0x7F000;block=0xF00;text=19,"[""stream=0x7F000;block=0xF00;text=19""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","豆が煮えると水を捨てて、残りの野菜と一緒に炒めなくて
+はならない。家庭料理とはいえ、手順は割と複雑だ。
+","とはいえ、忙しいのはありがたい。長時間話しすぎると、
+正体を疑われる可能性も高まる。
+","女同士となると、可愛く振る舞っていればいいというもの
+ではなく、疑われないようにかなり気を遣う。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们坐着聊得越久，
+就越可能引起她们的怀疑。","[""我们坐着聊得越久，\n就越可能引起她们的怀疑。""]","The longer we sat and talked, the greater the
+chance of my arousing their suspicions.
+","[""The longer we sat and talked, the greater the\nchance of my arousing their suspicions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#27; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,20,stream=0x7F000;block=0xF00;text=20,"[""stream=0x7F000;block=0xF00;text=20""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","とはいえ、忙しいのはありがたい。長時間話しすぎると、
+正体を疑われる可能性も高まる。
+","女同士となると、可愛く振る舞っていればいいというもの
+ではなく、疑われないようにかなり気を遣う。
+","<R=米,アロス>が炊けたら豆と交ぜて、サルサを加えてさらに炒める。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"面对女人，光眨巴眼睛
+咯咯笑是不够的。想转移她们的注意力得费很大功夫。","[""面对女人，光眨巴眼睛\n咯咯笑是不够的。想转移她们的注意力得费很大功夫。""]","With women, it is not enough to just to bat your
+eyelashes and giggle.
+It takes a lot of effort to divert attention.
+","[""With women, it is not enough to just to bat your\neyelashes and giggle.\nIt takes a lot of effort to divert attention.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70; ENG source rows=0x10BE70#28,0x10BE70#29; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,21,stream=0x7F000;block=0xF00;text=21,"[""stream=0x7F000;block=0xF00;text=21""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","女同士となると、可愛く振る舞っていればいいというもの
+ではなく、疑われないようにかなり気を遣う。
+","<R=米,アロス>が炊けたら豆と交ぜて、サルサを加えてさらに炒める。
+","炒めながら、話題はなぜか恋愛のことに移った。
+","[""<R=米,アロス>""]",,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们把米饭拌进黑豆里，
+加入酱汁，一边炖一边搅拌。","[""我们把米饭拌进黑豆里，\n加入酱汁，一边炖一边搅拌。""]","we folded it into the frijoles and added salsa,
+stirring the mixture as it simmered.
+","[""we folded it into the frijoles and added salsa,\nstirring the mixture as it simmered.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#31; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,22,stream=0x7F000;block=0xF00;text=22,"[""stream=0x7F000;block=0xF00;text=22""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","<R=米,アロス>が炊けたら豆と交ぜて、サルサを加えてさらに炒める。
+","炒めながら、話題はなぜか恋愛のことに移った。
+","女が集まるとどうしてこんな話になるのだろう？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就在这时，不知怎么
+话题转到了恋爱上。","[""就在这时，不知怎么\n话题转到了恋爱上。""]","At this point, for some reason the conversation
+turned to romance.
+","[""At this point, for some reason the conversation\nturned to romance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#32; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,23,stream=0x7F000;block=0xF00;text=23,"[""stream=0x7F000;block=0xF00;text=23""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","炒めながら、話題はなぜか恋愛のことに移った。
+","女が集まるとどうしてこんな話になるのだろう？
+","セシールはかなり恋愛経験が豊富らしく、アマンダにいろ
+いろとアドバイスをしていた。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为什么女人们一聚在一起
+聊天就非得聊这个？","[""为什么女人们一聚在一起\n聊天就非得聊这个？""]","Why does it have to be that way whenever women
+get together and chat?
+","[""Why does it have to be that way whenever women\nget together and chat?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#33; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,24,stream=0x7F000;block=0xF00;text=24,"[""stream=0x7F000;block=0xF00;text=24""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","女が集まるとどうしてこんな話になるのだろう？
+","セシールはかなり恋愛経験が豊富らしく、アマンダにいろ
+いろとアドバイスをしていた。
+","それだけならいいけれど、私にまで好きな人はいないのか
+と尋ねてきたのには腹が立つ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Cecile自认为很懂这方面的事，
+给Amanda提了各种建议。","[""Cecile自认为很懂这方面的事，\n给Amanda提了各种建议。""]","Cecile fancies herself to be well-versed in such
+matters, and gave Amanda all sorts of advice.
+","[""Cecile fancies herself to be well-versed in such\nmatters, and gave Amanda all sorts of advice.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#34; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,25,stream=0x7F000;block=0xF00;text=25,"[""stream=0x7F000;block=0xF00;text=25""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","セシールはかなり恋愛経験が豊富らしく、アマンダにいろ
+いろとアドバイスをしていた。
+","それだけならいいけれど、私にまで好きな人はいないのか
+と尋ねてきたのには腹が立つ。
+","今はいないとごまかそうとしたが、「スネークが好きなん
+でしょ？」と問い詰められてしまった。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"本来这也没什么，但让我恼火的是，她开始缠着我，
+问我有没有“喜欢”的人。","[""本来这也没什么，但让我恼火的是，她开始缠着我，\n问我有没有“喜欢”的人。""]","It was harmless enough until, to my irritation,
+she began pestering me whether there was
+anybody I ""liked.""
+","[""It was harmless enough until, to my irritation,\nshe began pestering me whether there was\nanybody I \""liked.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70; ENG source rows=0x10BE70#35,0x10BE70#36; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,26,stream=0x7F000;block=0xF00;text=26,"[""stream=0x7F000;block=0xF00;text=26""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","それだけならいいけれど、私にまで好きな人はいないのか
+と尋ねてきたのには腹が立つ。
+","今はいないとごまかそうとしたが、「スネークが好きなん
+でしょ？」と問い詰められてしまった。
+","私は面倒になって「そうかも」などと話を合わせた。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“现在没有。”我这么说着，
+想躲开这个问题。但她不依不饶：“是Snake吧？”","[""“现在没有。”我这么说着，\n想躲开这个问题。但她不依不饶：“是Snake吧？”""]","""Not right now,"" I said, trying to dodge the
+question.
+But she pressed on. ""It's Snake, isn't it?""
+","[""\""Not right now,\"" I said, trying to dodge the\nquestion.\nBut she pressed on. \""It's Snake, isn't it?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70; ENG source rows=0x10BE70#37,0x10BE70#38; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,27,stream=0x7F000;block=0xF00;text=27,"[""stream=0x7F000;block=0xF00;text=27""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","今はいないとごまかそうとしたが、「スネークが好きなん
+でしょ？」と問い詰められてしまった。
+","私は面倒になって「そうかも」などと話を合わせた。
+","セシールは「彼、なかなかセクシーよね」などとうなずい
+ていた。脳天気なものだ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我咬了咬牙，
+装模作样地说：“也许吧。”","[""我咬了咬牙，\n装模作样地说：“也许吧。”""]","I gritted my teeth and played it coy: ""Maybe.""
+","[""I gritted my teeth and played it coy: \""Maybe.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#39; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,28,stream=0x7F000;block=0xF00;text=28,"[""stream=0x7F000;block=0xF00;text=28""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","私は面倒になって「そうかも」などと話を合わせた。
+","セシールは「彼、なかなかセクシーよね」などとうなずい
+ていた。脳天気なものだ。
+","私は生きることに精一杯で、恋愛など考えたこともない。
+あんな男に興味はない。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Cecile点点头，咯咯笑着说：
+“他挺性感的，对吧？”真是个笨蛋。","[""Cecile点点头，咯咯笑着说：\n“他挺性感的，对吧？”真是个笨蛋。""]","Cecile nodded and giggled, ""He's pretty sexy, isn't
+he?"" What a ditz.
+","[""Cecile nodded and giggled, \""He's pretty sexy, isn't\nhe?\"" What a ditz.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#40; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,29,stream=0x7F000;block=0xF00;text=29,"[""stream=0x7F000;block=0xF00;text=29""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","セシールは「彼、なかなかセクシーよね」などとうなずい
+ていた。脳天気なものだ。
+","私は生きることに精一杯で、恋愛など考えたこともない。
+あんな男に興味はない。
+","そうしているうちに香ばしい匂いが立ちのぼってきて、ガ
+ジョピントが完成した。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,光是活命就已经让我竭尽全力了。我从来没动过谈恋爱的念头。我对那种男人没兴趣。,"[""光是活命就已经让我竭尽全力了。我从来没动过谈恋爱的念头。我对那种男人没兴趣。""]","It's all I can manage to just survive.
+The thought of romance has never once crossed
+my mind.
+I've no interest in that kind of man.
+","[""It's all I can manage to just survive.\nThe thought of romance has never once crossed\nmy mind.\nI've no interest in that kind of man.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70,0x10BE70; ENG source rows=0x10BE70#41,0x10BE70#42,0x10BE70#43; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,30,stream=0x7F000;block=0xF00;text=30,"[""stream=0x7F000;block=0xF00;text=30""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","私は生きることに精一杯で、恋愛など考えたこともない。
+あんな男に興味はない。
+","そうしているうちに香ばしい匂いが立ちのぼってきて、ガ
+ジョピントが完成した。
+","料理をしていることがわかったのか、ニュークが私たちの
+足にすり寄ってきたけれど、あいにくと猫が喜ぶような食
+べ物ではなかった。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"很快，浓郁的香气充满了房间——
+黑豆饭做好了。“核弹”凑过来蹭我们的
+腿，想讨点吃的。","[""很快，浓郁的香气充满了房间——\n黑豆饭做好了。“核弹”凑过来蹭我们的\n腿，想讨点吃的。""]","Soon enough, a rich aroma began to fill the room -
+the gallo pinto was ready.
+Nuke came over and rubbed up against our legs,
+looking for a handout.
+","[""Soon enough, a rich aroma began to fill the room -\nthe gallo pinto was ready.\nNuke came over and rubbed up against our legs,\nlooking for a handout.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7FF00; ENG blocks=0x10BE70,0x10BE70; ENG source rows=0x10BE70#44,0x10BE70#45; block_semantic_score=0.173900."
+BRIEFING_FILES_BLOCK_07FF00,31,stream=0x7F000;block=0xF00;text=31,"[""stream=0x7F000;block=0xF00;text=31""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","そうしているうちに香ばしい匂いが立ちのぼってきて、ガ
+ジョピントが完成した。
+","料理をしていることがわかったのか、ニュークが私たちの
+足にすり寄ってきたけれど、あいにくと猫が喜ぶような食
+べ物ではなかった。
+","兵士達に試食させることにして、私たちは食堂に向かった。
+",[],,,NOT_CHECKED,186,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可惜，这不是猫会喜欢的那种食物。,"[""可惜，这不是猫会喜欢的那种食物。""]","Unfortunately, it was not the kind of food a cat
+would like.
+","[""Unfortunately, it was not the kind of food a cat\nwould like.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#46; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,32,stream=0x7F000;block=0xF00;text=32,"[""stream=0x7F000;block=0xF00;text=32""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","料理をしていることがわかったのか、ニュークが私たちの
+足にすり寄ってきたけれど、あいにくと猫が喜ぶような食
+べ物ではなかった。
+","兵士達に試食させることにして、私たちは食堂に向かった。
+","思わずありつけた“おふくろの味”に、MSFの兵士達は大
+喜びだった。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们让几个士兵尝了尝，
+然后去了食堂。","[""我们让几个士兵尝了尝，\n然后去了食堂。""]","We let a few of the soldiers have a bite and then
+headed off to the mess hall.
+","[""We let a few of the soldiers have a bite and then\nheaded off to the mess hall.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#47; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,33,stream=0x7F000;block=0xF00;text=33,"[""stream=0x7F000;block=0xF00;text=33""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","兵士達に試食させることにして、私たちは食堂に向かった。
+","思わずありつけた“おふくろの味”に、MSFの兵士達は大
+喜びだった。
+","あいつらを喜ばせるつもりはなかったが、私だってこの程
+度の料理はできるのだ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们做出来的家常风味在无国界之师
+（MSF）的士兵们当中大受欢迎。","[""我们做出来的家常风味在无国界之师\n（MSF）的士兵们当中大受欢迎。""]","The home-cooked flavor we'd achieved was a big
+hit with the men of MSF.
+","[""The home-cooked flavor we'd achieved was a big\nhit with the men of MSF.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#48; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,34,stream=0x7F000;block=0xF00;text=34,"[""stream=0x7F000;block=0xF00;text=34""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","思わずありつけた“おふくろの味”に、MSFの兵士達は大
+喜びだった。
+","あいつらを喜ばせるつもりはなかったが、私だってこの程
+度の料理はできるのだ。
+","スネークも喜んで食べていたけど…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"倒不是说我们想讨好他们什么的。
+那种菜连我也做得出来。","[""倒不是说我们想讨好他们什么的。\n那种菜连我也做得出来。""]","Not that we are trying to impress them or
+anything. Even I could manage a dish like that.
+","[""Not that we are trying to impress them or\nanything. Even I could manage a dish like that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#49; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,35,stream=0x7F000;block=0xF00;text=35,"[""stream=0x7F000;block=0xF00;text=35""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","あいつらを喜ばせるつもりはなかったが、私だってこの程
+度の料理はできるのだ。
+","スネークも喜んで食べていたけど…。
+","繰り返すが、私はあんな男に興味はない。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake也很喜欢吃…,"[""Snake也很喜欢吃…""]","Snake enjoyed it, too...
+","[""Snake enjoyed it, too...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#50; block_semantic_score=0.173900.
+BRIEFING_FILES_BLOCK_07FF00,36,stream=0x7F000;block=0xF00;text=36,"[""stream=0x7F000;block=0xF00;text=36""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0xF00;block_file=0x7FF00;text_base=0x7FFB4;capacity=4056""]","スネークも喜んで食べていたけど…。
+","繰り返すが、私はあんな男に興味はない。
+",,[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我把话说清楚：
+我对那个男人毫无兴趣。","[""我把话说清楚：\n我对那个男人毫无兴趣。""]","Let me make this absolutely clear: I have no
+interest in that man.
+","[""Let me make this absolutely clear: I have no\ninterest in that man.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7FF00; ENG blocks=0x10BE70; ENG source rows=0x10BE70#51; block_semantic_score=0.173900.

@@ -1,0 +1,81 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_026DE0,0,stream=0x26000;block=0xDE0;text=0,"[""stream=0x26000;block=0xDE0;text=0""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]",,"コスタリカには、およそ87,000種の生物がいると言われ
+ているの。全世界にいる生物種の5％に当たるんだって。
+","この狭い国にか？　そいつは大したもんだ。
+",[],,,NOT_CHECKED,150,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"据说哥斯达黎加大约
+有八万七千种生物。","[""据说哥斯达黎加大约\n有八万七千种生物。""]","Costa Rica is said to have about 87,000 species
+of living things.
+","[""Costa Rica is said to have about 87,000 species\nof living things.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#0; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,1,stream=0x26000;block=0xDE0;text=1,"[""stream=0x26000;block=0xDE0;text=1""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","コスタリカには、およそ87,000種の生物がいると言われ
+ているの。全世界にいる生物種の5％に当たるんだって。
+","この狭い国にか？　そいつは大したもんだ。
+","私は、この生き物の多様性を守りたい。多様性が喪われた
+環境は弱いから。プランテーションを見ていればわかる。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这大约占世界上已知物种的百分之五。,"[""这大约占世界上已知物种的百分之五。""]","That's about 5% of all the known species in the
+world.
+","[""That's about 5% of all the known species in the\nworld.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#1; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,2,stream=0x26000;block=0xDE0;text=2,"[""stream=0x26000;block=0xDE0;text=2""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","この狭い国にか？　そいつは大したもんだ。
+","私は、この生き物の多様性を守りたい。多様性が喪われた
+環境は弱いから。プランテーションを見ていればわかる。
+","それは俺もわかる気がする。似たような連中ばかりで部隊
+を編成すると、大抵うまく行かない。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,多样性一旦丧失，环境就会变弱。,"[""多样性一旦丧失，环境就会变弱。""]","When diversity is lost, the environment weakens.
+","[""When diversity is lost, the environment weakens.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#4; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,3,stream=0x26000;block=0xDE0;text=3,"[""stream=0x26000;block=0xDE0;text=3""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","私は、この生き物の多様性を守りたい。多様性が喪われた
+環境は弱いから。プランテーションを見ていればわかる。
+","それは俺もわかる気がする。似たような連中ばかりで部隊
+を編成すると、大抵うまく行かない。
+","多少はみ出しものが混じっているくらいが丁度いい。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我想我懂你的意思。就像试图用
+一帮相似的人组建一支队伍——","[""我想我懂你的意思。就像试图用\n一帮相似的人组建一支队伍——""]","I think I know what you mean. It's like trying to
+assemble a unit from similar guys
+","[""I think I know what you mean. It's like trying to\nassemble a unit from similar guys\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#6; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,4,stream=0x26000;block=0xDE0;text=4,"[""stream=0x26000;block=0xDE0;text=4""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","それは俺もわかる気がする。似たような連中ばかりで部隊
+を編成すると、大抵うまく行かない。
+","多少はみ出しものが混じっているくらいが丁度いい。
+","これだけ種類がいるから、ちゃんと分類できていない生き
+物がまだいっぱいいる。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"塞进去几个不合群的人，
+一切就都井然有序了。","[""塞进去几个不合群的人，\n一切就都井然有序了。""]","Throw a few square pegs in there and everything
+falls into place.
+","[""Throw a few square pegs in there and everything\nfalls into place.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#8; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,5,stream=0x26000;block=0xDE0;text=5,"[""stream=0x26000;block=0xDE0;text=5""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","多少はみ出しものが混じっているくらいが丁度いい。
+","これだけ種類がいるから、ちゃんと分類できていない生き
+物がまだいっぱいいる。
+","私はその分類のお手伝いをしてみたいって思ってるの。パ
+ラタクソノミスト、って言えばいいかな。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这里的物种太多了，
+许多甚至还没有被分类。","[""这里的物种太多了，\n许多甚至还没有被分类。""]","There are so many species here that a lot of them
+have not even been classified yet.
+","[""There are so many species here that a lot of them\nhave not even been classified yet.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#9; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,6,stream=0x26000;block=0xDE0;text=6,"[""stream=0x26000;block=0xDE0;text=6""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","これだけ種類がいるから、ちゃんと分類できていない生き
+物がまだいっぱいいる。
+","私はその分類のお手伝いをしてみたいって思ってるの。パ
+ラタクソノミスト、って言えばいいかな。
+","パラ…なんだって？
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我希望有一天能帮忙做这个。
+有点像准分类学家。","[""我希望有一天能帮忙做这个。\n有点像准分类学家。""]","I'm hoping I can help do that someday. Kind of like
+a parataxonomist.
+","[""I'm hoping I can help do that someday. Kind of like\na parataxonomist.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#10; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,7,stream=0x26000;block=0xDE0;text=7,"[""stream=0x26000;block=0xDE0;text=7""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","私はその分類のお手伝いをしてみたいって思ってるの。パ
+ラタクソノミスト、って言えばいいかな。
+","パラ…なんだって？
+","パラタクソノミスト。<R= 分類学者 ,タクソノミスト>の<R=補助員,パラ>ってこと。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,准…再说一遍？,"[""准…再说一遍？""]","Para... say that again?
+","[""Para... say that again?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#11; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,8,stream=0x26000;block=0xDE0;text=8,"[""stream=0x26000;block=0xDE0;text=8""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","パラ…なんだって？
+","パラタクソノミスト。<R= 分類学者 ,タクソノミスト>の<R=補助員,パラ>ってこと。
+","なんだ。パラシュートを使うのかと思った。
+","[""<R= 分類学者 ,タクソノミスト>"", ""<R=補助員,パラ>""]",,,NOT_CHECKED,109,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,准分类学家。就是协助分类学家的人。,"[""准分类学家。就是协助分类学家的人。""]","Parataxonomist. Someone who helps a taxonomist.
+","[""Parataxonomist. Someone who helps a taxonomist.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#12; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,9,stream=0x26000;block=0xDE0;text=9,"[""stream=0x26000;block=0xDE0;text=9""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","パラタクソノミスト。<R= 分類学者 ,タクソノミスト>の<R=補助員,パラ>ってこと。
+","なんだ。パラシュートを使うのかと思った。
+","変なスネーク…。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哦，哈。我还以为你要说
+跟降落伞有什么关系呢。","[""哦，哈。我还以为你要说\n跟降落伞有什么关系呢。""]","Oh. Huh. I thought you were going to say it had
+something to do with parachutes.
+","[""Oh. Huh. I thought you were going to say it had\nsomething to do with parachutes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#13; block_semantic_score=0.164714.
+BRIEFING_FILES_BLOCK_026DE0,10,stream=0x26000;block=0xDE0;text=10,"[""stream=0x26000;block=0xDE0;text=10""]",1,BRIEFING FILES,"[""stream=0x26000;block=0xDE0;block_file=0x26DE0;text_base=0x26E2C;capacity=1060""]","なんだ。パラシュートを使うのかと思った。
+","変なスネーク…。
+",,[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你真怪…,"[""你真怪…""]","You're weird...
+","[""You're weird...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26DE0; ENG blocks=0xB8540; ENG source rows=0xB8540#14; block_semantic_score=0.164714.

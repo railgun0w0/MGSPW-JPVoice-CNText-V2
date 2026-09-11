@@ -1,0 +1,228 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_36D0B0,0,stream=0x36D000;block=0xB0;text=0,"[""stream=0x36D000;block=0xB0;text=0""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]",,"スネーク、入手した地図は使えそうか？
+","奴らの各拠点の位置はわかるが、記されてるのは
+拠点のポイントだけだ。ルートまでは判らない。
+現地の詳しい情報が欲しい。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那张地图怎么样，
+Snake？觉得能用吗？","[""那张地图怎么样，\nSnake？觉得能用吗？""]","How's that map, Snake? Think you can
+use it?
+","[""How's that map, Snake? Think you can\nuse it?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,1,stream=0x36D000;block=0xB0;text=1,"[""stream=0x36D000;block=0xB0;text=1""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","スネーク、入手した地図は使えそうか？
+","奴らの各拠点の位置はわかるが、記されてるのは
+拠点のポイントだけだ。ルートまでは判らない。
+現地の詳しい情報が欲しい。
+","スネーク、KGBの“教授”は、
+<R=FSLN,サンディニスタ>に協力を取り付けていると言っていた。
+奴は<R=FSLN,サンディニスタ>の<R=司令官,コマンダンテ>にコンタクトを取れと。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它告诉我他们的基地在哪里，
+但那只是一堆点。没有路线。我需要更详细的地形情报。","[""它告诉我他们的基地在哪里，\n但那只是一堆点。没有路线。我需要更详细的地形情报。""]","It tells me where their bases are, but it's
+just a bunch of points.
+No routes. I need better intel on the lay
+of the land.
+","[""It tells me where their bases are, but it's\njust a bunch of points.\nNo routes. I need better intel on the lay\nof the land.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36D0B0; ENG blocks=0x385620,0x385620; ENG source rows=0x385620#1,0x385620#2; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36D0B0,2,stream=0x36D000;block=0xB0;text=2,"[""stream=0x36D000;block=0xB0;text=2""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","奴らの各拠点の位置はわかるが、記されてるのは
+拠点のポイントだけだ。ルートまでは判らない。
+現地の詳しい情報が欲しい。
+","スネーク、KGBの“教授”は、
+<R=FSLN,サンディニスタ>に協力を取り付けていると言っていた。
+奴は<R=FSLN,サンディニスタ>の<R=司令官,コマンダンテ>にコンタクトを取れと。
+","<R=FSLN,サンディニスタ>は、バックにKGBがいる事を
+知っているのか？
+","[""<R=FSLN,サンディニスタ>"", ""<R=FSLN,サンディニスタ>"", ""<R=司令官,コマンダンテ>""]",,,NOT_CHECKED,230,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他说你该去联系桑地诺民族
+解放阵线(FSLN)的指挥官。","[""他说你该去联系桑地诺民族\n解放阵线(FSLN)的指挥官。""]","Said you should get in touch with the
+FSLN comandante.
+","[""Said you should get in touch with the\nFSLN comandante.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,3,stream=0x36D000;block=0xB0;text=3,"[""stream=0x36D000;block=0xB0;text=3""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","スネーク、KGBの“教授”は、
+<R=FSLN,サンディニスタ>に協力を取り付けていると言っていた。
+奴は<R=FSLN,サンディニスタ>の<R=司令官,コマンダンテ>にコンタクトを取れと。
+","<R=FSLN,サンディニスタ>は、バックにKGBがいる事を
+知っているのか？
+","いや、彼らは純粋に革命を信じて戦っているはずだ。
+KGBはあくまで裏支援、彼らに自覚があるかどうか
+は疑わしい。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们知道自己有克格勃
+(KGB)在背后支持吗？","[""他们知道自己有克格勃\n(KGB)在背后支持吗？""]","Do they know they're backed by KGB?
+","[""Do they know they're backed by KGB?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#5; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,4,stream=0x36D000;block=0xB0;text=4,"[""stream=0x36D000;block=0xB0;text=4""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","<R=FSLN,サンディニスタ>は、バックにKGBがいる事を
+知っているのか？
+","いや、彼らは純粋に革命を信じて戦っているはずだ。
+KGBはあくまで裏支援、彼らに自覚があるかどうか
+は疑わしい。
+","それにしても、このコスタリカに核を持ち込むとはな。
+",[],,,NOT_CHECKED,159,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不…就他们所知，
+他们是在真正地为革命而战。克格勃(KGB)一直躲在幕后。","[""不…就他们所知，\n他们是在真正地为革命而战。克格勃(KGB)一直躲在幕后。""]","Nah... As far as they know they're really
+fighting for the revolution.
+The KGB is staying behind the scenes.
+","[""Nah... As far as they know they're really\nfighting for the revolution.\nThe KGB is staying behind the scenes.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36D0B0; ENG blocks=0x385620,0x385620; ENG source rows=0x385620#6,0x385620#7; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36D0B0,5,stream=0x36D000;block=0xB0;text=5,"[""stream=0x36D000;block=0xB0;text=5""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","いや、彼らは純粋に革命を信じて戦っているはずだ。
+KGBはあくまで裏支援、彼らに自覚があるかどうか
+は疑わしい。
+","それにしても、このコスタリカに核を持ち込むとはな。
+","ああ、驚きだ。コスタリカはトラテロルコ条約を
+批准している。日本の非核三原則の概念に倣った、
+ラテンアメリカの非核化条約だ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还是不敢相信有人会
+把核武器弄到这儿来…","[""还是不敢相信有人会\n把核武器弄到这儿来…""]","Still can't believe anybody'd bring nukes
+here...
+","[""Still can't believe anybody'd bring nukes\nhere...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#9; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,6,stream=0x36D000;block=0xB0;text=6,"[""stream=0x36D000;block=0xB0;text=6""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","それにしても、このコスタリカに核を持ち込むとはな。
+","ああ、驚きだ。コスタリカはトラテロルコ条約を
+批准している。日本の非核三原則の概念に倣った、
+ラテンアメリカの非核化条約だ。
+","核兵器の実験、使用、輸入、配備等を全面的に禁止
+する…明るみに出れば<R=ラテンアメリカ核兵器禁止機構,OPANAL>
+が動く。国際問題だ。
+",[],,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它以日本的“无核三原则”为基础，,"[""它以日本的“无核三原则”为基础，""]","Based on Japan's Three Non-Nuclear
+Principles,
+","[""Based on Japan's Three Non-Nuclear\nPrinciples,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#13; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,7,stream=0x36D000;block=0xB0;text=7,"[""stream=0x36D000;block=0xB0;text=7""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","ああ、驚きだ。コスタリカはトラテロルコ条約を
+批准している。日本の非核三原則の概念に倣った、
+ラテンアメリカの非核化条約だ。
+","核兵器の実験、使用、輸入、配備等を全面的に禁止
+する…明るみに出れば<R=ラテンアメリカ核兵器禁止機構,OPANAL>
+が動く。国際問題だ。
+","そもそもトラテロルコ条約は、
+キューバ危機への反省から結ばれたものだ。
+","[""<R=ラテンアメリカ核兵器禁止機構,OPANAL>""]",,,NOT_CHECKED,185,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"禁止核武器的试验、
+使用、进口或部署。如果这件事走漏了风声，
+OPANAL将被迫采取行动。","[""禁止核武器的试验、\n使用、进口或部署。如果这件事走漏了风声，\nOPANAL将被迫采取行动。""]","it bans the testing, use, import, or
+deployment of nuclear weapons.
+If word of this gets out, OPANAL will be
+forced to act.
+","[""it bans the testing, use, import, or\ndeployment of nuclear weapons.\nIf word of this gets out, OPANAL will be\nforced to act.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36D0B0; ENG blocks=0x385620,0x385620; ENG source rows=0x385620#14,0x385620#15; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36D0B0,8,stream=0x36D000;block=0xB0;text=8,"[""stream=0x36D000;block=0xB0;text=8""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","核兵器の実験、使用、輸入、配備等を全面的に禁止
+する…明るみに出れば<R=ラテンアメリカ核兵器禁止機構,OPANAL>
+が動く。国際問題だ。
+","そもそもトラテロルコ条約は、
+キューバ危機への反省から結ばれたものだ。
+","それを、<R=米州機構,OAS>の中心である<R=合衆国,アメリカ>が
+反故にするとなれば…。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"签署该条约就是为了防止再
+发生一次古巴导弹危机。","[""签署该条约就是为了防止再\n发生一次古巴导弹危机。""]","The Treaty was signed to prevent
+another Cuban Missile Crisis.
+","[""The Treaty was signed to prevent\nanother Cuban Missile Crisis.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#17; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,9,stream=0x36D000;block=0xB0;text=9,"[""stream=0x36D000;block=0xB0;text=9""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","そもそもトラテロルコ条約は、
+キューバ危機への反省から結ばれたものだ。
+","それを、<R=米州機構,OAS>の中心である<R=合衆国,アメリカ>が
+反故にするとなれば…。
+","ただでさえ火種の多いこの中南米に、
+第2・第3のキューバが誕生しかねない。
+一触即発の状態になるだろう。
+","[""<R=米州機構,OAS>"", ""<R=合衆国,アメリカ>""]",,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果美国自己打算撕毁它…拉丁美洲离再冒出一两个
+古巴已经不远了。","[""如果美国自己打算撕毁它…拉丁美洲离再冒出一两个\n古巴已经不远了。""]","If the U.S. itself is going to scrap it...
+Latin America's too close to spawning
+another Cuba or two already.
+","[""If the U.S. itself is going to scrap it...\nLatin America's too close to spawning\nanother Cuba or two already.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36D0B0; ENG blocks=0x385620,0x385620; ENG source rows=0x385620#18,0x385620#19; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36D0B0,10,stream=0x36D000;block=0xB0;text=10,"[""stream=0x36D000;block=0xB0;text=10""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","それを、<R=米州機構,OAS>の中心である<R=合衆国,アメリカ>が
+反故にするとなれば…。
+","ただでさえ火種の多いこの中南米に、
+第2・第3のキューバが誕生しかねない。
+一触即発の状態になるだろう。
+","核が本当に持ち込まれたのなら、
+このまま放ってはおけない。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,整个大陆都会变成一个巨大的火药桶。,"[""整个大陆都会变成一个巨大的火药桶。""]","The entire continent would become one
+big powder keg.
+","[""The entire continent would become one\nbig powder keg.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#20; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,11,stream=0x36D000;block=0xB0;text=11,"[""stream=0x36D000;block=0xB0;text=11""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","ただでさえ火種の多いこの中南米に、
+第2・第3のキューバが誕生しかねない。
+一触即発の状態になるだろう。
+","核が本当に持ち込まれたのなら、
+このまま放ってはおけない。
+","何かの実験か？　アピールか？
+あるいは反米勢力への牽制か…。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"唔…如果他们真的带了核武器，
+我们不能就这么放过他们。","[""唔…如果他们真的带了核武器，\n我们不能就这么放过他们。""]","Well... If they did bring nukes, we can't let
+them get away with it.
+","[""Well... If they did bring nukes, we can't let\nthem get away with it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#21; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,12,stream=0x36D000;block=0xB0;text=12,"[""stream=0x36D000;block=0xB0;text=12""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","核が本当に持ち込まれたのなら、
+このまま放ってはおけない。
+","何かの実験か？　アピールか？
+あるいは反米勢力への牽制か…。
+","そうだな。
+何の為に核を持ち込んだのか？
+それが気になる。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们打算进行核试验？炫耀实力？还是说这一切都是为了压制反美运动？,"[""他们打算进行核试验？炫耀实力？还是说这一切都是为了压制反美运动？""]","Are they planning a test? Showing off?
+Or is it all to keep the anti-American
+movement in check?
+","[""Are they planning a test? Showing off?\nOr is it all to keep the anti-American\nmovement in check?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36D0B0; ENG blocks=0x385620,0x385620; ENG source rows=0x385620#22,0x385620#23; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36D0B0,13,stream=0x36D000;block=0xB0;text=13,"[""stream=0x36D000;block=0xB0;text=13""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","何かの実験か？　アピールか？
+あるいは反米勢力への牽制か…。
+","そうだな。
+何の為に核を持ち込んだのか？
+それが気になる。
+","どちらにしろ“教授”の依頼は
+「CIAがコスタリカでしている“何か”を阻止する」
+ことだ。それを調べる必要がある。
+",[],,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"问得好。为什么要把核武器
+带到这里？我想不通。","[""问得好。为什么要把核武器\n带到这里？我想不通。""]","Good question. Why bring them here? I
+can't figure it out.
+","[""Good question. Why bring them here? I\ncan't figure it out.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#24; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,14,stream=0x36D000;block=0xB0;text=14,"[""stream=0x36D000;block=0xB0;text=14""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","そうだな。
+何の為に核を持ち込んだのか？
+それが気になる。
+","どちらにしろ“教授”の依頼は
+「CIAがコスタリカでしている“何か”を阻止する」
+ことだ。それを調べる必要がある。
+","まずは準備を整えたい。
+カズ、そっちの補修状況はどうだ？
+",[],,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管中情局(CIA)在哥斯达黎加
+搞什么名堂，“教授”都想阻止。","[""不管中情局(CIA)在哥斯达黎加\n搞什么名堂，“教授”都想阻止。""]","Whatever the CIA's up to in Costa Rica,
+the ""professor"" wants it stopped.
+","[""Whatever the CIA's up to in Costa Rica,\nthe \""professor\"" wants it stopped.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#25; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,15,stream=0x36D000;block=0xB0;text=15,"[""stream=0x36D000;block=0xB0;text=15""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","どちらにしろ“教授”の依頼は
+「CIAがコスタリカでしている“何か”を阻止する」
+ことだ。それを調べる必要がある。
+","まずは準備を整えたい。
+カズ、そっちの補修状況はどうだ？
+","ああ、急ピッチでやってはいる。
+いまは傷みが酷くて<R=地獄,ヘル>さながらだが、
+ボス次第で<R=天国,ヘブン>にだって出来る。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们得先做好准备，
+Kaz。修理工作呢？","[""我们得先做好准备，\nKaz。修理工作呢？""]","We need to get ready first, Kaz. Repairs?
+","[""We need to get ready first, Kaz. Repairs?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#27; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,16,stream=0x36D000;block=0xB0;text=16,"[""stream=0x36D000;block=0xB0;text=16""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","まずは準備を整えたい。
+カズ、そっちの補修状況はどうだ？
+","ああ、急ピッチでやってはいる。
+いまは傷みが酷くて<R=地獄,ヘル>さながらだが、
+ボス次第で<R=天国,ヘブン>にだって出来る。
+","誰にも邪魔されない。
+どの国家にも縛られない<R=避難所,ヘイブン>になる。
+俺達MSFの<R=本拠地,マザーベース>だ。
+","[""<R=地獄,ヘル>"", ""<R=天国,ヘブン>""]",,,NOT_CHECKED,172,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们正尽快赶工，Boss。
+这地方破得不成样子…跟地狱似的。但只要你和我们在一起，
+我们就能把它变成天堂。","[""我们正尽快赶工，Boss。\n这地方破得不成样子…跟地狱似的。但只要你和我们在一起，\n我们就能把它变成天堂。""]","Working as fast as we can, Boss. This
+place is pretty beat... It looks like hell.
+But as long as you're with us, we'll make
+it heaven.
+","[""Working as fast as we can, Boss. This\nplace is pretty beat... It looks like hell.\nBut as long as you're with us, we'll make\nit heaven.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36D0B0; ENG blocks=0x385620,0x385620; ENG source rows=0x385620#28,0x385620#29; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36D0B0,17,stream=0x36D000;block=0xB0;text=17,"[""stream=0x36D000;block=0xB0;text=17""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","ああ、急ピッチでやってはいる。
+いまは傷みが酷くて<R=地獄,ヘル>さながらだが、
+ボス次第で<R=天国,ヘブン>にだって出来る。
+","誰にも邪魔されない。
+どの国家にも縛られない<R=避難所,ヘイブン>になる。
+俺達MSFの<R=本拠地,マザーベース>だ。
+","ここを足がかりに、あんたへの<R=支援,バックアップ>も
+もっと強化出来るってもんだ。
+","[""<R=避難所,ヘイブン>"", ""<R=本拠地,マザーベース>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在这里没人能打扰我们。
+没有哪个国家能对我们指手画脚。这是无国界之师（MSF）的
+避风港，我们的母基地。","[""在这里没人能打扰我们。\n没有哪个国家能对我们指手画脚。这是无国界之师（MSF）的\n避风港，我们的母基地。""]","No one can bother us here. No state
+telling us what to do.
+This is the MSF's haven, our Mother Base.
+","[""No one can bother us here. No state\ntelling us what to do.\nThis is the MSF's haven, our Mother Base.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36D0B0; ENG blocks=0x385620,0x385620; ENG source rows=0x385620#30,0x385620#31; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36D0B0,18,stream=0x36D000;block=0xB0;text=18,"[""stream=0x36D000;block=0xB0;text=18""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","誰にも邪魔されない。
+どの国家にも縛られない<R=避難所,ヘイブン>になる。
+俺達MSFの<R=本拠地,マザーベース>だ。
+","ここを足がかりに、あんたへの<R=支援,バックアップ>も
+もっと強化出来るってもんだ。
+","このポンコツを拡大しよう。
+","[""<R=支援,バックアップ>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有了这个立足点，
+我们就能比以前更好地支援你。","[""有了这个立足点，\n我们就能比以前更好地支援你。""]","And with this foothold, we'll back you up
+even better than before.
+","[""And with this foothold, we'll back you up\neven better than before.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#32; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36D0B0,19,stream=0x36D000;block=0xB0;text=19,"[""stream=0x36D000;block=0xB0;text=19""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","ここを足がかりに、あんたへの<R=支援,バックアップ>も
+もっと強化出来るってもんだ。
+","このポンコツを拡大しよう。
+",,[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们要把这堆破铜烂铁
+变成一番大事业。","[""我们要把这堆破铜烂铁\n变成一番大事业。""]","We're gonna turn this pile of junk into
+something big.
+","[""We're gonna turn this pile of junk into\nsomething big.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36D0B0; ENG blocks=0x385620; ENG source rows=0x385620#33; block_semantic_score=1.000000.

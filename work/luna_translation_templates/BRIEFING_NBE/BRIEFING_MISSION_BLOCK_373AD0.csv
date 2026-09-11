@@ -1,0 +1,368 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_373AD0,0,stream=0x373000;block=0xAD0;text=0,"[""stream=0x373000;block=0xAD0;text=0""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]",,"スネーク？
+","ヒューイ、お前のIDカードが使えない。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake？,"[""Snake？""]","Snake?
+","[""Snake?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,1,stream=0x373000;block=0xAD0;text=1,"[""stream=0x373000;block=0xAD0;text=1""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","スネーク？
+","ヒューイ、お前のIDカードが使えない。
+","このIDではロックが解除されないんだ！
+",[],,,NOT_CHECKED,54,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Huey，你的ID卡不管用了。,"[""Huey，你的ID卡不管用了。""]","Huey, your ID card isn't working.
+","[""Huey, your ID card isn't working.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,2,stream=0x373000;block=0xAD0;text=2,"[""stream=0x373000;block=0xAD0;text=2""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ヒューイ、お前のIDカードが使えない。
+","このIDではロックが解除されないんだ！
+","まさか…！
+",[],,,NOT_CHECKED,54,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_373AD0,3,stream=0x373000;block=0xAD0;text=3,"[""stream=0x373000;block=0xAD0;text=3""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","このIDではロックが解除されないんだ！
+","まさか…！
+","どうした！？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,打不开锁！,"[""打不开锁！""]","It won't open the lock!
+","[""It won't open the lock!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,4,stream=0x373000;block=0xAD0;text=4,"[""stream=0x373000;block=0xAD0;text=4""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","まさか…！
+","どうした！？
+","…そこまで嫌われたか…。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…不可能…,"[""…不可能…""]","...It can't be...
+","[""...It can't be...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#3; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,5,stream=0x373000;block=0xAD0;text=5,"[""stream=0x373000;block=0xAD0;text=5""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","どうした！？
+","…そこまで嫌われたか…。
+","ヒューイ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,到底怎么回事？！,"[""到底怎么回事？！""]","What's going on?!
+","[""What's going on?!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,6,stream=0x373000;block=0xAD0;text=6,"[""stream=0x373000;block=0xAD0;text=6""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","…そこまで嫌われたか…。
+","ヒューイ。
+","…IDの許可を出しているのはストレンジラブなんだ。
+前は使えたIDカードでも、権限を外されることがある。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她就那么恨我吗？！,"[""她就那么恨我吗？！""]","She hates me that much?!
+","[""She hates me that much?!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#5; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,7,stream=0x373000;block=0xAD0;text=7,"[""stream=0x373000;block=0xAD0;text=7""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ヒューイ。
+","…IDの許可を出しているのはストレンジラブなんだ。
+前は使えたIDカードでも、権限を外されることがある。
+","…例えば、嫌いになった相手とか。
+",[],,,NOT_CHECKED,147,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…Strangelove负责审批ID卡。有时候，一张能用的
+卡也会被取消权限。","[""…Strangelove负责审批ID卡。有时候，一张能用的\n卡也会被取消权限。""]","...Strangelove's in charge of authorizing
+IDs.
+Sometimes a working card has its
+privileges removed.
+","[""...Strangelove's in charge of authorizing\nIDs.\nSometimes a working card has its\nprivileges removed.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x373AD0; ENG blocks=0x38B170,0x38B170; ENG source rows=0x38B170#6,0x38B170#7; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_373AD0,8,stream=0x373000;block=0xAD0;text=8,"[""stream=0x373000;block=0xAD0;text=8""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","…IDの許可を出しているのはストレンジラブなんだ。
+前は使えたIDカードでも、権限を外されることがある。
+","…例えば、嫌いになった相手とか。
+","…心当たりが？
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…比方说，如果她看那
+张卡的主人不顺眼。","[""…比方说，如果她看那\n张卡的主人不顺眼。""]","...Say, if she decides she doesn't like that
+card's carrier.
+","[""...Say, if she decides she doesn't like that\ncard's carrier.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#8; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,9,stream=0x373000;block=0xAD0;text=9,"[""stream=0x373000;block=0xAD0;text=9""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","…例えば、嫌いになった相手とか。
+","…心当たりが？
+","まあね…。
+…好かれているとは思えない。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你觉得是这样？,"[""你觉得是这样？""]","You think that's what happened?
+","[""You think that's what happened?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#9; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,10,stream=0x373000;block=0xAD0;text=10,"[""stream=0x373000;block=0xAD0;text=10""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","…心当たりが？
+","まあね…。
+…好かれているとは思えない。
+","……。
+",[],,,NOT_CHECKED,59,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，我从来就不是她喜欢的人。,"[""嗯，我从来就不是她喜欢的人。""]","Well, I was never exactly her favorite.
+","[""Well, I was never exactly her favorite.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#10; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,11,stream=0x373000;block=0xAD0;text=11,"[""stream=0x373000;block=0xAD0;text=11""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","まあね…。
+…好かれているとは思えない。
+","……。
+","困ったな…。
+外にいる兵士も、<R=研究室,ラボ>への入室は許可されてない
+から、連中のカードを奪っても意味がないし…。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那这就难办了。,"[""那这就难办了。""]","Well, this could be tricky.
+","[""Well, this could be tricky.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#11; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,12,stream=0x373000;block=0xAD0;text=12,"[""stream=0x373000;block=0xAD0;text=12""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","……。
+","困ったな…。
+外にいる兵士も、<R=研究室,ラボ>への入室は許可されてない
+から、連中のカードを奪っても意味がないし…。
+","わかった。
+","[""<R=研究室,ラボ>""]",,,NOT_CHECKED,167,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"外面的士兵也不许进实验室，
+所以他们的卡对你也没用…","[""外面的士兵也不许进实验室，\n所以他们的卡对你也没用…""]","The soldiers outside aren't allowed in the
+lab either, so their cards won't do you
+any good...
+","[""The soldiers outside aren't allowed in the\nlab either, so their cards won't do you\nany good...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#12; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,13,stream=0x373000;block=0xAD0;text=13,"[""stream=0x373000;block=0xAD0;text=13""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","困ったな…。
+外にいる兵士も、<R=研究室,ラボ>への入室は許可されてない
+から、連中のカードを奪っても意味がないし…。
+","わかった。
+","スネーク。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好极了…,"[""好极了…""]","Great...
+","[""Great...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#13; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,14,stream=0x373000;block=0xAD0;text=14,"[""stream=0x373000;block=0xAD0;text=14""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","わかった。
+","スネーク。
+","カズ、セシールは？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake。,"[""Snake。""]","Snake.
+","[""Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#14; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,15,stream=0x373000;block=0xAD0;text=15,"[""stream=0x373000;block=0xAD0;text=15""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","スネーク。
+","カズ、セシールは？
+","さっき到着した。
+待ってくれ。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Kaz，Cécile在哪？,"[""Kaz，Cécile在哪？""]","Kaz, where's Cecile?
+","[""Kaz, where's Cecile?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#15; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,16,stream=0x373000;block=0xAD0;text=16,"[""stream=0x373000;block=0xAD0;text=16""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","カズ、セシールは？
+","さっき到着した。
+待ってくれ。
+","スネーク。
+",[],,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她刚到。等一下。,"[""她刚到。等一下。""]","She just got here. Hold on.
+","[""She just got here. Hold on.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#16; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,17,stream=0x373000;block=0xAD0;text=17,"[""stream=0x373000;block=0xAD0;text=17""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","さっき到着した。
+待ってくれ。
+","スネーク。
+","セシール、鳥になった気分は？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake！,"[""Snake！""]","Snake!
+","[""Snake!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#17; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,18,stream=0x373000;block=0xAD0;text=18,"[""stream=0x373000;block=0xAD0;text=18""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","スネーク。
+","セシール、鳥になった気分は？
+","素敵だった。
+鳥の気持ちが少しはわかったわ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Cécile，飞起来感觉怎么样？,"[""Cécile，飞起来感觉怎么样？""]","Cecile. How'd it feel to fly?
+","[""Cecile. How'd it feel to fly?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#18; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,19,stream=0x373000;block=0xAD0;text=19,"[""stream=0x373000;block=0xAD0;text=19""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","セシール、鳥になった気分は？
+","素敵だった。
+鳥の気持ちが少しはわかったわ。
+","鳥の研究はやめて、空を飛ぼうかなって思う。
+で、どうしたの？
+",[],,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"太棒了。有那么一瞬间，
+我体会到了当鸟的感觉。","[""太棒了。有那么一瞬间，\n我体会到了当鸟的感觉。""]","Wonderful. For a moment, I felt what it
+must be like to be a bird.
+","[""Wonderful. For a moment, I felt what it\nmust be like to be a bird.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#19; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,20,stream=0x373000;block=0xAD0;text=20,"[""stream=0x373000;block=0xAD0;text=20""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","素敵だった。
+鳥の気持ちが少しはわかったわ。
+","鳥の研究はやめて、空を飛ぼうかなって思う。
+で、どうしたの？
+","君はIDカードを手に入れたと言っていたな？
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那几乎让我想放弃研究，
+去考飞行员执照了…","[""那几乎让我想放弃研究，\n去考飞行员执照了…""]","It almost made me want to give up my
+research and get a pilot's license...
+","[""It almost made me want to give up my\nresearch and get a pilot's license...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#20; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,21,stream=0x373000;block=0xAD0;text=21,"[""stream=0x373000;block=0xAD0;text=21""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","鳥の研究はやめて、空を飛ぼうかなって思う。
+で、どうしたの？
+","君はIDカードを手に入れたと言っていたな？
+","ええ…。
+でも一度見張りの兵隊に捕まったとき、
+没収されちゃったの。
+",[],,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你说你拿到了一张ID卡，对吧？,"[""你说你拿到了一张ID卡，对吧？""]","You said you'd gotten an ID card, right?
+","[""You said you'd gotten an ID card, right?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#22; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,22,stream=0x373000;block=0xAD0;text=22,"[""stream=0x373000;block=0xAD0;text=22""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","君はIDカードを手に入れたと言っていたな？
+","ええ…。
+でも一度見張りの兵隊に捕まったとき、
+没収されちゃったの。
+","取られた！？　どんな奴にだ？
+",[],,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是的。但被守卫抓住时没收了。,"[""是的。但被守卫抓住时没收了。""]","Yes. But it was confiscated when the
+guards caught me.
+","[""Yes. But it was confiscated when the\nguards caught me.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#23; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,23,stream=0x373000;block=0xAD0;text=23,"[""stream=0x373000;block=0xAD0;text=23""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ええ…。
+でも一度見張りの兵隊に捕まったとき、
+没収されちゃったの。
+","取られた！？　どんな奴にだ？
+","オレンジ色のジャケットを着ていた。
+顔は思い出せない。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谁拿走的？！他长什么样？！,"[""谁拿走的？！他长什么样？！""]","Who took it?! What'd he look like?!
+","[""Who took it?! What'd he look like?!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#24; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,24,stream=0x373000;block=0xAD0;text=24,"[""stream=0x373000;block=0xAD0;text=24""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","取られた！？　どんな奴にだ？
+","オレンジ色のジャケットを着ていた。
+顔は思い出せない。
+","奴ら、似た顔が多いからな。
+場所は？
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他穿着一件橙色夹克。,"[""他穿着一件橙色夹克。""]","He had on an orange jacket.
+","[""He had on an orange jacket.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#25; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,25,stream=0x373000;block=0xAD0;text=25,"[""stream=0x373000;block=0xAD0;text=25""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","オレンジ色のジャケットを着ていた。
+顔は思い出せない。
+","奴ら、似た顔が多いからな。
+場所は？
+","ええと…。
+あ、そこでは『ケツァール』が鳴いていた。
+確かよ。
+",[],,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但我…记不清他的脸。,"[""但我…记不清他的脸。""]","I... cannot recall his face, though.
+","[""I... cannot recall his face, though.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#26; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,26,stream=0x373000;block=0xAD0;text=26,"[""stream=0x373000;block=0xAD0;text=26""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","奴ら、似た顔が多いからな。
+場所は？
+","ええと…。
+あ、そこでは『ケツァール』が鳴いていた。
+確かよ。
+","さすが<R=バードウォッチャー,バーダー>だ。
+",[],,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，他们看起来都差不多。
+在哪儿被拿走的？","[""是啊，他们看起来都差不多。\n在哪儿被拿走的？""]","Yeah, they all look pretty much the same.
+Where did it happen?
+","[""Yeah, they all look pretty much the same.\nWhere did it happen?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#27; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,27,stream=0x373000;block=0xAD0;text=27,"[""stream=0x373000;block=0xAD0;text=27""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ええと…。
+あ、そこでは『ケツァール』が鳴いていた。
+確かよ。
+","さすが<R=バードウォッチャー,バーダー>だ。
+","ケツァールの鳴き声、聴く？
+","[""<R=バードウォッチャー,バーダー>""]",,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,让我想想…,"[""让我想想…""]","Let me think...
+","[""Let me think...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#28; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,28,stream=0x373000;block=0xAD0;text=28,"[""stream=0x373000;block=0xAD0;text=28""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","さすが<R=バードウォッチャー,バーダー>だ。
+","ケツァールの鳴き声、聴く？
+","ああ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"啊，对了！我确实记得听到了
+附近一只绿咬鹃的叫声。","[""啊，对了！我确实记得听到了\n附近一只绿咬鹃的叫声。""]","Ah, yes! I do remember hearing the song
+of a nearby quetzal.
+","[""Ah, yes! I do remember hearing the song\nof a nearby quetzal.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#29; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,29,stream=0x373000;block=0xAD0;text=29,"[""stream=0x373000;block=0xAD0;text=29""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ケツァールの鳴き声、聴く？
+","ああ。
+","……。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真不愧是观鸟爱好者。,"[""真不愧是观鸟爱好者。""]","Just what I'd expect from a birder.
+","[""Just what I'd expect from a birder.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#30; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,30,stream=0x373000;block=0xAD0;text=30,"[""stream=0x373000;block=0xAD0;text=30""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ああ。
+","……。
+","ああっ？
+その鳴き声は？
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你想听听吗？,"[""你想听听吗？""]","Would you like to hear it?
+","[""Would you like to hear it?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#31; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,31,stream=0x373000;block=0xAD0;text=31,"[""stream=0x373000;block=0xAD0;text=31""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","……。
+","ああっ？
+その鳴き声は？
+","私のケツァール。
+回収された時、一緒に連れてきたの。
+",[],,,NOT_CHECKED,35,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯？什么叫声？,"[""嗯？什么叫声？""]","Hmm? What's that song?
+","[""Hmm? What's that song?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#32; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,32,stream=0x373000;block=0xAD0;text=32,"[""stream=0x373000;block=0xAD0;text=32""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ああっ？
+その鳴き声は？
+","私のケツァール。
+回収された時、一緒に連れてきたの。
+","確か、ワシントン条約の対象に入ってると君が…。
+",[],,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是我的绿咬鹃。我被救出来的
+时候把它带在了身边。","[""是我的绿咬鹃。我被救出来的\n时候把它带在了身边。""]","It's my quetzal. I took it with me when I
+was rescued.
+","[""It's my quetzal. I took it with me when I\nwas rescued.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#33; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,33,stream=0x373000;block=0xAD0;text=33,"[""stream=0x373000;block=0xAD0;text=33""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","私のケツァール。
+回収された時、一緒に連れてきたの。
+","確か、ワシントン条約の対象に入ってると君が…。
+","ウソ。
+今のは私の、もの真似。鳥類学者はこのくらい
+出来なくちゃ。うまいもんでしょ？
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你不是说过它们受
+《华盛顿公约》保护吗…","[""你不是说过它们受\n《华盛顿公约》保护吗…""]","Didn't you say something about them
+being covered under the Washington
+Convention...
+","[""Didn't you say something about them\nbeing covered under the Washington\nConvention...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#34; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,34,stream=0x373000;block=0xAD0;text=34,"[""stream=0x373000;block=0xAD0;text=34""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","確か、ワシントン条約の対象に入ってると君が…。
+","ウソ。
+今のは私の、もの真似。鳥類学者はこのくらい
+出来なくちゃ。うまいもんでしょ？
+","たいした女だ…。
+",[],,,NOT_CHECKED,123,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这是鸟类学家的必备技能。不错吧？,"[""这是鸟类学家的必备技能。不错吧？""]","An essential skill for any ornithologist.
+Pretty good, no?
+","[""An essential skill for any ornithologist.\nPretty good, no?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#36; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,35,stream=0x373000;block=0xAD0;text=35,"[""stream=0x373000;block=0xAD0;text=35""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ウソ。
+今のは私の、もの真似。鳥類学者はこのくらい
+出来なくちゃ。うまいもんでしょ？
+","たいした女だ…。
+","ケツァールの鳴き声が聴きたかったら、私に<R=連絡,CALL>して。
+それからもし、コスタリカの鳥について聞きたいこと
+があれば。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,相当不错。,"[""相当不错。""]","Damn good.
+","[""Damn good.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#37; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,36,stream=0x373000;block=0xAD0;text=36,"[""stream=0x373000;block=0xAD0;text=36""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","たいした女だ…。
+","ケツァールの鳴き声が聴きたかったら、私に<R=連絡,CALL>して。
+それからもし、コスタリカの鳥について聞きたいこと
+があれば。
+","わかった。
+セシール、よろしくな。
+","[""<R=連絡,CALL>""]",,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你想再听绿咬鹃的
+叫声，随时告诉我。我还可以给你讲讲
+哥斯达黎加的各种鸟类。","[""如果你想再听绿咬鹃的\n叫声，随时告诉我。我还可以给你讲讲\n哥斯达黎加的各种鸟类。""]","If you want to hear the quetzal's song
+again, just let me know.
+I can tell you all about the birds of Costa
+Rica, too.
+","[""If you want to hear the quetzal's song\nagain, just let me know.\nI can tell you all about the birds of Costa\nRica, too.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x373AD0; ENG blocks=0x38B170,0x38B170; ENG source rows=0x38B170#38,0x38B170#39; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_373AD0,37,stream=0x373000;block=0xAD0;text=37,"[""stream=0x373000;block=0xAD0;text=37""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","ケツァールの鳴き声が聴きたかったら、私に<R=連絡,CALL>して。
+それからもし、コスタリカの鳥について聞きたいこと
+があれば。
+","わかった。
+セシール、よろしくな。
+","こちらこそ、スネーク。
+それじゃ…。
+",[],,,NOT_CHECKED,50,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好…会的。谢谢，Cécile。,"[""好…会的。谢谢，Cécile。""]","Yeah... will do. Thanks, Cecile.
+","[""Yeah... will do. Thanks, Cecile.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#40; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,38,stream=0x373000;block=0xAD0;text=38,"[""stream=0x373000;block=0xAD0;text=38""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","わかった。
+セシール、よろしくな。
+","こちらこそ、スネーク。
+それじゃ…。
+","カズ、セシールに例のテープは？
+",[],,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不不，该道谢的是我，
+Snake。回头见。","[""不不，该道谢的是我，\nSnake。回头见。""]","No, no, thank you, Snake. Talk to you
+soon.
+","[""No, no, thank you, Snake. Talk to you\nsoon.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#41; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,39,stream=0x373000;block=0xAD0;text=39,"[""stream=0x373000;block=0xAD0;text=39""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","こちらこそ、スネーク。
+それじゃ…。
+","カズ、セシールに例のテープは？
+","聴かせたよ。
+確かに彼女のものだった。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Kaz，你把那盘磁带
+放给Cécile听了吗？","[""Kaz，你把那盘磁带\n放给Cécile听了吗？""]","Kaz, did you play that tape for Cecile?
+","[""Kaz, did you play that tape for Cecile?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#42; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,40,stream=0x373000;block=0xAD0;text=40,"[""stream=0x373000;block=0xAD0;text=40""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","カズ、セシールに例のテープは？
+","聴かせたよ。
+確かに彼女のものだった。
+","じゃあ彼女は…。
+",[],,,NOT_CHECKED,56,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然放了。确实是她的。,"[""当然放了。确实是她的。""]","I sure did. It's hers, all right.
+","[""I sure did. It's hers, all right.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#43; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,41,stream=0x373000;block=0xAD0;text=41,"[""stream=0x373000;block=0xAD0;text=41""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","聴かせたよ。
+確かに彼女のものだった。
+","じゃあ彼女は…。
+","パスの友人じゃない。
+セシールは知らないと。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那她一定是…,"[""那她一定是…""]","Then she must be...
+","[""Then she must be...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#44; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,42,stream=0x373000;block=0xAD0;text=42,"[""stream=0x373000;block=0xAD0;text=42""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","じゃあ彼女は…。
+","パスの友人じゃない。
+セシールは知らないと。
+","何だって？
+",[],,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她不是。Cécile说她
+甚至从没见过Paz。","[""她不是。Cécile说她\n甚至从没见过Paz。""]","She's not. Cecile says she's never even
+met Paz.
+","[""She's not. Cecile says she's never even\nmet Paz.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#45; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,43,stream=0x373000;block=0xAD0;text=43,"[""stream=0x373000;block=0xAD0;text=43""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","パスの友人じゃない。
+セシールは知らないと。
+","何だって？
+","<R=年齢,とし>も10は離れてるだろう。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？,"[""什么？""]","What?
+","[""What?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#46; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,44,stream=0x373000;block=0xAD0;text=44,"[""stream=0x373000;block=0xAD0;text=44""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","何だって？
+","<R=年齢,とし>も10は離れてるだろう。
+","だが…。
+","[""<R=年齢,とし>""]",,,NOT_CHECKED,50,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她至少大了10岁。,"[""她至少大了10岁。""]","She's at least 10 years too old.
+","[""She's at least 10 years too old.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#47; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,45,stream=0x373000;block=0xAD0;text=45,"[""stream=0x373000;block=0xAD0;text=45""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","<R=年齢,とし>も10は離れてるだろう。
+","だが…。
+","たぶんパスは、友達が録ったテープだと
+思い込んでいたんじゃないか？
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但是…,"[""但是…""]","But...
+","[""But...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#48; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,46,stream=0x373000;block=0xAD0;text=46,"[""stream=0x373000;block=0xAD0;text=46""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","だが…。
+","たぶんパスは、友達が録ったテープだと
+思い込んでいたんじゃないか？
+","まあ、そのことはいいじゃないか。
+スネーク、情報を整理しよう。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我猜Paz是说服了自己，
+以为那就是她朋友做的磁带。","[""我猜Paz是说服了自己，\n以为那就是她朋友做的磁带。""]","I'm guessing Paz convinced herself that it
+was the tape her friend made.
+","[""I'm guessing Paz convinced herself that it\nwas the tape her friend made.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#49; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,47,stream=0x373000;block=0xAD0;text=47,"[""stream=0x373000;block=0xAD0;text=47""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","たぶんパスは、友達が録ったテープだと
+思い込んでいたんじゃないか？
+","まあ、そのことはいいじゃないか。
+スネーク、情報を整理しよう。
+","IDカードを持っている兵士は、
+オレンジ色のジャケットを着ていて、
+ケツァールが鳴く<R=場所,エリア>にいる。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过先别管这个了。
+我们来梳理一下目前掌握的情况。","[""不过先别管这个了。\n我们来梳理一下目前掌握的情况。""]","But never mind that. Let's go over what
+we know so far.
+","[""But never mind that. Let's go over what\nwe know so far.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#50; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,48,stream=0x373000;block=0xAD0;text=48,"[""stream=0x373000;block=0xAD0;text=48""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","まあ、そのことはいいじゃないか。
+スネーク、情報を整理しよう。
+","IDカードを持っている兵士は、
+オレンジ色のジャケットを着ていて、
+ケツァールが鳴く<R=場所,エリア>にいる。
+","その兵士を捜し出し、IDカードを入手するんだ。
+","[""<R=場所,エリア>""]",,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,拿着ID卡的士兵穿着一件橙色夹克，,"[""拿着ID卡的士兵穿着一件橙色夹克，""]","The soldier with the ID card is wearing an
+orange jacket
+","[""The soldier with the ID card is wearing an\norange jacket\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#51; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_373AD0,49,stream=0x373000;block=0xAD0;text=49,"[""stream=0x373000;block=0xAD0;text=49""]",1,d3110_m0210_mrd,"[""stream=0x373000;block=0xAD0;block_file=0x373AD0;text_base=0x373BB8;capacity=2864""]","IDカードを持っている兵士は、
+オレンジ色のジャケットを着ていて、
+ケツァールが鳴く<R=場所,エリア>にいる。
+","その兵士を捜し出し、IDカードを入手するんだ。
+",,[],,,NOT_CHECKED,66,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,找到那个士兵，拿回那张卡。,"[""找到那个士兵，拿回那张卡。""]","Find that soldier. Retrieve that card.
+","[""Find that soldier. Retrieve that card.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x373AD0; ENG blocks=0x38B170; ENG source rows=0x38B170#53; block_semantic_score=1.000000.

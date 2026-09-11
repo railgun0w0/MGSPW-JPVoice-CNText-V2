@@ -1,0 +1,75 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0576E0,0,stream=0x57000;block=0x6E0;text=0,"[""stream=0x57000;block=0x6E0;text=0""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]",,"ヒューイからも聞いていると思うが、このマザーベースで
+生産できるパーツには限りがある。
+","だから<R=ZEKE,ジーク>のAIは、お前が引き抜いてきたAI兵器の記憶
+板を流用することにした。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Huey大概已经提过了，
+但我还是说清楚一点，我们在母基地能生产的零件是有限的。","[""Huey大概已经提过了，\n但我还是说清楚一点，我们在母基地能生产的零件是有限的。""]","Huey's probably mentioned this, but just to be clear,
+there's a limit to the parts we can produce here at
+Mother Base.
+","[""Huey's probably mentioned this, but just to be clear,\nthere's a limit to the parts we can produce here at\nMother Base.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x576E0; ENG blocks=0xE5620,0xE5620; ENG source rows=0xE5620#0,0xE5620#1; block_semantic_score=0.262337."
+BRIEFING_FILES_BLOCK_0576E0,1,stream=0x57000;block=0x6E0;text=1,"[""stream=0x57000;block=0x6E0;text=1""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","ヒューイからも聞いていると思うが、このマザーベースで
+生産できるパーツには限りがある。
+","だから<R=ZEKE,ジーク>のAIは、お前が引き抜いてきたAI兵器の記憶
+板を流用することにした。
+","それで上手くいくのか？
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,123,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以，我用你从其他AI兵器上
+拆下来的记忆板构建了ZEKE的AI。","[""所以，我用你从其他AI兵器上\n拆下来的记忆板构建了ZEKE的AI。""]","Therefore, I've built ZEKE's AI using memory boards
+you pulled from other AI weapons.
+","[""Therefore, I've built ZEKE's AI using memory boards\nyou pulled from other AI weapons.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x576E0; ENG blocks=0xE5620; ENG source rows=0xE5620#2; block_semantic_score=0.262337.
+BRIEFING_FILES_BLOCK_0576E0,2,stream=0x57000;block=0x6E0;text=2,"[""stream=0x57000;block=0x6E0;text=2""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","だから<R=ZEKE,ジーク>のAIは、お前が引き抜いてきたAI兵器の記憶
+板を流用することにした。
+","それで上手くいくのか？
+","人間の脳というのは、ひとつのパーツがひとつの機能を担
+当しているわけではない。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那能行吗？,"[""那能行吗？""]","Will that work?
+","[""Will that work?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x576E0; ENG blocks=0xE5620; ENG source rows=0xE5620#3; block_semantic_score=0.262337.
+BRIEFING_FILES_BLOCK_0576E0,3,stream=0x57000;block=0x6E0;text=3,"[""stream=0x57000;block=0x6E0;text=3""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","それで上手くいくのか？
+","人間の脳というのは、ひとつのパーツがひとつの機能を担
+当しているわけではない。
+","私たちのAIも同じだ。ある機能を持った複数のパーツ同士
+が連携し合い、その機能を強化していく。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在人脑中，各项功能分散在多个区域。,"[""在人脑中，各项功能分散在多个区域。""]","In the human brain, individual functions are spread
+across multiple regions.
+","[""In the human brain, individual functions are spread\nacross multiple regions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x576E0; ENG blocks=0xE5620; ENG source rows=0xE5620#4; block_semantic_score=0.262337.
+BRIEFING_FILES_BLOCK_0576E0,4,stream=0x57000;block=0x6E0;text=4,"[""stream=0x57000;block=0x6E0;text=4""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","人間の脳というのは、ひとつのパーツがひとつの機能を担
+当しているわけではない。
+","私たちのAIも同じだ。ある機能を持った複数のパーツ同士
+が連携し合い、その機能を強化していく。
+","例えば、センサーを制御する記憶板が多ければ索敵能力が
+上がる。機動を司る記憶板を多く搭載すれば機動力が上が
+る。
+",[],,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"AI也一样。多个承担同一功能的部件
+相互连接，就能强化这一功能。","[""AI也一样。多个承担同一功能的部件\n相互连接，就能强化这一功能。""]","The same is true of AI. Multiple parts sharing the
+same function interlink to strengthen that function.
+","[""The same is true of AI. Multiple parts sharing the\nsame function interlink to strengthen that function.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x576E0; ENG blocks=0xE5620; ENG source rows=0xE5620#5; block_semantic_score=0.262337.
+BRIEFING_FILES_BLOCK_0576E0,5,stream=0x57000;block=0x6E0;text=5,"[""stream=0x57000;block=0x6E0;text=5""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","私たちのAIも同じだ。ある機能を持った複数のパーツ同士
+が連携し合い、その機能を強化していく。
+","例えば、センサーを制御する記憶板が多ければ索敵能力が
+上がる。機動を司る記憶板を多く搭載すれば機動力が上が
+る。
+","つまり、搭載する記憶板に応じて、AIの能力が変わってく
+るというわけか。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"多装一些运动记忆板，
+就能提高它的机动性。","[""多装一些运动记忆板，\n就能提高它的机动性。""]","Install more movement boards and you'll increase
+its mobility.
+","[""Install more movement boards and you'll increase\nits mobility.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x576E0; ENG blocks=0xE5620; ENG source rows=0xE5620#8; block_semantic_score=0.262337.
+BRIEFING_FILES_BLOCK_0576E0,6,stream=0x57000;block=0x6E0;text=6,"[""stream=0x57000;block=0x6E0;text=6""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","例えば、センサーを制御する記憶板が多ければ索敵能力が
+上がる。機動を司る記憶板を多く搭載すれば機動力が上が
+る。
+","つまり、搭載する記憶板に応じて、AIの能力が変わってく
+るというわけか。
+","そうだ。AIの機能を強化したければ、多くの記憶板を集め
+る必要がある。
+",[],,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也就是说，AI的能力会随着
+我们给它的记忆量而改变？","[""也就是说，AI的能力会随着\n我们给它的记忆量而改变？""]","Meaning the AI's capabilities change depending on
+how much memory we give it?
+","[""Meaning the AI's capabilities change depending on\nhow much memory we give it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x576E0; ENG blocks=0xE5620; ENG source rows=0xE5620#9; block_semantic_score=0.262337.
+BRIEFING_FILES_BLOCK_0576E0,7,stream=0x57000;block=0x6E0;text=7,"[""stream=0x57000;block=0x6E0;text=7""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","つまり、搭載する記憶板に応じて、AIの能力が変わってく
+るというわけか。
+","そうだ。AIの機能を強化したければ、多くの記憶板を集め
+る必要がある。
+",,[],,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"正是如此。装的记忆板越多，
+功能就越强大。","[""正是如此。装的记忆板越多，\n功能就越强大。""]","Exactly. The more boards you install, the more
+powerful a function will be.
+","[""Exactly. The more boards you install, the more\npowerful a function will be.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x576E0; ENG blocks=0xE5620; ENG source rows=0xE5620#10; block_semantic_score=0.262337.

@@ -1,0 +1,64 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_031190,0,stream=0x31000;block=0x190;text=0,"[""stream=0x31000;block=0x190;text=0""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]",,"コスタリカとニカラグアの国境に流れているのが、<R=サン・ファン河,リオ・サン・ファン>。
+<R=ニカラグア湖,ラゴ・コシボルカ>からカリブ海までつないでる。
+","穏やかな河よ。小さなボートでも問題ない。ただ、サメが
+棲んでるから気をつけて。
+","[""<R=サン・ファン河,リオ・サン・ファン>"", ""<R=ニカラグア湖,ラゴ・コシボルカ>""]",,,NOT_CHECKED,216,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"尼加拉瓜和哥斯达黎加之间的河流
+是圣胡安河（el Río San Juan）。它连接着科西沃尔卡湖和加勒比海。","[""尼加拉瓜和哥斯达黎加之间的河流\n是圣胡安河（el Río San Juan）。它连接着科西沃尔卡湖和加勒比海。""]","The river that flows between Nicaragua and Costa
+Rica is el Río San Juan.
+It connects Lago Cocibolca to el Mar Caribe.
+","[""The river that flows between Nicaragua and Costa\nRica is el Río San Juan.\nIt connects Lago Cocibolca to el Mar Caribe.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x31190; ENG blocks=0xC2170,0xC2170; ENG source rows=0xC2170#0,0xC2170#1; block_semantic_score=0.152851."
+BRIEFING_FILES_BLOCK_031190,1,stream=0x31000;block=0x190;text=1,"[""stream=0x31000;block=0x190;text=1""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","コスタリカとニカラグアの国境に流れているのが、<R=サン・ファン河,リオ・サン・ファン>。
+<R=ニカラグア湖,ラゴ・コシボルカ>からカリブ海までつないでる。
+","穏やかな河よ。小さなボートでも問題ない。ただ、サメが
+棲んでるから気をつけて。
+","河じゃなかったのか。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这是一条平缓的河流，甚至小舟也
+能安全航行。不过你得小心鲨鱼。","[""这是一条平缓的河流，甚至小舟也\n能安全航行。不过你得小心鲨鱼。""]","It is a gentle river, safe even for small boats. You
+have to watch out for the sharks, though.
+","[""It is a gentle river, safe even for small boats. You\nhave to watch out for the sharks, though.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31190; ENG blocks=0xC2170; ENG source rows=0xC2170#2; block_semantic_score=0.152851.
+BRIEFING_FILES_BLOCK_031190,2,stream=0x31000;block=0x190;text=2,"[""stream=0x31000;block=0x190;text=2""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","穏やかな河よ。小さなボートでも問題ない。ただ、サメが
+棲んでるから気をつけて。
+","河じゃなかったのか。
+","<R=オオメジロザメ,チブロントロ>は、河でも生きられるの。でも大丈夫かも。
+きっと<R=聖ヨハネ,サン・ファン>のご加護がある。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,鲨鱼？河里有鲨鱼？,"[""鲨鱼？河里有鲨鱼？""]","Sharks? In a river?
+","[""Sharks? In a river?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31190; ENG blocks=0xC2170; ENG source rows=0xC2170#3; block_semantic_score=0.152851.
+BRIEFING_FILES_BLOCK_031190,3,stream=0x31000;block=0x190;text=3,"[""stream=0x31000;block=0x190;text=3""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","河じゃなかったのか。
+","<R=オオメジロザメ,チブロントロ>は、河でも生きられるの。でも大丈夫かも。
+きっと<R=聖ヨハネ,サン・ファン>のご加護がある。
+","ヨハネ？
+","[""<R=オオメジロザメ,チブロントロ>"", ""<R=聖ヨハネ,サン・ファン>""]",,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"公牛鲨（el tiburón toro）
+生活在河里。不过没什么好怕的，
+圣胡安会一直保佑你。","[""公牛鲨（el tiburón toro）\n生活在河里。不过没什么好怕的，\n圣胡安会一直保佑你。""]","El tiburón toro live in the river. But there's nothing
+to fear. San Juan will protect you always.
+","[""El tiburón toro live in the river. But there's nothing\nto fear. San Juan will protect you always.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31190; ENG blocks=0xC2170; ENG source rows=0xC2170#4; block_semantic_score=0.152851.
+BRIEFING_FILES_BLOCK_031190,4,stream=0x31000;block=0x190;text=4,"[""stream=0x31000;block=0x190;text=4""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","<R=オオメジロザメ,チブロントロ>は、河でも生きられるの。でも大丈夫かも。
+きっと<R=聖ヨハネ,サン・ファン>のご加護がある。
+","ヨハネ？
+","<R=サン・ファン河,リオ・サン・ファン>という名前は、<R=イエス,ヘスス>様に洗礼を施した、<R=聖ヨハネ,サン・ファン>
+から来ているの。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,胡安？,"[""胡安？""]","Juan?
+","[""Juan?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31190; ENG blocks=0xC2170; ENG source rows=0xC2170#5; block_semantic_score=0.152851.
+BRIEFING_FILES_BLOCK_031190,5,stream=0x31000;block=0x190;text=5,"[""stream=0x31000;block=0x190;text=5""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","ヨハネ？
+","<R=サン・ファン河,リオ・サン・ファン>という名前は、<R=イエス,ヘスス>様に洗礼を施した、<R=聖ヨハネ,サン・ファン>
+から来ているの。
+","あなたの国の言葉で言うなら、ジョンよ。
+","[""<R=サン・ファン河,リオ・サン・ファン>"", ""<R=イエス,ヘスス>"", ""<R=聖ヨハネ,サン・ファン>""]",,,NOT_CHECKED,185,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"圣胡安河的名字来源于
+为耶稣施洗的圣胡安。","[""圣胡安河的名字来源于\n为耶稣施洗的圣胡安。""]","The Rio San Juan takes its name from San Juan,
+the man who baptized Jesús.
+","[""The Rio San Juan takes its name from San Juan,\nthe man who baptized Jesús.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31190; ENG blocks=0xC2170; ENG source rows=0xC2170#6; block_semantic_score=0.152851.
+BRIEFING_FILES_BLOCK_031190,6,stream=0x31000;block=0x190;text=6,"[""stream=0x31000;block=0x190;text=6""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","<R=サン・ファン河,リオ・サン・ファン>という名前は、<R=イエス,ヘスス>様に洗礼を施した、<R=聖ヨハネ,サン・ファン>
+から来ているの。
+","あなたの国の言葉で言うなら、ジョンよ。
+","ジョン、ね…。溺れ死んでジョン・ドゥにならないよう、
+せいぜい気をつけるさ。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在你们国家，你们称之为施洗者约翰。,"[""在你们国家，你们称之为施洗者约翰。""]","The man you call John the Baptist in your country.
+","[""The man you call John the Baptist in your country.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31190; ENG blocks=0xC2170; ENG source rows=0xC2170#7; block_semantic_score=0.152851.
+BRIEFING_FILES_BLOCK_031190,7,stream=0x31000;block=0x190;text=7,"[""stream=0x31000;block=0x190;text=7""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","あなたの国の言葉で言うなら、ジョンよ。
+","ジョン、ね…。溺れ死んでジョン・ドゥにならないよう、
+せいぜい気をつけるさ。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"约翰啊…总之我会小心的。
+我可不想淹死，变成一具无名男尸。","[""约翰啊…总之我会小心的。\n我可不想淹死，变成一具无名男尸。""]","John, huh... I'll be careful anyway. I'd hate to drown
+- end up a John Doe.
+","[""John, huh... I'll be careful anyway. I'd hate to drown\n- end up a John Doe.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x31190; ENG blocks=0xC2170; ENG source rows=0xC2170#8; block_semantic_score=0.152851.

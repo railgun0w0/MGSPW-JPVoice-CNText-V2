@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_012E10,0,stream=0x12000;block=0xE10;text=0,"[""stream=0x12000;block=0xE10;text=0""]",1,BRIEFING FILES,"[""stream=0x12000;block=0xE10;block_file=0x12E10;text_base=0x12E44;capacity=492""]",,"『JUNGLE FATIGUES』は、ジャングル用の野戦服だ。
+標準的な戦闘服と言っていい。
+","こいつの特徴は、エリアによってカムフラ率に大きな差が
+出ることだ。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它能提供不错的防护，
+也能让你携带相当数量的武器。
+基本上算是你的标准制服。","[""它能提供不错的防护，\n也能让你携带相当数量的武器。\n基本上算是你的标准制服。""]","They provide decent protection and let you carry
+a fair number of weapons. Your standard uniform,
+basically.
+","[""They provide decent protection and let you carry\na fair number of weapons. Your standard uniform,\nbasically.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x12E10; ENG blocks=0xA5B10; ENG source rows=0xA5B10#1; block_semantic_score=0.074108.
+BRIEFING_FILES_BLOCK_012E10,1,stream=0x12000;block=0xE10;text=1,"[""stream=0x12000;block=0xE10;text=1""]",1,BRIEFING FILES,"[""stream=0x12000;block=0xE10;block_file=0x12E10;text_base=0x12E44;capacity=492""]","『JUNGLE FATIGUES』は、ジャングル用の野戦服だ。
+標準的な戦闘服と言っていい。
+","こいつの特徴は、エリアによってカムフラ率に大きな差が
+出ることだ。
+","周囲に溶け込むようなパターンの服を着ていれば、カムフ
+ラ率は高くなる。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"其显著特点是，你的迷彩指数
+会根据区域不同而大幅变化。","[""其显著特点是，你的迷彩指数\n会根据区域不同而大幅变化。""]","The distinguishing factor is that your camo index
+will vary - a lot - depending on the area.
+","[""The distinguishing factor is that your camo index\nwill vary - a lot - depending on the area.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x12E10; ENG blocks=0xA5B10; ENG source rows=0xA5B10#2; block_semantic_score=0.074108.
+BRIEFING_FILES_BLOCK_012E10,2,stream=0x12000;block=0xE10;text=2,"[""stream=0x12000;block=0xE10;text=2""]",1,BRIEFING FILES,"[""stream=0x12000;block=0xE10;block_file=0x12E10;text_base=0x12E44;capacity=492""]","こいつの特徴は、エリアによってカムフラ率に大きな差が
+出ることだ。
+","周囲に溶け込むようなパターンの服を着ていれば、カムフ
+ラ率は高くなる。
+","逆に周りから浮き上がってしまうと、見つかりやすい。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"穿上能融入周围环境的迷彩图案，
+你的迷彩指数就会上升。","[""穿上能融入周围环境的迷彩图案，\n你的迷彩指数就会上升。""]","Wear a pattern that makes you blend in with your
+surroundings and your camo index goes up.
+","[""Wear a pattern that makes you blend in with your\nsurroundings and your camo index goes up.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x12E10; ENG blocks=0xA5B10; ENG source rows=0xA5B10#3; block_semantic_score=0.074108.
+BRIEFING_FILES_BLOCK_012E10,3,stream=0x12000;block=0xE10;text=3,"[""stream=0x12000;block=0xE10;text=3""]",1,BRIEFING FILES,"[""stream=0x12000;block=0xE10;block_file=0x12E10;text_base=0x12E44;capacity=492""]","周囲に溶け込むようなパターンの服を着ていれば、カムフ
+ラ率は高くなる。
+","逆に周りから浮き上がってしまうと、見つかりやすい。
+","状況に応じた使い分けが必要ってわけだ。シギントにもよ
+く説教された。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"穿上格格不入的图案，
+你就会像靶子一样显眼。","[""穿上格格不入的图案，\n你就会像靶子一样显眼。""]","Wear something that clashes and you'll stick out
+like a sore thumb.
+","[""Wear something that clashes and you'll stick out\nlike a sore thumb.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x12E10; ENG blocks=0xA5B10; ENG source rows=0xA5B10#4; block_semantic_score=0.074108.
+BRIEFING_FILES_BLOCK_012E10,4,stream=0x12000;block=0xE10;text=4,"[""stream=0x12000;block=0xE10;text=4""]",1,BRIEFING FILES,"[""stream=0x12000;block=0xE10;block_file=0x12E10;text_base=0x12E44;capacity=492""]","逆に周りから浮き上がってしまうと、見つかりやすい。
+","状況に応じた使い分けが必要ってわけだ。シギントにもよ
+く説教された。
+",,[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"根据场合挑选合适的迷彩——
+Sigint以前总跟我唠叨这个。","[""根据场合挑选合适的迷彩——\nSigint以前总跟我唠叨这个。""]","Pick the right pattern for the occasion - Sigint
+used to lecture me on it all the time.
+","[""Pick the right pattern for the occasion - Sigint\nused to lecture me on it all the time.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x12E10; ENG blocks=0xA5B10; ENG source rows=0xA5B10#5; block_semantic_score=0.074108.

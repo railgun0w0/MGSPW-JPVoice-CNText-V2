@@ -1,0 +1,103 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_035C60,0,stream=0x35000;block=0xC60;text=0,"[""stream=0x35000;block=0xC60;text=0""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]",,"親父さんがKGBと手を組んだこと…いつから気付いてた？
+","半年程前よ。それまでは豆しか食べられなかったのが、急
+に卵や小麦が届けられるようになってね。弾も不足しなく
+なった。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"告诉我…你是什么时候确切发现你
+父亲在为克格勃(KGB)工作的？","[""告诉我…你是什么时候确切发现你\n父亲在为克格勃(KGB)工作的？""]","Tell me... when exactly did you realize your dad
+was working with the KGB?
+","[""Tell me... when exactly did you realize your dad\nwas working with the KGB?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#0; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,1,stream=0x35000;block=0xC60;text=1,"[""stream=0x35000;block=0xC60;text=1""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","親父さんがKGBと手を組んだこと…いつから気付いてた？
+","半年程前よ。それまでは豆しか食べられなかったのが、急
+に卵や小麦が届けられるようになってね。弾も不足しなく
+なった。
+","<R=麻薬,コカイン>は、どうやって手に入れてた。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大约六个月前。在那之前，
+我们只能靠豆子果腹。然后突然之间，
+我们开始吃到鸡蛋和面粉了。
+子弹短缺的问题也一下子消失了。","[""大约六个月前。在那之前，\n我们只能靠豆子果腹。然后突然之间，\n我们开始吃到鸡蛋和面粉了。\n子弹短缺的问题也一下子消失了。""]","About six months ago. Up until then, we only had
+beans to eat.
+And then suddenly we started to get eggs and
+flour. Our bullet shortage simply disappeared.
+","[""About six months ago. Up until then, we only had\nbeans to eat.\nAnd then suddenly we started to get eggs and\nflour. Our bullet shortage simply disappeared.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x35C60; ENG blocks=0xC6890,0xC6890; ENG source rows=0xC6890#1,0xC6890#2; block_semantic_score=0.158961."
+BRIEFING_FILES_BLOCK_035C60,2,stream=0x35000;block=0xC60;text=2,"[""stream=0x35000;block=0xC60;text=2""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","半年程前よ。それまでは豆しか食べられなかったのが、急
+に卵や小麦が届けられるようになってね。弾も不足しなく
+なった。
+","<R=麻薬,コカイン>は、どうやって手に入れてた。
+","KGBに聞いて。ここでやってたのは、コカインの精製だけ
+だと思う。
+","[""<R=麻薬,コカイン>""]",,,NOT_CHECKED,66,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可卡因他是怎么弄到的？,"[""可卡因他是怎么弄到的？""]","How'd he get the cocaine?
+","[""How'd he get the cocaine?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#3; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,3,stream=0x35000;block=0xC60;text=3,"[""stream=0x35000;block=0xC60;text=3""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","<R=麻薬,コカイン>は、どうやって手に入れてた。
+","KGBに聞いて。ここでやってたのは、コカインの精製だけ
+だと思う。
+","このあたりでもコカの木は育つけど、原料のほとんどは、
+コロンビアやボリビアあたりから仕入れてたはず。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这你得去问克格勃(KGB)。
+我们在这里只管加工。","[""这你得去问克格勃(KGB)。\n我们在这里只管加工。""]","Ask the KGB. All we did here was process it.
+","[""Ask the KGB. All we did here was process it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#4; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,4,stream=0x35000;block=0xC60;text=4,"[""stream=0x35000;block=0xC60;text=4""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","KGBに聞いて。ここでやってたのは、コカインの精製だけ
+だと思う。
+","このあたりでもコカの木は育つけど、原料のほとんどは、
+コロンビアやボリビアあたりから仕入れてたはず。
+","それを工場で加工して、カリブ海の港まで運んだ。その先
+は。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这里也种古柯，但据我所知，我们用的货几乎
+都来自哥伦比亚和玻利维亚。","[""这里也种古柯，但据我所知，我们用的货几乎\n都来自哥伦比亚和玻利维亚。""]","Coca plants grow here, too,
+but to my knowledge almost all of the stuff we
+used came from Colombia and Bolivia.
+","[""Coca plants grow here, too,\nbut to my knowledge almost all of the stuff we\nused came from Colombia and Bolivia.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x35C60; ENG blocks=0xC6890,0xC6890; ENG source rows=0xC6890#5,0xC6890#6; block_semantic_score=0.158961."
+BRIEFING_FILES_BLOCK_035C60,5,stream=0x35000;block=0xC60;text=5,"[""stream=0x35000;block=0xC60;text=5""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","このあたりでもコカの木は育つけど、原料のほとんどは、
+コロンビアやボリビアあたりから仕入れてたはず。
+","それを工場で加工して、カリブ海の港まで運んだ。その先
+は。
+","考えたことない…いえ、考えたくない。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在工厂加工好后，
+再运往加勒比海沿岸的港口。","[""在工厂加工好后，\n再运往加勒比海沿岸的港口。""]","It's processed in a factory and then shipped to
+ports on the Caribbean Sea.
+","[""It's processed in a factory and then shipped to\nports on the Caribbean Sea.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#7; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,6,stream=0x35000;block=0xC60;text=6,"[""stream=0x35000;block=0xC60;text=6""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","それを工場で加工して、カリブ海の港まで運んだ。その先
+は。
+","考えたことない…いえ、考えたくない。
+","世界最大のコカイン消費国は、アメリカだ。おそらく漁船
+に偽装して運んだりしてるんだろう。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我从来没想过…我是说，我不愿去想。,"[""我从来没想过…我是说，我不愿去想。""]","I never thought about it.... I mean, I did not want to
+think about it.
+","[""I never thought about it.... I mean, I did not want to\nthink about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#9; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,7,stream=0x35000;block=0xC60;text=7,"[""stream=0x35000;block=0xC60;text=7""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","考えたことない…いえ、考えたくない。
+","世界最大のコカイン消費国は、アメリカだ。おそらく漁船
+に偽装して運んだりしてるんだろう。
+","ちょっと待って。<R=CIA,ラ・シーア>もそのルートを利用してるなら、
+<R=CIA,ラ・シーア>もアメリカに売ってるってこと？
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,世界上最大的可卡因消费国就是美国。,"[""世界上最大的可卡因消费国就是美国。""]","The biggest cocaine consumer in the world is the
+United States.
+","[""The biggest cocaine consumer in the world is the\nUnited States.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#10; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,8,stream=0x35000;block=0xC60;text=8,"[""stream=0x35000;block=0xC60;text=8""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","世界最大のコカイン消費国は、アメリカだ。おそらく漁船
+に偽装して運んだりしてるんだろう。
+","ちょっと待って。<R=CIA,ラ・シーア>もそのルートを利用してるなら、
+<R=CIA,ラ・シーア>もアメリカに売ってるってこと？
+","そうなる。
+","[""<R=CIA,ラ・シーア>"", ""<R=CIA,ラ・シーア>""]",,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,等等。中情局(CIA)也利用那条路线。,"[""等等。中情局(CIA)也利用那条路线。""]","Wait. La CIA uses that route, too.
+","[""Wait. La CIA uses that route, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#12; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,9,stream=0x35000;block=0xC60;text=9,"[""stream=0x35000;block=0xC60;text=9""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","ちょっと待って。<R=CIA,ラ・シーア>もそのルートを利用してるなら、
+<R=CIA,ラ・シーア>もアメリカに売ってるってこと？
+","そうなる。
+","連中は、祖国の若者をジャンキーにするために、せっせと
+麻薬を密輸してるの？　どうしてそんな馬鹿げたことを！？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看来是这样。,"[""看来是这样。""]","Looks that way.
+","[""Looks that way.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#14; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,10,stream=0x35000;block=0xC60;text=10,"[""stream=0x35000;block=0xC60;text=10""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","そうなる。
+","連中は、祖国の若者をジャンキーにするために、せっせと
+麻薬を密輸してるの？　どうしてそんな馬鹿げたことを！？
+","恐いんだろう。何よりも、中米に共産国ができることがな。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那些混蛋是在把自己的孩子变成
+瘾君子吗？他们疯了吧？！","[""那些混蛋是在把自己的孩子变成\n瘾君子吗？他们疯了吧？！""]","Those bastards are turning their own children into
+junkies? Are they insane?!
+","[""Those bastards are turning their own children into\njunkies? Are they insane?!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#15; block_semantic_score=0.158961.
+BRIEFING_FILES_BLOCK_035C60,11,stream=0x35000;block=0xC60;text=11,"[""stream=0x35000;block=0xC60;text=11""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","連中は、祖国の若者をジャンキーにするために、せっせと
+麻薬を密輸してるの？　どうしてそんな馬鹿げたことを！？
+","恐いんだろう。何よりも、中米に共産国ができることがな。
+",,[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，他们只是害怕。
+害怕出现一个共产主义的中美洲。","[""不，他们只是害怕。\n害怕出现一个共产主义的中美洲。""]","No, just afraid. Afraid of a communist Central
+America.
+","[""No, just afraid. Afraid of a communist Central\nAmerica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35C60; ENG blocks=0xC6890; ENG source rows=0xC6890#16; block_semantic_score=0.158961.

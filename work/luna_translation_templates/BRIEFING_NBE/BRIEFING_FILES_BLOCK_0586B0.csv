@@ -1,0 +1,149 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0586B0,0,stream=0x58000;block=0x6B0;text=0,"[""stream=0x58000;block=0x6B0;text=0""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]",,"ストレンジラブの<R=研究施設,ラボ>からよく逃げ出せたな。
+","施設内の警備はそんなに厳しくないの。
+","[""<R=研究施設,ラボ>""]",,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你能从Strangelove的实验室
+里逃出来可真不简单。","[""你能从Strangelove的实验室\n里逃出来可真不简单。""]","That was some escape you made from
+Strangelove's lab.
+","[""That was some escape you made from\nStrangelove's lab.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#0; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,1,stream=0x58000;block=0x6B0;text=1,"[""stream=0x58000;block=0x6B0;text=1""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","ストレンジラブの<R=研究施設,ラボ>からよく逃げ出せたな。
+","施設内の警備はそんなに厳しくないの。
+","もちろん部屋には外側から鍵をかけられてたけど。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,里面的守卫不算太严密。,"[""里面的守卫不算太严密。""]","Security inside was not so tight.
+","[""Security inside was not so tight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#1; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,2,stream=0x58000;block=0x6B0;text=2,"[""stream=0x58000;block=0x6B0;text=2""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","施設内の警備はそんなに厳しくないの。
+","もちろん部屋には外側から鍵をかけられてたけど。
+","お風呂の中では目隠しも外してくれた。髪も洗うから…。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我的房门当然是从外面锁上的。,"[""我的房门当然是从外面锁上的。""]","The door to my room was locked from the outside,
+of course.
+","[""The door to my room was locked from the outside,\nof course.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#2; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,3,stream=0x58000;block=0x6B0;text=3,"[""stream=0x58000;block=0x6B0;text=3""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","もちろん部屋には外側から鍵をかけられてたけど。
+","お風呂の中では目隠しも外してくれた。髪も洗うから…。
+","捕虜にしてはずいぶん好待遇だ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但洗澡的时候她会摘下
+眼罩——好帮我洗头发…","[""但洗澡的时候她会摘下\n眼罩——好帮我洗头发…""]","But she took off the blindfold at bath time - so she
+could wash my hair...
+","[""But she took off the blindfold at bath time - so she\ncould wash my hair...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#3; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,4,stream=0x58000;block=0x6B0;text=4,"[""stream=0x58000;block=0x6B0;text=4""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","お風呂の中では目隠しも外してくれた。髪も洗うから…。
+","捕虜にしてはずいぶん好待遇だ。
+","そうね。手錠は外してくれなかったけど、その代わりに身
+体も洗ってくれた。それは丁寧だった。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对一个囚犯来说，
+这待遇可真够奢侈的。","[""对一个囚犯来说，\n这待遇可真够奢侈的。""]","Pretty luxurious treatment for a prisoner.
+","[""Pretty luxurious treatment for a prisoner.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#4; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,5,stream=0x58000;block=0x6B0;text=5,"[""stream=0x58000;block=0x6B0;text=5""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","捕虜にしてはずいぶん好待遇だ。
+","そうね。手錠は外してくれなかったけど、その代わりに身
+体も洗ってくれた。それは丁寧だった。
+","なぜ逃げた？　ひと月で帰してもらえると言われたんだろ
+う？
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可不是吗？她不肯解开手铐，
+却亲手帮我擦洗身体。","[""可不是吗？她不肯解开手铐，\n却亲手帮我擦洗身体。""]","Wasn't it? She wouldn't undo the handcuffs, but
+she washed my body for me instead.
+","[""Wasn't it? She wouldn't undo the handcuffs, but\nshe washed my body for me instead.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#5; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,6,stream=0x58000;block=0x6B0;text=6,"[""stream=0x58000;block=0x6B0;text=6""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","そうね。手錠は外してくれなかったけど、その代わりに身
+体も洗ってくれた。それは丁寧だった。
+","なぜ逃げた？　ひと月で帰してもらえると言われたんだろ
+う？
+","脱走に失敗したらもっと立場が危うくなったかもしれない。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你为什么要逃跑？
+她不是说一个月后就能放你回家吗？","[""你为什么要逃跑？\n她不是说一个月后就能放你回家吗？""]","Why'd you run away? Didn't she say you could go
+home in a month?
+","[""Why'd you run away? Didn't she say you could go\nhome in a month?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#7; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,7,stream=0x58000;block=0x6B0;text=7,"[""stream=0x58000;block=0x6B0;text=7""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","なぜ逃げた？　ひと月で帰してもらえると言われたんだろ
+う？
+","脱走に失敗したらもっと立場が危うくなったかもしれない。
+","コスタリカの鳥類分布に関して、学会で発表する予定だっ
+たの。期日が迫ってた。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果逃跑失败，
+你的处境会比以前更危险。","[""如果逃跑失败，\n你的处境会比以前更危险。""]","If your escape attempt failed, you'd be in greater
+danger than before.
+","[""If your escape attempt failed, you'd be in greater\ndanger than before.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#8; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,8,stream=0x58000;block=0x6B0;text=8,"[""stream=0x58000;block=0x6B0;text=8""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","脱走に失敗したらもっと立場が危うくなったかもしれない。
+","コスタリカの鳥類分布に関して、学会で発表する予定だっ
+たの。期日が迫ってた。
+","それで、トイレに行くフリをして逃げようとした。IDカー
+ドを見つけて、機材やテープをあちこち探したんだけど…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在一个关于哥斯达黎加
+鸟类分布的会议上。","[""在一个关于哥斯达黎加\n鸟类分布的会议上。""]","on the distribution of Costa Rican bird species at a
+conference.
+","[""on the distribution of Costa Rican bird species at a\nconference.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#10; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,9,stream=0x58000;block=0x6B0;text=9,"[""stream=0x58000;block=0x6B0;text=9""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","コスタリカの鳥類分布に関して、学会で発表する予定だっ
+たの。期日が迫ってた。
+","それで、トイレに行くフリをして逃げようとした。IDカー
+ドを見つけて、機材やテープをあちこち探したんだけど…。
+","でも、兵士に見られてしまった。逃げ出せただけでも奇跡
+ね。テープを探す余裕なんてなかった。
+",[],,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"于是我假装要上厕所，趁机逃了出来。我找到了一张ID卡，
+到处找我的装备和磁带…","[""于是我假装要上厕所，趁机逃了出来。我找到了一张ID卡，\n到处找我的装备和磁带…""]","So I pretended I had to use the toilet and made
+my escape.
+I found an ID card and searched everywhere for
+my equipment and my tape...
+","[""So I pretended I had to use the toilet and made\nmy escape.\nI found an ID card and searched everywhere for\nmy equipment and my tape...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x586B0; ENG blocks=0xE6480,0xE6480; ENG source rows=0xE6480#12,0xE6480#13; block_semantic_score=0.149421."
+BRIEFING_FILES_BLOCK_0586B0,10,stream=0x58000;block=0x6B0;text=10,"[""stream=0x58000;block=0x6B0;text=10""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","それで、トイレに行くフリをして逃げようとした。IDカー
+ドを見つけて、機材やテープをあちこち探したんだけど…。
+","でも、兵士に見られてしまった。逃げ出せただけでも奇跡
+ね。テープを探す余裕なんてなかった。
+","学会は諦める。この身体が無事ってだけでも幸運だった。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但一个士兵看到了我。
+我能逃掉简直是奇迹。","[""但一个士兵看到了我。\n我能逃掉简直是奇迹。""]","But a soldier saw me. It was a miracle I managed
+to get away.
+","[""But a soldier saw me. It was a miracle I managed\nto get away.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#14; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,11,stream=0x58000;block=0x6B0;text=11,"[""stream=0x58000;block=0x6B0;text=11""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","でも、兵士に見られてしまった。逃げ出せただけでも奇跡
+ね。テープを探す余裕なんてなかった。
+","学会は諦める。この身体が無事ってだけでも幸運だった。
+","切り替えが早いんだな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我才不在乎那个会议。能完好无损地
+活着出来就已经够幸运了。","[""我才不在乎那个会议。能完好无损地\n活着出来就已经够幸运了。""]","I don't care about the conference. I'm lucky
+enough to still be in one piece.
+","[""I don't care about the conference. I'm lucky\nenough to still be in one piece.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#16; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,12,stream=0x58000;block=0x6B0;text=12,"[""stream=0x58000;block=0x6B0;text=12""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","学会は諦める。この身体が無事ってだけでも幸運だった。
+","切り替えが早いんだな。
+","あなたは早くないの？
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你恢复得倒挺快。,"[""你恢复得倒挺快。""]","You bounce back quick.
+","[""You bounce back quick.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#17; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,13,stream=0x58000;block=0x6B0;text=13,"[""stream=0x58000;block=0x6B0;text=13""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","切り替えが早いんだな。
+","あなたは早くないの？
+","…わからない。過去にこだわっているつもりはないが…。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你不也是？,"[""你不也是？""]","You don't?
+","[""You don't?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#18; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,14,stream=0x58000;block=0x6B0;text=14,"[""stream=0x58000;block=0x6B0;text=14""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","あなたは早くないの？
+","…わからない。過去にこだわっているつもりはないが…。
+","こだわっても仕方ないわ。助かって良かった。あそこでは
+いろいろと身の危険も感じたし。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…说不准。我尽量不去
+想过去的事，但是…","[""…说不准。我尽量不去\n想过去的事，但是…""]","....Not sure. I try not to dwell too much on the past,
+but...
+","[""....Not sure. I try not to dwell too much on the past,\nbut...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#19; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,15,stream=0x58000;block=0x6B0;text=15,"[""stream=0x58000;block=0x6B0;text=15""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","…わからない。過去にこだわっているつもりはないが…。
+","こだわっても仕方ないわ。助かって良かった。あそこでは
+いろいろと身の危険も感じたし。
+","そうなのか？
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那就别想了。没有意义。
+能从那里出来我真的很高兴。你知道吗，我在那里从来没有安全感。","[""那就别想了。没有意义。\n能从那里出来我真的很高兴。你知道吗，我在那里从来没有安全感。""]","Then don't. There's no point. I'm so glad to be out
+of there.
+I never felt safe, you know?
+","[""Then don't. There's no point. I'm so glad to be out\nof there.\nI never felt safe, you know?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x586B0; ENG blocks=0xE6480,0xE6480; ENG source rows=0xE6480#20,0xE6480#21; block_semantic_score=0.149421."
+BRIEFING_FILES_BLOCK_0586B0,16,stream=0x58000;block=0x6B0;text=16,"[""stream=0x58000;block=0x6B0;text=16""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","こだわっても仕方ないわ。助かって良かった。あそこでは
+いろいろと身の危険も感じたし。
+","そうなのか？
+","…彼女、女性に興味があるらしいのよ。私、やけに気に入
+られちゃったみたい。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,深有同感。,"[""深有同感。""]","Tell me about it.
+","[""Tell me about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#22; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,17,stream=0x58000;block=0x6B0;text=17,"[""stream=0x58000;block=0x6B0;text=17""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","そうなのか？
+","…彼女、女性に興味があるらしいのよ。私、やけに気に入
+られちゃったみたい。
+","そいつは…むう。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯…我觉得她喜欢女人。而且
+我觉得她看上了我。","[""嗯…我觉得她喜欢女人。而且\n我觉得她看上了我。""]","Well... I think she's interested in women. And I think
+she took a fancy to me.
+","[""Well... I think she's interested in women. And I think\nshe took a fancy to me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#23; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,18,stream=0x58000;block=0x6B0;text=18,"[""stream=0x58000;block=0x6B0;text=18""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","…彼女、女性に興味があるらしいのよ。私、やけに気に入
+られちゃったみたい。
+","そいつは…むう。
+","それに、<R=ここ,マザーベース>はいいところよ。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这…呃…嗯。,"[""这…呃…嗯。""]","That's, uh.... huh.
+","[""That's, uh.... huh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#24; block_semantic_score=0.149421.
+BRIEFING_FILES_BLOCK_0586B0,19,stream=0x58000;block=0x6B0;text=19,"[""stream=0x58000;block=0x6B0;text=19""]",1,BRIEFING FILES,"[""stream=0x58000;block=0x6B0;block_file=0x586B0;text_base=0x58720;capacity=1628""]","そいつは…むう。
+","それに、<R=ここ,マザーベース>はいいところよ。
+",,"[""<R=ここ,マザーベース>""]",,,NOT_CHECKED,66,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且，这里好多了。,"[""而且，这里好多了。""]","Besides, it's much nicer here.
+","[""Besides, it's much nicer here.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x586B0; ENG blocks=0xE6480; ENG source rows=0xE6480#25; block_semantic_score=0.149421.

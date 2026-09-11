@@ -1,0 +1,56 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04ACE0,0,stream=0x4A000;block=0xCE0;text=0,"[""stream=0x4A000;block=0xCE0;text=0""]",1,BRIEFING FILES,"[""stream=0x4A000;block=0xCE0;block_file=0x4ACE0;text_base=0x4AD1C;capacity=648""]",,"<R=　怪 物 の 島　,イスラ・デル・モンストルオ>には、トレニャーの他にも話すネコがいる
+らしいんだ。
+","他にもいるのか！
+","[""<R=　怪 物 の 島　,イスラ・デル・モンストルオ>""]",,,NOT_CHECKED,142,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"显然，在怪物岛上，
+除了特雷亚之外还有其他会说话的猫。","[""显然，在怪物岛上，\n除了特雷亚之外还有其他会说话的猫。""]","Apparently there are other cats that talk besides
+Trenya on Isla del Monstruo.
+","[""Apparently there are other cats that talk besides\nTrenya on Isla del Monstruo.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4ACE0; ENG blocks=0xD6A70; ENG source rows=0xD6A70#0; block_semantic_score=0.084702.
+BRIEFING_FILES_BLOCK_04ACE0,1,stream=0x4A000;block=0xCE0;text=1,"[""stream=0x4A000;block=0xCE0;text=1""]",1,BRIEFING FILES,"[""stream=0x4A000;block=0xCE0;block_file=0x4ACE0;text_base=0x4AD1C;capacity=648""]","<R=　怪 物 の 島　,イスラ・デル・モンストルオ>には、トレニャーの他にも話すネコがいる
+らしいんだ。
+","他にもいるのか！
+","ああ。アイルーって言うらしい。アイルーはコスタリカま
+で来ることはないみたいだけどね。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有更多？,"[""还有更多？""]","There's more of them?
+","[""There's more of them?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4ACE0; ENG blocks=0xD6A70; ENG source rows=0xD6A70#1; block_semantic_score=0.084702.
+BRIEFING_FILES_BLOCK_04ACE0,2,stream=0x4A000;block=0xCE0;text=2,"[""stream=0x4A000;block=0xCE0;text=2""]",1,BRIEFING FILES,"[""stream=0x4A000;block=0xCE0;block_file=0x4ACE0;text_base=0x4AD1C;capacity=648""]","他にもいるのか！
+","ああ。アイルーって言うらしい。アイルーはコスタリカま
+で来ることはないみたいだけどね。
+","アイルーを見かけたら話しかけてみたら？　何かいいこと
+があるかもしれないよ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊。它们叫艾露猫，
+不过据说它们从来不来哥斯达黎加。","[""是啊。它们叫艾露猫，\n不过据说它们从来不来哥斯达黎加。""]","Yep. They're called the Felynes, but supposedly
+they don't ever come to Costa Rica.
+","[""Yep. They're called the Felynes, but supposedly\nthey don't ever come to Costa Rica.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4ACE0; ENG blocks=0xD6A70; ENG source rows=0xD6A70#2; block_semantic_score=0.084702.
+BRIEFING_FILES_BLOCK_04ACE0,3,stream=0x4A000;block=0xCE0;text=3,"[""stream=0x4A000;block=0xCE0;text=3""]",1,BRIEFING FILES,"[""stream=0x4A000;block=0xCE0;block_file=0x4ACE0;text_base=0x4AD1C;capacity=648""]","ああ。アイルーって言うらしい。アイルーはコスタリカま
+で来ることはないみたいだけどね。
+","アイルーを見かけたら話しかけてみたら？　何かいいこと
+があるかもしれないよ。
+","そうだな…。何事も経験だ…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你要是看到它们，应该试着跟它们
+聊聊。谁知道它们会说些什么呢。","[""你要是看到它们，应该试着跟它们\n聊聊。谁知道它们会说些什么呢。""]","You should try talking to them if you spot them.
+Who knows what kinda stuff they have to say.
+","[""You should try talking to them if you spot them.\nWho knows what kinda stuff they have to say.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4ACE0; ENG blocks=0xD6A70; ENG source rows=0xD6A70#3; block_semantic_score=0.084702.
+BRIEFING_FILES_BLOCK_04ACE0,4,stream=0x4A000;block=0xCE0;text=4,"[""stream=0x4A000;block=0xCE0;text=4""]",1,BRIEFING FILES,"[""stream=0x4A000;block=0xCE0;block_file=0x4ACE0;text_base=0x4AD1C;capacity=648""]","アイルーを見かけたら話しかけてみたら？　何かいいこと
+があるかもしれないよ。
+","そうだな…。何事も経験だ…。
+","それと、アイルーは人間に悪さもしないし、いい奴だから
+攻撃したりしちゃダメだよ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊。就在你觉得事情
+不可能更离谱的时候…","[""是啊。就在你觉得事情\n不可能更离谱的时候…""]","Yeah. Just when you think things can't get any
+crazier...
+","[""Yeah. Just when you think things can't get any\ncrazier...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4ACE0; ENG blocks=0xD6A70; ENG source rows=0xD6A70#4; block_semantic_score=0.084702.
+BRIEFING_FILES_BLOCK_04ACE0,5,stream=0x4A000;block=0xCE0;text=5,"[""stream=0x4A000;block=0xCE0;text=5""]",1,BRIEFING FILES,"[""stream=0x4A000;block=0xCE0;block_file=0x4ACE0;text_base=0x4AD1C;capacity=648""]","そうだな…。何事も経験だ…。
+","それと、アイルーは人間に悪さもしないし、いい奴だから
+攻撃したりしちゃダメだよ。
+","ああ。無抵抗なネコを攻撃するような趣味はない。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还有，艾露猫对人类很友善，
+所以你一定要对它们也友善。可别去攻击它们什么的。","[""还有，艾露猫对人类很友善，\n所以你一定要对它们也友善。可别去攻击它们什么的。""]","Also, the Felynes are nice to humans, so you be
+sure and be nice back.
+Don't you go attacking them or anything.
+","[""Also, the Felynes are nice to humans, so you be\nsure and be nice back.\nDon't you go attacking them or anything.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x4ACE0; ENG blocks=0xD6A70,0xD6A70; ENG source rows=0xD6A70#5,0xD6A70#6; block_semantic_score=0.084702."
+BRIEFING_FILES_BLOCK_04ACE0,6,stream=0x4A000;block=0xCE0;text=6,"[""stream=0x4A000;block=0xCE0;text=6""]",1,BRIEFING FILES,"[""stream=0x4A000;block=0xCE0;block_file=0x4ACE0;text_base=0x4AD1C;capacity=648""]","それと、アイルーは人間に悪さもしないし、いい奴だから
+攻撃したりしちゃダメだよ。
+","ああ。無抵抗なネコを攻撃するような趣味はない。
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我绝不会伤害一只毫无防备的小猫咪。,"[""我绝不会伤害一只毫无防备的小猫咪。""]","I would never hurt a defenseless little kitty.
+","[""I would never hurt a defenseless little kitty.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x4ACE0; ENG blocks=0xD6A70; ENG source rows=0xD6A70#7; block_semantic_score=0.084702.

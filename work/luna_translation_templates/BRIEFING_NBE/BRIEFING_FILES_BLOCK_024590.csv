@@ -1,0 +1,113 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_024590,0,stream=0x24000;block=0x590;text=0,"[""stream=0x24000;block=0x590;text=0""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]",,"軍隊なしで、どうやって国を守るんだ。特に中米は、あち
+こちに火種があるだろう。
+","そのための外交よ。高い理想を掲げ、他の国から尊敬され
+るような国であれば、国際社会の支援を得られるはず。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Paz，你们国家没有
+军队是怎么自卫的？尤其是在中美洲这种动荡的地区。","[""Paz，你们国家没有\n军队是怎么自卫的？尤其是在中美洲这种动荡的地区。""]","Paz. How does your country defend itself without
+an army?
+Especially in a rough neighborhood like Central
+America.
+","[""Paz. How does your country defend itself without\nan army?\nEspecially in a rough neighborhood like Central\nAmerica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x24590; ENG blocks=0xB5B70,0xB5B70; ENG source rows=0xB5B70#0,0xB5B70#1; block_semantic_score=0.205485."
+BRIEFING_FILES_BLOCK_024590,1,stream=0x24000;block=0x590;text=1,"[""stream=0x24000;block=0x590;text=1""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","軍隊なしで、どうやって国を守るんだ。特に中米は、あち
+こちに火種があるだろう。
+","そのための外交よ。高い理想を掲げ、他の国から尊敬され
+るような国であれば、国際社会の支援を得られるはず。
+","実際、ニカラグアが侵攻した時は、二回とも<R=米州機構,OAS>の仲
+介で外交的に解決したんだから。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我们坚守自己的理想，
+赢得其他国家的尊重，国际社会就会支持我们。","[""如果我们坚守自己的理想，\n赢得其他国家的尊重，国际社会就会支持我们。""]","If we live up to our ideals and earn the respect of
+other countries,
+the international community will support us.
+","[""If we live up to our ideals and earn the respect of\nother countries,\nthe international community will support us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x24590; ENG blocks=0xB5B70,0xB5B70; ENG source rows=0xB5B70#3,0xB5B70#4; block_semantic_score=0.205485."
+BRIEFING_FILES_BLOCK_024590,2,stream=0x24000;block=0x590;text=2,"[""stream=0x24000;block=0x590;text=2""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","そのための外交よ。高い理想を掲げ、他の国から尊敬され
+るような国であれば、国際社会の支援を得られるはず。
+","実際、ニカラグアが侵攻した時は、二回とも<R=米州機構,OAS>の仲
+介で外交的に解決したんだから。
+","結局はアメリカ頼みってことじゃないのか？
+","[""<R=米州機構,OAS>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"冲突都是在美洲国家组织（OAS）的
+斡旋下通过外交解决的。","[""冲突都是在美洲国家组织（OAS）的\n斡旋下通过外交解决的。""]","the conflict was resolved diplomatically under OAS
+(Organization of American States) auspices.
+","[""the conflict was resolved diplomatically under OAS\n(Organization of American States) auspices.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x24590; ENG blocks=0xB5B70; ENG source rows=0xB5B70#6; block_semantic_score=0.205485.
+BRIEFING_FILES_BLOCK_024590,3,stream=0x24000;block=0x590;text=3,"[""stream=0x24000;block=0x590;text=3""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","実際、ニカラグアが侵攻した時は、二回とも<R=米州機構,OAS>の仲
+介で外交的に解決したんだから。
+","結局はアメリカ頼みってことじゃないのか？
+","確かにアメリカの影響力は絶大よ。でも、当時コスタリカ
+はアメリカの政策に批判的だったの。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,美国的影响力无可匹敌，这倒是真的。,"[""美国的影响力无可匹敌，这倒是真的。""]","American influence is unmatched, it is true.
+","[""American influence is unmatched, it is true.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x24590; ENG blocks=0xB5B70; ENG source rows=0xB5B70#8; block_semantic_score=0.205485.
+BRIEFING_FILES_BLOCK_024590,4,stream=0x24000;block=0x590;text=4,"[""stream=0x24000;block=0x590;text=4""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","結局はアメリカ頼みってことじゃないのか？
+","確かにアメリカの影響力は絶大よ。でも、当時コスタリカ
+はアメリカの政策に批判的だったの。
+","それでもアメリカがコスタリカを支援したのは、コスタリ
+カが平和外交を掲げていたから…。そういうふうにも言え
+ないかな。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,圣何塞当时对美国的政策持批评态度…,"[""圣何塞当时对美国的政策持批评态度…""]","San Jose was critical of American policy at the
+time...
+","[""San Jose was critical of American policy at the\ntime...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x24590; ENG blocks=0xB5B70; ENG source rows=0xB5B70#9; block_semantic_score=0.205485.
+BRIEFING_FILES_BLOCK_024590,5,stream=0x24000;block=0x590;text=5,"[""stream=0x24000;block=0x590;text=5""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","確かにアメリカの影響力は絶大よ。でも、当時コスタリカ
+はアメリカの政策に批判的だったの。
+","それでもアメリカがコスタリカを支援したのは、コスタリ
+カが平和外交を掲げていたから…。そういうふうにも言え
+ないかな。
+","確かに、それも一つの駆け引きだ。だが、なりふり構わず
+力で押してくる国もあるだろう。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但美国还是支持了我们。
+那是因为我们施行了和平外交…","[""但美国还是支持了我们。\n那是因为我们施行了和平外交…""]","But America supported us all the same. It was
+because we practiced peaceful diplomacy...
+","[""But America supported us all the same. It was\nbecause we practiced peaceful diplomacy...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x24590; ENG blocks=0xB5B70; ENG source rows=0xB5B70#10; block_semantic_score=0.205485.
+BRIEFING_FILES_BLOCK_024590,6,stream=0x24000;block=0x590;text=6,"[""stream=0x24000;block=0x590;text=6""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","それでもアメリカがコスタリカを支援したのは、コスタリ
+カが平和外交を掲げていたから…。そういうふうにも言え
+ないかな。
+","確かに、それも一つの駆け引きだ。だが、なりふり構わず
+力で押してくる国もあるだろう。
+","そうかも知れない…スネークから見れば、私の考えは甘い
+のかもね。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这么看当然也是一种方式。但世上就是有些国家，
+不管面子上多难看都会使用武力。","[""这么看当然也是一种方式。但世上就是有些国家，\n不管面子上多难看都会使用武力。""]","That's one way to approach it, sure.
+But there are countries out there who'll use force
+no matter how bad it looks.
+","[""That's one way to approach it, sure.\nBut there are countries out there who'll use force\nno matter how bad it looks.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x24590; ENG blocks=0xB5B70,0xB5B70; ENG source rows=0xB5B70#12,0xB5B70#13; block_semantic_score=0.205485."
+BRIEFING_FILES_BLOCK_024590,7,stream=0x24000;block=0x590;text=7,"[""stream=0x24000;block=0x590;text=7""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","確かに、それも一つの駆け引きだ。だが、なりふり構わず
+力で押してくる国もあるだろう。
+","そうかも知れない…スネークから見れば、私の考えは甘い
+のかもね。
+","でも私達だって、何もせずに平和が得られるとは思ってな
+い。外交だって一つの戦いよ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许吧…我知道我的想法
+在你看来大概很天真。","[""也许吧…我知道我的想法\n在你看来大概很天真。""]","Maybe so... I know my way of thinking probably
+looks naïve to you.
+","[""Maybe so... I know my way of thinking probably\nlooks naïve to you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x24590; ENG blocks=0xB5B70; ENG source rows=0xB5B70#14; block_semantic_score=0.205485.
+BRIEFING_FILES_BLOCK_024590,8,stream=0x24000;block=0x590;text=8,"[""stream=0x24000;block=0x590;text=8""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","そうかも知れない…スネークから見れば、私の考えは甘い
+のかもね。
+","でも私達だって、何もせずに平和が得られるとは思ってな
+い。外交だって一つの戦いよ。
+","それに、常に災いの芽を見つけて、摘み取る努力が必要だ
+と思う。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但我们也不是坐等和平从天而降。外交本身也是一场战斗。,"[""但我们也不是坐等和平从天而降。外交本身也是一场战斗。""]","But it's not like we expect peace without working
+for it.
+Diplomacy is a battle in itself.
+","[""But it's not like we expect peace without working\nfor it.\nDiplomacy is a battle in itself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x24590; ENG blocks=0xB5B70,0xB5B70; ENG source rows=0xB5B70#15,0xB5B70#16; block_semantic_score=0.205485."
+BRIEFING_FILES_BLOCK_024590,9,stream=0x24000;block=0x590;text=9,"[""stream=0x24000;block=0x590;text=9""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","でも私達だって、何もせずに平和が得られるとは思ってな
+い。外交だって一つの戦いよ。
+","それに、常に災いの芽を見つけて、摘み取る努力が必要だ
+と思う。
+","だから、そう思うから私は、あいつらの基地へ…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们得努力找出不幸的根源，
+将其消灭在萌芽状态。","[""我们得努力找出不幸的根源，\n将其消灭在萌芽状态。""]","And we have to make the effort
+to seek out causes of misfortune and nip them in
+the bud.
+","[""And we have to make the effort\nto seek out causes of misfortune and nip them in\nthe bud.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x24590; ENG blocks=0xB5B70,0xB5B70; ENG source rows=0xB5B70#17,0xB5B70#18; block_semantic_score=0.205485."
+BRIEFING_FILES_BLOCK_024590,10,stream=0x24000;block=0x590;text=10,"[""stream=0x24000;block=0x590;text=10""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","それに、常に災いの芽を見つけて、摘み取る努力が必要だ
+と思う。
+","だから、そう思うから私は、あいつらの基地へ…。
+","責めてるわけじゃない。君は立派だった。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就是这种想法，
+才害得我被困在他们的基地里…","[""就是这种想法，\n才害得我被困在他们的基地里…""]","It was that kind of thinking that got me trapped in
+their base...
+","[""It was that kind of thinking that got me trapped in\ntheir base...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x24590; ENG blocks=0xB5B70; ENG source rows=0xB5B70#19; block_semantic_score=0.205485.
+BRIEFING_FILES_BLOCK_024590,11,stream=0x24000;block=0x590;text=11,"[""stream=0x24000;block=0x590;text=11""]",1,BRIEFING FILES,"[""stream=0x24000;block=0x590;block_file=0x24590;text_base=0x245E0;capacity=1344""]","だから、そう思うから私は、あいつらの基地へ…。
+","責めてるわけじゃない。君は立派だった。
+",,[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不是在怪你。你又没做错什么。,"[""我不是在怪你。你又没做错什么。""]","I'm not blaming you. You haven't done anything
+wrong.
+","[""I'm not blaming you. You haven't done anything\nwrong.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x24590; ENG blocks=0xB5B70; ENG source rows=0xB5B70#20; block_semantic_score=0.205485.

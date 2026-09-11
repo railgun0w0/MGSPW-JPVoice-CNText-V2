@@ -1,0 +1,225 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_05B2E0,0,stream=0x5B000;block=0x2E0;text=0,"[""stream=0x5B000;block=0x2E0;text=0""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]",,"セシール、君は録音するときに何とかって機材を使ってる
+と言ってたな。その、カセット…。
+","カセットデンスケ？
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Cécile，你之前说用来做那些
+录音的机器，是什么来着？","[""Cécile，你之前说用来做那些\n录音的机器，是什么来着？""]","Cécile, what's that machine you said you use to
+make those recordings of yours?
+","[""Cécile, what's that machine you said you use to\nmake those recordings of yours?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#0; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,1,stream=0x5B000;block=0x2E0;text=1,"[""stream=0x5B000;block=0x2E0;text=1""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","セシール、君は録音するときに何とかって機材を使ってる
+と言ってたな。その、カセット…。
+","カセットデンスケ？
+","そう、それだ。一体そりゃ何だ？
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一种盒式录音机…差不多那种东西。,"[""一种盒式录音机…差不多那种东西。""]","A cassette... something or other.
+","[""A cassette... something or other.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#1; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,2,stream=0x5B000;block=0x2E0;text=2,"[""stream=0x5B000;block=0x2E0;text=2""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","カセットデンスケ？
+","そう、それだ。一体そりゃ何だ？
+","去年、日本のソニーっていう会社が発売した<R=可搬型,ポータブル>録音機
+よ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对，就是那个。那玩意儿到底是什么？,"[""对，就是那个。那玩意儿到底是什么？""]","Yeah, that. What is that thing, anyway?
+","[""Yeah, that. What is that thing, anyway?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#3; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,3,stream=0x5B000;block=0x2E0;text=3,"[""stream=0x5B000;block=0x2E0;text=3""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","そう、それだ。一体そりゃ何だ？
+","去年、日本のソニーっていう会社が発売した<R=可搬型,ポータブル>録音機
+よ。
+","コンパクトカセットを使うから、今までのオープンリール
+機より、だいぶ軽いの。
+","[""<R=可搬型,ポータブル>""]",,,NOT_CHECKED,106,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是日本索尼公司去年推出的
+一种便携式录音设备。","[""是日本索尼公司去年推出的\n一种便携式录音设备。""]","A portable recording device released last year by a
+Japanese company: Sony.
+","[""A portable recording device released last year by a\nJapanese company: Sony.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#4; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,4,stream=0x5B000;block=0x2E0;text=4,"[""stream=0x5B000;block=0x2E0;text=4""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","去年、日本のソニーっていう会社が発売した<R=可搬型,ポータブル>録音機
+よ。
+","コンパクトカセットを使うから、今までのオープンリール
+機より、だいぶ軽いの。
+","それでも5kg位はあるから持ち運ぶとダイエットにちょう
+どいいのよ！
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它用的是盒式磁带，
+所以比开盘式录音机轻得多。","[""它用的是盒式磁带，\n所以比开盘式录音机轻得多。""]","It uses compact cassettes, making it far lighter
+than open reel machines.
+","[""It uses compact cassettes, making it far lighter\nthan open reel machines.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#5; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,5,stream=0x5B000;block=0x2E0;text=5,"[""stream=0x5B000;block=0x2E0;text=5""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","コンパクトカセットを使うから、今までのオープンリール
+機より、だいぶ軽いの。
+","それでも5kg位はあるから持ち運ぶとダイエットにちょう
+どいいのよ！
+","ほう。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"虽然还是有5公斤重，
+但这点锻炼量累不死我！","[""虽然还是有5公斤重，\n但这点锻炼量累不死我！""]","It still weighs 5 kilograms, but the exercise won't
+kill me!
+","[""It still weighs 5 kilograms, but the exercise won't\nkill me!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#6; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,6,stream=0x5B000;block=0x2E0;text=6,"[""stream=0x5B000;block=0x2E0;text=6""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","それでも5kg位はあるから持ち運ぶとダイエットにちょう
+どいいのよ！
+","ほう。
+","使い勝手もいいの。全部のボタンに浮き彫りがしてあって、
+手元を見なくても操作できる。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哈。,"[""哈。""]","Ha.
+","[""Ha.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#7; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,7,stream=0x5B000;block=0x2E0;text=7,"[""stream=0x5B000;block=0x2E0;text=7""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","ほう。
+","使い勝手もいいの。全部のボタンに浮き彫りがしてあって、
+手元を見なくても操作できる。
+","ちょっと目を離した隙に珍しい鳥を見失ったら、後悔して
+もしきれないでしょ。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不用看也能操作。,"[""不用看也能操作。""]","allowing you to operate it without looking at it.
+","[""allowing you to operate it without looking at it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#10; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,8,stream=0x5B000;block=0x2E0;text=8,"[""stream=0x5B000;block=0x2E0;text=8""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","使い勝手もいいの。全部のボタンに浮き彫りがしてあって、
+手元を見なくても操作できる。
+","ちょっと目を離した隙に珍しい鳥を見失ったら、後悔して
+もしきれないでしょ。
+","違いない。しかし、どうしてそんな名前なんだ？　まるで
+日本人の名前みたいな…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你能想象吗？就因为眨了一下眼，
+就错过了一生一次的拍摄机会。那也太要命了。","[""你能想象吗？就因为眨了一下眼，\n就错过了一生一次的拍摄机会。那也太要命了。""]","Can you imagine missing the shot of a lifetime
+simply because you'd blinked?
+That would be devastating.
+","[""Can you imagine missing the shot of a lifetime\nsimply because you'd blinked?\nThat would be devastating.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5B2E0; ENG blocks=0xE8030,0xE8030; ENG source rows=0xE8030#11,0xE8030#12; block_semantic_score=0.139469."
+BRIEFING_FILES_BLOCK_05B2E0,9,stream=0x5B000;block=0x2E0;text=9,"[""stream=0x5B000;block=0x2E0;text=9""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","ちょっと目を離した隙に珍しい鳥を見失ったら、後悔して
+もしきれないでしょ。
+","違いない。しかし、どうしてそんな名前なんだ？　まるで
+日本人の名前みたいな…。
+","そいつは俺から説明しよう。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过Densuke这个名字是怎么来的？
+听起来像个日本名字。","[""不过Densuke这个名字是怎么来的？\n听起来像个日本名字。""]","But where'd they come up with densuke? It sounds
+like a Japanese name.
+","[""But where'd they come up with densuke? It sounds\nlike a Japanese name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#13; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,10,stream=0x5B000;block=0x2E0;text=10,"[""stream=0x5B000;block=0x2E0;text=10""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","違いない。しかし、どうしてそんな名前なんだ？　まるで
+日本人の名前みたいな…。
+","そいつは俺から説明しよう。
+","カズ！？
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这个问题让我来回答。,"[""这个问题让我来回答。""]","Allow me to field that one.
+","[""Allow me to field that one.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#14; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,11,stream=0x5B000;block=0x2E0;text=11,"[""stream=0x5B000;block=0x2E0;text=11""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","そいつは俺から説明しよう。
+","カズ！？
+","デンスケってのは、<R=可搬型,ポータブル>録音機の俗称だ。何でも、漫画
+の主人公の名前から来てるらしい。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Kaz？！,"[""Kaz？！""]","Kaz?!
+","[""Kaz?!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#15; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,12,stream=0x5B000;block=0x2E0;text=12,"[""stream=0x5B000;block=0x2E0;text=12""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","カズ！？
+","デンスケってのは、<R=可搬型,ポータブル>録音機の俗称だ。何でも、漫画
+の主人公の名前から来てるらしい。
+","そいつが録音マニアなのか？
+","[""<R=可搬型,ポータブル>""]",,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Densuke是个绰号，
+来自一个老漫画角色的名字。","[""Densuke是个绰号，\n来自一个老漫画角色的名字。""]","Densuke's a nickname that comes from the name
+of an old manga character.
+","[""Densuke's a nickname that comes from the name\nof an old manga character.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#16; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,13,stream=0x5B000;block=0x2E0;text=13,"[""stream=0x5B000;block=0x2E0;text=13""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","デンスケってのは、<R=可搬型,ポータブル>録音機の俗称だ。何でも、漫画
+の主人公の名前から来てるらしい。
+","そいつが録音マニアなのか？
+","おかしな言い方するな。生録は素晴らしいぞぉ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那家伙也是个录音狂人吗？,"[""那家伙也是个录音狂人吗？""]","Was he some recording nerd, too?
+","[""Was he some recording nerd, too?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#17; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,14,stream=0x5B000;block=0x2E0;text=14,"[""stream=0x5B000;block=0x2E0;text=14""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","そいつが録音マニアなのか？
+","おかしな言い方するな。生録は素晴らしいぞぉ。
+","臨場感溢れる音をこの手に収める。最高だ！　ファインダ
+ーの代わりに、音で情景を切り取る、とでも言おうか。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没有什么比把真实世界的
+声音录进磁带更棒的了！","[""没有什么比把真实世界的\n声音录进磁带更棒的了！""]","There's nothing like capturing the real world in
+action on tape!
+","[""There's nothing like capturing the real world in\naction on tape!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#19; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,15,stream=0x5B000;block=0x2E0;text=15,"[""stream=0x5B000;block=0x2E0;text=15""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","おかしな言い方するな。生録は素晴らしいぞぉ。
+","臨場感溢れる音をこの手に収める。最高だ！　ファインダ
+ーの代わりに、音で情景を切り取る、とでも言おうか。
+","あぁ。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,只不过是用麦克风代替取景器。,"[""只不过是用麦克风代替取景器。""]","only with a microphone instead of a viewfinder.
+","[""only with a microphone instead of a viewfinder.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#21; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,16,stream=0x5B000;block=0x2E0;text=16,"[""stream=0x5B000;block=0x2E0;text=16""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","臨場感溢れる音をこの手に収める。最高だ！　ファインダ
+ーの代わりに、音で情景を切り取る、とでも言おうか。
+","あぁ。
+","目を閉じてテープを聴けば、瞼の裏に光景が鮮やかに蘇る
+…そうだよな！？　セシール。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是是…,"[""是是…""]","Sure...
+","[""Sure...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#22; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,17,stream=0x5B000;block=0x2E0;text=17,"[""stream=0x5B000;block=0x2E0;text=17""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","あぁ。
+","目を閉じてテープを聴けば、瞼の裏に光景が鮮やかに蘇る
+…そうだよな！？　セシール。
+","ええ、ベイビィ。<R= 部屋 ,アパルトマン>で鳥の声を聴いていると、いなが
+らにして深い森に佇んでいる気持ちになる。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,场景就会在脑海里鲜活地浮现出来。,"[""场景就会在脑海里鲜活地浮现出来。""]","and the scene just bursts to life in your mind's eye.
+","[""and the scene just bursts to life in your mind's eye.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#24; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,18,stream=0x5B000;block=0x2E0;text=18,"[""stream=0x5B000;block=0x2E0;text=18""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","目を閉じてテープを聴けば、瞼の裏に光景が鮮やかに蘇る
+…そうだよな！？　セシール。
+","ええ、ベイビィ。<R= 部屋 ,アパルトマン>で鳥の声を聴いていると、いなが
+らにして深い森に佇んでいる気持ちになる。
+","さすがパリジェンヌ、粋ってもんがわかってる。
+","[""<R= 部屋 ,アパルトマン>""]",,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。我在公寓里听鸟鸣声的时候，就像回到了我录音的那片森林一样。,"[""没错。我在公寓里听鸟鸣声的时候，就像回到了我录音的那片森林一样。""]","Absolutely. When I listen to the sounds of birds in
+my apartment,
+it's like I'm back in the forest where I recorded
+them.
+","[""Absolutely. When I listen to the sounds of birds in\nmy apartment,\nit's like I'm back in the forest where I recorded\nthem.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5B2E0; ENG blocks=0xE8030,0xE8030; ENG source rows=0xE8030#26,0xE8030#27; block_semantic_score=0.139469."
+BRIEFING_FILES_BLOCK_05B2E0,19,stream=0x5B000;block=0x2E0;text=19,"[""stream=0x5B000;block=0x2E0;text=19""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","ええ、ベイビィ。<R= 部屋 ,アパルトマン>で鳥の声を聴いていると、いなが
+らにして深い森に佇んでいる気持ちになる。
+","さすがパリジェンヌ、粋ってもんがわかってる。
+","…粋、ねぇ…。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看吧，她是巴黎人，懂什么叫时髦。,"[""看吧，她是巴黎人，懂什么叫时髦。""]","See, she's a Parisienne. She knows what's chic.
+","[""See, she's a Parisienne. She knows what's chic.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#28; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,20,stream=0x5B000;block=0x2E0;text=20,"[""stream=0x5B000;block=0x2E0;text=20""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","さすがパリジェンヌ、粋ってもんがわかってる。
+","…粋、ねぇ…。
+","ミラーさんは何を録るの？
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,随你怎么说吧…,"[""随你怎么说吧…""]","If you say so...
+","[""If you say so...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#29; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,21,stream=0x5B000;block=0x2E0;text=21,"[""stream=0x5B000;block=0x2E0;text=21""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","…粋、ねぇ…。
+","ミラーさんは何を録るの？
+","俺か？　俺は何と言っても<R=蒸気機関車,SL>だ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你喜欢录什么，Miller先生？,"[""你喜欢录什么，Miller先生？""]","What do you like to record, Monsieur Miller?
+","[""What do you like to record, Monsieur Miller?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#30; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,22,stream=0x5B000;block=0x2E0;text=22,"[""stream=0x5B000;block=0x2E0;text=22""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","ミラーさんは何を録るの？
+","俺か？　俺は何と言っても<R=蒸気機関車,SL>だ。
+","力強いブロアー音、野太い汽笛…あれはもう機械って言う
+より、獣の咆吼だな。んー、たまらん！
+","[""<R=蒸気機関車,SL>""]",,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我？当然是蒸汽机车。,"[""我？当然是蒸汽机车。""]","Me? Steam locomotives, no question.
+","[""Me? Steam locomotives, no question.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#31; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,23,stream=0x5B000;block=0x2E0;text=23,"[""stream=0x5B000;block=0x2E0;text=23""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","俺か？　俺は何と言っても<R=蒸気機関車,SL>だ。
+","力強いブロアー音、野太い汽笛…あれはもう機械って言う
+より、獣の咆吼だな。んー、たまらん！
+","日本じゃ次々とSLが廃止になってるからな。できりゃ、ち
+ょっとの間でも帰国して、録っておきたいところだが…。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"引擎的轰鸣，低沉的汽笛声…
+比起机器，更像野兽。","[""引擎的轰鸣，低沉的汽笛声…\n比起机器，更像野兽。""]","The roar of the engine, the throaty steam whistle...
+More animal than machine.
+","[""The roar of the engine, the throaty steam whistle...\nMore animal than machine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#32; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,24,stream=0x5B000;block=0x2E0;text=24,"[""stream=0x5B000;block=0x2E0;text=24""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","力強いブロアー音、野太い汽笛…あれはもう機械って言う
+より、獣の咆吼だな。んー、たまらん！
+","日本じゃ次々とSLが廃止になってるからな。できりゃ、ち
+ょっとの間でも帰国して、録っておきたいところだが…。
+","えーっ、…ミラーさんって、意外と野蛮なのね。
+",[],,,NOT_CHECKED,157,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,蒸汽机车在日本已经快绝迹了。,"[""蒸汽机车在日本已经快绝迹了。""]","Steam locomotives are a dying breed in Japan.
+","[""Steam locomotives are a dying breed in Japan.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#34; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,25,stream=0x5B000;block=0x2E0;text=25,"[""stream=0x5B000;block=0x2E0;text=25""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","日本じゃ次々とSLが廃止になってるからな。できりゃ、ち
+ょっとの間でも帰国して、録っておきたいところだが…。
+","えーっ、…ミラーさんって、意外と野蛮なのね。
+","や、野蛮！？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我倒想趁还能录到的时候
+回去一趟，录些新磁带。","[""我倒想趁还能录到的时候\n回去一趟，录些新磁带。""]","I wouldn't mind going back for a bit and making
+some new tapes while I still can.
+","[""I wouldn't mind going back for a bit and making\nsome new tapes while I still can.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#35; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,26,stream=0x5B000;block=0x2E0;text=26,"[""stream=0x5B000;block=0x2E0;text=26""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","えーっ、…ミラーさんって、意外と野蛮なのね。
+","や、野蛮！？
+","私、ミラーさんは大…間違えた、SLは嫌い。あんな音を出
+したら、森の鳥が驚くでしょ。煙だって…。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我讨厌那些野兽。
+噪音会把鸟儿全吓跑。","[""我讨厌那些野兽。\n噪音会把鸟儿全吓跑。""]","I detest those beasts. The noise frightens off all
+the birds.
+","[""I detest those beasts. The noise frightens off all\nthe birds.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#38; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,27,stream=0x5B000;block=0x2E0;text=27,"[""stream=0x5B000;block=0x2E0;text=27""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","や、野蛮！？
+","私、ミラーさんは大…間違えた、SLは嫌い。あんな音を出
+したら、森の鳥が驚くでしょ。煙だって…。
+","私は森の静かな音に耳を傾けていたいな。
+",[],,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且还有烟…,"[""而且还有烟…""]","Then there's the smoke...
+","[""Then there's the smoke...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#39; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,28,stream=0x5B000;block=0x2E0;text=28,"[""stream=0x5B000;block=0x2E0;text=28""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","私、ミラーさんは大…間違えた、SLは嫌い。あんな音を出
+したら、森の鳥が驚くでしょ。煙だって…。
+","私は森の静かな音に耳を傾けていたいな。
+","あ…いや、ちょっといろいろ待ってくれセシール。俺はそ
+んなつもりじゃあ…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我更喜欢森林的宁静。,"[""我更喜欢森林的宁静。""]","I much prefer the peace and quiet of the forest.
+","[""I much prefer the peace and quiet of the forest.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#40; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,29,stream=0x5B000;block=0x2E0;text=29,"[""stream=0x5B000;block=0x2E0;text=29""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","私は森の静かな音に耳を傾けていたいな。
+","あ…いや、ちょっといろいろ待ってくれセシール。俺はそ
+んなつもりじゃあ…。
+","…やれやれ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Cécile，等等！那…
+我不是那个意思，我…","[""Cécile，等等！那…\n我不是那个意思，我…""]","Cécile, wait! That... That came out wrong, I...
+","[""Cécile, wait! That... That came out wrong, I...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#41; block_semantic_score=0.139469.
+BRIEFING_FILES_BLOCK_05B2E0,30,stream=0x5B000;block=0x2E0;text=30,"[""stream=0x5B000;block=0x2E0;text=30""]",1,BRIEFING FILES,"[""stream=0x5B000;block=0x2E0;block_file=0x5B2E0;text_base=0x5B37C;capacity=2560""]","あ…いや、ちょっといろいろ待ってくれセシール。俺はそ
+んなつもりじゃあ…。
+","…やれやれ。
+",,[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，当然说岔了。,"[""是啊，当然说岔了。""]","Sure it did.
+","[""Sure it did.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5B2E0; ENG blocks=0xE8030; ENG source rows=0xE8030#42; block_semantic_score=0.139469.

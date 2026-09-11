@@ -1,0 +1,221 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_08FF20,0,stream=0x8F000;block=0xF20;text=0,"[""stream=0x8F000;block=0xF20;text=0""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]",,"ソ連の「ボストーク」に負けるわけにはいかない。
+","NASAはテストの工程を大幅に省いて、飛行日程を繰り上
+げることにした。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"美国不能眼睁睁看着苏联
+靠“东方号”抢先一步。","[""美国不能眼睁睁看着苏联\n靠“东方号”抢先一步。""]","America couldn't let the Soviets beat them with
+Vostok.
+","[""America couldn't let the Soviets beat them with\nVostok.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#0; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,1,stream=0x8F000;block=0xF20;text=1,"[""stream=0x8F000;block=0xF20;text=1""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","ソ連の「ボストーク」に負けるわけにはいかない。
+","NASAはテストの工程を大幅に省いて、飛行日程を繰り上
+げることにした。
+","ぎりぎりまで繰り上げて、発射時刻は翌日未明。<R=NASAの飛行場,ケープ・カナベラル>
+では真夜中の発射になる。
+",[],,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"NASA被迫缩短测试流程，
+把发射日期提前。","[""NASA被迫缩短测试流程，\n把发射日期提前。""]","NASA was forced to cut short the testing process
+and move the launch date up.
+","[""NASA was forced to cut short the testing process\nand move the launch date up.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#1; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,2,stream=0x8F000;block=0xF20;text=2,"[""stream=0x8F000;block=0xF20;text=2""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","NASAはテストの工程を大幅に省いて、飛行日程を繰り上
+げることにした。
+","ぎりぎりまで繰り上げて、発射時刻は翌日未明。<R=NASAの飛行場,ケープ・カナベラル>
+では真夜中の発射になる。
+","飛行コースは、東に最も移動距離が長いパターンが選ばれ
+た。『窓』から少しでも地球の昼の部分が見えるように。
+","[""<R=NASAの飛行場,ケープ・カナベラル>""]",,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们竭尽全力，
+把发射时间定在了次日凌晨。航天器将在深夜从卡纳维拉尔角发射。","[""他们竭尽全力，\n把发射时间定在了次日凌晨。航天器将在深夜从卡纳维拉尔角发射。""]","They pulled out all the stops to get it scheduled
+for the earliest hours of the next day.
+The spacecraft would be launched from Cape
+Canaveral in the dead of night.
+","[""They pulled out all the stops to get it scheduled\nfor the earliest hours of the next day.\nThe spacecraft would be launched from Cape\nCanaveral in the dead of night.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#2,0x11B5A0#3; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,3,stream=0x8F000;block=0xF20;text=3,"[""stream=0x8F000;block=0xF20;text=3""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","ぎりぎりまで繰り上げて、発射時刻は翌日未明。<R=NASAの飛行場,ケープ・カナベラル>
+では真夜中の発射になる。
+","飛行コースは、東に最も移動距離が長いパターンが選ばれ
+た。『窓』から少しでも地球の昼の部分が見えるように。
+","ザ・ボスも搭乗手続きを2割以上省略して、<R=宇宙船,マーキュリー>に乗り
+込んだ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"飞行路径上，他们选择了
+一条尽可能向东的航线。她能从舷窗看到阳光下的地球，
+至少能看一小会儿。","[""飞行路径上，他们选择了\n一条尽可能向东的航线。她能从舷窗看到阳光下的地球，\n至少能看一小会儿。""]","For the flight path, they chose a course that would
+take her as far east as possible.
+She'd be able to see the Earth in daylight from the
+window, at least for a little while.
+","[""For the flight path, they chose a course that would\ntake her as far east as possible.\nShe'd be able to see the Earth in daylight from the\nwindow, at least for a little while.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#4,0x11B5A0#5; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,4,stream=0x8F000;block=0xF20;text=4,"[""stream=0x8F000;block=0xF20;text=4""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","飛行コースは、東に最も移動距離が長いパターンが選ばれ
+た。『窓』から少しでも地球の昼の部分が見えるように。
+","ザ・ボスも搭乗手続きを2割以上省略して、<R=宇宙船,マーキュリー>に乗り
+込んだ。
+","時刻も、コースも危険。テストも不十分。でも、NASAに
+選択の余地はなかった。
+","[""<R=宇宙船,マーキュリー>""]",,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"The Boss爬进了“水星”号太空舱，当时她完成的常规
+飞行程序还不到80%。","[""The Boss爬进了“水星”号太空舱，当时她完成的常规\n飞行程序还不到80%。""]","The Boss climbed into the Mercury capsule
+having completed less than 80% of the regular
+flight procedures.
+","[""The Boss climbed into the Mercury capsule\nhaving completed less than 80% of the regular\nflight procedures.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#6,0x11B5A0#7; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,5,stream=0x8F000;block=0xF20;text=5,"[""stream=0x8F000;block=0xF20;text=5""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","ザ・ボスも搭乗手続きを2割以上省略して、<R=宇宙船,マーキュリー>に乗り
+込んだ。
+","時刻も、コースも危険。テストも不十分。でも、NASAに
+選択の余地はなかった。
+","ザ・ボス自身、地球に帰れるとは思っていなかった。
+",[],,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"无论发射时机还是飞行路径都
+充满风险，测试也远未完成。但NASA别无选择。","[""无论发射时机还是飞行路径都\n充满风险，测试也远未完成。但NASA别无选择。""]","Both the timing and the flight path were risky, and
+testing was far from complete.
+But NASA had no other choice.
+","[""Both the timing and the flight path were risky, and\ntesting was far from complete.\nBut NASA had no other choice.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#8,0x11B5A0#9; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,6,stream=0x8F000;block=0xF20;text=6,"[""stream=0x8F000;block=0xF20;text=6""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","時刻も、コースも危険。テストも不十分。でも、NASAに
+選択の余地はなかった。
+","ザ・ボス自身、地球に帰れるとは思っていなかった。
+","二度とは帰れぬ旅。彼女の扱いは、あのライカ犬も同然だ
+ったの。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而The Boss从没指望能活着回来。,"[""而The Boss从没指望能活着回来。""]","The Boss, for her part, never expected to come
+home alive.
+","[""The Boss, for her part, never expected to come\nhome alive.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#10; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,7,stream=0x8F000;block=0xF20;text=7,"[""stream=0x8F000;block=0xF20;text=7""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","ザ・ボス自身、地球に帰れるとは思っていなかった。
+","二度とは帰れぬ旅。彼女の扱いは、あのライカ犬も同然だ
+ったの。
+","それでも彼女は<R=　船　,マーキュリー>に乗った。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她这是一趟单程之旅，
+就像美国的莱卡犬。","[""她这是一趟单程之旅，\n就像美国的莱卡犬。""]","She was going on a one-way trip. The American
+version of Laika the dog.
+","[""She was going on a one-way trip. The American\nversion of Laika the dog.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#11; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,8,stream=0x8F000;block=0xF20;text=8,"[""stream=0x8F000;block=0xF20;text=8""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","二度とは帰れぬ旅。彼女の扱いは、あのライカ犬も同然だ
+ったの。
+","それでも彼女は<R=　船　,マーキュリー>に乗った。
+","「誰かが最初の一人になるのだ。運命が私を選んだのなら、
+受け入れよう。祖国のために。そして世界の均衡のために」。
+","[""<R=　船　,マーキュリー>""]",,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“总要有第一个人，”她说，
+“如果命运选中了我，那我接受。","[""“总要有第一个人，”她说，\n“如果命运选中了我，那我接受。""]","""Someone has to be first,"" she said. ""If fate has
+chosen me, then I accept.
+","[""\""Someone has to be first,\"" she said. \""If fate has\nchosen me, then I accept.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#13; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,9,stream=0x8F000;block=0xF20;text=9,"[""stream=0x8F000;block=0xF20;text=9""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","それでも彼女は<R=　船　,マーキュリー>に乗った。
+","「誰かが最初の一人になるのだ。運命が私を選んだのなら、
+受け入れよう。祖国のために。そして世界の均衡のために」。
+","そうザ・ボスは言っていた。
+",[],,,NOT_CHECKED,167,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为了我的国家，为了世界的平衡。”,"[""为了我的国家，为了世界的平衡。”""]","For my country. For the balance of the world.""
+","[""For my country. For the balance of the world.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#14; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,10,stream=0x8F000;block=0xF20;text=10,"[""stream=0x8F000;block=0xF20;text=10""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","「誰かが最初の一人になるのだ。運命が私を選んだのなら、
+受け入れよう。祖国のために。そして世界の均衡のために」。
+","そうザ・ボスは言っていた。
+","「僅かでも可能性があるなら、それに賭けよう。運命を受
+け入れた者だけに、それを乗り越える資格があるのだから」。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她就是这样看待这一切的。,"[""她就是这样看待这一切的。""]","That's how she saw things.
+","[""That's how she saw things.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#15; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,11,stream=0x8F000;block=0xF20;text=11,"[""stream=0x8F000;block=0xF20;text=11""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","そうザ・ボスは言っていた。
+","「僅かでも可能性があるなら、それに賭けよう。運命を受
+け入れた者だけに、それを乗り越える資格があるのだから」。
+","そして4月12日午前1時半、ザ・ボスは宇宙へ上がった。
+",[],,,NOT_CHECKED,164,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“我的机会也许渺茫，
+但我会抓住它。我已经接受了命运。如果这世上有谁能挺过去，
+那一定是我。”","[""“我的机会也许渺茫，\n但我会抓住它。我已经接受了命运。如果这世上有谁能挺过去，\n那一定是我。”""]","""My chances may be slim, but I'll take them. I've
+accepted my fate.
+If anyone can get through this, I can.""
+","[""\""My chances may be slim, but I'll take them. I've\naccepted my fate.\nIf anyone can get through this, I can.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#16,0x11B5A0#17; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,12,stream=0x8F000;block=0xF20;text=12,"[""stream=0x8F000;block=0xF20;text=12""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","「僅かでも可能性があるなら、それに賭けよう。運命を受
+け入れた者だけに、それを乗り越える資格があるのだから」。
+","そして4月12日午前1時半、ザ・ボスは宇宙へ上がった。
+","それは奇跡だった。一つには、急拵えの船で宇宙に上がれ
+たこと。もう一つには、<R=飛行,フライト>がガガーリンとほぼ同時にな
+ったこと…。
+",[],,,NOT_CHECKED,74,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后，在4月12日凌晨一点三十分，
+The Boss进入了太空。","[""然后，在4月12日凌晨一点三十分，\nThe Boss进入了太空。""]","Then, on April 12, at one thirty in the morning, The
+Boss entered space.
+","[""Then, on April 12, at one thirty in the morning, The\nBoss entered space.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#18; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,13,stream=0x8F000;block=0xF20;text=13,"[""stream=0x8F000;block=0xF20;text=13""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","そして4月12日午前1時半、ザ・ボスは宇宙へ上がった。
+","それは奇跡だった。一つには、急拵えの船で宇宙に上がれ
+たこと。もう一つには、<R=飛行,フライト>がガガーリンとほぼ同時にな
+ったこと…。
+","彼女はそこから地球を見た。日の出と共に、窓から差し込
+む宇宙線に蝕まれながら…。
+","[""<R=飛行,フライト>""]",,,NOT_CHECKED,194,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这简直是个奇迹。首先，她乘坐一艘未
+完成的航天器成功升空。其次，她的飞行时间和
+加加林几乎完全重合。","[""这简直是个奇迹。首先，她乘坐一艘未\n完成的航天器成功升空。其次，她的飞行时间和\n加加林几乎完全重合。""]","It was nothing short of a miracle.
+First, that she'd made it in an incomplete
+spacecraft.
+And second, that her flight coincided almost
+exactly with Gagarin's.
+","[""It was nothing short of a miracle.\nFirst, that she'd made it in an incomplete\nspacecraft.\nAnd second, that her flight coincided almost\nexactly with Gagarin's.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#19,0x11B5A0#20,0x11B5A0#21; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,14,stream=0x8F000;block=0xF20;text=14,"[""stream=0x8F000;block=0xF20;text=14""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","それは奇跡だった。一つには、急拵えの船で宇宙に上がれ
+たこと。もう一つには、<R=飛行,フライト>がガガーリンとほぼ同時にな
+ったこと…。
+","彼女はそこから地球を見た。日の出と共に、窓から差し込
+む宇宙線に蝕まれながら…。
+","その時の事は、彼女から聞いたと思う。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"——宇宙射线开始透过舷窗
+轰击她——她看到了地球。","[""——宇宙射线开始透过舷窗\n轰击她——她看到了地球。""]","- and cosmic rays began to bombard her through
+the window - she saw the Earth.
+","[""- and cosmic rays began to bombard her through\nthe window - she saw the Earth.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#23; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,15,stream=0x8F000;block=0xF20;text=15,"[""stream=0x8F000;block=0xF20;text=15""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","彼女はそこから地球を見た。日の出と共に、窓から差し込
+む宇宙線に蝕まれながら…。
+","その時の事は、彼女から聞いたと思う。
+","国境のない地球。かけがえのない大地。宇宙は、国からも
+思想からも遠く離れていた。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想你以前听过这个故事。,"[""我想你以前听过这个故事。""]","I think you've heard the story before.
+","[""I think you've heard the story before.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#24; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,16,stream=0x8F000;block=0xF20;text=16,"[""stream=0x8F000;block=0xF20;text=16""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","その時の事は、彼女から聞いたと思う。
+","国境のない地球。かけがえのない大地。宇宙は、国からも
+思想からも遠く離れていた。
+","今までソ連と1分1秒を争っていたことが、馬鹿馬鹿しく思
+えたそうよ。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那是一个没有国界的世界，
+一颗完美的宝石。所有的国家、所有的意识形态——
+都显得那么遥远。","[""那是一个没有国界的世界，\n一颗完美的宝石。所有的国家、所有的意识形态——\n都显得那么遥远。""]","It was a world without borders. A perfect jewel.
+All nations, all ideologies - they seemed so far away.
+","[""It was a world without borders. A perfect jewel.\nAll nations, all ideologies - they seemed so far away.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#25,0x11B5A0#26; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,17,stream=0x8F000;block=0xF20;text=17,"[""stream=0x8F000;block=0xF20;text=17""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","国境のない地球。かけがえのない大地。宇宙は、国からも
+思想からも遠く離れていた。
+","今までソ連と1分1秒を争っていたことが、馬鹿馬鹿しく思
+えたそうよ。
+","「もし窓からボストークが見えていたら、きっと手を振っ
+ていたろう」って。
+",[],,,NOT_CHECKED,97,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"想到他们冒了那么大的险，
+她几乎要笑出来。只是为了比苏联早几分钟。","[""想到他们冒了那么大的险，\n她几乎要笑出来。只是为了比苏联早几分钟。""]","It almost made her laugh, knowing that they'd
+risked so much
+to beat the Soviets by a few short minutes.
+","[""It almost made her laugh, knowing that they'd\nrisked so much\nto beat the Soviets by a few short minutes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x8FF20; ENG blocks=0x11B5A0,0x11B5A0; ENG source rows=0x11B5A0#27,0x11B5A0#28; block_semantic_score=0.160465."
+BRIEFING_FILES_BLOCK_08FF20,18,stream=0x8F000;block=0xF20;text=18,"[""stream=0x8F000;block=0xF20;text=18""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","今までソ連と1分1秒を争っていたことが、馬鹿馬鹿しく思
+えたそうよ。
+","「もし窓からボストークが見えていたら、きっと手を振っ
+ていたろう」って。
+","でも、2隻の宇宙船が辿ったその後の運命は、大きく違っ
+ていた。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果她从舷窗里看到了东方号，
+她大概会挥挥手。","[""如果她从舷窗里看到了东方号，\n她大概会挥挥手。""]","If she'd seen Vostok from her window, she
+probably would have waved.
+","[""If she'd seen Vostok from her window, she\nprobably would have waved.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#29; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,19,stream=0x8F000;block=0xF20;text=19,"[""stream=0x8F000;block=0xF20;text=19""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","「もし窓からボストークが見えていたら、きっと手を振っ
+ていたろう」って。
+","でも、2隻の宇宙船が辿ったその後の運命は、大きく違っ
+ていた。
+","ソ連のガガーリンは地球を一周した後、無事着陸。
+",[],,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但这两艘航天器注定
+有着截然不同的命运。","[""但这两艘航天器注定\n有着截然不同的命运。""]","But the two spacecraft were destined for very
+different fates.
+","[""But the two spacecraft were destined for very\ndifferent fates.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#30; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,20,stream=0x8F000;block=0xF20;text=20,"[""stream=0x8F000;block=0xF20;text=20""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","でも、2隻の宇宙船が辿ったその後の運命は、大きく違っ
+ていた。
+","ソ連のガガーリンは地球を一周した後、無事着陸。
+","一方、ザ・ボスの宇宙船は、再突入の角度に狂いが生じた。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"加加林绕地球飞行一周，
+安然无恙地返回了苏联。","[""加加林绕地球飞行一周，\n安然无恙地返回了苏联。""]","Gagarin circled the Earth and returned to the
+Soviet Union safe and sound.
+","[""Gagarin circled the Earth and returned to the\nSoviet Union safe and sound.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#31; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,21,stream=0x8F000;block=0xF20;text=21,"[""stream=0x8F000;block=0xF20;text=21""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","ソ連のガガーリンは地球を一周した後、無事着陸。
+","一方、ザ・ボスの宇宙船は、再突入の角度に狂いが生じた。
+","無理矢理取り付けた窓が、不自然な渦流を生んだらしい。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而“水星”号太空舱却
+偏离了预定再入角度。","[""而“水星”号太空舱却\n偏离了预定再入角度。""]","The Mercury capsule, on the other hand, deviated
+from its planned reentry angle.
+","[""The Mercury capsule, on the other hand, deviated\nfrom its planned reentry angle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#32; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,22,stream=0x8F000;block=0xF20;text=22,"[""stream=0x8F000;block=0xF20;text=22""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","一方、ザ・ボスの宇宙船は、再突入の角度に狂いが生じた。
+","無理矢理取り付けた窓が、不自然な渦流を生んだらしい。
+","彼女の乗った宇宙船は、大幅に軌道を外れて落下し始めた
+…。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,加装舷窗破坏了太空舱的气动平衡。,"[""加装舷窗破坏了太空舱的气动平衡。""]","The addition of a window had thrown the capsule's
+aerodynamics off balance.
+","[""The addition of a window had thrown the capsule's\naerodynamics off balance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#33; block_semantic_score=0.160465.
+BRIEFING_FILES_BLOCK_08FF20,23,stream=0x8F000;block=0xF20;text=23,"[""stream=0x8F000;block=0xF20;text=23""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","無理矢理取り付けた窓が、不自然な渦流を生んだらしい。
+","彼女の乗った宇宙船は、大幅に軌道を外れて落下し始めた
+…。
+",,[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"The Boss的“棺材”
+猛烈偏离航线，开始向地球坠落…","[""The Boss的“棺材”\n猛烈偏离航线，开始向地球坠落…""]","The Boss's 'coffin' veered wildly off course, and
+began to plunge earthward...
+","[""The Boss's 'coffin' veered wildly off course, and\nbegan to plunge earthward...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x8FF20; ENG blocks=0x11B5A0; ENG source rows=0x11B5A0#34; block_semantic_score=0.160465.

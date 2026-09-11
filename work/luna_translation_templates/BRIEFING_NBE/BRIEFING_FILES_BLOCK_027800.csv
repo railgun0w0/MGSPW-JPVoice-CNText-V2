@@ -1,0 +1,59 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_027800,0,stream=0x27000;block=0x800;text=0,"[""stream=0x27000;block=0x800;text=0""]",1,BRIEFING FILES,"[""stream=0x27000;block=0x800;block_file=0x27800;text_base=0x2783C;capacity=756""]",,"“Paz”っていう名前は、お母さんがつけてくれたの。
+","この国がこれからも平和でありますように、って願いが込
+められているんだって。中米にはよくある名前なの。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,给我取名“Paz”的是我母亲。,"[""给我取名“Paz”的是我母亲。""]","My mother was the one who named me ""Paz.""
+","[""My mother was the one who named me \""Paz.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27800; ENG blocks=0xB8EE0; ENG source rows=0xB8EE0#0; block_semantic_score=0.195017.
+BRIEFING_FILES_BLOCK_027800,1,stream=0x27000;block=0x800;text=1,"[""stream=0x27000;block=0x800;text=1""]",1,BRIEFING FILES,"[""stream=0x27000;block=0x800;block_file=0x27800;text_base=0x2783C;capacity=756""]","“Paz”っていう名前は、お母さんがつけてくれたの。
+","この国がこれからも平和でありますように、って願いが込
+められているんだって。中米にはよくある名前なの。
+","お母さんはよくそのことを聞かせてくれた。戦争はしちゃ
+いけない。平和を守って行かなきゃって。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她说这是她希望国家保持
+和平的愿望的表达。在中美洲这是一个很常见的名字。","[""她说这是她希望国家保持\n和平的愿望的表达。在中美洲这是一个很常见的名字。""]","She said it was an expression of her wish that the
+country stay at peace.
+It's a pretty common name in Central America.
+","[""She said it was an expression of her wish that the\ncountry stay at peace.\nIt's a pretty common name in Central America.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x27800; ENG blocks=0xB8EE0,0xB8EE0; ENG source rows=0xB8EE0#1,0xB8EE0#2; block_semantic_score=0.195017."
+BRIEFING_FILES_BLOCK_027800,2,stream=0x27000;block=0x800;text=2,"[""stream=0x27000;block=0x800;text=2""]",1,BRIEFING FILES,"[""stream=0x27000;block=0x800;block_file=0x27800;text_base=0x2783C;capacity=756""]","この国がこれからも平和でありますように、って願いが込
+められているんだって。中米にはよくある名前なの。
+","お母さんはよくそのことを聞かせてくれた。戦争はしちゃ
+いけない。平和を守って行かなきゃって。
+","確か、君の祖父母は…。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我母亲过去总是对我说：“永远不要
+制造战争。要一直帮助维护和平。”","[""我母亲过去总是对我说：“永远不要\n制造战争。要一直帮助维护和平。”""]","My mother always used to tell me, ""Never make
+war. Always help keep the peace.""
+","[""My mother always used to tell me, \""Never make\nwar. Always help keep the peace.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27800; ENG blocks=0xB8EE0; ENG source rows=0xB8EE0#3; block_semantic_score=0.195017.
+BRIEFING_FILES_BLOCK_027800,3,stream=0x27000;block=0x800;text=3,"[""stream=0x27000;block=0x800;text=3""]",1,BRIEFING FILES,"[""stream=0x27000;block=0x800;block_file=0x27800;text_base=0x2783C;capacity=756""]","お母さんはよくそのことを聞かせてくれた。戦争はしちゃ
+いけない。平和を守って行かなきゃって。
+","確か、君の祖父母は…。
+","そう、内戦で亡くなった。だからお母さんは余計、戦争が
+嫌いだったんだと思う。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我记得…你的祖父母。,"[""我记得…你的祖父母。""]","I remember... Your grandparents.
+","[""I remember... Your grandparents.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27800; ENG blocks=0xB8EE0; ENG source rows=0xB8EE0#4; block_semantic_score=0.195017.
+BRIEFING_FILES_BLOCK_027800,4,stream=0x27000;block=0x800;text=4,"[""stream=0x27000;block=0x800;text=4""]",1,BRIEFING FILES,"[""stream=0x27000;block=0x800;block_file=0x27800;text_base=0x2783C;capacity=756""]","確か、君の祖父母は…。
+","そう、内戦で亡くなった。だからお母さんは余計、戦争が
+嫌いだったんだと思う。
+","そこも、カズと同じだな。「和平」って名前は、母親が付
+けてくれたそうだ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的，他们死于内战。我想这就是
+我母亲如此憎恨战争的原因，","[""是的，他们死于内战。我想这就是\n我母亲如此憎恨战争的原因，""]","Yes, they died in the civil war. I think that is why
+my mother hated war so much,
+","[""Yes, they died in the civil war. I think that is why\nmy mother hated war so much,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27800; ENG blocks=0xB8EE0; ENG source rows=0xB8EE0#5; block_semantic_score=0.195017.
+BRIEFING_FILES_BLOCK_027800,5,stream=0x27000;block=0x800;text=5,"[""stream=0x27000;block=0x800;text=5""]",1,BRIEFING FILES,"[""stream=0x27000;block=0x800;block_file=0x27800;text_base=0x2783C;capacity=756""]","そう、内戦で亡くなった。だからお母さんは余計、戦争が
+嫌いだったんだと思う。
+","そこも、カズと同じだな。「和平」って名前は、母親が付
+けてくれたそうだ。
+","そうか、日本も戦争を経験したんだもんね。ミラーさんの
+お母さんの気持ち、わかる気がする。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这又是你和Kaz的一个共同点。他母亲
+也给他取了个表示“和平”的名字。","[""这又是你和Kaz的一个共同点。他母亲\n也给他取了个表示“和平”的名字。""]","That's another thing you've got in common with
+Kaz. His mother named him ""Peace,"" too.
+","[""That's another thing you've got in common with\nKaz. His mother named him \""Peace,\"" too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27800; ENG blocks=0xB8EE0; ENG source rows=0xB8EE0#6; block_semantic_score=0.195017.
+BRIEFING_FILES_BLOCK_027800,6,stream=0x27000;block=0x800;text=6,"[""stream=0x27000;block=0x800;text=6""]",1,BRIEFING FILES,"[""stream=0x27000;block=0x800;block_file=0x27800;text_base=0x2783C;capacity=756""]","そこも、カズと同じだな。「和平」って名前は、母親が付
+けてくれたそうだ。
+","そうか、日本も戦争を経験したんだもんね。ミラーさんの
+お母さんの気持ち、わかる気がする。
+",,[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对，因为日本也曾遭受战争。
+我想我能理解Miller先生母亲的感受。","[""对，因为日本也曾遭受战争。\n我想我能理解Miller先生母亲的感受。""]","Si, because Japan also suffered through war. I
+think I know how Mr. Miller's mother felt.
+","[""Si, because Japan also suffered through war. I\nthink I know how Mr. Miller's mother felt.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27800; ENG blocks=0xB8EE0; ENG source rows=0xB8EE0#7; block_semantic_score=0.195017.

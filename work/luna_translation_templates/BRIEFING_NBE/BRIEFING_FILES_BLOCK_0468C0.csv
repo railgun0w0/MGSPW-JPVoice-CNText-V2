@@ -1,0 +1,79 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0468C0,0,stream=0x46000;block=0x8C0;text=0,"[""stream=0x46000;block=0x8C0;text=0""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]",,"採掘場に偽装した基地か。俺たちもそこまでは行ったこと
+がないからな。
+","どんな場所かわからないけど、とにかく気をつけてくれ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"伪装成矿山的基地？
+我们没能走到那一步。","[""伪装成矿山的基地？\n我们没能走到那一步。""]","A base disguised as a mine? We never made it
+that far.
+","[""A base disguised as a mine? We never made it\nthat far.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#0; block_semantic_score=0.244222.
+BRIEFING_FILES_BLOCK_0468C0,1,stream=0x46000;block=0x8C0;text=1,"[""stream=0x46000;block=0x8C0;text=1""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","採掘場に偽装した基地か。俺たちもそこまでは行ったこと
+がないからな。
+","どんな場所かわからないけど、とにかく気をつけてくれ。
+","わかった。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不知道那是什么地方，
+但你最好小心一点——以防万一。","[""我不知道那是什么地方，\n但你最好小心一点——以防万一。""]","I don't know what kind of place it is, but you'd
+better be careful - just in case.
+","[""I don't know what kind of place it is, but you'd\nbetter be careful - just in case.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#1; block_semantic_score=0.244222.
+BRIEFING_FILES_BLOCK_0468C0,2,stream=0x46000;block=0x8C0;text=2,"[""stream=0x46000;block=0x8C0;text=2""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","どんな場所かわからないけど、とにかく気をつけてくれ。
+","わかった。
+","米軍は秘密基地に宇宙人の死体や回収した<R=未確認飛行物体,UFO>
+を隠してるという噂もある。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会的。,"[""我会的。""]","I plan to.
+","[""I plan to.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#2; block_semantic_score=0.244222.
+BRIEFING_FILES_BLOCK_0468C0,3,stream=0x46000;block=0x8C0;text=3,"[""stream=0x46000;block=0x8C0;text=3""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","わかった。
+","米軍は秘密基地に宇宙人の死体や回収した<R=未確認飛行物体,UFO>
+を隠してるという噂もある。
+","宇宙人？
+","[""<R=未確認飛行物体,UFO>""]",,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我听说美军在秘密基地里
+保存着外星人尸体和UFO。","[""我听说美军在秘密基地里\n保存着外星人尸体和UFO。""]","I've heard that the American army keeps dead alien
+bodies and UFOs in secret bases.
+","[""I've heard that the American army keeps dead alien\nbodies and UFOs in secret bases.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#3; block_semantic_score=0.244222.
+BRIEFING_FILES_BLOCK_0468C0,4,stream=0x46000;block=0x8C0;text=4,"[""stream=0x46000;block=0x8C0;text=4""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","米軍は秘密基地に宇宙人の死体や回収した<R=未確認飛行物体,UFO>
+を隠してるという噂もある。
+","宇宙人？
+","宇宙には無数の星がある。俺たちより文明の進んだ星の住
+人がUFOで地球に来ていると考えるべきだ。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,外星人？,"[""外星人？""]","Aliens?
+","[""Aliens?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#4; block_semantic_score=0.244222.
+BRIEFING_FILES_BLOCK_0468C0,5,stream=0x46000;block=0x8C0;text=5,"[""stream=0x46000;block=0x8C0;text=5""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","宇宙人？
+","宇宙には無数の星がある。俺たちより文明の進んだ星の住
+人がUFOで地球に来ていると考えるべきだ。
+","実際に米軍は1947年、ロズウェル付近で空飛ぶ円盤を回
+収したとアナウンスしている。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"宇宙中有数十亿颗恒星。你想想，其中至少有一些
+文明比我们更先进。我敢打赌他们会乘坐UFO造访地球。","[""宇宙中有数十亿颗恒星。你想想，其中至少有一些\n文明比我们更先进。我敢打赌他们会乘坐UFO造访地球。""]","There are billions of stars in space.
+You've gotta think that at least a few have
+civilizations more advanced than ours.
+I'll bet they visit Earth in UFOs.
+","[""There are billions of stars in space.\nYou've gotta think that at least a few have\ncivilizations more advanced than ours.\nI'll bet they visit Earth in UFOs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x468C0; ENG blocks=0xD43B0,0xD43B0,0xD43B0; ENG source rows=0xD43B0#5,0xD43B0#6,0xD43B0#7; block_semantic_score=0.244222."
+BRIEFING_FILES_BLOCK_0468C0,6,stream=0x46000;block=0x8C0;text=6,"[""stream=0x46000;block=0x8C0;text=6""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","宇宙には無数の星がある。俺たちより文明の進んだ星の住
+人がUFOで地球に来ていると考えるべきだ。
+","実際に米軍は1947年、ロズウェル付近で空飛ぶ円盤を回
+収したとアナウンスしている。
+","スネークは知らないだろうけど米軍じゃ有名な話だよ！
+",[],,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"1947年，军方真的宣布，他们在新墨西哥州罗斯
+威尔附近捕获了一个圆盘状飞行物。","[""1947年，军方真的宣布，他们在新墨西哥州罗斯\n威尔附近捕获了一个圆盘状飞行物。""]","In 1947,
+the army actually announced they'd caught a flying,
+disc-shaped object near Roswell, New Mexico.
+","[""In 1947,\nthe army actually announced they'd caught a flying,\ndisc-shaped object near Roswell, New Mexico.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x468C0; ENG blocks=0xD43B0,0xD43B0; ENG source rows=0xD43B0#8,0xD43B0#9; block_semantic_score=0.244222."
+BRIEFING_FILES_BLOCK_0468C0,7,stream=0x46000;block=0x8C0;text=7,"[""stream=0x46000;block=0x8C0;text=7""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","実際に米軍は1947年、ロズウェル付近で空飛ぶ円盤を回
+収したとアナウンスしている。
+","スネークは知らないだろうけど米軍じゃ有名な話だよ！
+","そうか…。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许你不知道这件事，
+但那些军方的人全都知道！","[""也许你不知道这件事，\n但那些军方的人全都知道！""]","Maybe you don't know about it, but those army
+guys, they all know!
+","[""Maybe you don't know about it, but those army\nguys, they all know!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#10; block_semantic_score=0.244222.
+BRIEFING_FILES_BLOCK_0468C0,8,stream=0x46000;block=0x8C0;text=8,"[""stream=0x46000;block=0x8C0;text=8""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","スネークは知らないだろうけど米軍じゃ有名な話だよ！
+","そうか…。
+","とにかく、あいつらはもしかしたら、まだ未知の兵器を隠
+し持っているかもしれない。気をつけてくれ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不会吧…,"[""不会吧…""]","You don't say...
+","[""You don't say...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#11; block_semantic_score=0.244222.
+BRIEFING_FILES_BLOCK_0468C0,9,stream=0x46000;block=0x8C0;text=9,"[""stream=0x46000;block=0x8C0;text=9""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x8C0;block_file=0x468C0;text_base=0x46908;capacity=836""]","そうか…。
+","とにかく、あいつらはもしかしたら、まだ未知の兵器を隠
+し持っているかもしれない。気をつけてくれ。
+",,[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"总之，说不准他们在那里
+藏了什么样的神秘武器。","[""总之，说不准他们在那里\n藏了什么样的神秘武器。""]","Anyway, there's no telling what kind of mystery
+weapons they might have stashed up there.
+","[""Anyway, there's no telling what kind of mystery\nweapons they might have stashed up there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x468C0; ENG blocks=0xD43B0; ENG source rows=0xD43B0#12; block_semantic_score=0.244222.

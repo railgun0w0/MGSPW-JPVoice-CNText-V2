@@ -1,0 +1,131 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02FE70,0,stream=0x2F000;block=0xE70;text=0,"[""stream=0x2F000;block=0xE70;text=0""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]",,"<R=蛙,ソモサ>一家がニカラグアを牛耳るようになってから、もう40年
+にもなる。
+","<R=国家警備隊,グァルディア>を使って、やりたい放題よ。
+","[""<R=蛙,ソモサ>""]",,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"索摩查家族成为尼加拉瓜的
+统治者已经40年了。","[""索摩查家族成为尼加拉瓜的\n统治者已经40年了。""]","It has been 40 years since the Somoza family
+became the rulers of Nicaragua.
+","[""It has been 40 years since the Somoza family\nbecame the rulers of Nicaragua.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#0; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,1,stream=0x2F000;block=0xE70;text=1,"[""stream=0x2F000;block=0xE70;text=1""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","<R=蛙,ソモサ>一家がニカラグアを牛耳るようになってから、もう40年
+にもなる。
+","<R=国家警備隊,グァルディア>を使って、やりたい放題よ。
+","お前達も、<R=国家警備隊,グァルディア>に追われて<R=ここ,コスタリカ>へ来たと。
+","[""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"国民警卫队听从他们指挥，
+没人能挑战他们。","[""国民警卫队听从他们指挥，\n没人能挑战他们。""]","With la Guardia at their command, no one can
+challenge them.
+","[""With la Guardia at their command, no one can\nchallenge them.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#1; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,2,stream=0x2F000;block=0xE70;text=2,"[""stream=0x2F000;block=0xE70;text=2""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","<R=国家警備隊,グァルディア>を使って、やりたい放題よ。
+","お前達も、<R=国家警備隊,グァルディア>に追われて<R=ここ,コスタリカ>へ来たと。
+","ええ。奴らは何もかも奪った。土地も、家も、仕事も…。
+","[""<R=国家警備隊,グァルディア>"", ""<R=ここ,コスタリカ>""]",,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你是为了躲避国民警卫队而
+逃到这里来的，对吧？","[""你是为了躲避国民警卫队而\n逃到这里来的，对吧？""]","You came here on the run from the National
+Guard, right?
+","[""You came here on the run from the National\nGuard, right?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#2; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,3,stream=0x2F000;block=0xE70;text=3,"[""stream=0x2F000;block=0xE70;text=3""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","お前達も、<R=国家警備隊,グァルディア>に追われて<R=ここ,コスタリカ>へ来たと。
+","ええ。奴らは何もかも奪った。土地も、家も、仕事も…。
+","ソモサのものか。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的。他们夺走了一切。
+我们的土地、家园、工作…","[""是的。他们夺走了一切。\n我们的土地、家园、工作…""]","Si. They took everything. Our land, our homes, our
+jobs...
+","[""Si. They took everything. Our land, our homes, our\njobs...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#3; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,4,stream=0x2F000;block=0xE70;text=4,"[""stream=0x2F000;block=0xE70;text=4""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","ええ。奴らは何もかも奪った。土地も、家も、仕事も…。
+","ソモサのものか。
+","そう。法律もね。判事だって抱き込まれてる。逆らえば殺
+される。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在都归索摩查了。,"[""现在都归索摩查了。""]","Now belong to Somoza.
+","[""Now belong to Somoza.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#4; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,5,stream=0x2F000;block=0xE70;text=5,"[""stream=0x2F000;block=0xE70;text=5""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","ソモサのものか。
+","そう。法律もね。判事だって抱き込まれてる。逆らえば殺
+される。
+","みんな<R=国家警備隊,グァルディア>の顔色を窺って生きてる。それでも、連
+中の虫の居所が悪けりゃ殴られるけど。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的。法律也是。他甚至把法官都
+收买了。违抗他，你就得面对死亡。","[""是的。法律也是。他甚至把法官都\n收买了。违抗他，你就得面对死亡。""]","Si. The law, too. He's even got the judges in his
+pocket. You defy him, you face death.
+","[""Si. The law, too. He's even got the judges in his\npocket. You defy him, you face death.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#5; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,6,stream=0x2F000;block=0xE70;text=6,"[""stream=0x2F000;block=0xE70;text=6""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","そう。法律もね。判事だって抱き込まれてる。逆らえば殺
+される。
+","みんな<R=国家警備隊,グァルディア>の顔色を窺って生きてる。それでも、連
+中の虫の居所が悪けりゃ殴られるけど。
+","それで国を変えようと？
+","[""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,157,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所有人都在国民警卫队面前卑躬屈膝。即便如此，要是他们心情不好，
+你可能还会挨一顿揍。","[""所有人都在国民警卫队面前卑躬屈膝。即便如此，要是他们心情不好，\n你可能还会挨一顿揍。""]","Everyone bows and scrapes before la Guardia.
+Even then, you might get a beating if they are in a
+bad mood.
+","[""Everyone bows and scrapes before la Guardia.\nEven then, you might get a beating if they are in a\nbad mood.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2FE70; ENG blocks=0xC0F10,0xC0F10; ENG source rows=0xC0F10#6,0xC0F10#7; block_semantic_score=0.163939."
+BRIEFING_FILES_BLOCK_02FE70,7,stream=0x2F000;block=0xE70;text=7,"[""stream=0x2F000;block=0xE70;text=7""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","みんな<R=国家警備隊,グァルディア>の顔色を窺って生きてる。それでも、連
+中の虫の居所が悪けりゃ殴られるけど。
+","それで国を変えようと？
+","それだけじゃない。ソモサは、その権力を使って私腹を肥
+やし続けてきた。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而你想改变这一切。,"[""而你想改变这一切。""]","And you're trying to change things.
+","[""And you're trying to change things.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#8; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,8,stream=0x2F000;block=0xE70;text=8,"[""stream=0x2F000;block=0xE70;text=8""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","それで国を変えようと？
+","それだけじゃない。ソモサは、その権力を使って私腹を肥
+やし続けてきた。
+","他人の土地を接収しては一族のものにして、今じゃ国の農
+地の半分近くが、ソモサ一家に。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不止这些。索摩查家族
+利用权力中饱私囊。","[""不止这些。索摩查家族\n利用权力中饱私囊。""]","That's not all. The Somozas have used their power
+to line their pockets.
+","[""That's not all. The Somozas have used their power\nto line their pockets.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#9; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,9,stream=0x2F000;block=0xE70;text=9,"[""stream=0x2F000;block=0xE70;text=9""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","それだけじゃない。ソモサは、その権力を使って私腹を肥
+やし続けてきた。
+","他人の土地を接収しては一族のものにして、今じゃ国の農
+地の半分近くが、ソモサ一家に。
+","どうすることも出来なかった。だけど。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们没收人们的土地，
+然后交给索摩查家族的成员。到现在，尼加拉瓜将近
+一半的农田都是他们的了。","[""他们没收人们的土地，\n然后交给索摩查家族的成员。到现在，尼加拉瓜将近\n一半的农田都是他们的了。""]","They confiscate people's land and hand it to
+members of the Somoza family.
+By now, close to half the farmland in Nicaragua is
+theirs.
+","[""They confiscate people's land and hand it to\nmembers of the Somoza family.\nBy now, close to half the farmland in Nicaragua is\ntheirs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2FE70; ENG blocks=0xC0F10,0xC0F10; ENG source rows=0xC0F10#10,0xC0F10#11; block_semantic_score=0.163939."
+BRIEFING_FILES_BLOCK_02FE70,10,stream=0x2F000;block=0xE70;text=10,"[""stream=0x2F000;block=0xE70;text=10""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","他人の土地を接収しては一族のものにして、今じゃ国の農
+地の半分近くが、ソモサ一家に。
+","どうすることも出来なかった。だけど。
+","2年前の地震は知ってる？
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们曾无能为力。直到…,"[""我们曾无能为力。直到…""]","We were powerless. Until...
+","[""We were powerless. Until...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#12; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,11,stream=0x2F000;block=0xE70;text=11,"[""stream=0x2F000;block=0xE70;text=11""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","どうすることも出来なかった。だけど。
+","2年前の地震は知ってる？
+","ああ。首都を直撃したと聞いた。
+",[],,,NOT_CHECKED,35,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你还记得两年前的地震吗？,"[""你还记得两年前的地震吗？""]","You remember the earthquake two years ago?
+","[""You remember the earthquake two years ago?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#13; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,12,stream=0x2F000;block=0xE70;text=12,"[""stream=0x2F000;block=0xE70;text=12""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","2年前の地震は知ってる？
+","ああ。首都を直撃したと聞いた。
+","あたし達は首都マナグアを失った。世界中の人達が援助物
+資を送ってくれた。涙が出る程嬉しかった。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,记得。听说首都遭受了重创。,"[""记得。听说首都遭受了重创。""]","Yeah. I heard it the capital was hit pretty hard.
+","[""Yeah. I heard it the capital was hit pretty hard.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#14; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,13,stream=0x2F000;block=0xE70;text=13,"[""stream=0x2F000;block=0xE70;text=13""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","ああ。首都を直撃したと聞いた。
+","あたし達は首都マナグアを失った。世界中の人達が援助物
+資を送ってくれた。涙が出る程嬉しかった。
+","それなのに、ソモサはその援助のほとんどを着服した。地
+震で何もかも喪った人たちに、金を取って売りつけた！
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们失去了首都马那瓜。,"[""我们失去了首都马那瓜。""]","We lost Managua, our capital city.
+","[""We lost Managua, our capital city.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#15; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,14,stream=0x2F000;block=0xE70;text=14,"[""stream=0x2F000;block=0xE70;text=14""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","あたし達は首都マナグアを失った。世界中の人達が援助物
+資を送ってくれた。涙が出る程嬉しかった。
+","それなのに、ソモサはその援助のほとんどを着服した。地
+震で何もかも喪った人たちに、金を取って売りつけた！
+","あいつらは自分の国の不幸を食い物にしたんだ！
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"世界各地的人们送来了援助。
+悲伤的泪水变成了喜悦的泪水。","[""世界各地的人们送来了援助。\n悲伤的泪水变成了喜悦的泪水。""]","People sent aid from all around the world. Tears of
+sorrow turned to tears of joy.
+","[""People sent aid from all around the world. Tears of\nsorrow turned to tears of joy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#16; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,15,stream=0x2F000;block=0xE70;text=15,"[""stream=0x2F000;block=0xE70;text=15""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","それなのに、ソモサはその援助のほとんどを着服した。地
+震で何もかも喪った人たちに、金を取って売りつけた！
+","あいつらは自分の国の不幸を食い物にしたんだ！
+","国民の怒りは頂点に達してる。奴らの命運も近いうちに尽
+きる。いえ、あたし達が終わらせてみせる。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,然而，几乎全部被索摩查家族侵吞了。,"[""然而，几乎全部被索摩查家族侵吞了。""]","Yet almost all of it was embezzled by the Somozas.
+","[""Yet almost all of it was embezzled by the Somozas.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FE70; ENG blocks=0xC0F10; ENG source rows=0xC0F10#17; block_semantic_score=0.163939.
+BRIEFING_FILES_BLOCK_02FE70,16,stream=0x2F000;block=0xE70;text=16,"[""stream=0x2F000;block=0xE70;text=16""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","あいつらは自分の国の不幸を食い物にしたんだ！
+","国民の怒りは頂点に達してる。奴らの命運も近いうちに尽
+きる。いえ、あたし達が終わらせてみせる。
+",,[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们出卖了那些失去一切的人——
+为了钱！他们靠祖国的苦难大快朵颐！民怨沸腾到了极点。","[""他们出卖了那些失去一切的人——\n为了钱！他们靠祖国的苦难大快朵颐！民怨沸腾到了极点。""]","They sold out those who'd lost everything - for
+money! They feasted on our country's suffering!
+Public resentment is at the boiling point.
+","[""They sold out those who'd lost everything - for\nmoney! They feasted on our country's suffering!\nPublic resentment is at the boiling point.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2FE70; ENG blocks=0xC0F10,0xC0F10; ENG source rows=0xC0F10#18,0xC0F10#19; block_semantic_score=0.163939."

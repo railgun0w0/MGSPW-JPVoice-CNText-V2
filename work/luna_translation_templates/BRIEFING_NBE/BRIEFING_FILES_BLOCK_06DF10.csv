@@ -1,0 +1,172 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06DF10,0,stream=0x6D000;block=0xF10;text=0,"[""stream=0x6D000;block=0xF10;text=0""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]",,"グラーニンの研究は、どうやって？
+","それも、コールドマンだ。CIAの情報網を使って手に入れ
+たらしい。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你是怎么弄到Granin的研究资料的？,"[""你是怎么弄到Granin的研究资料的？""]","How'd you get your hands on Granin's research?
+","[""How'd you get your hands on Granin's research?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#0; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,1,stream=0x6D000;block=0xF10;text=1,"[""stream=0x6D000;block=0xF10;text=1""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","グラーニンの研究は、どうやって？
+","それも、コールドマンだ。CIAの情報網を使って手に入れ
+たらしい。
+","盗み出してきた情報を与えておいて、それをネタに揺する
+とはな…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那也是Coldman。
+他动用中情局的关系弄到的。","[""那也是Coldman。\n他动用中情局的关系弄到的。""]","That was also Coldman. He used his Agency
+contacts to get a hold of it.
+","[""That was also Coldman. He used his Agency\ncontacts to get a hold of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#1; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,2,stream=0x6D000;block=0xF10;text=2,"[""stream=0x6D000;block=0xF10;text=2""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","それも、コールドマンだ。CIAの情報網を使って手に入れ
+たらしい。
+","盗み出してきた情報を与えておいて、それをネタに揺する
+とはな…。
+","それがグラーニンの研究だと、僕にはすぐわかった。彼と
+はそれまでも、何度か手紙をやり取りしていたからね。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"把偷来的情报交给你，
+再利用它来要挟你…真够狠的。","[""把偷来的情报交给你，\n再利用它来要挟你…真够狠的。""]","Giving you stolen information then using it to
+blackmail you... Damn.
+","[""Giving you stolen information then using it to\nblackmail you... Damn.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#2; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,3,stream=0x6D000;block=0xF10;text=3,"[""stream=0x6D000;block=0xF10;text=3""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","盗み出してきた情報を与えておいて、それをネタに揺する
+とはな…。
+","それがグラーニンの研究だと、僕にはすぐわかった。彼と
+はそれまでも、何度か手紙をやり取りしていたからね。
+","手紙を？
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我一看就知道那是Granin的研究成果。其实，我跟他通信已经有一阵子了。,"[""我一看就知道那是Granin的研究成果。其实，我跟他通信已经有一阵子了。""]","I knew it was Granin's work the minute I saw it.
+See, I'd been corresponding with him for a while.
+","[""I knew it was Granin's work the minute I saw it.\nSee, I'd been corresponding with him for a while.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6DF10; ENG blocks=0xFA640,0xFA640; ENG source rows=0xFA640#3,0xFA640#4; block_semantic_score=0.136819."
+BRIEFING_FILES_BLOCK_06DF10,4,stream=0x6D000;block=0xF10;text=4,"[""stream=0x6D000;block=0xF10;text=4""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","それがグラーニンの研究だと、僕にはすぐわかった。彼と
+はそれまでも、何度か手紙をやり取りしていたからね。
+","手紙を？
+","似た研究をしている同士でね…二足歩行研究が理解しても
+らえないって、彼も嘆いてたから。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,通信？,"[""通信？""]","Corresponding?
+","[""Corresponding?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#5; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,5,stream=0x6D000;block=0xF10;text=5,"[""stream=0x6D000;block=0xF10;text=5""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","手紙を？
+","似た研究をしている同士でね…二足歩行研究が理解しても
+らえないって、彼も嘆いてたから。
+","そうか…奴が言っていた「アメリカの友人」とは、おまえ
+のことだったんだな。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"写信。做同类研究的
+科学家之间互相通信…他总是抱怨，没人理解他在
+双足步行技术上的构想。","[""写信。做同类研究的\n科学家之间互相通信…他总是抱怨，没人理解他在\n双足步行技术上的构想。""]","Letters. Between scientists doing the same kind of
+research...
+He always complained that nobody understood his
+ideas on bipedal locomotion.
+","[""Letters. Between scientists doing the same kind of\nresearch...\nHe always complained that nobody understood his\nideas on bipedal locomotion.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6DF10; ENG blocks=0xFA640,0xFA640; ENG source rows=0xFA640#6,0xFA640#7; block_semantic_score=0.136819."
+BRIEFING_FILES_BLOCK_06DF10,6,stream=0x6D000;block=0xF10;text=6,"[""stream=0x6D000;block=0xF10;text=6""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","似た研究をしている同士でね…二足歩行研究が理解しても
+らえないって、彼も嘆いてたから。
+","そうか…奴が言っていた「アメリカの友人」とは、おまえ
+のことだったんだな。
+","もちろん、手紙では技術そのものに一切触れていなかった。
+ただ、一度こんな事が書いてあったんだ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"啊…原来你就是他常
+说的那位“美国朋友”。","[""啊…原来你就是他常\n说的那位“美国朋友”。""]","Ah... So you're the ""American friend"" he was talking
+about.
+","[""Ah... So you're the \""American friend\"" he was talking\nabout.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#8; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,7,stream=0x6D000;block=0xF10;text=7,"[""stream=0x6D000;block=0xF10;text=7""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","そうか…奴が言っていた「アメリカの友人」とは、おまえ
+のことだったんだな。
+","もちろん、手紙では技術そのものに一切触れていなかった。
+ただ、一度こんな事が書いてあったんだ。
+","「もし私の身に万一の事があれば、君にこの研究を託そう。
+科学の何たるかも知らん連中に渡すより有益だ」とね。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然，他在信里对这项技术只字未提。,"[""当然，他在信里对这项技术只字未提。""]","Obviously he didn't write a word about the
+technology in his letters.
+","[""Obviously he didn't write a word about the\ntechnology in his letters.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#9; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,8,stream=0x6D000;block=0xF10;text=8,"[""stream=0x6D000;block=0xF10;text=8""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","もちろん、手紙では技術そのものに一切触れていなかった。
+ただ、一度こんな事が書いてあったんだ。
+","「もし私の身に万一の事があれば、君にこの研究を託そう。
+科学の何たるかも知らん連中に渡すより有益だ」とね。
+","奴らしいな。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“万一我出了什么事，
+我把研究托付给你。总比交给那些无知的
+所谓科学家要好。”","[""“万一我出了什么事，\n我把研究托付给你。总比交给那些无知的\n所谓科学家要好。”""]","""If by chance anything should happen to me, I
+entrust my research to you.
+Better that than handing it over to these ignorant
+so-called scientists.""
+","[""\""If by chance anything should happen to me, I\nentrust my research to you.\nBetter that than handing it over to these ignorant\nso-called scientists.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6DF10; ENG blocks=0xFA640,0xFA640; ENG source rows=0xFA640#11,0xFA640#12; block_semantic_score=0.136819."
+BRIEFING_FILES_BLOCK_06DF10,9,stream=0x6D000;block=0xF10;text=9,"[""stream=0x6D000;block=0xF10;text=9""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","「もし私の身に万一の事があれば、君にこの研究を託そう。
+科学の何たるかも知らん連中に渡すより有益だ」とね。
+","奴らしいな。
+","その彼の研究が渡ってきた。となれば、グラーニンの運命
+にも想像がつく。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,确实像他会说的话。,"[""确实像他会说的话。""]","Sounds like him, all right.
+","[""Sounds like him, all right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#13; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,10,stream=0x6D000;block=0xF10;text=10,"[""stream=0x6D000;block=0xF10;text=10""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","奴らしいな。
+","その彼の研究が渡ってきた。となれば、グラーニンの運命
+にも想像がつく。
+","彼の遺志を継ぐことも、僕の務めなんじゃないか…そうも
+思ったんだ。それに。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后有一天，他的研究
+资料真的寄来了。我不难想象他遭遇了什么。","[""然后有一天，他的研究\n资料真的寄来了。我不难想象他遭遇了什么。""]","Then one day his papers actually came.
+It wasn't hard for me to imagine what had
+happened to him.
+","[""Then one day his papers actually came.\nIt wasn't hard for me to imagine what had\nhappened to him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6DF10; ENG blocks=0xFA640,0xFA640; ENG source rows=0xFA640#14,0xFA640#15; block_semantic_score=0.136819."
+BRIEFING_FILES_BLOCK_06DF10,11,stream=0x6D000;block=0xF10;text=11,"[""stream=0x6D000;block=0xF10;text=11""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","その彼の研究が渡ってきた。となれば、グラーニンの運命
+にも想像がつく。
+","彼の遺志を継ぐことも、僕の務めなんじゃないか…そうも
+思ったんだ。それに。
+","何だ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我觉得继承他的研究是我的责任…而且…,"[""我觉得继承他的研究是我的责任…而且…""]","I felt it was my duty to carry on his work after
+him... And also...
+","[""I felt it was my duty to carry on his work after\nhim... And also...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#16; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,12,stream=0x6D000;block=0xF10;text=12,"[""stream=0x6D000;block=0xF10;text=12""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","彼の遺志を継ぐことも、僕の務めなんじゃないか…そうも
+思ったんだ。それに。
+","何だ。
+","グラーニンの技術と、僕の研究とが融合すれば、それも一
+つの東西融和と言えるんじゃないかな。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？,"[""什么？""]","What?
+","[""What?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#17; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,13,stream=0x6D000;block=0xF10;text=13,"[""stream=0x6D000;block=0xF10;text=13""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","何だ。
+","グラーニンの技術と、僕の研究とが融合すれば、それも一
+つの東西融和と言えるんじゃないかな。
+","アポロとソユーズのドッキング計画みたいにさ。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我想，也许把他的技术
+和我的技术结合起来，","[""我想，也许把他的技术\n和我的技术结合起来，""]","I thought maybe combining his technology with
+mine
+","[""I thought maybe combining his technology with\nmine\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#18; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,14,stream=0x6D000;block=0xF10;text=14,"[""stream=0x6D000;block=0xF10;text=14""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","グラーニンの技術と、僕の研究とが融合すれば、それも一
+つの東西融和と言えるんじゃないかな。
+","アポロとソユーズのドッキング計画みたいにさ。
+","決して表には出ない歴史だ。それに、黙って使う理由には
+ならん。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就像阿波罗号和联盟号对接一样。,"[""就像阿波罗号和联盟号对接一样。""]","Like the docking of Apollo and Soyuz.
+","[""Like the docking of Apollo and Soyuz.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#20; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,15,stream=0x6D000;block=0xF10;text=15,"[""stream=0x6D000;block=0xF10;text=15""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","アポロとソユーズのドッキング計画みたいにさ。
+","決して表には出ない歴史だ。それに、黙って使う理由には
+ならん。
+","…そうだな。その通りだ。僕は卑怯者だよ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这绝不会被载入史册。而且，
+这也不是剽窃的理由。","[""这绝不会被载入史册。而且，\n这也不是剽窃的理由。""]","It'll never make the history books. And it's still not
+a reason to plagiarize.
+","[""It'll never make the history books. And it's still not\na reason to plagiarize.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#21; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,16,stream=0x6D000;block=0xF10;text=16,"[""stream=0x6D000;block=0xF10;text=16""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","決して表には出ない歴史だ。それに、黙って使う理由には
+ならん。
+","…そうだな。その通りだ。僕は卑怯者だよ。
+","真実を言い出す勇気が、ずっとなかった。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你说得对。你说得完全对。,"[""…你说得对。你说得完全对。""]","...You're right. You're absolutely right.
+","[""...You're right. You're absolutely right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#22; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,17,stream=0x6D000;block=0xF10;text=17,"[""stream=0x6D000;block=0xF10;text=17""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","…そうだな。その通りだ。僕は卑怯者だよ。
+","真実を言い出す勇気が、ずっとなかった。
+","それをごまかそうと、言い訳ばかり探している。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我只是从来没有勇气
+说出真相，仅此而已。","[""我只是从来没有勇气\n说出真相，仅此而已。""]","I never had the courage to tell the truth, that's all.
+","[""I never had the courage to tell the truth, that's all.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#23; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,18,stream=0x6D000;block=0xF10;text=18,"[""stream=0x6D000;block=0xF10;text=18""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","真実を言い出す勇気が、ずっとなかった。
+","それをごまかそうと、言い訳ばかり探している。
+","今、話しただろう。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我一直在找借口掩盖这件事。,"[""我一直在找借口掩盖这件事。""]","I always looked for excuses to cover it up.
+","[""I always looked for excuses to cover it up.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#24; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,19,stream=0x6D000;block=0xF10;text=19,"[""stream=0x6D000;block=0xF10;text=19""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","それをごまかそうと、言い訳ばかり探している。
+","今、話しただろう。
+","スネーク…？
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,直到现在。,"[""直到现在。""]","Until now.
+","[""Until now.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#25; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,20,stream=0x6D000;block=0xF10;text=20,"[""stream=0x6D000;block=0xF10;text=20""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","今、話しただろう。
+","スネーク…？
+","何もかも、ちゃんと話した。おまえはもう、卑怯者じゃな
+い。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯…？,"[""嗯…？""]","Huh...?
+","[""Huh...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#26; block_semantic_score=0.136819.
+BRIEFING_FILES_BLOCK_06DF10,21,stream=0x6D000;block=0xF10;text=21,"[""stream=0x6D000;block=0xF10;text=21""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0xF10;block_file=0x6DF10;text_base=0x6DF88;capacity=1820""]","スネーク…？
+","何もかも、ちゃんと話した。おまえはもう、卑怯者じゃな
+い。
+",,[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你把一切都告诉了我。
+你已经不再是懦夫了。","[""你把一切都告诉了我。\n你已经不再是懦夫了。""]","You told me everything. You're no longer a coward.
+","[""You told me everything. You're no longer a coward.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6DF10; ENG blocks=0xFA640; ENG source rows=0xFA640#27; block_semantic_score=0.136819.

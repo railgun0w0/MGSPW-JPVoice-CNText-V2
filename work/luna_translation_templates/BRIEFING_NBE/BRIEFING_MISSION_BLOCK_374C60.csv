@@ -1,0 +1,45 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_374C60,0,stream=0x374000;block=0xC60;text=0,"[""stream=0x374000;block=0xC60;text=0""]",1,d3120_m0220_mrd,"[""stream=0x374000;block=0xC60;block_file=0x374C60;text_base=0x374C90;capacity=480""]",,"スネーク。
+<R=研究施設,ラボ>に入るため、
+IDカードを入手するんだ。
+","IDカードを持っているのは、
+ケツァールの鳴き声が聞こえる<R=場所,エリア>の、
+オレンジ色のジャケットを着た兵士だ。
+","[""<R=研究施設,ラボ>""]",,,NOT_CHECKED,94,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，要进入实验室，
+你需要一张ID卡。","[""Snake，要进入实验室，\n你需要一张ID卡。""]","Snake, to gain access to the lab you'll
+need an ID card.
+","[""Snake, to gain access to the lab you'll\nneed an ID card.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x374C60; ENG blocks=0x38C0C0; ENG source rows=0x38C0C0#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_374C60,1,stream=0x374000;block=0xC60;text=1,"[""stream=0x374000;block=0xC60;text=1""]",1,d3120_m0220_mrd,"[""stream=0x374000;block=0xC60;block_file=0x374C60;text_base=0x374C90;capacity=480""]","スネーク。
+<R=研究施設,ラボ>に入るため、
+IDカードを入手するんだ。
+","IDカードを持っているのは、
+ケツァールの鳴き声が聞こえる<R=場所,エリア>の、
+オレンジ色のジャケットを着た兵士だ。
+","兵士からIDカードを奪うには、
+『ボディチェック』すればいい。
+","[""<R=場所,エリア>""]",,,NOT_CHECKED,163,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你可以从一名穿着橙色
+夹克的守卫那里拿到，
+他驻守在能听到绿咬鹃叫声的区域。","[""你可以从一名穿着橙色\n夹克的守卫那里拿到，\n他驻守在能听到绿咬鹃叫声的区域。""]","You can get one from a guard in an
+orange jacket stationed in an area where
+you can hear quetzals singing.
+","[""You can get one from a guard in an\norange jacket stationed in an area where\nyou can hear quetzals singing.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x374C60; ENG blocks=0x38C0C0; ENG source rows=0x38C0C0#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_374C60,2,stream=0x374000;block=0xC60;text=2,"[""stream=0x374000;block=0xC60;text=2""]",1,d3120_m0220_mrd,"[""stream=0x374000;block=0xC60;block_file=0x374C60;text_base=0x374C90;capacity=480""]","IDカードを持っているのは、
+ケツァールの鳴き声が聞こえる<R=場所,エリア>の、
+オレンジ色のジャケットを着た兵士だ。
+","兵士からIDカードを奪うには、
+『ボディチェック』すればいい。
+","<R=人工知能,AI>が運び出されるまでに
+<R=研究施設,ラボ>に入らなければならない。
+急いでくれ！
+",[],,,NOT_CHECKED,88,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要拿到ID卡，就对士兵进行搜身检查。,"[""要拿到ID卡，就对士兵进行搜身检查。""]","To get the ID card from the soldier, do a
+body check.
+","[""To get the ID card from the soldier, do a\nbody check.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x374C60; ENG blocks=0x38C0C0; ENG source rows=0x38C0C0#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_374C60,3,stream=0x374000;block=0xC60;text=3,"[""stream=0x374000;block=0xC60;text=3""]",1,d3120_m0220_mrd,"[""stream=0x374000;block=0xC60;block_file=0x374C60;text_base=0x374C90;capacity=480""]","兵士からIDカードを奪うには、
+『ボディチェック』すればいい。
+","<R=人工知能,AI>が運び出されるまでに
+<R=研究施設,ラボ>に入らなければならない。
+急いでくれ！
+",,"[""<R=人工知能,AI>"", ""<R=研究施設,ラボ>""]",,,NOT_CHECKED,129,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你得在AI被运走之前进入
+实验室。赶紧行动！","[""你得在AI被运走之前进入\n实验室。赶紧行动！""]","You've got to get inside that lab before
+the AI gets shipped out. Get a move on!
+","[""You've got to get inside that lab before\nthe AI gets shipped out. Get a move on!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x374C60; ENG blocks=0x38C0C0; ENG source rows=0x38C0C0#3; block_semantic_score=1.000000.

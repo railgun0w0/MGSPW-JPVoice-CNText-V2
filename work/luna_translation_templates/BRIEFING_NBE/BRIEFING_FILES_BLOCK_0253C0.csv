@@ -1,0 +1,135 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0253C0,0,stream=0x25000;block=0x3C0;text=0,"[""stream=0x25000;block=0x3C0;text=0""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]",,"平和は人間の関係にとって不自然な状態…だったか？
+学校で習ったと言っていたな。
+","ええ。ドイツの哲学者、カントの言葉よ。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你刚才说什么来着…
+“和平不是人类的天性”？你说过你是在学校学的。","[""你刚才说什么来着…\n“和平不是人类的天性”？你说过你是在学校学的。""]","What was that you were saying... ""peace is not the
+natural state of men""?
+You said you learned it in school.
+","[""What was that you were saying... \""peace is not the\nnatural state of men\""?\nYou said you learned it in school.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x253C0; ENG blocks=0xB6A00,0xB6A00; ENG source rows=0xB6A00#0,0xB6A00#1; block_semantic_score=0.215017."
+BRIEFING_FILES_BLOCK_0253C0,1,stream=0x25000;block=0x3C0;text=1,"[""stream=0x25000;block=0x3C0;text=1""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","平和は人間の関係にとって不自然な状態…だったか？
+学校で習ったと言っていたな。
+","ええ。ドイツの哲学者、カントの言葉よ。
+","1795年の『永遠平和のために』という本に書かれている
+の。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。这是德国哲学家
+伊曼努尔·康德的话。","[""没错。这是德国哲学家\n伊曼努尔·康德的话。""]","That's right. They're the words of the German
+philosopher Immanuel Kant.
+","[""That's right. They're the words of the German\nphilosopher Immanuel Kant.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#2; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,2,stream=0x25000;block=0x3C0;text=2,"[""stream=0x25000;block=0x3C0;text=2""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","ええ。ドイツの哲学者、カントの言葉よ。
+","1795年の『永遠平和のために』という本に書かれている
+の。
+","でも、だからこそ平和を創らなくてはならない、というの
+がカントの主張なの。
+",[],,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"1795年，他写了一本名为
+《永久和平》的书。","[""1795年，他写了一本名为\n《永久和平》的书。""]","In 1795 he wrote a book titled ""Perpetual Peace.""
+","[""In 1795 he wrote a book titled \""Perpetual Peace.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#3; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,3,stream=0x25000;block=0x3C0;text=3,"[""stream=0x25000;block=0x3C0;text=3""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","1795年の『永遠平和のために』という本に書かれている
+の。
+","でも、だからこそ平和を創らなくてはならない、というの
+がカントの主張なの。
+","どうやって？
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,康德认为，正因为和平不是自然的，我们才必须自己去创造它。,"[""康德认为，正因为和平不是自然的，我们才必须自己去创造它。""]","Kant argued that it's precisely because peace is
+unnatural
+that we have to make it ourselves.
+","[""Kant argued that it's precisely because peace is\nunnatural\nthat we have to make it ourselves.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x253C0; ENG blocks=0xB6A00,0xB6A00; ENG source rows=0xB6A00#4,0xB6A00#5; block_semantic_score=0.215017."
+BRIEFING_FILES_BLOCK_0253C0,4,stream=0x25000;block=0x3C0;text=4,"[""stream=0x25000;block=0x3C0;text=4""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","でも、だからこそ平和を創らなくてはならない、というの
+がカントの主張なの。
+","どうやって？
+","それがその本に書かれてる。スネークも平和に興味が湧い
+た？
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么做？,"[""怎么做？""]","How?
+","[""How?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#6; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,5,stream=0x25000;block=0x3C0;text=5,"[""stream=0x25000;block=0x3C0;text=5""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","どうやって？
+","それがその本に書かれてる。スネークも平和に興味が湧い
+た？
+","いや…。俺はその正反対の世界にいる人間だ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他的书就是讲这个。
+现在开始觉得这个概念有意思了？","[""他的书就是讲这个。\n现在开始觉得这个概念有意思了？""]","That's what his book is about. Is the concept
+starting to sound interesting now?
+","[""That's what his book is about. Is the concept\nstarting to sound interesting now?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#7; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,6,stream=0x25000;block=0x3C0;text=6,"[""stream=0x25000;block=0x3C0;text=6""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","それがその本に書かれてる。スネークも平和に興味が湧い
+た？
+","いや…。俺はその正反対の世界にいる人間だ。
+","そう…。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不觉得…我属于更自然的世界。,"[""不觉得…我属于更自然的世界。""]","Not really... I belong in a more natural world.
+","[""Not really... I belong in a more natural world.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#8; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,7,stream=0x25000;block=0x3C0;text=7,"[""stream=0x25000;block=0x3C0;text=7""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","いや…。俺はその正反対の世界にいる人間だ。
+","そう…。
+","…私の祖父母は内戦で死んだわ。平和ならば死ななかった
+はずなのに。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是吗…,"[""是吗…""]","Is that so...
+","[""Is that so...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#9; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,8,stream=0x25000;block=0x3C0;text=8,"[""stream=0x25000;block=0x3C0;text=8""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","そう…。
+","…私の祖父母は内戦で死んだわ。平和ならば死ななかった
+はずなのに。
+","あなたは戦争を望んでいるの？
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我的祖父母在内战中去世了。,"[""…我的祖父母在内战中去世了。""]","...My grandparents died in the civil war.
+","[""...My grandparents died in the civil war.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#10; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,9,stream=0x25000;block=0x3C0;text=9,"[""stream=0x25000;block=0x3C0;text=9""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","…私の祖父母は内戦で死んだわ。平和ならば死ななかった
+はずなのに。
+","あなたは戦争を望んでいるの？
+","罪もない民間人に被害を出したいとは思わない。だが、他
+国の攻撃を受けたらどうする？
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你难道希望战争？,"[""你难道希望战争？""]","You actually wish for war?
+","[""You actually wish for war?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#12; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,10,stream=0x25000;block=0x3C0;text=10,"[""stream=0x25000;block=0x3C0;text=10""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","あなたは戦争を望んでいるの？
+","罪もない民間人に被害を出したいとは思わない。だが、他
+国の攻撃を受けたらどうする？
+","侵略や弾圧、不当な政治的支配を防ぐには、国を守るため
+の力が必要だ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不是想伤害无辜的平民。但如果有人攻击你，你该怎么办？,"[""我不是想伤害无辜的平民。但如果有人攻击你，你该怎么办？""]","It's not like I want to hurt innocent civilians.
+But if someone attacks you, what are you
+supposed to do?
+","[""It's not like I want to hurt innocent civilians.\nBut if someone attacks you, what are you\nsupposed to do?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x253C0; ENG blocks=0xB6A00,0xB6A00; ENG source rows=0xB6A00#13,0xB6A00#14; block_semantic_score=0.215017."
+BRIEFING_FILES_BLOCK_0253C0,11,stream=0x25000;block=0x3C0;text=11,"[""stream=0x25000;block=0x3C0;text=11""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","罪もない民間人に被害を出したいとは思わない。だが、他
+国の攻撃を受けたらどうする？
+","侵略や弾圧、不当な政治的支配を防ぐには、国を守るため
+の力が必要だ。
+","全ての国が侵略や、武力による内政干渉をやめれば、守る
+力も必要なくなるわ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一个国家需要自卫的力量。否则就会面临入侵、压迫、政治奴役。,"[""一个国家需要自卫的力量。否则就会面临入侵、压迫、政治奴役。""]","A country needs the strength to defend itself.
+Otherwise it faces invasion, oppression, political
+subjugation.
+","[""A country needs the strength to defend itself.\nOtherwise it faces invasion, oppression, political\nsubjugation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x253C0; ENG blocks=0xB6A00,0xB6A00; ENG source rows=0xB6A00#15,0xB6A00#16; block_semantic_score=0.215017."
+BRIEFING_FILES_BLOCK_0253C0,12,stream=0x25000;block=0x3C0;text=12,"[""stream=0x25000;block=0x3C0;text=12""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","侵略や弾圧、不当な政治的支配を防ぐには、国を守るため
+の力が必要だ。
+","全ての国が侵略や、武力による内政干渉をやめれば、守る
+力も必要なくなるわ。
+","どうやってそんなことを約束させる？
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,只要各国停止用武力互相纠缠，国家就不需要武力来保卫自己。,"[""只要各国停止用武力互相纠缠，国家就不需要武力来保卫自己。""]","If they'd simply stop using force to tangle with
+each other,
+countries wouldn't need force to defend themselves.
+","[""If they'd simply stop using force to tangle with\neach other,\ncountries wouldn't need force to defend themselves.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x253C0; ENG blocks=0xB6A00,0xB6A00; ENG source rows=0xB6A00#17,0xB6A00#18; block_semantic_score=0.215017."
+BRIEFING_FILES_BLOCK_0253C0,13,stream=0x25000;block=0x3C0;text=13,"[""stream=0x25000;block=0x3C0;text=13""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","全ての国が侵略や、武力による内政干渉をやめれば、守る
+力も必要なくなるわ。
+","どうやってそんなことを約束させる？
+","それは…。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那你怎么保证这一点？,"[""那你怎么保证这一点？""]","And how would you guarantee that?
+","[""And how would you guarantee that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#19; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,14,stream=0x25000;block=0x3C0;text=14,"[""stream=0x25000;block=0x3C0;text=14""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","どうやってそんなことを約束させる？
+","それは…。
+","…すまない。だが自分や家族を守るには現実を知ることも
+必要だ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],"I...
+","[""I...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#20; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,15,stream=0x25000;block=0x3C0;text=15,"[""stream=0x25000;block=0x3C0;text=15""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","それは…。
+","…すまない。だが自分や家族を守るには現実を知ることも
+必要だ。
+","もちろん理想を持つことも大切だとは思うが。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…抱歉。但你必须了解
+这个世界是如何运作的，才能保护你爱的人。","[""…抱歉。但你必须了解\n这个世界是如何运作的，才能保护你爱的人。""]","...Sorry. But you have to understand how the world
+works
+in order to protect the ones you love.
+","[""...Sorry. But you have to understand how the world\nworks\nin order to protect the ones you love.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x253C0; ENG blocks=0xB6A00,0xB6A00; ENG source rows=0xB6A00#21,0xB6A00#22; block_semantic_score=0.215017."
+BRIEFING_FILES_BLOCK_0253C0,16,stream=0x25000;block=0x3C0;text=16,"[""stream=0x25000;block=0x3C0;text=16""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","…すまない。だが自分や家族を守るには現実を知ることも
+必要だ。
+","もちろん理想を持つことも大切だとは思うが。
+","そうね…。ありがと。ピース！
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这并不是说理想不重要。它们很重要。,"[""这并不是说理想不重要。它们很重要。""]","That's not to say ideals aren't important, too. They
+are.
+","[""That's not to say ideals aren't important, too. They\nare.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#23; block_semantic_score=0.215017.
+BRIEFING_FILES_BLOCK_0253C0,17,stream=0x25000;block=0x3C0;text=17,"[""stream=0x25000;block=0x3C0;text=17""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x3C0;block_file=0x253C0;text_base=0x25428;capacity=1308""]","もちろん理想を持つことも大切だとは思うが。
+","そうね…。ありがと。ピース！
+",,[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你说得对，Snake…谢谢。Peace！,"[""你说得对，Snake…谢谢。Peace！""]","You are right, Snake... Thanks. Peace!
+","[""You are right, Snake... Thanks. Peace!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x253C0; ENG blocks=0xB6A00; ENG source rows=0xB6A00#24; block_semantic_score=0.215017.

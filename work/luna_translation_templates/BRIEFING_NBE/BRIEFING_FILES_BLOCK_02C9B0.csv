@@ -1,0 +1,97 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02C9B0,0,stream=0x2C000;block=0x9B0;text=0,"[""stream=0x2C000;block=0x9B0;text=0""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]",,"パス、コスタリカ政府は山のてっぺんに発電所なんか造っ
+て、どうするつもりだったんだ？
+","川がないんじゃ、すぐ湖が干上がるだろう。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Paz，政府是怎么想的，
+要在山顶上建发电站？","[""Paz，政府是怎么想的，\n要在山顶上建发电站？""]","Paz, what was the government thinking building a
+power plant at the top of a mountain?
+","[""Paz, what was the government thinking building a\npower plant at the top of a mountain?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#0; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,1,stream=0x2C000;block=0x9B0;text=1,"[""stream=0x2C000;block=0x9B0;text=1""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","パス、コスタリカ政府は山のてっぺんに発電所なんか造っ
+て、どうするつもりだったんだ？
+","川がないんじゃ、すぐ湖が干上がるだろう。
+","普通の発電所ならね。でも、計画では揚水発電所だったみ
+たいだから。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没有河流补充水源，
+这片湖很快就会干涸…","[""没有河流补充水源，\n这片湖很快就会干涸…""]","With no river to replenish the water, the lake would
+dry up pretty quick...
+","[""With no river to replenish the water, the lake would\ndry up pretty quick...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#1; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,2,stream=0x2C000;block=0x9B0;text=2,"[""stream=0x2C000;block=0x9B0;text=2""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","川がないんじゃ、すぐ湖が干上がるだろう。
+","普通の発電所ならね。でも、計画では揚水発電所だったみ
+たいだから。
+","揚水発電所？　カズも言ってたが、そりゃ何だ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…如果是一般电站的话。
+但计划里要建的是抽水蓄能电站。","[""…如果是一般电站的话。\n但计划里要建的是抽水蓄能电站。""]","...If it were an ordinary power plant. But the plan
+called for a pumped storage power plant.
+","[""...If it were an ordinary power plant. But the plan\ncalled for a pumped storage power plant.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#2; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,3,stream=0x2C000;block=0x9B0;text=3,"[""stream=0x2C000;block=0x9B0;text=3""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","普通の発電所ならね。でも、計画では揚水発電所だったみ
+たいだから。
+","揚水発電所？　カズも言ってたが、そりゃ何だ。
+","ポンプで水を湖にくみ上げて、その水を落として発電する
+施設よ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"抽水蓄能电站？
+Kaz也提过。那是什么？","[""抽水蓄能电站？\nKaz也提过。那是什么？""]","Pumped storage power plant? Kaz mentioned that,
+too. What is that?
+","[""Pumped storage power plant? Kaz mentioned that,\ntoo. What is that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#3; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,4,stream=0x2C000;block=0x9B0;text=4,"[""stream=0x2C000;block=0x9B0;text=4""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","揚水発電所？　カズも言ってたが、そりゃ何だ。
+","ポンプで水を湖にくみ上げて、その水を落として発電する
+施設よ。
+","ちょっと待て。そりゃ賽の河原とどう違うんだ？　単に無
+駄なことをしているだけだと思うが。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,再让水流下来发电的设施。,"[""再让水流下来发电的设施。""]","then letting it run back down.
+","[""then letting it run back down.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#5; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,5,stream=0x2C000;block=0x9B0;text=5,"[""stream=0x2C000;block=0x9B0;text=5""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","ポンプで水を湖にくみ上げて、その水を落として発電する
+施設よ。
+","ちょっと待て。そりゃ賽の河原とどう違うんだ？　単に無
+駄なことをしているだけだと思うが。
+","汲み上げてすぐ発電に使うならね。でも、揚水発電所は一
+種の電池なの。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听着像西西弗斯的苦役。如果刚把水抽上去就
+立刻发电，那确实是。","[""听着像西西弗斯的苦役。如果刚把水抽上去就\n立刻发电，那确实是。""]","Seems Sisyphean to me.
+If they turned the water into electricity as soon as
+they'd pumped it up, sure.
+","[""Seems Sisyphean to me.\nIf they turned the water into electricity as soon as\nthey'd pumped it up, sure.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0,0xBDBD0; ENG source rows=0xBDBD0#6,0xBDBD0#7; block_semantic_score=0.215906."
+BRIEFING_FILES_BLOCK_02C9B0,6,stream=0x2C000;block=0x9B0;text=6,"[""stream=0x2C000;block=0x9B0;text=6""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","ちょっと待て。そりゃ賽の河原とどう違うんだ？　単に無
+駄なことをしているだけだと思うが。
+","汲み上げてすぐ発電に使うならね。でも、揚水発電所は一
+種の電池なの。
+","電池？
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但抽水蓄能电站相当于一块电池。,"[""但抽水蓄能电站相当于一块电池。""]","But a pumped storage plant acts as a kind of
+battery.
+","[""But a pumped storage plant acts as a kind of\nbattery.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#8; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,7,stream=0x2C000;block=0x9B0;text=7,"[""stream=0x2C000;block=0x9B0;text=7""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","汲み上げてすぐ発電に使うならね。でも、揚水発電所は一
+種の電池なの。
+","電池？
+","例えば、電力が余っている夜の間に水を汲み上げておくと
+か。昼に不足してきたら、その水で発電すればいい。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,电池？,"[""电池？""]","A battery?
+","[""A battery?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#9; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,8,stream=0x2C000;block=0x9B0;text=8,"[""stream=0x2C000;block=0x9B0;text=8""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","電池？
+","例えば、電力が余っている夜の間に水を汲み上げておくと
+か。昼に不足してきたら、その水で発電すればいい。
+","なるほど、火力発電や原子力発電は、出力の調整が難しい
+からな。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就可以用夜间抽上去的水来发电。,"[""就可以用夜间抽上去的水来发电。""]","they can generate it using water pumped up during
+the night.
+","[""they can generate it using water pumped up during\nthe night.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#13; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,9,stream=0x2C000;block=0x9B0;text=9,"[""stream=0x2C000;block=0x9B0;text=9""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","例えば、電力が余っている夜の間に水を汲み上げておくと
+か。昼に不足してきたら、その水で発電すればいい。
+","なるほど、火力発電や原子力発電は、出力の調整が難しい
+からな。
+","でも、今のコスタリカに余っている電気なんかないはずよ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"懂了。火电厂或核电站
+调整出力要难得多。","[""懂了。火电厂或核电站\n调整出力要难得多。""]","I get it. It's a little more difficult to adjust output
+with thermal or nuclear plants.
+","[""I get it. It's a little more difficult to adjust output\nwith thermal or nuclear plants.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#14; block_semantic_score=0.215906.
+BRIEFING_FILES_BLOCK_02C9B0,10,stream=0x2C000;block=0x9B0;text=10,"[""stream=0x2C000;block=0x9B0;text=10""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","なるほど、火力発電や原子力発電は、出力の調整が難しい
+からな。
+","でも、今のコスタリカに余っている電気なんかないはずよ。
+","だから計画が中止されたんだろう。CIAの連中は、それを
+利用したってわけだ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在——根本没有富余。大概这就是项目搁置的原因吧。,"[""现在——根本没有富余。大概这就是项目搁置的原因吧。""]","Right now - there is no surplus.
+Maybe that's what put the brakes on the project.
+","[""Right now - there is no surplus.\nMaybe that's what put the brakes on the project.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0,0xBDBD0; ENG source rows=0xBDBD0#16,0xBDBD0#17; block_semantic_score=0.215906."
+BRIEFING_FILES_BLOCK_02C9B0,11,stream=0x2C000;block=0x9B0;text=11,"[""stream=0x2C000;block=0x9B0;text=11""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","でも、今のコスタリカに余っている電気なんかないはずよ。
+","だから計画が中止されたんだろう。CIAの連中は、それを
+利用したってわけだ。
+",,[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,肯定正中中情局(CIA)下怀。,"[""肯定正中中情局(CIA)下怀。""]","Must've played right into the CIA's hands.
+","[""Must've played right into the CIA's hands.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2C9B0; ENG blocks=0xBDBD0; ENG source rows=0xBDBD0#18; block_semantic_score=0.215906.

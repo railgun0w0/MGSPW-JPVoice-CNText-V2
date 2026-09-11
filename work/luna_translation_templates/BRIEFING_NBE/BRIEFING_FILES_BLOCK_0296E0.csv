@@ -1,0 +1,48 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0296E0,0,stream=0x29000;block=0x6E0;text=0,"[""stream=0x29000;block=0x6E0;text=0""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]",,"そのあたりには吊り橋があるはずよ。
+","こんな低地に？
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那附近应该有一座吊桥。,"[""那附近应该有一座吊桥。""]","There should be a suspension bridge around there.
+","[""There should be a suspension bridge around there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x296E0; ENG blocks=0xBAB50; ENG source rows=0xBAB50#0; block_semantic_score=0.182729.
+BRIEFING_FILES_BLOCK_0296E0,1,stream=0x29000;block=0x6E0;text=1,"[""stream=0x29000;block=0x6E0;text=1""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","そのあたりには吊り橋があるはずよ。
+","こんな低地に？
+","この近くは珍しく地盤が固くて、高台になっているの。そ
+こを川が浸食して、谷になった。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在这种低洼地带？,"[""在这种低洼地带？""]","In lowlands like this?
+","[""In lowlands like this?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x296E0; ENG blocks=0xBAB50; ENG source rows=0xBAB50#1; block_semantic_score=0.182729.
+BRIEFING_FILES_BLOCK_0296E0,2,stream=0x29000;block=0x6E0;text=2,"[""stream=0x29000;block=0x6E0;text=2""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","こんな低地に？
+","この近くは珍しく地盤が固くて、高台になっているの。そ
+こを川が浸食して、谷になった。
+","このあたりで、他に川を渡れるところはないんじゃないか
+な。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,附近的地面比别处更硬、更高。,"[""附近的地面比别处更硬、更高。""]","The ground nearby is harder and higher than usual.
+","[""The ground nearby is harder and higher than usual.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x296E0; ENG blocks=0xBAB50; ENG source rows=0xBAB50#2; block_semantic_score=0.182729.
+BRIEFING_FILES_BLOCK_0296E0,3,stream=0x29000;block=0x6E0;text=3,"[""stream=0x29000;block=0x6E0;text=3""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","この近くは珍しく地盤が固くて、高台になっているの。そ
+こを川が浸食して、谷になった。
+","このあたりで、他に川を渡れるところはないんじゃないか
+な。
+","橋に敵兵がいたら、厄介だな。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,河水穿流而过，最终形成了山谷。说不定在别处有另一条过河的路。,"[""河水穿流而过，最终形成了山谷。说不定在别处有另一条过河的路。""]","The river cut through it, eventually creating a
+valley.
+There might be another way to get across the
+river somewhere.
+","[""The river cut through it, eventually creating a\nvalley.\nThere might be another way to get across the\nriver somewhere.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x296E0; ENG blocks=0xBAB50,0xBAB50; ENG source rows=0xBAB50#3,0xBAB50#4; block_semantic_score=0.182729."
+BRIEFING_FILES_BLOCK_0296E0,4,stream=0x29000;block=0x6E0;text=4,"[""stream=0x29000;block=0x6E0;text=4""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","このあたりで、他に川を渡れるところはないんじゃないか
+な。
+","橋に敵兵がいたら、厄介だな。
+","谷に霧がかかっているから、水面までは見えないかも。で
+も、落ちたらただではすまないと思う。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我可不想在桥上撞见什么人。,"[""我可不想在桥上撞见什么人。""]","I wouldn't want to run into someone on the bridge.
+","[""I wouldn't want to run into someone on the bridge.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x296E0; ENG blocks=0xBAB50; ENG source rows=0xBAB50#5; block_semantic_score=0.182729.
+BRIEFING_FILES_BLOCK_0296E0,5,stream=0x29000;block=0x6E0;text=5,"[""stream=0x29000;block=0x6E0;text=5""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","橋に敵兵がいたら、厄介だな。
+","谷に霧がかかっているから、水面までは見えないかも。で
+も、落ちたらただではすまないと思う。
+","用心するとしよう。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"山谷里常有雾气，
+所以从上面可能看不到水面。","[""山谷里常有雾气，\n所以从上面可能看不到水面。""]","The valley tends to be misty, so you might not be
+able to see the water from up there.
+","[""The valley tends to be misty, so you might not be\nable to see the water from up there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x296E0; ENG blocks=0xBAB50; ENG source rows=0xBAB50#6; block_semantic_score=0.182729.
+BRIEFING_FILES_BLOCK_0296E0,6,stream=0x29000;block=0x6E0;text=6,"[""stream=0x29000;block=0x6E0;text=6""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","谷に霧がかかっているから、水面までは見えないかも。で
+も、落ちたらただではすまないと思う。
+","用心するとしよう。
+",,[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会小心的。,"[""我会小心的。""]","I'll be careful.
+","[""I'll be careful.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x296E0; ENG blocks=0xBAB50; ENG source rows=0xBAB50#8; block_semantic_score=0.182729.

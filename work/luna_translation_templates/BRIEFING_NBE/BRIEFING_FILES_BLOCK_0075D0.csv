@@ -1,0 +1,128 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0075D0,0,stream=0x7000;block=0x5D0;text=0,"[""stream=0x7000;block=0x5D0;text=0""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]",,"聞いたぞ、スネーク。アマンダにゲバラと間違えられたそ
+うだな。
+","どうだ、まんざらでもない気分か？
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听说Amanda把你错认成了
+切·格瓦拉，Snake。","[""听说Amanda把你错认成了\n切·格瓦拉，Snake。""]","So I hear Amanda mistook you for Che Guevara,
+Snake.
+","[""So I hear Amanda mistook you for Che Guevara,\nSnake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#0; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,1,stream=0x7000;block=0x5D0;text=1,"[""stream=0x7000;block=0x5D0;text=1""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","聞いたぞ、スネーク。アマンダにゲバラと間違えられたそ
+うだな。
+","どうだ、まんざらでもない気分か？
+","よしてくれ。俺なんかゲバラの足下にも及ばん。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这还不赖吧？,"[""这还不赖吧？""]","That's not too bad, huh?
+","[""That's not too bad, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#1; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,2,stream=0x7000;block=0x5D0;text=2,"[""stream=0x7000;block=0x5D0;text=2""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","どうだ、まんざらでもない気分か？
+","よしてくれ。俺なんかゲバラの足下にも及ばん。
+","謙虚だな。俺からすれば、あんたも十分偉大な人間に見え
+る。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,得了吧，我连给他擦鞋子都不够格。,"[""得了吧，我连给他擦鞋子都不够格。""]","Yeah, right. I'm not even worthy of polishing his
+boots.
+","[""Yeah, right. I'm not even worthy of polishing his\nboots.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#2; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,3,stream=0x7000;block=0x5D0;text=3,"[""stream=0x7000;block=0x5D0;text=3""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","よしてくれ。俺なんかゲバラの足下にも及ばん。
+","謙虚だな。俺からすれば、あんたも十分偉大な人間に見え
+る。
+","相手は「20世紀で最も完璧な人間」だぞ？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别这么谦虚。在我看来，你的手下都
+把你当成一个伟人。","[""别这么谦虚。在我看来，你的手下都\n把你当成一个伟人。""]","Don't be so modest.
+From where I'm standing, your men see you as a
+great man.
+","[""Don't be so modest.\nFrom where I'm standing, your men see you as a\ngreat man.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x75D0; ENG blocks=0x9B990,0x9B990; ENG source rows=0x9B990#3,0x9B990#4; block_semantic_score=0.180112."
+BRIEFING_FILES_BLOCK_0075D0,4,stream=0x7000;block=0x5D0;text=4,"[""stream=0x7000;block=0x5D0;text=4""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","謙虚だな。俺からすれば、あんたも十分偉大な人間に見え
+る。
+","相手は「20世紀で最も完璧な人間」だぞ？
+","サルトルか？　まあ、ゲバラはすっかり時代の<R=象徴,イコン>になっ
+ちまったからな。
+",[],,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,像「这个世纪最完整的人」那样伟大？,"[""像「这个世纪最完整的人」那样伟大？""]","As great as ""the century's most complete human
+being""?
+","[""As great as \""the century's most complete human\nbeing\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#5; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,5,stream=0x7000;block=0x5D0;text=5,"[""stream=0x7000;block=0x5D0;text=5""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","相手は「20世紀で最も完璧な人間」だぞ？
+","サルトルか？　まあ、ゲバラはすっかり時代の<R=象徴,イコン>になっ
+ちまったからな。
+","それ以上に誠実な革命家で、偉大な戦士だった。
+","[""<R=象徴,イコン>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那是萨特说的吧？确实，没有比
+Che更能代表那个时代的人物了。","[""那是萨特说的吧？确实，没有比\nChe更能代表那个时代的人物了。""]","That's Sartre, right? Well, there's hardly been a
+more iconic figure of his times than Che.
+","[""That's Sartre, right? Well, there's hardly been a\nmore iconic figure of his times than Che.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#6; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,6,stream=0x7000;block=0x5D0;text=6,"[""stream=0x7000;block=0x5D0;text=6""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","サルトルか？　まあ、ゲバラはすっかり時代の<R=象徴,イコン>になっ
+ちまったからな。
+","それ以上に誠実な革命家で、偉大な戦士だった。
+","そいつには同意だ。何しろカストロと一緒にキューバへ渡
+った直後、仲間は12人しかいなかったって言うじゃないか。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他不只是那样。他是一个真正的
+革命者，也是一位伟大的战士。","[""他不只是那样。他是一个真正的\n革命者，也是一位伟大的战士。""]","He was more than that. He was a true
+revolutionary, and a great warrior.
+","[""He was more than that. He was a true\nrevolutionary, and a great warrior.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#7; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,7,stream=0x7000;block=0x5D0;text=7,"[""stream=0x7000;block=0x5D0;text=7""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","それ以上に誠実な革命家で、偉大な戦士だった。
+","そいつには同意だ。何しろカストロと一緒にキューバへ渡
+った直後、仲間は12人しかいなかったって言うじゃないか。
+","だが、彼らはそこから巻き返した。仲間を集め、組織を拡
+げ、農民の支持を得た。
+",[],,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这点我同意。你敢相信吗，
+他一开始跟着菲德尔去古巴的时候，当初跟着他的只有12个人？","[""这点我同意。你敢相信吗，\n他一开始跟着菲德尔去古巴的时候，当初跟着他的只有12个人？""]","I'm with you there. Can you believe that when he
+first went to Cuba with Fidel,
+they only had 12 guys with them?
+","[""I'm with you there. Can you believe that when he\nfirst went to Cuba with Fidel,\nthey only had 12 guys with them?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x75D0; ENG blocks=0x9B990,0x9B990; ENG source rows=0x9B990#8,0x9B990#9; block_semantic_score=0.180112."
+BRIEFING_FILES_BLOCK_0075D0,8,stream=0x7000;block=0x5D0;text=8,"[""stream=0x7000;block=0x5D0;text=8""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","そいつには同意だ。何しろカストロと一緒にキューバへ渡
+った直後、仲間は12人しかいなかったって言うじゃないか。
+","だが、彼らはそこから巻き返した。仲間を集め、組織を拡
+げ、農民の支持を得た。
+","そして、最後にはバティスタ政権を倒した…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"赢得了农民的支持，
+扩大了自己的组织…","[""赢得了农民的支持，\n扩大了自己的组织…""]","won the support of the peasants, expanded their
+organization...
+","[""won the support of the peasants, expanded their\norganization...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#11; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,9,stream=0x7000;block=0x5D0;text=9,"[""stream=0x7000;block=0x5D0;text=9""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","だが、彼らはそこから巻き返した。仲間を集め、組織を拡
+げ、農民の支持を得た。
+","そして、最後にはバティスタ政権を倒した…。
+","誠実さゆえに人が集まり、強いからこそ勝利した。偉大な
+資質だ。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,最后，他们推翻了巴蒂斯塔政权…,"[""最后，他们推翻了巴蒂斯塔政权…""]","And in the end, they overthrew the Batista regime...
+","[""And in the end, they overthrew the Batista regime...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#12; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,10,stream=0x7000;block=0x5D0;text=10,"[""stream=0x7000;block=0x5D0;text=10""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","そして、最後にはバティスタ政権を倒した…。
+","誠実さゆえに人が集まり、強いからこそ勝利した。偉大な
+資質だ。
+","まあ、俺達が置かれた状況も似たようなもんだ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"人们蜂拥归附他们，因为他们诚实。
+他们获胜，是因为他们够强大。","[""人们蜂拥归附他们，因为他们诚实。\n他们获胜，是因为他们够强大。""]","People flocked to them because they were honest.
+They won because they were strong.
+","[""People flocked to them because they were honest.\nThey won because they were strong.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#13; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,11,stream=0x7000;block=0x5D0;text=11,"[""stream=0x7000;block=0x5D0;text=11""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","誠実さゆえに人が集まり、強いからこそ勝利した。偉大な
+資質だ。
+","まあ、俺達が置かれた状況も似たようなもんだ。
+","これだけの小勢で、アメリカがバックにいる軍隊に弓を引
+こうってんだから。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道吗，我们现在的处境
+跟他们当年其实挺像的。","[""你知道吗，我们现在的处境\n跟他们当年其实挺像的。""]","You know, we're kind of in the same boat they
+were back then.
+","[""You know, we're kind of in the same boat they\nwere back then.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#15; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,12,stream=0x7000;block=0x5D0;text=12,"[""stream=0x7000;block=0x5D0;text=12""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","まあ、俺達が置かれた状況も似たようなもんだ。
+","これだけの小勢で、アメリカがバックにいる軍隊に弓を引
+こうってんだから。
+","ゲバラへの道は遠い。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们在这儿，不过是一小撮雇佣兵，去对抗一支由美国撑腰的军队。,"[""我们在这儿，不过是一小撮雇佣兵，去对抗一支由美国撑腰的军队。""]","Here we are, a handful of mercenaries
+taking on an army backed by the United States.
+","[""Here we are, a handful of mercenaries\ntaking on an army backed by the United States.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x75D0; ENG blocks=0x9B990,0x9B990; ENG source rows=0x9B990#16,0x9B990#17; block_semantic_score=0.180112."
+BRIEFING_FILES_BLOCK_0075D0,13,stream=0x7000;block=0x5D0;text=13,"[""stream=0x7000;block=0x5D0;text=13""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","これだけの小勢で、アメリカがバックにいる軍隊に弓を引
+こうってんだから。
+","ゲバラへの道は遠い。
+","だが、歩んでいく他ない。戦いに勝つだけでなく、人を集
+め、<R=組織,MSF>を拡大することにも、気を配ってくれ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，我们还有很长的路要走。,"[""是啊，我们还有很长的路要走。""]","Yeah, we've got a long way to go.
+","[""Yeah, we've got a long way to go.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#18; block_semantic_score=0.180112.
+BRIEFING_FILES_BLOCK_0075D0,14,stream=0x7000;block=0x5D0;text=14,"[""stream=0x7000;block=0x5D0;text=14""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","ゲバラへの道は遠い。
+","だが、歩んでいく他ない。戦いに勝つだけでなく、人を集
+め、<R=組織,MSF>を拡大することにも、気を配ってくれ。
+","了解だ。
+","[""<R=組織,MSF>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我们得继续走下去。
+这不只是打赢一场仗的问题。你得考虑一下招募人手，
+把这个组织发展壮大。","[""但我们得继续走下去。\n这不只是打赢一场仗的问题。你得考虑一下招募人手，\n把这个组织发展壮大。""]","But we've got to keep on going. It's not just about
+winning in battle.
+You need to think about recruiting people and
+growing this operation.
+","[""But we've got to keep on going. It's not just about\nwinning in battle.\nYou need to think about recruiting people and\ngrowing this operation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x75D0; ENG blocks=0x9B990,0x9B990; ENG source rows=0x9B990#19,0x9B990#20; block_semantic_score=0.180112."
+BRIEFING_FILES_BLOCK_0075D0,15,stream=0x7000;block=0x5D0;text=15,"[""stream=0x7000;block=0x5D0;text=15""]",1,BRIEFING FILES,"[""stream=0x7000;block=0x5D0;block_file=0x75D0;text_base=0x7630;capacity=1356""]","だが、歩んでいく他ない。戦いに勝つだけでなく、人を集
+め、<R=組織,MSF>を拡大することにも、気を配ってくれ。
+","了解だ。
+",,[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了。,"[""明白了。""]","Got it.
+","[""Got it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x75D0; ENG blocks=0x9B990; ENG source rows=0x9B990#21; block_semantic_score=0.180112.

@@ -1,0 +1,39 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0263F0,0,stream=0x26000;block=0x3F0;text=0,"[""stream=0x26000;block=0x3F0;text=0""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]",,"雲霧林は、中央の山岳地帯に広がる森よ。常に霧がかかっ
+ていて、そこに立っているだけで体が濡れてしまうくらい。
+","森全体が雲の中にある、って感じかな。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,云雾林覆盖了该国中部山区。,"[""云雾林覆盖了该国中部山区。""]","The cloud forests cover the central mountainous
+region of the country.
+","[""The cloud forests cover the central mountainous\nregion of the country.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x263F0; ENG blocks=0xB7B80; ENG source rows=0xB7B80#0; block_semantic_score=0.209910.
+BRIEFING_FILES_BLOCK_0263F0,1,stream=0x26000;block=0x3F0;text=1,"[""stream=0x26000;block=0x3F0;text=1""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","雲霧林は、中央の山岳地帯に広がる森よ。常に霧がかかっ
+ていて、そこに立っているだけで体が濡れてしまうくらい。
+","森全体が雲の中にある、って感じかな。
+","視界が悪そうだ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,仿佛整片森林都在云中。,"[""仿佛整片森林都在云中。""]","It is as if the entire forest is inside a cloud.
+","[""It is as if the entire forest is inside a cloud.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x263F0; ENG blocks=0xB7B80; ENG source rows=0xB7B80#2; block_semantic_score=0.209910.
+BRIEFING_FILES_BLOCK_0263F0,2,stream=0x26000;block=0x3F0;text=2,"[""stream=0x26000;block=0x3F0;text=2""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","森全体が雲の中にある、って感じかな。
+","視界が悪そうだ。
+","うん。でも、とても綺麗な森よ。神秘的で、緑の迷宮に迷
+い込んだみたい。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能见度一定很差。,"[""能见度一定很差。""]","Must make for poor visibility.
+","[""Must make for poor visibility.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x263F0; ENG blocks=0xB7B80; ENG source rows=0xB7B80#3; block_semantic_score=0.209910.
+BRIEFING_FILES_BLOCK_0263F0,3,stream=0x26000;block=0x3F0;text=3,"[""stream=0x26000;block=0x3F0;text=3""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","視界が悪そうだ。
+","うん。でも、とても綺麗な森よ。神秘的で、緑の迷宮に迷
+い込んだみたい。
+","…本当に迷わないように気を付けよう。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"确实差。但也美丽。
+就像迷失在某个神秘而绿色的迷宫中。","[""确实差。但也美丽。\n就像迷失在某个神秘而绿色的迷宫中。""]","It does. But beauty, too. It is like being lost in some
+mystical, green labyrinth.
+","[""It does. But beauty, too. It is like being lost in some\nmystical, green labyrinth.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x263F0; ENG blocks=0xB7B80; ENG source rows=0xB7B80#4; block_semantic_score=0.209910.
+BRIEFING_FILES_BLOCK_0263F0,4,stream=0x26000;block=0x3F0;text=4,"[""stream=0x26000;block=0x3F0;text=4""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","うん。でも、とても綺麗な森よ。神秘的で、緑の迷宮に迷
+い込んだみたい。
+","…本当に迷わないように気を付けよう。
+","珍しい動物も沢山棲んでる。特に綺麗なカエルがいっぱい。
+湿気が多いからかな。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…如果可以的话，我不想迷路。,"[""…如果可以的话，我不想迷路。""]","...I'd rather not get lost if that's OK.
+","[""...I'd rather not get lost if that's OK.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x263F0; ENG blocks=0xB7B80; ENG source rows=0xB7B80#5; block_semantic_score=0.209910.
+BRIEFING_FILES_BLOCK_0263F0,5,stream=0x26000;block=0x3F0;text=5,"[""stream=0x26000;block=0x3F0;text=5""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","…本当に迷わないように気を付けよう。
+","珍しい動物も沢山棲んでる。特に綺麗なカエルがいっぱい。
+湿気が多いからかな。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,森林里也有很多珍稀动物。,"[""森林里也有很多珍稀动物。""]","The forests are also home to lots of rare animals.
+","[""The forests are also home to lots of rare animals.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x263F0; ENG blocks=0xB7B80; ENG source rows=0xB7B80#6; block_semantic_score=0.209910.

@@ -1,0 +1,29 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01CDB0,0,stream=0x1C000;block=0xDB0;text=0,"[""stream=0x1C000;block=0xDB0;text=0""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xDB0;block_file=0x1CDB0;text_base=0x1CDE0;capacity=352""]",,"わかっていると思うが、今回はフルトン回収ミッションだ。
+","間違っても捕虜を撃って殺したりしないように気をつけて
+くれよ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你大概已经知道，
+这是富尔顿回收任务。","[""你大概已经知道，\n这是富尔顿回收任务。""]","As you're probably aware, this is a Fulton recovery
+mission.
+","[""As you're probably aware, this is a Fulton recovery\nmission.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1CDB0; ENG blocks=0xAE030; ENG source rows=0xAE030#0; block_semantic_score=0.125835.
+BRIEFING_FILES_BLOCK_01CDB0,1,stream=0x1C000;block=0xDB0;text=1,"[""stream=0x1C000;block=0xDB0;text=1""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xDB0;block_file=0x1CDB0;text_base=0x1CDE0;capacity=352""]","わかっていると思うが、今回はフルトン回収ミッションだ。
+","間違っても捕虜を撃って殺したりしないように気をつけて
+くれよ。
+","それと、回収装置を忘れたりしないように。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,小心别失手将囚犯射杀。,"[""小心别失手将囚犯射杀。""]","Be careful you don't shoot and kill any prisoners by
+accident.
+","[""Be careful you don't shoot and kill any prisoners by\naccident.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1CDB0; ENG blocks=0xAE030; ENG source rows=0xAE030#1; block_semantic_score=0.125835.
+BRIEFING_FILES_BLOCK_01CDB0,2,stream=0x1C000;block=0xDB0;text=2,"[""stream=0x1C000;block=0xDB0;text=2""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xDB0;block_file=0x1CDB0;text_base=0x1CDE0;capacity=352""]","間違っても捕虜を撃って殺したりしないように気をつけて
+くれよ。
+","それと、回収装置を忘れたりしないように。
+","間違って捕虜を殺さないためにも、麻酔銃も持っていくと
+いいかもしれないな。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有，别忘了带上回收装置。,"[""还有，别忘了带上回收装置。""]","And don't forget to take the recovery kit with you.
+","[""And don't forget to take the recovery kit with you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1CDB0; ENG blocks=0xAE030; ENG source rows=0xAE030#2; block_semantic_score=0.125835.
+BRIEFING_FILES_BLOCK_01CDB0,3,stream=0x1C000;block=0xDB0;text=3,"[""stream=0x1C000;block=0xDB0;text=3""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xDB0;block_file=0x1CDB0;text_base=0x1CDE0;capacity=352""]","それと、回収装置を忘れたりしないように。
+","間違って捕虜を殺さないためにも、麻酔銃も持っていくと
+いいかもしれないな。
+",,[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为安全起见，我建议你带把麻醉枪，——免得误杀囚犯。,"[""为安全起见，我建议你带把麻醉枪，——免得误杀囚犯。""]","I'd suggest arming yourself with a tranquilizer gun
+just to be safe
+- so you don't kill any prisoners.
+","[""I'd suggest arming yourself with a tranquilizer gun\njust to be safe\n- so you don't kill any prisoners.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1CDB0; ENG blocks=0xAE030,0xAE030; ENG source rows=0xAE030#3,0xAE030#4; block_semantic_score=0.125835."

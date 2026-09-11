@@ -1,0 +1,165 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_033680,0,stream=0x33000;block=0x680;text=0,"[""stream=0x33000;block=0x680;text=0""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]",,"お前達は、ゲバラのことを“エル・チェ”と呼ぶんだな。
+","あたし達だけじゃない。このあたりじゃ、みんなそう。も
+ともと“チェ”があだ名だもの。姓で呼ぶのは堅苦しいで
+しょ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我注意到你们把切·格瓦拉叫做“切”。,"[""我注意到你们把切·格瓦拉叫做“切”。""]","I noticed you call Che Guevara ""El Che.""
+","[""I noticed you call Che Guevara \""El Che.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#0; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,1,stream=0x33000;block=0x680;text=1,"[""stream=0x33000;block=0x680;text=1""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","お前達は、ゲバラのことを“エル・チェ”と呼ぶんだな。
+","あたし達だけじゃない。このあたりじゃ、みんなそう。も
+ともと“チェ”があだ名だもの。姓で呼ぶのは堅苦しいで
+しょ。
+","…初めてあなたを見たときは驚いた。似ていたから。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“切”一直是他的昵称。
+用姓氏称呼他总觉得别扭。","[""“切”一直是他的昵称。\n用姓氏称呼他总觉得别扭。""]","""Che"" was always his nickname. It does not feel
+right to call him by his last name.
+","[""\""Che\"" was always his nickname. It does not feel\nright to call him by his last name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#2; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,2,stream=0x33000;block=0x680;text=2,"[""stream=0x33000;block=0x680;text=2""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","あたし達だけじゃない。このあたりじゃ、みんなそう。も
+ともと“チェ”があだ名だもの。姓で呼ぶのは堅苦しいで
+しょ。
+","…初めてあなたを見たときは驚いた。似ていたから。
+","“エル・チェ”に似ていた？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…我第一次见到你时很震惊。
+你长得太像他了。","[""…我第一次见到你时很震惊。\n你长得太像他了。""]","...I was shocked the first time I saw you. You look
+so much like him.
+","[""...I was shocked the first time I saw you. You look\nso much like him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#3; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,3,stream=0x33000;block=0x680;text=3,"[""stream=0x33000;block=0x680;text=3""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","…初めてあなたを見たときは驚いた。似ていたから。
+","“エル・チェ”に似ていた？
+","どことなくね。顔とかじゃなくて、雰囲気というか…。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我长得像“切”，啊？,"[""我长得像“切”，啊？""]","I look like ""El Che"", huh?
+","[""I look like \""El Che\"", huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#4; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,4,stream=0x33000;block=0x680;text=4,"[""stream=0x33000;block=0x680;text=4""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","“エル・チェ”に似ていた？
+","どことなくね。顔とかじゃなくて、雰囲気というか…。
+","<R=FSLN,サンディニスタ>でも、ゲバラは英雄なのか？
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有点像。不是长相。更像是…你的举止…,"[""有点像。不是长相。更像是…你的举止…""]","Sort of. Not in the face. It's more... the way you
+carry yourself...
+","[""Sort of. Not in the face. It's more... the way you\ncarry yourself...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#5; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,5,stream=0x33000;block=0x680;text=5,"[""stream=0x33000;block=0x680;text=5""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","どことなくね。顔とかじゃなくて、雰囲気というか…。
+","<R=FSLN,サンディニスタ>でも、ゲバラは英雄なのか？
+","もちろん。もともと<R=FSLN,サンディニスタ>は、エル・チェやフィデルの思
+想に共鳴して結成されたんだから。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想切对桑地诺人来说也是个英雄吧？,"[""我想切对桑地诺人来说也是个英雄吧？""]","I guess Che's a hero to the Sandinistas, too?
+","[""I guess Che's a hero to the Sandinistas, too?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#6; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,6,stream=0x33000;block=0x680;text=6,"[""stream=0x33000;block=0x680;text=6""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","<R=FSLN,サンディニスタ>でも、ゲバラは英雄なのか？
+","もちろん。もともと<R=FSLN,サンディニスタ>は、エル・チェやフィデルの思
+想に共鳴して結成されたんだから。
+","フィデル…フィデル・カストロか。キューバ革命を、ニカ
+ラグアでも実現させようってわけだな。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当然。桑地诺民族解放阵线(
+FSLN)是在切和菲德尔倡导的
+意识形态精神下成立的。","[""当然。桑地诺民族解放阵线(\nFSLN)是在切和菲德尔倡导的\n意识形态精神下成立的。""]","Of course. The FSLN was formed in the spirit of
+the ideologies championed by El Che and Fidel.
+","[""Of course. The FSLN was formed in the spirit of\nthe ideologies championed by El Che and Fidel.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#7; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,7,stream=0x33000;block=0x680;text=7,"[""stream=0x33000;block=0x680;text=7""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","もちろん。もともと<R=FSLN,サンディニスタ>は、エル・チェやフィデルの思
+想に共鳴して結成されたんだから。
+","フィデル…フィデル・カストロか。キューバ革命を、ニカ
+ラグアでも実現させようってわけだな。
+","もともとはね。今はキューバのほうが、最初とは変わっち
+ゃったけど…エル・チェがいなくなって以来。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"菲德尔…菲德尔·卡斯特罗。所以你们
+是试图把古巴革命带到尼加拉瓜。","[""菲德尔…菲德尔·卡斯特罗。所以你们\n是试图把古巴革命带到尼加拉瓜。""]","Fidel... Fidel Castro. So you're trying to bring the
+Cuban Revolution to Nicaragua.
+","[""Fidel... Fidel Castro. So you're trying to bring the\nCuban Revolution to Nicaragua.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#8; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,8,stream=0x33000;block=0x680;text=8,"[""stream=0x33000;block=0x680;text=8""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","フィデル…フィデル・カストロか。キューバ革命を、ニカ
+ラグアでも実現させようってわけだな。
+","もともとはね。今はキューバのほうが、最初とは変わっち
+ゃったけど…エル・チェがいなくなって以来。
+","エル・チェは真の革命家よ。民衆のために戦い、民衆のた
+めに死んだ。自ら誰よりも働き、道徳を守った。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，曾经是。但古巴已经不是过去的
+古巴了…自从切离开后就不是了。","[""嗯，曾经是。但古巴已经不是过去的\n古巴了…自从切离开后就不是了。""]","Well, we were. But Cuba isn't what it once was...
+Not since El Che left.
+","[""Well, we were. But Cuba isn't what it once was...\nNot since El Che left.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#9; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,9,stream=0x33000;block=0x680;text=9,"[""stream=0x33000;block=0x680;text=9""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","もともとはね。今はキューバのほうが、最初とは変わっち
+ゃったけど…エル・チェがいなくなって以来。
+","エル・チェは真の革命家よ。民衆のために戦い、民衆のた
+めに死んだ。自ら誰よりも働き、道徳を守った。
+","キューバの大臣になってからも、休日返上で農作業や土木
+工事に出かけたのよ。それも、ボランティアで。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"切是一个真正的革命者。
+他为人民战斗，也为人民而死。","[""切是一个真正的革命者。\n他为人民战斗，也为人民而死。""]","El Che was a true revolutionary. He fought - and
+died - for the people.
+","[""El Che was a true revolutionary. He fought - and\ndied - for the people.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#10; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,10,stream=0x33000;block=0x680;text=10,"[""stream=0x33000;block=0x680;text=10""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","エル・チェは真の革命家よ。民衆のために戦い、民衆のた
+めに死んだ。自ら誰よりも働き、道徳を守った。
+","キューバの大臣になってからも、休日返上で農作業や土木
+工事に出かけたのよ。それも、ボランティアで。
+","その話は、俺も聞いたことがある。だがその潔癖さが、ゲ
+バラ自身を追い込んだとも言えないか？
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他比任何人都努力工作，而且
+他是一个正直的人。即使作为古巴的部长，他也放弃周末，
+去农场和公共工程劳动。","[""他比任何人都努力工作，而且\n他是一个正直的人。即使作为古巴的部长，他也放弃周末，\n去农场和公共工程劳动。""]","He worked harder than anybody, and he was a
+righteous man.
+Even as a minister of Cuba, he gave up his
+weekends to work on the farms and public works.
+","[""He worked harder than anybody, and he was a\nrighteous man.\nEven as a minister of Cuba, he gave up his\nweekends to work on the farms and public works.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x33680; ENG blocks=0xC4280,0xC4280; ENG source rows=0xC4280#11,0xC4280#12; block_semantic_score=0.130004."
+BRIEFING_FILES_BLOCK_033680,11,stream=0x33000;block=0x680;text=11,"[""stream=0x33000;block=0x680;text=11""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","キューバの大臣になってからも、休日返上で農作業や土木
+工事に出かけたのよ。それも、ボランティアで。
+","その話は、俺も聞いたことがある。だがその潔癖さが、ゲ
+バラ自身を追い込んだとも言えないか？
+","どういうこと？
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且是以志愿者的身份。是啊，我听说过这些故事。但你想想，不正是那种执着毁了他吗？,"[""而且是以志愿者的身份。是啊，我听说过这些故事。但你想想，不正是那种执着毁了他吗？""]","As a volunteer, no less.
+Yeah, I've heard the stories.
+But when you think about it, wasn't it that
+obsession that did him in?
+","[""As a volunteer, no less.\nYeah, I've heard the stories.\nBut when you think about it, wasn't it that\nobsession that did him in?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x33680; ENG blocks=0xC4280,0xC4280,0xC4280; ENG source rows=0xC4280#13,0xC4280#14,0xC4280#15; block_semantic_score=0.130004."
+BRIEFING_FILES_BLOCK_033680,12,stream=0x33000;block=0x680;text=12,"[""stream=0x33000;block=0x680;text=12""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","その話は、俺も聞いたことがある。だがその潔癖さが、ゲ
+バラ自身を追い込んだとも言えないか？
+","どういうこと？
+","誰もが彼のような超人じゃない。だが、彼はキューバで掲
+げた理想がボリビアでも通じると考えた。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么说？,"[""怎么说？""]","How do you mean?
+","[""How do you mean?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#16; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,13,stream=0x33000;block=0x680;text=13,"[""stream=0x33000;block=0x680;text=13""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","どういうこと？
+","誰もが彼のような超人じゃない。だが、彼はキューバで掲
+げた理想がボリビアでも通じると考えた。
+","その結果、人材も農民の支持も集められず、彼は命を落と
+した。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们不可能都是超人。
+他以为他在古巴应用的那些
+理想在玻利维亚也能行得通。","[""我们不可能都是超人。\n他以为他在古巴应用的那些\n理想在玻利维亚也能行得通。""]","We can't all be supermen. He thought the ideals he
+applied in Cuba would work in Bolivia.
+","[""We can't all be supermen. He thought the ideals he\napplied in Cuba would work in Bolivia.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#17; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,14,stream=0x33000;block=0x680;text=14,"[""stream=0x33000;block=0x680;text=14""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","誰もが彼のような超人じゃない。だが、彼はキューバで掲
+げた理想がボリビアでも通じると考えた。
+","その結果、人材も農民の支持も集められず、彼は命を落と
+した。
+","それは…そうかも知れない。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但是，他没能赢得拥护和农民的支持，
+这导致他丧了命。","[""但是，他没能赢得拥护和农民的支持，\n这导致他丧了命。""]","But, he failed to win converts and the support of
+the peasants, and it cost him his life.
+","[""But, he failed to win converts and the support of\nthe peasants, and it cost him his life.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#18; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,15,stream=0x33000;block=0x680;text=15,"[""stream=0x33000;block=0x680;text=15""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","その結果、人材も農民の支持も集められず、彼は命を落と
+した。
+","それは…そうかも知れない。
+","でも、少なくとも彼は農民から奪わなかった。どんなに苦
+しくとも。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,也许…也许你是对的。,"[""也许…也许你是对的。""]","Maybe... maybe you're right.
+","[""Maybe... maybe you're right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#19; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,16,stream=0x33000;block=0x680;text=16,"[""stream=0x33000;block=0x680;text=16""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","それは…そうかも知れない。
+","でも、少なくとも彼は農民から奪わなかった。どんなに苦
+しくとも。
+","それは同感だ。革命を謳いながら、野盗同然に民衆から略
+奪するゲリラ連中も多い中でな。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但至少他没有偷那些农民的东西，
+不管情况有多艰难。","[""但至少他没有偷那些农民的东西，\n不管情况有多艰难。""]","But at least he did not steal from those peasants,
+no matter how hard things got.
+","[""But at least he did not steal from those peasants,\nno matter how hard things got.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#20; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,17,stream=0x33000;block=0x680;text=17,"[""stream=0x33000;block=0x680;text=17""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","でも、少なくとも彼は農民から奪わなかった。どんなに苦
+しくとも。
+","それは同感だ。革命を謳いながら、野盗同然に民衆から略
+奪するゲリラ連中も多い中でな。
+","彼のような<R=リーダー,コマンダンテ>がいれば、<R=FSLN,サンディニスタ>の士気も上がるでし
+ょうね。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有很多游击队员会抢劫自己的
+人民来滋养他们的革命。","[""有很多游击队员会抢劫自己的\n人民来滋养他们的革命。""]","There's plenty of guerrillas out there who'd rob
+their own people to feed their revolutions.
+","[""There's plenty of guerrillas out there who'd rob\ntheir own people to feed their revolutions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#23; block_semantic_score=0.130004.
+BRIEFING_FILES_BLOCK_033680,18,stream=0x33000;block=0x680;text=18,"[""stream=0x33000;block=0x680;text=18""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x680;block_file=0x33680;text_base=0x336EC;capacity=2024""]","それは同感だ。革命を謳いながら、野盗同然に民衆から略
+奪するゲリラ連中も多い中でな。
+","彼のような<R=リーダー,コマンダンテ>がいれば、<R=FSLN,サンディニスタ>の士気も上がるでし
+ょうね。
+",,"[""<R=リーダー,コマンダンテ>"", ""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我们有像他那样的指挥官，
+桑地诺人就会找到战斗的意志。","[""如果我们有像他那样的指挥官，\n桑地诺人就会找到战斗的意志。""]","If we had a comandante like him, the Sandinistas
+would find the will to fight.
+","[""If we had a comandante like him, the Sandinistas\nwould find the will to fight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33680; ENG blocks=0xC4280; ENG source rows=0xC4280#24; block_semantic_score=0.130004.

@@ -1,0 +1,34 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01FF10,0,stream=0x1F000;block=0xF10;text=0,"[""stream=0x1F000;block=0xF10;text=0""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]",,"コマンド兵の中でもとくにショットガンを持った連中はや
+っかいだ。
+","奴らは多少被弾しても構わず突進してくる。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有一种突击兵你真的需要特别留神，那就是手持霰弹枪的那种。,"[""有一种突击兵你真的需要特别留神，那就是手持霰弹枪的那种。""]","There's one type of commando you really need to
+watch out for,
+and that's the kind toting shotguns.
+","[""There's one type of commando you really need to\nwatch out for,\nand that's the kind toting shotguns.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x1FF10; ENG blocks=0xB1000,0xB1000; ENG source rows=0xB1000#0,0xB1000#1; block_semantic_score=0.083414."
+BRIEFING_FILES_BLOCK_01FF10,1,stream=0x1F000;block=0xF10;text=1,"[""stream=0x1F000;block=0xF10;text=1""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]","コマンド兵の中でもとくにショットガンを持った連中はや
+っかいだ。
+","奴らは多少被弾しても構わず突進してくる。
+","ショットガンの射程内に入ったらこっちもただじゃ済まな
+い。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们能挨好几下，还继续向你冲来。,"[""他们能挨好几下，还继续向你冲来。""]","They can take a few hits and still keep charging
+you.
+","[""They can take a few hits and still keep charging\nyou.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1FF10; ENG blocks=0xB1000; ENG source rows=0xB1000#2; block_semantic_score=0.083414.
+BRIEFING_FILES_BLOCK_01FF10,2,stream=0x1F000;block=0xF10;text=2,"[""stream=0x1F000;block=0xF10;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]","奴らは多少被弾しても構わず突進してくる。
+","ショットガンの射程内に入ったらこっちもただじゃ済まな
+い。
+","奴らの突撃は、威力の高い武器で早めに制止する必要があ
+る。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"相信我，你绝不想让他们在
+霰弹枪射击的间隙靠近你。","[""相信我，你绝不想让他们在\n霰弹枪射击的间隙靠近你。""]","And believe me, you don't want them closing in
+between those shotgun blasts.
+","[""And believe me, you don't want them closing in\nbetween those shotgun blasts.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1FF10; ENG blocks=0xB1000; ENG source rows=0xB1000#3; block_semantic_score=0.083414.
+BRIEFING_FILES_BLOCK_01FF10,3,stream=0x1F000;block=0xF10;text=3,"[""stream=0x1F000;block=0xF10;text=3""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]","ショットガンの射程内に入ったらこっちもただじゃ済まな
+い。
+","奴らの突撃は、威力の高い武器で早めに制止する必要があ
+る。
+",,[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们开始冲过来时，
+你必须立刻阻止他们。用点制动力够强的家伙。","[""他们开始冲过来时，\n你必须立刻阻止他们。用点制动力够强的家伙。""]","When they start charging, you need to stop them
+immediately.
+Use something with serious stopping power.
+","[""When they start charging, you need to stop them\nimmediately.\nUse something with serious stopping power.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x1FF10; ENG blocks=0xB1000,0xB1000; ENG source rows=0xB1000#4,0xB1000#5; block_semantic_score=0.083414."

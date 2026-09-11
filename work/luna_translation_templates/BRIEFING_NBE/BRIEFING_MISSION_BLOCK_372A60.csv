@@ -1,0 +1,11 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_372A60,0,stream=0x372000;block=0xA60;text=0,"[""stream=0x372000;block=0xA60;text=0""]",1,d2130_m0140_mrd,"[""stream=0x372000;block=0xA60;block_file=0x372A60;text_base=0x372A88;capacity=260""]",,"スネーク、核弾頭を積んだトラックを追うんだ。
+まずは、収容施設のある村を北に抜けてくれ。
+","村を北に抜けるには、ゲートを破壊する必要がある。
+爆薬が必要だ。頼んだぞ、スネーク！
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_372A60,1,stream=0x372000;block=0xA60;text=1,"[""stream=0x372000;block=0xA60;text=1""]",1,d2130_m0140_mrd,"[""stream=0x372000;block=0xA60;block_file=0x372A60;text_base=0x372A88;capacity=260""]","スネーク、核弾頭を積んだトラックを追うんだ。
+まずは、収容施設のある村を北に抜けてくれ。
+","村を北に抜けるには、ゲートを破壊する必要がある。
+爆薬が必要だ。頼んだぞ、スネーク！
+",,[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

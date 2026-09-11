@@ -1,0 +1,117 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0150C0,0,stream=0x15000;block=0xC0;text=0,"[""stream=0x15000;block=0xC0;text=0""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]",,"CO-OPSの遂行にあたって、仲間との信頼関係は極めて重
+要だ。
+","当然だ。信用の置けない人間に背中を預ける気にはならん。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"建立与队友的信任是
+合作模式成功的关键。","[""建立与队友的信任是\n合作模式成功的关键。""]","Building trust with your teammates is essential to
+success in CO-OPS.
+","[""Building trust with your teammates is essential to\nsuccess in CO-OPS.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#0; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,1,stream=0x15000;block=0xC0;text=1,"[""stream=0x15000;block=0xC0;text=1""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","CO-OPSの遂行にあたって、仲間との信頼関係は極めて重
+要だ。
+","当然だ。信用の置けない人間に背中を預ける気にはならん。
+","その目安となるのが『友情度』だ。CO-OPS相手との絆の
+強さを示す、と思ってもらっていい。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这还用说吗。我可不会让一个我不信任的人掩护我。,"[""这还用说吗。我可不会让一个我不信任的人掩护我。""]","That goes without saying.
+I'm not gonna let somebody I can't trust cover my
+ass.
+","[""That goes without saying.\nI'm not gonna let somebody I can't trust cover my\nass.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x150C0; ENG blocks=0xA7DC0,0xA7DC0; ENG source rows=0xA7DC0#1,0xA7DC0#2; block_semantic_score=0.145025."
+BRIEFING_FILES_BLOCK_0150C0,2,stream=0x15000;block=0xC0;text=2,"[""stream=0x15000;block=0xC0;text=2""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","当然だ。信用の置けない人間に背中を預ける気にはならん。
+","その目安となるのが『友情度』だ。CO-OPS相手との絆の
+強さを示す、と思ってもらっていい。
+","仲間と友好的な行動をすればするほど、その仲間との友情
+度が上がる。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"衡量这种信任的指标
+就叫做“战友情谊”。你可以把它看成是你在合作模式
+中与队友之间纽带的强度指示。","[""衡量这种信任的指标\n就叫做“战友情谊”。你可以把它看成是你在合作模式\n中与队友之间纽带的强度指示。""]","The measure of that trust is called ""camaraderie.""
+Think of it as an indicator of how strong your bond
+is with your CO-OPS teammates.
+","[""The measure of that trust is called \""camaraderie.\""\nThink of it as an indicator of how strong your bond\nis with your CO-OPS teammates.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x150C0; ENG blocks=0xA7DC0,0xA7DC0; ENG source rows=0xA7DC0#3,0xA7DC0#4; block_semantic_score=0.145025."
+BRIEFING_FILES_BLOCK_0150C0,3,stream=0x15000;block=0xC0;text=3,"[""stream=0x15000;block=0xC0;text=3""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","その目安となるのが『友情度』だ。CO-OPS相手との絆の
+強さを示す、と思ってもらっていい。
+","仲間と友好的な行動をすればするほど、その仲間との友情
+度が上がる。
+","例えば。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你对他们越友善，战友情谊就越高。,"[""你对他们越友善，战友情谊就越高。""]","The friendlier you act toward them, the greater
+your camaraderie.
+","[""The friendlier you act toward them, the greater\nyour camaraderie.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#5; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,4,stream=0x15000;block=0xC0;text=4,"[""stream=0x15000;block=0xC0;text=4""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","仲間と友好的な行動をすればするほど、その仲間との友情
+度が上がる。
+","例えば。
+","離れて戦うよりCO-OPインしたほうが、友情度は上がる。
+瀕死の仲間を心臓マッサージで蘇生してやっても、絆は深
+まる。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,举个例子。,"[""举个例子。""]","Give me an example.
+","[""Give me an example.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#6; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,5,stream=0x15000;block=0xC0;text=5,"[""stream=0x15000;block=0xC0;text=5""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","例えば。
+","離れて戦うよりCO-OPインしたほうが、友情度は上がる。
+瀕死の仲間を心臓マッサージで蘇生してやっても、絆は深
+まる。
+","逆に<R=仲間を誤射,フレンドリーファイア>なんかして傷つけたりしたら、友情度は下
+がっちまうだろう。
+",[],,,NOT_CHECKED,164,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你“合作加入”，而不是单独行动，
+战友情谊会更高。用心肺复苏救队友一命也
+能加深你们之间的情谊。","[""如果你“合作加入”，而不是单独行动，\n战友情谊会更高。用心肺复苏救队友一命也\n能加深你们之间的情谊。""]","Your camaraderie will be higher if you're ""CO-OP In""
+than standing apart.
+Saving a teammate's life with CPR also strengthens
+your bonds with them.
+","[""Your camaraderie will be higher if you're \""CO-OP In\""\nthan standing apart.\nSaving a teammate's life with CPR also strengthens\nyour bonds with them.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x150C0; ENG blocks=0xA7DC0,0xA7DC0; ENG source rows=0xA7DC0#7,0xA7DC0#8; block_semantic_score=0.145025."
+BRIEFING_FILES_BLOCK_0150C0,6,stream=0x15000;block=0xC0;text=6,"[""stream=0x15000;block=0xC0;text=6""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","離れて戦うよりCO-OPインしたほうが、友情度は上がる。
+瀕死の仲間を心臓マッサージで蘇生してやっても、絆は深
+まる。
+","逆に<R=仲間を誤射,フレンドリーファイア>なんかして傷つけたりしたら、友情度は下
+がっちまうだろう。
+","そりゃそうだ。
+","[""<R=仲間を誤射,フレンドリーファイア>""]",,,NOT_CHECKED,142,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,至于像误伤队友之类的事，,"[""至于像误伤队友之类的事，""]","Things like hitting a teammate with friendly fire
+","[""Things like hitting a teammate with friendly fire\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#9; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,7,stream=0x15000;block=0xC0;text=7,"[""stream=0x15000;block=0xC0;text=7""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","逆に<R=仲間を誤射,フレンドリーファイア>なんかして傷つけたりしたら、友情度は下
+がっちまうだろう。
+","そりゃそうだ。
+","友情度は、次に同じ相手とCO-OPSを実行した時にも維持
+されている。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有道理。,"[""有道理。""]","Makes sense.
+","[""Makes sense.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#11; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,8,stream=0x15000;block=0xC0;text=8,"[""stream=0x15000;block=0xC0;text=8""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","そりゃそうだ。
+","友情度は、次に同じ相手とCO-OPSを実行した時にも維持
+されている。
+","ただ、その相手としばらくCO-OPSに参加しないまま、次
+々に新しい仲間とCO-OPSを実行していると、その相手と
+の友情度は最初の状態に戻ってしまう。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"下次你再跟同一个人合作加入时，
+一开始就能拥有很强的默契。","[""下次你再跟同一个人合作加入时，\n一开始就能拥有很强的默契。""]","The next time you go CO-OPS In with the same
+guy, you'll start off strong.
+","[""The next time you go CO-OPS In with the same\nguy, you'll start off strong.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#13; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,9,stream=0x15000;block=0xC0;text=9,"[""stream=0x15000;block=0xC0;text=9""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","友情度は、次に同じ相手とCO-OPSを実行した時にも維持
+されている。
+","ただ、その相手としばらくCO-OPSに参加しないまま、次
+々に新しい仲間とCO-OPSを実行していると、その相手と
+の友情度は最初の状態に戻ってしまう。
+","注意してくれ。
+",[],,,NOT_CHECKED,201,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过要小心。如果你总是
+带新人去执行任务，","[""不过要小心。如果你总是\n带新人去执行任务，""]","But be careful. If you keep taking new people with
+you on missions,
+","[""But be careful. If you keep taking new people with\nyou on missions,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#14; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,10,stream=0x15000;block=0xC0;text=10,"[""stream=0x15000;block=0xC0;text=10""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","ただ、その相手としばらくCO-OPSに参加しないまま、次
+々に新しい仲間とCO-OPSを実行していると、その相手と
+の友情度は最初の状態に戻ってしまう。
+","注意してくれ。
+","了解だ。その時は改めて旧交を温めるとしよう。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你与过往队友的战友情谊
+最终会恢复到初始水平。","[""你与过往队友的战友情谊\n最终会恢复到初始水平。""]","your camaraderie with past teammates eventually
+reverts back to its original level.
+","[""your camaraderie with past teammates eventually\nreverts back to its original level.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#15; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,11,stream=0x15000;block=0xC0;text=11,"[""stream=0x15000;block=0xC0;text=11""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","注意してくれ。
+","了解だ。その時は改めて旧交を温めるとしよう。
+","スネークシンクロ時の効果は、友情度に左右される。友情
+度が高いに越したことはない。そうだろう？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"明白了。我得时不时地
+维护一下老交情。","[""明白了。我得时不时地\n维护一下老交情。""]","Got it. I'll have to make sure to renew old
+friendships once in a while.
+","[""Got it. I'll have to make sure to renew old\nfriendships once in a while.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x150C0; ENG blocks=0xA7DC0; ENG source rows=0xA7DC0#16; block_semantic_score=0.145025.
+BRIEFING_FILES_BLOCK_0150C0,12,stream=0x15000;block=0xC0;text=12,"[""stream=0x15000;block=0xC0;text=12""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC0;block_file=0x150C0;text_base=0x15114;capacity=1264""]","了解だ。その時は改めて旧交を温めるとしよう。
+","スネークシンクロ時の効果は、友情度に左右される。友情
+度が高いに越したことはない。そうだろう？
+",,[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在合作模式中，
+通过Snake Sync获得的性能增益取决于你们的战友情谊。","[""在合作模式中，\n通过Snake Sync获得的性能增益取决于你们的战友情谊。""]","The performance benefits gained from Snake Sync
+in CO-OPS
+depend on your camaraderie.
+","[""The performance benefits gained from Snake Sync\nin CO-OPS\ndepend on your camaraderie.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x150C0; ENG blocks=0xA7DC0,0xA7DC0; ENG source rows=0xA7DC0#17,0xA7DC0#18; block_semantic_score=0.145025."

@@ -1,0 +1,42 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0122A0,0,stream=0x12000;block=0x2A0;text=0,"[""stream=0x12000;block=0x2A0;text=0""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]",,"兵士を眠らせるか気絶させればボディチェックでアイテム
+を奪うことができる。
+","倒れている兵士に近づき、アイコンが出たら<I=ACT>を押すんだ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你可以通过让士兵睡着或者击倒他们，再进行搜身，
+来偷走他们的物品。","[""你可以通过让士兵睡着或者击倒他们，再进行搜身，\n来偷走他们的物品。""]","You can steal items from soldiers by putting them
+to sleep
+or knocking them out and then doing a body check.
+","[""You can steal items from soldiers by putting them\nto sleep\nor knocking them out and then doing a body check.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x122A0; ENG blocks=0xA4F10,0xA4F10; ENG source rows=0xA4F10#0,0xA4F10#1; block_semantic_score=0.197584."
+BRIEFING_FILES_BLOCK_0122A0,1,stream=0x12000;block=0x2A0;text=1,"[""stream=0x12000;block=0x2A0;text=1""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","兵士を眠らせるか気絶させればボディチェックでアイテム
+を奪うことができる。
+","倒れている兵士に近づき、アイコンが出たら<I=ACT>を押すんだ。
+","あるいは背後から近づいてホールドアップさせた兵士や、
+瀕死の状態で倒れている兵士にも有効だ。
+","[""<I=ACT>""]",,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在看到图标时按下<I=ACT>。,"[""在看到图标时按下<I=ACT>。""]","and press <I=ACT> when you see the icon.
+","[""and press <I=ACT> when you see the icon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x122A0; ENG blocks=0xA4F10; ENG source rows=0xA4F10#3; block_semantic_score=0.197584.
+BRIEFING_FILES_BLOCK_0122A0,2,stream=0x12000;block=0x2A0;text=2,"[""stream=0x12000;block=0x2A0;text=2""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","倒れている兵士に近づき、アイコンが出たら<I=ACT>を押すんだ。
+","あるいは背後から近づいてホールドアップさせた兵士や、
+瀕死の状態で倒れている兵士にも有効だ。
+","と言っても、瀕死の兵士は時間が経つと死んでしまうから
+注意が必要だ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"或者你也可以从背后悄悄
+接近他们，进行挟持。士兵濒死时这招也管用。","[""或者你也可以从背后悄悄\n接近他们，进行挟持。士兵濒死时这招也管用。""]","Or you can sneak up on them from behind and do
+a hold-up.
+It also works if the soldier's near death.
+","[""Or you can sneak up on them from behind and do\na hold-up.\nIt also works if the soldier's near death.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x122A0; ENG blocks=0xA4F10,0xA4F10; ENG source rows=0xA4F10#4,0xA4F10#5; block_semantic_score=0.197584."
+BRIEFING_FILES_BLOCK_0122A0,3,stream=0x12000;block=0x2A0;text=3,"[""stream=0x12000;block=0x2A0;text=3""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","あるいは背後から近づいてホールドアップさせた兵士や、
+瀕死の状態で倒れている兵士にも有効だ。
+","と言っても、瀕死の兵士は時間が経つと死んでしまうから
+注意が必要だ。
+","それと、フルトン回収装置を手に持ったままボディチェッ
+クはできない。気をつけてくれ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,濒死的士兵就会变成一具尸体。,"[""濒死的士兵就会变成一具尸体。""]","you'll have a dead soldier instead of a dying one.
+","[""you'll have a dead soldier instead of a dying one.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x122A0; ENG blocks=0xA4F10; ENG source rows=0xA4F10#7; block_semantic_score=0.197584.
+BRIEFING_FILES_BLOCK_0122A0,4,stream=0x12000;block=0x2A0;text=4,"[""stream=0x12000;block=0x2A0;text=4""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","と言っても、瀕死の兵士は時間が経つと死んでしまうから
+注意が必要だ。
+","それと、フルトン回収装置を手に持ったままボディチェッ
+クはできない。気をつけてくれ。
+",,[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且如果你手里拿着富尔顿回收装置，
+也没法进行搜身。","[""而且如果你手里拿着富尔顿回收装置，\n也没法进行搜身。""]","And you can't do a body check if you're holding
+the Fulton recovery device, either.
+","[""And you can't do a body check if you're holding\nthe Fulton recovery device, either.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x122A0; ENG blocks=0xA4F10; ENG source rows=0xA4F10#8; block_semantic_score=0.197584.

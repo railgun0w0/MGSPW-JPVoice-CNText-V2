@@ -1,0 +1,32 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_384420,0,stream=0x384000;block=0x420;text=0,"[""stream=0x384000;block=0x420;text=0""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x420;block_file=0x384420;text_base=0x38444C;capacity=344""]",,"まさか、こんなことが…。
+突如マザーベースを襲撃したギアレックスが、
+甲板で大暴れしている。
+","ギアレックスの怒りに触れたのか…。
+これは、MSF史上最大の危機だ。
+",[],,,NOT_CHECKED,135,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"突然有只Gear REX跑到母基地上来了，
+正在甲板上闹得天翻地覆。","[""突然有只Gear REX跑到母基地上来了，\n正在甲板上闹得天翻地覆。""]","Suddenly we've got a Gear REX on board
+Mother Base and it's raising hell up on
+the deck.
+","[""Suddenly we've got a Gear REX on board\nMother Base and it's raising hell up on\nthe deck.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x384420; ENG blocks=0x3998B0; ENG source rows=0x3998B0#1; block_semantic_score=0.244754.
+BRIEFING_MISSION_BLOCK_384420,1,stream=0x384000;block=0x420;text=1,"[""stream=0x384000;block=0x420;text=1""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x420;block_file=0x384420;text_base=0x38444C;capacity=344""]","まさか、こんなことが…。
+突如マザーベースを襲撃したギアレックスが、
+甲板で大暴れしている。
+","ギアレックスの怒りに触れたのか…。
+これは、MSF史上最大の危機だ。
+","頼む。ギアレックスを<R=狩猟,ハント>し、俺達のアウターヘブン
+を救ってくれ！
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不知道我们做了什么把它惹毛了…
+但这是无国界之师（MSF）
+史上最大的危机。","[""我不知道我们做了什么把它惹毛了…\n但这是无国界之师（MSF）\n史上最大的危机。""]","I don't know what we did to piss it
+off...but this is the biggest crisis in MSF's
+history.
+","[""I don't know what we did to piss it\noff...but this is the biggest crisis in MSF's\nhistory.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x384420; ENG blocks=0x3998B0; ENG source rows=0x3998B0#2; block_semantic_score=0.244754.
+BRIEFING_MISSION_BLOCK_384420,2,stream=0x384000;block=0x420;text=2,"[""stream=0x384000;block=0x420;text=2""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x420;block_file=0x384420;text_base=0x38444C;capacity=344""]","ギアレックスの怒りに触れたのか…。
+これは、MSF史上最大の危機だ。
+","頼む。ギアレックスを<R=狩猟,ハント>し、俺達のアウターヘブン
+を救ってくれ！
+",,"[""<R=狩猟,ハント>""]",,,NOT_CHECKED,109,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们需要你去追捕它，
+拯救我们的世外天堂！","[""我们需要你去追捕它，\n拯救我们的世外天堂！""]","We need you to hunt it down and save
+our Outer Heaven!
+","[""We need you to hunt it down and save\nour Outer Heaven!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x384420; ENG blocks=0x3998B0; ENG source rows=0x3998B0#3; block_semantic_score=0.244754.

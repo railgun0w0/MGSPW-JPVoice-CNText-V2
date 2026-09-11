@@ -1,0 +1,104 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_044940,0,stream=0x44000;block=0x940;text=0,"[""stream=0x44000;block=0x940;text=0""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]",,"雲霧林には詳しいか？
+","詳しくはないけど…。ただ、同じ熱帯林とはいえ、熱帯雨
+林と霧に覆われた雲霧林ではまるで様子が違う。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你对云雾森林了解得多吗？,"[""你对云雾森林了解得多吗？""]","You know much about cloud forests?
+","[""You know much about cloud forests?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#1; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,1,stream=0x44000;block=0x940;text=1,"[""stream=0x44000;block=0x940;text=1""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","雲霧林には詳しいか？
+","詳しくはないけど…。ただ、同じ熱帯林とはいえ、熱帯雨
+林と霧に覆われた雲霧林ではまるで様子が違う。
+","共通点としては、そうだな…ヤドクガエルには気をつけて
+くれ。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"多雨的雨林和雾气弥漫的
+云雾林之间，差别可大了。","[""多雨的雨林和雾气弥漫的\n云雾林之间，差别可大了。""]","there's a world of difference between a rainy rain
+forest and a foggy cloud forest.
+","[""there's a world of difference between a rainy rain\nforest and a foggy cloud forest.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#3; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,2,stream=0x44000;block=0x940;text=2,"[""stream=0x44000;block=0x940;text=2""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","詳しくはないけど…。ただ、同じ熱帯林とはいえ、熱帯雨
+林と霧に覆われた雲霧林ではまるで様子が違う。
+","共通点としては、そうだな…ヤドクガエルには気をつけて
+くれ。
+","熱帯雨林も雲霧林も、湿度が高いのは一緒だからな。ヤド
+クガエルには最高の環境なんだ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但它们也有一些共同之处…,"[""但它们也有一些共同之处…""]","But they have some things in common...
+","[""But they have some things in common...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#4; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,3,stream=0x44000;block=0x940;text=3,"[""stream=0x44000;block=0x940;text=3""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","共通点としては、そうだな…ヤドクガエルには気をつけて
+くれ。
+","熱帯雨林も雲霧林も、湿度が高いのは一緒だからな。ヤド
+クガエルには最高の環境なんだ。
+","まあ、イチゴヤドクやアイゾメヤドクは触ったぐらいじゃ
+死なないけど、お腹が空いても食べないようにしてくれよ。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,雨林和云雾林湿度都很高，,"[""雨林和云雾林湿度都很高，""]","Both rain and cloud forests have high humidity,
+","[""Both rain and cloud forests have high humidity,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#6; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,4,stream=0x44000;block=0x940;text=4,"[""stream=0x44000;block=0x940;text=4""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","熱帯雨林も雲霧林も、湿度が高いのは一緒だからな。ヤド
+クガエルには最高の環境なんだ。
+","まあ、イチゴヤドクやアイゾメヤドクは触ったぐらいじゃ
+死なないけど、お腹が空いても食べないようにしてくれよ。
+","マザーベースで糧食は準備できる。今回はそこまで食料に
+困らないはずだ。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以对青蛙和其他两栖动物来说，
+是完美的环境。我的意思是，光摸一下
+草莓箭毒蛙，或者","[""所以对青蛙和其他两栖动物来说，\n是完美的环境。我的意思是，光摸一下\n草莓箭毒蛙，或者""]","so they're perfect environments for frogs and
+other amphibians.
+I mean, it's not like just touching a strawberry
+poison dart frog or
+","[""so they're perfect environments for frogs and\nother amphibians.\nI mean, it's not like just touching a strawberry\npoison dart frog or\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x44940; ENG blocks=0xD2620,0xD2620; ENG source rows=0xD2620#7,0xD2620#8; block_semantic_score=0.184971."
+BRIEFING_FILES_BLOCK_044940,5,stream=0x44000;block=0x940;text=5,"[""stream=0x44000;block=0x940;text=5""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","まあ、イチゴヤドクやアイゾメヤドクは触ったぐらいじゃ
+死なないけど、お腹が空いても食べないようにしてくれよ。
+","マザーベースで糧食は準備できる。今回はそこまで食料に
+困らないはずだ。
+","本当か？　野生動物を食べられなくて残念じゃないのか？
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我能从母基地拿到所有需要的口粮。这次我可不想吃什么丛林食物。,"[""我能从母基地拿到所有需要的口粮。这次我可不想吃什么丛林食物。""]","I can get all the rations I need from Mother Base.
+No jungle food for me this time.
+","[""I can get all the rations I need from Mother Base.\nNo jungle food for me this time.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x44940; ENG blocks=0xD2620,0xD2620; ENG source rows=0xD2620#11,0xD2620#12; block_semantic_score=0.184971."
+BRIEFING_FILES_BLOCK_044940,6,stream=0x44000;block=0x940;text=6,"[""stream=0x44000;block=0x940;text=6""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","マザーベースで糧食は準備できる。今回はそこまで食料に
+困らないはずだ。
+","本当か？　野生動物を食べられなくて残念じゃないのか？
+","チコ、俺をなんだと思っている？
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"真的吗？吃不到野生动物，
+你居然不失望？","[""真的吗？吃不到野生动物，\n你居然不失望？""]","Seriously? You're not disappointed you don't get to
+eat wild animals?
+","[""Seriously? You're not disappointed you don't get to\neat wild animals?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#13; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,7,stream=0x44000;block=0x940;text=7,"[""stream=0x44000;block=0x940;text=7""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","本当か？　野生動物を食べられなくて残念じゃないのか？
+","チコ、俺をなんだと思っている？
+","ははは、冗談だよ。コロンビアの方には触るだけでも危険
+なフキヤガエルがいるらしいけどな。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你把我当什么了？,"[""…你把我当什么了？""]","...What do you think I am?
+","[""...What do you think I am?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#14; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,8,stream=0x44000;block=0x940;text=8,"[""stream=0x44000;block=0x940;text=8""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","チコ、俺をなんだと思っている？
+","ははは、冗談だよ。コロンビアの方には触るだけでも危険
+なフキヤガエルがいるらしいけどな。
+","ずいぶんと詳しいな。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哈哈哈。开玩笑的。
+不过在哥伦比亚，有一种青蛙————金色箭毒蛙——碰一下就致命。","[""哈哈哈。开玩笑的。\n不过在哥伦比亚，有一种青蛙————金色箭毒蛙——碰一下就致命。""]","Ha ha ha. Just kidding. In Colombia, though, there's
+a frog
+- the golden dart frog - that's lethal to the touch.
+","[""Ha ha ha. Just kidding. In Colombia, though, there's\na frog\n- the golden dart frog - that's lethal to the touch.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x44940; ENG blocks=0xD2620,0xD2620; ENG source rows=0xD2620#15,0xD2620#16; block_semantic_score=0.184971."
+BRIEFING_FILES_BLOCK_044940,9,stream=0x44000;block=0x940;text=9,"[""stream=0x44000;block=0x940;text=9""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","ははは、冗談だよ。コロンビアの方には触るだけでも危険
+なフキヤガエルがいるらしいけどな。
+","ずいぶんと詳しいな。
+","まあな。毒のある生き物って、なんか格好いいだろ？
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你怎么知道这些的？,"[""你怎么知道这些的？""]","How do you know all this?
+","[""How do you know all this?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#17; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,10,stream=0x44000;block=0x940;text=10,"[""stream=0x44000;block=0x940;text=10""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","ずいぶんと詳しいな。
+","まあな。毒のある生き物って、なんか格好いいだろ？
+","毒に当たったら、格好いいじゃ済まないぞ？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别这样，你不觉得有毒的动物很酷吗？,"[""别这样，你不觉得有毒的动物很酷吗？""]","C'mon, don't you think poisonous animals are cool?
+","[""C'mon, don't you think poisonous animals are cool?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#18; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,11,stream=0x44000;block=0x940;text=11,"[""stream=0x44000;block=0x940;text=11""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","まあな。毒のある生き物って、なんか格好いいだろ？
+","毒に当たったら、格好いいじゃ済まないぞ？
+","わかってるって。あ、あと、森についたらビッグフットが
+いないか注意してくれよ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要是被它们毒到就不酷了。,"[""要是被它们毒到就不酷了。""]","Not if you get poisoned by one.
+","[""Not if you get poisoned by one.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#19; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,12,stream=0x44000;block=0x940;text=12,"[""stream=0x44000;block=0x940;text=12""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","毒に当たったら、格好いいじゃ済まないぞ？
+","わかってるって。あ、あと、森についたらビッグフットが
+いないか注意してくれよ。
+","それは注意する必要もなさそうだ…。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,到了森林以后，要留神大脚怪。,"[""到了森林以后，要留神大脚怪。""]","When you get to the forest, be on the lookout for
+Bigfoot.
+","[""When you get to the forest, be on the lookout for\nBigfoot.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#21; block_semantic_score=0.184971.
+BRIEFING_FILES_BLOCK_044940,13,stream=0x44000;block=0x940;text=13,"[""stream=0x44000;block=0x940;text=13""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x940;block_file=0x44940;text_base=0x44998;capacity=1260""]","わかってるって。あ、あと、森についたらビッグフットが
+いないか注意してくれよ。
+","それは注意する必要もなさそうだ…。
+",,[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我…觉得自己在那儿应该没事。,"[""我…觉得自己在那儿应该没事。""]","I... think I'll be OK there.
+","[""I... think I'll be OK there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44940; ENG blocks=0xD2620; ENG source rows=0xD2620#22; block_semantic_score=0.184971.

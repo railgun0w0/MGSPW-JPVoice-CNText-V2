@@ -1,0 +1,35 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_013100,0,stream=0x13000;block=0x100;text=0,"[""stream=0x13000;block=0x100;text=0""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x100;block_file=0x13100;text_base=0x13134;capacity=412""]",,"スニーキングスーツは、潜入ミッションに特化した服だ。
+どのステージでも、高いカムフラ率を保てる。
+","足音がしないってのもデカい。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"潜行服是专为潜入任务
+设计的特制制服。","[""潜行服是专为潜入任务\n设计的特制制服。""]","The sneaking suit is a specialized uniform for
+stealth missions.
+","[""The sneaking suit is a specialized uniform for\nstealth missions.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x13100; ENG blocks=0xA5E20; ENG source rows=0xA5E20#0; block_semantic_score=0.104409.
+BRIEFING_FILES_BLOCK_013100,1,stream=0x13000;block=0x100;text=1,"[""stream=0x13000;block=0x100;text=1""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x100;block_file=0x13100;text_base=0x13134;capacity=412""]","スニーキングスーツは、潜入ミッションに特化した服だ。
+どのステージでも、高いカムフラ率を保てる。
+","足音がしないってのもデカい。
+","抜き足差し足で歩く必要がないってわけか。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这样我就不用一直踮着脚尖了。,"[""这样我就不用一直踮着脚尖了。""]","So I won't need to tiptoe all the time.
+","[""So I won't need to tiptoe all the time.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x13100; ENG blocks=0xA5E20; ENG source rows=0xA5E20#3; block_semantic_score=0.104409.
+BRIEFING_FILES_BLOCK_013100,2,stream=0x13000;block=0x100;text=2,"[""stream=0x13000;block=0x100;text=2""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x100;block_file=0x13100;text_base=0x13134;capacity=412""]","足音がしないってのもデカい。
+","抜き足差し足で歩く必要がないってわけか。
+","傷を負った時の回復スピードも上がる。繊維が適度に体を
+圧迫して、止血効果があるらしい。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且，最厉害的是，
+它还能让伤口愈合得更快。","[""而且，最厉害的是，\n它还能让伤口愈合得更快。""]","And, to top it off, it also makes your wounds heal
+faster.
+","[""And, to top it off, it also makes your wounds heal\nfaster.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x13100; ENG blocks=0xA5E20; ENG source rows=0xA5E20#4; block_semantic_score=0.104409.
+BRIEFING_FILES_BLOCK_013100,3,stream=0x13000;block=0x100;text=3,"[""stream=0x13000;block=0x100;text=3""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x100;block_file=0x13100;text_base=0x13134;capacity=412""]","抜き足差し足で歩く必要がないってわけか。
+","傷を負った時の回復スピードも上がる。繊維が適度に体を
+圧迫して、止血効果があるらしい。
+","そいつはありがたい。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这种布料会对身体施加
+恰到好处的压力，有助止血。","[""这种布料会对身体施加\n恰到好处的压力，有助止血。""]","The fabric exerts just the right amount of
+pressure on your body to help stop bleeding.
+","[""The fabric exerts just the right amount of\npressure on your body to help stop bleeding.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x13100; ENG blocks=0xA5E20; ENG source rows=0xA5E20#5; block_semantic_score=0.104409.
+BRIEFING_FILES_BLOCK_013100,4,stream=0x13000;block=0x100;text=4,"[""stream=0x13000;block=0x100;text=4""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x100;block_file=0x13100;text_base=0x13134;capacity=412""]","傷を負った時の回復スピードも上がる。繊維が適度に体を
+圧迫して、止血効果があるらしい。
+","そいつはありがたい。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这招还挺不错。,"[""这招还挺不错。""]","Not a bad little trick.
+","[""Not a bad little trick.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x13100; ENG blocks=0xA5E20; ENG source rows=0xA5E20#6; block_semantic_score=0.104409.

@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_057BD0,0,stream=0x57000;block=0xBD0;text=0,"[""stream=0x57000;block=0xBD0;text=0""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xBD0;block_file=0x57BD0;text_base=0x57C08;capacity=496""]",,"<R=ZEKE,ジーク>用のAIは、ピースウォーカーのものとどう違う？
+","<R=ZEKE,ジーク>用は人の思考を移植したものではない。核報復を判
+断する機能は載せていない。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,ZEKE的AI和和平行者的有什么不同？,"[""ZEKE的AI和和平行者的有什么不同？""]","How's the ZEKE AI different from Peace Walker's?
+","[""How's the ZEKE AI different from Peace Walker's?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57BD0; ENG blocks=0xE5AC0; ENG source rows=0xE5AC0#0; block_semantic_score=0.193451.
+BRIEFING_FILES_BLOCK_057BD0,1,stream=0x57000;block=0xBD0;text=1,"[""stream=0x57000;block=0xBD0;text=1""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xBD0;block_file=0x57BD0;text_base=0x57C08;capacity=496""]","<R=ZEKE,ジーク>用のAIは、ピースウォーカーのものとどう違う？
+","<R=ZEKE,ジーク>用は人の思考を移植したものではない。核報復を判
+断する機能は載せていない。
+","その代わり、指揮官の命令に従って高度に自律的な戦闘行
+動を取る。歩兵を守り、敵を殲滅しつつ、もし指令が降り
+れば…。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"ZEKE的AI并不是人类
+思维过程的复制品。","[""ZEKE的AI并不是人类\n思维过程的复制品。""]","ZEKE's AI isn't a replica of the human thought
+process.
+","[""ZEKE's AI isn't a replica of the human thought\nprocess.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57BD0; ENG blocks=0xE5AC0; ENG source rows=0xE5AC0#1; block_semantic_score=0.193451.
+BRIEFING_FILES_BLOCK_057BD0,2,stream=0x57000;block=0xBD0;text=2,"[""stream=0x57000;block=0xBD0;text=2""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xBD0;block_file=0x57BD0;text_base=0x57C08;capacity=496""]","<R=ZEKE,ジーク>用は人の思考を移植したものではない。核報復を判
+断する機能は載せていない。
+","その代わり、指揮官の命令に従って高度に自律的な戦闘行
+動を取る。歩兵を守り、敵を殲滅しつつ、もし指令が降り
+れば…。
+","核を撃つ。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另一方面，它在战斗中
+能够高度独立地行动，在接受驾驶员下达的命令时。它能保护步兵、
+消灭敌人，而且，如果接到命令…","[""另一方面，它在战斗中\n能够高度独立地行动，在接受驾驶员下达的命令时。它能保护步兵、\n消灭敌人，而且，如果接到命令…""]","On the other hand, it is capable of highly
+independent action in combat
+when given orders from a pilot.
+It can protect infantry, destroy the enemy, and, if
+ordered...
+","[""On the other hand, it is capable of highly\nindependent action in combat\nwhen given orders from a pilot.\nIt can protect infantry, destroy the enemy, and, if\nordered...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x57BD0; ENG blocks=0xE5AC0,0xE5AC0,0xE5AC0; ENG source rows=0xE5AC0#3,0xE5AC0#4,0xE5AC0#5; block_semantic_score=0.193451."
+BRIEFING_FILES_BLOCK_057BD0,3,stream=0x57000;block=0xBD0;text=3,"[""stream=0x57000;block=0xBD0;text=3""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xBD0;block_file=0x57BD0;text_base=0x57C08;capacity=496""]","その代わり、指揮官の命令に従って高度に自律的な戦闘行
+動を取る。歩兵を守り、敵を殲滅しつつ、もし指令が降り
+れば…。
+","核を撃つ。
+","そんな機会が来ないことを祈ってる。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,发射核弹。,"[""发射核弹。""]","Launch a nuke.
+","[""Launch a nuke.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57BD0; ENG blocks=0xE5AC0; ENG source rows=0xE5AC0#6; block_semantic_score=0.193451.
+BRIEFING_FILES_BLOCK_057BD0,4,stream=0x57000;block=0xBD0;text=4,"[""stream=0x57000;block=0xBD0;text=4""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xBD0;block_file=0x57BD0;text_base=0x57C08;capacity=496""]","核を撃つ。
+","そんな機会が来ないことを祈ってる。
+","ああ。それは俺も同じだ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但愿永远不会走到那一步。,"[""但愿永远不会走到那一步。""]","Let us hope it never comes to that.
+","[""Let us hope it never comes to that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57BD0; ENG blocks=0xE5AC0; ENG source rows=0xE5AC0#7; block_semantic_score=0.193451.
+BRIEFING_FILES_BLOCK_057BD0,5,stream=0x57000;block=0xBD0;text=5,"[""stream=0x57000;block=0xBD0;text=5""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xBD0;block_file=0x57BD0;text_base=0x57C08;capacity=496""]","そんな機会が来ないことを祈ってる。
+","ああ。それは俺も同じだ。
+",,[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这正是我的想法。,"[""这正是我的想法。""]","My sentiments exactly.
+","[""My sentiments exactly.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x57BD0; ENG blocks=0xE5AC0; ENG source rows=0xE5AC0#8; block_semantic_score=0.193451.

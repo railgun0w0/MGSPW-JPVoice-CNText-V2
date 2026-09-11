@@ -1,0 +1,106 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_016490,0,stream=0x16000;block=0x490;text=0,"[""stream=0x16000;block=0x490;text=0""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]",,"CO-OPS中は、仲間との綿密な意思疎通が重要になる。
+","無論だ。戦場での連絡途絶は、部隊の壊滅に直結する。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在合作模式中，
+与队友保持紧密通讯至关重要。","[""在合作模式中，\n与队友保持紧密通讯至关重要。""]","In CO-OPS, maintaining close communications with
+your teammates is crucial.
+","[""In CO-OPS, maintaining close communications with\nyour teammates is crucial.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#0; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,1,stream=0x16000;block=0x490;text=1,"[""stream=0x16000;block=0x490;text=1""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","CO-OPS中は、仲間との綿密な意思疎通が重要になる。
+","無論だ。戦場での連絡途絶は、部隊の壊滅に直結する。
+","敵の位置。各種指示。救援要請。連絡を取り合わなければ、
+各個撃破されてしまう。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。在战场上失去彼此的联系，很容易让小队全军覆没。,"[""没错。在战场上失去彼此的联系，很容易让小队全军覆没。""]","Absolutely. Losing track of each other on the
+battlefield is a good way
+for a unit to get itself wiped out.
+","[""Absolutely. Losing track of each other on the\nbattlefield is a good way\nfor a unit to get itself wiped out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x16490; ENG blocks=0xA9240,0xA9240; ENG source rows=0xA9240#1,0xA9240#2; block_semantic_score=0.173568."
+BRIEFING_FILES_BLOCK_016490,2,stream=0x16000;block=0x490;text=2,"[""stream=0x16000;block=0x490;text=2""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","無論だ。戦場での連絡途絶は、部隊の壊滅に直結する。
+","敵の位置。各種指示。救援要請。連絡を取り合わなければ、
+各個撃破されてしまう。
+","そこでCO-OPS通信だ。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,敌方位置、命令、求救信号。,"[""敌方位置、命令、求救信号。""]","Enemy positions. Orders. Distress calls.
+","[""Enemy positions. Orders. Distress calls.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#3; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,3,stream=0x16000;block=0x490;text=3,"[""stream=0x16000;block=0x490;text=3""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","敵の位置。各種指示。救援要請。連絡を取り合わなければ、
+各個撃破されてしまう。
+","そこでCO-OPS通信だ。
+","CO-OPS通信…。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在，谈谈合作模式通讯。,"[""现在，谈谈合作模式通讯。""]","Now, about CO-OPS Comms.
+","[""Now, about CO-OPS Comms.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#5; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,4,stream=0x16000;block=0x490;text=4,"[""stream=0x16000;block=0x490;text=4""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","そこでCO-OPS通信だ。
+","CO-OPS通信…。
+","CO-OPS中の仲間同士でやり取りするための無線だ。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,合作模式通讯…,"[""合作模式通讯…""]","CO-OPS Comms…
+","[""CO-OPS Comms…\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#6; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,5,stream=0x16000;block=0x490;text=5,"[""stream=0x16000;block=0x490;text=5""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","CO-OPS通信…。
+","CO-OPS中の仲間同士でやり取りするための無線だ。
+","まずはメニューウィンドウを開き、『CO-OPS通信』を選
+んでくれ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是用于与合作模式队友
+联络的无线电系统。","[""是用于与合作模式队友\n联络的无线电系统。""]","It's a radio system for communicating with CO-OPS
+teammates.
+","[""It's a radio system for communicating with CO-OPS\nteammates.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#7; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,6,stream=0x16000;block=0x490;text=6,"[""stream=0x16000;block=0x490;text=6""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","CO-OPS中の仲間同士でやり取りするための無線だ。
+","まずはメニューウィンドウを開き、『CO-OPS通信』を選
+んでくれ。
+","その後、最初に押すボタンでカテゴリを、次に押すボタン
+で実際の言葉を選ぶ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"先打开菜单，
+然后选择“合作模式通讯”。","[""先打开菜单，\n然后选择“合作模式通讯”。""]","First open the menu, then select ""CO-OPS Comms.""
+","[""First open the menu, then select \""CO-OPS Comms.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#8; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,7,stream=0x16000;block=0x490;text=7,"[""stream=0x16000;block=0x490;text=7""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","まずはメニューウィンドウを開き、『CO-OPS通信』を選
+んでくれ。
+","その後、最初に押すボタンでカテゴリを、次に押すボタン
+で実際の言葉を選ぶ。
+","要するに二つのボタンの組み合わせで、何を喋るかが決ま
+るってわけだ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,然后，按一个键选择类别，再按另一个键选择具体的信息。,"[""然后，按一个键选择类别，再按另一个键选择具体的信息。""]","After that, press one button to choose a category,
+then another button to select the actual message.
+","[""After that, press one button to choose a category,\nthen another button to select the actual message.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x16490; ENG blocks=0xA9240,0xA9240; ENG source rows=0xA9240#9,0xA9240#10; block_semantic_score=0.173568."
+BRIEFING_FILES_BLOCK_016490,8,stream=0x16000;block=0x490;text=8,"[""stream=0x16000;block=0x490;text=8""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","その後、最初に押すボタンでカテゴリを、次に押すボタン
+で実際の言葉を選ぶ。
+","要するに二つのボタンの組み合わせで、何を喋るかが決ま
+るってわけだ。
+","ほほう。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以基本上就是用两个键的不同组合,"[""所以基本上就是用两个键的不同组合""]","So basically you use different combinations of two
+buttons
+","[""So basically you use different combinations of two\nbuttons\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#11; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,9,stream=0x16000;block=0x490;text=9,"[""stream=0x16000;block=0x490;text=9""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","要するに二つのボタンの組み合わせで、何を喋るかが決ま
+るってわけだ。
+","ほほう。
+","どのボタンに何の言葉を割り当てるかは、出撃準備中に設
+定できる。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,很简单。,"[""很简单。""]","Easy enough.
+","[""Easy enough.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#13; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,10,stream=0x16000;block=0x490;text=10,"[""stream=0x16000;block=0x490;text=10""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","ほほう。
+","どのボタンに何の言葉を割り当てるかは、出撃準備中に設
+定できる。
+","慣れない内は、無線を送るまでに時間がかかりそうだ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你可以在任务准备时设置
+哪个按键对应哪条信息。","[""你可以在任务准备时设置\n哪个按键对应哪条信息。""]","You can set which messages go with which
+buttons during mission prep.
+","[""You can set which messages go with which\nbuttons during mission prep.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#14; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,11,stream=0x16000;block=0x490;text=11,"[""stream=0x16000;block=0x490;text=11""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","どのボタンに何の言葉を割り当てるかは、出撃準備中に設
+定できる。
+","慣れない内は、無線を送るまでに時間がかかりそうだ。
+","そんな時は、好みのボタンにCO-OPS通信を割り当ててみ
+てくれ。送信の手間が減るはずだ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听起来在我习惯之前发信息会很麻烦。,"[""听起来在我习惯之前发信息会很麻烦。""]","Sounds like it's going to be a pain to send
+messages until I get used to it.
+","[""Sounds like it's going to be a pain to send\nmessages until I get used to it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#15; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,12,stream=0x16000;block=0x490;text=12,"[""stream=0x16000;block=0x490;text=12""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","慣れない内は、無線を送るまでに時間がかかりそうだ。
+","そんな時は、好みのボタンにCO-OPS通信を割り当ててみ
+てくれ。送信の手間が減るはずだ。
+","『KEY CONFIG』で設定すればいい。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那你为什么不把合作模式
+通讯设置到自己顺手的按键上呢？","[""那你为什么不把合作模式\n通讯设置到自己顺手的按键上呢？""]","Then why don't you assign CO-OPS Comms to
+whatever button you like?
+","[""Then why don't you assign CO-OPS Comms to\nwhatever button you like?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#16; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,13,stream=0x16000;block=0x490;text=13,"[""stream=0x16000;block=0x490;text=13""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","そんな時は、好みのボタンにCO-OPS通信を割り当ててみ
+てくれ。送信の手間が減るはずだ。
+","『KEY CONFIG』で設定すればいい。
+","やってみよう。
+",[],,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,去“Key Config”里设置一下就行。,"[""去“Key Config”里设置一下就行。""]","Just go to ""Key Config"".
+","[""Just go to \""Key Config\"".\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#18; block_semantic_score=0.173568.
+BRIEFING_FILES_BLOCK_016490,14,stream=0x16000;block=0x490;text=14,"[""stream=0x16000;block=0x490;text=14""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x490;block_file=0x16490;text_base=0x164EC;capacity=1064""]","『KEY CONFIG』で設定すればいい。
+","やってみよう。
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我试试。,"[""我试试。""]","I'll give it a try.
+","[""I'll give it a try.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x16490; ENG blocks=0xA9240; ENG source rows=0xA9240#19; block_semantic_score=0.173568.

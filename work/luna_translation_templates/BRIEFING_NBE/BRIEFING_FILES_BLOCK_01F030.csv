@@ -1,0 +1,25 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01F030,0,stream=0x1F000;block=0x30;text=0,"[""stream=0x1F000;block=0x30;text=0""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]",,"ボスの装備がどこに隠されているかは不明だ。
+","もしかしたら敵兵士が持っている可能性もある。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Boss，我们还不清楚你的
+装备被存放在哪里。","[""Boss，我们还不清楚你的\n装备被存放在哪里。""]","Boss, we're not sure where your gear is being
+stored.
+","[""Boss, we're not sure where your gear is being\nstored.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1F030; ENG blocks=0xB0290; ENG source rows=0xB0290#0; block_semantic_score=0.053836.
+BRIEFING_FILES_BLOCK_01F030,1,stream=0x1F000;block=0x30;text=1,"[""stream=0x1F000;block=0x30;text=1""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","ボスの装備がどこに隠されているかは不明だ。
+","もしかしたら敵兵士が持っている可能性もある。
+","ホールドアップや、無力化後のボディチェックも活用して
+みるといい。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01F030,2,stream=0x1F000;block=0x30;text=2,"[""stream=0x1F000;block=0x30;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","もしかしたら敵兵士が持っている可能性もある。
+","ホールドアップや、無力化後のボディチェックも活用して
+みるといい。
+","ボディチェックには、倒れている兵士の近くで<I=ACT>だ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01F030,3,stream=0x1F000;block=0x30;text=3,"[""stream=0x1F000;block=0x30;text=3""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","ホールドアップや、無力化後のボディチェックも活用して
+みるといい。
+","ボディチェックには、倒れている兵士の近くで<I=ACT>だ。
+","できないときはアイコンが出るまで十分に近づいてくれ。
+","[""<I=ACT>""]",,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01F030,4,stream=0x1F000;block=0x30;text=4,"[""stream=0x1F000;block=0x30;text=4""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","ボディチェックには、倒れている兵士の近くで<I=ACT>だ。
+","できないときはアイコンが出るまで十分に近づいてくれ。
+",,[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

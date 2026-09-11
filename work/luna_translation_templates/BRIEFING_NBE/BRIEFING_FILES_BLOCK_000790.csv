@@ -1,0 +1,41 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_000790,0,stream=0x0;block=0x790;text=0,"[""stream=0x0;block=0x790;text=0""]",1,BRIEFING FILES,"[""stream=0x0;block=0x790;block_file=0x790;text_base=0x7C4;capacity=500""]",,"新型のプラントは<R=六角,ヘックス>タイプだ。今までのものより面積も
+広いし、増築も計画的に行える。派手に拡大出来るぞ。
+","<R=六角,ヘックス>か。<R=蜂の巣,ハニカム>みたいだな。
+","[""<R=六角,ヘックス>""]",,,NOT_CHECKED,172,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"新平台是六边形结构的，
+这让它比以前的结构有更大的表面积，","[""新平台是六边形结构的，\n这让它比以前的结构有更大的表面积，""]","The new plant is a hex type. That gives it more
+surface area than previous types
+","[""The new plant is a hex type. That gives it more\nsurface area than previous types\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x790; ENG blocks=0x94D00; ENG source rows=0x94D00#0; block_semantic_score=0.185934.
+BRIEFING_FILES_BLOCK_000790,1,stream=0x0;block=0x790;text=1,"[""stream=0x0;block=0x790;text=1""]",1,BRIEFING FILES,"[""stream=0x0;block=0x790;block_file=0x790;text_base=0x7C4;capacity=500""]","新型のプラントは<R=六角,ヘックス>タイプだ。今までのものより面積も
+広いし、増築も計画的に行える。派手に拡大出来るぞ。
+","<R=六角,ヘックス>か。<R=蜂の巣,ハニカム>みたいだな。
+","<R=蜂の巣,ハニカム>、結構じゃないか。ハニカム構造は強度が高いって
+言うぞ。戦車の装甲にも採用が検討されていると聞く。
+","[""<R=六角,ヘックス>"", ""<R=蜂の巣,ハニカム>""]",,,NOT_CHECKED,74,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且也更容易规划扩建。
+我们要把这地方做大做强。六边形啊，像蜂巢一样。","[""而且也更容易规划扩建。\n我们要把这地方做大做强。六边形啊，像蜂巢一样。""]","and also makes it easier to plan expansions. We're
+gonna make this place huge.
+Hex, huh. Like a beehive.
+","[""and also makes it easier to plan expansions. We're\ngonna make this place huge.\nHex, huh. Like a beehive.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x790; ENG blocks=0x94D00,0x94D00; ENG source rows=0x94D00#1,0x94D00#2; block_semantic_score=0.185934."
+BRIEFING_FILES_BLOCK_000790,2,stream=0x0;block=0x790;text=2,"[""stream=0x0;block=0x790;text=2""]",1,BRIEFING FILES,"[""stream=0x0;block=0x790;block_file=0x790;text_base=0x7C4;capacity=500""]","<R=六角,ヘックス>か。<R=蜂の巣,ハニカム>みたいだな。
+","<R=蜂の巣,ハニカム>、結構じゃないか。ハニカム構造は強度が高いって
+言うぞ。戦車の装甲にも採用が検討されていると聞く。
+","了解だ。せっせと蜜を運ぶとしよう。
+","[""<R=蜂の巣,ハニカム>""]",,,NOT_CHECKED,172,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这没什么不好。据说蜂巢
+结构是最坚固的设计之一。我听说他们甚至在考虑
+把它用在坦克装甲上。","[""这没什么不好。据说蜂巢\n结构是最坚固的设计之一。我听说他们甚至在考虑\n把它用在坦克装甲上。""]","Nothing wrong with that. They say the honeycomb
+design is one of the strongest.
+I hear they're even thinking of using it in tank
+armor.
+","[""Nothing wrong with that. They say the honeycomb\ndesign is one of the strongest.\nI hear they're even thinking of using it in tank\narmor.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x790; ENG blocks=0x94D00,0x94D00; ENG source rows=0x94D00#3,0x94D00#4; block_semantic_score=0.185934."
+BRIEFING_FILES_BLOCK_000790,3,stream=0x0;block=0x790;text=3,"[""stream=0x0;block=0x790;text=3""]",1,BRIEFING FILES,"[""stream=0x0;block=0x790;block_file=0x790;text_base=0x7C4;capacity=500""]","<R=蜂の巣,ハニカム>、結構じゃないか。ハニカム構造は強度が高いって
+言うぞ。戦車の装甲にも採用が検討されていると聞く。
+","了解だ。せっせと蜜を運ぶとしよう。
+","頼んだぞ、ボス。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这样就够了。我去想办法
+给我们找些""工蜂""来。","[""这样就够了。我去想办法\n给我们找些\""工蜂\""来。""]","Good enough for me. I'll see about finding us some
+worker bees.
+","[""Good enough for me. I'll see about finding us some\nworker bees.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x790; ENG blocks=0x94D00; ENG source rows=0x94D00#5; block_semantic_score=0.185934.
+BRIEFING_FILES_BLOCK_000790,4,stream=0x0;block=0x790;text=4,"[""stream=0x0;block=0x790;text=4""]",1,BRIEFING FILES,"[""stream=0x0;block=0x790;block_file=0x790;text_base=0x7C4;capacity=500""]","了解だ。せっせと蜜を運ぶとしよう。
+","頼んだぞ、ボス。
+",,[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谢了，Boss。,"[""谢了，Boss。""]","Appreciate it, Boss.
+","[""Appreciate it, Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x790; ENG blocks=0x94D00; ENG source rows=0x94D00#6; block_semantic_score=0.185934.

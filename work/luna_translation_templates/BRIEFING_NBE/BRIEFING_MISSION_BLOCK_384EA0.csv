@@ -1,0 +1,20 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_384EA0,0,stream=0x384000;block=0xEA0;text=0,"[""stream=0x384000;block=0xEA0;text=0""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0xEA0;block_file=0x384EA0;text_base=0x384EC8;capacity=252""]",,"射撃訓練を開始する。
+今日は特別に、射撃訓練場の<R=標的,ターゲット>を自由に、
+無制限に撃つことを許可する。
+","訓練を終了したい場合は、出口に行けばいい。
+思う存分撃ってこい。
+","[""<R=標的,ターゲット>""]",,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"开始射击训练。作为特别福利，今天你可以自由使用
+射击场里的任意靶子进行练习。","[""开始射击训练。作为特别福利，今天你可以自由使用\n射击场里的任意靶子进行练习。""]","Commence target practice.
+As a special treat, you can practice freely
+on any of the targets in the shooting
+range today.
+","[""Commence target practice.\nAs a special treat, you can practice freely\non any of the targets in the shooting\nrange today.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x384EA0; ENG blocks=0x39A240,0x39A240; ENG source rows=0x39A240#0,0x39A240#1; block_semantic_score=0.296301."
+BRIEFING_MISSION_BLOCK_384EA0,1,stream=0x384000;block=0xEA0;text=1,"[""stream=0x384000;block=0xEA0;text=1""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0xEA0;block_file=0x384EA0;text_base=0x384EC8;capacity=252""]","射撃訓練を開始する。
+今日は特別に、射撃訓練場の<R=標的,ターゲット>を自由に、
+無制限に撃つことを許可する。
+","訓練を終了したい場合は、出口に行けばいい。
+思う存分撃ってこい。
+",,[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,尽情射击吧！结束后前往出口。,"[""尽情射击吧！结束后前往出口。""]","Shoot away! When you're done, head
+over to the exit.
+","[""Shoot away! When you're done, head\nover to the exit.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x384EA0; ENG blocks=0x39A240; ENG source rows=0x39A240#2; block_semantic_score=0.296301.

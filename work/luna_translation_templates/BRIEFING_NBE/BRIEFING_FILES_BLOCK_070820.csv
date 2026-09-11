@@ -1,0 +1,55 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_070820,0,stream=0x70000;block=0x820;text=0,"[""stream=0x70000;block=0x820;text=0""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x820;block_file=0x70820;text_base=0x7085C;capacity=604""]",,"“ママル”は「哺乳類」のことだ。<R=哺乳類,ママル>になってから発
+達した脳は、高度な精神活動を担当している。
+","例えば？
+","[""<R=哺乳類,ママル>""]",,,NOT_CHECKED,157,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们变成哺乳动物后
+发展出的那部分大脑，","[""我们变成哺乳动物后\n发展出的那部分大脑，""]","The part of our brain that developed after we
+became mammals
+","[""The part of our brain that developed after we\nbecame mammals\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70820; ENG blocks=0xFCC90; ENG source rows=0xFCC90#0; block_semantic_score=0.235555.
+BRIEFING_FILES_BLOCK_070820,1,stream=0x70000;block=0x820;text=1,"[""stream=0x70000;block=0x820;text=1""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x820;block_file=0x70820;text_base=0x7085C;capacity=604""]","“ママル”は「哺乳類」のことだ。<R=哺乳類,ママル>になってから発
+達した脳は、高度な精神活動を担当している。
+","例えば？
+","知能・判断…それに、愛情も。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,比如？,"[""比如？""]","Such as?
+","[""Such as?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70820; ENG blocks=0xFCC90; ENG source rows=0xFCC90#2; block_semantic_score=0.235555.
+BRIEFING_FILES_BLOCK_070820,2,stream=0x70000;block=0x820;text=2,"[""stream=0x70000;block=0x820;text=2""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x820;block_file=0x70820;text_base=0x7085C;capacity=604""]","例えば？
+","知能・判断…それに、愛情も。
+","なるほど、高度極まりない。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,比如智力、判断力…甚至爱。,"[""比如智力、判断力…甚至爱。""]","Such as intelligence, judgment... even love.
+","[""Such as intelligence, judgment... even love.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70820; ENG blocks=0xFCC90; ENG source rows=0xFCC90#3; block_semantic_score=0.235555.
+BRIEFING_FILES_BLOCK_070820,3,stream=0x70000;block=0x820;text=3,"[""stream=0x70000;block=0x820;text=3""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x820;block_file=0x70820;text_base=0x7085C;capacity=604""]","知能・判断…それに、愛情も。
+","なるほど、高度極まりない。
+","場所で言うと、<R=爬虫類,レプタイル>脳の外側にある部分だ。大脳皮質も
+ここに含まれる。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那确实是高级功能。,"[""那确实是高级功能。""]","That's high-level, all right.
+","[""That's high-level, all right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70820; ENG blocks=0xFCC90; ENG source rows=0xFCC90#4; block_semantic_score=0.235555.
+BRIEFING_FILES_BLOCK_070820,4,stream=0x70000;block=0x820;text=4,"[""stream=0x70000;block=0x820;text=4""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x820;block_file=0x70820;text_base=0x7085C;capacity=604""]","なるほど、高度極まりない。
+","場所で言うと、<R=爬虫類,レプタイル>脳の外側にある部分だ。大脳皮質も
+ここに含まれる。
+","自分のポッドに“ママル”と名付けたのは、ストレンジラ
+ブの意気込みなんじゃないかな。
+","[""<R=爬虫類,レプタイル>""]",,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从位置来说，哺乳类脑
+在爬虫类脑的外侧。大脑皮层就是其中的一部分。","[""从位置来说，哺乳类脑\n在爬虫类脑的外侧。大脑皮层就是其中的一部分。""]","Location-wise, the mammal brain is on the outside
+of the reptile brain.
+The cerebral cortex is part of it.
+","[""Location-wise, the mammal brain is on the outside\nof the reptile brain.\nThe cerebral cortex is part of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x70820; ENG blocks=0xFCC90,0xFCC90; ENG source rows=0xFCC90#5,0xFCC90#6; block_semantic_score=0.235555."
+BRIEFING_FILES_BLOCK_070820,5,stream=0x70000;block=0x820;text=5,"[""stream=0x70000;block=0x820;text=5""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x820;block_file=0x70820;text_base=0x7085C;capacity=604""]","場所で言うと、<R=爬虫類,レプタイル>脳の外側にある部分だ。大脳皮質も
+ここに含まれる。
+","自分のポッドに“ママル”と名付けたのは、ストレンジラ
+ブの意気込みなんじゃないかな。
+","単なる高機能のAIじゃなく、そこに精神を宿らせたい、っ
+て言うね。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Strangelove博士把自己的单元命名为
+‘哺乳类’，我觉得这很能说明问题。","[""Strangelove博士把自己的单元命名为\n‘哺乳类’，我觉得这很能说明问题。""]","I think it's very telling that Dr. Strangelove named
+her pod ""Mammal.""
+","[""I think it's very telling that Dr. Strangelove named\nher pod \""Mammal.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70820; ENG blocks=0xFCC90; ENG source rows=0xFCC90#7; block_semantic_score=0.235555.
+BRIEFING_FILES_BLOCK_070820,6,stream=0x70000;block=0x820;text=6,"[""stream=0x70000;block=0x820;text=6""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x820;block_file=0x70820;text_base=0x7085C;capacity=604""]","自分のポッドに“ママル”と名付けたのは、ストレンジラ
+ブの意気込みなんじゃないかな。
+","単なる高機能のAIじゃなく、そこに精神を宿らせたい、っ
+て言うね。
+",,[],,,NOT_CHECKED,94,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就好像她想让它不只是台高级AI，她真正想要的，
+是让它拥有自己的意志。","[""就好像她想让它不只是台高级AI，她真正想要的，\n是让它拥有自己的意志。""]","It's almost like she wants it to be more than just
+an advanced AI
+- what she really wants is for it to have a mind of
+its own.
+","[""It's almost like she wants it to be more than just\nan advanced AI\n- what she really wants is for it to have a mind of\nits own.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x70820; ENG blocks=0xFCC90,0xFCC90; ENG source rows=0xFCC90#8,0xFCC90#9; block_semantic_score=0.235555."

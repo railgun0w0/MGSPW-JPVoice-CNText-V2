@@ -1,0 +1,82 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_044420,0,stream=0x44000;block=0x420;text=0,"[""stream=0x44000;block=0x420;text=0""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]",,"モケーレ・ムベンベはコンゴにいる恐竜さ。これはもう、
+謎の怪獣なんかじゃなくて、恐竜の生き残りと断定できる。
+","現地の人にはよく知られてる生き物だし、ブロントサウル
+スの復元図を見せたら、それがモケーレ・ムベンベだって
+誰もが証言してるんだ。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Mokèlé-mbèmbé生活在刚果河里。
+不过它没什么神秘的，因为它已经被证实是
+真实存在的活恐龙。","[""Mokèlé-mbèmbé生活在刚果河里。\n不过它没什么神秘的，因为它已经被证实是\n真实存在的活恐龙。""]","Mokèlé-mbèmbé lives in the Congo River. There's
+nothing mysterious about it, though
+- it's already been confirmed as a real, living
+dinosaur.
+","[""Mokèlé-mbèmbé lives in the Congo River. There's\nnothing mysterious about it, though\n- it's already been confirmed as a real, living\ndinosaur.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x44420; ENG blocks=0xD21A0,0xD21A0; ENG source rows=0xD21A0#0,0xD21A0#1; block_semantic_score=0.105797."
+BRIEFING_FILES_BLOCK_044420,1,stream=0x44000;block=0x420;text=1,"[""stream=0x44000;block=0x420;text=1""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","モケーレ・ムベンベはコンゴにいる恐竜さ。これはもう、
+謎の怪獣なんかじゃなくて、恐竜の生き残りと断定できる。
+","現地の人にはよく知られてる生き物だし、ブロントサウル
+スの復元図を見せたら、それがモケーレ・ムベンベだって
+誰もが証言してるんだ。
+","ふむ…。
+",[],,,NOT_CHECKED,192,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当地人对它非常了解，
+他们看到雷龙的图画时，","[""当地人对它非常了解，\n他们看到雷龙的图画时，""]","The local people know all about it, and when they
+were shown a drawing of a brontosaurus,
+","[""The local people know all about it, and when they\nwere shown a drawing of a brontosaurus,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#2; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,2,stream=0x44000;block=0x420;text=2,"[""stream=0x44000;block=0x420;text=2""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","現地の人にはよく知られてる生き物だし、ブロントサウル
+スの復元図を見せたら、それがモケーレ・ムベンベだって
+誰もが証言してるんだ。
+","ふむ…。
+","ニカラグアが平和になったら、俺もコンゴに行きたいな…。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"每个人都异口同声地说那
+就是Mokèlé-mbèmbé。","[""每个人都异口同声地说那\n就是Mokèlé-mbèmbé。""]","every one of them said it was Mokèlé-mbèmbé.
+","[""every one of them said it was Mokèlé-mbèmbé.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#3; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,3,stream=0x44000;block=0x420;text=3,"[""stream=0x44000;block=0x420;text=3""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","ふむ…。
+","ニカラグアが平和になったら、俺もコンゴに行きたいな…。
+","…だが、ゲバラのコンゴ革命は失敗に終わっている。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"等尼加拉瓜恢复和平后，
+我想亲自去刚果一趟…","[""等尼加拉瓜恢复和平后，\n我想亲自去刚果一趟…""]","When peace returns to Nicaragua, I wanna go to
+the Congo myself...
+","[""When peace returns to Nicaragua, I wanna go to\nthe Congo myself...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#4; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,4,stream=0x44000;block=0x420;text=4,"[""stream=0x44000;block=0x420;text=4""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","ニカラグアが平和になったら、俺もコンゴに行きたいな…。
+","…だが、ゲバラのコンゴ革命は失敗に終わっている。
+","そうなんだよな。それも俺たちがどうにかできるといいん
+だけど、アフリカは遠いよな。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…你知道，刚果的革命
+运动以失败告终了。","[""…你知道，刚果的革命\n运动以失败告终了。""]","...The revolutionary movement in the Congo ended
+in failure, you know.
+","[""...The revolutionary movement in the Congo ended\nin failure, you know.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#5; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,5,stream=0x44000;block=0x420;text=5,"[""stream=0x44000;block=0x420;text=5""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","…だが、ゲバラのコンゴ革命は失敗に終わっている。
+","そうなんだよな。それも俺たちがどうにかできるといいん
+だけど、アフリカは遠いよな。
+","アフリカか…。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，我知道。我真希望我们能
+做点什么，但非洲实在太远了。","[""嗯，我知道。我真希望我们能\n做点什么，但非洲实在太远了。""]","Yeah, I know. I wish we could do something to help,
+but Africa's awfully far away.
+","[""Yeah, I know. I wish we could do something to help,\nbut Africa's awfully far away.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#6; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,6,stream=0x44000;block=0x420;text=6,"[""stream=0x44000;block=0x420;text=6""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","そうなんだよな。それも俺たちがどうにかできるといいん
+だけど、アフリカは遠いよな。
+","アフリカか…。
+","エル・チェはモケーレ・ムベンベを見たのかな…？
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,非洲…,"[""非洲…""]","Africa...
+","[""Africa...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#7; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,7,stream=0x44000;block=0x420;text=7,"[""stream=0x44000;block=0x420;text=7""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","アフリカか…。
+","エル・チェはモケーレ・ムベンベを見たのかな…？
+","俺も見てみたいなあ…。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不知道切·格瓦拉有没有
+见过Mokèlé-mbèmbé…？","[""不知道切·格瓦拉有没有\n见过Mokèlé-mbèmbé…？""]","I wonder if El Che ever saw Mokèlé-mbèmbé...?
+","[""I wonder if El Che ever saw Mokèlé-mbèmbé...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#8; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,8,stream=0x44000;block=0x420;text=8,"[""stream=0x44000;block=0x420;text=8""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","エル・チェはモケーレ・ムベンベを見たのかな…？
+","俺も見てみたいなあ…。
+","今はアフリカより<R=中米,こっち>のことが先決だ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不知道我有没有机会见到…？,"[""不知道我有没有机会见到…？""]","I wonder if I will...?
+","[""I wonder if I will...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#9; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,9,stream=0x44000;block=0x420;text=9,"[""stream=0x44000;block=0x420;text=9""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","俺も見てみたいなあ…。
+","今はアフリカより<R=中米,こっち>のことが先決だ。
+","それはそうなんだけど…。
+","[""<R=中米,こっち>""]",,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在向往非洲之前，
+最好先把这里的事情处理好。","[""在向往非洲之前，\n最好先把这里的事情处理好。""]","Best to take care of business here before
+daydreaming about Africa.
+","[""Best to take care of business here before\ndaydreaming about Africa.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#10; block_semantic_score=0.105797.
+BRIEFING_FILES_BLOCK_044420,10,stream=0x44000;block=0x420;text=10,"[""stream=0x44000;block=0x420;text=10""]",1,BRIEFING FILES,"[""stream=0x44000;block=0x420;block_file=0x44420;text_base=0x4446C;capacity=888""]","今はアフリカより<R=中米,こっち>のことが先決だ。
+","それはそうなんだけど…。
+",,[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，你说得对…,"[""是啊，你说得对…""]","Yeah, I guess you're right...
+","[""Yeah, I guess you're right...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x44420; ENG blocks=0xD21A0; ENG source rows=0xD21A0#11; block_semantic_score=0.105797.

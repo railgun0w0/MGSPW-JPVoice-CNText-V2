@@ -1,0 +1,157 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_058FC0,0,stream=0x58000;block=0xFC0;text=0,"[""stream=0x58000;block=0xFC0;text=0""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]",,"<R=研究施設,ラボ>にいたのは女性二人だけか？
+","普段は二人だけ。
+","[""<R=研究施設,ラボ>""]",,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,实验室里就只有那两个女人吗？,"[""实验室里就只有那两个女人吗？""]","Was it just the two women in the lab?
+","[""Was it just the two women in the lab?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#0; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,1,stream=0x58000;block=0xFC0;text=1,"[""stream=0x58000;block=0xFC0;text=1""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","<R=研究施設,ラボ>にいたのは女性二人だけか？
+","普段は二人だけ。
+","ふむ…。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,大多数时候，oui。,"[""大多数时候，oui。""]","Most of the time, oui.
+","[""Most of the time, oui.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#1; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,2,stream=0x58000;block=0xFC0;text=2,"[""stream=0x58000;block=0xFC0;text=2""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","普段は二人だけ。
+","ふむ…。
+","一人は声だけしか聞いてないんだな？
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯…,"[""嗯…""]","Hmm...
+","[""Hmm...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#2; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,3,stream=0x58000;block=0xFC0;text=3,"[""stream=0x58000;block=0xFC0;text=3""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","ふむ…。
+","一人は声だけしか聞いてないんだな？
+","ええ。背筋がゾワッてするほど素敵な声。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"其中一个，你只听到过
+她的声音，对吧？","[""其中一个，你只听到过\n她的声音，对吧？""]","And one of them, you only heard her voice, right?
+","[""And one of them, you only heard her voice, right?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#3; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,4,stream=0x58000;block=0xFC0;text=4,"[""stream=0x58000;block=0xFC0;text=4""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","一人は声だけしか聞いてないんだな？
+","ええ。背筋がゾワッてするほど素敵な声。
+","もう一人はどんな女性だ？
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的，没错。那声音太美妙了，
+听得我脊背发凉。","[""是的，没错。那声音太美妙了，\n听得我脊背发凉。""]","Yes, that is correct. Such a wonderful voice. It
+sent chills up my spine.
+","[""Yes, that is correct. Such a wonderful voice. It\nsent chills up my spine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#4; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,5,stream=0x58000;block=0xFC0;text=5,"[""stream=0x58000;block=0xFC0;text=5""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","ええ。背筋がゾワッてするほど素敵な声。
+","もう一人はどんな女性だ？
+","狙っても無駄よ。男性には興味がないみたい。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,另一个女人是什么样的人？,"[""另一个女人是什么样的人？""]","What was the other woman like?
+","[""What was the other woman like?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#5; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,6,stream=0x58000;block=0xFC0;text=6,"[""stream=0x58000;block=0xFC0;text=6""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","もう一人はどんな女性だ？
+","狙っても無駄よ。男性には興味がないみたい。
+","いや、俺は任務で…。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,想都别想。她对男人一点兴趣都没有。,"[""想都别想。她对男人一点兴趣都没有。""]","Don't even think about it. She's not the slightest
+interest in men.
+","[""Don't even think about it. She's not the slightest\ninterest in men.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#6; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,7,stream=0x58000;block=0xFC0;text=7,"[""stream=0x58000;block=0xFC0;text=7""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","狙っても無駄よ。男性には興味がないみたい。
+","いや、俺は任務で…。
+","冗談よ。そうね…。<R=年齢,とし>は30代だと思う。美人でスタイル
+もいいけど飾り気がなかった。かなりの変人。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不，这是我的任务的一部分…,"[""不，这是我的任务的一部分…""]","No, it's part of my mission to...
+","[""No, it's part of my mission to...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#7; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,8,stream=0x58000;block=0xFC0;text=8,"[""stream=0x58000;block=0xFC0;text=8""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","いや、俺は任務で…。
+","冗談よ。そうね…。<R=年齢,とし>は30代だと思う。美人でスタイル
+もいいけど飾り気がなかった。かなりの変人。
+","彼女が<R=人工知能,AI>の研究を？
+","[""<R=年齢,とし>""]",,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"开个玩笑而已。让我想想…我想她大概三十多岁。很漂亮，穿着很有品位，
+但品味很简朴。一个非常…与众不同的女人。","[""开个玩笑而已。让我想想…我想她大概三十多岁。很漂亮，穿着很有品位，\n但品味很简朴。一个非常…与众不同的女人。""]","Only teasing. Let me think...
+I believe she was in her 30s.
+Pretty, with a good sense of style, but austere in
+her tastes.
+A very... Unusual woman.
+","[""Only teasing. Let me think...\nI believe she was in her 30s.\nPretty, with a good sense of style, but austere in\nher tastes.\nA very... Unusual woman.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:4; JPN blocks=0x58FC0; ENG blocks=0xE6D10,0xE6D10,0xE6D10,0xE6D10; ENG source rows=0xE6D10#8,0xE6D10#9,0xE6D10#10,0xE6D10#11; block_semantic_score=0.108600."
+BRIEFING_FILES_BLOCK_058FC0,9,stream=0x58000;block=0xFC0;text=9,"[""stream=0x58000;block=0xFC0;text=9""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","冗談よ。そうね…。<R=年齢,とし>は30代だと思う。美人でスタイル
+もいいけど飾り気がなかった。かなりの変人。
+","彼女が<R=人工知能,AI>の研究を？
+","<R=人工知能,AI>？　彼女は<R=人工知能,AI>を研究してたの？
+","[""<R=人工知能,AI>""]",,,NOT_CHECKED,44,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她当时在研究人工智能？,"[""她当时在研究人工智能？""]","And she was doing research on AI?
+","[""And she was doing research on AI?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#12; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,10,stream=0x58000;block=0xFC0;text=10,"[""stream=0x58000;block=0xFC0;text=10""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","彼女が<R=人工知能,AI>の研究を？
+","<R=人工知能,AI>？　彼女は<R=人工知能,AI>を研究してたの？
+","そう言えば、人間は宇宙に行くべきじゃないとか言ってた。
+宇宙は人間が行くには危険すぎるって。
+","[""<R=人工知能,AI>"", ""<R=人工知能,AI>""]",,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,人工智能？原来她研究的是这个。,"[""人工智能？原来她研究的是这个。""]","AI? So that is what she was up to.
+","[""AI? So that is what she was up to.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#13; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,11,stream=0x58000;block=0xFC0;text=11,"[""stream=0x58000;block=0xFC0;text=11""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","<R=人工知能,AI>？　彼女は<R=人工知能,AI>を研究してたの？
+","そう言えば、人間は宇宙に行くべきじゃないとか言ってた。
+宇宙は人間が行くには危険すぎるって。
+","ロケットを自動制御するためか？
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道吗，她确实说过
+一些有意思的事：她说人类不应该进入
+太空，那太危险了。","[""你知道吗，她确实说过\n一些有意思的事：她说人类不应该进入\n太空，那太危险了。""]","You know, she did say something interesting:
+that people should not be going into space. That it
+is too dangerous.
+","[""You know, she did say something interesting:\nthat people should not be going into space. That it\nis too dangerous.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x58FC0; ENG blocks=0xE6D10,0xE6D10; ENG source rows=0xE6D10#14,0xE6D10#15; block_semantic_score=0.108600."
+BRIEFING_FILES_BLOCK_058FC0,12,stream=0x58000;block=0xFC0;text=12,"[""stream=0x58000;block=0xFC0;text=12""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","そう言えば、人間は宇宙に行くべきじゃないとか言ってた。
+宇宙は人間が行くには危険すぎるって。
+","ロケットを自動制御するためか？
+","「あの人の遺志に近づきたい」とも言っていた。あれはき
+っと昔の恋人のことでしょうね。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，这么说，是火箭的自动控制系统？,"[""嗯，这么说，是火箭的自动控制系统？""]","Hmm, an automated control system for rockets,
+then?
+","[""Hmm, an automated control system for rockets,\nthen?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#16; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,13,stream=0x58000;block=0xFC0;text=13,"[""stream=0x58000;block=0xFC0;text=13""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","ロケットを自動制御するためか？
+","「あの人の遺志に近づきたい」とも言っていた。あれはき
+っと昔の恋人のことでしょうね。
+","恋人…それも女性か？
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她说过想“更接近她的
+临终遗愿”之类的话。","[""她说过想“更接近她的\n临终遗愿”之类的话。""]","She said something about wanting to ""get closer to
+her dying wish.""
+","[""She said something about wanting to \""get closer to\nher dying wish.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#17; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,14,stream=0x58000;block=0xFC0;text=14,"[""stream=0x58000;block=0xFC0;text=14""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","「あの人の遺志に近づきたい」とも言っていた。あれはき
+っと昔の恋人のことでしょうね。
+","恋人…それも女性か？
+","やけに興味がありそうね、女同士の関係に。知りたい？　
+彼女が私にどんなことをしようとしたか。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,情人…你是说另一个女人？,"[""情人…你是说另一个女人？""]","Lover... You mean another woman?
+","[""Lover... You mean another woman?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#19; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,15,stream=0x58000;block=0xFC0;text=15,"[""stream=0x58000;block=0xFC0;text=15""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","恋人…それも女性か？
+","やけに興味がありそうね、女同士の関係に。知りたい？　
+彼女が私にどんなことをしようとしたか。
+","そういう意味じゃ…。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哎呀，我们怎么对女人和
+女人的事这么感兴趣！你想听听她对我做的那些可怕的事吗？","[""哎呀，我们怎么对女人和\n女人的事这么感兴趣！你想听听她对我做的那些可怕的事吗？""]","My, aren't we curious about women and other
+women!
+You want to hear the terrible things she tried to
+do to me?
+","[""My, aren't we curious about women and other\nwomen!\nYou want to hear the terrible things she tried to\ndo to me?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x58FC0; ENG blocks=0xE6D10,0xE6D10; ENG source rows=0xE6D10#20,0xE6D10#21; block_semantic_score=0.108600."
+BRIEFING_FILES_BLOCK_058FC0,16,stream=0x58000;block=0xFC0;text=16,"[""stream=0x58000;block=0xFC0;text=16""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","やけに興味がありそうね、女同士の関係に。知りたい？　
+彼女が私にどんなことをしようとしたか。
+","そういう意味じゃ…。
+","ごまかさなくてもいいのに。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不是那个意思…,"[""我不是那个意思…""]","That's not what I meant...
+","[""That's not what I meant...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#22; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,17,stream=0x58000;block=0xFC0;text=17,"[""stream=0x58000;block=0xFC0;text=17""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","そういう意味じゃ…。
+","ごまかさなくてもいいのに。
+","…意外とよろしくやってたようだな、彼女とは。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没关系，你可以说实话。,"[""没关系，你可以说实话。""]","It's all right, you can be honest.
+","[""It's all right, you can be honest.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#23; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,18,stream=0x58000;block=0xFC0;text=18,"[""stream=0x58000;block=0xFC0;text=18""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","ごまかさなくてもいいのに。
+","…意外とよろしくやってたようだな、彼女とは。
+","そ、そんなことないわ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你们两个看起来相处得非常好。,"[""…你们两个看起来相处得非常好。""]","...You two seemed to get along awfully well
+together.
+","[""...You two seemed to get along awfully well\ntogether.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#24; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,19,stream=0x58000;block=0xFC0;text=19,"[""stream=0x58000;block=0xFC0;text=19""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","…意外とよろしくやってたようだな、彼女とは。
+","そ、そんなことないわ。
+","あやしいもんだ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不，不，完全没有。,"[""不，不，完全没有。""]","No, no, not at all.
+","[""No, no, not at all.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#25; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,20,stream=0x58000;block=0xFC0;text=20,"[""stream=0x58000;block=0xFC0;text=20""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","そ、そんなことないわ。
+","あやしいもんだ。
+","それより、ケツァールを探すんでしょ？　鳴き真似してあ
+げる。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我觉得你在隐瞒什么。,"[""我觉得你在隐瞒什么。""]","I think you're hiding something.
+","[""I think you're hiding something.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#26; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,21,stream=0x58000;block=0xFC0;text=21,"[""stream=0x58000;block=0xFC0;text=21""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","あやしいもんだ。
+","それより、ケツァールを探すんでしょ？　鳴き真似してあ
+げる。
+","キョーッキョーッキョーッ…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"算了！你难道不是应该
+在找凤尾绿咬鹃吗？","[""算了！你难道不是应该\n在找凤尾绿咬鹃吗？""]","Never mind! Aren't you supposed to be looking for
+the quetzal?
+","[""Never mind! Aren't you supposed to be looking for\nthe quetzal?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#27; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,22,stream=0x58000;block=0xFC0;text=22,"[""stream=0x58000;block=0xFC0;text=22""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","それより、ケツァールを探すんでしょ？　鳴き真似してあ
+げる。
+","キョーッキョーッキョーッ…。
+","図星か…。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,来，我学它的叫声给你听听。,"[""来，我学它的叫声给你听听。""]","Here, I'll demonstrate its call for you.
+","[""Here, I'll demonstrate its call for you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#28; block_semantic_score=0.108600.
+BRIEFING_FILES_BLOCK_058FC0,23,stream=0x58000;block=0xFC0;text=23,"[""stream=0x58000;block=0xFC0;text=23""]",1,BRIEFING FILES,"[""stream=0x58000;block=0xFC0;block_file=0x58FC0;text_base=0x59040;capacity=1464""]","キョーッキョーッキョーッ…。
+","図星か…。
+",,[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我就知道…,"[""我就知道…""]","I KNEW it...
+","[""I KNEW it...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x58FC0; ENG blocks=0xE6D10; ENG source rows=0xE6D10#29; block_semantic_score=0.108600.

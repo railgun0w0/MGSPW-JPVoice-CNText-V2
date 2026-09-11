@@ -1,0 +1,62 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03ABE0,0,stream=0x3A000;block=0xBE0;text=0,"[""stream=0x3A000;block=0xBE0;text=0""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]",,"ボス、敵の戦車に襲撃されたの？　どこか隠れる場所は？
+","列車に隠れることは出来る。だが主砲を撃たれたらおしま
+いだ…。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,敌方坦克！Boss，有地方可以躲吗？,"[""敌方坦克！Boss，有地方可以躲吗？""]","An enemy tank! Is there somewhere you can hide,
+Boss?
+","[""An enemy tank! Is there somewhere you can hide,\nBoss?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#0; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,1,stream=0x3A000;block=0xBE0;text=1,"[""stream=0x3A000;block=0xBE0;text=1""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","ボス、敵の戦車に襲撃されたの？　どこか隠れる場所は？
+","列車に隠れることは出来る。だが主砲を撃たれたらおしま
+いだ…。
+","貨物列車なんて簡単に吹き飛ぶか…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有几节火车厢，但挡不住那种炮火。,"[""有几节火车厢，但挡不住那种炮火。""]","There are train cars, but they won't hold up
+against a gun like that.
+","[""There are train cars, but they won't hold up\nagainst a gun like that.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#1; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,2,stream=0x3A000;block=0xBE0;text=2,"[""stream=0x3A000;block=0xBE0;text=2""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","列車に隠れることは出来る。だが主砲を撃たれたらおしま
+いだ…。
+","貨物列車なんて簡単に吹き飛ぶか…。
+","だが隠れることも無駄じゃない。向こうも見えない相手に
+は狙いを定められないからな。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,货运车厢都扛不住？太离谱了！,"[""货运车厢都扛不住？太离谱了！""]","Even a freight train? Incredible!
+","[""Even a freight train? Incredible!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#2; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,3,stream=0x3A000;block=0xBE0;text=3,"[""stream=0x3A000;block=0xBE0;text=3""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","貨物列車なんて簡単に吹き飛ぶか…。
+","だが隠れることも無駄じゃない。向こうも見えない相手に
+は狙いを定められないからな。
+","隠れながら隙をみて、キャタピラや後部の燃料タンクを狙
+う…。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但至少能暂时不被发现。,"[""但至少能暂时不被发现。""]","But they'd keep me out of sight - temporarily.
+","[""But they'd keep me out of sight - temporarily.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#3; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,4,stream=0x3A000;block=0xBE0;text=4,"[""stream=0x3A000;block=0xBE0;text=4""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","だが隠れることも無駄じゃない。向こうも見えない相手に
+は狙いを定められないからな。
+","隠れながら隙をみて、キャタピラや後部の燃料タンクを狙
+う…。
+","ただし主砲には注意、ということだ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"利用它们找机会打它的履带
+或者后侧的油箱，不过…","[""利用它们找机会打它的履带\n或者后侧的油箱，不过…""]","Use them to look for an opportunity to hit its
+treads or the fuel tank at the back, but...
+","[""Use them to look for an opportunity to hit its\ntreads or the fuel tank at the back, but...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#4; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,5,stream=0x3A000;block=0xBE0;text=5,"[""stream=0x3A000;block=0xBE0;text=5""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","隠れながら隙をみて、キャタピラや後部の燃料タンクを狙
+う…。
+","ただし主砲には注意、ということだ。
+","あとは歩兵にも注意して。まわりこまれるかも。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别忘了那门炮，是吧？,"[""别忘了那门炮，是吧？""]","Don't forget about that gun, huh?
+","[""Don't forget about that gun, huh?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#5; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,6,stream=0x3A000;block=0xBE0;text=6,"[""stream=0x3A000;block=0xBE0;text=6""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","ただし主砲には注意、ということだ。
+","あとは歩兵にも注意して。まわりこまれるかも。
+","わかった。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也别忽略那些士兵。
+他们可能会从侧翼包抄你。","[""也别忽略那些士兵。\n他们可能会从侧翼包抄你。""]","Or the soldiers. They may try to flank you.
+","[""Or the soldiers. They may try to flank you.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#6; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,7,stream=0x3A000;block=0xBE0;text=7,"[""stream=0x3A000;block=0xBE0;text=7""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","あとは歩兵にも注意して。まわりこまれるかも。
+","わかった。
+","歩兵を無力化して敵部隊を制圧することは出来る。スネー
+ク、がんばって！
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","Right.
+","[""Right.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#7; block_semantic_score=0.068180.
+BRIEFING_FILES_BLOCK_03ABE0,8,stream=0x3A000;block=0xBE0;text=8,"[""stream=0x3A000;block=0xBE0;text=8""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0xBE0;block_file=0x3ABE0;text_base=0x3AC24;capacity=684""]","わかった。
+","歩兵を無力化して敵部隊を制圧することは出来る。スネー
+ク、がんばって！
+",,[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"把士兵全部解决掉也能阻止坦克。
+你能行的，Snake！","[""把士兵全部解决掉也能阻止坦克。\n你能行的，Snake！""]","You can also stop it by taking out all the soldiers.
+You can do it, Snake!
+","[""You can also stop it by taking out all the soldiers.\nYou can do it, Snake!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x3ABE0; ENG blocks=0xCB100; ENG source rows=0xCB100#8; block_semantic_score=0.068180.

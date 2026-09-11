@@ -1,0 +1,34 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01D580,0,stream=0x1D000;block=0x580;text=0,"[""stream=0x1D000;block=0x580;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x580;block_file=0x1D580;text_base=0x1D5B0;capacity=388""]",,"真の<R=熟練兵,ベテラン>なら、一発の弾丸で多くの敵を倒すこともでき
+る。
+","それには敵兵をそのまま撃っても無駄だ。誘爆を活用する
+んだ。
+","[""<R=熟練兵,ベテラン>""]",,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"真正的老兵应该能够用
+一颗子弹干掉多个敌人。","[""真正的老兵应该能够用\n一颗子弹干掉多个敌人。""]","A real veteran ought to be able to take out
+multiple enemies with a single bullet.
+","[""A real veteran ought to be able to take out\nmultiple enemies with a single bullet.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D580; ENG blocks=0xAE7B0; ENG source rows=0xAE7B0#0; block_semantic_score=0.120444.
+BRIEFING_FILES_BLOCK_01D580,1,stream=0x1D000;block=0x580;text=1,"[""stream=0x1D000;block=0x580;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x580;block_file=0x1D580;text_base=0x1D5B0;capacity=388""]","真の<R=熟練兵,ベテラン>なら、一発の弾丸で多くの敵を倒すこともでき
+る。
+","それには敵兵をそのまま撃っても無駄だ。誘爆を活用する
+んだ。
+","ガソリンの入ったドラム缶や、燃料を積んだ無人機……。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不是向他们开枪，而是
+用那颗子弹引发爆炸。","[""不是向他们开枪，而是\n用那颗子弹引发爆炸。""]","Not by shooting them, but by using it to set off an
+explosion.
+","[""Not by shooting them, but by using it to set off an\nexplosion.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D580; ENG blocks=0xAE7B0; ENG source rows=0xAE7B0#1; block_semantic_score=0.120444.
+BRIEFING_FILES_BLOCK_01D580,2,stream=0x1D000;block=0x580;text=2,"[""stream=0x1D000;block=0x580;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x580;block_file=0x1D580;text_base=0x1D5B0;capacity=388""]","それには敵兵をそのまま撃っても無駄だ。誘爆を活用する
+んだ。
+","ガソリンの入ったドラム缶や、燃料を積んだ無人機……。
+","そういう引火性のものを撃てば起爆するだろう。その爆発
+に敵を巻き込んでやれ！
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,找到易燃物，比如汽油桶或者油箱加满的无人武器…,"[""找到易燃物，比如汽油桶或者油箱加满的无人武器…""]","Find something flammable,
+like a gasoline drum or an unmanned weapon with
+a full fuel tank...
+","[""Find something flammable,\nlike a gasoline drum or an unmanned weapon with\na full fuel tank...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1D580; ENG blocks=0xAE7B0,0xAE7B0; ENG source rows=0xAE7B0#2,0xAE7B0#3; block_semantic_score=0.120444."
+BRIEFING_FILES_BLOCK_01D580,3,stream=0x1D000;block=0x580;text=3,"[""stream=0x1D000;block=0x580;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x580;block_file=0x1D580;text_base=0x1D5B0;capacity=388""]","ガソリンの入ったドラム缶や、燃料を積んだ無人機……。
+","そういう引火性のものを撃てば起爆するだろう。その爆発
+に敵を巻き込んでやれ！
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后射击它，引爆它。
+确保顺带干掉几个敌人！","[""然后射击它，引爆它。\n确保顺带干掉几个敌人！""]","Then shoot it and blow it up. And make sure it
+takes a few enemies with it!
+","[""Then shoot it and blow it up. And make sure it\ntakes a few enemies with it!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D580; ENG blocks=0xAE7B0; ENG source rows=0xAE7B0#4; block_semantic_score=0.120444.

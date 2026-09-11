@@ -1,0 +1,72 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01F440,0,stream=0x1F000;block=0x440;text=0,"[""stream=0x1F000;block=0x440;text=0""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]",,"もっとも頻繁に遭遇する敵兵は、作戦区域を巡回警備して
+いる連中だ。
+","アマンダ達は便宜上、野外を巡回している連中を「哨戒兵」、
+施設にいる方は「警備兵」と呼んでるそうだ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是在特定作战区域巡逻和警卫的那种。,"[""是在特定作战区域巡逻和警卫的那种。""]","is the type that patrols and guards a specific
+operational area.
+","[""is the type that patrols and guards a specific\noperational area.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F440; ENG blocks=0xB0510; ENG source rows=0xB0510#1; block_semantic_score=0.137825.
+BRIEFING_FILES_BLOCK_01F440,1,stream=0x1F000;block=0x440;text=1,"[""stream=0x1F000;block=0x440;text=1""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","もっとも頻繁に遭遇する敵兵は、作戦区域を巡回警備して
+いる連中だ。
+","アマンダ達は便宜上、野外を巡回している連中を「哨戒兵」、
+施設にいる方は「警備兵」と呼んでるそうだ。
+","のんびり歩いているように見えるが、そいつは見かけだけ
+だ。決して侮るなよ。奴らは五感を研ぎ澄ましている。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为了方便，Amanda的人把
+室外的称为“巡逻兵”，","[""为了方便，Amanda的人把\n室外的称为“巡逻兵”，""]","For the sake of convenience, Amanda's crew calls
+the outdoor ones ""patrolmen,""
+","[""For the sake of convenience, Amanda's crew calls\nthe outdoor ones \""patrolmen,\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F440; ENG blocks=0xB0510; ENG source rows=0xB0510#2; block_semantic_score=0.137825.
+BRIEFING_FILES_BLOCK_01F440,2,stream=0x1F000;block=0x440;text=2,"[""stream=0x1F000;block=0x440;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","アマンダ達は便宜上、野外を巡回している連中を「哨戒兵」、
+施設にいる方は「警備兵」と呼んでるそうだ。
+","のんびり歩いているように見えるが、そいつは見かけだけ
+だ。決して侮るなよ。奴らは五感を研ぎ澄ましている。
+","普段は規定のルート上を巡回しているが、警戒レベルが高
+まると決まったポイントを重点防御して、効率的な警戒態
+勢をとる。こうなるとやっかいだ。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但别被骗了——他们比看起来敏锐。他们的所有感官都经过精磨。通常他们会按照固定路线巡逻，,"[""但别被骗了——他们比看起来敏锐。他们的所有感官都经过精磨。通常他们会按照固定路线巡逻，""]","but don't be fooled - they're sharper than they
+look.
+All of their senses are finely honed.
+Normally they'll patrol along fixed routes,
+","[""but don't be fooled - they're sharper than they\nlook.\nAll of their senses are finely honed.\nNormally they'll patrol along fixed routes,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x1F440; ENG blocks=0xB0510,0xB0510,0xB0510; ENG source rows=0xB0510#5,0xB0510#6,0xB0510#7; block_semantic_score=0.137825."
+BRIEFING_FILES_BLOCK_01F440,3,stream=0x1F000;block=0x440;text=3,"[""stream=0x1F000;block=0x440;text=3""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","のんびり歩いているように見えるが、そいつは見かけだけ
+だ。決して侮るなよ。奴らは五感を研ぎ澄ましている。
+","普段は規定のルート上を巡回しているが、警戒レベルが高
+まると決まったポイントを重点防御して、効率的な警戒態
+勢をとる。こうなるとやっかいだ。
+","もちろん戦闘でも手強い相手だし、<R=防弾着,ボディアーマー>を着ているやつ
+は倒すにも手間取る。
+",[],,,NOT_CHECKED,207,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但警戒等级提升时，
+他们会采取更高效的警戒姿态，","[""但警戒等级提升时，\n他们会采取更高效的警戒姿态，""]","but when the alert level is raised they'll assume a
+more efficient alert posture
+","[""but when the alert level is raised they'll assume a\nmore efficient alert posture\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F440; ENG blocks=0xB0510; ENG source rows=0xB0510#8; block_semantic_score=0.137825.
+BRIEFING_FILES_BLOCK_01F440,4,stream=0x1F000;block=0x440;text=4,"[""stream=0x1F000;block=0x440;text=4""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","普段は規定のルート上を巡回しているが、警戒レベルが高
+まると決まったポイントを重点防御して、効率的な警戒態
+勢をとる。こうなるとやっかいだ。
+","もちろん戦闘でも手強い相手だし、<R=防弾着,ボディアーマー>を着ているやつ
+は倒すにも手間取る。
+","防弾ヘルメットを装着していたらもう、<R= 一 撃 必 殺 ,ワンショット・ワンキル>って
+わけにもいかなくなる。気をつけてくれ。
+","[""<R=防弾着,ボディアーマー>""]",,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"并集中防守特定要点。那对你很不利。显然他们也能应付战斗，如果穿了防弹衣，
+要击倒他们就更加困难。","[""并集中防守特定要点。那对你很不利。显然他们也能应付战斗，如果穿了防弹衣，\n要击倒他们就更加困难。""]","and focus on defending specific points. That's bad
+for you.
+Obviously they can hold their own in combat,
+and with body armor it'll be even harder to take
+them down.
+","[""and focus on defending specific points. That's bad\nfor you.\nObviously they can hold their own in combat,\nand with body armor it'll be even harder to take\nthem down.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x1F440; ENG blocks=0xB0510,0xB0510,0xB0510; ENG source rows=0xB0510#9,0xB0510#10,0xB0510#11; block_semantic_score=0.137825."
+BRIEFING_FILES_BLOCK_01F440,5,stream=0x1F000;block=0x440;text=5,"[""stream=0x1F000;block=0x440;text=5""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","もちろん戦闘でも手強い相手だし、<R=防弾着,ボディアーマー>を着ているやつ
+は倒すにも手間取る。
+","防弾ヘルメットを装着していたらもう、<R= 一 撃 必 殺 ,ワンショット・ワンキル>って
+わけにもいかなくなる。気をつけてくれ。
+","偽装やルート選択に工夫が要る。奴らの探知を逃れること
+が第一だ。
+","[""<R= 一 撃 必 殺 ,ワンショット・ワンキル>""]",,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果他们戴着防弹头盔，,"[""如果他们戴着防弹头盔，""]","If they're wearing a bulletproof helmet,
+","[""If they're wearing a bulletproof helmet,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1F440; ENG blocks=0xB0510; ENG source rows=0xB0510#12; block_semantic_score=0.137825.
+BRIEFING_FILES_BLOCK_01F440,6,stream=0x1F000;block=0x440;text=6,"[""stream=0x1F000;block=0x440;text=6""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","防弾ヘルメットを装着していたらもう、<R= 一 撃 必 殺 ,ワンショット・ワンキル>って
+わけにもいかなくなる。気をつけてくれ。
+","偽装やルート選択に工夫が要る。奴らの探知を逃れること
+が第一だ。
+",,[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就别想一枪毙命了。提醒你一下。你得聪明地使用迷彩，选好路线。,"[""就别想一枪毙命了。提醒你一下。你得聪明地使用迷彩，选好路线。""]","you can forget about one-shot kills. Just a heads
+up.
+You'll need to be smart about using camo and pick
+your routes.
+","[""you can forget about one-shot kills. Just a heads\nup.\nYou'll need to be smart about using camo and pick\nyour routes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1F440; ENG blocks=0xB0510,0xB0510; ENG source rows=0xB0510#13,0xB0510#14; block_semantic_score=0.137825."

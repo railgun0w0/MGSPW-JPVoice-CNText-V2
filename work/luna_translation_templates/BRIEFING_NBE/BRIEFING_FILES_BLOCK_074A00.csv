@@ -1,0 +1,104 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_074A00,0,stream=0x74000;block=0xA00;text=0,"[""stream=0x74000;block=0xA00;text=0""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]",,"コクーンの設計は廃熱の処理に苦労したよ。設計者として
+は恥ずかしい話だけど、ラジエーターが弱点と言えるかも
+しれない。
+","ラジエーター部分には装甲があまりないからね。装甲は廃
+熱の邪魔だったから…。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"开发的时候，我一直为
+Cocoon的过热问题头疼。虽然说来丢人，但散热器很
+可能就是它最薄弱的部位。","[""开发的时候，我一直为\nCocoon的过热问题头疼。虽然说来丢人，但散热器很\n可能就是它最薄弱的部位。""]","During development, I had trouble figuring out how
+to handle the Cocoon's excess heat.
+I'm embarrassed to admit it, but the radiators are
+most likely its weakest points.
+","[""During development, I had trouble figuring out how\nto handle the Cocoon's excess heat.\nI'm embarrassed to admit it, but the radiators are\nmost likely its weakest points.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x74A00; ENG blocks=0x100AA0,0x100AA0; ENG source rows=0x100AA0#0,0x100AA0#1; block_semantic_score=0.174818."
+BRIEFING_FILES_BLOCK_074A00,1,stream=0x74000;block=0xA00;text=1,"[""stream=0x74000;block=0xA00;text=1""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","コクーンの設計は廃熱の処理に苦労したよ。設計者として
+は恥ずかしい話だけど、ラジエーターが弱点と言えるかも
+しれない。
+","ラジエーター部分には装甲があまりないからね。装甲は廃
+熱の邪魔だったから…。
+","それはどこにある？
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它们没有重装甲，
+因为热量本来就散不出去。","[""它们没有重装甲，\n因为热量本来就散不出去。""]","They're not heavily armored, as heat wasn't
+dissipating properly.
+","[""They're not heavily armored, as heat wasn't\ndissipating properly.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#2; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,2,stream=0x74000;block=0xA00;text=2,"[""stream=0x74000;block=0xA00;text=2""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ラジエーター部分には装甲があまりないからね。装甲は廃
+熱の邪魔だったから…。
+","それはどこにある？
+","ラジエーターは上部と下部に複数ある。詳しい場所は排気
+を見ればわかるはずだ。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在哪儿？,"[""在哪儿？""]","Where are they?
+","[""Where are they?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#3; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,3,stream=0x74000;block=0xA00;text=3,"[""stream=0x74000;block=0xA00;text=3""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","それはどこにある？
+","ラジエーターは上部と下部に複数ある。詳しい場所は排気
+を見ればわかるはずだ。
+","ただ、普段は上部ラジエーターは露出していない。まずは
+下部ラジエーターを狙うといいかもしれない。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,上部和下部都有散热器。,"[""上部和下部都有散热器。""]","There are multiple radiators on the upper and
+lower sections.
+","[""There are multiple radiators on the upper and\nlower sections.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#4; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,4,stream=0x74000;block=0xA00;text=4,"[""stream=0x74000;block=0xA00;text=4""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ラジエーターは上部と下部に複数ある。詳しい場所は排気
+を見ればわかるはずだ。
+","ただ、普段は上部ラジエーターは露出していない。まずは
+下部ラジエーターを狙うといいかもしれない。
+","下部ラジエーターは機体の下に潜り込んで狙う手もあるけ
+ど、本体は上下に可動する。押しつぶされないようにね。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只不过，上方的散热器
+通常不会露出来。","[""只不过，上方的散热器\n通常不会露出来。""]","Only thing is, the upper radiators typically aren't
+exposed.
+","[""Only thing is, the upper radiators typically aren't\nexposed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#6; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,5,stream=0x74000;block=0xA00;text=5,"[""stream=0x74000;block=0xA00;text=5""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ただ、普段は上部ラジエーターは露出していない。まずは
+下部ラジエーターを狙うといいかもしれない。
+","下部ラジエーターは機体の下に潜り込んで狙う手もあるけ
+ど、本体は上下に可動する。押しつぶされないようにね。
+","それから、ミサイルとヘッジホッグには注意してくれ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你可以钻到机身下面去攻击下面那些，,"[""你可以钻到机身下面去攻击下面那些，""]","You could move under its body to access the
+lower ones,
+","[""You could move under its body to access the\nlower ones,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#8; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,6,stream=0x74000;block=0xA00;text=6,"[""stream=0x74000;block=0xA00;text=6""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","下部ラジエーターは機体の下に潜り込んで狙う手もあるけ
+ど、本体は上下に可動する。押しつぶされないようにね。
+","それから、ミサイルとヘッジホッグには注意してくれ。
+","ヘッジホッグ？　対潜水艦用の多段散布型爆雷か？
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但Cocoon能上下移动，小心别被压扁。,"[""但Cocoon能上下移动，小心别被压扁。""]","but the Cocoon is capable of vertical movement,
+so be careful not to get crushed.
+","[""but the Cocoon is capable of vertical movement,\nso be careful not to get crushed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#9; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,7,stream=0x74000;block=0xA00;text=7,"[""stream=0x74000;block=0xA00;text=7""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","それから、ミサイルとヘッジホッグには注意してくれ。
+","ヘッジホッグ？　対潜水艦用の多段散布型爆雷か？
+","その技術をベースに、地上用にアレンジされた兵器だ。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,刺猬弹？反潜多管迫击炮？,"[""刺猬弹？反潜多管迫击炮？""]","Hedgehogs? Anti-submarine multiple spigot
+mortars?
+","[""Hedgehogs? Anti-submarine multiple spigot\nmortars?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#11; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,8,stream=0x74000;block=0xA00;text=8,"[""stream=0x74000;block=0xA00;text=8""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ヘッジホッグ？　対潜水艦用の多段散布型爆雷か？
+","その技術をベースに、地上用にアレンジされた兵器だ。
+","とはいえ、ヘッジホッグにしてもミサイルにしても、装填
+に時間がかかる。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我把那项技术改造成了地面武器。,"[""我把那项技术改造成了地面武器。""]","I adapted the technology for use as a surface
+weapon.
+","[""I adapted the technology for use as a surface\nweapon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#12; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,9,stream=0x74000;block=0xA00;text=9,"[""stream=0x74000;block=0xA00;text=9""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","その技術をベースに、地上用にアレンジされた兵器だ。
+","とはいえ、ヘッジホッグにしてもミサイルにしても、装填
+に時間がかかる。
+","ランプが消灯している間はヘッジホッグは撃てないはずだ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过导弹和刺猬弹都需要时间装填。,"[""不过导弹和刺猬弹都需要时间装填。""]","Both the missiles and hedgehogs take time to load,
+though.
+","[""Both the missiles and hedgehogs take time to load,\nthough.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#13; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,10,stream=0x74000;block=0xA00;text=10,"[""stream=0x74000;block=0xA00;text=10""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","とはいえ、ヘッジホッグにしてもミサイルにしても、装填
+に時間がかかる。
+","ランプが消灯している間はヘッジホッグは撃てないはずだ。
+","ミサイルは発射ハッチの動きを見て。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,指示灯亮起之前，刺猬弹无法发射。,"[""指示灯亮起之前，刺猬弹无法发射。""]","It can't fire a hedgehog until the lamp comes on.
+","[""It can't fire a hedgehog until the lamp comes on.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#14; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,11,stream=0x74000;block=0xA00;text=11,"[""stream=0x74000;block=0xA00;text=11""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ランプが消灯している間はヘッジホッグは撃てないはずだ。
+","ミサイルは発射ハッチの動きを見て。
+","その間に接近できそうだな。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,至于导弹，注意看舱门的动静。,"[""至于导弹，注意看舱门的动静。""]","As for the missiles, watch for the way the hatches
+move.
+","[""As for the missiles, watch for the way the hatches\nmove.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#15; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,12,stream=0x74000;block=0xA00;text=12,"[""stream=0x74000;block=0xA00;text=12""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ミサイルは発射ハッチの動きを見て。
+","その間に接近できそうだな。
+","発射ハッチが開いたらミサイルにも注意してくれ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那就是我靠近的机会。,"[""那就是我靠近的机会。""]","That'll be my chance to get close.
+","[""That'll be my chance to get close.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#16; block_semantic_score=0.174818.
+BRIEFING_FILES_BLOCK_074A00,13,stream=0x74000;block=0xA00;text=13,"[""stream=0x74000;block=0xA00;text=13""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","その間に接近できそうだな。
+","発射ハッチが開いたらミサイルにも注意してくれ。
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,舱门一打开，导弹就会发射出来。,"[""舱门一打开，导弹就会发射出来。""]","When the hatches open, out come the missiles.
+","[""When the hatches open, out come the missiles.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x74A00; ENG blocks=0x100AA0; ENG source rows=0x100AA0#17; block_semantic_score=0.174818.

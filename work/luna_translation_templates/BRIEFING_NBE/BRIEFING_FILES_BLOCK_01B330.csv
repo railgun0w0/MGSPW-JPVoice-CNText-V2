@@ -1,0 +1,60 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01B330,0,stream=0x1B000;block=0x330;text=0,"[""stream=0x1B000;block=0x330;text=0""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]",,"C4爆弾の開発が完了した。ENTRY GATEで装備すれば、
+ミッションに持って行ける。
+","ありがたい。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,1,stream=0x1B000;block=0x330;text=1,"[""stream=0x1B000;block=0x330;text=1""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","C4爆弾の開発が完了した。ENTRY GATEで装備すれば、
+ミッションに持って行ける。
+","ありがたい。
+","C4爆弾を設置するには、まず装備する必要がある。武器選
+択メニューから、C4を選んでくれ。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,2,stream=0x1B000;block=0x330;text=2,"[""stream=0x1B000;block=0x330;text=2""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","ありがたい。
+","C4爆弾を設置するには、まず装備する必要がある。武器選
+択メニューから、C4を選んでくれ。
+","装備後は、<I=AIM>を押しながら<I=ATK>を押してくれ。これでC4が設
+置できる。
+",[],,,NOT_CHECKED,126,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"C4炸药已经准备好了。在入口处
+装备好，把她们带上执行任务。","[""C4炸药已经准备好了。在入口处\n装备好，把她们带上执行任务。""]","We've completed work on the C4 charges. Equip
+them at the entry gate and take them with you on
+the mission.
+","[""We've completed work on the C4 charges. Equip\nthem at the entry gate and take them with you on\nthe mission.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1B330; ENG blocks=0xAC930; ENG source rows=0xAC930#0; block_semantic_score=0.133668.
+BRIEFING_FILES_BLOCK_01B330,3,stream=0x1B000;block=0x330;text=3,"[""stream=0x1B000;block=0x330;text=3""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","C4爆弾を設置するには、まず装備する必要がある。武器選
+択メニューから、C4を選んでくれ。
+","装備後は、<I=AIM>を押しながら<I=ATK>を押してくれ。これでC4が設
+置できる。
+","起爆方法は？
+","[""<I=AIM>"", ""<I=ATK>""]",,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,4,stream=0x1B000;block=0x330;text=4,"[""stream=0x1B000;block=0x330;text=4""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","装備後は、<I=AIM>を押しながら<I=ATK>を押してくれ。これでC4が設
+置できる。
+","起爆方法は？
+","<I=AIM>を押さずに<I=ATK>だ。いいか、<I=AIM>を押さずにだぞ。もちろん、
+C4は装備したままでだ。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,5,stream=0x1B000;block=0x330;text=5,"[""stream=0x1B000;block=0x330;text=5""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","起爆方法は？
+","<I=AIM>を押さずに<I=ATK>だ。いいか、<I=AIM>を押さずにだぞ。もちろん、
+C4は装備したままでだ。
+","<I=AIM>を押しながらだと、その場にもう一つC4を設置すること
+になるからな。
+","[""<I=AIM>"", ""<I=ATK>"", ""<I=AIM>""]",,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,6,stream=0x1B000;block=0x330;text=6,"[""stream=0x1B000;block=0x330;text=6""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","<I=AIM>を押さずに<I=ATK>だ。いいか、<I=AIM>を押さずにだぞ。もちろん、
+C4は装備したままでだ。
+","<I=AIM>を押しながらだと、その場にもう一つC4を設置すること
+になるからな。
+","気をつけよう。
+","[""<I=AIM>""]",,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,7,stream=0x1B000;block=0x330;text=7,"[""stream=0x1B000;block=0x330;text=7""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","<I=AIM>を押しながらだと、その場にもう一つC4を設置すること
+になるからな。
+","気をつけよう。
+","逆に言うと、C4は複数設置できるってことだ。設置した順
+番に起爆させられるから、うまく活用してくれ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,8,stream=0x1B000;block=0x330;text=8,"[""stream=0x1B000;block=0x330;text=8""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","気をつけよう。
+","逆に言うと、C4は複数設置できるってことだ。設置した順
+番に起爆させられるから、うまく活用してくれ。
+","了解だ。
+",[],,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_01B330,9,stream=0x1B000;block=0x330;text=9,"[""stream=0x1B000;block=0x330;text=9""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","逆に言うと、C4は複数設置できるってことだ。設置した順
+番に起爆させられるから、うまく活用してくれ。
+","了解だ。
+",,[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

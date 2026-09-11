@@ -1,0 +1,113 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_073C10,0,stream=0x73000;block=0xC10;text=0,"[""stream=0x73000;block=0xC10;text=0""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]",,"ピューパは圧搾空気を噴射することで機体後部を浮かせ、
+機動力を高めているんだ。
+","推進にはキャタピラとブースターを組み合わせている。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Pupa利用压缩空气使后部悬浮，
+从而提高机动性。","[""Pupa利用压缩空气使后部悬浮，\n从而提高机动性。""]","The Pupa increases its mobility by using
+compressed air to hover its rear section.
+","[""The Pupa increases its mobility by using\ncompressed air to hover its rear section.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#0; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,1,stream=0x73000;block=0xC10;text=1,"[""stream=0x73000;block=0xC10;text=1""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ピューパは圧搾空気を噴射することで機体後部を浮かせ、
+機動力を高めているんだ。
+","推進にはキャタピラとブースターを組み合わせている。
+","高速で突進するような動きは、ブースターによるものだ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它依靠履带和推进器移动。,"[""它依靠履带和推进器移动。""]","It moves by means of its treads and boosters.
+","[""It moves by means of its treads and boosters.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#1; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,2,stream=0x73000;block=0xC10;text=2,"[""stream=0x73000;block=0xC10;text=2""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","推進にはキャタピラとブースターを組み合わせている。
+","高速で突進するような動きは、ブースターによるものだ。
+","ブースターを破壊すれば突進は防げる？
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那些推进器还为高速移动
+提供所需动力。","[""那些推进器还为高速移动\n提供所需动力。""]","Those boosters also provide the propulsion needed
+for high-speed movement.
+","[""Those boosters also provide the propulsion needed\nfor high-speed movement.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#2; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,3,stream=0x73000;block=0xC10;text=3,"[""stream=0x73000;block=0xC10;text=3""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","高速で突進するような動きは、ブースターによるものだ。
+","ブースターを破壊すれば突進は防げる？
+","その通りだ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那么如果我打掉推进器，
+它就无法冲锋了？","[""那么如果我打掉推进器，\n它就无法冲锋了？""]","So if I take out the boosters, it won't be able to
+charge?
+","[""So if I take out the boosters, it won't be able to\ncharge?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#3; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,4,stream=0x73000;block=0xC10;text=4,"[""stream=0x73000;block=0xC10;text=4""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ブースターを破壊すれば突進は防げる？
+","その通りだ。
+","まあ、突進はホフクでピューパの下に潜り込めばかわせる
+だろうけど…。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","Right.
+","[""Right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#4; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,5,stream=0x73000;block=0xC10;text=5,"[""stream=0x73000;block=0xC10;text=5""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","その通りだ。
+","まあ、突進はホフクでピューパの下に潜り込めばかわせる
+だろうけど…。
+","あ、それから、ピューパには電撃ユニットが装備されてい
+る。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想你也可以躺在它下面来躲避攻击…,"[""我想你也可以躺在它下面来躲避攻击…""]","I suppose you could also avoid its attacks by lying
+down beneath it...
+","[""I suppose you could also avoid its attacks by lying\ndown beneath it...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#5; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,6,stream=0x73000;block=0xC10;text=6,"[""stream=0x73000;block=0xC10;text=6""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","まあ、突進はホフクでピューパの下に潜り込めばかわせる
+だろうけど…。
+","あ、それから、ピューパには電撃ユニットが装備されてい
+る。
+","電撃を誘導するための、避雷針のようなものも搭載してい
+る。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Pupa还配备了电击装置。,"[""Pupa还配备了电击装置。""]","The Pupa is also equipped with electrical shock
+units.
+","[""The Pupa is also equipped with electrical shock\nunits.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#6; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,7,stream=0x73000;block=0xC10;text=7,"[""stream=0x73000;block=0xC10;text=7""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","あ、それから、ピューパには電撃ユニットが装備されてい
+る。
+","電撃を誘導するための、避雷針のようなものも搭載してい
+る。
+","それは電撃を撃たれる前に壊してしまいたいところだな。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它用这些装置——
+看起来像避雷针——来引导放电。","[""它用这些装置——\n看起来像避雷针——来引导放电。""]","It uses these devices - they look like lightning rods
+- to direct discharge.
+","[""It uses these devices - they look like lightning rods\n- to direct discharge.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#7; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,8,stream=0x73000;block=0xC10;text=8,"[""stream=0x73000;block=0xC10;text=8""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","電撃を誘導するための、避雷針のようなものも搭載してい
+る。
+","それは電撃を撃たれる前に壊してしまいたいところだな。
+","ああ。あとは…AIで動いているメカの共通点だけど、AIを
+破壊すれば行動不能になる。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看来我也得把那些
+东西的插头拔掉才行。","[""看来我也得把那些\n东西的插头拔掉才行。""]","Guess I should probably pull the plug on those, too.
+","[""Guess I should probably pull the plug on those, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#8; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,9,stream=0x73000;block=0xC10;text=9,"[""stream=0x73000;block=0xC10;text=9""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","それは電撃を撃たれる前に壊してしまいたいところだな。
+","ああ。あとは…AIで動いているメカの共通点だけど、AIを
+破壊すれば行動不能になる。
+","ハッチをこじ開けて乗り込めば、AIの記憶板を抜き取れる。
+そうなったらこっちのもんだ。
+",[],,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和所有AI机器一样，只要干掉AI本身，
+就能让整台机体瘫痪。","[""和所有AI机器一样，只要干掉AI本身，\n就能让整台机体瘫痪。""]","as with all AI machines, you can incapacitate the
+entire unit by taking out the AI itself.
+","[""as with all AI machines, you can incapacitate the\nentire unit by taking out the AI itself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#10; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,10,stream=0x73000;block=0xC10;text=10,"[""stream=0x73000;block=0xC10;text=10""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ああ。あとは…AIで動いているメカの共通点だけど、AIを
+破壊すれば行動不能になる。
+","ハッチをこじ開けて乗り込めば、AIの記憶板を抜き取れる。
+そうなったらこっちのもんだ。
+","記憶板は何かに再利用できるかもしれない。できそうなら
+AIポッドへの乗り込みを試してみてくれ。
+",[],,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你能打开舱门爬进去，
+就可以拔出记忆板——AI就断电了。","[""如果你能打开舱门爬进去，\n就可以拔出记忆板——AI就断电了。""]","If you can get the hatch open and climb inside, you
+can pull out the memory boards -
+lights out, AI.
+","[""If you can get the hatch open and climb inside, you\ncan pull out the memory boards -\nlights out, AI.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x73C10; ENG blocks=0xFFDA0,0xFFDA0; ENG source rows=0xFFDA0#11,0xFFDA0#12; block_semantic_score=0.206867."
+BRIEFING_FILES_BLOCK_073C10,11,stream=0x73000;block=0xC10;text=11,"[""stream=0x73000;block=0xC10;text=11""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ハッチをこじ開けて乗り込めば、AIの記憶板を抜き取れる。
+そうなったらこっちのもんだ。
+","記憶板は何かに再利用できるかもしれない。できそうなら
+AIポッドへの乗り込みを試してみてくれ。
+","とはいえ、まずはある程度ダメージを与えて動きを止めな
+いと、乗り込むこともできない。
+",[],,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那些主板也许能为我们所用。如果可能的话，试着钻进
+AI舱里，给它来一下子。","[""那些主板也许能为我们所用。如果可能的话，试着钻进\nAI舱里，给它来一下子。""]","We may be able to use those boards for ourselves.
+If you can, try and get inside the AI pod and have
+a crack at it.
+","[""We may be able to use those boards for ourselves.\nIf you can, try and get inside the AI pod and have\na crack at it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x73C10; ENG blocks=0xFFDA0,0xFFDA0; ENG source rows=0xFFDA0#13,0xFFDA0#14; block_semantic_score=0.206867."
+BRIEFING_FILES_BLOCK_073C10,12,stream=0x73000;block=0xC10;text=12,"[""stream=0x73000;block=0xC10;text=12""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","記憶板は何かに再利用できるかもしれない。できそうなら
+AIポッドへの乗り込みを試してみてくれ。
+","とはいえ、まずはある程度ダメージを与えて動きを止めな
+いと、乗り込むこともできない。
+","わかった。まずは正攻法で攻めてみよう。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过你得先把它打到无法
+动弹，才能这么做。","[""不过你得先把它打到无法\n动弹，才能这么做。""]","You won't be able to do that until you've damaged
+it enough to stop it from moving, first.
+","[""You won't be able to do that until you've damaged\nit enough to stop it from moving, first.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#15; block_semantic_score=0.206867.
+BRIEFING_FILES_BLOCK_073C10,13,stream=0x73000;block=0xC10;text=13,"[""stream=0x73000;block=0xC10;text=13""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","とはいえ、まずはある程度ダメージを与えて動きを止めな
+いと、乗り込むこともできない。
+","わかった。まずは正攻法で攻めてみよう。
+",,[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白。先用常规战术，然后再来。,"[""明白。先用常规战术，然后再来。""]","Got it. Usual tactics first, then.
+","[""Got it. Usual tactics first, then.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73C10; ENG blocks=0xFFDA0; ENG source rows=0xFFDA0#16; block_semantic_score=0.206867.

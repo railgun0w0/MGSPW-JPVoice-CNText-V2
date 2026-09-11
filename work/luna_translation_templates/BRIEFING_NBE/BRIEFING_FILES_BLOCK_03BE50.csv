@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03BE50,0,stream=0x3B000;block=0xE50;text=0,"[""stream=0x3B000;block=0xE50;text=0""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0xE50;block_file=0x3BE50;text_base=0x3BE88;capacity=552""]",,"ここからは雲霧林よ。地表まで植物が生い茂ってる。隠れ
+る場所はいっぱいあるけど、それは敵も同じこと。
+","<R=偵察,スカウト>兵か…！
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从这里开始，你将进入一片
+云雾森林，地面布满植被。","[""从这里开始，你将进入一片\n云雾森林，地面布满植被。""]","From here on in you'll be in a cloud forest. The
+ground is covered in vegetation.
+","[""From here on in you'll be in a cloud forest. The\nground is covered in vegetation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3BE50; ENG blocks=0xCC320; ENG source rows=0xCC320#0; block_semantic_score=0.175077.
+BRIEFING_FILES_BLOCK_03BE50,1,stream=0x3B000;block=0xE50;text=1,"[""stream=0x3B000;block=0xE50;text=1""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0xE50;block_file=0x3BE50;text_base=0x3BE88;capacity=552""]","ここからは雲霧林よ。地表まで植物が生い茂ってる。隠れ
+る場所はいっぱいあるけど、それは敵も同じこと。
+","<R=偵察,スカウト>兵か…！
+","力押しで進むのは自殺行為。まずは敵の位置を知ることよ。
+レーダーみたいなのがあればいいけど。
+","[""<R=偵察,スカウト>""]",,,NOT_CHECKED,36,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会留意侦察兵。,"[""我会留意侦察兵。""]","I'll keep an eye out for scouts.
+","[""I'll keep an eye out for scouts.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3BE50; ENG blocks=0xCC320; ENG source rows=0xCC320#2; block_semantic_score=0.175077.
+BRIEFING_FILES_BLOCK_03BE50,2,stream=0x3B000;block=0xE50;text=2,"[""stream=0x3B000;block=0xE50;text=2""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0xE50;block_file=0x3BE50;text_base=0x3BE88;capacity=552""]","<R=偵察,スカウト>兵か…！
+","力押しで進むのは自殺行為。まずは敵の位置を知ることよ。
+レーダーみたいなのがあればいいけど。
+","あるいは<R=暗視装置,NVG>を使うか…。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,试图强行突破无异于自杀。行动前先摸清敌人的位置。,"[""试图强行突破无异于自杀。行动前先摸清敌人的位置。""]","Trying to force your way through would be suicide.
+Know the enemy's location before making any
+moves.
+","[""Trying to force your way through would be suicide.\nKnow the enemy's location before making any\nmoves.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3BE50; ENG blocks=0xCC320,0xCC320; ENG source rows=0xCC320#3,0xCC320#4; block_semantic_score=0.175077."
+BRIEFING_FILES_BLOCK_03BE50,3,stream=0x3B000;block=0xE50;text=3,"[""stream=0x3B000;block=0xE50;text=3""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0xE50;block_file=0x3BE50;text_base=0x3BE88;capacity=552""]","力押しで進むのは自殺行為。まずは敵の位置を知ることよ。
+レーダーみたいなのがあればいいけど。
+","あるいは<R=暗視装置,NVG>を使うか…。
+","敵の位置がわかれば、対処のしようはあるでしょ。死角を
+進むか…。
+","[""<R=暗視装置,NVG>""]",,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可惜你没有某种雷达。我可以试试夜视仪。,"[""可惜你没有某种雷达。我可以试试夜视仪。""]","Too bad you don't have some sort of radar.
+I could try night vision.
+","[""Too bad you don't have some sort of radar.\nI could try night vision.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3BE50; ENG blocks=0xCC320,0xCC320; ENG source rows=0xCC320#5,0xCC320#6; block_semantic_score=0.175077."
+BRIEFING_FILES_BLOCK_03BE50,4,stream=0x3B000;block=0xE50;text=4,"[""stream=0x3B000;block=0xE50;text=4""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0xE50;block_file=0x3BE50;text_base=0x3BE88;capacity=552""]","あるいは<R=暗視装置,NVG>を使うか…。
+","敵の位置がわかれば、対処のしようはあるでしょ。死角を
+進むか…。
+","こっちも狙撃銃で先制するか、だな。目には目を、だ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一旦知道敌人的位置，
+再决定怎么对付他。","[""一旦知道敌人的位置，\n再决定怎么对付他。""]","Once you know where an enemy is, decide how you
+want to handle him.
+","[""Once you know where an enemy is, decide how you\nwant to handle him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3BE50; ENG blocks=0xCC320; ENG source rows=0xCC320#7; block_semantic_score=0.175077.
+BRIEFING_FILES_BLOCK_03BE50,5,stream=0x3B000;block=0xE50;text=5,"[""stream=0x3B000;block=0xE50;text=5""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0xE50;block_file=0x3BE50;text_base=0x3BE88;capacity=552""]","敵の位置がわかれば、対処のしようはあるでしょ。死角を
+進むか…。
+","こっちも狙撃銃で先制するか、だな。目には目を、だ。
+",,[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"或者在他还没察觉有人靠近时，
+就从远处干掉他。","[""或者在他还没察觉有人靠近时，\n就从远处干掉他。""]","Or drop him from a distance before he even has a
+clue someone's around.
+","[""Or drop him from a distance before he even has a\nclue someone's around.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3BE50; ENG blocks=0xCC320; ENG source rows=0xCC320#9; block_semantic_score=0.175077.

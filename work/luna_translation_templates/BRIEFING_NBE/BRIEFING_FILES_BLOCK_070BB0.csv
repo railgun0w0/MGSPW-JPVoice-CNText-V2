@@ -1,0 +1,59 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_070BB0,0,stream=0x70000;block=0xBB0;text=0,"[""stream=0x70000;block=0xBB0;text=0""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]",,"スネーク、君は合衆国の本土防空網についてどの位知って
+る？
+","雲の上のことはそれほど詳しくない。NORADのレーダー
+がサンタを追尾していることくらいだな。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，你对美国本土
+防空网络了解多少？","[""Snake，你对美国本土\n防空网络了解多少？""]","Snake, how much do you know about the U.S.
+homeland air defense network?
+","[""Snake, how much do you know about the U.S.\nhomeland air defense network?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#0; block_semantic_score=0.129731.
+BRIEFING_FILES_BLOCK_070BB0,1,stream=0x70000;block=0xBB0;text=1,"[""stream=0x70000;block=0xBB0;text=1""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","スネーク、君は合衆国の本土防空網についてどの位知って
+る？
+","雲の上のことはそれほど詳しくない。NORADのレーダー
+がサンタを追尾していることくらいだな。
+","ほう、君でも冗談言うんだな。
+",[],,,NOT_CHECKED,130,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我对天上发生的事不太了解。我只知道北美防空司令部
+会用雷达追踪圣诞老人。","[""我对天上发生的事不太了解。我只知道北美防空司令部\n会用雷达追踪圣诞老人。""]","I don't know much about what goes on up in the
+sky.
+What I do know is that NORAD tracks Santa Claus
+on its radar.
+","[""I don't know much about what goes on up in the\nsky.\nWhat I do know is that NORAD tracks Santa Claus\non its radar.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x70BB0; ENG blocks=0xFD020,0xFD020; ENG source rows=0xFD020#1,0xFD020#2; block_semantic_score=0.129731."
+BRIEFING_FILES_BLOCK_070BB0,2,stream=0x70000;block=0xBB0;text=2,"[""stream=0x70000;block=0xBB0;text=2""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","雲の上のことはそれほど詳しくない。NORADのレーダー
+がサンタを追尾していることくらいだな。
+","ほう、君でも冗談言うんだな。
+","ん、いや冗談じゃ…。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哈！说得好。我都不
+知道你还会讲笑话！","[""哈！说得好。我都不\n知道你还会讲笑话！""]","Ha! Nice one. I didn't know you were a comedian,
+too!
+","[""Ha! Nice one. I didn't know you were a comedian,\ntoo!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#3; block_semantic_score=0.129731.
+BRIEFING_FILES_BLOCK_070BB0,3,stream=0x70000;block=0xBB0;text=3,"[""stream=0x70000;block=0xBB0;text=3""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","ほう、君でも冗談言うんだな。
+","ん、いや冗談じゃ…。
+","本当だ、NORADはサンタを…。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯？不，我是认真的…,"[""嗯？不，我是认真的…""]","Huh? No, I'm serious...
+","[""Huh? No, I'm serious...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#4; block_semantic_score=0.129731.
+BRIEFING_FILES_BLOCK_070BB0,4,stream=0x70000;block=0xBB0;text=4,"[""stream=0x70000;block=0xBB0;text=4""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","ん、いや冗談じゃ…。
+","本当だ、NORADはサンタを…。
+","毎年、年末にはホットラインが…。
+",[],,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真的。北美防空司令部会追踪他的…,"[""真的。北美防空司令部会追踪他的…""]","It's true. NORAD tracks his...
+","[""It's true. NORAD tracks his...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#5; block_semantic_score=0.129731.
+BRIEFING_FILES_BLOCK_070BB0,5,stream=0x70000;block=0xBB0;text=5,"[""stream=0x70000;block=0xBB0;text=5""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","本当だ、NORADはサンタを…。
+","毎年、年末にはホットラインが…。
+","判った、判ったよ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听我说！每年十二月份，
+他们都会设一条热线，然后…","[""听我说！每年十二月份，\n他们都会设一条热线，然后…""]","Listen to me! Every December, they set up a
+hotline and...
+","[""Listen to me! Every December, they set up a\nhotline and...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#6; block_semantic_score=0.129731.
+BRIEFING_FILES_BLOCK_070BB0,6,stream=0x70000;block=0xBB0;text=6,"[""stream=0x70000;block=0xBB0;text=6""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","毎年、年末にはホットラインが…。
+","判った、判ったよ。
+","…まさか。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好了好了，我明白了。,"[""好了好了，我明白了。""]","OK, OK, I get it.
+","[""OK, OK, I get it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#7; block_semantic_score=0.129731.
+BRIEFING_FILES_BLOCK_070BB0,7,stream=0x70000;block=0xBB0;text=7,"[""stream=0x70000;block=0xBB0;text=7""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","判った、判ったよ。
+","…まさか。
+","いないのか？　サンタ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…他是真的，我告诉你。,"[""…他是真的，我告诉你。""]","...He's real, I tell ya.
+","[""...He's real, I tell ya.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#8; block_semantic_score=0.129731.
+BRIEFING_FILES_BLOCK_070BB0,8,stream=0x70000;block=0xBB0;text=8,"[""stream=0x70000;block=0xBB0;text=8""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xBB0;block_file=0x70BB0;text_base=0x70BF4;capacity=468""]","…まさか。
+","いないのか？　サンタ。
+",,[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他…以前会给我带礼物，还…,"[""他…以前会给我带礼物，还…""]","He... used to bring me presents and...
+","[""He... used to bring me presents and...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70BB0; ENG blocks=0xFD020; ENG source rows=0xFD020#9; block_semantic_score=0.129731.

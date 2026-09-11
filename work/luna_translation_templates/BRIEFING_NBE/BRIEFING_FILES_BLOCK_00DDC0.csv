@@ -1,0 +1,124 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00DDC0,0,stream=0xD000;block=0xDC0;text=0,"[""stream=0xD000;block=0xDC0;text=0""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]",,"なぜ自衛隊を辞めた？
+","日本にいる理由がなくなったからだ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你当初为什么退出自卫队？,"[""你当初为什么退出自卫队？""]","So why'd you quit the JSDF?
+","[""So why'd you quit the JSDF?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#0; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,1,stream=0xD000;block=0xDC0;text=1,"[""stream=0xD000;block=0xDC0;text=1""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","なぜ自衛隊を辞めた？
+","日本にいる理由がなくなったからだ。
+","理由？
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,因为我已经没有理由继续待在日本了。,"[""因为我已经没有理由继续待在日本了。""]","Because I didn't have a reason to be in Japan
+anymore.
+","[""Because I didn't have a reason to be in Japan\nanymore.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#1; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,2,stream=0xD000;block=0xDC0;text=2,"[""stream=0xD000;block=0xDC0;text=2""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","日本にいる理由がなくなったからだ。
+","理由？
+","3年前にお袋が死んで、面倒を見る必要がなくなった。な
+ら何も、日本に燻っていることはない。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,理由？,"[""理由？""]","Reason?
+","[""Reason?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#2; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,3,stream=0xD000;block=0xDC0;text=3,"[""stream=0xD000;block=0xDC0;text=3""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","理由？
+","3年前にお袋が死んで、面倒を見る必要がなくなった。な
+ら何も、日本に燻っていることはない。
+","だがお前の腕なら、上官の期待も高かったんじゃないのか。
+",[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我妈妈三年前就去世了，
+所以我不用再照顾她了。她不在了，我也就没必要留在日本了。","[""我妈妈三年前就去世了，\n所以我不用再照顾她了。她不在了，我也就没必要留在日本了。""]","My mom had died three years earlier, so I didn't
+have to care for her anymore.
+With her gone, there was no point hanging around
+in Japan.
+","[""My mom had died three years earlier, so I didn't\nhave to care for her anymore.\nWith her gone, there was no point hanging around\nin Japan.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xDDC0; ENG blocks=0xA0A60,0xA0A60; ENG source rows=0xA0A60#3,0xA0A60#4; block_semantic_score=0.232668."
+BRIEFING_FILES_BLOCK_00DDC0,4,stream=0xD000;block=0xDC0;text=4,"[""stream=0xD000;block=0xDC0;text=4""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","3年前にお袋が死んで、面倒を見る必要がなくなった。な
+ら何も、日本に燻っていることはない。
+","だがお前の腕なら、上官の期待も高かったんじゃないのか。
+","俺への評価がどうだったかはわからん。むしろ跳ねっ返り
+として、疎んじられていたのかも知れん。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是吗，不过以你的才能，
+在自卫队里应该能升得很高吧。","[""是吗，不过以你的才能，\n在自卫队里应该能升得很高吧。""]","Yeah, but a man with your talents could have risen
+pretty high in the ranks, I imagine.
+","[""Yeah, but a man with your talents could have risen\npretty high in the ranks, I imagine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#5; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,5,stream=0xD000;block=0xDC0;text=5,"[""stream=0xD000;block=0xDC0;text=5""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","だがお前の腕なら、上官の期待も高かったんじゃないのか。
+","俺への評価がどうだったかはわからん。むしろ跳ねっ返り
+として、疎んじられていたのかも知れん。
+","俺自身、専守防衛に馴染めなかったしな。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不知道上面怎么看我。说不定我的
+存在反而让那些高层不待见我。","[""我不知道上面怎么看我。说不定我的\n存在反而让那些高层不待见我。""]","I don't know what they made of me. Could be it
+actually alienated me from the brass.
+","[""I don't know what they made of me. Could be it\nactually alienated me from the brass.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#6; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,6,stream=0xD000;block=0xDC0;text=6,"[""stream=0xD000;block=0xDC0;text=6""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","俺への評価がどうだったかはわからん。むしろ跳ねっ返り
+として、疎んじられていたのかも知れん。
+","俺自身、専守防衛に馴染めなかったしな。
+","と言うと？
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且说实话，我一直没法
+接受“专守防卫”这种理念。","[""而且说实话，我一直没法\n接受“专守防卫”这种理念。""]","And personally, I could never get used to the idea
+of exclusive defense.
+","[""And personally, I could never get used to the idea\nof exclusive defense.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#7; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,7,stream=0xD000;block=0xDC0;text=7,"[""stream=0xD000;block=0xDC0;text=7""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","俺自身、専守防衛に馴染めなかったしな。
+","と言うと？
+","自衛隊の専守防衛は、国の戦略の形としては、“あり”な
+のかも知れん。それに従う同僚を悪く言うつもりもない。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么意思？,"[""什么意思？""]","Meaning?
+","[""Meaning?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#8; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,8,stream=0xD000;block=0xDC0;text=8,"[""stream=0xD000;block=0xDC0;text=8""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","と言うと？
+","自衛隊の専守防衛は、国の戦略の形としては、“あり”な
+のかも知れん。それに従う同僚を悪く言うつもりもない。
+","だが戦術レベルで考えると、どうにも俺の性に合わなかっ
+た。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我能理解一个国家为什么会采用
+自卫队那种专守防卫的模式，","[""我能理解一个国家为什么会采用\n自卫队那种专守防卫的模式，""]","I can see how a country could go with the
+exclusive defense model used by the JSDF,
+","[""I can see how a country could go with the\nexclusive defense model used by the JSDF,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#10; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,9,stream=0xD000;block=0xDC0;text=9,"[""stream=0xD000;block=0xDC0;text=9""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","自衛隊の専守防衛は、国の戦略の形としては、“あり”な
+のかも知れん。それに従う同僚を悪く言うつもりもない。
+","だが戦術レベルで考えると、どうにも俺の性に合わなかっ
+た。
+","簡単に言えば、きちんと殴り合いをしたかったんだよ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可从战术层面来说，
+这套东西就是让我浑身不对劲。","[""可从战术层面来说，\n这套东西就是让我浑身不对劲。""]","On a tactical level, though, it just rubbed me the
+wrong way.
+","[""On a tactical level, though, it just rubbed me the\nwrong way.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#12; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,10,stream=0xD000;block=0xDC0;text=10,"[""stream=0xD000;block=0xDC0;text=10""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","だが戦術レベルで考えると、どうにも俺の性に合わなかっ
+た。
+","簡単に言えば、きちんと殴り合いをしたかったんだよ。
+","お前らしいな。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说白了，我就是渴望一场真正的战斗。,"[""说白了，我就是渴望一场真正的战斗。""]","To put it simply, I was itching for a real fight.
+","[""To put it simply, I was itching for a real fight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#13; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,11,stream=0xD000;block=0xDC0;text=11,"[""stream=0xD000;block=0xDC0;text=11""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","簡単に言えば、きちんと殴り合いをしたかったんだよ。
+","お前らしいな。
+","自衛隊にいる限り、親父のいた米軍と肩を並べることはで
+きない、という思いもあった。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我当时是这么想的…,"[""我当时是这么想的…""]","I figured....
+","[""I figured....\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#14; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,12,stream=0xD000;block=0xDC0;text=12,"[""stream=0xD000;block=0xDC0;text=12""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","お前らしいな。
+","自衛隊にいる限り、親父のいた米軍と肩を並べることはで
+きない、という思いもあった。
+","それに、三島由紀夫の自決を見たってのもある。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且我觉得，只要我还待在自卫队里，我就永远没法跟我那位在
+美国陆军服役的父亲平起平坐。","[""而且我觉得，只要我还待在自卫队里，我就永远没法跟我那位在\n美国陆军服役的父亲平起平坐。""]","And I felt like as long as I was in the JSDF,
+I'd never be able to stand shoulder to shoulder
+with my father who was in the U.S. Army.
+","[""And I felt like as long as I was in the JSDF,\nI'd never be able to stand shoulder to shoulder\nwith my father who was in the U.S. Army.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xDDC0; ENG blocks=0xA0A60,0xA0A60; ENG source rows=0xA0A60#15,0xA0A60#16; block_semantic_score=0.232668."
+BRIEFING_FILES_BLOCK_00DDC0,13,stream=0xD000;block=0xDC0;text=13,"[""stream=0xD000;block=0xDC0;text=13""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","自衛隊にいる限り、親父のいた米軍と肩を並べることはで
+きない、という思いもあった。
+","それに、三島由紀夫の自決を見たってのもある。
+","三島由紀夫…「金閣寺」を書いた？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看到三岛由纪夫自杀，
+也让我更加坚定了这个想法。","[""看到三岛由纪夫自杀，\n也让我更加坚定了这个想法。""]","Seeing Yukio Mishima's suicide didn't help, either.
+","[""Seeing Yukio Mishima's suicide didn't help, either.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#17; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,14,stream=0xD000;block=0xDC0;text=14,"[""stream=0xD000;block=0xDC0;text=14""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","それに、三島由紀夫の自決を見たってのもある。
+","三島由紀夫…「金閣寺」を書いた？
+","三島の問いかけは、俺にとっても重かった。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,三岛由纪夫…写《金阁寺》的那个人？,"[""三岛由纪夫…写《金阁寺》的那个人？""]","Yukio Mishima... the guy who wrote ""The Temple of
+the Golden Pavilion""?
+","[""Yukio Mishima... the guy who wrote \""The Temple of\nthe Golden Pavilion\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#18; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,15,stream=0xD000;block=0xDC0;text=15,"[""stream=0xD000;block=0xDC0;text=15""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","三島由紀夫…「金閣寺」を書いた？
+","三島の問いかけは、俺にとっても重かった。
+","彼の思想に傾倒しているわけではない。だが、考えるきっ
+かけになったのは確かだ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他质疑现状的那种方式，特别打动我。,"[""他质疑现状的那种方式，特别打动我。""]","The way he questioned the status quo hit home
+with me.
+","[""The way he questioned the status quo hit home\nwith me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#19; block_semantic_score=0.232668.
+BRIEFING_FILES_BLOCK_00DDC0,16,stream=0xD000;block=0xDC0;text=16,"[""stream=0xD000;block=0xDC0;text=16""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","三島の問いかけは、俺にとっても重かった。
+","彼の思想に傾倒しているわけではない。だが、考えるきっ
+かけになったのは確かだ。
+",,[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"倒不是说我多崇拜他的理念，
+但那件事确实让我开始思考了。","[""倒不是说我多崇拜他的理念，\n但那件事确实让我开始思考了。""]","Not that I admired his vision or anything. But it did
+get me thinking, that's for sure.
+","[""Not that I admired his vision or anything. But it did\nget me thinking, that's for sure.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xDDC0; ENG blocks=0xA0A60; ENG source rows=0xA0A60#20; block_semantic_score=0.232668.

@@ -1,0 +1,43 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03B490,0,stream=0x3B000;block=0x490;text=0,"[""stream=0x3B000;block=0x490;text=0""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x490;block_file=0x3B490;text_base=0x3B4CC;capacity=512""]",,"チコは、村の北に橋があると言ってたな。
+","鉄管を渡すための、狭い橋よ。それを渡ればトラックの輸
+送路と合流する。あちこち壊れているみたい。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico说村子北边有座桥。,"[""Chico说村子北边有座桥。""]","Chico says there's a bridge north of the village.
+","[""Chico says there's a bridge north of the village.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B490; ENG blocks=0xCB950; ENG source rows=0xCB950#0; block_semantic_score=0.150016.
+BRIEFING_FILES_BLOCK_03B490,1,stream=0x3B000;block=0x490;text=1,"[""stream=0x3B000;block=0x490;text=1""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x490;block_file=0x3B490;text_base=0x3B4CC;capacity=512""]","チコは、村の北に橋があると言ってたな。
+","鉄管を渡すための、狭い橋よ。それを渡ればトラックの輸
+送路と合流する。あちこち壊れているみたい。
+","見つかったら、逃げ場はなさそうだ。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对，一座窄桥——用来过管道的。,"[""对，一座窄桥——用来过管道的。""]","Yes, a narrow one - for crossing the pipe.
+","[""Yes, a narrow one - for crossing the pipe.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B490; ENG blocks=0xCB950; ENG source rows=0xCB950#1; block_semantic_score=0.150016.
+BRIEFING_FILES_BLOCK_03B490,2,stream=0x3B000;block=0x490;text=2,"[""stream=0x3B000;block=0x490;text=2""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x490;block_file=0x3B490;text_base=0x3B4CC;capacity=512""]","鉄管を渡すための、狭い橋よ。それを渡ればトラックの輸
+送路と合流する。あちこち壊れているみたい。
+","見つかったら、逃げ場はなさそうだ。
+","兵士が道を塞いでたら、厄介ね。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要是被他们发现，我就无处可逃了。,"[""要是被他们发现，我就无处可逃了。""]","I'll have nowhere to run if they spot me.
+","[""I'll have nowhere to run if they spot me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B490; ENG blocks=0xCB950; ENG source rows=0xCB950#4; block_semantic_score=0.150016.
+BRIEFING_FILES_BLOCK_03B490,3,stream=0x3B000;block=0x490;text=3,"[""stream=0x3B000;block=0x490;text=3""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x490;block_file=0x3B490;text_base=0x3B4CC;capacity=512""]","見つかったら、逃げ場はなさそうだ。
+","兵士が道を塞いでたら、厄介ね。
+","抜け道は？
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们也可能把路堵了。,"[""他们也可能把路堵了。""]","They could be blocking the road, too.
+","[""They could be blocking the road, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B490; ENG blocks=0xCB950; ENG source rows=0xCB950#5; block_semantic_score=0.150016.
+BRIEFING_FILES_BLOCK_03B490,4,stream=0x3B000;block=0x490;text=4,"[""stream=0x3B000;block=0x490;text=4""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x490;block_file=0x3B490;text_base=0x3B4CC;capacity=512""]","兵士が道を塞いでたら、厄介ね。
+","抜け道は？
+","崖沿いの道だもの。橋を渡ってからは、山側に砦の跡があ
+る。そっちを通れれば、少しは楽になるはずよ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有别的路吗？,"[""还有别的路吗？""]","Is there another way?
+","[""Is there another way?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B490; ENG blocks=0xCB950; ENG source rows=0xCB950#6; block_semantic_score=0.150016.
+BRIEFING_FILES_BLOCK_03B490,5,stream=0x3B000;block=0x490;text=5,"[""stream=0x3B000;block=0x490;text=5""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x490;block_file=0x3B490;text_base=0x3B4CC;capacity=512""]","抜け道は？
+","崖沿いの道だもの。橋を渡ってからは、山側に砦の跡があ
+る。そっちを通れれば、少しは楽になるはずよ。
+","山道を抜ければ、連中の砦よ。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有条贴着悬崖的小路。过桥后，山上有座堡垒的废墟。,"[""有条贴着悬崖的小路。过桥后，山上有座堡垒的废墟。""]","There is a path along the cliff.
+After you cross the bridge, there are ruins of a
+fort on the mountain.
+","[""There is a path along the cliff.\nAfter you cross the bridge, there are ruins of a\nfort on the mountain.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3B490; ENG blocks=0xCB950,0xCB950; ENG source rows=0xCB950#7,0xCB950#8; block_semantic_score=0.150016."
+BRIEFING_FILES_BLOCK_03B490,6,stream=0x3B000;block=0x490;text=6,"[""stream=0x3B000;block=0x490;text=6""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x490;block_file=0x3B490;text_base=0x3B4CC;capacity=512""]","崖沿いの道だもの。橋を渡ってからは、山側に砦の跡があ
+る。そっちを通れれば、少しは楽になるはずよ。
+","山道を抜ければ、連中の砦よ。
+",,[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,走到山路的尽头，就到堡垒了。,"[""走到山路的尽头，就到堡垒了。""]","Once you come to the end of the mountain path,
+you'll be at the fort.
+","[""Once you come to the end of the mountain path,\nyou'll be at the fort.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B490; ENG blocks=0xCB950; ENG source rows=0xCB950#10; block_semantic_score=0.150016.

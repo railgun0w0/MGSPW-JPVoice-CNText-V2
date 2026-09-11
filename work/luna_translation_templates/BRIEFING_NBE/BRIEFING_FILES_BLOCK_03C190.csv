@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03C190,0,stream=0x3C000;block=0x190;text=0,"[""stream=0x3C000;block=0x190;text=0""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]",,"真っ向から戦闘ヘリとやりあったら命がいくつあっても足
+りない。
+","でも、こういう場所ならゲリラ戦術が有効よ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别想着正面硬刚直升机。,"[""别想着正面硬刚直升机。""]","Don't even think about facing a chopper head-on.
+","[""Don't even think about facing a chopper head-on.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#0; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,1,stream=0x3C000;block=0x190;text=1,"[""stream=0x3C000;block=0x190;text=1""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","真っ向から戦闘ヘリとやりあったら命がいくつあっても足
+りない。
+","でも、こういう場所ならゲリラ戦術が有効よ。
+","木の陰から陰へと移動を繰り返せば、上空からじゃなかな
+か位置がつかめない。そこに勝機があるってわけ。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,游击战术在这种地方会很有效。,"[""游击战术在这种地方会很有效。""]","Guerilla tactics would work well in a place like that.
+","[""Guerilla tactics would work well in a place like that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#1; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,2,stream=0x3C000;block=0x190;text=2,"[""stream=0x3C000;block=0x190;text=2""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","でも、こういう場所ならゲリラ戦術が有効よ。
+","木の陰から陰へと移動を繰り返せば、上空からじゃなかな
+か位置がつかめない。そこに勝機があるってわけ。
+","さすが<R=司令官,コマンダンテ>だ。戦い慣れてるな。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在树木间移动，空中就很难锁定你。,"[""在树木间移动，空中就很难锁定你。""]","Moving from tree to tree will make it hard to get a
+fix on you from the air.
+","[""Moving from tree to tree will make it hard to get a\nfix on you from the air.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#2; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,3,stream=0x3C000;block=0x190;text=3,"[""stream=0x3C000;block=0x190;text=3""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","木の陰から陰へと移動を繰り返せば、上空からじゃなかな
+か位置がつかめない。そこに勝機があるってわけ。
+","さすが<R=司令官,コマンダンテ>だ。戦い慣れてるな。
+","よしてよ、ボス。あとは、音にも注意してね。
+","[""<R=司令官,コマンダンテ>""]",,,NOT_CHECKED,72,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"想得不错，指挥官。
+你显然很懂怎么在战场上混。","[""想得不错，指挥官。\n你显然很懂怎么在战场上混。""]","Good thinking, comandante. You clearly know your
+way around a battlefield.
+","[""Good thinking, comandante. You clearly know your\nway around a battlefield.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#4; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,4,stream=0x3C000;block=0x190;text=4,"[""stream=0x3C000;block=0x190;text=4""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","さすが<R=司令官,コマンダンテ>だ。戦い慣れてるな。
+","よしてよ、ボス。あとは、音にも注意してね。
+","物陰に身を隠しているときは、こちらからも様子をうかが
+いにくい。それだけに音で相手の位置を読むことが重要に
+なるわ。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"躲起来的时候，
+你就看不太清楚直升机了。","[""躲起来的时候，\n你就看不太清楚直升机了。""]","When you're hiding, you won't be able to see the
+chopper that well.
+","[""When you're hiding, you won't be able to see the\nchopper that well.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#6; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,5,stream=0x3C000;block=0x190;text=5,"[""stream=0x3C000;block=0x190;text=5""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","よしてよ、ボス。あとは、音にも注意してね。
+","物陰に身を隠しているときは、こちらからも様子をうかが
+いにくい。それだけに音で相手の位置を読むことが重要に
+なるわ。
+","それから、できればテイルローターを狙うといいわ。それ
+だけでヘリの機動性はかなり落ちる。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,重要的是凭声音判断它的位置。,"[""重要的是凭声音判断它的位置。""]","It's important to use sound to get a read on its
+position.
+","[""It's important to use sound to get a read on its\nposition.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#7; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,6,stream=0x3C000;block=0x190;text=6,"[""stream=0x3C000;block=0x190;text=6""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","物陰に身を隠しているときは、こちらからも様子をうかが
+いにくい。それだけに音で相手の位置を読むことが重要に
+なるわ。
+","それから、できればテイルローターを狙うといいわ。それ
+だけでヘリの機動性はかなり落ちる。
+","地上部隊にも気をつけて。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你也可以试试打掉它的尾旋翼，
+那样会大大降低它的机动性。","[""你也可以试试打掉它的尾旋翼，\n那样会大大降低它的机动性。""]","You could also try taking out its tail rotor. That
+would greatly reduce its mobility.
+","[""You could also try taking out its tail rotor. That\nwould greatly reduce its mobility.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#8; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,7,stream=0x3C000;block=0x190;text=7,"[""stream=0x3C000;block=0x190;text=7""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","それから、できればテイルローターを狙うといいわ。それ
+だけでヘリの機動性はかなり落ちる。
+","地上部隊にも気をつけて。
+","了解だ。<R=司令官,コマンダンテ>。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还要当心地面的部队。,"[""还要当心地面的部队。""]","And watch out for ground troops.
+","[""And watch out for ground troops.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#9; block_semantic_score=0.149022.
+BRIEFING_FILES_BLOCK_03C190,8,stream=0x3C000;block=0x190;text=8,"[""stream=0x3C000;block=0x190;text=8""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x190;block_file=0x3C190;text_base=0x3C1D4;capacity=840""]","地上部隊にも気をつけて。
+","了解だ。<R=司令官,コマンダンテ>。
+",,"[""<R=司令官,コマンダンテ>""]",,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,收到，指挥官。,"[""收到，指挥官。""]","Copy that, comandante.
+","[""Copy that, comandante.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3C190; ENG blocks=0xCC700; ENG source rows=0xCC700#10; block_semantic_score=0.149022.

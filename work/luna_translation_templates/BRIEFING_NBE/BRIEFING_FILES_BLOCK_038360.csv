@@ -1,0 +1,119 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_038360,0,stream=0x38000;block=0x360;text=0,"[""stream=0x38000;block=0x360;text=0""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]",,"チコは12歳なんだよな。
+","ええ。
+",[],,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico今年12岁，对吧？,"[""Chico今年12岁，对吧？""]","Chico's 12, right?
+","[""Chico's 12, right?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#0; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,1,stream=0x38000;block=0x360;text=1,"[""stream=0x38000;block=0x360;text=1""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","チコは12歳なんだよな。
+","ええ。
+","それにしちゃ、ちょっと小さくないか？
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","Right.
+","[""Right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#1; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,2,stream=0x38000;block=0x360;text=2,"[""stream=0x38000;block=0x360;text=2""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","ええ。
+","それにしちゃ、ちょっと小さくないか？
+","…栄養が足りないのよ。森を逃げ回ってると、食べ物もま
+まならないから…。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他是不是有点…矮小，
+相对于他的年龄？","[""他是不是有点…矮小，\n相对于他的年龄？""]","Isn't he a little... short for his age?
+","[""Isn't he a little... short for his age?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#2; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,3,stream=0x38000;block=0x360;text=3,"[""stream=0x38000;block=0x360;text=3""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","それにしちゃ、ちょっと小さくないか？
+","…栄養が足りないのよ。森を逃げ回ってると、食べ物もま
+まならないから…。
+","食べ盛りなのにな。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…营养不良。在丛林里
+到处跑，很难找到吃的…","[""…营养不良。在丛林里\n到处跑，很难找到吃的…""]","...Malnourishment. Food is hard to come by when
+you're running around in the jungle...
+","[""...Malnourishment. Food is hard to come by when\nyou're running around in the jungle...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#3; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,4,stream=0x38000;block=0x360;text=4,"[""stream=0x38000;block=0x360;text=4""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","…栄養が足りないのよ。森を逃げ回ってると、食べ物もま
+まならないから…。
+","食べ盛りなのにな。
+","わかってる！　本当は、チコを連れ回りたくない。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他胃口很大。我知道！,"[""他胃口很大。我知道！""]","He's got quite an appetite.
+I know!
+","[""He's got quite an appetite.\nI know!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x38360; ENG blocks=0xC8B50,0xC8B50; ENG source rows=0xC8B50#4,0xC8B50#5; block_semantic_score=0.133735."
+BRIEFING_FILES_BLOCK_038360,5,stream=0x38000;block=0x360;text=5,"[""stream=0x38000;block=0x360;text=5""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","食べ盛りなのにな。
+","わかってる！　本当は、チコを連れ回りたくない。
+","でも、匿ってもらえる場所もないから、手元に置いておく
+しかないの。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一开始我就不想让他来。,"[""一开始我就不想让他来。""]","I didn't want him to come in the first place.
+","[""I didn't want him to come in the first place.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#6; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,6,stream=0x38000;block=0x360;text=6,"[""stream=0x38000;block=0x360;text=6""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","わかってる！　本当は、チコを連れ回りたくない。
+","でも、匿ってもらえる場所もないから、手元に置いておく
+しかないの。
+","自分を責めるな。安全な場所に離れているより、家族と一
+緒のほうが幸せだってこともある。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但是没人收留他。我别无选择，
+只能自己照顾他。别对自己太苛刻。","[""但是没人收留他。我别无选择，\n只能自己照顾他。别对自己太苛刻。""]","But there was no one to take him in. I had no
+choice but to look after him.
+Don't be so hard on yourself.
+","[""But there was no one to take him in. I had no\nchoice but to look after him.\nDon't be so hard on yourself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x38360; ENG blocks=0xC8B50,0xC8B50; ENG source rows=0xC8B50#7,0xC8B50#8; block_semantic_score=0.133735."
+BRIEFING_FILES_BLOCK_038360,7,stream=0x38000;block=0x360;text=7,"[""stream=0x38000;block=0x360;text=7""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","でも、匿ってもらえる場所もないから、手元に置いておく
+しかないの。
+","自分を責めるな。安全な場所に離れているより、家族と一
+緒のほうが幸せだってこともある。
+","ありがと…。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有时候，比起把他送到安全的远方，
+让孩子和家人在一起更好。","[""有时候，比起把他送到安全的远方，\n让孩子和家人在一起更好。""]","Sometimes it's better for a kid to be with his family
+than far away, in a safe place.
+","[""Sometimes it's better for a kid to be with his family\nthan far away, in a safe place.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#9; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,8,stream=0x38000;block=0x360;text=8,"[""stream=0x38000;block=0x360;text=8""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","自分を責めるな。安全な場所に離れているより、家族と一
+緒のほうが幸せだってこともある。
+","ありがと…。
+","その代わり、約束するんだ。戦いが終わったら、ちゃんと
+教育を受けさせろ。ゲリラ以外の仕事に就けるように。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谢谢你…,"[""谢谢你…""]","Thank you...
+","[""Thank you...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#10; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,9,stream=0x38000;block=0x360;text=9,"[""stream=0x38000;block=0x360;text=9""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","ありがと…。
+","その代わり、約束するんだ。戦いが終わったら、ちゃんと
+教育を受けさせろ。ゲリラ以外の仕事に就けるように。
+","戦いしか知らない男にしちゃいけない。まだ間に合う。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过，答应我一件事。等你的战斗
+结束后，一定要让他接受正规教育。","[""不过，答应我一件事。等你的战斗\n结束后，一定要让他接受正规教育。""]","Promise me this, though. When your fight is over,
+make sure he gets a proper education.
+","[""Promise me this, though. When your fight is over,\nmake sure he gets a proper education.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#11; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,10,stream=0x38000;block=0x360;text=10,"[""stream=0x38000;block=0x360;text=10""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","その代わり、約束するんだ。戦いが終わったら、ちゃんと
+教育を受けさせろ。ゲリラ以外の仕事に就けるように。
+","戦いしか知らない男にしちゃいけない。まだ間に合う。
+","そうね。約束する。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"给他一个机会，
+成为游击队以外的别的什么人。","[""给他一个机会，\n成为游击队以外的别的什么人。""]","Give him a chance to be something other than a
+guerrilla.
+","[""Give him a chance to be something other than a\nguerrilla.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#12; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,11,stream=0x38000;block=0x360;text=11,"[""stream=0x38000;block=0x360;text=11""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","戦いしか知らない男にしちゃいけない。まだ間に合う。
+","そうね。約束する。
+","…チコが大事にしてる本、知ってる？　「世界のふしぎ生
+物百科」だって。ネッシーとかイェティとか…。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好的，我答应你。,"[""好的，我答应你。""]","OK. I promise.
+","[""OK. I promise.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#14; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,12,stream=0x38000;block=0x360;text=12,"[""stream=0x38000;block=0x360;text=12""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","そうね。約束する。
+","…チコが大事にしてる本、知ってる？　「世界のふしぎ生
+物百科」だって。ネッシーとかイェティとか…。
+","<R=UMA,ユーマ>ってやつだな。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"《世界神秘生物百科全书》。
+尼斯湖水怪，雪人…","[""《世界神秘生物百科全书》。\n尼斯湖水怪，雪人…""]","The ""World Encyclopedia of Mysterious Creatures.""
+The Loch Ness Monster, the Yeti...
+","[""The \""World Encyclopedia of Mysterious Creatures.\""\nThe Loch Ness Monster, the Yeti...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#16; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,13,stream=0x38000;block=0x360;text=13,"[""stream=0x38000;block=0x360;text=13""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","…チコが大事にしてる本、知ってる？　「世界のふしぎ生
+物百科」だって。ネッシーとかイェティとか…。
+","<R=UMA,ユーマ>ってやつだな。
+","本当に子供なんだから…心配よ。
+","[""<R=UMA,ユーマ>""]",,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,未知生物。没错，我知道。,"[""未知生物。没错，我知道。""]","UMAs. Yeah, I know.
+","[""UMAs. Yeah, I know.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#17; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,14,stream=0x38000;block=0x360;text=14,"[""stream=0x38000;block=0x360;text=14""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","<R=UMA,ユーマ>ってやつだな。
+","本当に子供なんだから…心配よ。
+","大丈夫だ。いい大人になっても、<R=UMA,ユーマ>が大好きな連中はい
+る。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他还是那么像个小孩…我挺担心他的。,"[""他还是那么像个小孩…我挺担心他的。""]","He's still so much like a boy... I worry about him.
+","[""He's still so much like a boy... I worry about him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#18; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,15,stream=0x38000;block=0x360;text=15,"[""stream=0x38000;block=0x360;text=15""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","本当に子供なんだから…心配よ。
+","大丈夫だ。いい大人になっても、<R=UMA,ユーマ>が大好きな連中はい
+る。
+","そうなの？？
+","[""<R=UMA,ユーマ>""]",,,NOT_CHECKED,97,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他没事的。很多成年人对
+未知生物依然很狂热。","[""他没事的。很多成年人对\n未知生物依然很狂热。""]","He'll be fine. I know plenty of grown men who still
+go crazy over UMAs.
+","[""He'll be fine. I know plenty of grown men who still\ngo crazy over UMAs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#19; block_semantic_score=0.133735.
+BRIEFING_FILES_BLOCK_038360,16,stream=0x38000;block=0x360;text=16,"[""stream=0x38000;block=0x360;text=16""]",1,BRIEFING FILES,"[""stream=0x38000;block=0x360;block_file=0x38360;text_base=0x383C4;capacity=1172""]","大丈夫だ。いい大人になっても、<R=UMA,ユーマ>が大好きな連中はい
+る。
+","そうなの？？
+",,[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你…你说真的？,"[""你…你说真的？""]","Are... are you serious?
+","[""Are... are you serious?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38360; ENG blocks=0xC8B50; ENG source rows=0xC8B50#20; block_semantic_score=0.133735.

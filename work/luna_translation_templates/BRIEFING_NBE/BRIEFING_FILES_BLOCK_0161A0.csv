@@ -1,0 +1,37 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0161A0,0,stream=0x16000;block=0x1A0;text=0,"[""stream=0x16000;block=0x1A0;text=0""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]",,"研究開発班の連中、CO-OPS専用の武器を研究中らしい。
+","CO-OPS専用？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看来研发团队一直在忙着
+开发合作模式专用武器。","[""看来研发团队一直在忙着\n开发合作模式专用武器。""]","Seems the R&D team's been busy working on CO-OPS
+only weapons.
+","[""Seems the R&D team's been busy working on CO-OPS\nonly weapons.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x161A0; ENG blocks=0xA8F00; ENG source rows=0xA8F00#0; block_semantic_score=0.101175.
+BRIEFING_FILES_BLOCK_0161A0,1,stream=0x16000;block=0x1A0;text=1,"[""stream=0x16000;block=0x1A0;text=1""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","研究開発班の連中、CO-OPS専用の武器を研究中らしい。
+","CO-OPS専用？
+","例えば、二人同時に撃たないと威力を発揮しない銃とか…
+その分攻撃力は高いと聞く。まだ構想の段階だそうだが。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,合作模式专用？,"[""合作模式专用？""]","CO-OPS only?
+","[""CO-OPS only?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x161A0; ENG blocks=0xA8F00; ENG source rows=0xA8F00#1; block_semantic_score=0.101175.
+BRIEFING_FILES_BLOCK_0161A0,2,stream=0x16000;block=0x1A0;text=2,"[""stream=0x16000;block=0x1A0;text=2""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","CO-OPS専用？
+","例えば、二人同時に撃たないと威力を発揮しない銃とか…
+その分攻撃力は高いと聞く。まだ構想の段階だそうだが。
+","ロケットランチャーを二人一組で運用することはあるが、
+CO-OPS専用とはな。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但必须两个人同时开火才行。
+听说还在概念阶段。","[""但必须两个人同时开火才行。\n听说还在概念阶段。""]","But only when two people fire it at once. I hear it's
+still in the concept stage.
+","[""But only when two people fire it at once. I hear it's\nstill in the concept stage.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x161A0; ENG blocks=0xA8F00; ENG source rows=0xA8F00#3; block_semantic_score=0.101175.
+BRIEFING_FILES_BLOCK_0161A0,3,stream=0x16000;block=0x1A0;text=3,"[""stream=0x16000;block=0x1A0;text=3""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","例えば、二人同時に撃たないと威力を発揮しない銃とか…
+その分攻撃力は高いと聞く。まだ構想の段階だそうだが。
+","ロケットランチャーを二人一組で運用することはあるが、
+CO-OPS専用とはな。
+","だが開発に成功すれば、CO-OPSのやりがいもあるっても
+んだろう。武器開発の様子も、気にしてやってくれ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我知道有些火箭筒需要两个人操作，,"[""我知道有些火箭筒需要两个人操作，""]","I know some rocket launchers need two people to
+operate,
+","[""I know some rocket launchers need two people to\noperate,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x161A0; ENG blocks=0xA8F00; ENG source rows=0xA8F00#4; block_semantic_score=0.101175.
+BRIEFING_FILES_BLOCK_0161A0,4,stream=0x16000;block=0x1A0;text=4,"[""stream=0x16000;block=0x1A0;text=4""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","ロケットランチャーを二人一組で運用することはあるが、
+CO-OPS専用とはな。
+","だが開発に成功すれば、CO-OPSのやりがいもあるっても
+んだろう。武器開発の様子も、気にしてやってくれ。
+",,[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可是合作模式专用武器…,"[""可是合作模式专用武器…""]","but a CO-OPS only weapon...
+","[""but a CO-OPS only weapon...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x161A0; ENG blocks=0xA8F00; ENG source rows=0xA8F00#5; block_semantic_score=0.101175.

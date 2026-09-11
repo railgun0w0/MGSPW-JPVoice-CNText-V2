@@ -1,0 +1,43 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03EEB0,0,stream=0x3E000;block=0xEB0;text=0,"[""stream=0x3E000;block=0xEB0;text=0""]",1,BRIEFING FILES,"[""stream=0x3E000;block=0xEB0;block_file=0x3EEB0;text_base=0x3EEE8;capacity=496""]",,"スネーク！　核発射を止めて！　このままじゃキューバが
+…！
+","ああ、わかってる。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，你必须阻止发射！
+它会攻击古巴！","[""Snake，你必须阻止发射！\n它会攻击古巴！""]","Snake, you have to stop the launch! It's going to
+strike Cuba!
+","[""Snake, you have to stop the launch! It's going to\nstrike Cuba!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3EEB0; ENG blocks=0xCEC00; ENG source rows=0xCEC00#0; block_semantic_score=0.147348.
+BRIEFING_FILES_BLOCK_03EEB0,1,stream=0x3E000;block=0xEB0;text=1,"[""stream=0x3E000;block=0xEB0;text=1""]",1,BRIEFING FILES,"[""stream=0x3E000;block=0xEB0;block_file=0x3EEB0;text_base=0x3EEE8;capacity=496""]","スネーク！　核発射を止めて！　このままじゃキューバが
+…！
+","ああ、わかってる。
+","機体も<R= 改造 ,チューンナップ>されたみたいだし、あいつは以前戦ったとき
+とは別物よ。以前の攻略法は通用しないかもしれない。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我知道，我知道！,"[""我知道，我知道！""]","I know, I know!
+","[""I know, I know!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3EEB0; ENG blocks=0xCEC00; ENG source rows=0xCEC00#1; block_semantic_score=0.147348.
+BRIEFING_FILES_BLOCK_03EEB0,2,stream=0x3E000;block=0xEB0;text=2,"[""stream=0x3E000;block=0xEB0;text=2""]",1,BRIEFING FILES,"[""stream=0x3E000;block=0xEB0;block_file=0x3EEB0;text_base=0x3EEE8;capacity=496""]","ああ、わかってる。
+","機体も<R= 改造 ,チューンナップ>されたみたいだし、あいつは以前戦ったとき
+とは別物よ。以前の攻略法は通用しないかもしれない。
+","ただ、基本戦略は同じはず。予備動作を把握するようにし
+て。
+","[""<R= 改造 ,チューンナップ>""]",,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不知道你以前的战术是否还管用。,"[""我不知道你以前的战术是否还管用。""]","I do not know if your old tactics will work.
+","[""I do not know if your old tactics will work.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3EEB0; ENG blocks=0xCEC00; ENG source rows=0xCEC00#3; block_semantic_score=0.147348.
+BRIEFING_FILES_BLOCK_03EEB0,3,stream=0x3E000;block=0xEB0;text=3,"[""stream=0x3E000;block=0xEB0;text=3""]",1,BRIEFING FILES,"[""stream=0x3E000;block=0xEB0;block_file=0x3EEB0;text_base=0x3EEE8;capacity=496""]","機体も<R= 改造 ,チューンナップ>されたみたいだし、あいつは以前戦ったとき
+とは別物よ。以前の攻略法は通用しないかもしれない。
+","ただ、基本戦略は同じはず。予備動作を把握するようにし
+て。
+","じっくり見ている時間はないかもしれないけど…。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但基本策略没变。试着在它行动前预判它的动作。,"[""但基本策略没变。试着在它行动前预判它的动作。""]","But the basic strategy remains the same.
+Try to anticipate what it's going to do before it
+does it.
+","[""But the basic strategy remains the same.\nTry to anticipate what it's going to do before it\ndoes it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3EEB0; ENG blocks=0xCEC00,0xCEC00; ENG source rows=0xCEC00#4,0xCEC00#5; block_semantic_score=0.147348."
+BRIEFING_FILES_BLOCK_03EEB0,4,stream=0x3E000;block=0xEB0;text=4,"[""stream=0x3E000;block=0xEB0;text=4""]",1,BRIEFING FILES,"[""stream=0x3E000;block=0xEB0;block_file=0x3EEB0;text_base=0x3EEE8;capacity=496""]","ただ、基本戦略は同じはず。予備動作を把握するようにし
+て。
+","じっくり見ている時間はないかもしれないけど…。
+","わかった。なんとかする。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以，你可能没那么
+多时间站着观察了。","[""所以，你可能没那么\n多时间站着观察了。""]","So, you probably won't have as much time to stand
+around staring.
+","[""So, you probably won't have as much time to stand\naround staring.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3EEB0; ENG blocks=0xCEC00; ENG source rows=0xCEC00#6; block_semantic_score=0.147348.
+BRIEFING_FILES_BLOCK_03EEB0,5,stream=0x3E000;block=0xEB0;text=5,"[""stream=0x3E000;block=0xEB0;text=5""]",1,BRIEFING FILES,"[""stream=0x3E000;block=0xEB0;block_file=0x3EEB0;text_base=0x3EEE8;capacity=496""]","じっくり見ている時間はないかもしれないけど…。
+","わかった。なんとかする。
+",,[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,本来也没指望。我会想办法的。,"[""本来也没指望。我会想办法的。""]","Wasn't counting on it. I'll manage somehow.
+","[""Wasn't counting on it. I'll manage somehow.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3EEB0; ENG blocks=0xCEC00; ENG source rows=0xCEC00#7; block_semantic_score=0.147348.

@@ -1,0 +1,73 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_051320,0,stream=0x51000;block=0x320;text=0,"[""stream=0x51000;block=0x320;text=0""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]",,"今の技術では、AIはどうしても巨大になる。
+","だが、今後回路が集積化されていけば、小型化が進むだろ
+う。それこそヒトの脳と同じ大きさか、それ以下にまで。
+",[],,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,以现有技术，AI的体型必然十分庞大。,"[""以现有技术，AI的体型必然十分庞大。""]","With current technology, AI are inevitably enormous
+in size.
+","[""With current technology, AI are inevitably enormous\nin size.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#0; block_semantic_score=0.161263.
+BRIEFING_FILES_BLOCK_051320,1,stream=0x51000;block=0x320;text=1,"[""stream=0x51000;block=0x320;text=1""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","今の技術では、AIはどうしても巨大になる。
+","だが、今後回路が集積化されていけば、小型化が進むだろ
+う。それこそヒトの脳と同じ大きさか、それ以下にまで。
+","一方で、ロボット工学も進歩していくはず。ヒトの姿に似
+せた、アンドロイドが作れるくらいには。そうなれば…。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但随着电路集成度不断提高，
+它们会变得越来越小。","[""但随着电路集成度不断提高，\n它们会变得越来越小。""]","But as circuit integration continues to advance,
+they'll become even smaller.
+","[""But as circuit integration continues to advance,\nthey'll become even smaller.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#1; block_semantic_score=0.161263.
+BRIEFING_FILES_BLOCK_051320,2,stream=0x51000;block=0x320;text=2,"[""stream=0x51000;block=0x320;text=2""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","だが、今後回路が集積化されていけば、小型化が進むだろ
+う。それこそヒトの脳と同じ大きさか、それ以下にまで。
+","一方で、ロボット工学も進歩していくはず。ヒトの姿に似
+せた、アンドロイドが作れるくらいには。そうなれば…。
+","そうなれば何だと言うんだ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_051320,3,stream=0x51000;block=0x320;text=3,"[""stream=0x51000;block=0x320;text=3""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","一方で、ロボット工学も進歩していくはず。ヒトの姿に似
+せた、アンドロイドが作れるくらいには。そうなれば…。
+","そうなれば何だと言うんだ。
+","言わなくてもわかるだろう？
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,小到和人脑一样，甚至可能更小。,"[""小到和人脑一样，甚至可能更小。""]","As small as human brains, and perhaps smaller
+than that.
+","[""As small as human brains, and perhaps smaller\nthan that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#2; block_semantic_score=0.161263.
+BRIEFING_FILES_BLOCK_051320,4,stream=0x51000;block=0x320;text=4,"[""stream=0x51000;block=0x320;text=4""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","そうなれば何だと言うんだ。
+","言わなくてもわかるだろう？
+","まさかあんた、ボスそっくりの機械人形を…。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,与此同时，机器人技术也会不断进步，,"[""与此同时，机器人技术也会不断进步，""]","And in the meantime robotics will continue to
+advance as well,
+","[""And in the meantime robotics will continue to\nadvance as well,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#3; block_semantic_score=0.161263.
+BRIEFING_FILES_BLOCK_051320,5,stream=0x51000;block=0x320;text=5,"[""stream=0x51000;block=0x320;text=5""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","言わなくてもわかるだろう？
+","まさかあんた、ボスそっくりの機械人形を…。
+","おまえも一度は考えたことがないか？　彼女が再び我々の
+もとに現れることを？
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"直到我们能够创造出仿生人——
+外形像人的机器人。然后…","[""直到我们能够创造出仿生人——\n外形像人的机器人。然后…""]","to the point where we can create androids, robots
+that resemble humans. And then...
+","[""to the point where we can create androids, robots\nthat resemble humans. And then...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#4; block_semantic_score=0.161263.
+BRIEFING_FILES_BLOCK_051320,6,stream=0x51000;block=0x320;text=6,"[""stream=0x51000;block=0x320;text=6""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","まさかあんた、ボスそっくりの機械人形を…。
+","おまえも一度は考えたことがないか？　彼女が再び我々の
+もとに現れることを？
+","やめろ！　そんなものは紛い物だ！！
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这个嘛，不用我说你也明白吧？别告诉我你打算造一个
+模仿The Boss的仿生人…","[""这个嘛，不用我说你也明白吧？别告诉我你打算造一个\n模仿The Boss的仿生人…""]","Well, I don't need to spell it out for you, do I?
+Don't tell me you're thinking of making an android
+imitation of The Boss...
+","[""Well, I don't need to spell it out for you, do I?\nDon't tell me you're thinking of making an android\nimitation of The Boss...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x51320; ENG blocks=0xDEEB0,0xDEEB0; ENG source rows=0xDEEB0#6,0xDEEB0#7; block_semantic_score=0.161263."
+BRIEFING_FILES_BLOCK_051320,7,stream=0x51000;block=0x320;text=7,"[""stream=0x51000;block=0x320;text=7""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","おまえも一度は考えたことがないか？　彼女が再び我々の
+もとに現れることを？
+","やめろ！　そんなものは紛い物だ！！
+","そう、潔癖なことね。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你也一定想过吧？
+有朝一日能和她重逢。","[""你也一定想过吧？\n有朝一日能和她重逢。""]","Surely the thought has crossed your mind as well?
+Of one day being reunited with her?
+","[""Surely the thought has crossed your mind as well?\nOf one day being reunited with her?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#8; block_semantic_score=0.161263.
+BRIEFING_FILES_BLOCK_051320,8,stream=0x51000;block=0x320;text=8,"[""stream=0x51000;block=0x320;text=8""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","やめろ！　そんなものは紛い物だ！！
+","そう、潔癖なことね。
+","まあ、現実にはむしろ、AIは逆方向に進化していく可能性
+のほうが高いだろう。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,够了！我不想掺和！,"[""够了！我不想掺和！""]","Enough! I don't want any part of it!
+","[""Enough! I don't want any part of it!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#9; block_semantic_score=0.161263.
+BRIEFING_FILES_BLOCK_051320,9,stream=0x51000;block=0x320;text=9,"[""stream=0x51000;block=0x320;text=9""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x320;block_file=0x51320;text_base=0x51368;capacity=832""]","そう、潔癖なことね。
+","まあ、現実にはむしろ、AIは逆方向に進化していく可能性
+のほうが高いだろう。
+",,[],,,NOT_CHECKED,109,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"其实，AI更有可能朝着
+相反的方向进化。","[""其实，AI更有可能朝着\n相反的方向进化。""]","In reality, AI is more likely to evolve in the opposite
+direction anyway.
+","[""In reality, AI is more likely to evolve in the opposite\ndirection anyway.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51320; ENG blocks=0xDEEB0; ENG source rows=0xDEEB0#11; block_semantic_score=0.161263.

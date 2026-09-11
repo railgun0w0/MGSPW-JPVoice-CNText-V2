@@ -1,0 +1,164 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_052EF0,0,stream=0x52000;block=0xEF0;text=0,"[""stream=0x52000;block=0xEF0;text=0""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]",,"ストレンジラブ、ボスとはいつ知り合った？
+","…あの人は、宇宙を見た話を？
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Strangelove，你和The Boss
+第一次见面是什么时候？","[""Strangelove，你和The Boss\n第一次见面是什么时候？""]","Strangelove, when did you and The Boss first
+meet?
+","[""Strangelove, when did you and The Boss first\nmeet?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#0; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,1,stream=0x52000;block=0xEF0;text=1,"[""stream=0x52000;block=0xEF0;text=1""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ストレンジラブ、ボスとはいつ知り合った？
+","…あの人は、宇宙を見た話を？
+","ああ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…她有没有告诉过你，
+她在太空中看到了什么？","[""…她有没有告诉过你，\n她在太空中看到了什么？""]","...Did she ever tell you about what she saw in
+space?
+","[""...Did she ever tell you about what she saw in\nspace?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#1; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,2,stream=0x52000;block=0xEF0;text=2,"[""stream=0x52000;block=0xEF0;text=2""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","…あの人は、宇宙を見た話を？
+","ああ。
+","私も同じ宇宙を見た。彼女とともに。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯。,"[""嗯。""]","Yeah.
+","[""Yeah.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#2; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,3,stream=0x52000;block=0xEF0;text=3,"[""stream=0x52000;block=0xEF0;text=3""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ああ。
+","私も同じ宇宙を見た。彼女とともに。
+","ソ連のスプートニクに先を越され、アメリカは有人宇宙飛
+行の実現を急いでいた。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我和她一起看到了同样的景象。,"[""我和她一起看到了同样的景象。""]","I saw the same thing along with her.
+","[""I saw the same thing along with her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#3; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,4,stream=0x52000;block=0xEF0;text=4,"[""stream=0x52000;block=0xEF0;text=4""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","私も同じ宇宙を見た。彼女とともに。
+","ソ連のスプートニクに先を越され、アメリカは有人宇宙飛
+行の実現を急いでいた。
+","宇宙開発機関は極秘裏に彼女を<R=被験体,モルモット>に立て、宇宙の闇に
+放り出した。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"苏联用斯普特尼克号抢在
+美国之前进入了太空，于是美国急于在载人航天上争第一。","[""苏联用斯普特尼克号抢在\n美国之前进入了太空，于是美国急于在载人航天上争第一。""]","The Soviets beat America into space with Sputnik,
+and so America rushed to be first in manned
+spaceflight.
+","[""The Soviets beat America into space with Sputnik,\nand so America rushed to be first in manned\nspaceflight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x52EF0; ENG blocks=0xE1160,0xE1160; ENG source rows=0xE1160#4,0xE1160#5; block_semantic_score=0.150354."
+BRIEFING_FILES_BLOCK_052EF0,5,stream=0x52000;block=0xEF0;text=5,"[""stream=0x52000;block=0xEF0;text=5""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ソ連のスプートニクに先を越され、アメリカは有人宇宙飛
+行の実現を急いでいた。
+","宇宙開発機関は極秘裏に彼女を<R=被験体,モルモット>に立て、宇宙の闇に
+放り出した。
+","私はその計画に参加していたのだ。科学者として。
+","[""<R=被験体,モルモット>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"NASA把她当作绝密的试验品，
+发射到冰冷漆黑的太空深处。","[""NASA把她当作绝密的试验品，\n发射到冰冷漆黑的太空深处。""]","NASA used her as their top-secret guinea pig,
+launching her deep into the cold blackness of
+space.
+","[""NASA used her as their top-secret guinea pig,\nlaunching her deep into the cold blackness of\nspace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#6; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,6,stream=0x52000;block=0xEF0;text=6,"[""stream=0x52000;block=0xEF0;text=6""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","宇宙開発機関は極秘裏に彼女を<R=被験体,モルモット>に立て、宇宙の闇に
+放り出した。
+","私はその計画に参加していたのだ。科学者として。
+","あれはあんたが…？
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我参与了那个项目。以科学家的身份。,"[""我参与了那个项目。以科学家的身份。""]","I took part in the project. As a scientist.
+","[""I took part in the project. As a scientist.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#7; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,7,stream=0x52000;block=0xEF0;text=7,"[""stream=0x52000;block=0xEF0;text=7""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","私はその計画に参加していたのだ。科学者として。
+","あれはあんたが…？
+","そう。…その短い期間、私達はまるで一人の人間のようだ
+った。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你当时和她一起在那里…？,"[""你当时和她一起在那里…？""]","You were there with her...?
+","[""You were there with her...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#8; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,8,stream=0x52000;block=0xEF0;text=8,"[""stream=0x52000;block=0xEF0;text=8""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","あれはあんたが…？
+","そう。…その短い期間、私達はまるで一人の人間のようだ
+った。
+","互いを求め合い、互いを埋め合った。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的…有那么短暂的一段时间，
+她和我，不分彼此。","[""是的…有那么短暂的一段时间，\n她和我，不分彼此。""]","Yes... For a brief time, we were one and the same,
+she and I.
+","[""Yes... For a brief time, we were one and the same,\nshe and I.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#9; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,9,stream=0x52000;block=0xEF0;text=9,"[""stream=0x52000;block=0xEF0;text=9""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","そう。…その短い期間、私達はまるで一人の人間のようだ
+った。
+","互いを求め合い、互いを埋め合った。
+","お前にわかるか？　女の中には宇宙がある。女同志なら、
+それを感じ合うことが出来る。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们寻找着彼此…让彼此完整。,"[""我们寻找着彼此…让彼此完整。""]","We sought each other out... Completed each other.
+","[""We sought each other out... Completed each other.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#10; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,10,stream=0x52000;block=0xEF0;text=10,"[""stream=0x52000;block=0xEF0;text=10""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","互いを求め合い、互いを埋め合った。
+","お前にわかるか？　女の中には宇宙がある。女同志なら、
+それを感じ合うことが出来る。
+","女の共感脳だからこそ通じ合えたんだ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道吗，每个女人
+体内都有一片宇宙，而我们能在彼此身上感知到它。","[""你知道吗，每个女人\n体内都有一片宇宙，而我们能在彼此身上感知到它。""]","Did you know that inside every woman there's a
+universe,
+and that we are able to sense this in each other.
+","[""Did you know that inside every woman there's a\nuniverse,\nand that we are able to sense this in each other.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x52EF0; ENG blocks=0xE1160,0xE1160; ENG source rows=0xE1160#11,0xE1160#12; block_semantic_score=0.150354."
+BRIEFING_FILES_BLOCK_052EF0,11,stream=0x52000;block=0xEF0;text=11,"[""stream=0x52000;block=0xEF0;text=11""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","お前にわかるか？　女の中には宇宙がある。女同志なら、
+それを感じ合うことが出来る。
+","女の共感脳だからこそ通じ合えたんだ。
+","やがて…私はその尊い魂を犠牲にすることに、疑問を抱く
+ようになっていった。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们之所以能产生共鸣，
+是因为女性大脑的共情能力。","[""我们之所以能产生共鸣，\n是因为女性大脑的共情能力。""]","We connected because of our empathetic female
+brains.
+","[""We connected because of our empathetic female\nbrains.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#13; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,12,stream=0x52000;block=0xEF0;text=12,"[""stream=0x52000;block=0xEF0;text=12""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","女の共感脳だからこそ通じ合えたんだ。
+","やがて…私はその尊い魂を犠牲にすることに、疑問を抱く
+ようになっていった。
+","何故、人がそれを？　何故、彼女が…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"随着时间推移…我开始怀疑，让这样
+一个高贵的灵魂去牺牲，是否值得。","[""随着时间推移…我开始怀疑，让这样\n一个高贵的灵魂去牺牲，是否值得。""]","As time went on... I began to have doubts about
+offering such a noble soul as sacrifice.
+","[""As time went on... I began to have doubts about\noffering such a noble soul as sacrifice.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#14; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,13,stream=0x52000;block=0xEF0;text=13,"[""stream=0x52000;block=0xEF0;text=13""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","やがて…私はその尊い魂を犠牲にすることに、疑問を抱く
+ようになっていった。
+","何故、人がそれを？　何故、彼女が…。
+","…飛行テストは辛うじて成功し、彼女は奇跡的に生還した。
+身も心も掻き削がれた彼女に私が代わってやることは何一
+つなかった。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们为什么要…？她为什么非要…？,"[""他们为什么要…？她为什么非要…？""]","Why would they...? Why did she have to...?
+","[""Why would they...? Why did she have to...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#15; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,14,stream=0x52000;block=0xEF0;text=14,"[""stream=0x52000;block=0xEF0;text=14""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","何故、人がそれを？　何故、彼女が…。
+","…飛行テストは辛うじて成功し、彼女は奇跡的に生還した。
+身も心も掻き削がれた彼女に私が代わってやることは何一
+つなかった。
+","私たちは一人ではなかった。
+",[],,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…那次试飞勉强算是成功了，
+她奇迹般地活着回来了。但她的身心都受到了可怕的摧残，
+我却无能为力。","[""…那次试飞勉强算是成功了，\n她奇迹般地活着回来了。但她的身心都受到了可怕的摧残，\n我却无能为力。""]","...The flight test was a narrow success, and she
+miraculously made it back alive.
+But her mind and body were horribly mangled, and
+there was nothing I could do for her.
+","[""...The flight test was a narrow success, and she\nmiraculously made it back alive.\nBut her mind and body were horribly mangled, and\nthere was nothing I could do for her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x52EF0; ENG blocks=0xE1160,0xE1160; ENG source rows=0xE1160#16,0xE1160#17; block_semantic_score=0.150354."
+BRIEFING_FILES_BLOCK_052EF0,15,stream=0x52000;block=0xEF0;text=15,"[""stream=0x52000;block=0xEF0;text=15""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","…飛行テストは辛うじて成功し、彼女は奇跡的に生還した。
+身も心も掻き削がれた彼女に私が代わってやることは何一
+つなかった。
+","私たちは一人ではなかった。
+","彼女は消え、やがて私は命の代替品としての、AIの研究に
+没頭するようになっていた。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们不再是一个整体了。,"[""我们不再是一个整体了。""]","We were no longer one and the same.
+","[""We were no longer one and the same.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#18; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,16,stream=0x52000;block=0xEF0;text=16,"[""stream=0x52000;block=0xEF0;text=16""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","私たちは一人ではなかった。
+","彼女は消え、やがて私は命の代替品としての、AIの研究に
+没頭するようになっていた。
+","彼女のような犠牲が二度と必要ないように。
+",[],,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她离开了，而我，没有了活下去的
+意义，便一头扎进了AI研究。","[""她离开了，而我，没有了活下去的\n意义，便一头扎进了AI研究。""]","She went away, and I, having nothing else to live
+for, immersed myself in AI research.
+","[""She went away, and I, having nothing else to live\nfor, immersed myself in AI research.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#19; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,17,stream=0x52000;block=0xEF0;text=17,"[""stream=0x52000;block=0xEF0;text=17""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","彼女は消え、やがて私は命の代替品としての、AIの研究に
+没頭するようになっていた。
+","彼女のような犠牲が二度と必要ないように。
+","俺は知らなかった…。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只希望再也不会有人需要
+作出她那样的牺牲。","[""只希望再也不会有人需要\n作出她那样的牺牲。""]","Hoping that no one would ever have to make her
+sacrifice again.
+","[""Hoping that no one would ever have to make her\nsacrifice again.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#20; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,18,stream=0x52000;block=0xEF0;text=18,"[""stream=0x52000;block=0xEF0;text=18""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","彼女のような犠牲が二度と必要ないように。
+","俺は知らなかった…。
+","ふん、知るほどの事でもない。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我从来不知道…,"[""我从来不知道…""]","I never knew...
+","[""I never knew...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#21; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,19,stream=0x52000;block=0xEF0;text=19,"[""stream=0x52000;block=0xEF0;text=19""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","俺は知らなかった…。
+","ふん、知るほどの事でもない。
+","人生の一瞬を彼女とすれ違った、これが全てだ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这并不值得知道。,"[""这并不值得知道。""]","It's not really worth knowing.
+","[""It's not really worth knowing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#22; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,20,stream=0x52000;block=0xEF0;text=20,"[""stream=0x52000;block=0xEF0;text=20""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ふん、知るほどの事でもない。
+","人生の一瞬を彼女とすれ違った、これが全てだ。
+","いつか気が向いたらまた、詳しく話してやる。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们只是夜航中擦身而过的
+船，仅此而已。","[""我们只是夜航中擦身而过的\n船，仅此而已。""]","We were ships passing in the night, that's all.
+","[""We were ships passing in the night, that's all.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#23; block_semantic_score=0.150354.
+BRIEFING_FILES_BLOCK_052EF0,21,stream=0x52000;block=0xEF0;text=21,"[""stream=0x52000;block=0xEF0;text=21""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","人生の一瞬を彼女とすれ違った、これが全てだ。
+","いつか気が向いたらまた、詳しく話してやる。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许哪天，如果你有兴趣，
+我会告诉你完整的故事。","[""也许哪天，如果你有兴趣，\n我会告诉你完整的故事。""]","Perhaps someday I'll tell you the long version, if
+you're interested.
+","[""Perhaps someday I'll tell you the long version, if\nyou're interested.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x52EF0; ENG blocks=0xE1160; ENG source rows=0xE1160#24; block_semantic_score=0.150354.

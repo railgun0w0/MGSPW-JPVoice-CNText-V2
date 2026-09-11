@@ -1,0 +1,65 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_040F10,0,stream=0x40000;block=0xF10;text=0,"[""stream=0x40000;block=0xF10;text=0""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]",,"そういえば、「よく狙え。おまえは一人の男を殺すのだ」
+って…。
+","ああ。あれもゲバラの言葉だ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你有没有听过：“开枪吧，懦夫，
+你只不过是要杀一个人。”","[""你有没有听过：“开枪吧，懦夫，\n你只不过是要杀一个人。”""]","Have you ever heard, ""Shoot, coward, you are only
+going to kill a man""?
+","[""Have you ever heard, \""Shoot, coward, you are only\ngoing to kill a man\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x40F10; ENG blocks=0xD9750; ENG source rows=0xD9750#0; block_semantic_score=0.151751.
+BRIEFING_FILES_BLOCK_040F10,1,stream=0x40000;block=0xF10;text=1,"[""stream=0x40000;block=0xF10;text=1""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]","そういえば、「よく狙え。おまえは一人の男を殺すのだ」
+って…。
+","ああ。あれもゲバラの言葉だ。
+","ボリビアで捕らえられたゲバラが、殺される直前、自らを
+撃とうとしている兵士に対して言ったと語り継がれている。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,切·格瓦拉的遗言。,"[""切·格瓦拉的遗言。""]","Che's last words.
+","[""Che's last words.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x40F10; ENG blocks=0xD9750; ENG source rows=0xD9750#1; block_semantic_score=0.151751.
+BRIEFING_FILES_BLOCK_040F10,2,stream=0x40000;block=0xF10;text=2,"[""stream=0x40000;block=0xF10;text=2""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]","ああ。あれもゲバラの言葉だ。
+","ボリビアで捕らえられたゲバラが、殺される直前、自らを
+撃とうとしている兵士に対して言ったと語り継がれている。
+","やっぱりエル・チェはすごいな。自分が殺されるときにそ
+んなことを言えるなんて。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就在士兵们要处决他的时候，
+他对他们说了那句话。","[""就在士兵们要处决他的时候，\n他对他们说了那句话。""]","and said it to the soldiers just as they were about
+to execute him.
+","[""and said it to the soldiers just as they were about\nto execute him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x40F10; ENG blocks=0xD9750; ENG source rows=0xD9750#3; block_semantic_score=0.151751.
+BRIEFING_FILES_BLOCK_040F10,3,stream=0x40000;block=0xF10;text=3,"[""stream=0x40000;block=0xF10;text=3""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]","ボリビアで捕らえられたゲバラが、殺される直前、自らを
+撃とうとしている兵士に対して言ったと語り継がれている。
+","やっぱりエル・チェはすごいな。自分が殺されるときにそ
+んなことを言えるなんて。
+","キューバ革命後、ゲバラは新政府での地位を投げ出して他
+国の革命に手を貸そうとした。いつでも死ぬ覚悟はできて
+いたんだろう。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"切·格瓦拉…他真是
+个了不起的人，对吧？明知自己快要死了，
+还能说出那样的话。","[""切·格瓦拉…他真是\n个了不起的人，对吧？明知自己快要死了，\n还能说出那样的话。""]","El Che... He was something, wasn't he?
+Coming up with a line like that knowing he was
+about to die.
+","[""El Che... He was something, wasn't he?\nComing up with a line like that knowing he was\nabout to die.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x40F10; ENG blocks=0xD9750,0xD9750; ENG source rows=0xD9750#4,0xD9750#5; block_semantic_score=0.151751."
+BRIEFING_FILES_BLOCK_040F10,4,stream=0x40000;block=0xF10;text=4,"[""stream=0x40000;block=0xF10;text=4""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]","やっぱりエル・チェはすごいな。自分が殺されるときにそ
+んなことを言えるなんて。
+","キューバ革命後、ゲバラは新政府での地位を投げ出して他
+国の革命に手を貸そうとした。いつでも死ぬ覚悟はできて
+いたんだろう。
+","俺なんて、拷問されただけで…。
+",[],,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"切·格瓦拉放弃了新政府中的职位，
+去支援其他国家的革命。","[""切·格瓦拉放弃了新政府中的职位，\n去支援其他国家的革命。""]","Che gave up his position in the new government to
+aide in revolutions in other countries.
+","[""Che gave up his position in the new government to\naide in revolutions in other countries.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x40F10; ENG blocks=0xD9750; ENG source rows=0xD9750#7; block_semantic_score=0.151751.
+BRIEFING_FILES_BLOCK_040F10,5,stream=0x40000;block=0xF10;text=5,"[""stream=0x40000;block=0xF10;text=5""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]","キューバ革命後、ゲバラは新政府での地位を投げ出して他
+国の革命に手を貸そうとした。いつでも死ぬ覚悟はできて
+いたんだろう。
+","俺なんて、拷問されただけで…。
+","チコ、お前は<R=新しい人間,オンブレ・ヌエボ>に生まれ変わったんだろ？
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而我，连一点酷刑都熬不住…,"[""而我，连一点酷刑都熬不住…""]","Me, I couldn't take even a little torture...
+","[""Me, I couldn't take even a little torture...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x40F10; ENG blocks=0xD9750; ENG source rows=0xD9750#9; block_semantic_score=0.151751.
+BRIEFING_FILES_BLOCK_040F10,6,stream=0x40000;block=0xF10;text=6,"[""stream=0x40000;block=0xF10;text=6""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]","俺なんて、拷問されただけで…。
+","チコ、お前は<R=新しい人間,オンブレ・ヌエボ>に生まれ変わったんだろ？
+","うん…。
+","[""<R=新しい人間,オンブレ・ヌエボ>""]",,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但你重生了，成了一个
+新人类。对吧，Chico？","[""但你重生了，成了一个\n新人类。对吧，Chico？""]","But you've been reborn, as an hombre nuevo.
+Right, Chico?
+","[""But you've been reborn, as an hombre nuevo.\nRight, Chico?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x40F10; ENG blocks=0xD9750; ENG source rows=0xD9750#10; block_semantic_score=0.151751.
+BRIEFING_FILES_BLOCK_040F10,7,stream=0x40000;block=0xF10;text=7,"[""stream=0x40000;block=0xF10;text=7""]",1,BRIEFING FILES,"[""stream=0x40000;block=0xF10;block_file=0x40F10;text_base=0x40F50;capacity=760""]","チコ、お前は<R=新しい人間,オンブレ・ヌエボ>に生まれ変わったんだろ？
+","うん…。
+",,[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊…,"[""是啊…""]","Right...
+","[""Right...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x40F10; ENG blocks=0xD9750; ENG source rows=0xD9750#11; block_semantic_score=0.151751.

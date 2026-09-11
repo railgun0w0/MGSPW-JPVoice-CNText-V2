@@ -1,0 +1,213 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06B260,0,stream=0x6B000;block=0x260;text=0,"[""stream=0x6B000;block=0x260;text=0""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]",,"なぜ、ピースウォーカーに<R=人工知能,AI>を積むことになったん
+だ？
+","一つには、人を乗せられないからだ。ピースウォーカーに
+は、敵地まで移動して、自爆するという機能があるからね。
+","[""<R=人工知能,AI>""]",,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你为什么给和平行者装上AI？嗯，首先，因为它无法载人。,"[""你为什么给和平行者装上AI？嗯，首先，因为它无法载人。""]","What made you put an AI into Peace Walker?
+Well, for one thing, because it can't be manned.
+","[""What made you put an AI into Peace Walker?\nWell, for one thing, because it can't be manned.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6B260; ENG blocks=0xF7A40,0xF7A40; ENG source rows=0xF7A40#0,0xF7A40#1; block_semantic_score=0.195419."
+BRIEFING_FILES_BLOCK_06B260,1,stream=0x6B000;block=0x260;text=1,"[""stream=0x6B000;block=0x260;text=1""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","なぜ、ピースウォーカーに<R=人工知能,AI>を積むことになったん
+だ？
+","一つには、人を乗せられないからだ。ピースウォーカーに
+は、敵地まで移動して、自爆するという機能があるからね。
+","自爆する兵器に、人は乗せられないだろう？　その代わり
+に、AIに操縦させるんだ。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和平行者的设计是潜入敌方领土，
+必要时引爆自身。","[""和平行者的设计是潜入敌方领土，\n必要时引爆自身。""]","Peace Walker's designed to enter enemy territory
+and blow itself up - if necessary.
+","[""Peace Walker's designed to enter enemy territory\nand blow itself up - if necessary.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#2; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,2,stream=0x6B000;block=0x260;text=2,"[""stream=0x6B000;block=0x260;text=2""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","一つには、人を乗せられないからだ。ピースウォーカーに
+は、敵地まで移動して、自爆するという機能があるからね。
+","自爆する兵器に、人は乗せられないだろう？　その代わり
+に、AIに操縦させるんだ。
+","妙なところで人道的なんだな。
+",[],,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你不能把活人塞进一件随时
+可能爆炸的武器里，对吧？所以我们用AI来代替。","[""你不能把活人塞进一件随时\n可能爆炸的武器里，对吧？所以我们用AI来代替。""]","You can't put a person inside a weapon that could
+blow at anytime, can you?
+So we equipped it with an AI instead.
+","[""You can't put a person inside a weapon that could\nblow at anytime, can you?\nSo we equipped it with an AI instead.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6B260; ENG blocks=0xF7A40,0xF7A40; ENG source rows=0xF7A40#3,0xF7A40#4; block_semantic_score=0.195419."
+BRIEFING_FILES_BLOCK_06B260,3,stream=0x6B000;block=0x260;text=3,"[""stream=0x6B000;block=0x260;text=3""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","自爆する兵器に、人は乗せられないだろう？　その代わり
+に、AIに操縦させるんだ。
+","妙なところで人道的なんだな。
+","そもそも、ピースウォーカーは二足歩行兵器だ。歩行時の
+振動は想像を絶する。とても人間が耐えられるレベルじゃ
+ない。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这…还真是奇怪的仁慈。,"[""这…还真是奇怪的仁慈。""]","That's... strangely humane of you.
+","[""That's... strangely humane of you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#5; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,4,stream=0x6B000;block=0x260;text=4,"[""stream=0x6B000;block=0x260;text=4""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","妙なところで人道的なんだな。
+","そもそも、ピースウォーカーは二足歩行兵器だ。歩行時の
+振動は想像を絶する。とても人間が耐えられるレベルじゃ
+ない。
+","それに核ミサイルを撃つなら、リアルタイムでの弾道計算
+が必要になるだろう？　常に移動するんだからね。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且，和平行者本来就是
+作为双足武器系统设计的。你无法想象它行走时摇晃得有多厉害。
+里面的人会被摇成肉泥。","[""而且，和平行者本来就是\n作为双足武器系统设计的。你无法想象它行走时摇晃得有多厉害。\n里面的人会被摇成肉泥。""]","And besides, Peace Walker was designed as a
+bipedal weapons system.
+You can't imagine how hard it shakes when it
+walks. It'd turn a man into mush.
+","[""And besides, Peace Walker was designed as a\nbipedal weapons system.\nYou can't imagine how hard it shakes when it\nwalks. It'd turn a man into mush.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6B260; ENG blocks=0xF7A40,0xF7A40; ENG source rows=0xF7A40#6,0xF7A40#7; block_semantic_score=0.195419."
+BRIEFING_FILES_BLOCK_06B260,5,stream=0x6B000;block=0x260;text=5,"[""stream=0x6B000;block=0x260;text=5""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","そもそも、ピースウォーカーは二足歩行兵器だ。歩行時の
+振動は想像を絶する。とても人間が耐えられるレベルじゃ
+ない。
+","それに核ミサイルを撃つなら、リアルタイムでの弾道計算
+が必要になるだろう？　常に移動するんだからね。
+","待ってくれ。それなら、単に高性能のコンピュータで足り
+るはずだ。知能までは必要ないだろう。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它必须实时进行弹道计算，明白吗？,"[""它必须实时进行弹道计算，明白吗？""]","it has to perform ballistic calculations in real time,
+see?
+","[""it has to perform ballistic calculations in real time,\nsee?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#9; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,6,stream=0x6B000;block=0x260;text=6,"[""stream=0x6B000;block=0x260;text=6""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","それに核ミサイルを撃つなら、リアルタイムでの弾道計算
+が必要になるだろう？　常に移動するんだからね。
+","待ってくれ。それなら、単に高性能のコンピュータで足り
+るはずだ。知能までは必要ないだろう。
+","いい指摘だ、スネーク。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"等等。如果只是这样，
+那高性能计算机也能胜任。","[""等等。如果只是这样，\n那高性能计算机也能胜任。""]","Hold on. If that's all it does, then a
+high-performance computer ought to do the job.
+","[""Hold on. If that's all it does, then a\nhigh-performance computer ought to do the job.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#11; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,7,stream=0x6B000;block=0x260;text=7,"[""stream=0x6B000;block=0x260;text=7""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","待ってくれ。それなら、単に高性能のコンピュータで足り
+るはずだ。知能までは必要ないだろう。
+","いい指摘だ、スネーク。
+","<R=人工知能,AI>を使う真の目的…それは、<R=人工知能,AI>に核報復の判
+断をさせるところにあるんだ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不需要智能。,"[""不需要智能。""]","It doesn't need intelligence.
+","[""It doesn't need intelligence.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#12; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,8,stream=0x6B000;block=0x260;text=8,"[""stream=0x6B000;block=0x260;text=8""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","いい指摘だ、スネーク。
+","<R=人工知能,AI>を使う真の目的…それは、<R=人工知能,AI>に核報復の判
+断をさせるところにあるんだ。
+","それによって、完全なる<R=相互確証破壊,MAD>を実現する。
+","[""<R=人工知能,AI>"", ""<R=人工知能,AI>""]",,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,和平行者需要AI来做出核报复的决策。,"[""和平行者需要AI来做出核报复的决策。""]","Peace Walker needs AI to make decisions
+regarding nuclear retaliation.
+","[""Peace Walker needs AI to make decisions\nregarding nuclear retaliation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#14; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,9,stream=0x6B000;block=0x260;text=9,"[""stream=0x6B000;block=0x260;text=9""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","<R=人工知能,AI>を使う真の目的…それは、<R=人工知能,AI>に核報復の判
+断をさせるところにあるんだ。
+","それによって、完全なる<R=相互確証破壊,MAD>を実現する。
+","この前言っていた話だな。機械同士の戦争が望みか？
+","[""<R=相互確証破壊,MAD>""]",,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这样才能确保完美的相互确保摧毁。,"[""这样才能确保完美的相互确保摧毁。""]","It's what ensures perfectly mutual assured
+destruction.
+","[""It's what ensures perfectly mutual assured\ndestruction.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#15; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,10,stream=0x6B000;block=0x260;text=10,"[""stream=0x6B000;block=0x260;text=10""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","それによって、完全なる<R=相互確証破壊,MAD>を実現する。
+","この前言っていた話だな。機械同士の戦争が望みか？
+","もちろん、こちらから核を撃つことはない。反撃限定のシ
+ステムだ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这些我都听过了。
+你想要机器之间的战争吗？","[""这些我都听过了。\n你想要机器之间的战争吗？""]","I've heard all of this before. You want a war
+between machines?
+","[""I've heard all of this before. You want a war\nbetween machines?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#16; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,11,stream=0x6B000;block=0x260;text=11,"[""stream=0x6B000;block=0x260;text=11""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","この前言っていた話だな。機械同士の戦争が望みか？
+","もちろん、こちらから核を撃つことはない。反撃限定のシ
+ステムだ。
+","核戦争を始めるなんて非論理的な決定は、政治家以外にで
+きないからね。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们当然绝不会率先发射核弹。它纯粹是反击系统。,"[""我们当然绝不会率先发射核弹。它纯粹是反击系统。""]","We'd never actually launch the first nuke, of
+course.
+It's strictly a counterattack system.
+","[""We'd never actually launch the first nuke, of\ncourse.\nIt's strictly a counterattack system.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6B260; ENG blocks=0xF7A40,0xF7A40; ENG source rows=0xF7A40#17,0xF7A40#18; block_semantic_score=0.195419."
+BRIEFING_FILES_BLOCK_06B260,12,stream=0x6B000;block=0x260;text=12,"[""stream=0x6B000;block=0x260;text=12""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","もちろん、こちらから核を撃つことはない。反撃限定のシ
+ステムだ。
+","核戦争を始めるなんて非論理的な決定は、政治家以外にで
+きないからね。
+","その代わり、もし核を撃たれたら確実にAIが撃ち返す。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只有政客才会做出发动核战争
+这种毫无逻辑的决定。","[""只有政客才会做出发动核战争\n这种毫无逻辑的决定。""]","Only a politician could make such an illogical
+decision as starting a nuclear war.
+","[""Only a politician could make such an illogical\ndecision as starting a nuclear war.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#19; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,13,stream=0x6B000;block=0x260;text=13,"[""stream=0x6B000;block=0x260;text=13""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","核戦争を始めるなんて非論理的な決定は、政治家以外にで
+きないからね。
+","その代わり、もし核を撃たれたら確実にAIが撃ち返す。
+","だから相手も撃てない。その確証をAIが与えてくれるんだ。
+",[],,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"反过来，如果敌人向我们发射核弹，
+AI必定会实施报复。","[""反过来，如果敌人向我们发射核弹，\nAI必定会实施报复。""]","Conversely, if an adversary launches a nuke at us,
+the AI will not fail to retaliate.
+","[""Conversely, if an adversary launches a nuke at us,\nthe AI will not fail to retaliate.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#20; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,14,stream=0x6B000;block=0x260;text=14,"[""stream=0x6B000;block=0x260;text=14""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","その代わり、もし核を撃たれたら確実にAIが撃ち返す。
+","だから相手も撃てない。その確証をAIが与えてくれるんだ。
+","だからと言って、指令なしに核を撃つなど。
+",[],,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"因此，敌人不敢发射。
+AI保证了这一点。","[""因此，敌人不敢发射。\nAI保证了这一点。""]","Therefore, the adversary can't launch. The AI
+guarantees it.
+","[""Therefore, the adversary can't launch. The AI\nguarantees it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#21; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,15,stream=0x6B000;block=0x260;text=15,"[""stream=0x6B000;block=0x260;text=15""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","だから相手も撃てない。その確証をAIが与えてくれるんだ。
+","だからと言って、指令なしに核を撃つなど。
+","ミサイル原潜の艦長も、地上との通信が途絶えた場合には、
+自らの権限で核を撃つことができる。それと同じだよ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,即便如此，未经授权就发射核弹…,"[""即便如此，未经授权就发射核弹…""]","Even so, launching nukes without authorization...
+","[""Even so, launching nukes without authorization...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#22; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,16,stream=0x6B000;block=0x260;text=16,"[""stream=0x6B000;block=0x260;text=16""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","だからと言って、指令なしに核を撃つなど。
+","ミサイル原潜の艦長も、地上との通信が途絶えた場合には、
+自らの権限で核を撃つことができる。それと同じだよ。
+","原潜でも、艦長単独では決定できないはずだ。この場合に
+限っては、上官不服従すら許されていると聞く。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"弹道导弹核潜艇的艇长在地面
+通信中断时有权发射。","[""弹道导弹核潜艇的艇长在地面\n通信中断时有权发射。""]","Boomer captains have the authority to launch if
+land communications are cut off.
+","[""Boomer captains have the authority to launch if\nland communications are cut off.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#23; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,17,stream=0x6B000;block=0x260;text=17,"[""stream=0x6B000;block=0x260;text=17""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","ミサイル原潜の艦長も、地上との通信が途絶えた場合には、
+自らの権限で核を撃つことができる。それと同じだよ。
+","原潜でも、艦長単独では決定できないはずだ。この場合に
+限っては、上官不服従すら許されていると聞く。
+","それは人間が不完全だからだ…コールドマンはそう考えて
+いるのさ。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"即使是弹道导弹核潜艇的艇长
+也不能独自做出那个决定。","[""即使是弹道导弹核潜艇的艇长\n也不能独自做出那个决定。""]","Not even the captain of a boomer can make that
+decision alone.
+","[""Not even the captain of a boomer can make that\ndecision alone.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#25; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,18,stream=0x6B000;block=0x260;text=18,"[""stream=0x6B000;block=0x260;text=18""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","原潜でも、艦長単独では決定できないはずだ。この場合に
+限っては、上官不服従すら許されていると聞く。
+","それは人間が不完全だからだ…コールドマンはそう考えて
+いるのさ。
+","機械だから間違わない、とでも言うのか。それは迷信だ。
+いや、信仰に近い。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只因为人类不完美…
+这就是Coldman的思路。","[""只因为人类不完美…\n这就是Coldman的思路。""]","Only because humans are imperfect... That's
+Coldman's line of thinking.
+","[""Only because humans are imperfect... That's\nColdman's line of thinking.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#27; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,19,stream=0x6B000;block=0x260;text=19,"[""stream=0x6B000;block=0x260;text=19""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","それは人間が不完全だからだ…コールドマンはそう考えて
+いるのさ。
+","機械だから間違わない、とでも言うのか。それは迷信だ。
+いや、信仰に近い。
+","ただの機械に核発射を任せるわけにはいかない。だからこ
+その<R=人工知能,AI>なんだ。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们不会把信仰——把命运——
+交到任何普通机器手里。","[""我们不会把信仰——把命运——\n交到任何普通机器手里。""]","We wouldn't put our faith - our fate - into the
+hands of any ordinary machine.
+","[""We wouldn't put our faith - our fate - into the\nhands of any ordinary machine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#30; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,20,stream=0x6B000;block=0x260;text=20,"[""stream=0x6B000;block=0x260;text=20""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","機械だから間違わない、とでも言うのか。それは迷信だ。
+いや、信仰に近い。
+","ただの機械に核発射を任せるわけにはいかない。だからこ
+その<R=人工知能,AI>なんだ。
+","報復核の発射を決めるには、高度な状況判断が必要だ。戦
+況だけでなく、世界情勢だって把握しなくちゃいけない。
+","[""<R=人工知能,AI>""]",,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这正是AI的用途。,"[""这正是AI的用途。""]","That's what the AI is for.
+","[""That's what the AI is for.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#31; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,21,stream=0x6B000;block=0x260;text=21,"[""stream=0x6B000;block=0x260;text=21""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","ただの機械に核発射を任せるわけにはいかない。だからこ
+その<R=人工知能,AI>なんだ。
+","報復核の発射を決めるには、高度な状況判断が必要だ。戦
+況だけでなく、世界情勢だって把握しなくちゃいけない。
+","情報が揃わないかも知れないから、推測も必要だ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"发动报复性打击的决定
+需要高层次的判断。你不仅要考虑战争局势，
+还要考虑整个世界。","[""发动报复性打击的决定\n需要高层次的判断。你不仅要考虑战争局势，\n还要考虑整个世界。""]","The decision to launch a retaliatory strike requires
+high-level judgment.
+You have to take into account not only the state
+of the war, but the entire world.
+","[""The decision to launch a retaliatory strike requires\nhigh-level judgment.\nYou have to take into account not only the state\nof the war, but the entire world.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6B260; ENG blocks=0xF7A40,0xF7A40; ENG source rows=0xF7A40#32,0xF7A40#33; block_semantic_score=0.195419."
+BRIEFING_FILES_BLOCK_06B260,22,stream=0x6B000;block=0x260;text=22,"[""stream=0x6B000;block=0x260;text=22""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","報復核の発射を決めるには、高度な状況判断が必要だ。戦
+況だけでなく、世界情勢だって把握しなくちゃいけない。
+","情報が揃わないかも知れないから、推測も必要だ。
+","AIになら、それが可能だと？
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且有时你必须根据不
+完整的信息做出推测。","[""而且有时你必须根据不\n完整的信息做出推测。""]","And sometimes you need to make a guess based
+on incomplete information.
+","[""And sometimes you need to make a guess based\non incomplete information.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#34; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,23,stream=0x6B000;block=0x260;text=23,"[""stream=0x6B000;block=0x260;text=23""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","情報が揃わないかも知れないから、推測も必要だ。
+","AIになら、それが可能だと？
+","ああ。少なくともストレンジラブは、そう考えている。
+",[],,,NOT_CHECKED,39,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你觉得AI能做到这一切？,"[""你觉得AI能做到这一切？""]","You think an AI can do all that?
+","[""You think an AI can do all that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#35; block_semantic_score=0.195419.
+BRIEFING_FILES_BLOCK_06B260,24,stream=0x6B000;block=0x260;text=24,"[""stream=0x6B000;block=0x260;text=24""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0x260;block_file=0x6B260;text_base=0x6B2E4;capacity=2588""]","AIになら、それが可能だと？
+","ああ。少なくともストレンジラブは、そう考えている。
+",,[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的。至少Strangelove
+博士是这么认为的。","[""是的。至少Strangelove\n博士是这么认为的。""]","Yeah. At least, Dr. Strangelove does.
+","[""Yeah. At least, Dr. Strangelove does.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6B260; ENG blocks=0xF7A40; ENG source rows=0xF7A40#36; block_semantic_score=0.195419.

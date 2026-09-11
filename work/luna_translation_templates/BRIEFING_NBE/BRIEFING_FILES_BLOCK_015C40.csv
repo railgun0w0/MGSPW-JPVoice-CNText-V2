@@ -1,0 +1,79 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_015C40,0,stream=0x15000;block=0xC40;text=0,"[""stream=0x15000;block=0xC40;text=0""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]",,"仲間同士の信頼関係を表すのが友情度なら、あんた個人の
+信望を表すのが『英雄度』だ。
+","『英雄度』だって？
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,战友情谊代表战友对你的信任程度，,"[""战友情谊代表战友对你的信任程度，""]","If camaraderie represents how much your
+teammates trust you,
+","[""If camaraderie represents how much your\nteammates trust you,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x15C40; ENG blocks=0xA8980; ENG source rows=0xA8980#0; block_semantic_score=0.158278.
+BRIEFING_FILES_BLOCK_015C40,1,stream=0x15000;block=0xC40;text=1,"[""stream=0x15000;block=0xC40;text=1""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","仲間同士の信頼関係を表すのが友情度なら、あんた個人の
+信望を表すのが『英雄度』だ。
+","『英雄度』だって？
+","そうだ。あんたの信望は、MSFの人集めにも影響する。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“英雄值？”,"[""“英雄值？”""]","""Heroism?""
+","[""\""Heroism?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x15C40; ENG blocks=0xA8980; ENG source rows=0xA8980#2; block_semantic_score=0.158278.
+BRIEFING_FILES_BLOCK_015C40,2,stream=0x15000;block=0xC40;text=2,"[""stream=0x15000;block=0xC40;text=2""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","『英雄度』だって？
+","そうだ。あんたの信望は、MSFの人集めにも影響する。
+","英雄度が高ければ、フルトン回収してきた敵兵だって、説
+得するのにさして時間はかからないだろう。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你的声誉会影响你为无国界之师
+（MSF）招募新成员的能力。","[""你的声誉会影响你为无国界之师\n（MSF）招募新成员的能力。""]","Your reputation affects your ability to recruit new
+members to MSF.
+","[""Your reputation affects your ability to recruit new\nmembers to MSF.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x15C40; ENG blocks=0xA8980; ENG source rows=0xA8980#4; block_semantic_score=0.158278.
+BRIEFING_FILES_BLOCK_015C40,3,stream=0x15000;block=0xC40;text=3,"[""stream=0x15000;block=0xC40;text=3""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","そうだ。あんたの信望は、MSFの人集めにも影響する。
+","英雄度が高ければ、フルトン回収してきた敵兵だって、説
+得するのにさして時間はかからないだろう。
+","その『英雄度』っていうのはどうしたら上がるんだ？
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"英雄值越高，说服人加入
+我们的事业就越快，然后通过富尔顿回收把他们送回来。","[""英雄值越高，说服人加入\n我们的事业就越快，然后通过富尔顿回收把他们送回来。""]","With higher heroism, it won't take as long to
+convince guys to join our cause
+and send 'em back by Fulton recovery.
+","[""With higher heroism, it won't take as long to\nconvince guys to join our cause\nand send 'em back by Fulton recovery.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x15C40; ENG blocks=0xA8980,0xA8980; ENG source rows=0xA8980#5,0xA8980#6; block_semantic_score=0.158278."
+BRIEFING_FILES_BLOCK_015C40,4,stream=0x15000;block=0xC40;text=4,"[""stream=0x15000;block=0xC40;text=4""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","英雄度が高ければ、フルトン回収してきた敵兵だって、説
+得するのにさして時間はかからないだろう。
+","その『英雄度』っていうのはどうしたら上がるんだ？
+","いろいろだ。困難なミッションをこなす。無益な殺生を避
+ける…。逆に敵に見つかっておたおたしてるようじゃ、英
+雄度は上がらない。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那要怎么提升这个“英雄值”呢？,"[""那要怎么提升这个“英雄值”呢？""]","So how do I get this ""heroism"" thing to go up?
+","[""So how do I get this \""heroism\"" thing to go up?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x15C40; ENG blocks=0xA8980; ENG source rows=0xA8980#7; block_semantic_score=0.158278.
+BRIEFING_FILES_BLOCK_015C40,5,stream=0x15000;block=0xC40;text=5,"[""stream=0x15000;block=0xC40;text=5""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","その『英雄度』っていうのはどうしたら上がるんだ？
+","いろいろだ。困難なミッションをこなす。無益な殺生を避
+ける…。逆に敵に見つかっておたおたしてるようじゃ、英
+雄度は上がらない。
+","それに、CO-OPSでの戦闘時、積極的に敵を攻撃すれば、
+それだけ仲間からの信望が厚くなる。だがその分、敵もあ
+んたをマークするようになるだろう。
+",[],,,NOT_CHECKED,186,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"方法多的是。完成艰巨的任务，
+避免不必要的流血…也别像吓呆了的鹿那样被敌人抓住，
+不然永远别想当英雄。","[""方法多的是。完成艰巨的任务，\n避免不必要的流血…也别像吓呆了的鹿那样被敌人抓住，\n不然永远别想当英雄。""]","Lots of ways. Complete tough missions. Avoid
+unnecessary bloodshed...
+And don't get caught by the enemy like a deer in
+headlights, or you'll never be heroic.
+","[""Lots of ways. Complete tough missions. Avoid\nunnecessary bloodshed...\nAnd don't get caught by the enemy like a deer in\nheadlights, or you'll never be heroic.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x15C40; ENG blocks=0xA8980,0xA8980; ENG source rows=0xA8980#8,0xA8980#9; block_semantic_score=0.158278."
+BRIEFING_FILES_BLOCK_015C40,6,stream=0x15000;block=0xC40;text=6,"[""stream=0x15000;block=0xC40;text=6""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","いろいろだ。困難なミッションをこなす。無益な殺生を避
+ける…。逆に敵に見つかっておたおたしてるようじゃ、英
+雄度は上がらない。
+","それに、CO-OPSでの戦闘時、積極的に敵を攻撃すれば、
+それだけ仲間からの信望が厚くなる。だがその分、敵もあ
+んたをマークするようになるだろう。
+","何、難しく考えることはない。ボスがいつもやってること
+だ。俺から見たって、あんたは十分に英雄だよ。
+",[],,,NOT_CHECKED,204,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且，在合作模式中上前线攻击敌人,"[""而且，在合作模式中上前线攻击敌人""]","Also, getting out there and attacking the enemy in
+CO-OPS
+","[""Also, getting out there and attacking the enemy in\nCO-OPS\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x15C40; ENG blocks=0xA8980; ENG source rows=0xA8980#10; block_semantic_score=0.158278.
+BRIEFING_FILES_BLOCK_015C40,7,stream=0x15000;block=0xC40;text=7,"[""stream=0x15000;block=0xC40;text=7""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","それに、CO-OPSでの戦闘時、積極的に敵を攻撃すれば、
+それだけ仲間からの信望が厚くなる。だがその分、敵もあ
+んたをマークするようになるだろう。
+","何、難しく考えることはない。ボスがいつもやってること
+だ。俺から見たって、あんたは十分に英雄だよ。
+","よしてくれ。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过别担心。做你自己就好。你可是Boss。依我看，
+你已经很有英雄风范了。","[""不过别担心。做你自己就好。你可是Boss。依我看，\n你已经很有英雄风范了。""]","But don't sweat it. Be yourself.
+Be the Boss. From where I'm standing, you're
+plenty heroic already.
+","[""But don't sweat it. Be yourself.\nBe the Boss. From where I'm standing, you're\nplenty heroic already.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x15C40; ENG blocks=0xA8980,0xA8980; ENG source rows=0xA8980#13,0xA8980#14; block_semantic_score=0.158278."
+BRIEFING_FILES_BLOCK_015C40,8,stream=0x15000;block=0xC40;text=8,"[""stream=0x15000;block=0xC40;text=8""]",1,BRIEFING FILES,"[""stream=0x15000;block=0xC40;block_file=0x15C40;text_base=0x15C84;capacity=1000""]","何、難しく考えることはない。ボスがいつもやってること
+だ。俺から見たって、あんたは十分に英雄だよ。
+","よしてくれ。
+",,[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,少废话。,"[""少废话。""]","Knock it off.
+","[""Knock it off.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x15C40; ENG blocks=0xA8980; ENG source rows=0xA8980#15; block_semantic_score=0.158278.

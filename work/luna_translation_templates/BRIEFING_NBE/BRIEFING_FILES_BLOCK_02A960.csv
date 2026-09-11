@@ -1,0 +1,40 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02A960,0,stream=0x2A000;block=0x960;text=0,"[""stream=0x2A000;block=0x960;text=0""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]",,"コスタリカには活火山が多いの。イラス山もその一つ。
+","なるほど、それで『<R= 溶岩の道 ,カミーノ・デ・ラーバ>』か。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加有好几座活火山，
+伊拉苏火山就是其中之一。","[""哥斯达黎加有好几座活火山，\n伊拉苏火山就是其中之一。""]","Costa Rica has several active volcanoes, Irazú
+being one of them.
+","[""Costa Rica has several active volcanoes, Irazú\nbeing one of them.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A960; ENG blocks=0xBBD10; ENG source rows=0xBBD10#0; block_semantic_score=0.190195.
+BRIEFING_FILES_BLOCK_02A960,1,stream=0x2A000;block=0x960;text=1,"[""stream=0x2A000;block=0x960;text=1""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","コスタリカには活火山が多いの。イラス山もその一つ。
+","なるほど、それで『<R= 溶岩の道 ,カミーノ・デ・ラーバ>』か。
+","このあたりの熱帯乾燥林は、熱帯雨林とはかなり違う。乾
+期には葉を落としてしまうの。
+","[""<R= 溶岩の道 ,カミーノ・デ・ラーバ>""]",,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,难怪叫“熔岩之路”啊。,"[""难怪叫“熔岩之路”啊。""]","That's where ""Camino de Lava"" comes from, huh?
+","[""That's where \""Camino de Lava\"" comes from, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A960; ENG blocks=0xBBD10; ENG source rows=0xBBD10#1; block_semantic_score=0.190195.
+BRIEFING_FILES_BLOCK_02A960,2,stream=0x2A000;block=0x960;text=2,"[""stream=0x2A000;block=0x960;text=2""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","なるほど、それで『<R= 溶岩の道 ,カミーノ・デ・ラーバ>』か。
+","このあたりの熱帯乾燥林は、熱帯雨林とはかなり違う。乾
+期には葉を落としてしまうの。
+","熱帯の森は、鬱蒼としたジャングルばかりでもない。場所
+によっては、サボテンだって生えてる。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这里的热带旱林与
+我们的雨林截然不同。","[""这里的热带旱林与\n我们的雨林截然不同。""]","The tropical dry forests around here are quite
+different from our rainforests.
+","[""The tropical dry forests around here are quite\ndifferent from our rainforests.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A960; ENG blocks=0xBBD10; ENG source rows=0xBBD10#2; block_semantic_score=0.190195.
+BRIEFING_FILES_BLOCK_02A960,3,stream=0x2A000;block=0x960;text=3,"[""stream=0x2A000;block=0x960;text=3""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","このあたりの熱帯乾燥林は、熱帯雨林とはかなり違う。乾
+期には葉を落としてしまうの。
+","熱帯の森は、鬱蒼としたジャングルばかりでもない。場所
+によっては、サボテンだって生えてる。
+","いろんな森や自然が残っているところが、コスタリカのい
+いところよ。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"热带森林不都是浓密丛林，
+有些甚至长有仙人掌。","[""热带森林不都是浓密丛林，\n有些甚至长有仙人掌。""]","Tropical forests are not all thick jungles. A few of
+them even have cacti.
+","[""Tropical forests are not all thick jungles. A few of\nthem even have cacti.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A960; ENG blocks=0xBBD10; ENG source rows=0xBBD10#4; block_semantic_score=0.190195.
+BRIEFING_FILES_BLOCK_02A960,4,stream=0x2A000;block=0x960;text=4,"[""stream=0x2A000;block=0x960;text=4""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","熱帯の森は、鬱蒼としたジャングルばかりでもない。場所
+によっては、サボテンだって生えてる。
+","いろんな森や自然が残っているところが、コスタリカのい
+いところよ。
+",,[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加最宝贵的财富之一，
+就是其多样化的森林和自然景观。","[""哥斯达黎加最宝贵的财富之一，\n就是其多样化的森林和自然景观。""]","Some of Costa Rica's greatest assets are its
+diverse forests and natural landscapes.
+","[""Some of Costa Rica's greatest assets are its\ndiverse forests and natural landscapes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2A960; ENG blocks=0xBBD10; ENG source rows=0xBBD10#5; block_semantic_score=0.190195.

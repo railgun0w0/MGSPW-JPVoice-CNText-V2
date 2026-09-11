@@ -1,0 +1,83 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0331A0,0,stream=0x33000;block=0x1A0;text=0,"[""stream=0x33000;block=0x1A0;text=0""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]",,"祖国の自由のための革命か。お互い平和とは縁遠いな。
+","不本意だけど仕方ないわ。無抵抗では搾取されるだけ。こ
+れまでの祖国の歴史がそれを証明してるの。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一场给你的国家带来和平的革命，嗯。,"[""一场给你的国家带来和平的革命，嗯。""]","A revolution to bring peace to your country, huh.
+","[""A revolution to bring peace to your country, huh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#0; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,1,stream=0x33000;block=0x1A0;text=1,"[""stream=0x33000;block=0x1A0;text=1""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","祖国の自由のための革命か。お互い平和とは縁遠いな。
+","不本意だけど仕方ないわ。無抵抗では搾取されるだけ。こ
+れまでの祖国の歴史がそれを証明してるの。
+","もちろん革命は手段であって目的じゃない。革命が成功し
+たら平和な国にしたいとは思う。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管我们怎么战斗，
+和平从来都不会更近一步，不是吗？我不喜欢这样，但这是唯一的方法。","[""不管我们怎么战斗，\n和平从来都不会更近一步，不是吗？我不喜欢这样，但这是唯一的方法。""]","No matter how much we fight, peace never gets
+any closer, does it?
+I do not like it, but it is the only way.
+","[""No matter how much we fight, peace never gets\nany closer, does it?\nI do not like it, but it is the only way.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x331A0; ENG blocks=0xC3D40,0xC3D40; ENG source rows=0xC3D40#1,0xC3D40#2; block_semantic_score=0.133758."
+BRIEFING_FILES_BLOCK_0331A0,2,stream=0x33000;block=0x1A0;text=2,"[""stream=0x33000;block=0x1A0;text=2""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","不本意だけど仕方ないわ。無抵抗では搾取されるだけ。こ
+れまでの祖国の歴史がそれを証明してるの。
+","もちろん革命は手段であって目的じゃない。革命が成功し
+たら平和な国にしたいとは思う。
+","けれど、平和をもたらすためにはまず売国奴を排除しなく
+ちゃならない。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,革命是手段，而不是目的，我知道。,"[""革命是手段，而不是目的，我知道。""]","Revolution is a means and not an end, I know.
+","[""Revolution is a means and not an end, I know.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#5; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,3,stream=0x33000;block=0x1A0;text=3,"[""stream=0x33000;block=0x1A0;text=3""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","もちろん革命は手段であって目的じゃない。革命が成功し
+たら平和な国にしたいとは思う。
+","けれど、平和をもたらすためにはまず売国奴を排除しなく
+ちゃならない。
+","「我々は平和に暮らすために戦争をする」――昔から言わ
+れている話だ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当革命胜利时，
+我希望我的国家能和平。但为了带来和平，
+我们必须先消灭那些叛国渣滓。","[""当革命胜利时，\n我希望我的国家能和平。但为了带来和平，\n我们必须先消灭那些叛国渣滓。""]","When the revolution is victorious, I want my
+country to be at peace.
+But to bring peace, we have to first eliminate that
+traitorous scum.
+","[""When the revolution is victorious, I want my\ncountry to be at peace.\nBut to bring peace, we have to first eliminate that\ntraitorous scum.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x331A0; ENG blocks=0xC3D40,0xC3D40; ENG source rows=0xC3D40#6,0xC3D40#7; block_semantic_score=0.133758."
+BRIEFING_FILES_BLOCK_0331A0,4,stream=0x33000;block=0x1A0;text=4,"[""stream=0x33000;block=0x1A0;text=4""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","けれど、平和をもたらすためにはまず売国奴を排除しなく
+ちゃならない。
+","「我々は平和に暮らすために戦争をする」――昔から言わ
+れている話だ。
+","誰の言葉？
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有句老话说：“我们进行战争，
+是为了能够生活在和平中。”","[""有句老话说：“我们进行战争，\n是为了能够生活在和平中。”""]","It's an old saying: ""We make war that we may live
+in peace.""
+","[""It's an old saying: \""We make war that we may live\nin peace.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#8; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,5,stream=0x33000;block=0x1A0;text=5,"[""stream=0x33000;block=0x1A0;text=5""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","「我々は平和に暮らすために戦争をする」――昔から言わ
+れている話だ。
+","誰の言葉？
+","アリストテレスだ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谁说的？,"[""谁说的？""]","Who said it?
+","[""Who said it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#9; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,6,stream=0x33000;block=0x1A0;text=6,"[""stream=0x33000;block=0x1A0;text=6""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","誰の言葉？
+","アリストテレスだ。
+","詳しいのね。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你历史知识不错。,"[""你历史知识不错。""]","You know your history.
+","[""You know your history.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#11; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,7,stream=0x33000;block=0x1A0;text=7,"[""stream=0x33000;block=0x1A0;text=7""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","アリストテレスだ。
+","詳しいのね。
+","ある人に教わった。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我有一个好老师。,"[""我有一个好老师。""]","I had a good teacher.
+","[""I had a good teacher.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#12; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,8,stream=0x33000;block=0x1A0;text=8,"[""stream=0x33000;block=0x1A0;text=8""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","詳しいのね。
+","ある人に教わった。
+","人間は昔から同じ事を繰り返してるってわけね。…それで
+も戦うしかない。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一直都是这样。,"[""一直都是这样。""]","It has always been like this.
+","[""It has always been like this.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#13; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,9,stream=0x33000;block=0x1A0;text=9,"[""stream=0x33000;block=0x1A0;text=9""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","ある人に教わった。
+","人間は昔から同じ事を繰り返してるってわけね。…それで
+も戦うしかない。
+","そうだな。目的があるなら、前に進むしかない。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"人们一遍又一遍地犯着同样的
+错误…而我们能做的仍然只有战斗。","[""人们一遍又一遍地犯着同样的\n错误…而我们能做的仍然只有战斗。""]","People making the same mistakes, over and over...
+and still all we can do is fight.
+","[""People making the same mistakes, over and over...\nand still all we can do is fight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#14; block_semantic_score=0.133758.
+BRIEFING_FILES_BLOCK_0331A0,10,stream=0x33000;block=0x1A0;text=10,"[""stream=0x33000;block=0x1A0;text=10""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","人間は昔から同じ事を繰り返してるってわけね。…それで
+も戦うしかない。
+","そうだな。目的があるなら、前に進むしかない。
+",,[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我明白。如果你有目标，
+就必须继续前进。","[""我明白。如果你有目标，\n就必须继续前进。""]","I hear ya. If you've got a goal, you've got to keep
+moving forward.
+","[""I hear ya. If you've got a goal, you've got to keep\nmoving forward.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x331A0; ENG blocks=0xC3D40; ENG source rows=0xC3D40#15; block_semantic_score=0.133758.

@@ -1,0 +1,81 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0598A0,0,stream=0x59000;block=0x8A0;text=0,"[""stream=0x59000;block=0x8A0;text=0""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]",,"状況を整理しよう。まず、<R=研究施設,ラボ>に入るにはIDカードが
+必要だ。
+","ええ。あそこは外から見るとただの遺跡だけど、中は最新
+鋭の研究施設のようだったわ。
+","[""<R=研究施設,ラボ>""]",,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"首先，我需要一张ID
+卡才能进入实验室。","[""首先，我需要一张ID\n卡才能进入实验室。""]","First, I need an ID card to get into the lab.
+","[""First, I need an ID card to get into the lab.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x598A0; ENG blocks=0xE75F0; ENG source rows=0xE75F0#1; block_semantic_score=0.123574.
+BRIEFING_FILES_BLOCK_0598A0,1,stream=0x59000;block=0x8A0;text=1,"[""stream=0x59000;block=0x8A0;text=1""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","状況を整理しよう。まず、<R=研究施設,ラボ>に入るにはIDカードが
+必要だ。
+","ええ。あそこは外から見るとただの遺跡だけど、中は最新
+鋭の研究施設のようだったわ。
+","それで、IDカードはオレンジ色のジャケットを着た兵士に
+取られたんだな？
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。从外面看，
+它跟其他废墟没什么两样。但其实里面是一流的研究设施。","[""没错。从外面看，\n它跟其他废墟没什么两样。但其实里面是一流的研究设施。""]","That is correct. From the outside it looks like any
+other ruin.
+But on the inside it is a state-of-the-art research
+facility.
+","[""That is correct. From the outside it looks like any\nother ruin.\nBut on the inside it is a state-of-the-art research\nfacility.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x598A0; ENG blocks=0xE75F0,0xE75F0; ENG source rows=0xE75F0#2,0xE75F0#3; block_semantic_score=0.123574."
+BRIEFING_FILES_BLOCK_0598A0,2,stream=0x59000;block=0x8A0;text=2,"[""stream=0x59000;block=0x8A0;text=2""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","ええ。あそこは外から見るとただの遺跡だけど、中は最新
+鋭の研究施設のようだったわ。
+","それで、IDカードはオレンジ色のジャケットを着た兵士に
+取られたんだな？
+","そのとおりよ。そして、その場所ではケツァールが鳴いて
+いた。あれからそんなに時間も経ってない。
+",[],,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而你的ID卡被一个穿橙色
+夹克的家伙拿走了。","[""而你的ID卡被一个穿橙色\n夹克的家伙拿走了。""]","And your ID card got taken away from you by
+some guy in an orange jacket.
+","[""And your ID card got taken away from you by\nsome guy in an orange jacket.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x598A0; ENG blocks=0xE75F0; ENG source rows=0xE75F0#4; block_semantic_score=0.123574.
+BRIEFING_FILES_BLOCK_0598A0,3,stream=0x59000;block=0x8A0;text=3,"[""stream=0x59000;block=0x8A0;text=3""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","それで、IDカードはオレンジ色のジャケットを着た兵士に
+取られたんだな？
+","そのとおりよ。そして、その場所ではケツァールが鳴いて
+いた。あれからそんなに時間も経ってない。
+","巡回中の兵士とすると厄介だが、定位置の見張りであれば
+…。ケツァールの方は移動していないのか？
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。我听到附近有凤尾绿咬鹃在叫。那件事发生还没多久。,"[""没错。我听到附近有凤尾绿咬鹃在叫。那件事发生还没多久。""]","Exactly. I heard a quetzal singing nearby.
+It has not been that long since it happened.
+","[""Exactly. I heard a quetzal singing nearby.\nIt has not been that long since it happened.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x598A0; ENG blocks=0xE75F0,0xE75F0; ENG source rows=0xE75F0#5,0xE75F0#6; block_semantic_score=0.123574."
+BRIEFING_FILES_BLOCK_0598A0,4,stream=0x59000;block=0x8A0;text=4,"[""stream=0x59000;block=0x8A0;text=4""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","そのとおりよ。そして、その場所ではケツァールが鳴いて
+いた。あれからそんなに時間も経ってない。
+","巡回中の兵士とすると厄介だが、定位置の見張りであれば
+…。ケツァールの方は移動していないのか？
+","近くに巣があるんだと思う。急にいなくなったりはしない
+はずよ。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果他在巡逻的话可能会有点麻烦，
+但如果是固定哨…你觉得那只凤尾绿咬鹃不会飞走吗？","[""如果他在巡逻的话可能会有点麻烦，\n但如果是固定哨…你觉得那只凤尾绿咬鹃不会飞走吗？""]","It could be tricky if he's out on patrol, but if he's a
+stationary sentry...
+You don't think the quetzal's moved?
+","[""It could be tricky if he's out on patrol, but if he's a\nstationary sentry...\nYou don't think the quetzal's moved?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x598A0; ENG blocks=0xE75F0,0xE75F0; ENG source rows=0xE75F0#7,0xE75F0#8; block_semantic_score=0.123574."
+BRIEFING_FILES_BLOCK_0598A0,5,stream=0x59000;block=0x8A0;text=5,"[""stream=0x59000;block=0x8A0;text=5""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","巡回中の兵士とすると厄介だが、定位置の見張りであれば
+…。ケツァールの方は移動していないのか？
+","近くに巣があるんだと思う。急にいなくなったりはしない
+はずよ。
+","よし、早くその兵士を捜そう。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它的巢大概就在附近。
+我觉得它短时间内不会离开。","[""它的巢大概就在附近。\n我觉得它短时间内不会离开。""]","Its nest is probably nearby. I do not think it will go
+away anytime soon.
+","[""Its nest is probably nearby. I do not think it will go\naway anytime soon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x598A0; ENG blocks=0xE75F0; ENG source rows=0xE75F0#9; block_semantic_score=0.123574.
+BRIEFING_FILES_BLOCK_0598A0,6,stream=0x59000;block=0x8A0;text=6,"[""stream=0x59000;block=0x8A0;text=6""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","近くに巣があるんだと思う。急にいなくなったりはしない
+はずよ。
+","よし、早くその兵士を捜そう。
+","鳴き声を忘れたら、また私がしてあげる。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好。那我就去找那个士兵。,"[""好。那我就去找那个士兵。""]","Good. I'll get on looking for that soldier.
+","[""Good. I'll get on looking for that soldier.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x598A0; ENG blocks=0xE75F0; ENG source rows=0xE75F0#10; block_semantic_score=0.123574.
+BRIEFING_FILES_BLOCK_0598A0,7,stream=0x59000;block=0x8A0;text=7,"[""stream=0x59000;block=0x8A0;text=7""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","よし、早くその兵士を捜そう。
+","鳴き声を忘れたら、また私がしてあげる。
+","私の鳴き声を聞きたくなったら無線で<R=連絡,コール>して。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你要是忘了那叫声是什么样的，
+我再给你叫一次。","[""你要是忘了那叫声是什么样的，\n我再给你叫一次。""]","If you forget what it sounds like, I'll do the call for
+you again.
+","[""If you forget what it sounds like, I'll do the call for\nyou again.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x598A0; ENG blocks=0xE75F0; ENG source rows=0xE75F0#11; block_semantic_score=0.123574.
+BRIEFING_FILES_BLOCK_0598A0,8,stream=0x59000;block=0x8A0;text=8,"[""stream=0x59000;block=0x8A0;text=8""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","鳴き声を忘れたら、また私がしてあげる。
+","私の鳴き声を聞きたくなったら無線で<R=連絡,コール>して。
+","わかった。
+","[""<R=連絡,コール>""]",,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你什么时候想听，随时叫我。,"[""你什么时候想听，随时叫我。""]","Just give me a call anytime you'd like to hear it.
+","[""Just give me a call anytime you'd like to hear it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x598A0; ENG blocks=0xE75F0; ENG source rows=0xE75F0#12; block_semantic_score=0.123574.
+BRIEFING_FILES_BLOCK_0598A0,9,stream=0x59000;block=0x8A0;text=9,"[""stream=0x59000;block=0x8A0;text=9""]",1,BRIEFING FILES,"[""stream=0x59000;block=0x8A0;block_file=0x598A0;text_base=0x598E8;capacity=908""]","私の鳴き声を聞きたくなったら無線で<R=連絡,コール>して。
+","わかった。
+",,[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会的。,"[""我会的。""]","I'll do that.
+","[""I'll do that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x598A0; ENG blocks=0xE75F0; ENG source rows=0xE75F0#13; block_semantic_score=0.123574.

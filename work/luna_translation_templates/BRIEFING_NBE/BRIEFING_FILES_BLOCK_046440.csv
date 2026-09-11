@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_046440,0,stream=0x46000;block=0x440;text=0,"[""stream=0x46000;block=0x440;text=0""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]",,"翼竜が生き残っているのは、アフリカのカメルーンやコン
+ゴの辺りらしい。
+","現地の住民はコンガマトーとかオリティアオウとか、それ
+ぞれ部族ごとに違った名前で呼んでるみたいだ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"翼龙如今仍存活在
+非洲的喀麦隆和刚果。","[""翼龙如今仍存活在\n非洲的喀麦隆和刚果。""]","Pterosaurs survive today in the African countries
+of Cameroon and Congo.
+","[""Pterosaurs survive today in the African countries\nof Cameroon and Congo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#0; block_semantic_score=0.155690.
+BRIEFING_FILES_BLOCK_046440,1,stream=0x46000;block=0x440;text=1,"[""stream=0x46000;block=0x440;text=1""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]","翼竜が生き残っているのは、アフリカのカメルーンやコン
+ゴの辺りらしい。
+","現地の住民はコンガマトーとかオリティアオウとか、それ
+ぞれ部族ごとに違った名前で呼んでるみたいだ。
+","コンゴにはずいぶんと恐竜の生き残りが多いんだな。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"每个部落对它们的叫法都不一样，
+比如康加马托或奥利蒂亚乌。","[""每个部落对它们的叫法都不一样，\n比如康加马托或奥利蒂亚乌。""]","Each tribe calls them by a different name, like
+Kongamato or Olitiau.
+","[""Each tribe calls them by a different name, like\nKongamato or Olitiau.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#1; block_semantic_score=0.155690.
+BRIEFING_FILES_BLOCK_046440,2,stream=0x46000;block=0x440;text=2,"[""stream=0x46000;block=0x440;text=2""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]","現地の住民はコンガマトーとかオリティアオウとか、それ
+ぞれ部族ごとに違った名前で呼んでるみたいだ。
+","コンゴにはずいぶんと恐竜の生き残りが多いんだな。
+","あの辺りは未開の地が多いからな。人知れず生き残ってき
+たのさ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,刚果那一带确实有不少恐龙出没。,"[""刚果那一带确实有不少恐龙出没。""]","There sure are a lot of dinosaurs running around
+the Congo.
+","[""There sure are a lot of dinosaurs running around\nthe Congo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#2; block_semantic_score=0.155690.
+BRIEFING_FILES_BLOCK_046440,3,stream=0x46000;block=0x440;text=3,"[""stream=0x46000;block=0x440;text=3""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]","コンゴにはずいぶんと恐竜の生き残りが多いんだな。
+","あの辺りは未開の地が多いからな。人知れず生き残ってき
+たのさ。
+","でも、翼竜の化石はアメリカでも見つかってるんだ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，那里还有很多土地
+尚未有人类定居。","[""嗯，那里还有很多土地\n尚未有人类定居。""]","Well, a lot of the land hasn't been settled by
+humans yet.
+","[""Well, a lot of the land hasn't been settled by\nhumans yet.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#3; block_semantic_score=0.155690.
+BRIEFING_FILES_BLOCK_046440,4,stream=0x46000;block=0x440;text=4,"[""stream=0x46000;block=0x440;text=4""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]","あの辺りは未開の地が多いからな。人知れず生き残ってき
+たのさ。
+","でも、翼竜の化石はアメリカでも見つかってるんだ。
+","3年前にテキサスで発見された化石の翼竜は、羽を広げる
+と<R=14バーラ,12m>もあったんだって。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但他们在美国也发现了化石。,"[""但他们在美国也发现了化石。""]","But they're finding fossils in America, too.
+","[""But they're finding fossils in America, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#5; block_semantic_score=0.155690.
+BRIEFING_FILES_BLOCK_046440,5,stream=0x46000;block=0x440;text=5,"[""stream=0x46000;block=0x440;text=5""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]","でも、翼竜の化石はアメリカでも見つかってるんだ。
+","3年前にテキサスで発見された化石の翼竜は、羽を広げる
+と<R=14バーラ,12m>もあったんだって。
+","そんなに巨大な翼竜だったら、神様扱いされてもおかしく
+ない。
+","[""<R=14バーラ,12m>""]",,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"三年前他们在德克萨斯发现的
+那只，翼展超过12米！","[""三年前他们在德克萨斯发现的\n那只，翼展超过12米！""]","This one they found three years ago in Texas had
+a wingspan of more than 12 meters!
+","[""This one they found three years ago in Texas had\na wingspan of more than 12 meters!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#6; block_semantic_score=0.155690.
+BRIEFING_FILES_BLOCK_046440,6,stream=0x46000;block=0x440;text=6,"[""stream=0x46000;block=0x440;text=6""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]","3年前にテキサスで発見された化石の翼竜は、羽を広げる
+と<R=14バーラ,12m>もあったんだって。
+","そんなに巨大な翼竜だったら、神様扱いされてもおかしく
+ない。
+","それこそがケツァルコアトルの正体なんじゃないかと思う
+ね、俺は。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我看到那样一只巨型翼龙，
+大概也会把它叫做神。","[""如果我看到那样一只巨型翼龙，\n大概也会把它叫做神。""]","If I saw a gigantic pterosaur like that, I'd probably
+call it a god, too.
+","[""If I saw a gigantic pterosaur like that, I'd probably\ncall it a god, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#7; block_semantic_score=0.155690.
+BRIEFING_FILES_BLOCK_046440,7,stream=0x46000;block=0x440;text=7,"[""stream=0x46000;block=0x440;text=7""]",1,BRIEFING FILES,"[""stream=0x46000;block=0x440;block_file=0x46440;text_base=0x46480;capacity=808""]","そんなに巨大な翼竜だったら、神様扱いされてもおかしく
+ない。
+","それこそがケツァルコアトルの正体なんじゃないかと思う
+ね、俺は。
+",,[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错，我确定羽蛇神就是那个东西。,"[""没错，我确定羽蛇神就是那个东西。""]","Yup, I'm sure that's what the quetzalcoatl really is.
+","[""Yup, I'm sure that's what the quetzalcoatl really is.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46440; ENG blocks=0xD3FF0; ENG source rows=0xD3FF0#8; block_semantic_score=0.155690.

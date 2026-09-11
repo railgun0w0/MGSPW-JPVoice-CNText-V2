@@ -1,0 +1,93 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0033A0,0,stream=0x3000;block=0x3A0;text=0,"[""stream=0x3000;block=0x3A0;text=0""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]",,"まさかパスが…バンドを組もうって言ってたのに。
+","彼女はKGBとも通じていた？
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Paz怎么会…我们本来
+还打算一起组乐队的…","[""Paz怎么会…我们本来\n还打算一起组乐队的…""]","How could Paz... We were going to start a band
+together...
+","[""How could Paz... We were going to start a band\ntogether...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#0; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,1,stream=0x3000;block=0x3A0;text=1,"[""stream=0x3000;block=0x3A0;text=1""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","まさかパスが…バンドを組もうって言ってたのに。
+","彼女はKGBとも通じていた？
+","素性を隠してガルベスに近づいたんだろう。コールドマン
+はどこまで知っていたのか…。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她也是装成克格勃(KGB)特工的？,"[""她也是装成克格勃(KGB)特工的？""]","She was posing as a KGB agent, too?
+","[""She was posing as a KGB agent, too?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#1; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,2,stream=0x3000;block=0x3A0;text=2,"[""stream=0x3000;block=0x3A0;text=2""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","彼女はKGBとも通じていた？
+","素性を隠してガルベスに近づいたんだろう。コールドマン
+はどこまで知っていたのか…。
+","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她一定是装出来的，好接近Gálvez。不知道Coldman知道多少…,"[""她一定是装出来的，好接近Gálvez。不知道Coldman知道多少…""]","She must have put on the act to get close to
+Gálvez.
+Wonder how much Coldman knew...
+","[""She must have put on the act to get close to\nGálvez.\nWonder how much Coldman knew...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x33A0; ENG blocks=0x97880,0x97880; ENG source rows=0x97880#2,0x97880#3; block_semantic_score=0.257910."
+BRIEFING_FILES_BLOCK_0033A0,3,stream=0x3000;block=0x3A0;text=3,"[""stream=0x3000;block=0x3A0;text=3""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","素性を隠してガルベスに近づいたんだろう。コールドマン
+はどこまで知っていたのか…。
+","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
+","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
+","[""<R=CIPHER,サイファー>""]",,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但她其实一直在为一个叫
+「Cipher」的组织卖命。","[""但她其实一直在为一个叫\n「Cipher」的组织卖命。""]","But the whole time she was working for some
+organization called ""Cipher.""
+","[""But the whole time she was working for some\norganization called \""Cipher.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#4; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,4,stream=0x3000;block=0x3A0;text=4,"[""stream=0x3000;block=0x3A0;text=4""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
+","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
+","んー、サイファー…「暗号」、か。あるいは「アラビア数
+字」「0」…。
+","[""<R=CIPHER,サイファー>""]",,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,「Cipher」…有印象吗，Kaz？,"[""「Cipher」…有印象吗，Kaz？""]","""Cipher""... Ring any bells, Kaz?
+","[""\""Cipher\""... Ring any bells, Kaz?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#5; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,5,stream=0x3000;block=0x3A0;text=5,"[""stream=0x3000;block=0x3A0;text=5""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
+","んー、サイファー…「暗号」、か。あるいは「アラビア数
+字」「0」…。
+","ゼロ…。
+",[],,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Cipher…Cipher…意思是「密码」。
+用阿拉伯数字来说也是「零」。","[""Cipher…Cipher…意思是「密码」。\n用阿拉伯数字来说也是「零」。""]","Cipher... Cipher... it means ""code."" Or ""zero"" in
+Arabic numerals.
+","[""Cipher... Cipher... it means \""code.\"" Or \""zero\"" in\nArabic numerals.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#6; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,6,stream=0x3000;block=0x3A0;text=6,"[""stream=0x3000;block=0x3A0;text=6""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","んー、サイファー…「暗号」、か。あるいは「アラビア数
+字」「0」…。
+","ゼロ…。
+","心当たりがあるのか？
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Zero…,"[""Zero…""]","Zero...
+","[""Zero...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#7; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,7,stream=0x3000;block=0x3A0;text=7,"[""stream=0x3000;block=0x3A0;text=7""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","ゼロ…。
+","心当たりがあるのか？
+","さあな。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这对你来说有什么意义吗？,"[""这对你来说有什么意义吗？""]","Does that mean something to you?
+","[""Does that mean something to you?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#8; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,8,stream=0x3000;block=0x3A0;text=8,"[""stream=0x3000;block=0x3A0;text=8""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","心当たりがあるのか？
+","さあな。
+","もともと<R=CIPHER,サイファー>とZEROは同じ言葉だったんだ。<R=二重語,doublet>
+だな。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不确定。,"[""不确定。""]","Not sure.
+","[""Not sure.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#9; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,9,stream=0x3000;block=0x3A0;text=9,"[""stream=0x3000;block=0x3A0;text=9""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","さあな。
+","もともと<R=CIPHER,サイファー>とZEROは同じ言葉だったんだ。<R=二重語,doublet>
+だな。
+","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
+ころの「空」だ。
+","[""<R=CIPHER,サイファー>"", ""<R=二重語,doublet>""]",,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯。你知道吗，「cipher」和「zero」
+这两个词本来其实是同一个词。","[""嗯。你知道吗，「cipher」和「zero」\n这两个词本来其实是同一个词。""]","Hmm. You know, ""cipher"" and ""zero"" were basically
+the same word.
+","[""Hmm. You know, \""cipher\"" and \""zero\"" were basically\nthe same word.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#10; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,10,stream=0x3000;block=0x3A0;text=10,"[""stream=0x3000;block=0x3A0;text=10""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","もともと<R=CIPHER,サイファー>とZEROは同じ言葉だったんだ。<R=二重語,doublet>
+だな。
+","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
+ころの「空」だ。
+","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
+ることで、中身が空になった状態を指したらしい。
+",[],,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这个词源自梵语「shunya」…,"[""这个词源自梵语「shunya」…""]","The word stems from the Sanskrit ""shunya""...
+","[""The word stems from the Sanskrit \""shunya\""...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#12; block_semantic_score=0.257910.
+BRIEFING_FILES_BLOCK_0033A0,11,stream=0x3000;block=0x3A0;text=11,"[""stream=0x3000;block=0x3A0;text=11""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
+ころの「空」だ。
+","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
+ることで、中身が空になった状態を指したらしい。
+","膨張してできた空か…まるで宇宙だな。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在佛教里，「shunya」的意思是空。据说指的是那种内里
+肿胀却空虚的东西。","[""在佛教里，「shunya」的意思是空。据说指的是那种内里\n肿胀却空虚的东西。""]","In Buddhism, ""shunya"" means hollow.
+It supposedly refers to something that's swollen
+and empty on the inside.
+","[""In Buddhism, \""shunya\"" means hollow.\nIt supposedly refers to something that's swollen\nand empty on the inside.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x33A0; ENG blocks=0x97880,0x97880; ENG source rows=0x97880#14,0x97880#15; block_semantic_score=0.257910."
+BRIEFING_FILES_BLOCK_0033A0,12,stream=0x3000;block=0x3A0;text=12,"[""stream=0x3000;block=0x3A0;text=12""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
+ることで、中身が空になった状態を指したらしい。
+","膨張してできた空か…まるで宇宙だな。
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一片庞大而肿胀的虚无…
+就像外太空一样。","[""一片庞大而肿胀的虚无…\n就像外太空一样。""]","A big, swollen emptiness... just like outer space.
+","[""A big, swollen emptiness... just like outer space.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x33A0; ENG blocks=0x97880; ENG source rows=0x97880#16; block_semantic_score=0.257910.

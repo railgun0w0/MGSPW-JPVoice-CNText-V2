@@ -1,0 +1,16 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_383DF0,0,stream=0x383000;block=0xDF0;text=0,"[""stream=0x383000;block=0xDF0;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xDF0;block_file=0x383DF0;text_base=0x383E1C;capacity=172""]",,"これより、ミッションを開始する。
+","肩慣らしに丁度いい、簡単なミッションだ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这是你的任务概要。,"[""这是你的任务概要。""]","Here's a rundown of your mission.
+","[""Here's a rundown of your mission.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383DF0; ENG blocks=0x3992A0; ENG source rows=0x3992A0#0; block_semantic_score=0.023054.
+BRIEFING_MISSION_BLOCK_383DF0,1,stream=0x383000;block=0xDF0;text=1,"[""stream=0x383000;block=0xDF0;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xDF0;block_file=0x383DF0;text_base=0x383E1C;capacity=172""]","これより、ミッションを開始する。
+","肩慣らしに丁度いい、簡単なミッションだ。
+","だが油断するな。確実に成し遂げるんだ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这趟正好当热身，轻轻松松。,"[""这趟正好当热身，轻轻松松。""]","This one's perfect for a warm up. Nice
+and easy.
+","[""This one's perfect for a warm up. Nice\nand easy.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383DF0; ENG blocks=0x3992A0; ENG source rows=0x3992A0#1; block_semantic_score=0.023054.
+BRIEFING_MISSION_BLOCK_383DF0,2,stream=0x383000;block=0xDF0;text=2,"[""stream=0x383000;block=0xDF0;text=2""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xDF0;block_file=0x383DF0;text_base=0x383E1C;capacity=172""]","肩慣らしに丁度いい、簡単なミッションだ。
+","だが油断するな。確実に成し遂げるんだ。
+",,[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过别偷懒。坚持到底，完成任务。,"[""不过别偷懒。坚持到底，完成任务。""]","Don't let yourself get lazy, though. Stick
+to it and get the job done.
+","[""Don't let yourself get lazy, though. Stick\nto it and get the job done.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383DF0; ENG blocks=0x3992A0; ENG source rows=0x3992A0#2; block_semantic_score=0.023054.

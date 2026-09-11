@@ -1,0 +1,30 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_379FA0,0,stream=0x379000;block=0xFA0;text=0,"[""stream=0x379000;block=0xFA0;text=0""]",1,d6030_m0400_mrd,"[""stream=0x379000;block=0xFA0;block_file=0x379FA0;text_base=0x379FD4;capacity=252""]",,"クハ…見つかったか。
+","ここからは逃げられんぞ。
+どうするつもりだった？
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嘿嘿…还是被你找到了。,"[""嘿嘿…还是被你找到了。""]","Heh heh... So you found me.
+","[""Heh heh... So you found me.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379FA0; ENG blocks=0x3907A0; ENG source rows=0x3907A0#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_379FA0,1,stream=0x379000;block=0xFA0;text=1,"[""stream=0x379000;block=0xFA0;text=1""]",1,d6030_m0400_mrd,"[""stream=0x379000;block=0xFA0;block_file=0x379FA0;text_base=0x379FD4;capacity=252""]","クハ…見つかったか。
+","ここからは逃げられんぞ。
+どうするつもりだった？
+","ちょっとした…“散歩”だよ。
+",[],,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不难找。你到底在搞什么？,"[""不难找。你到底在搞什么？""]","It wasn't hard. What're you up to, anyway?
+","[""It wasn't hard. What're you up to, anyway?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379FA0; ENG blocks=0x3907A0; ENG source rows=0x3907A0#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_379FA0,2,stream=0x379000;block=0xFA0;text=2,"[""stream=0x379000;block=0xFA0;text=2""]",1,d6030_m0400_mrd,"[""stream=0x379000;block=0xFA0;block_file=0x379FA0;text_base=0x379FD4;capacity=252""]","ここからは逃げられんぞ。
+どうするつもりだった？
+","ちょっとした…“散歩”だよ。
+","カズ、ザドルノフを発見した。
+これより帰還する。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,只是…散散步。,"[""只是…散散步。""]","Just... going for a stroll.
+","[""Just... going for a stroll.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379FA0; ENG blocks=0x3907A0; ENG source rows=0x3907A0#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_379FA0,3,stream=0x379000;block=0xFA0;text=3,"[""stream=0x379000;block=0xFA0;text=3""]",1,d6030_m0400_mrd,"[""stream=0x379000;block=0xFA0;block_file=0x379FA0;text_base=0x379FD4;capacity=252""]","ちょっとした…“散歩”だよ。
+","カズ、ザドルノフを発見した。
+これより帰還する。
+","了解した、スネーク。
+",[],,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Kaz，我抓到Zadornov了。正在返回。,"[""Kaz，我抓到Zadornov了。正在返回。""]","Kaz, I've got Zadornov. Returning home.
+","[""Kaz, I've got Zadornov. Returning home.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379FA0; ENG blocks=0x3907A0; ENG source rows=0x3907A0#3; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_379FA0,4,stream=0x379000;block=0xFA0;text=4,"[""stream=0x379000;block=0xFA0;text=4""]",1,d6030_m0400_mrd,"[""stream=0x379000;block=0xFA0;block_file=0x379FA0;text_base=0x379FD4;capacity=252""]","カズ、ザドルノフを発見した。
+これより帰還する。
+","了解した、スネーク。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,收到，Snake。,"[""收到，Snake。""]","Acknowledged, Snake.
+","[""Acknowledged, Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379FA0; ENG blocks=0x3907A0; ENG source rows=0x3907A0#4; block_semantic_score=1.000000.

@@ -1,0 +1,60 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01AF20,0,stream=0x1A000;block=0xF20;text=0,"[""stream=0x1A000;block=0xF20;text=0""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]",,"村の北にあるバリケードを壊すには、<R=　C　4　,コンポジション4>爆薬が必要
+だ。スネークなら、扱いには慣れてるよな？
+","ああ。C3の時代からお世話になってる。
+","[""<R=　C　4　,コンポジション4>""]",,,NOT_CHECKED,166,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要摧毁村庄北面的路障，
+你需要C4炸药。","[""要摧毁村庄北面的路障，\n你需要C4炸药。""]","To destroy the barricade north of the village, you'll
+need Composition 4 explosive.
+","[""To destroy the barricade north of the village, you'll\nneed Composition 4 explosive.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1AF20; ENG blocks=0xAC500; ENG source rows=0xAC500#0; block_semantic_score=0.227619.
+BRIEFING_FILES_BLOCK_01AF20,1,stream=0x1A000;block=0xF20;text=1,"[""stream=0x1A000;block=0xF20;text=1""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","村の北にあるバリケードを壊すには、<R=　C　4　,コンポジション4>爆薬が必要
+だ。スネークなら、扱いには慣れてるよな？
+","ああ。C3の時代からお世話になってる。
+","C3か。確か寒い土地じゃ脆くなるって言うんで、C4に世
+代交代したんだっけな。
+",[],,,NOT_CHECKED,54,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。从C3那会儿起我就常用。,"[""没错。从C3那会儿起我就常用。""]","Yeah. I've been a regular user since the days of C3.
+","[""Yeah. I've been a regular user since the days of C3.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1AF20; ENG blocks=0xAC500; ENG source rows=0xAC500#2; block_semantic_score=0.227619.
+BRIEFING_FILES_BLOCK_01AF20,2,stream=0x1A000;block=0xF20;text=2,"[""stream=0x1A000;block=0xF20;text=2""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","ああ。C3の時代からお世話になってる。
+","C3か。確か寒い土地じゃ脆くなるって言うんで、C4に世
+代交代したんだっけな。
+","成形自在のプラスティック爆薬。安定性に優れていて、起
+爆装置なしじゃ爆発しない。火をつけても普通に燃えるだ
+け…。
+",[],,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"C3…哦对，我想起来了。那玩意儿在低温下会变脆失效，
+所以才升级了。C4是可塑的塑性炸药。","[""C3…哦对，我想起来了。那玩意儿在低温下会变脆失效，\n所以才升级了。C4是可塑的塑性炸药。""]","C3... oh yeah, I remember.
+That stuff got brittle and useless in cold
+temperatures, so they upgraded.
+C4's a moldable plastic explosive.
+","[""C3... oh yeah, I remember.\nThat stuff got brittle and useless in cold\ntemperatures, so they upgraded.\nC4's a moldable plastic explosive.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x1AF20; ENG blocks=0xAC500,0xAC500,0xAC500; ENG source rows=0xAC500#3,0xAC500#4,0xAC500#5; block_semantic_score=0.227619."
+BRIEFING_FILES_BLOCK_01AF20,3,stream=0x1A000;block=0xF20;text=3,"[""stream=0x1A000;block=0xF20;text=3""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","C3か。確か寒い土地じゃ脆くなるって言うんで、C4に世
+代交代したんだっけな。
+","成形自在のプラスティック爆薬。安定性に優れていて、起
+爆装置なしじゃ爆発しない。火をつけても普通に燃えるだ
+け…。
+","ベトナムじゃ、燃料代わりに使う米兵もいたらしい。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它非常稳定，没有专用
+雷管就不会爆炸。直接点火的话，就只会燃烧。","[""它非常稳定，没有专用\n雷管就不会爆炸。直接点火的话，就只会燃烧。""]","It's very stable and won't explode without a special
+detonator.
+Light it on fire and all it does is burn.
+","[""It's very stable and won't explode without a special\ndetonator.\nLight it on fire and all it does is burn.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1AF20; ENG blocks=0xAC500,0xAC500; ENG source rows=0xAC500#6,0xAC500#7; block_semantic_score=0.227619."
+BRIEFING_FILES_BLOCK_01AF20,4,stream=0x1A000;block=0xF20;text=4,"[""stream=0x1A000;block=0xF20;text=4""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","成形自在のプラスティック爆薬。安定性に優れていて、起
+爆装置なしじゃ爆発しない。火をつけても普通に燃えるだ
+け…。
+","ベトナムじゃ、燃料代わりに使う米兵もいたらしい。
+","バリケードの近くに設置した後は、安全な場所まで移動し
+てから、起爆ボタンで爆発させてくれ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,很多在越南的美军曾把它当燃料用。,"[""很多在越南的美军曾把它当燃料用。""]","A lot of American soldiers in Vietnam used to use
+it as fuel.
+","[""A lot of American soldiers in Vietnam used to use\nit as fuel.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1AF20; ENG blocks=0xAC500; ENG source rows=0xAC500#8; block_semantic_score=0.227619.
+BRIEFING_FILES_BLOCK_01AF20,5,stream=0x1A000;block=0xF20;text=5,"[""stream=0x1A000;block=0xF20;text=5""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","ベトナムじゃ、燃料代わりに使う米兵もいたらしい。
+","バリケードの近くに設置した後は、安全な場所まで移動し
+てから、起爆ボタンで爆発させてくれ。
+","了解だ。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"把它安在路障附近，
+然后转移到安全位置，","[""把它安在路障附近，\n然后转移到安全位置，""]","Place it near the barricade and move to a safe
+location,
+","[""Place it near the barricade and move to a safe\nlocation,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1AF20; ENG blocks=0xAC500; ENG source rows=0xAC500#9; block_semantic_score=0.227619.
+BRIEFING_FILES_BLOCK_01AF20,6,stream=0x1A000;block=0xF20;text=6,"[""stream=0x1A000;block=0xF20;text=6""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","バリケードの近くに設置した後は、安全な場所まで移動し
+てから、起爆ボタンで爆発させてくれ。
+","了解だ。
+",,[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,交给我了。,"[""交给我了。""]","I'm on it.
+","[""I'm on it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1AF20; ENG blocks=0xAC500; ENG source rows=0xAC500#11; block_semantic_score=0.227619.

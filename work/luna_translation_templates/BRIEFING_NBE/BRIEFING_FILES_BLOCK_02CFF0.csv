@@ -1,0 +1,51 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02CFF0,0,stream=0x2C000;block=0xFF0;text=0,"[""stream=0x2C000;block=0xFF0;text=0""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]",,"このあたりの森は、熱帯雲霧林よ。常に白く霧がかかって
+いて、とても神秘的なの。
+","それで『<R=乳の森,セルバ・デ・ラ・レチェ>』か…視界は悪そうだ。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这片区域是热带云雾林，
+常年笼罩着浓雾。真是个神秘的地方。","[""这片区域是热带云雾林，\n常年笼罩着浓雾。真是个神秘的地方。""]","This area is a tropical cloud forest, continually
+covered in a thick mist.
+It is quite a mystical place.
+","[""This area is a tropical cloud forest, continually\ncovered in a thick mist.\nIt is quite a mystical place.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2CFF0; ENG blocks=0xBE2C0,0xBE2C0; ENG source rows=0xBE2C0#0,0xBE2C0#1; block_semantic_score=0.223672."
+BRIEFING_FILES_BLOCK_02CFF0,1,stream=0x2C000;block=0xFF0;text=1,"[""stream=0x2C000;block=0xFF0;text=1""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","このあたりの森は、熱帯雲霧林よ。常に白く霧がかかって
+いて、とても神秘的なの。
+","それで『<R=乳の森,セルバ・デ・ラ・レチェ>』か…視界は悪そうだ。
+","またそれ？　森全体が雲の中にあるようなものだから、確
+かに視界はよくないけど…。
+","[""<R=乳の森,セルバ・デ・ラ・レチェ>""]",,,NOT_CHECKED,93,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Selba de la Leche…「乳汁之森」。
+眼前几乎什么都看不见。","[""Selba de la Leche…「乳汁之森」。\n眼前几乎什么都看不见。""]","Selba de la Leche... ""Forest of Milk."" I can barely
+see in front of me.
+","[""Selba de la Leche... \""Forest of Milk.\"" I can barely\nsee in front of me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2CFF0; ENG blocks=0xBE2C0; ENG source rows=0xBE2C0#2; block_semantic_score=0.223672.
+BRIEFING_FILES_BLOCK_02CFF0,2,stream=0x2C000;block=0xFF0;text=2,"[""stream=0x2C000;block=0xFF0;text=2""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","それで『<R=乳の森,セルバ・デ・ラ・レチェ>』か…視界は悪そうだ。
+","またそれ？　森全体が雲の中にあるようなものだから、確
+かに視界はよくないけど…。
+","でも、雲霧林でしか見られない、珍しい生き物がいっぱい
+いるのよ。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你又来了。这片森林
+本身就坐落在云层里，","[""你又来了。这片森林\n本身就坐落在云层里，""]","There you go again. The forest is basically sitting
+in a cloud,
+","[""There you go again. The forest is basically sitting\nin a cloud,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2CFF0; ENG blocks=0xBE2C0; ENG source rows=0xBE2C0#3; block_semantic_score=0.223672.
+BRIEFING_FILES_BLOCK_02CFF0,3,stream=0x2C000;block=0xFF0;text=3,"[""stream=0x2C000;block=0xFF0;text=3""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","またそれ？　森全体が雲の中にあるようなものだから、確
+かに視界はよくないけど…。
+","でも、雲霧林でしか見られない、珍しい生き物がいっぱい
+いるのよ。
+","まぁ、食えるもの以外は興味がない。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过，云雾林是许多珍奇
+生物唯一能生存的地方。","[""不过，云雾林是许多珍奇\n生物唯一能生存的地方。""]","But you know, the cloud forest is the only place
+many exotic creatures can live.
+","[""But you know, the cloud forest is the only place\nmany exotic creatures can live.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2CFF0; ENG blocks=0xBE2C0; ENG source rows=0xBE2C0#5; block_semantic_score=0.223672.
+BRIEFING_FILES_BLOCK_02CFF0,4,stream=0x2C000;block=0xFF0;text=4,"[""stream=0x2C000;block=0xFF0;text=4""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","でも、雲霧林でしか見られない、珍しい生き物がいっぱい
+いるのよ。
+","まぁ、食えるもの以外は興味がない。
+","もう！　わざわざ外国から、動物観察に来る人もいるって
+言うのに…。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦，不能吃的东西，我没兴趣。,"[""哦，不能吃的东西，我没兴趣。""]","Well, if they're not edible, I'm not interested.
+","[""Well, if they're not edible, I'm not interested.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2CFF0; ENG blocks=0xBE2C0; ENG source rows=0xBE2C0#6; block_semantic_score=0.223672.
+BRIEFING_FILES_BLOCK_02CFF0,5,stream=0x2C000;block=0xFF0;text=5,"[""stream=0x2C000;block=0xFF0;text=5""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","まぁ、食えるもの以外は興味がない。
+","もう！　わざわざ外国から、動物観察に来る人もいるって
+言うのに…。
+",,[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake！告诉你，
+世界各地的人都专程跑来这里来亲眼看看哥斯达黎加独有的动物群！","[""Snake！告诉你，\n世界各地的人都专程跑来这里来亲眼看看哥斯达黎加独有的动物群！""]","Snake! I'll have you know people travel from all
+around the world
+to witness Costa Rica's unique fauna!
+","[""Snake! I'll have you know people travel from all\naround the world\nto witness Costa Rica's unique fauna!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2CFF0; ENG blocks=0xBE2C0,0xBE2C0; ENG source rows=0xBE2C0#7,0xBE2C0#8; block_semantic_score=0.223672."

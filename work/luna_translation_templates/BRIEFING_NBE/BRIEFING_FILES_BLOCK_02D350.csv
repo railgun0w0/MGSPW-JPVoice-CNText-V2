@@ -1,0 +1,56 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02D350,0,stream=0x2D000;block=0x350;text=0,"[""stream=0x2D000;block=0x350;text=0""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]",,"スネーク、そのあたりのカエルには注意してね。
+","凶暴なのか？　心配するな、ヘビがカエルに食われるわけ
+がない。逆ならともかく…。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，小心那些青蛙。,"[""Snake，小心那些青蛙。""]","Snake, watch out for the frogs.
+","[""Snake, watch out for the frogs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2D350; ENG blocks=0xBE640; ENG source rows=0xBE640#0; block_semantic_score=0.132936.
+BRIEFING_FILES_BLOCK_02D350,1,stream=0x2D000;block=0x350;text=1,"[""stream=0x2D000;block=0x350;text=1""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]","スネーク、そのあたりのカエルには注意してね。
+","凶暴なのか？　心配するな、ヘビがカエルに食われるわけ
+がない。逆ならともかく…。
+","だから危ないの！　毒を持っているんだから。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"怎么，它们咬人？放心，
+从来没有青蛙能吃得了蛇。虽然我自己倒是啃过不少青蛙腿…","[""怎么，它们咬人？放心，\n从来没有青蛙能吃得了蛇。虽然我自己倒是啃过不少青蛙腿…""]","Why, they bite? Relax, no frog's ever eaten a snake.
+Although I've feasted on a few frogs' legs myself...
+","[""Why, they bite? Relax, no frog's ever eaten a snake.\nAlthough I've feasted on a few frogs' legs myself...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2D350; ENG blocks=0xBE640,0xBE640; ENG source rows=0xBE640#1,0xBE640#2; block_semantic_score=0.132936."
+BRIEFING_FILES_BLOCK_02D350,2,stream=0x2D000;block=0x350;text=2,"[""stream=0x2D000;block=0x350;text=2""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]","凶暴なのか？　心配するな、ヘビがカエルに食われるわけ
+がない。逆ならともかく…。
+","だから危ないの！　毒を持っているんだから。
+","毒？
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可是，它们很危险！有毒！,"[""可是，它们很危险！有毒！""]","But, they're dangerous! They're poisonous!
+","[""But, they're dangerous! They're poisonous!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2D350; ENG blocks=0xBE640; ENG source rows=0xBE640#3; block_semantic_score=0.132936.
+BRIEFING_FILES_BLOCK_02D350,3,stream=0x2D000;block=0x350;text=3,"[""stream=0x2D000;block=0x350;text=3""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]","だから危ないの！　毒を持っているんだから。
+","毒？
+","ヤドクガエルの仲間は、その名の通り毒を持ってるのよ。
+インディヘナ達が、毒矢に使うくらい強いの。
+",[],,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有毒？,"[""有毒？""]","Poisonous?
+","[""Poisonous?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2D350; ENG blocks=0xBE640; ENG source rows=0xBE640#4; block_semantic_score=0.132936.
+BRIEFING_FILES_BLOCK_02D350,4,stream=0x2D000;block=0x350;text=4,"[""stream=0x2D000;block=0x350;text=4""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]","毒？
+","ヤドクガエルの仲間は、その名の通り毒を持ってるのよ。
+インディヘナ達が、毒矢に使うくらい強いの。
+","中には皮膚からも毒を出していて、触るだけで危険なもの
+もいるみたい。可愛いからって手に乗せちゃだめよ。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"箭毒蛙名副其实，我向你保证。它们的毒素很强，
+当地土著拿它们来制作毒箭。","[""箭毒蛙名副其实，我向你保证。它们的毒素很强，\n当地土著拿它们来制作毒箭。""]","Poison dart frogs live up to their name, I assure
+you.
+Their poison is so strong the indígena use them to
+make poison-tipped arrows.
+","[""Poison dart frogs live up to their name, I assure\nyou.\nTheir poison is so strong the indígena use them to\nmake poison-tipped arrows.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2D350; ENG blocks=0xBE640,0xBE640; ENG source rows=0xBE640#5,0xBE640#6; block_semantic_score=0.132936."
+BRIEFING_FILES_BLOCK_02D350,5,stream=0x2D000;block=0x350;text=5,"[""stream=0x2D000;block=0x350;text=5""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]","ヤドクガエルの仲間は、その名の通り毒を持ってるのよ。
+インディヘナ達が、毒矢に使うくらい強いの。
+","中には皮膚からも毒を出していて、触るだけで危険なもの
+もいるみたい。可愛いからって手に乗せちゃだめよ。
+","食えないのか…。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有些会通过皮肤分泌毒液——
+光碰一下都可能出事。","[""有些会通过皮肤分泌毒液——\n光碰一下都可能出事。""]","Some secrete poison through their skin - even
+touching them can be dangerous.
+","[""Some secrete poison through their skin - even\ntouching them can be dangerous.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2D350; ENG blocks=0xBE640; ENG source rows=0xBE640#7; block_semantic_score=0.132936.
+BRIEFING_FILES_BLOCK_02D350,6,stream=0x2D000;block=0x350;text=6,"[""stream=0x2D000;block=0x350;text=6""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]","中には皮膚からも毒を出していて、触るだけで危険なもの
+もいるみたい。可愛いからって手に乗せちゃだめよ。
+","食えないのか…。
+","残念がらない！
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那…就不能吃了吗？,"[""那…就不能吃了吗？""]","So... I can't eat one?
+","[""So... I can't eat one?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2D350; ENG blocks=0xBE640; ENG source rows=0xBE640#9; block_semantic_score=0.132936.
+BRIEFING_FILES_BLOCK_02D350,7,stream=0x2D000;block=0x350;text=7,"[""stream=0x2D000;block=0x350;text=7""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x350;block_file=0x2D350;text_base=0x2D390;capacity=608""]","食えないのか…。
+","残念がらない！
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我警告你！,"[""我警告你！""]","I'm warning you!
+","[""I'm warning you!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2D350; ENG blocks=0xBE640; ENG source rows=0xBE640#10; block_semantic_score=0.132936.

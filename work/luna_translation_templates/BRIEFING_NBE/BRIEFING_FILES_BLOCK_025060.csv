@@ -1,0 +1,50 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_025060,0,stream=0x25000;block=0x60;text=0,"[""stream=0x25000;block=0x60;text=0""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x60;block_file=0x25060;text_base=0x2509C;capacity=548""]",,"日本にも平和憲法があると、カズは言っていたが。
+","うん。コスタリカが今の憲法を決める時も、日本憲法を参
+考にしたそうよ。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Kaz跟我说日本也有和平宪法。,"[""Kaz跟我说日本也有和平宪法。""]","Kaz was telling me Japan has a peace constitution,
+too.
+","[""Kaz was telling me Japan has a peace constitution,\ntoo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25060; ENG blocks=0xB66E0; ENG source rows=0xB66E0#0; block_semantic_score=0.246969.
+BRIEFING_FILES_BLOCK_025060,1,stream=0x25000;block=0x60;text=1,"[""stream=0x25000;block=0x60;text=1""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x60;block_file=0x25060;text_base=0x2509C;capacity=548""]","日本にも平和憲法があると、カズは言っていたが。
+","うん。コスタリカが今の憲法を決める時も、日本憲法を参
+考にしたそうよ。
+","ただ、日本の平和憲法は、戦争そのものを放棄しているの。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。好像哥斯达黎加
+在起草宪法的时候，是参照日本这个范本的。","[""没错。好像哥斯达黎加\n在起草宪法的时候，是参照日本这个范本的。""]","That is right. Apparently when Costa Rica was
+drafting its constitution,
+they looked to the Japanese as a model.
+","[""That is right. Apparently when Costa Rica was\ndrafting its constitution,\nthey looked to the Japanese as a model.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x25060; ENG blocks=0xB66E0,0xB66E0; ENG source rows=0xB66E0#1,0xB66E0#2; block_semantic_score=0.246969."
+BRIEFING_FILES_BLOCK_025060,2,stream=0x25000;block=0x60;text=2,"[""stream=0x25000;block=0x60;text=2""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x60;block_file=0x25060;text_base=0x2509C;capacity=548""]","うん。コスタリカが今の憲法を決める時も、日本憲法を参
+考にしたそうよ。
+","ただ、日本の平和憲法は、戦争そのものを放棄しているの。
+","そこはコスタリカと違うな。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只不过日本的宪法是
+明确宣布放弃战争。","[""只不过日本的宪法是\n明确宣布放弃战争。""]","Only Japan's constitution renounces war itself.
+","[""Only Japan's constitution renounces war itself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25060; ENG blocks=0xB66E0; ENG source rows=0xB66E0#3; block_semantic_score=0.246969.
+BRIEFING_FILES_BLOCK_025060,3,stream=0x25000;block=0x60;text=3,"[""stream=0x25000;block=0x60;text=3""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x60;block_file=0x25060;text_base=0x2509C;capacity=548""]","ただ、日本の平和憲法は、戦争そのものを放棄しているの。
+","そこはコスタリカと違うな。
+","でも…日本は自衛隊を持ってるでしょ。そこがわからない。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不像哥斯达黎加。,"[""不像哥斯达黎加。""]","Unlike Costa Rica.
+","[""Unlike Costa Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25060; ENG blocks=0xB66E0; ENG source rows=0xB66E0#4; block_semantic_score=0.246969.
+BRIEFING_FILES_BLOCK_025060,4,stream=0x25000;block=0x60;text=4,"[""stream=0x25000;block=0x60;text=4""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x60;block_file=0x25060;text_base=0x2509C;capacity=548""]","そこはコスタリカと違うな。
+","でも…日本は自衛隊を持ってるでしょ。そこがわからない。
+","今度ミラーさんに聞いてみようかな。昔自衛隊にいたって
+言うし。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可是…日本有自卫队对吧？
+这我就不明白了。","[""可是…日本有自卫队对吧？\n这我就不明白了。""]","But... Japan has a Self-Defense Force, right? That I
+do not get.
+","[""But... Japan has a Self-Defense Force, right? That I\ndo not get.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25060; ENG blocks=0xB66E0; ENG source rows=0xB66E0#5; block_semantic_score=0.246969.
+BRIEFING_FILES_BLOCK_025060,5,stream=0x25000;block=0x60;text=5,"[""stream=0x25000;block=0x60;text=5""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x60;block_file=0x25060;text_base=0x2509C;capacity=548""]","でも…日本は自衛隊を持ってるでしょ。そこがわからない。
+","今度ミラーさんに聞いてみようかな。昔自衛隊にいたって
+言うし。
+","勉強熱心だな。まあ、ほどほどにしてやってくれ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我想下次见到Miller先生的时候问问
+他。他说他以前在自卫队待过。","[""我想下次见到Miller先生的时候问问\n他。他说他以前在自卫队待过。""]","I think I will ask Mr. Miller about it next time I see
+him. He said he used to be in the JSDF.
+","[""I think I will ask Mr. Miller about it next time I see\nhim. He said he used to be in the JSDF.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25060; ENG blocks=0xB66E0; ENG source rows=0xB66E0#6; block_semantic_score=0.246969.
+BRIEFING_FILES_BLOCK_025060,6,stream=0x25000;block=0x60;text=6,"[""stream=0x25000;block=0x60;text=6""]",1,BRIEFING FILES,"[""stream=0x25000;block=0x60;block_file=0x25060;text_base=0x2509C;capacity=548""]","今度ミラーさんに聞いてみようかな。昔自衛隊にいたって
+言うし。
+","勉強熱心だな。まあ、ほどほどにしてやってくれ。
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你可真是好奇啊。别太用功了哦。,"[""你可真是好奇啊。别太用功了哦。""]","You're a curious one, aren't you? Don't study too
+hard.
+","[""You're a curious one, aren't you? Don't study too\nhard.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25060; ENG blocks=0xB66E0; ENG source rows=0xB66E0#7; block_semantic_score=0.246969.

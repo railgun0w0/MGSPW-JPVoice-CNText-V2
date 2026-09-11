@@ -1,0 +1,50 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02D700,0,stream=0x2D000;block=0x700;text=0,"[""stream=0x2D000;block=0x700;text=0""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]",,"カタラタ・デ・ラ・ムエルテは「死の滝」という意味よ。
+","縁起でもない。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Catarata de la Muerte
+的意思是「死亡瀑布」。","[""Catarata de la Muerte\n的意思是「死亡瀑布」。""]","Catarata de la Muerte means ""Waterfall of Death.""
+","[""Catarata de la Muerte means \""Waterfall of Death.\""\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2D700; ENG blocks=0xBE9E0; ENG source rows=0xBE9E0#0; block_semantic_score=0.053078.
+BRIEFING_FILES_BLOCK_02D700,1,stream=0x2D000;block=0x700;text=1,"[""stream=0x2D000;block=0x700;text=1""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","カタラタ・デ・ラ・ムエルテは「死の滝」という意味よ。
+","縁起でもない。
+","スネークなら大丈夫。今までだって、絶望的な状況を潜り
+抜けてきたんだもの。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真是吉利。,"[""真是吉利。""]","How cheerful.
+","[""How cheerful.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2D700; ENG blocks=0xBE9E0; ENG source rows=0xBE9E0#1; block_semantic_score=0.053078.
+BRIEFING_FILES_BLOCK_02D700,2,stream=0x2D000;block=0x700;text=2,"[""stream=0x2D000;block=0x700;text=2""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","縁起でもない。
+","スネークなら大丈夫。今までだって、絶望的な状況を潜り
+抜けてきたんだもの。
+","気軽に言ってくれるな。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我相信对你来说不成问题，Snake，尤其是跟你过去面对的那些险境比。,"[""我相信对你来说不成问题，Snake，尤其是跟你过去面对的那些险境比。""]","I am sure it will be no problem for you, Snake,
+especially compared to all the dire situations
+you've faced in the past.
+","[""I am sure it will be no problem for you, Snake,\nespecially compared to all the dire situations\nyou've faced in the past.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x2D700; ENG blocks=0xBE9E0,0xBE9E0; ENG source rows=0xBE9E0#2,0xBE9E0#3; block_semantic_score=0.053078."
+BRIEFING_FILES_BLOCK_02D700,3,stream=0x2D000;block=0x700;text=3,"[""stream=0x2D000;block=0x700;text=3""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","スネークなら大丈夫。今までだって、絶望的な状況を潜り
+抜けてきたんだもの。
+","気軽に言ってくれるな。
+","ごめんなさい。でも、本当にびっくりしてるの。「伝説の
+兵士」の話は本当だったって…。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在说起来容易。到时候看吧。,"[""现在说起来容易。到时候看吧。""]","Easy to say now. We'll see what really happens.
+","[""Easy to say now. We'll see what really happens.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2D700; ENG blocks=0xBE9E0; ENG source rows=0xBE9E0#4; block_semantic_score=0.053078.
+BRIEFING_FILES_BLOCK_02D700,4,stream=0x2D000;block=0x700;text=4,"[""stream=0x2D000;block=0x700;text=4""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","気軽に言ってくれるな。
+","ごめんなさい。でも、本当にびっくりしてるの。「伝説の
+兵士」の話は本当だったって…。
+","俺は英雄でも伝説でもない。だが、君に言われると不思議
+と腹が立たん。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"抱歉。不过，你确实让我吃惊。
+关于那个传说的一切都是真的。","[""抱歉。不过，你确实让我吃惊。\n关于那个传说的一切都是真的。""]","Sorry. Still, you have surprised me. Everything they
+say about the legend is true.
+","[""Sorry. Still, you have surprised me. Everything they\nsay about the legend is true.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2D700; ENG blocks=0xBE9E0; ENG source rows=0xBE9E0#5; block_semantic_score=0.053078.
+BRIEFING_FILES_BLOCK_02D700,5,stream=0x2D000;block=0x700;text=5,"[""stream=0x2D000;block=0x700;text=5""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","ごめんなさい。でも、本当にびっくりしてるの。「伝説の
+兵士」の話は本当だったって…。
+","俺は英雄でも伝説でもない。だが、君に言われると不思議
+と腹が立たん。
+","ありがと。気をつけてね、スネーク。ピース。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不是英雄，也不是传说。但不知道
+为什么，我不介意你那么叫我。","[""我不是英雄，也不是传说。但不知道\n为什么，我不介意你那么叫我。""]","I'm neither hero nor legend. But for some reason, I
+don't mind you calling me that.
+","[""I'm neither hero nor legend. But for some reason, I\ndon't mind you calling me that.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2D700; ENG blocks=0xBE9E0; ENG source rows=0xBE9E0#6; block_semantic_score=0.053078.
+BRIEFING_FILES_BLOCK_02D700,6,stream=0x2D000;block=0x700;text=6,"[""stream=0x2D000;block=0x700;text=6""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","俺は英雄でも伝説でもない。だが、君に言われると不思議
+と腹が立たん。
+","ありがと。気をつけてね、スネーク。ピース。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谢谢。小心点，Snake。Peace！,"[""谢谢。小心点，Snake。Peace！""]","Thanks. Be careful, Snake. Peace!
+","[""Thanks. Be careful, Snake. Peace!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x2D700; ENG blocks=0xBE9E0; ENG source rows=0xBE9E0#7; block_semantic_score=0.053078.

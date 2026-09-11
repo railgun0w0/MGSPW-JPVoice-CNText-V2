@@ -1,0 +1,25 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_379760,0,stream=0x379000;block=0x760;text=0,"[""stream=0x379000;block=0x760;text=0""]",1,d5010_m0350_mrd_a,"[""stream=0x379000;block=0x760;block_file=0x379760;text_base=0x37978C;capacity=344""]",,"スネーク、国境を越えたピースウォーカーは
+<R=ニカラグア湖,ラゴ・コシボルカ>南東の米軍補給基地に入った。
+","コールドマンの<R=目標,ターゲット>は、
+俺達のいる<R=マザーベース,MSFのプラント>だ。
+","[""<R=ニカラグア湖,ラゴ・コシボルカ>""]",,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"并进入了科西沃尔卡湖东南岸的
+一个美国军事补给基地。","[""并进入了科西沃尔卡湖东南岸的\n一个美国军事补给基地。""]","and entered a U.S. military supply base
+on the southeastern shore of Lago
+Cocibolca.
+","[""and entered a U.S. military supply base\non the southeastern shore of Lago\nCocibolca.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379760; ENG blocks=0x390090; ENG source rows=0x390090#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_379760,1,stream=0x379000;block=0x760;text=1,"[""stream=0x379000;block=0x760;text=1""]",1,d5010_m0350_mrd_a,"[""stream=0x379000;block=0x760;block_file=0x379760;text_base=0x37978C;capacity=344""]","スネーク、国境を越えたピースウォーカーは
+<R=ニカラグア湖,ラゴ・コシボルカ>南東の米軍補給基地に入った。
+","コールドマンの<R=目標,ターゲット>は、
+俺達のいる<R=マザーベース,MSFのプラント>だ。
+","ピースウォーカーを破壊し、核発射を阻止するんだ！
+","[""<R=目標,ターゲット>"", ""<R=マザーベース,MSFのプラント>""]",,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Coldman的目标是无国界之师
+（MSF）的平台——也就是我们。","[""Coldman的目标是无国界之师\n（MSF）的平台——也就是我们。""]","Coldman's targeting the MSF plant -
+that's us.
+","[""Coldman's targeting the MSF plant -\nthat's us.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379760; ENG blocks=0x390090; ENG source rows=0x390090#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_379760,2,stream=0x379000;block=0x760;text=2,"[""stream=0x379000;block=0x760;text=2""]",1,d5010_m0350_mrd_a,"[""stream=0x379000;block=0x760;block_file=0x379760;text_base=0x37978C;capacity=344""]","コールドマンの<R=目標,ターゲット>は、
+俺達のいる<R=マザーベース,MSFのプラント>だ。
+","ピースウォーカーを破壊し、核発射を阻止するんだ！
+",,[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别让它发射核弹！摧毁和平行者！,"[""别让它发射核弹！摧毁和平行者！""]","Don't let it launch that nuke! Destroy
+Peace Walker!
+","[""Don't let it launch that nuke! Destroy\nPeace Walker!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379760; ENG blocks=0x390090; ENG source rows=0x390090#3; block_semantic_score=1.000000.

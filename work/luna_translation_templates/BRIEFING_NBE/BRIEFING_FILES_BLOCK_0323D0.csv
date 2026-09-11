@@ -1,0 +1,136 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0323D0,0,stream=0x32000;block=0x3D0;text=0,"[""stream=0x32000;block=0x3D0;text=0""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]",,"アウグスト・セサル・サンディーノ…サンディーノ将軍は、
+ニカラグアの英雄よ。
+","50年前のニカラグアで、政党同士の内紛が起きた。それを
+収めるって名目で介入してきたのが、アメリカ海兵隊。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Augusto César Sandino…
+尼加拉瓜的将军和英雄。","[""Augusto César Sandino…\n尼加拉瓜的将军和英雄。""]","Augusto César Sandino... general and hero of
+Nicaragua.
+","[""Augusto César Sandino... general and hero of\nNicaragua.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#0; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,1,stream=0x32000;block=0x3D0;text=1,"[""stream=0x32000;block=0x3D0;text=1""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","アウグスト・セサル・サンディーノ…サンディーノ将軍は、
+ニカラグアの英雄よ。
+","50年前のニカラグアで、政党同士の内紛が起きた。それを
+収めるって名目で介入してきたのが、アメリカ海兵隊。
+","講和を迫る海兵隊に、唯一応じなかったのがサンディーノ
+将軍だったの。
+",[],,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"五十年前，尼加拉瓜
+政党之间爆发了冲突。美国海军陆战队以恢复
+秩序为名进行了干预。","[""五十年前，尼加拉瓜\n政党之间爆发了冲突。美国海军陆战队以恢复\n秩序为名进行了干预。""]","Fifty years ago, conflict broke out between the
+political parties of Nicaragua.
+The U.S. Marines intervened in the name of
+restoring order.
+","[""Fifty years ago, conflict broke out between the\npolitical parties of Nicaragua.\nThe U.S. Marines intervened in the name of\nrestoring order.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x323D0; ENG blocks=0xC3080,0xC3080; ENG source rows=0xC3080#1,0xC3080#2; block_semantic_score=0.161800."
+BRIEFING_FILES_BLOCK_0323D0,2,stream=0x32000;block=0x3D0;text=2,"[""stream=0x32000;block=0x3D0;text=2""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","50年前のニカラグアで、政党同士の内紛が起きた。それを
+収めるって名目で介入してきたのが、アメリカ海兵隊。
+","講和を迫る海兵隊に、唯一応じなかったのがサンディーノ
+将軍だったの。
+","アメリカ海兵隊相手に、大した度胸だ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"唯一拒绝听从他们和解呼吁的人，
+就是Sandino将军。","[""唯一拒绝听从他们和解呼吁的人，\n就是Sandino将军。""]","The only one who refused to listen to their call for
+reconciliation was General Sandino.
+","[""The only one who refused to listen to their call for\nreconciliation was General Sandino.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#3; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,3,stream=0x32000;block=0x3D0;text=3,"[""stream=0x32000;block=0x3D0;text=3""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","講和を迫る海兵隊に、唯一応じなかったのがサンディーノ
+将軍だったの。
+","アメリカ海兵隊相手に、大した度胸だ。
+","将軍はもともと軍人じゃなかった。彼の仲間もそう。もち
+ろん装備は、海兵隊に及ばない。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一个人对抗海军陆战队…这需要胆量。,"[""一个人对抗海军陆战队…这需要胆量。""]","One man against the Marines... That takes guts.
+","[""One man against the Marines... That takes guts.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#4; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,4,stream=0x32000;block=0x3D0;text=4,"[""stream=0x32000;block=0x3D0;text=4""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","アメリカ海兵隊相手に、大した度胸だ。
+","将軍はもともと軍人じゃなかった。彼の仲間もそう。もち
+ろん装備は、海兵隊に及ばない。
+","だから彼は、地の利を駆使した。<R=祖国,ニカラグア>の野山を駆け巡り、
+神出鬼没の戦法で海兵隊を翻弄した。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"将军不是职业军人，
+他的同伴们也不是。而且他们的装备完全无法
+与海军陆战队相比。","[""将军不是职业军人，\n他的同伴们也不是。而且他们的装备完全无法\n与海军陆战队相比。""]","The General wasn't a professional soldier. Neither
+were his compadres.
+And they certainly could not match the Marines'
+equipment.
+","[""The General wasn't a professional soldier. Neither\nwere his compadres.\nAnd they certainly could not match the Marines'\nequipment.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x323D0; ENG blocks=0xC3080,0xC3080; ENG source rows=0xC3080#5,0xC3080#6; block_semantic_score=0.161800."
+BRIEFING_FILES_BLOCK_0323D0,5,stream=0x32000;block=0x3D0;text=5,"[""stream=0x32000;block=0x3D0;text=5""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","将軍はもともと軍人じゃなかった。彼の仲間もそう。もち
+ろん装備は、海兵隊に及ばない。
+","だから彼は、地の利を駆使した。<R=祖国,ニカラグア>の野山を駆け巡り、
+神出鬼没の戦法で海兵隊を翻弄した。
+","知っている。ゲリラ戦の教本にも出てきた。
+","[""<R=祖国,ニカラグア>""]",,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但他利用地形优势，
+潜伏在尼加拉瓜的田野和山丘中，","[""但他利用地形优势，\n潜伏在尼加拉瓜的田野和山丘中，""]","But he used the land to his advantage, lurking in
+the fields and hills of Nicaragua,
+","[""But he used the land to his advantage, lurking in\nthe fields and hills of Nicaragua,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#7; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,6,stream=0x32000;block=0x3D0;text=6,"[""stream=0x32000;block=0x3D0;text=6""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","だから彼は、地の利を駆使した。<R=祖国,ニカラグア>の野山を駆け巡り、
+神出鬼没の戦法で海兵隊を翻弄した。
+","知っている。ゲリラ戦の教本にも出てきた。
+","その結果、海兵隊は撤退した。まさにあたし達の模範よ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我知道。我读过很多游击战教材。,"[""我知道。我读过很多游击战教材。""]","I know. I've read plenty of textbooks on guerrilla
+warfare.
+","[""I know. I've read plenty of textbooks on guerrilla\nwarfare.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#9; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,7,stream=0x32000;block=0x3D0;text=7,"[""stream=0x32000;block=0x3D0;text=7""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","知っている。ゲリラ戦の教本にも出てきた。
+","その結果、海兵隊は撤退した。まさにあたし達の模範よ。
+","50年前と言えば、世界恐慌の影響もあったんじゃないか？　
+軍隊の駐留には金がかかる。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最终，他赶走了他们。
+他真是我们的榜样。","[""最终，他赶走了他们。\n他真是我们的榜样。""]","In the end, he drove them out. He was truly a role
+model for us.
+","[""In the end, he drove them out. He was truly a role\nmodel for us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#10; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,8,stream=0x32000;block=0x3D0;text=8,"[""stream=0x32000;block=0x3D0;text=8""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","その結果、海兵隊は撤退した。まさにあたし達の模範よ。
+","50年前と言えば、世界恐慌の影響もあったんじゃないか？　
+軍隊の駐留には金がかかる。
+","そうかもね。でも、将軍の功績は確かよ。
+",[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，但那是在三十年代——
+大萧条难道没有影响吗？","[""是啊，但那是在三十年代——\n大萧条难道没有影响吗？""]","Yeah, but that was the '30s - didn't the Depression
+have something to do with it?
+","[""Yeah, but that was the '30s - didn't the Depression\nhave something to do with it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#11; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,9,stream=0x32000;block=0x3D0;text=9,"[""stream=0x32000;block=0x3D0;text=9""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","50年前と言えば、世界恐慌の影響もあったんじゃないか？　
+軍隊の駐留には金がかかる。
+","そうかもね。でも、将軍の功績は確かよ。
+","人々は歓喜した。彼は『<R=自由な人々の将軍,ヘネラル デ オンブレス リブレス>』と呼ばれ、愛
+された。けど…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,或许吧。但将军的成就无可否认。,"[""或许吧。但将军的成就无可否认。""]","Perhaps. But there is no denying what the General
+accomplished.
+","[""Perhaps. But there is no denying what the General\naccomplished.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#13; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,10,stream=0x32000;block=0x3D0;text=10,"[""stream=0x32000;block=0x3D0;text=10""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","そうかもね。でも、将軍の功績は確かよ。
+","人々は歓喜した。彼は『<R=自由な人々の将軍,ヘネラル デ オンブレス リブレス>』と呼ばれ、愛
+された。けど…。
+","彼は暗殺された。国家警備隊長、アナスタシア・ソモサ・
+ガルシアにね。
+","[""<R=自由な人々の将軍,ヘネラル デ オンブレス リブレス>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"人民称他为
+“General de Hombres Libres”——
+自由人的将军。","[""人民称他为\n“General de Hombres Libres”——\n自由人的将军。""]","The people hailed him as the ""General de Hombres
+Libres"" - the general of free men.
+","[""The people hailed him as the \""General de Hombres\nLibres\"" - the general of free men.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#14; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,11,stream=0x32000;block=0x3D0;text=11,"[""stream=0x32000;block=0x3D0;text=11""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","人々は歓喜した。彼は『<R=自由な人々の将軍,ヘネラル デ オンブレス リブレス>』と呼ばれ、愛
+された。けど…。
+","彼は暗殺された。国家警備隊長、アナスタシア・ソモサ・
+ガルシアにね。
+","今のソモサの親父だな。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他被暗杀了——被Anastasio 索摩查
+García暗杀，他是国民警卫队司令。","[""他被暗杀了——被Anastasio 索摩查\nGarcía暗杀，他是国民警卫队司令。""]","He was assassinated - by Anastasio Somoza
+Garcia, commander of la Guardia.
+","[""He was assassinated - by Anastasio Somoza\nGarcia, commander of la Guardia.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#16; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,12,stream=0x32000;block=0x3D0;text=12,"[""stream=0x32000;block=0x3D0;text=12""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","彼は暗殺された。国家警備隊長、アナスタシア・ソモサ・
+ガルシアにね。
+","今のソモサの親父だな。
+","ソモサの背後にも、アメリカがいた。そういうことよ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现任索摩查的父亲。,"[""现任索摩查的父亲。""]","The father of the current Somoza.
+","[""The father of the current Somoza.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#17; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,13,stream=0x32000;block=0x3D0;text=13,"[""stream=0x32000;block=0x3D0;text=13""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","今のソモサの親父だな。
+","ソモサの背後にも、アメリカがいた。そういうことよ。
+","将軍が殺されても、その意志はあたし達が受け継いでいる。
+時代が違ってもね。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"索摩查有美国人的支持。
+那时候就是那样。","[""索摩查有美国人的支持。\n那时候就是那样。""]","Somoza had the Americans' backing. That is the
+way things were.
+","[""Somoza had the Americans' backing. That is the\nway things were.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#18; block_semantic_score=0.161800.
+BRIEFING_FILES_BLOCK_0323D0,14,stream=0x32000;block=0x3D0;text=14,"[""stream=0x32000;block=0x3D0;text=14""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","ソモサの背後にも、アメリカがいた。そういうことよ。
+","将軍が殺されても、その意志はあたし達が受け継いでいる。
+時代が違ってもね。
+","あたし達は将軍の娘であり、息子なの。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,将军可能已经死了，时代也可能变了，但他的意志活在我们每个人心中。,"[""将军可能已经死了，时代也可能变了，但他的意志活在我们每个人心中。""]","The General may be dead, and the times may have
+changed,
+but his will lives on inside each of us.
+","[""The General may be dead, and the times may have\nchanged,\nbut his will lives on inside each of us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x323D0; ENG blocks=0xC3080,0xC3080; ENG source rows=0xC3080#19,0xC3080#20; block_semantic_score=0.161800."
+BRIEFING_FILES_BLOCK_0323D0,15,stream=0x32000;block=0x3D0;text=15,"[""stream=0x32000;block=0x3D0;text=15""]",1,BRIEFING FILES,"[""stream=0x32000;block=0x3D0;block_file=0x323D0;text_base=0x32430;capacity=1564""]","将軍が殺されても、その意志はあたし達が受け継いでいる。
+時代が違ってもね。
+","あたし達は将軍の娘であり、息子なの。
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们是Sandino将军的儿女。,"[""我们是Sandino将军的儿女。""]","We are the sons and daughters of General Sandino.
+","[""We are the sons and daughters of General Sandino.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x323D0; ENG blocks=0xC3080; ENG source rows=0xC3080#21; block_semantic_score=0.161800.

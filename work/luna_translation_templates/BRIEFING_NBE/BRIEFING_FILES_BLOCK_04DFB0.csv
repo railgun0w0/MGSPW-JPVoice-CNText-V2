@@ -1,0 +1,126 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04DFB0,0,stream=0x4D000;block=0xFB0;text=0,"[""stream=0x4D000;block=0xFB0;text=0""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]",,"もし仮に、機械が本当に知性を持ったとして、それを証明
+する方法なんてあるのか？ それが、ただの高性能なコンピ
+ュータではなく、人工知能だと。
+","その違いは何だ？
+",[],,,NOT_CHECKED,205,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,打个比方，假设真的有一台智能机器。,"[""打个比方，假设真的有一台智能机器。""]","Let's say, hypothetically, there really was an
+intelligent machine.
+","[""Let's say, hypothetically, there really was an\nintelligent machine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#0; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,1,stream=0x4D000;block=0xFB0;text=1,"[""stream=0x4D000;block=0xFB0;text=1""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","もし仮に、機械が本当に知性を持ったとして、それを証明
+する方法なんてあるのか？ それが、ただの高性能なコンピ
+ュータではなく、人工知能だと。
+","その違いは何だ？
+","何をもって知能と呼ぶか、定義の問題だな。…スネーク。
+例えばだ、今話している、この声を発している私が、AIだ
+としたら？
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你会如何证明这一点？,"[""你会如何证明这一点？""]","How would you prove it?
+","[""How would you prove it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#1; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,2,stream=0x4D000;block=0xFB0;text=2,"[""stream=0x4D000;block=0xFB0;text=2""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","その違いは何だ？
+","何をもって知能と呼ぶか、定義の問題だな。…スネーク。
+例えばだ、今話している、この声を発している私が、AIだ
+としたら？
+","何だって？
+",[],,,NOT_CHECKED,173,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,高级计算机和AI有什么不同？这取决于你如何定义智能…,"[""高级计算机和AI有什么不同？这取决于你如何定义智能…""]","What's the difference between a high-level
+computer and an AI?
+It depends on what you choose to define as
+intelligence...
+","[""What's the difference between a high-level\ncomputer and an AI?\nIt depends on what you choose to define as\nintelligence...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4DFB0; ENG blocks=0xDBB50,0xDBB50; ENG source rows=0xDBB50#2,0xDBB50#3; block_semantic_score=0.164451."
+BRIEFING_FILES_BLOCK_04DFB0,3,stream=0x4D000;block=0xFB0;text=3,"[""stream=0x4D000;block=0xFB0;text=3""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","何をもって知能と呼ぶか、定義の問題だな。…スネーク。
+例えばだ、今話している、この声を発している私が、AIだ
+としたら？
+","何だって？
+","生身の私はリビングで紅茶を啜っていて、おまえの相手を
+しているのは、私の思考を真似たAIの合成音声だとしたら？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你说什么？,"[""你说什么？""]","Say what?
+","[""Say what?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#5; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,4,stream=0x4D000;block=0xFB0;text=4,"[""stream=0x4D000;block=0xFB0;text=4""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","何だって？
+","生身の私はリビングで紅茶を啜っていて、おまえの相手を
+しているのは、私の思考を真似たAIの合成音声だとしたら？
+","からかうのはよしてくれ。
+",[],,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果活生生的、正在呼吸的我，
+坐在这里喝着茶和你说话，其实是个AI，被编程用来
+模拟我的思想和声音呢？","[""如果活生生的、正在呼吸的我，\n坐在这里喝着茶和你说话，其实是个AI，被编程用来\n模拟我的思想和声音呢？""]","What if the living, breathing me, sitting here
+drinking tea and talking to you,
+were actually an AI, programmed to simulate my
+thoughts and my voice?
+","[""What if the living, breathing me, sitting here\ndrinking tea and talking to you,\nwere actually an AI, programmed to simulate my\nthoughts and my voice?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4DFB0; ENG blocks=0xDBB50,0xDBB50; ENG source rows=0xDBB50#6,0xDBB50#7; block_semantic_score=0.164451."
+BRIEFING_FILES_BLOCK_04DFB0,5,stream=0x4D000;block=0xFB0;text=5,"[""stream=0x4D000;block=0xFB0;text=5""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","生身の私はリビングで紅茶を啜っていて、おまえの相手を
+しているのは、私の思考を真似たAIの合成音声だとしたら？
+","からかうのはよしてくれ。
+","いや、お前には、私が生身の人間であることは証明出来な
+いはずだ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你疯了。,"[""你疯了。""]","You're nuts.
+","[""You're nuts.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#8; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,6,stream=0x4D000;block=0xFB0;text=6,"[""stream=0x4D000;block=0xFB0;text=6""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","からかうのはよしてくれ。
+","いや、お前には、私が生身の人間であることは証明出来な
+いはずだ。
+","それは無理だろう。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，我没疯。你根本没法
+证明我是真人，对吧？","[""不，我没疯。你根本没法\n证明我是真人，对吧？""]","No, I'm not. You couldn't prove I was a real human
+being, could you?
+","[""No, I'm not. You couldn't prove I was a real human\nbeing, could you?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#9; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,7,stream=0x4D000;block=0xFB0;text=7,"[""stream=0x4D000;block=0xFB0;text=7""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","いや、お前には、私が生身の人間であることは証明出来な
+いはずだ。
+","それは無理だろう。
+","ふっ。入れ替わっても区別がつかないほどのAIなら、それ
+は知性を持っていると言えない？
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真要证明的话…不。,"[""真要证明的话…不。""]","It'd be... No.
+","[""It'd be... No.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#10; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,8,stream=0x4D000;block=0xFB0;text=8,"[""stream=0x4D000;block=0xFB0;text=8""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","それは無理だろう。
+","ふっ。入れ替わっても区別がつかないほどのAIなら、それ
+は知性を持っていると言えない？
+","釈然としないな。
+",[],,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯。所以，如果一个AI先进到
+你无法把它和真人区分开来，","[""嗯。所以，如果一个AI先进到\n你无法把它和真人区分开来，""]","Hm. So if an AI is so advanced you can't tell it
+from the real thing,
+","[""Hm. So if an AI is so advanced you can't tell it\nfrom the real thing,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#11; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,9,stream=0x4D000;block=0xFB0;text=9,"[""stream=0x4D000;block=0xFB0;text=9""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","ふっ。入れ替わっても区別がつかないほどのAIなら、それ
+は知性を持っていると言えない？
+","釈然としないな。
+","だけど、一つの考え方だ。チューリング博士はAIの知性に
+ついておおむねこのように説明していた。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那不就是智能吗？,"[""那不就是智能吗？""]","wouldn't you call that intelligence?
+","[""wouldn't you call that intelligence?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#12; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,10,stream=0x4D000;block=0xFB0;text=10,"[""stream=0x4D000;block=0xFB0;text=10""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","釈然としないな。
+","だけど、一つの考え方だ。チューリング博士はAIの知性に
+ついておおむねこのように説明していた。
+","その検証方法はその名を取って、チューリング・テストと
+呼ばれている。
+",[],,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"图灵博士大致就是这么
+解释人工智能的。","[""图灵博士大致就是这么\n解释人工智能的。""]","It's roughly how Dr. Turing explained artificial
+intelligence.
+","[""It's roughly how Dr. Turing explained artificial\nintelligence.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#15; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,11,stream=0x4D000;block=0xFB0;text=11,"[""stream=0x4D000;block=0xFB0;text=11""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","だけど、一つの考え方だ。チューリング博士はAIの知性に
+ついておおむねこのように説明していた。
+","その検証方法はその名を取って、チューリング・テストと
+呼ばれている。
+","それにしても、悪い冗談だ。あんたの声で歌うAI兵器には、
+さんざん苦労させられた。もうごめんだ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我刚才描述的那个测试，
+为了纪念他，被称为图灵测试。","[""我刚才描述的那个测试，\n为了纪念他，被称为图灵测试。""]","The test I described is called the Turing Test in his
+honor.
+","[""The test I described is called the Turing Test in his\nhonor.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#16; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,12,stream=0x4D000;block=0xFB0;text=12,"[""stream=0x4D000;block=0xFB0;text=12""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","その検証方法はその名を取って、チューリング・テストと
+呼ばれている。
+","それにしても、悪い冗談だ。あんたの声で歌うAI兵器には、
+さんざん苦労させられた。もうごめんだ。
+","残念だな。そろそろお前の話し相手もAIに代わってもらお
+うと思っていたんだが。
+",[],,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，好吧，我听着像个冷笑话。你那只会唱歌的怪物可把我折磨惨了。我这辈子都不想再遇到一只了。,"[""是啊，好吧，我听着像个冷笑话。你那只会唱歌的怪物可把我折磨惨了。我这辈子都不想再遇到一只了。""]","Yeah, well, it sounds like a bad joke to me.
+That singing monster of yours put me through hell.
+If I never meet one again, it'll be too soon.
+","[""Yeah, well, it sounds like a bad joke to me.\nThat singing monster of yours put me through hell.\nIf I never meet one again, it'll be too soon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x4DFB0; ENG blocks=0xDBB50,0xDBB50,0xDBB50; ENG source rows=0xDBB50#17,0xDBB50#18,0xDBB50#19; block_semantic_score=0.164451."
+BRIEFING_FILES_BLOCK_04DFB0,13,stream=0x4D000;block=0xFB0;text=13,"[""stream=0x4D000;block=0xFB0;text=13""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","それにしても、悪い冗談だ。あんたの声で歌うAI兵器には、
+さんざん苦労させられた。もうごめんだ。
+","残念だな。そろそろお前の話し相手もAIに代わってもらお
+うと思っていたんだが。
+","勘弁してくれ。
+",[],,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"真可惜。我正要让一个
+AI代替我来和你对话。","[""真可惜。我正要让一个\nAI代替我来和你对话。""]","Shame. And I was about to let an AI take my place
+in our conversation.
+","[""Shame. And I was about to let an AI take my place\nin our conversation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#20; block_semantic_score=0.164451.
+BRIEFING_FILES_BLOCK_04DFB0,14,stream=0x4D000;block=0xFB0;text=14,"[""stream=0x4D000;block=0xFB0;text=14""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0xFB0;block_file=0x4DFB0;text_base=0x4E00C;capacity=1416""]","残念だな。そろそろお前の話し相手もAIに代わってもらお
+うと思っていたんだが。
+","勘弁してくれ。
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你想都别想。,"[""你想都别想。""]","Don't even think about it.
+","[""Don't even think about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4DFB0; ENG blocks=0xDBB50; ENG source rows=0xDBB50#21; block_semantic_score=0.164451.

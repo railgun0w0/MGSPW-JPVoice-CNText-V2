@@ -1,0 +1,70 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_011E60,0,stream=0x11000;block=0xE60;text=0,"[""stream=0x11000;block=0xE60;text=0""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]",,"スネーク、頼みがあるんだが。
+","どうした、改まって。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能帮我个忙吗，Snake？,"[""能帮我个忙吗，Snake？""]","Can I ask you a favor, Snake?
+","[""Can I ask you a favor, Snake?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#0; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,1,stream=0x11000;block=0xE60;text=1,"[""stream=0x11000;block=0xE60;text=1""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","スネーク、頼みがあるんだが。
+","どうした、改まって。
+","MSFを拡大するには、まず人集めだ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说来听听。,"[""说来听听。""]","If you ask nicely.
+","[""If you ask nicely.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#1; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,2,stream=0x11000;block=0xE60;text=2,"[""stream=0x11000;block=0xE60;text=2""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","どうした、改まって。
+","MSFを拡大するには、まず人集めだ。
+","そうだな。で？
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,想让MSF壮大，我们需要招募人手。,"[""想让MSF壮大，我们需要招募人手。""]","To make MSF bigger, we need to do some
+recruiting.
+","[""To make MSF bigger, we need to do some\nrecruiting.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#2; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,3,stream=0x11000;block=0xE60;text=3,"[""stream=0x11000;block=0xE60;text=3""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","MSFを拡大するには、まず人集めだ。
+","そうだな。で？
+","できるだけ敵兵を殺さず、フルトン回収してほしいんだ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊…所以呢？,"[""是啊…所以呢？""]","Yeah... What's your point?
+","[""Yeah... What's your point?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#3; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,4,stream=0x11000;block=0xE60;text=4,"[""stream=0x11000;block=0xE60;text=4""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","そうだな。で？
+","できるだけ敵兵を殺さず、フルトン回収してほしいんだ。
+","遺体を回収したところで、せいぜい弔ってやることくらい
+しかできないからな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我希望你尽可能避免杀死敌军士兵，
+用富尔顿回收把他们送回来。","[""我希望你尽可能避免杀死敌军士兵，\n用富尔顿回收把他们送回来。""]","I want you to avoid killing enemy soldiers as much
+as possible and send them back using Fulton
+recovery.
+","[""I want you to avoid killing enemy soldiers as much\nas possible and send them back using Fulton\nrecovery.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#4; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,5,stream=0x11000;block=0xE60;text=5,"[""stream=0x11000;block=0xE60;text=5""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","できるだけ敵兵を殺さず、フルトン回収してほしいんだ。
+","遺体を回収したところで、せいぜい弔ってやることくらい
+しかできないからな。
+","違いない。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,尸体我们能做的也就只有葬礼了。,"[""尸体我们能做的也就只有葬礼了。""]","Not much we can do with a corpse except give it a
+funeral.
+","[""Not much we can do with a corpse except give it a\nfuneral.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#5; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,6,stream=0x11000;block=0xE60;text=6,"[""stream=0x11000;block=0xE60;text=6""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","遺体を回収したところで、せいぜい弔ってやることくらい
+しかできないからな。
+","違いない。
+","眠らせる、気絶させる…ホールドアップでもいい。やむを
+得ず戦ったとしても、瀕死に止めておくとか。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,显而易见。,"[""显而易见。""]","Obviously.
+","[""Obviously.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#6; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,7,stream=0x11000;block=0xE60;text=7,"[""stream=0x11000;block=0xE60;text=7""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","違いない。
+","眠らせる、気絶させる…ホールドアップでもいい。やむを
+得ず戦ったとしても、瀕死に止めておくとか。
+","その後、フルトン回収か…やってみよう。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"让他们睡着、击晕…
+或者干脆胁迫也行。如果非打不可，
+尽量留他们一条命，伤而不杀。","[""让他们睡着、击晕…\n或者干脆胁迫也行。如果非打不可，\n尽量留他们一条命，伤而不杀。""]","Put 'em to sleep, knock 'em out...hold 'em up, even.
+And if you do have to fight, try to leave them near
+death instead of dead.
+","[""Put 'em to sleep, knock 'em out...hold 'em up, even.\nAnd if you do have to fight, try to leave them near\ndeath instead of dead.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x11E60; ENG blocks=0xA4B00,0xA4B00; ENG source rows=0xA4B00#7,0xA4B00#8; block_semantic_score=0.072305."
+BRIEFING_FILES_BLOCK_011E60,8,stream=0x11000;block=0xE60;text=8,"[""stream=0x11000;block=0xE60;text=8""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","眠らせる、気絶させる…ホールドアップでもいい。やむを
+得ず戦ったとしても、瀕死に止めておくとか。
+","その後、フルトン回収か…やってみよう。
+","本当は、狙った相手を有無を言わさずフルトン回収できる
+装置があれば、楽なんだがな…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后再用富尔顿回收系统…
+听起来倒是简单。","[""然后再用富尔顿回收系统…\n听起来倒是简单。""]","And then use the Fulton recovery system...sounds
+easy enough.
+","[""And then use the Fulton recovery system...sounds\neasy enough.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#9; block_semantic_score=0.072305.
+BRIEFING_FILES_BLOCK_011E60,9,stream=0x11000;block=0xE60;text=9,"[""stream=0x11000;block=0xE60;text=9""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","その後、フルトン回収か…やってみよう。
+","本当は、狙った相手を有無を言わさずフルトン回収できる
+装置があれば、楽なんだがな…。
+",,[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过要是有办法随时随地富尔顿
+回收任何人，那就太棒了…","[""不过要是有办法随时随地富尔顿\n回收任何人，那就太棒了…""]","You know what'd be really nice, though. If we had a
+way to Fulton recover anybody at anytime...
+","[""You know what'd be really nice, though. If we had a\nway to Fulton recover anybody at anytime...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x11E60; ENG blocks=0xA4B00; ENG source rows=0xA4B00#10; block_semantic_score=0.072305.

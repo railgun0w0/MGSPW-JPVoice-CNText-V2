@@ -1,0 +1,240 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37E2E0,0,stream=0x37E000;block=0x2E0;text=0,"[""stream=0x37E000;block=0x2E0;text=0""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]",,"スネーク。
+研究開発班に配属してくれてありがとう。
+","早速だけど、二足歩行兵器の開発を始めたよ。
+",[],,,NOT_CHECKED,74,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,感谢你让我加入研发团队，Snake。,"[""感谢你让我加入研发团队，Snake。""]","Thanks for putting me on the R&D team,
+Snake.
+","[""Thanks for putting me on the R&D team,\nSnake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#0; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,1,stream=0x37E000;block=0x2E0;text=1,"[""stream=0x37E000;block=0x2E0;text=1""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","スネーク。
+研究開発班に配属してくれてありがとう。
+","早速だけど、二足歩行兵器の開発を始めたよ。
+","とはいえ、ここでは自由に資材が使えるわけじゃない。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们已经开始研发我们
+自己的双足步行兵器。","[""我们已经开始研发我们\n自己的双足步行兵器。""]","We've commenced development on our
+own bipedal weapon.
+","[""We've commenced development on our\nown bipedal weapon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#2; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,2,stream=0x37E000;block=0x2E0;text=2,"[""stream=0x37E000;block=0x2E0;text=2""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","早速だけど、二足歩行兵器の開発を始めたよ。
+","とはいえ、ここでは自由に資材が使えるわけじゃない。
+","ああ。すまないが俺達は正規軍じゃないからな。
+税金も、国防予算もない。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,只是在这里我们不太容易获得资源。,"[""只是在这里我们不太容易获得资源。""]","The only thing is we don't exactly have
+easy access to resources here.
+","[""The only thing is we don't exactly have\neasy access to resources here.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#3; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,3,stream=0x37E000;block=0x2E0;text=3,"[""stream=0x37E000;block=0x2E0;text=3""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","とはいえ、ここでは自由に資材が使えるわけじゃない。
+","ああ。すまないが俺達は正規軍じゃないからな。
+税金も、国防予算もない。
+","わかってるさ。そこでお願いなんだが…、
+今後またAI兵器と戦うことがあったら、
+そのパーツを集めてきてくれないか？
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，不幸的是我们背后
+没有国防部那样的预算。","[""是啊，不幸的是我们背后\n没有国防部那样的预算。""]","Yeah, unfortunately we don't have the
+budget of a defense department behind
+us.
+","[""Yeah, unfortunately we don't have the\nbudget of a defense department behind\nus.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#4; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,4,stream=0x37E000;block=0x2E0;text=4,"[""stream=0x37E000;block=0x2E0;text=4""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","ああ。すまないが俺達は正規軍じゃないからな。
+税金も、国防予算もない。
+","わかってるさ。そこでお願いなんだが…、
+今後またAI兵器と戦うことがあったら、
+そのパーツを集めてきてくれないか？
+","そいつらを流用すれば、
+効率的に開発が進められるはずだ。
+",[],,,NOT_CHECKED,164,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果你再和AI兵器战斗，,"[""如果你再和AI兵器战斗，""]","If you fight any more AI weapons,
+","[""If you fight any more AI weapons,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#6; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,5,stream=0x37E000;block=0x2E0;text=5,"[""stream=0x37E000;block=0x2E0;text=5""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","わかってるさ。そこでお願いなんだが…、
+今後またAI兵器と戦うことがあったら、
+そのパーツを集めてきてくれないか？
+","そいつらを流用すれば、
+効率的に開発が進められるはずだ。
+","言うのは簡単だが…。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能不能尽量收集它们的部件？,"[""能不能尽量收集它们的部件？""]","could you try to gather as many of their
+parts as you can?
+","[""could you try to gather as many of their\nparts as you can?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#7; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,6,stream=0x37E000;block=0x2E0;text=6,"[""stream=0x37E000;block=0x2E0;text=6""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","そいつらを流用すれば、
+効率的に開発が進められるはずだ。
+","言うのは簡単だが…。
+","ボス、君なら出来る。
+あのピューパだって無力化したんだからね。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那样事情会顺利很多。,"[""那样事情会顺利很多。""]","That would really make things go a lot
+smoother.
+","[""That would really make things go a lot\nsmoother.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#8; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,7,stream=0x37E000;block=0x2E0;text=7,"[""stream=0x37E000;block=0x2E0;text=7""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","言うのは簡単だが…。
+","ボス、君なら出来る。
+あのピューパだって無力化したんだからね。
+","まあな。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过，说起来容易做起来难。如果有人能做到，那一定是你，Boss。,"[""不过，说起来容易做起来难。如果有人能做到，那一定是你，Boss。""]","Again, easier said than done.
+If anyone can do it, you can, Boss.
+","[""Again, easier said than done.\nIf anyone can do it, you can, Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37E2E0; ENG blocks=0x3939D0,0x3939D0; ENG source rows=0x3939D0#9,0x3939D0#10; block_semantic_score=0.186277."
+BRIEFING_MISSION_BLOCK_37E2E0,8,stream=0x37E000;block=0x2E0;text=8,"[""stream=0x37E000;block=0x2E0;text=8""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","ボス、君なら出来る。
+あのピューパだって無力化したんだからね。
+","まあな。
+","もちろん、君が二足歩行兵器なんか興味ないって
+いうなら、こっちは気長にやるけど…。
+強制する気はない。ここのボスは君だからね。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","True.
+","[""True.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#12; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,9,stream=0x37E000;block=0x2E0;text=9,"[""stream=0x37E000;block=0x2E0;text=9""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","まあな。
+","もちろん、君が二足歩行兵器なんか興味ないって
+いうなら、こっちは気長にやるけど…。
+強制する気はない。ここのボスは君だからね。
+","わかった。
+約束はできないが、考えておこう。
+",[],,,NOT_CHECKED,186,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听着，如果你不感兴趣，
+我可以用现有的东西继续做。我不想强迫你冒不必要的风险。
+这里你才是老大。","[""听着，如果你不感兴趣，\n我可以用现有的东西继续做。我不想强迫你冒不必要的风险。\n这里你才是老大。""]","Look, if you're not interested, I can just
+work with what we have here.
+I'm not trying to force you to take
+unnecessary risks. You're the boss
+around here.
+","[""Look, if you're not interested, I can just\nwork with what we have here.\nI'm not trying to force you to take\nunnecessary risks. You're the boss\naround here.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37E2E0; ENG blocks=0x3939D0,0x3939D0; ENG source rows=0x3939D0#13,0x3939D0#14; block_semantic_score=0.186277."
+BRIEFING_MISSION_BLOCK_37E2E0,10,stream=0x37E000;block=0x2E0;text=10,"[""stream=0x37E000;block=0x2E0;text=10""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","もちろん、君が二足歩行兵器なんか興味ないって
+いうなら、こっちは気長にやるけど…。
+強制する気はない。ここのボスは君だからね。
+","わかった。
+約束はできないが、考えておこう。
+","それから、各AI兵器には、武装の中核となる
+『ヘッドパーツ』が存在するんだ。
+",[],,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好吧。我不敢保证，但我会考虑。,"[""好吧。我不敢保证，但我会考虑。""]","All right. No promises, but I'll think about
+it.
+","[""All right. No promises, but I'll think about\nit.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#15; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,11,stream=0x37E000;block=0x2E0;text=11,"[""stream=0x37E000;block=0x2E0;text=11""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","わかった。
+約束はできないが、考えておこう。
+","それから、各AI兵器には、武装の中核となる
+『ヘッドパーツ』が存在するんだ。
+","ヘッドパーツを回収すれば、それぞれのヘッドパーツ
+に応じた武器も使えるようになる。
+",[],,,NOT_CHECKED,109,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另外，每台AI兵器都有一个作为
+其武器核心的“头部部件”。","[""另外，每台AI兵器都有一个作为\n其武器核心的“头部部件”。""]","Also, each AI weapon has a ""head part""
+that serves as the core of its armament.
+","[""Also, each AI weapon has a \""head part\""\nthat serves as the core of its armament.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#17; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,12,stream=0x37E000;block=0x2E0;text=12,"[""stream=0x37E000;block=0x2E0;text=12""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","それから、各AI兵器には、武装の中核となる
+『ヘッドパーツ』が存在するんだ。
+","ヘッドパーツを回収すれば、それぞれのヘッドパーツ
+に応じた武器も使えるようになる。
+","…とはいえ、AI兵器は君にとっても強敵だと思う。
+くれぐれも、無理はしないでくれ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"回收头部部件后，
+你就可以使用与该部件对应的武器。","[""回收头部部件后，\n你就可以使用与该部件对应的武器。""]","Recovering a head part will allow you to
+use the weapon associated with that part.
+","[""Recovering a head part will allow you to\nuse the weapon associated with that part.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#18; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,13,stream=0x37E000;block=0x2E0;text=13,"[""stream=0x37E000;block=0x2E0;text=13""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","ヘッドパーツを回収すれば、それぞれのヘッドパーツ
+に応じた武器も使えるようになる。
+","…とはいえ、AI兵器は君にとっても強敵だと思う。
+くれぐれも、無理はしないでくれ。
+","大丈夫だ。無駄に命を捨てるつもりはない。
+",[],,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…但那些家伙可不会乖乖倒下。所以别太执着于这些事。,"[""…但那些家伙可不会乖乖倒下。所以别太执着于这些事。""]","...But those guys won't go down without a
+fight.
+So don't get too preoccupied with this
+stuff.
+","[""...But those guys won't go down without a\nfight.\nSo don't get too preoccupied with this\nstuff.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37E2E0; ENG blocks=0x3939D0,0x3939D0; ENG source rows=0x3939D0#19,0x3939D0#20; block_semantic_score=0.186277."
+BRIEFING_MISSION_BLOCK_37E2E0,14,stream=0x37E000;block=0x2E0;text=14,"[""stream=0x37E000;block=0x2E0;text=14""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","…とはいえ、AI兵器は君にとっても強敵だと思う。
+くれぐれも、無理はしないでくれ。
+","大丈夫だ。無駄に命を捨てるつもりはない。
+","気をつけてくれよ。
+…それと、今回開発を始めた二足歩行兵器だが、
+名前が必要だと思うんだ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别担心。我不会为了一堆
+废铁去冒生命危险。","[""别担心。我不会为了一堆\n废铁去冒生命危险。""]","Don't worry. I'm not about to risk my life
+for a bunch of scrap.
+","[""Don't worry. I'm not about to risk my life\nfor a bunch of scrap.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#21; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,15,stream=0x37E000;block=0x2E0;text=15,"[""stream=0x37E000;block=0x2E0;text=15""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","大丈夫だ。無駄に命を捨てるつもりはない。
+","気をつけてくれよ。
+…それと、今回開発を始めた二足歩行兵器だが、
+名前が必要だと思うんだ。
+","そうだな。
+いちいち“あの二足歩行兵器”じゃ鬱陶しい。
+",[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还有一件事：我们新的双足
+步行兵器需要一个名字。","[""还有一件事：我们新的双足\n步行兵器需要一个名字。""]","One more thing: our new bipedal weapon
+needs a name.
+","[""One more thing: our new bipedal weapon\nneeds a name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#23; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,16,stream=0x37E000;block=0x2E0;text=16,"[""stream=0x37E000;block=0x2E0;text=16""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","気をつけてくれよ。
+…それと、今回開発を始めた二足歩行兵器だが、
+名前が必要だと思うんだ。
+","そうだな。
+いちいち“あの二足歩行兵器”じゃ鬱陶しい。
+","それで、ミラーと話して考えたんだけど、
+『メタルギア<R=ZEKE,ジーク>』…というのはどうかな？
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们不能一直叫它
+“我们的双足步行兵器”。","[""我们不能一直叫它\n“我们的双足步行兵器”。""]","We can't keep calling it ""our bipedal
+weapon.""
+","[""We can't keep calling it \""our bipedal\nweapon.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#25; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,17,stream=0x37E000;block=0x2E0;text=17,"[""stream=0x37E000;block=0x2E0;text=17""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","そうだな。
+いちいち“あの二足歩行兵器”じゃ鬱陶しい。
+","それで、ミラーと話して考えたんだけど、
+『メタルギア<R=ZEKE,ジーク>』…というのはどうかな？
+","メタルギア…<R=ZEKE,ジーク>…。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我和Miller谈过，
+我们想到了“Metal Gear ZEKE”。","[""我和Miller谈过，\n我们想到了“Metal Gear ZEKE”。""]","I had a talk with Miller, and we came up
+with ""Metal Gear ZEKE.""
+","[""I had a talk with Miller, and we came up\nwith \""Metal Gear ZEKE.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#26; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,18,stream=0x37E000;block=0x2E0;text=18,"[""stream=0x37E000;block=0x2E0;text=18""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","それで、ミラーと話して考えたんだけど、
+『メタルギア<R=ZEKE,ジーク>』…というのはどうかな？
+","メタルギア…<R=ZEKE,ジーク>…。
+","ああ。『メタルギア』はきみの言っていた、
+グラーニンの言葉から取った。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Metal Gear… ZEKE…？,"[""Metal Gear… ZEKE…？""]","Metal Gear... ZEKE...?
+","[""Metal Gear... ZEKE...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#27; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,19,stream=0x37E000;block=0x2E0;text=19,"[""stream=0x37E000;block=0x2E0;text=19""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","メタルギア…<R=ZEKE,ジーク>…。
+","ああ。『メタルギア』はきみの言っていた、
+グラーニンの言葉から取った。
+","<R=『ZEKE』,ジーク>というのは？
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。如你所知，“Metal Gear”
+是Granin创造的名字。","[""没错。如你所知，“Metal Gear”\n是Granin创造的名字。""]","Yep.
+As you know, ""Metal Gear"" was coined by
+Granin.
+","[""Yep.\nAs you know, \""Metal Gear\"" was coined by\nGranin.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37E2E0; ENG blocks=0x3939D0,0x3939D0; ENG source rows=0x3939D0#28,0x3939D0#29; block_semantic_score=0.186277."
+BRIEFING_MISSION_BLOCK_37E2E0,20,stream=0x37E000;block=0x2E0;text=20,"[""stream=0x37E000;block=0x2E0;text=20""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","ああ。『メタルギア』はきみの言っていた、
+グラーニンの言葉から取った。
+","<R=『ZEKE』,ジーク>というのは？
+","第二次大戦中の日本軍機に、米軍が付けた呼び名だ。
+<R=ゼロ式,ZEKE>は優れた格闘性能を持つ、日本海軍の主力機
+だった。
+","[""<R=『ZEKE』,ジーク>""]",,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那“ZEKE”呢？,"[""那“ZEKE”呢？""]","And ""ZEKE""?
+","[""And \""ZEKE\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#30; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,21,stream=0x37E000;block=0x2E0;text=21,"[""stream=0x37E000;block=0x2E0;text=21""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","<R=『ZEKE』,ジーク>というのは？
+","第二次大戦中の日本軍機に、米軍が付けた呼び名だ。
+<R=ゼロ式,ZEKE>は優れた格闘性能を持つ、日本海軍の主力機
+だった。
+","ということで、
+名前は『メタルギア<R=ZEKE,ジーク>』でいいかな？
+","[""<R=ゼロ式,ZEKE>""]",,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,ZEKE是日本海军最优秀的战斗机。,"[""ZEKE是日本海军最优秀的战斗机。""]","ZEKE was the Japanese navy's best
+fighter plane.
+","[""ZEKE was the Japanese navy's best\nfighter plane.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#32; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,22,stream=0x37E000;block=0x2E0;text=22,"[""stream=0x37E000;block=0x2E0;text=22""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","第二次大戦中の日本軍機に、米軍が付けた呼び名だ。
+<R=ゼロ式,ZEKE>は優れた格闘性能を持つ、日本海軍の主力機
+だった。
+","ということで、
+名前は『メタルギア<R=ZEKE,ジーク>』でいいかな？
+","ああ。構わない。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你觉得这个名字怎么样，Snake？,"[""你觉得这个名字怎么样，Snake？""]","So are you okay with that, Snake?
+","[""So are you okay with that, Snake?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#33; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,23,stream=0x37E000;block=0x2E0;text=23,"[""stream=0x37E000;block=0x2E0;text=23""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","ということで、
+名前は『メタルギア<R=ZEKE,ジーク>』でいいかな？
+","ああ。構わない。
+","ミラーも言っていたが、<R=『国境なき軍隊』,MSF>には
+他国の干渉を抑止する力が必要だろう。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然，我没意见。,"[""当然，我没意见。""]","Sure, fine by me.
+","[""Sure, fine by me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#34; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,24,stream=0x37E000;block=0x2E0;text=24,"[""stream=0x37E000;block=0x2E0;text=24""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","ああ。構わない。
+","ミラーも言っていたが、<R=『国境なき軍隊』,MSF>には
+他国の干渉を抑止する力が必要だろう。
+","メタルギアという『抑止力』があれば、
+MSFは、本当の意味で自由になれるはずだ。
+","[""<R=『国境なき軍隊』,MSF>""]",,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Miller说过，一支没有国境的军队
+需要拥有对其他国家的威慑力量。","[""Miller说过，一支没有国境的军队\n需要拥有对其他国家的威慑力量。""]","Miller was saying that an army without
+borders will need a deterrent against
+other countries.
+","[""Miller was saying that an army without\nborders will need a deterrent against\nother countries.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#35; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,25,stream=0x37E000;block=0x2E0;text=25,"[""stream=0x37E000;block=0x2E0;text=25""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","ミラーも言っていたが、<R=『国境なき軍隊』,MSF>には
+他国の干渉を抑止する力が必要だろう。
+","メタルギアという『抑止力』があれば、
+MSFは、本当の意味で自由になれるはずだ。
+","そうだといいが…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他说得对。有了Metal Gear，
+MSF就能实现真正的独立。","[""他说得对。有了Metal Gear，\nMSF就能实现真正的独立。""]","He's right. With Metal Gear, MSF can
+achieve true independence.
+","[""He's right. With Metal Gear, MSF can\nachieve true independence.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#36; block_semantic_score=0.186277.
+BRIEFING_MISSION_BLOCK_37E2E0,26,stream=0x37E000;block=0x2E0;text=26,"[""stream=0x37E000;block=0x2E0;text=26""]",1,BRIEFING MISSION,"[""stream=0x37E000;block=0x2E0;block_file=0x37E2E0;text_base=0x37E36C;capacity=2472""]","メタルギアという『抑止力』があれば、
+MSFは、本当の意味で自由になれるはずだ。
+","そうだといいが…。
+",,[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但愿如此。,"[""但愿如此。""]","Here's hoping.
+","[""Here's hoping.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37E2E0; ENG blocks=0x3939D0; ENG source rows=0x3939D0#37; block_semantic_score=0.186277.

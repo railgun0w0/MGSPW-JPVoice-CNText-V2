@@ -1,0 +1,241 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_371AD0,0,stream=0x371000;block=0xAD0;text=0,"[""stream=0x371000;block=0xAD0;text=0""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]",,"スネーク。
+トラックはトンネルの先の山道へ向かった。
+","やはり積み荷は核弾頭だった。
+",[],,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，那辆卡车正沿着山路
+开过隧道，往山上去了。","[""Snake，那辆卡车正沿着山路\n开过隧道，往山上去了。""]","Snake, the truck is headed up the
+mountain road past the tunnel.
+","[""Snake, the truck is headed up the\nmountain road past the tunnel.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,1,stream=0x371000;block=0xAD0;text=1,"[""stream=0x371000;block=0xAD0;text=1""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク。
+トラックはトンネルの先の山道へ向かった。
+","やはり積み荷は核弾頭だった。
+","…どうする？
+その先は奴らの本拠地だ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以果然是核弹。,"[""所以果然是核弹。""]","So it was nukes after all.
+","[""So it was nukes after all.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,2,stream=0x371000;block=0xAD0;text=2,"[""stream=0x371000;block=0xAD0;text=2""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","やはり積み荷は核弾頭だった。
+","…どうする？
+その先は奴らの本拠地だ。
+","早く追わないと。
+",[],,,NOT_CHECKED,56,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在怎么办？他们的主基地就在前面。,"[""现在怎么办？他们的主基地就在前面。""]","What now? Their main base is up ahead.
+","[""What now? Their main base is up ahead.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,3,stream=0x371000;block=0xAD0;text=3,"[""stream=0x371000;block=0xAD0;text=3""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","…どうする？
+その先は奴らの本拠地だ。
+","早く追わないと。
+","だが…。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那我最好赶紧追上他们。,"[""那我最好赶紧追上他们。""]","I better hurry after 'em, then.
+","[""I better hurry after 'em, then.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#3; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,4,stream=0x371000;block=0xAD0;text=4,"[""stream=0x371000;block=0xAD0;text=4""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","早く追わないと。
+","だが…。
+","カズ！　急がないと手遅れになる。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但是…,"[""但是…""]","But...
+","[""But...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,5,stream=0x371000;block=0xAD0;text=5,"[""stream=0x371000;block=0xAD0;text=5""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","だが…。
+","カズ！　急がないと手遅れになる。
+","わかった。
+あんたにとっては、<R=仕事,ビジネス>も<R=危険,リスク>も関係ないんだな。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Kaz，再不出发就来不及了！好吧。,"[""Kaz，再不出发就来不及了！好吧。""]","Kaz, if I don't get moving it'll be too late!
+All right.
+","[""Kaz, if I don't get moving it'll be too late!\nAll right.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x371AD0; ENG blocks=0x389770,0x389770; ENG source rows=0x389770#5,0x389770#6; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_371AD0,6,stream=0x371000;block=0xAD0;text=6,"[""stream=0x371000;block=0xAD0;text=6""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","カズ！　急がないと手遅れになる。
+","わかった。
+あんたにとっては、<R=仕事,ビジネス>も<R=危険,リスク>も関係ないんだな。
+","どうやって山に入る？
+トンネルは見ての通りだ。
+","[""<R=仕事,ビジネス>"", ""<R=危険,リスク>""]",,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看来你从不会让危险任务
+或避险心理挡住你的路。","[""看来你从不会让危险任务\n或避险心理挡住你的路。""]","I guess you never let dangerous
+assignments or risk aversion get in your
+way.
+","[""I guess you never let dangerous\nassignments or risk aversion get in your\nway.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#7; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,7,stream=0x371000;block=0xAD0;text=7,"[""stream=0x371000;block=0xAD0;text=7""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","わかった。
+あんたにとっては、<R=仕事,ビジネス>も<R=危険,リスク>も関係ないんだな。
+","どうやって山に入る？
+トンネルは見ての通りだ。
+","ああ。
+戦車の砲撃でトンネルは完全に塞がれてしまった…。
+",[],,,NOT_CHECKED,68,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我怎么进到山里去？
+隧道是指望不上了。","[""我怎么进到山里去？\n隧道是指望不上了。""]","How do I get inside the mountain? I can
+forget about the tunnel.
+","[""How do I get inside the mountain? I can\nforget about the tunnel.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#8; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,8,stream=0x371000;block=0xAD0;text=8,"[""stream=0x371000;block=0xAD0;text=8""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","どうやって山に入る？
+トンネルは見ての通りだ。
+","ああ。
+戦車の砲撃でトンネルは完全に塞がれてしまった…。
+","他にルートはないのか？
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，那辆坦克已经把它解决了…,"[""是啊，那辆坦克已经把它解决了…""]","Yeah, the tank took care of that...
+","[""Yeah, the tank took care of that...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#9; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,9,stream=0x371000;block=0xAD0;text=9,"[""stream=0x371000;block=0xAD0;text=9""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","ああ。
+戦車の砲撃でトンネルは完全に塞がれてしまった…。
+","他にルートはないのか？
+","よし、このあたりの地理に詳しい奴に替ろう。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有别的路吗？,"[""还有别的路吗？""]","Any other routes?
+","[""Any other routes?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#10; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,10,stream=0x371000;block=0xAD0;text=10,"[""stream=0x371000;block=0xAD0;text=10""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","他にルートはないのか？
+","よし、このあたりの地理に詳しい奴に替ろう。
+","スネーク。
+山に入るルートだね。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不如让本地的行家来接手？,"[""不如让本地的行家来接手？""]","Why don't I let a local expert take over?
+","[""Why don't I let a local expert take over?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#11; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,11,stream=0x371000;block=0xAD0;text=11,"[""stream=0x371000;block=0xAD0;text=11""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","よし、このあたりの地理に詳しい奴に替ろう。
+","スネーク。
+山に入るルートだね。
+","わかるか？
+",[],,,NOT_CHECKED,47,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，你需要进山的路吗？,"[""Snake，你需要进山的路吗？""]","Snake, you need a way into the mountain?
+","[""Snake, you need a way into the mountain?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#12; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,12,stream=0x371000;block=0xAD0;text=12,"[""stream=0x371000;block=0xAD0;text=12""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク。
+山に入るルートだね。
+","わかるか？
+","ええと…。
+俺がいた収容所、覚えてる？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对，你有办法？,"[""对，你有办法？""]","Yeah. Got one?
+","[""Yeah. Got one?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#13; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,13,stream=0x371000;block=0xAD0;text=13,"[""stream=0x371000;block=0xAD0;text=13""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","わかるか？
+","ええと…。
+俺がいた収容所、覚えてる？
+","あの村だな。
+",[],,,NOT_CHECKED,56,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"让我想想…你还记得
+我待过的那座监狱吗？","[""让我想想…你还记得\n我待过的那座监狱吗？""]","Let's see... You remember that prison I
+was in?
+","[""Let's see... You remember that prison I\nwas in?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#14; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,14,stream=0x371000;block=0xAD0;text=14,"[""stream=0x371000;block=0xAD0;text=14""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","ええと…。
+俺がいた収容所、覚えてる？
+","あの村だな。
+","そう、いったん村に戻って北の方に抜けると、
+山道と合流する橋がある。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在村子里，对吧？,"[""在村子里，对吧？""]","In the village, right?
+","[""In the village, right?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#15; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,15,stream=0x371000;block=0xAD0;text=15,"[""stream=0x371000;block=0xAD0;text=15""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","あの村だな。
+","そう、いったん村に戻って北の方に抜けると、
+山道と合流する橋がある。
+","渓谷を横断してるんだ。
+その橋を使えばたぶん…。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对。回到村子，然后往北走。有座桥连通山路。,"[""对。回到村子，然后往北走。有座桥连通山路。""]","Right. Go back to the village and head
+north.
+There's a bridge that connects to the
+mountain road.
+","[""Right. Go back to the village and head\nnorth.\nThere's a bridge that connects to the\nmountain road.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x371AD0; ENG blocks=0x389770,0x389770; ENG source rows=0x389770#16,0x389770#17; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_371AD0,16,stream=0x371000;block=0xAD0;text=16,"[""stream=0x371000;block=0xAD0;text=16""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","そう、いったん村に戻って北の方に抜けると、
+山道と合流する橋がある。
+","渓谷を横断してるんだ。
+その橋を使えばたぶん…。
+","…だけど、ちょっと問題がある。
+",[],,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"桥跨过一道峡谷。
+那大概是最好的路线…","[""桥跨过一道峡谷。\n那大概是最好的路线…""]","It crosses over a gorge. That's probably
+the best way...
+","[""It crosses over a gorge. That's probably\nthe best way...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#18; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,17,stream=0x371000;block=0xAD0;text=17,"[""stream=0x371000;block=0xAD0;text=17""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","渓谷を横断してるんだ。
+その橋を使えばたぶん…。
+","…だけど、ちょっと問題がある。
+","村から北はバリケードで塞がってるんだ。
+壊すしかないかも…。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过有个小问题。,"[""不过有个小问题。""]","But there is a little problem.
+","[""But there is a little problem.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#19; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,18,stream=0x371000;block=0xAD0;text=18,"[""stream=0x371000;block=0xAD0;text=18""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","…だけど、ちょっと問題がある。
+","村から北はバリケードで塞がってるんだ。
+壊すしかないかも…。
+","わかった。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,从村子往北的路被路障堵住了。,"[""从村子往北的路被路障堵住了。""]","The path heading north from the village
+is barricaded.
+","[""The path heading north from the village\nis barricaded.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#20; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,19,stream=0x371000;block=0xAD0;text=19,"[""stream=0x371000;block=0xAD0;text=19""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","村から北はバリケードで塞がってるんだ。
+壊すしかないかも…。
+","わかった。
+","スネーク。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你可能得强行突破…,"[""你可能得强行突破…""]","You might have to break through...
+","[""You might have to break through...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#21; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,20,stream=0x371000;block=0xAD0;text=20,"[""stream=0x371000;block=0xAD0;text=20""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","わかった。
+","スネーク。
+","イラスの山腹は、奴らの本拠地に間違いない。
+もしかしたら、俺が見た…。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了。,"[""明白了。""]","Got it.
+","[""Got it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#22; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,21,stream=0x371000;block=0xAD0;text=21,"[""stream=0x371000;block=0xAD0;text=21""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク。
+","イラスの山腹は、奴らの本拠地に間違いない。
+もしかしたら、俺が見た…。
+","“バシリスコ”か？
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"伊拉苏的腹地…敌人的基地一定就在那里，
+Snake。而且也许…","[""伊拉苏的腹地…敌人的基地一定就在那里，\nSnake。而且也许…""]","The heart of Irazú...
+That's where the enemy's base has got
+to be, Snake. And maybe...
+","[""The heart of Irazú...\nThat's where the enemy's base has got\nto be, Snake. And maybe...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x371AD0; ENG blocks=0x389770,0x389770; ENG source rows=0x389770#23,0x389770#24; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_371AD0,22,stream=0x371000;block=0xAD0;text=22,"[""stream=0x371000;block=0xAD0;text=22""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","イラスの山腹は、奴らの本拠地に間違いない。
+もしかしたら、俺が見た…。
+","“バシリスコ”か？
+","…やっぱり、信じてないんだね。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,让我猜猜——是basilisco？,"[""让我猜猜——是basilisco？""]","Let me guess - the basilisco?
+","[""Let me guess - the basilisco?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#25; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,23,stream=0x371000;block=0xAD0;text=23,"[""stream=0x371000;block=0xAD0;text=23""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","“バシリスコ”か？
+","…やっぱり、信じてないんだね。
+","いや、これからわかる。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你不相信我，对吧？,"[""你不相信我，对吧？""]","You don't believe me, do you?
+","[""You don't believe me, do you?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#26; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,24,stream=0x371000;block=0xAD0;text=24,"[""stream=0x371000;block=0xAD0;text=24""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","…やっぱり、信じてないんだね。
+","いや、これからわかる。
+","スネーク、イラスには複数の火口湖がある。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不，我是说…得亲眼看看才知道。,"[""不，我是说…得亲眼看看才知道。""]","No, I mean... We'll have to see.
+","[""No, I mean... We'll have to see.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#27; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,25,stream=0x371000;block=0xAD0;text=25,"[""stream=0x371000;block=0xAD0;text=25""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","いや、これからわかる。
+","スネーク、イラスには複数の火口湖がある。
+","前にオドゥベル国家企業体制の一環で、これを使った
+揚水発電所を建造する計画があったらしい。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，伊拉苏有许多火山口湖。,"[""Snake，伊拉苏有许多火山口湖。""]","Snake, Irazú features a number of crater
+lakes.
+","[""Snake, Irazú features a number of crater\nlakes.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#28; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,26,stream=0x371000;block=0xAD0;text=26,"[""stream=0x371000;block=0xAD0;text=26""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク、イラスには複数の火口湖がある。
+","前にオドゥベル国家企業体制の一環で、これを使った
+揚水発電所を建造する計画があったらしい。
+","計画は中止になったが、湖の下にはちょっとした穴が
+開いたままだ。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"来建造水电站，
+作为一项大型国家开发工程。","[""来建造水电站，\n作为一项大型国家开发工程。""]","to construct hydroelectric plants as one
+of its big state development projects.
+","[""to construct hydroelectric plants as one\nof its big state development projects.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#30; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,27,stream=0x371000;block=0xAD0;text=27,"[""stream=0x371000;block=0xAD0;text=27""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","前にオドゥベル国家企業体制の一環で、これを使った
+揚水発電所を建造する計画があったらしい。
+","計画は中止になったが、湖の下にはちょっとした穴が
+開いたままだ。
+","つまり？
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,项目被废止了，但湖底还有一个小开口。,"[""项目被废止了，但湖底还有一个小开口。""]","The project was scrapped,
+but there's still a small opening at the
+bottom of the lake.
+","[""The project was scrapped,\nbut there's still a small opening at the\nbottom of the lake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x371AD0; ENG blocks=0x389770,0x389770; ENG source rows=0x389770#31,0x389770#32; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_371AD0,28,stream=0x371000;block=0xAD0;text=28,"[""stream=0x371000;block=0xAD0;text=28""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","計画は中止になったが、湖の下にはちょっとした穴が
+開いたままだ。
+","つまり？
+","衛星写真を見たが、外には人工物が見あたらない。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,意思是？,"[""意思是？""]","Meaning?
+","[""Meaning?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#33; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,29,stream=0x371000;block=0xAD0;text=29,"[""stream=0x371000;block=0xAD0;text=29""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","つまり？
+","衛星写真を見たが、外には人工物が見あたらない。
+","そうなると、山の内側を施設に利用してる可能性が
+高い。単なる<R=爆薬保管庫,イグルー>か、何かの研究施設か。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我查过卫星图像，
+但没看到任何人工设施。","[""我查过卫星图像，\n但没看到任何人工设施。""]","I checked the satellite imagery, but didn't
+see anything man-made.
+","[""I checked the satellite imagery, but didn't\nsee anything man-made.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#34; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,30,stream=0x371000;block=0xAD0;text=30,"[""stream=0x371000;block=0xAD0;text=30""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","衛星写真を見たが、外には人工物が見あたらない。
+","そうなると、山の内側を施設に利用してる可能性が
+高い。単なる<R=爆薬保管庫,イグルー>か、何かの研究施設か。
+","そんな場所に核弾頭を運び込んでどうするつもりだ？
+","[""<R=爆薬保管庫,イグルー>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可能只是个存放炸药的小型掩体，
+或者是某种研究设施。","[""可能只是个存放炸药的小型掩体，\n或者是某种研究设施。""]","Could just be a storage igloo for
+explosives, or maybe some kind of
+research facility.
+","[""Could just be a storage igloo for\nexplosives, or maybe some kind of\nresearch facility.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#36; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,31,stream=0x371000;block=0xAD0;text=31,"[""stream=0x371000;block=0xAD0;text=31""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","そうなると、山の内側を施設に利用してる可能性が
+高い。単なる<R=爆薬保管庫,イグルー>か、何かの研究施設か。
+","そんな場所に核弾頭を運び込んでどうするつもりだ？
+","スネーク、まずは村の北にあるバリケードだ。
+荒っぽいが爆破するしかなさそうだ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们把核弹运到那里，到底想干什么？,"[""他们把核弹运到那里，到底想干什么？""]","What do they hope to accomplish by
+bringing the nukes there?
+","[""What do they hope to accomplish by\nbringing the nukes there?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x371AD0; ENG blocks=0x389770; ENG source rows=0x389770#37; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_371AD0,32,stream=0x371000;block=0xAD0;text=32,"[""stream=0x371000;block=0xAD0;text=32""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","そんな場所に核弾頭を運び込んでどうするつもりだ？
+","スネーク、まずは村の北にあるバリケードだ。
+荒っぽいが爆破するしかなさそうだ。
+",,[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"先办正事。突破村子北面的路障。看来唯一能通过的办法就是弄
+出大动静——你得把它炸开。","[""先办正事。突破村子北面的路障。看来唯一能通过的办法就是弄\n出大动静——你得把它炸开。""]","First things first. Get past that barricade
+north of the village.
+Looks like the only way through is the
+noisy way - you'll have to blow it up.
+","[""First things first. Get past that barricade\nnorth of the village.\nLooks like the only way through is the\nnoisy way - you'll have to blow it up.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x371AD0; ENG blocks=0x389770,0x389770; ENG source rows=0x389770#38,0x389770#39; block_semantic_score=1.000000."

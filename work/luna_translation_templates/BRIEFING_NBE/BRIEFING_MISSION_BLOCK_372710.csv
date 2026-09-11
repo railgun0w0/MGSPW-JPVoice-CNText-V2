@@ -1,0 +1,41 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_372710,0,stream=0x372000;block=0x710;text=0,"[""stream=0x372000;block=0x710;text=0""]",1,BRIEFING MISSION,"[""stream=0x372000;block=0x710;block_file=0x372710;text_base=0x37274C;capacity=640""]",,"バリケードを爆破できそうなものはあるか？
+","いや…。どんなバリケードかにもよるが、強力な爆薬
+が必要だろうな。マザーベースでどうにかならないか？
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_372710,1,stream=0x372000;block=0x710;text=1,"[""stream=0x372000;block=0x710;text=1""]",1,BRIEFING MISSION,"[""stream=0x372000;block=0x710;block_file=0x372710;text_base=0x37274C;capacity=640""]","バリケードを爆破できそうなものはあるか？
+","いや…。どんなバリケードかにもよるが、強力な爆薬
+が必要だろうな。マザーベースでどうにかならないか？
+","研究開発班にC4を作らせるのはどうだ？
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_372710,2,stream=0x372000;block=0x710;text=2,"[""stream=0x372000;block=0x710;text=2""]",1,BRIEFING MISSION,"[""stream=0x372000;block=0x710;block_file=0x372710;text_base=0x37274C;capacity=640""]","いや…。どんなバリケードかにもよるが、強力な爆薬
+が必要だろうな。マザーベースでどうにかならないか？
+","研究開発班にC4を作らせるのはどうだ？
+","人手が足りないようならどこかで集めてくる必要があ
+るだろうが…。
+",[],,,NOT_CHECKED,54,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_372710,3,stream=0x372000;block=0x710;text=3,"[""stream=0x372000;block=0x710;text=3""]",1,BRIEFING MISSION,"[""stream=0x372000;block=0x710;block_file=0x372710;text_base=0x37274C;capacity=640""]","研究開発班にC4を作らせるのはどうだ？
+","人手が足りないようならどこかで集めてくる必要があ
+るだろうが…。
+","まずはマザーベースの状況を確認してみてくれ、スネ
+ーク。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_372710,4,stream=0x372000;block=0x710;text=4,"[""stream=0x372000;block=0x710;text=4""]",1,BRIEFING MISSION,"[""stream=0x372000;block=0x710;block_file=0x372710;text_base=0x37274C;capacity=640""]","人手が足りないようならどこかで集めてくる必要があ
+るだろうが…。
+","まずはマザーベースの状況を確認してみてくれ、スネ
+ーク。
+","スネーク、山岳へ向かうためには村のゲートを破壊し
+て北上する必要がある。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_372710,5,stream=0x372000;block=0x710;text=5,"[""stream=0x372000;block=0x710;text=5""]",1,BRIEFING MISSION,"[""stream=0x372000;block=0x710;block_file=0x372710;text_base=0x37274C;capacity=640""]","まずはマザーベースの状況を確認してみてくれ、スネ
+ーク。
+","スネーク、山岳へ向かうためには村のゲートを破壊し
+て北上する必要がある。
+","ゲートの破壊にはC4爆弾が必要だ。C4爆弾を入手す
+るんだ。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_372710,6,stream=0x372000;block=0x710;text=6,"[""stream=0x372000;block=0x710;text=6""]",1,BRIEFING MISSION,"[""stream=0x372000;block=0x710;block_file=0x372710;text_base=0x37274C;capacity=640""]","スネーク、山岳へ向かうためには村のゲートを破壊し
+て北上する必要がある。
+","ゲートの破壊にはC4爆弾が必要だ。C4爆弾を入手す
+るんだ。
+",,[],,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

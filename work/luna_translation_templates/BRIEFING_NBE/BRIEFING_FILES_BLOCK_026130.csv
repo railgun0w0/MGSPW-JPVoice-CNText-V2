@@ -1,0 +1,38 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_026130,0,stream=0x26000;block=0x130;text=0,"[""stream=0x26000;block=0x130;text=0""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x130;block_file=0x26130;text_base=0x26164;capacity=448""]",,"太平洋側の山地みたいに、はっきりした乾期があるところ
+では、熱帯乾燥林になる。
+","乾期の間は、木が葉を落としてしまう。見通しはいいけど、
+逆に身を隠す場所が少ないから気をつけて。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有明显旱季的地区，
+比如太平洋沿岸，有热带干旱林。","[""有明显旱季的地区，\n比如太平洋沿岸，有热带干旱林。""]","Areas with a distinct dry season, like the Pacific
+coast, have tropical dry forests.
+","[""Areas with a distinct dry season, like the Pacific\ncoast, have tropical dry forests.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26130; ENG blocks=0xB78C0; ENG source rows=0xB78C0#0; block_semantic_score=0.187043.
+BRIEFING_FILES_BLOCK_026130,1,stream=0x26000;block=0x130;text=1,"[""stream=0x26000;block=0x130;text=1""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x130;block_file=0x26130;text_base=0x26164;capacity=448""]","太平洋側の山地みたいに、はっきりした乾期があるところ
+では、熱帯乾燥林になる。
+","乾期の間は、木が葉を落としてしまう。見通しはいいけど、
+逆に身を隠す場所が少ないから気をつけて。
+","殺風景だな。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在旱季，树木会落叶。视野会更清晰，但同时可藏身的地方也
+更少，所以要小心。","[""在旱季，树木会落叶。视野会更清晰，但同时可藏身的地方也\n更少，所以要小心。""]","During the dry season, the trees drop their leaves.
+It gives you a clearer view,
+but at the same time there are fewer places to
+hide, so be careful.
+","[""During the dry season, the trees drop their leaves.\nIt gives you a clearer view,\nbut at the same time there are fewer places to\nhide, so be careful.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x26130; ENG blocks=0xB78C0,0xB78C0; ENG source rows=0xB78C0#1,0xB78C0#2; block_semantic_score=0.187043."
+BRIEFING_FILES_BLOCK_026130,2,stream=0x26000;block=0x130;text=2,"[""stream=0x26000;block=0x130;text=2""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x130;block_file=0x26130;text_base=0x26164;capacity=448""]","乾期の間は、木が葉を落としてしまう。見通しはいいけど、
+逆に身を隠す場所が少ないから気をつけて。
+","殺風景だな。
+","そうでもない。乾期に花を付ける木も多いから。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听起来很无聊。,"[""听起来很无聊。""]","Sounds dull.
+","[""Sounds dull.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26130; ENG blocks=0xB78C0; ENG source rows=0xB78C0#3; block_semantic_score=0.187043.
+BRIEFING_FILES_BLOCK_026130,3,stream=0x26000;block=0x130;text=3,"[""stream=0x26000;block=0x130;text=3""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x130;block_file=0x26130;text_base=0x26164;capacity=448""]","殺風景だな。
+","そうでもない。乾期に花を付ける木も多いから。
+","私の好きなタブベイアもその一つ。黄色い花は、とっても
+鮮やかよ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,其实不是。很多树木在旱季开花。,"[""其实不是。很多树木在旱季开花。""]","It is not, really. A lot of trees flower during the dry
+season.
+","[""It is not, really. A lot of trees flower during the dry\nseason.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26130; ENG blocks=0xB78C0; ENG source rows=0xB78C0#4; block_semantic_score=0.187043.
+BRIEFING_FILES_BLOCK_026130,4,stream=0x26000;block=0x130;text=4,"[""stream=0x26000;block=0x130;text=4""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x130;block_file=0x26130;text_base=0x26164;capacity=448""]","そうでもない。乾期に花を付ける木も多いから。
+","私の好きなタブベイアもその一つ。黄色い花は、とっても
+鮮やかよ。
+",,[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它的花朵是极其鲜艳的黄色。,"[""它的花朵是极其鲜艳的黄色。""]","It has these amazingly vivid yellow flowers.
+","[""It has these amazingly vivid yellow flowers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x26130; ENG blocks=0xB78C0; ENG source rows=0xB78C0#6; block_semantic_score=0.187043.

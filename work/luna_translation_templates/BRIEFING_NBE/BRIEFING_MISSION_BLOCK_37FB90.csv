@@ -1,0 +1,186 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37FB90,0,stream=0x37F000;block=0xB90;text=0,"[""stream=0x37F000;block=0xB90;text=0""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]",,"少し、相談したいことがあるんだが。
+…ボス？
+","どうした、改まって。
+",[],,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有件事我需要和你商量，Boss…,"[""有件事我需要和你商量，Boss…""]","There's something I need to discuss with
+you, Boss...
+","[""There's something I need to discuss with\nyou, Boss...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#0; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,1,stream=0x37F000;block=0xB90;text=1,"[""stream=0x37F000;block=0xB90;text=1""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","少し、相談したいことがあるんだが。
+…ボス？
+","どうした、改まって。
+","<R=ニカラグア湖,ラゴ・コシボルカ>から、ピースウォーカーに積まれていた
+核弾頭を引き上げた。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有话直说，Kaz。,"[""有话直说，Kaz。""]","Get to the point, Kaz.
+","[""Get to the point, Kaz.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#1; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,2,stream=0x37F000;block=0xB90;text=2,"[""stream=0x37F000;block=0xB90;text=2""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","どうした、改まって。
+","<R=ニカラグア湖,ラゴ・コシボルカ>から、ピースウォーカーに積まれていた
+核弾頭を引き上げた。
+","何だって？
+","[""<R=ニカラグア湖,ラゴ・コシボルカ>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们回收了装载在和平
+行者上的核弹头，从科西沃尔卡湖底打捞上来的。","[""我们回收了装载在和平\n行者上的核弹头，从科西沃尔卡湖底打捞上来的。""]","We recovered the nuclear warhead that
+was loaded onto Peace Walker
+from the bottom of Lago Cocibolca.
+","[""We recovered the nuclear warhead that\nwas loaded onto Peace Walker\nfrom the bottom of Lago Cocibolca.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37FB90; ENG blocks=0x394F90,0x394F90; ENG source rows=0x394F90#2,0x394F90#3; block_semantic_score=0.188961."
+BRIEFING_MISSION_BLOCK_37FB90,3,stream=0x37F000;block=0xB90;text=3,"[""stream=0x37F000;block=0xB90;text=3""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","<R=ニカラグア湖,ラゴ・コシボルカ>から、ピースウォーカーに積まれていた
+核弾頭を引き上げた。
+","何だって？
+","核弾頭は放射性物質の塊だ。
+比較的安定した状態にあるといってもな。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？,"[""什么？""]","What?
+","[""What?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#4; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,4,stream=0x37F000;block=0xB90;text=4,"[""stream=0x37F000;block=0xB90;text=4""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","何だって？
+","核弾頭は放射性物質の塊だ。
+比較的安定した状態にあるといってもな。
+","いつまでも湖の底に放置しておけば、湖が汚染される。
+それに、テロリストの手に渡ったりしたら…。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"核弹头都有放射性，
+即便它们相对稳定。","[""核弹头都有放射性，\n即便它们相对稳定。""]","Warheads are radioactive, even if they're
+relatively stable.
+","[""Warheads are radioactive, even if they're\nrelatively stable.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#5; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,5,stream=0x37F000;block=0xB90;text=5,"[""stream=0x37F000;block=0xB90;text=5""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","核弾頭は放射性物質の塊だ。
+比較的安定した状態にあるといってもな。
+","いつまでも湖の底に放置しておけば、湖が汚染される。
+それに、テロリストの手に渡ったりしたら…。
+","新たな危機を生む…。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果就那样留在湖里，会污染湖水，,"[""如果就那样留在湖里，会污染湖水，""]","If we just left it there it would
+contaminate the lake,
+","[""If we just left it there it would\ncontaminate the lake,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#6; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,6,stream=0x37F000;block=0xB90;text=6,"[""stream=0x37F000;block=0xB90;text=6""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","いつまでも湖の底に放置しておけば、湖が汚染される。
+それに、テロリストの手に渡ったりしたら…。
+","新たな危機を生む…。
+","ああ。
+だから、<R=米政府,ホワイトハウス>がどうケツ拭くか迷ってるうちに、
+俺の方で、手を打たせてもらった。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…从而制造又一场危机。,"[""…从而制造又一场危机。""]","...Creating another crisis.
+","[""...Creating another crisis.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#8; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,7,stream=0x37F000;block=0xB90;text=7,"[""stream=0x37F000;block=0xB90;text=7""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","新たな危機を生む…。
+","ああ。
+だから、<R=米政府,ホワイトハウス>がどうケツ拭くか迷ってるうちに、
+俺の方で、手を打たせてもらった。
+","だが、回収した弾頭をどうするつもりだ？
+","[""<R=米政府,ホワイトハウス>""]",,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。所以趁白宫还在
+琢磨怎么给自己擦屁股，","[""没错。所以趁白宫还在\n琢磨怎么给自己擦屁股，""]","Right. So while the White House is
+figuring out how to cover its ass,
+","[""Right. So while the White House is\nfiguring out how to cover its ass,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#9; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,8,stream=0x37F000;block=0xB90;text=8,"[""stream=0x37F000;block=0xB90;text=8""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","ああ。
+だから、<R=米政府,ホワイトハウス>がどうケツ拭くか迷ってるうちに、
+俺の方で、手を打たせてもらった。
+","だが、回収した弾頭をどうするつもりだ？
+","<R=ZEKE,ジーク>に搭載する。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想我们得先采取一些预防措施。,"[""我想我们得先采取一些预防措施。""]","I thought we'd take some precautions.
+","[""I thought we'd take some precautions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#10; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,9,stream=0x37F000;block=0xB90;text=9,"[""stream=0x37F000;block=0xB90;text=9""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","だが、回収した弾頭をどうするつもりだ？
+","<R=ZEKE,ジーク>に搭載する。
+","何だって…！
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,把它装到ZEKE上。,"[""把它装到ZEKE上。""]","Load it onto ZEKE.
+","[""Load it onto ZEKE.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#12; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,10,stream=0x37F000;block=0xB90;text=10,"[""stream=0x37F000;block=0xB90;text=10""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","<R=ZEKE,ジーク>に搭載する。
+","何だって…！
+","当然だろう。
+<R=ZEKE,ジーク>は俺達が国家の干渉から逃れるための
+『抑止力』でなきゃならない。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？,"[""什么？""]","What?
+","[""What?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#13; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,11,stream=0x37F000;block=0xB90;text=11,"[""stream=0x37F000;block=0xB90;text=11""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","何だって…！
+","当然だろう。
+<R=ZEKE,ジーク>は俺達が国家の干渉から逃れるための
+『抑止力』でなきゃならない。
+","核による脅しに屈しないためには、
+俺達自身が、核を持つしかない。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不然还能拿它做什么？
+ZEKE就是我们的威慑力量。","[""不然还能拿它做什么？\nZEKE就是我们的威慑力量。""]","What else would we do with it? ZEKE is
+our deterrent.
+","[""What else would we do with it? ZEKE is\nour deterrent.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#14; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,12,stream=0x37F000;block=0xB90;text=12,"[""stream=0x37F000;block=0xB90;text=12""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","当然だろう。
+<R=ZEKE,ジーク>は俺達が国家の干渉から逃れるための
+『抑止力』でなきゃならない。
+","核による脅しに屈しないためには、
+俺達自身が、核を持つしかない。
+","もちろん、あんたが望まないなら、廃棄もできる。
+だがそうなったら、新たな核を手に入れるのは困難だ。
+これは俺達にとって、貴重なチャンスなんだ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要抵御核攻击，
+我们自己也得有核武器。","[""要抵御核攻击，\n我们自己也得有核武器。""]","To protect ourselves from nuclear attack,
+we need a nuclear weapon ourselves.
+","[""To protect ourselves from nuclear attack,\nwe need a nuclear weapon ourselves.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#15; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,13,stream=0x37F000;block=0xB90;text=13,"[""stream=0x37F000;block=0xB90;text=13""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","核による脅しに屈しないためには、
+俺達自身が、核を持つしかない。
+","もちろん、あんたが望まないなら、廃棄もできる。
+だがそうなったら、新たな核を手に入れるのは困難だ。
+これは俺達にとって、貴重なチャンスなんだ。
+","…廃棄はいつだってできる。荒っぽくてもいいなら、
+漁船に乗せて、外海にでも放ってくればいいんだ。
+誰も気づきゃしない。
+",[],,,NOT_CHECKED,210,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当然，如果你不同意，
+我们也可以随时把它处理掉。但再搞一颗核弹可不容易。
+这是个千载难逢的机会。…我们以后随时可以处理掉它——把它装","[""当然，如果你不同意，\n我们也可以随时把它处理掉。但再搞一颗核弹可不容易。\n这是个千载难逢的机会。…我们以后随时可以处理掉它——把它装""]","Of course, if you're not on board, we
+could always dispose of it.
+But it won't be easy getting another
+nuke. This is a golden opportunity.
+...We could always get rid of it later - load
+","[""Of course, if you're not on board, we\ncould always dispose of it.\nBut it won't be easy getting another\nnuke. This is a golden opportunity.\n...We could always get rid of it later - load\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x37FB90; ENG blocks=0x394F90,0x394F90,0x394F90; ENG source rows=0x394F90#16,0x394F90#17,0x394F90#18; block_semantic_score=0.188961."
+BRIEFING_MISSION_BLOCK_37FB90,14,stream=0x37F000;block=0xB90;text=14,"[""stream=0x37F000;block=0xB90;text=14""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","もちろん、あんたが望まないなら、廃棄もできる。
+だがそうなったら、新たな核を手に入れるのは困難だ。
+これは俺達にとって、貴重なチャンスなんだ。
+","…廃棄はいつだってできる。荒っぽくてもいいなら、
+漁船に乗せて、外海にでも放ってくればいいんだ。
+誰も気づきゃしない。
+","だが、それでも廃棄するというならボス、
+あんたの命令に従うよ。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,到某条渔船上，丢在大洋中央。,"[""到某条渔船上，丢在大洋中央。""]","it onto some fishing boat and leave it out
+in the middle of the ocean.
+","[""it onto some fishing boat and leave it out\nin the middle of the ocean.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#19; block_semantic_score=0.188961.
+BRIEFING_MISSION_BLOCK_37FB90,15,stream=0x37F000;block=0xB90;text=15,"[""stream=0x37F000;block=0xB90;text=15""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","…廃棄はいつだってできる。荒っぽくてもいいなら、
+漁船に乗せて、外海にでも放ってくればいいんだ。
+誰も気づきゃしない。
+","だが、それでも廃棄するというならボス、
+あんたの命令に従うよ。
+","いや、いい。
+核という力が世界に存在している限り、
+俺達が国家と対等であるために、こいつは必要だ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没人会知道它在那里。但如果你想处理掉它，
+Boss，我们就处理掉。","[""没人会知道它在那里。但如果你想处理掉它，\nBoss，我们就处理掉。""]","No one would ever know it's there.
+But if you want to get rid of it, Boss, we'll
+get rid of it.
+","[""No one would ever know it's there.\nBut if you want to get rid of it, Boss, we'll\nget rid of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37FB90; ENG blocks=0x394F90,0x394F90; ENG source rows=0x394F90#20,0x394F90#21; block_semantic_score=0.188961."
+BRIEFING_MISSION_BLOCK_37FB90,16,stream=0x37F000;block=0xB90;text=16,"[""stream=0x37F000;block=0xB90;text=16""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","だが、それでも廃棄するというならボス、
+あんたの命令に従うよ。
+","いや、いい。
+核という力が世界に存在している限り、
+俺達が国家と対等であるために、こいつは必要だ。
+","そうさボス！　俺達は国家に属さないからこそ、
+国家と対等な存在でなくてはならないんだ。
+",[],,,NOT_CHECKED,144,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不…别。只要这个世界上还有核武器，我们要成为世界大国，
+自己也得有一颗。","[""不…别。只要这个世界上还有核武器，我们要成为世界大国，\n自己也得有一颗。""]","No... Don't. As long as there are nukes
+out there,
+we need one ourselves if we're going to
+be a world power.
+","[""No... Don't. As long as there are nukes\nout there,\nwe need one ourselves if we're going to\nbe a world power.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37FB90; ENG blocks=0x394F90,0x394F90; ENG source rows=0x394F90#22,0x394F90#23; block_semantic_score=0.188961."
+BRIEFING_MISSION_BLOCK_37FB90,17,stream=0x37F000;block=0xB90;text=17,"[""stream=0x37F000;block=0xB90;text=17""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","いや、いい。
+核という力が世界に存在している限り、
+俺達が国家と対等であるために、こいつは必要だ。
+","そうさボス！　俺達は国家に属さないからこそ、
+国家と対等な存在でなくてはならないんだ。
+","つまり、MSFもある意味では“国”だ。
+そして俺達は、世界で第7の核保有国になった。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我就知道你会这么想，Boss！只要我们独立于各国之外，
+就需要有东西让我们与它们平起平坐。","[""我就知道你会这么想，Boss！只要我们独立于各国之外，\n就需要有东西让我们与它们平起平坐。""]","I knew you'd see it that way, Boss!
+So long as we stand apart from nations,
+we need something to put us on equal
+footing.
+","[""I knew you'd see it that way, Boss!\nSo long as we stand apart from nations,\nwe need something to put us on equal\nfooting.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37FB90; ENG blocks=0x394F90,0x394F90; ENG source rows=0x394F90#24,0x394F90#25; block_semantic_score=0.188961."
+BRIEFING_MISSION_BLOCK_37FB90,18,stream=0x37F000;block=0xB90;text=18,"[""stream=0x37F000;block=0xB90;text=18""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","そうさボス！　俺達は国家に属さないからこそ、
+国家と対等な存在でなくてはならないんだ。
+","つまり、MSFもある意味では“国”だ。
+そして俺達は、世界で第7の核保有国になった。
+","核保有国か…。
+",[],,,NOT_CHECKED,117,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从某种意义上说，无国界之师（MSF）
+本身就是一个国家。而我们刚刚成为世界上第七个核大国。","[""从某种意义上说，无国界之师（MSF）\n本身就是一个国家。而我们刚刚成为世界上第七个核大国。""]","In a way, MSF is a country itself.
+And we just became the world's seventh
+nuclear power.
+","[""In a way, MSF is a country itself.\nAnd we just became the world's seventh\nnuclear power.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37FB90; ENG blocks=0x394F90,0x394F90; ENG source rows=0x394F90#26,0x394F90#27; block_semantic_score=0.188961."
+BRIEFING_MISSION_BLOCK_37FB90,19,stream=0x37F000;block=0xB90;text=19,"[""stream=0x37F000;block=0xB90;text=19""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","つまり、MSFもある意味では“国”だ。
+そして俺達は、世界で第7の核保有国になった。
+","核保有国か…。
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,核大国…,"[""核大国…""]","Nuclear power...
+","[""Nuclear power...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37FB90; ENG blocks=0x394F90; ENG source rows=0x394F90#28; block_semantic_score=0.188961.

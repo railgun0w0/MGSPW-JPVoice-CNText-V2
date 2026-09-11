@@ -1,0 +1,35 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_025B50,0,stream=0x25000;block=0xB50;text=0,"[""stream=0x25000;block=0xB50;text=0""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xB50;block_file=0x25B50;text_base=0x25B80;capacity=452""]",,"一口にコスタリカの森と言っても、いろいろある。全部が
+いわゆる熱帯雨林ではないの。
+","コスタリカは確かに赤道に近いけど、山も多いから。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加的森林比你
+想象的要多样化得多。并非所有都是热带雨林。","[""哥斯达黎加的森林比你\n想象的要多样化得多。并非所有都是热带雨林。""]","Costa Rica's forests are more diverse than you
+might expect.
+Not all of them are tropical rain forests.
+","[""Costa Rica's forests are more diverse than you\nmight expect.\nNot all of them are tropical rain forests.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x25B50; ENG blocks=0xB71F0,0xB71F0; ENG source rows=0xB71F0#0,0xB71F0#1; block_semantic_score=0.256527."
+BRIEFING_FILES_BLOCK_025B50,1,stream=0x25000;block=0xB50;text=1,"[""stream=0x25000;block=0xB50;text=1""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xB50;block_file=0x25B50;text_base=0x25B80;capacity=452""]","一口にコスタリカの森と言っても、いろいろある。全部が
+いわゆる熱帯雨林ではないの。
+","コスタリカは確かに赤道に近いけど、山も多いから。
+","そうだろうな。標高が4,000フィート上がれば、気温は
+7℃以上も下がる。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加确实靠近赤道，
+但同时也多山。","[""哥斯达黎加确实靠近赤道，\n但同时也多山。""]","Costa Rica is close to the Equator, it is true, but it
+is also very mountainous.
+","[""Costa Rica is close to the Equator, it is true, but it\nis also very mountainous.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25B50; ENG blocks=0xB71F0; ENG source rows=0xB71F0#2; block_semantic_score=0.256527.
+BRIEFING_FILES_BLOCK_025B50,2,stream=0x25000;block=0xB50;text=2,"[""stream=0x25000;block=0xB50;text=2""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xB50;block_file=0x25B50;text_base=0x25B80;capacity=452""]","コスタリカは確かに赤道に近いけど、山も多いから。
+","そうだろうな。標高が4,000フィート上がれば、気温は
+7℃以上も下がる。
+","低地に広がる熱帯雨林。高地の熱帯雲霧林。それと、乾期
+がある地域では熱帯乾燥林ね。大まかにはこの三つ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"海拔每升高4000英尺，
+温度就会下降超过七度。","[""海拔每升高4000英尺，\n温度就会下降超过七度。""]","Go up 4,000 feet in elevation and the temperature
+drops more than seven degrees.
+","[""Go up 4,000 feet in elevation and the temperature\ndrops more than seven degrees.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25B50; ENG blocks=0xB71F0; ENG source rows=0xB71F0#4; block_semantic_score=0.256527.
+BRIEFING_FILES_BLOCK_025B50,3,stream=0x25000;block=0xB50;text=3,"[""stream=0x25000;block=0xB50;text=3""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xB50;block_file=0x25B50;text_base=0x25B80;capacity=452""]","そうだろうな。標高が4,000フィート上がれば、気温は
+7℃以上も下がる。
+","低地に広がる熱帯雨林。高地の熱帯雲霧林。それと、乾期
+がある地域では熱帯乾燥林ね。大まかにはこの三つ。
+",,[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"低地覆盖着热带雨林，
+高地覆盖着热带云雾林。","[""低地覆盖着热带雨林，\n高地覆盖着热带云雾林。""]","The lowlands are covered in tropical rain forests,
+the highlands by tropical cloud forests.
+","[""The lowlands are covered in tropical rain forests,\nthe highlands by tropical cloud forests.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x25B50; ENG blocks=0xB71F0; ENG source rows=0xB71F0#6; block_semantic_score=0.256527.

@@ -1,0 +1,253 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_068550,0,stream=0x68000;block=0x550;text=0,"[""stream=0x68000;block=0x550;text=0""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]",,"スネーク、どうしよう？　もし、ピースウォーカーの核が、
+マザーベースへ発射されたら…。
+","落ち着け。それを防ぐために、MSFは全力を挙げてるんだ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们该怎么办，Snake？
+如果和平行者袭击母基地…","[""我们该怎么办，Snake？\n如果和平行者袭击母基地…""]","What are we going to do, Snake? If Peace Walker
+attacks Mother Base...
+","[""What are we going to do, Snake? If Peace Walker\nattacks Mother Base...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#0; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,1,stream=0x68000;block=0x550;text=1,"[""stream=0x68000;block=0x550;text=1""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","スネーク、どうしよう？　もし、ピースウォーカーの核が、
+マザーベースへ発射されたら…。
+","落ち着け。それを防ぐために、MSFは全力を挙げてるんだ。
+","だって…ピースウォーカーのミサイル弾頭は1Mt<R=級,クラス>なんだ
+よ。火球だけでも直径1.5kmを超える。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别紧张。我们出动了整个无国界之师
+（MSF）来确保不会发生那种事。","[""别紧张。我们出动了整个无国界之师\n（MSF）来确保不会发生那种事。""]","Relax. We've got the entire MSF out to make sure
+that doesn't happen.
+","[""Relax. We've got the entire MSF out to make sure\nthat doesn't happen.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#1; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,2,stream=0x68000;block=0x550;text=2,"[""stream=0x68000;block=0x550;text=2""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","落ち着け。それを防ぐために、MSFは全力を挙げてるんだ。
+","だって…ピースウォーカーのミサイル弾頭は1Mt<R=級,クラス>なんだ
+よ。火球だけでも直径1.5kmを超える。
+","強力な熱線で、爆心近くの物体は蒸発してしまう。それに
+時速数100キロの爆風。火災。そして…。
+","[""<R=級,クラス>""]",,,NOT_CHECKED,141,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,光是火球直径就有一英里。,"[""光是火球直径就有一英里。""]","The fireball alone'd be a mile in diameter.
+","[""The fireball alone'd be a mile in diameter.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#3; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,3,stream=0x68000;block=0x550;text=3,"[""stream=0x68000;block=0x550;text=3""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","だって…ピースウォーカーのミサイル弾頭は1Mt<R=級,クラス>なんだ
+よ。火球だけでも直径1.5kmを超える。
+","強力な熱線で、爆心近くの物体は蒸発してしまう。それに
+時速数100キロの爆風。火災。そして…。
+","初期核放射による大量被曝、か？
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,爆心附近的一切都会被热辐射蒸发。,"[""爆心附近的一切都会被热辐射蒸发。""]","Everything in the vicinity of ground zero will be
+vaporized by the heat rays.
+","[""Everything in the vicinity of ground zero will be\nvaporized by the heat rays.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#4; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,4,stream=0x68000;block=0x550;text=4,"[""stream=0x68000;block=0x550;text=4""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","強力な熱線で、爆心近くの物体は蒸発してしまう。それに
+時速数100キロの爆風。火災。そして…。
+","初期核放射による大量被曝、か？
+","そうさ。誰一人、生き残れやしない。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有初始核反应产生的大量辐射。,"[""还有初始核反应产生的大量辐射。""]","The huge dose of radiation from the initial nuclear
+reaction.
+","[""The huge dose of radiation from the initial nuclear\nreaction.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#7; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,5,stream=0x68000;block=0x550;text=5,"[""stream=0x68000;block=0x550;text=5""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","初期核放射による大量被曝、か？
+","そうさ。誰一人、生き残れやしない。
+","そんなことはわかってる。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对，还有那个。不会留下一个幸存者。,"[""对，还有那个。不会留下一个幸存者。""]","That too. There won't be a single survivor.
+","[""That too. There won't be a single survivor.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#8; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,6,stream=0x68000;block=0x550;text=6,"[""stream=0x68000;block=0x550;text=6""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","そうさ。誰一人、生き残れやしない。
+","そんなことはわかってる。
+","いいか博士。あれはお前が作った兵器だ。お前が一番、そ
+の威力を知っているはずだ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你比任何人都清楚它的能力。,"[""你比任何人都清楚它的能力。""]","You know better than anybody what it's capable of.
+","[""You know better than anybody what it's capable of.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#10; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,7,stream=0x68000;block=0x550;text=7,"[""stream=0x68000;block=0x550;text=7""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","そんなことはわかってる。
+","いいか博士。あれはお前が作った兵器だ。お前が一番、そ
+の威力を知っているはずだ。
+","まずは冷静に、科学的に被害を見積もってくれ。核爆発と
+もなれば、事はMSFだけの問題じゃなくなる。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"现在你得给我一个理性、
+科学的损害评估。","[""现在你得给我一个理性、\n科学的损害评估。""]","Right now you've got to give me a rational,
+scientific estimate of the damage.
+","[""Right now you've got to give me a rational,\nscientific estimate of the damage.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#11; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,8,stream=0x68000;block=0x550;text=8,"[""stream=0x68000;block=0x550;text=8""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","いいか博士。あれはお前が作った兵器だ。お前が一番、そ
+の威力を知っているはずだ。
+","まずは冷静に、科学的に被害を見積もってくれ。核爆発と
+もなれば、事はMSFだけの問題じゃなくなる。
+","そうだね…。ごめん、僕としたことが取り乱したよ。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果是核爆炸，那就不仅仅是
+无国界之师（MSF）的问题了。","[""如果是核爆炸，那就不仅仅是\n无国界之师（MSF）的问题了。""]","If we're talking about a nuclear explosion, it's more
+that just MSF's problem.
+","[""If we're talking about a nuclear explosion, it's more\nthat just MSF's problem.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#12; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,9,stream=0x68000;block=0x550;text=9,"[""stream=0x68000;block=0x550;text=9""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","まずは冷静に、科学的に被害を見積もってくれ。核爆発と
+もなれば、事はMSFだけの問題じゃなくなる。
+","そうだね…。ごめん、僕としたことが取り乱したよ。
+","さっきも言った通り、マザーベースは全滅するだろう。周
+囲の船舶も巻き込まれる恐れがある。警告しておく必要が
+あるだろうね。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就像我刚才说的，
+母基地会被彻底摧毁。","[""就像我刚才说的，\n母基地会被彻底摧毁。""]","Like I was saying, Mother Base would be wiped out.
+","[""Like I was saying, Mother Base would be wiped out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#14; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,10,stream=0x68000;block=0x550;text=10,"[""stream=0x68000;block=0x550;text=10""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","そうだね…。ごめん、僕としたことが取り乱したよ。
+","さっきも言った通り、マザーベースは全滅するだろう。周
+囲の船舶も巻き込まれる恐れがある。警告しておく必要が
+あるだろうね。
+","それと、厄介なのが<R=放射性降下物,フォールアウト>だ。
+",[],,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们得发出警告。,"[""我们得发出警告。""]","We'd need to send out a warning.
+","[""We'd need to send out a warning.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#16; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,11,stream=0x68000;block=0x550;text=11,"[""stream=0x68000;block=0x550;text=11""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","さっきも言った通り、マザーベースは全滅するだろう。周
+囲の船舶も巻き込まれる恐れがある。警告しておく必要が
+あるだろうね。
+","それと、厄介なのが<R=放射性降下物,フォールアウト>だ。
+","「<R=死の灰,フォールアウト>」…。
+","[""<R=放射性降下物,フォールアウト>""]",,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,最需要担心的是放射性沉降物。,"[""最需要担心的是放射性沉降物。""]","The thing to worry about most is the fallout.
+","[""The thing to worry about most is the fallout.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#17; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,12,stream=0x68000;block=0x550;text=12,"[""stream=0x68000;block=0x550;text=12""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","それと、厄介なのが<R=放射性降下物,フォールアウト>だ。
+","「<R=死の灰,フォールアウト>」…。
+","海上で爆発した場合、陸上爆発時より粒子が細かくなる分、
+死の灰は風に乗って広範囲に運ばれる。
+","[""<R=死の灰,フォールアウト>""]",,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,死亡之尘…,"[""死亡之尘…""]","The dust of death...
+","[""The dust of death...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#18; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,13,stream=0x68000;block=0x550;text=13,"[""stream=0x68000;block=0x550;text=13""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","「<R=死の灰,フォールアウト>」…。
+","海上で爆発した場合、陸上爆発時より粒子が細かくなる分、
+死の灰は風に乗って広範囲に運ばれる。
+","海水に含まれていた塩分が核となって雲ができ、死の灰を
+含む雨を風下に降らせる…。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果是在水面上爆炸，产生的颗粒会比在陆地上爆炸更小，所以风会把放射性沉降
+物吹到更广的区域。","[""如果是在水面上爆炸，产生的颗粒会比在陆地上爆炸更小，所以风会把放射性沉降\n物吹到更广的区域。""]","If it goes off over water,
+the particles will be smaller than with an explosion
+over land,
+so the wind will scatter the fallout over a wider
+area.
+","[""If it goes off over water,\nthe particles will be smaller than with an explosion\nover land,\nso the wind will scatter the fallout over a wider\narea.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x68550; ENG blocks=0xF4D90,0xF4D90,0xF4D90; ENG source rows=0xF4D90#19,0xF4D90#20,0xF4D90#21; block_semantic_score=0.249887."
+BRIEFING_FILES_BLOCK_068550,14,stream=0x68000;block=0x550;text=14,"[""stream=0x68000;block=0x550;text=14""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","海上で爆発した場合、陸上爆発時より粒子が細かくなる分、
+死の灰は風に乗って広範囲に運ばれる。
+","海水に含まれていた塩分が核となって雲ができ、死の灰を
+含む雨を風下に降らせる…。
+","ああ、身をもって味わった。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,云会以海水中的盐结晶为核心形成，导致受污染的雨水在下风处降落。,"[""云会以海水中的盐结晶为核心形成，导致受污染的雨水在下风处降落。""]","Clouds will form around the salt crystals in the
+seawater,
+causing contaminated rain to fall downwind.
+","[""Clouds will form around the salt crystals in the\nseawater,\ncausing contaminated rain to fall downwind.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x68550; ENG blocks=0xF4D90,0xF4D90; ENG source rows=0xF4D90#22,0xF4D90#23; block_semantic_score=0.249887."
+BRIEFING_FILES_BLOCK_068550,15,stream=0x68000;block=0x550;text=15,"[""stream=0x68000;block=0x550;text=15""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","海水に含まれていた塩分が核となって雲ができ、死の灰を
+含む雨を風下に降らせる…。
+","ああ、身をもって味わった。
+","ビキニ環礁で？　確かに<R=1954年の実験,キャッスル・ブラボー>では、風下500
+kmにわたって死の灰が降り注いだ。多くの住民や船舶が被
+曝したそうだ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，我自己就尝过那种滋味。,"[""是啊，我自己就尝过那种滋味。""]","Yeah, got a taste of that myself.
+","[""Yeah, got a taste of that myself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#24; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,16,stream=0x68000;block=0x550;text=16,"[""stream=0x68000;block=0x550;text=16""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","ああ、身をもって味わった。
+","ビキニ環礁で？　確かに<R=1954年の実験,キャッスル・ブラボー>では、風下500
+kmにわたって死の灰が降り注いだ。多くの住民や船舶が被
+曝したそうだ。
+","ピースウォーカーの核弾頭は、そこまで大きい威力ではな
+いけど、降下条件は気象によっても大きく左右される。甘
+く見積もっちゃだめだ。
+","[""<R=1954年の実験,キャッスル・ブラボー>""]",,,NOT_CHECKED,203,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错，1954年“城堡行动”
+布拉沃试验在下风方向300
+英里外产生了放射性沉降物。","[""没错，1954年“城堡行动”\n布拉沃试验在下风方向300\n英里外产生了放射性沉降物。""]","That's right, the 1954 Castle Bravo test created
+fallout 300 miles downwind.
+","[""That's right, the 1954 Castle Bravo test created\nfallout 300 miles downwind.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#26; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,17,stream=0x68000;block=0x550;text=17,"[""stream=0x68000;block=0x550;text=17""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","ビキニ環礁で？　確かに<R=1954年の実験,キャッスル・ブラボー>では、風下500
+kmにわたって死の灰が降り注いだ。多くの住民や船舶が被
+曝したそうだ。
+","ピースウォーカーの核弾頭は、そこまで大きい威力ではな
+いけど、降下条件は気象によっても大きく左右される。甘
+く見積もっちゃだめだ。
+","…貿易風に乗ったとすれば、その風下はコスタリカだ。
+",[],,,NOT_CHECKED,192,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但放射性沉降物的量很大
+程度上取决于天气条件。","[""但放射性沉降物的量很大\n程度上取决于天气条件。""]","but the amount of fallout will largely depend on
+weather conditions.
+","[""but the amount of fallout will largely depend on\nweather conditions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#29; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,18,stream=0x68000;block=0x550;text=18,"[""stream=0x68000;block=0x550;text=18""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","ピースウォーカーの核弾頭は、そこまで大きい威力ではな
+いけど、降下条件は気象によっても大きく左右される。甘
+く見積もっちゃだめだ。
+","…貿易風に乗ったとすれば、その風下はコスタリカだ。
+","コールドマンは「人足が増える」なんて悠長なことを言っ
+てたけど、そんなものじゃない。核への認識が甘すぎるん
+だ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…如果进入信风，
+可能会直接飘到哥斯达黎加。","[""…如果进入信风，\n可能会直接飘到哥斯达黎加。""]","...If it gets into the trade winds, it could come
+straight to Costa Rica.
+","[""...If it gets into the trade winds, it could come\nstraight to Costa Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#31; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,19,stream=0x68000;block=0x550;text=19,"[""stream=0x68000;block=0x550;text=19""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","…貿易風に乗ったとすれば、その風下はコスタリカだ。
+","コールドマンは「人足が増える」なんて悠長なことを言っ
+てたけど、そんなものじゃない。核への認識が甘すぎるん
+だ。
+","高濃度の死の灰を含む雨に打たれたら、外部被曝だけでも
+多くの死者が出るだろう。雨は土壌に染みこみ、飲み水や
+作物も汚染される。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Coldman当时说的是什么？
+关于让人们“自由地提供帮助”？他疯了。他以为会发生什么？","[""Coldman当时说的是什么？\n关于让人们“自由地提供帮助”？他疯了。他以为会发生什么？""]","What was it Coldman was saying? About leaving
+people ""free to help out""?
+He's out of his mind. What does he think's going to
+happen?
+","[""What was it Coldman was saying? About leaving\npeople \""free to help out\""?\nHe's out of his mind. What does he think's going to\nhappen?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x68550; ENG blocks=0xF4D90,0xF4D90; ENG source rows=0xF4D90#32,0xF4D90#33; block_semantic_score=0.249887."
+BRIEFING_FILES_BLOCK_068550,20,stream=0x68000;block=0x550;text=20,"[""stream=0x68000;block=0x550;text=20""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","コールドマンは「人足が増える」なんて悠長なことを言っ
+てたけど、そんなものじゃない。核への認識が甘すぎるん
+だ。
+","高濃度の死の灰を含む雨に打たれたら、外部被曝だけでも
+多くの死者が出るだろう。雨は土壌に染みこみ、飲み水や
+作物も汚染される。
+","それを口に入れてしまったら、今度は内部被曝が待ってい
+る。ストロンチウム90やセシウム137の半減期は30年前
+後。影響は一生続く。
+",[],,,NOT_CHECKED,186,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当含有高浓度放射性沉降
+物的雨水淋到他们身上时，光是外部照射就会让很多人丧命。雨水会渗入地下，污染水源和农作物。","[""当含有高浓度放射性沉降\n物的雨水淋到他们身上时，光是外部照射就会让很多人丧命。雨水会渗入地下，污染水源和农作物。""]","When they get hit by rain containing high
+concentrations of fallout,
+a lot of them will die from the external exposure
+alone.
+The rain will seep into the ground, contaminating
+the water supply and crops.
+","[""When they get hit by rain containing high\nconcentrations of fallout,\na lot of them will die from the external exposure\nalone.\nThe rain will seep into the ground, contaminating\nthe water supply and crops.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x68550; ENG blocks=0xF4D90,0xF4D90,0xF4D90; ENG source rows=0xF4D90#34,0xF4D90#35,0xF4D90#36; block_semantic_score=0.249887."
+BRIEFING_FILES_BLOCK_068550,21,stream=0x68000;block=0x550;text=21,"[""stream=0x68000;block=0x550;text=21""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","高濃度の死の灰を含む雨に打たれたら、外部被曝だけでも
+多くの死者が出るだろう。雨は土壌に染みこみ、飲み水や
+作物も汚染される。
+","それを口に入れてしまったら、今度は内部被曝が待ってい
+る。ストロンチウム90やセシウム137の半減期は30年前
+後。影響は一生続く。
+","白血病、白内障、皮膚炎、癌…生殖能力にも影響が出る。
+",[],,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,锶-90和铯-137的半衰期约为30年，,"[""锶-90和铯-137的半衰期约为30年，""]","Strontium-90 and cesium-137 have half-lives of
+around 30 years
+","[""Strontium-90 and cesium-137 have half-lives of\naround 30 years\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#38; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,22,stream=0x68000;block=0x550;text=22,"[""stream=0x68000;block=0x550;text=22""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","それを口に入れてしまったら、今度は内部被曝が待ってい
+る。ストロンチウム90やセシウム137の半減期は30年前
+後。影響は一生続く。
+","白血病、白内障、皮膚炎、癌…生殖能力にも影響が出る。
+","………そうだな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"白血病、白内障、皮炎、
+癌症…还会影响生育能力。","[""白血病、白内障、皮炎、\n癌症…还会影响生育能力。""]","Leukemia, cataracts, dermatitis, cancer... And it
+affects reproduction, too.
+","[""Leukemia, cataracts, dermatitis, cancer... And it\naffects reproduction, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#40; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,23,stream=0x68000;block=0x550;text=23,"[""stream=0x68000;block=0x550;text=23""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","白血病、白内障、皮膚炎、癌…生殖能力にも影響が出る。
+","………そうだな。
+","第二次大戦から30年近く経つけど、未だに原爆症で苦しむ
+人たちが大勢いる。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我知道。,"[""…我知道。""]","...I know.
+","[""...I know.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#41; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,24,stream=0x68000;block=0x550;text=24,"[""stream=0x68000;block=0x550;text=24""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","………そうだな。
+","第二次大戦から30年近く経つけど、未だに原爆症で苦しむ
+人たちが大勢いる。
+","コールドマンの「実証実験」とやらのために、そんな人を
+増やしていいわけがない。
+",[],,,NOT_CHECKED,106,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,即使在二战结束30年后的今天，仍有成千上万的人饱受核爆辐射之苦。,"[""即使在二战结束30年后的今天，仍有成千上万的人饱受核爆辐射之苦。""]","Even today, 30 years after World War II,
+thousands of people still suffer from exposure to
+the bomb.
+","[""Even today, 30 years after World War II,\nthousands of people still suffer from exposure to\nthe bomb.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x68550; ENG blocks=0xF4D90,0xF4D90; ENG source rows=0xF4D90#42,0xF4D90#43; block_semantic_score=0.249887."
+BRIEFING_FILES_BLOCK_068550,25,stream=0x68000;block=0x550;text=25,"[""stream=0x68000;block=0x550;text=25""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","第二次大戦から30年近く経つけど、未だに原爆症で苦しむ
+人たちが大勢いる。
+","コールドマンの「実証実験」とやらのために、そんな人を
+増やしていいわけがない。
+","…矛盾して聞こえるかもしれないけど、僕がピースウォー
+カーを作ったのは、二度とそんなことが起きないためだっ
+たのに。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们不能让Coldman为了证明自己的
+观点，再制造出更多这样的人。","[""我们不能让Coldman为了证明自己的\n观点，再制造出更多这样的人。""]","We can't let Coldman create more of them just to
+prove his point.
+","[""We can't let Coldman create more of them just to\nprove his point.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#44; block_semantic_score=0.249887.
+BRIEFING_FILES_BLOCK_068550,26,stream=0x68000;block=0x550;text=26,"[""stream=0x68000;block=0x550;text=26""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","コールドマンの「実証実験」とやらのために、そんな人を
+増やしていいわけがない。
+","…矛盾して聞こえるかもしれないけど、僕がピースウォー
+カーを作ったのは、二度とそんなことが起きないためだっ
+たのに。
+","わかった、博士。何としてもピースウォーカーを止めよう。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…我知道这听起来很疯狂，但我创造和平行者，
+就是为了让那种事情不再发生。","[""…我知道这听起来很疯狂，但我创造和平行者，\n就是为了让那种事情不再发生。""]","...I know it sounds crazy,
+but I created Peace Walker so that that kind of
+thing would never happen again.
+","[""...I know it sounds crazy,\nbut I created Peace Walker so that that kind of\nthing would never happen again.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x68550; ENG blocks=0xF4D90,0xF4D90; ENG source rows=0xF4D90#45,0xF4D90#46; block_semantic_score=0.249887."
+BRIEFING_FILES_BLOCK_068550,27,stream=0x68000;block=0x550;text=27,"[""stream=0x68000;block=0x550;text=27""]",1,BRIEFING FILES,"[""stream=0x68000;block=0x550;block_file=0x68550;text_base=0x685E0;capacity=3164""]","…矛盾して聞こえるかもしれないけど、僕がピースウォー
+カーを作ったのは、二度とそんなことが起きないためだっ
+たのに。
+","わかった、博士。何としてもピースウォーカーを止めよう。
+",,[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别担心，博士。
+我们无论如何都会阻止它。","[""别担心，博士。\n我们无论如何都会阻止它。""]","Don't worry, Doc. We'll stop it, one way or another.
+","[""Don't worry, Doc. We'll stop it, one way or another.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x68550; ENG blocks=0xF4D90; ENG source rows=0xF4D90#47; block_semantic_score=0.249887.

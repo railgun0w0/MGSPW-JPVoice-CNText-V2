@@ -1,0 +1,98 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_035660,0,stream=0x35000;block=0x660;text=0,"[""stream=0x35000;block=0x660;text=0""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]",,"<R=祖国,ニカラグア>の土地は、あたし達のものであって、あたし達のもの
+ではないの。
+","どういう事だ。
+","[""<R=祖国,ニカラグア>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们国家的土地属于我们，
+却又不属于我们。","[""我们国家的土地属于我们，\n却又不属于我们。""]","The land in our country belongs to us, and yet it
+doesn't belong to us.
+","[""The land in our country belongs to us, and yet it\ndoesn't belong to us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#0; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,1,stream=0x35000;block=0x660;text=1,"[""stream=0x35000;block=0x660;text=1""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","<R=祖国,ニカラグア>の土地は、あたし達のものであって、あたし達のもの
+ではないの。
+","どういう事だ。
+","海沿いはバナナ園だらけ。山側はコーヒー畑ばかり。まあ、
+<R=この辺,コスタリカ>もあまり変わらないけどね。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么说？,"[""怎么说？""]","How so?
+","[""How so?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#1; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,2,stream=0x35000;block=0x660;text=2,"[""stream=0x35000;block=0x660;text=2""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","どういう事だ。
+","海沿いはバナナ園だらけ。山側はコーヒー畑ばかり。まあ、
+<R=この辺,コスタリカ>もあまり変わらないけどね。
+","プランテーションだな。
+","[""<R=この辺,コスタリカ>""]",,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,沿海一带全是香蕉园，山区则是咖啡。,"[""沿海一带全是香蕉园，山区则是咖啡。""]","Along the coast, it is all banana groves. And in the
+mountains, it is coffee.
+","[""Along the coast, it is all banana groves. And in the\nmountains, it is coffee.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#2; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,3,stream=0x35000;block=0x660;text=3,"[""stream=0x35000;block=0x660;text=3""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","海沿いはバナナ園だらけ。山側はコーヒー畑ばかり。まあ、
+<R=この辺,コスタリカ>もあまり変わらないけどね。
+","プランテーションだな。
+","採れたバナナやコーヒーのほとんどは、輸出に回される。
+代金は地主が独占して、農民にはわずかなお金しか残らな
+い。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,种植园…,"[""种植园…""]","Plantations...
+","[""Plantations...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#4; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,4,stream=0x35000;block=0x660;text=4,"[""stream=0x35000;block=0x660;text=4""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","プランテーションだな。
+","採れたバナナやコーヒーのほとんどは、輸出に回される。
+代金は地主が独占して、農民にはわずかなお金しか残らな
+い。
+","しかも、一番の大地主は<R=蛙,ソモサ>一族ときてる。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"几乎所有的香蕉和咖啡都
+作为出口商品售出了。地主们把钱都装进自己口袋，
+留给农民的钱少得可怜。","[""几乎所有的香蕉和咖啡都\n作为出口商品售出了。地主们把钱都装进自己口袋，\n留给农民的钱少得可怜。""]","Almost all the bananas and coffee are sold as
+exports.
+The landlords keep the money for themselves,
+leaving precious little to the farmers.
+","[""Almost all the bananas and coffee are sold as\nexports.\nThe landlords keep the money for themselves,\nleaving precious little to the farmers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x35660; ENG blocks=0xC62D0,0xC62D0; ENG source rows=0xC62D0#5,0xC62D0#6; block_semantic_score=0.177783."
+BRIEFING_FILES_BLOCK_035660,5,stream=0x35000;block=0x660;text=5,"[""stream=0x35000;block=0x660;text=5""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","採れたバナナやコーヒーのほとんどは、輸出に回される。
+代金は地主が独占して、農民にはわずかなお金しか残らな
+い。
+","しかも、一番の大地主は<R=蛙,ソモサ>一族ときてる。
+","だが、外貨は稼げる。
+","[""<R=蛙,ソモサ>""]",,,NOT_CHECKED,72,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"更糟的是，国内最大的地主
+是索摩查和他的家族。","[""更糟的是，国内最大的地主\n是索摩查和他的家族。""]","Worse, the biggest landowners in the country are
+Somoza and his family.
+","[""Worse, the biggest landowners in the country are\nSomoza and his family.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#7; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,6,stream=0x35000;block=0x660;text=6,"[""stream=0x35000;block=0x660;text=6""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","しかも、一番の大地主は<R=蛙,ソモサ>一族ときてる。
+","だが、外貨は稼げる。
+","バナナの場合は、それすら怪しい。バナナ園を持ってるの
+が、アメリカの会社だからね。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但这样好歹能换来外汇…,"[""但这样好歹能换来外汇…""]","But it does bring in foreign currency...
+","[""But it does bring in foreign currency...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#8; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,7,stream=0x35000;block=0x660;text=7,"[""stream=0x35000;block=0x660;text=7""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","だが、外貨は稼げる。
+","バナナの場合は、それすら怪しい。バナナ園を持ってるの
+が、アメリカの会社だからね。
+","園内の工場でバナナを加工して、そのまま専用の港からア
+メリカへ輸出…。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"连外汇我都怀疑，至少香蕉是这样。
+那些种植园是美国公司拥有的。","[""连外汇我都怀疑，至少香蕉是这样。\n那些种植园是美国公司拥有的。""]","I doubt even that, at least for bananas. The
+plantations are owned by American corporations.
+","[""I doubt even that, at least for bananas. The\nplantations are owned by American corporations.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#9; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,8,stream=0x35000;block=0x660;text=8,"[""stream=0x35000;block=0x660;text=8""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","バナナの場合は、それすら怪しい。バナナ園を持ってるの
+が、アメリカの会社だからね。
+","園内の工場でバナナを加工して、そのまま専用の港からア
+メリカへ輸出…。
+","海沿いにアメリカの飛び地があるみたいなものよ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"香蕉在种植园里的工厂加工，
+然后从私人港口出口到美国…","[""香蕉在种植园里的工厂加工，\n然后从私人港口出口到美国…""]","The bananas are processed in factories on the
+plantations and exported to America from private
+ports...
+","[""The bananas are processed in factories on the\nplantations and exported to America from private\nports...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#10; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,9,stream=0x35000;block=0x660;text=9,"[""stream=0x35000;block=0x660;text=9""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","園内の工場でバナナを加工して、そのまま専用の港からア
+メリカへ輸出…。
+","海沿いにアメリカの飛び地があるみたいなものよ。
+","だが、農民はそこへ働きに行くしかない…。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"简直就像尼加拉瓜沿海
+圈出了一个个美国飞地。","[""简直就像尼加拉瓜沿海\n圈出了一个个美国飞地。""]","It's like having little American enclaves along the
+coast of Nicaragua.
+","[""It's like having little American enclaves along the\ncoast of Nicaragua.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#11; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,10,stream=0x35000;block=0x660;text=10,"[""stream=0x35000;block=0x660;text=10""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","海沿いにアメリカの飛び地があるみたいなものよ。
+","だが、農民はそこへ働きに行くしかない…。
+","馬鹿げてる。自分達の土地を取り戻さなきゃ。それもあた
+し達の目標の一つなの。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可农民们别无选择，只能去那里干活…,"[""可农民们别无选择，只能去那里干活…""]","But the farmers have no choice but to go work
+there...
+","[""But the farmers have no choice but to go work\nthere...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x35660; ENG blocks=0xC62D0; ENG source rows=0xC62D0#12; block_semantic_score=0.177783.
+BRIEFING_FILES_BLOCK_035660,11,stream=0x35000;block=0x660;text=11,"[""stream=0x35000;block=0x660;text=11""]",1,BRIEFING FILES,"[""stream=0x35000;block=0x660;block_file=0x35660;text_base=0x356B0;capacity=1076""]","だが、農民はそこへ働きに行くしかない…。
+","馬鹿げてる。自分達の土地を取り戻さなきゃ。それもあた
+し達の目標の一つなの。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真是荒谬！人民必须夺回自己的土地！这也是我们为之奋斗的目标之一。,"[""真是荒谬！人民必须夺回自己的土地！这也是我们为之奋斗的目标之一。""]","Es ridículo! The people have to take their land
+back.
+It is one of the things we're fighting for.
+","[""Es ridículo! The people have to take their land\nback.\nIt is one of the things we're fighting for.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x35660; ENG blocks=0xC62D0,0xC62D0; ENG source rows=0xC62D0#13,0xC62D0#14; block_semantic_score=0.177783."

@@ -1,0 +1,204 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_086E20,0,stream=0x86000;block=0xE20;text=0,"[""stream=0x86000;block=0xE20;text=0""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]",,"マザーベースでちょっとしたお祭りが行われることになっ
+た。
+","普段戦いに明け暮れているスネークたちが、年に一度くら
+いはゆっくりと平和な日を過ごそうという趣旨らしい。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"因为Snake和他的士兵们
+大部分时间都在战斗，","[""因为Snake和他的士兵们\n大部分时间都在战斗，""]","Since Snake and his soldiers spend so much time
+fighting,
+","[""Since Snake and his soldiers spend so much time\nfighting,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#1; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,1,stream=0x86000;block=0xE20;text=1,"[""stream=0x86000;block=0xE20;text=1""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","マザーベースでちょっとしたお祭りが行われることになっ
+た。
+","普段戦いに明け暮れているスネークたちが、年に一度くら
+いはゆっくりと平和な日を過ごそうという趣旨らしい。
+","話の経緯はよくわからないが、スネークとミラーの間でそ
+ういう話になったのだという。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们每年留出一天来享受和平与放松。,"[""他们每年留出一天来享受和平与放松。""]","they're setting aside one day a year for peace and
+relaxation.
+","[""they're setting aside one day a year for peace and\nrelaxation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#2; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,2,stream=0x86000;block=0xE20;text=2,"[""stream=0x86000;block=0xE20;text=2""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","普段戦いに明け暮れているスネークたちが、年に一度くら
+いはゆっくりと平和な日を過ごそうという趣旨らしい。
+","話の経緯はよくわからないが、スネークとミラーの間でそ
+ういう話になったのだという。
+","これにはみんなが賛成だった。娯楽の少ないマザーベース
+だけに、誰もがイベントは歓迎なのだろう。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不清楚所有细节，
+但显然这是Snake和Miller决定的。士兵们当然喜欢这个主意。","[""我不清楚所有细节，\n但显然这是Snake和Miller决定的。士兵们当然喜欢这个主意。""]","I do not know all the details, but apparently that is
+what Snake and Miller decided.
+The soldiers love the idea, of course.
+","[""I do not know all the details, but apparently that is\nwhat Snake and Miller decided.\nThe soldiers love the idea, of course.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x86E20; ENG blocks=0x112B00,0x112B00; ENG source rows=0x112B00#3,0x112B00#4; block_semantic_score=0.152676."
+BRIEFING_FILES_BLOCK_086E20,3,stream=0x86000;block=0xE20;text=3,"[""stream=0x86000;block=0xE20;text=3""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","話の経緯はよくわからないが、スネークとミラーの間でそ
+ういう話になったのだという。
+","これにはみんなが賛成だった。娯楽の少ないマザーベース
+だけに、誰もがイベントは歓迎なのだろう。
+","しかし、それはいいとして、いつの間にか私が歌を歌うこ
+とになっているとは…。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在这里能得到的乐趣太少了，
+所以大家都期待这样的活动。","[""在这里能得到的乐趣太少了，\n所以大家都期待这样的活动。""]","There is so little fun to be had here that
+everybody looks forward to events like these.
+","[""There is so little fun to be had here that\neverybody looks forward to events like these.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#5; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,4,stream=0x86000;block=0xE20;text=4,"[""stream=0x86000;block=0xE20;text=4""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","これにはみんなが賛成だった。娯楽の少ないマザーベース
+だけに、誰もがイベントは歓迎なのだろう。
+","しかし、それはいいとして、いつの間にか私が歌を歌うこ
+とになっているとは…。
+","「俺たちは名前が同じじゃないか。平和ってことで」とミ
+ラーは言った。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这固然很好，但我不知
+怎么就被拉去上台…","[""这固然很好，但我不知\n怎么就被拉去上台…""]","That is all well and good, but somehow I got roped
+into getting on stage...
+","[""That is all well and good, but somehow I got roped\ninto getting on stage...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#6; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,5,stream=0x86000;block=0xE20;text=5,"[""stream=0x86000;block=0xE20;text=5""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","しかし、それはいいとして、いつの間にか私が歌を歌うこ
+とになっているとは…。
+","「俺たちは名前が同じじゃないか。平和ってことで」とミ
+ラーは言った。
+","「あとザドルノフの奴も、平和にちなんだ名前だろ？」。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“来吧，我们俩的名字里都有
+‘和平’的意思，”Miller说。","[""“来吧，我们俩的名字里都有\n‘和平’的意思，”Miller说。""]","""C'mon, we even both have 'peace' in our names,""
+said Miller.
+","[""\""C'mon, we even both have 'peace' in our names,\""\nsaid Miller.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#7; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,6,stream=0x86000;block=0xE20;text=6,"[""stream=0x86000;block=0xE20;text=6""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","「俺たちは名前が同じじゃないか。平和ってことで」とミ
+ラーは言った。
+","「あとザドルノフの奴も、平和にちなんだ名前だろ？」。
+","「せっかくの平和の日だし、平和トリオってことでバンド
+でもやろうぜ」――というのがミラーの主張だった。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“还有Zadornov——那个俄国佬的
+名字也和和平有关，对吧？","[""“还有Zadornov——那个俄国佬的\n名字也和和平有关，对吧？""]","""And Zadornov - that old Russkie's name has
+something to do with peace, too, right?
+","[""\""And Zadornov - that old Russkie's name has\nsomething to do with peace, too, right?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#8; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,7,stream=0x86000;block=0xE20;text=7,"[""stream=0x86000;block=0xE20;text=7""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","「あとザドルノフの奴も、平和にちなんだ名前だろ？」。
+","「せっかくの平和の日だし、平和トリオってことでバンド
+でもやろうぜ」――というのがミラーの主張だった。
+","私の意見を確認もせず、ミラーはみんなにその話をしてし
+まっており、私が歌うことはすでに確定事項になっていた。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“嘿，既然我们要过和平日，
+不如一起搞个节目——和平三人乐队！”","[""“嘿，既然我们要过和平日，\n不如一起搞个节目——和平三人乐队！”""]","""Hey, as long as we're having a day of peace, we
+ought to get an act together - The Three Peace
+Band!""
+","[""\""Hey, as long as we're having a day of peace, we\nought to get an act together - The Three Peace\nBand!\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#9; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,8,stream=0x86000;block=0xE20;text=8,"[""stream=0x86000;block=0xE20;text=8""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","「せっかくの平和の日だし、平和トリオってことでバンド
+でもやろうぜ」――というのがミラーの主張だった。
+","私の意見を確認もせず、ミラーはみんなにその話をしてし
+まっており、私が歌うことはすでに確定事項になっていた。
+","どうやらミラーは、私が以前甲板で歌っていた声を耳にし
+て、それ以来バンドをやりたいと考えていたようだった。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后他就自顾自地把这个想法
+说了出去，都没问过我，
+现在我被安排要唱歌。","[""然后他就自顾自地把这个想法\n说了出去，都没问过我，\n现在我被安排要唱歌。""]","He then proceeded to share his idea without
+bothering to check with me, and now I am slated
+to sing.
+","[""He then proceeded to share his idea without\nbothering to check with me, and now I am slated\nto sing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#11; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,9,stream=0x86000;block=0xE20;text=9,"[""stream=0x86000;block=0xE20;text=9""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","私の意見を確認もせず、ミラーはみんなにその話をしてし
+まっており、私が歌うことはすでに確定事項になっていた。
+","どうやらミラーは、私が以前甲板で歌っていた声を耳にし
+て、それ以来バンドをやりたいと考えていたようだった。
+","兵士達の期待も高く、今さら断れそうにもない。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"显然，他有一天在甲板上听到我唱歌，
+从那以后就一直想组个乐队。","[""显然，他有一天在甲板上听到我唱歌，\n从那以后就一直想组个乐队。""]","Apparently, he had heard me on deck one day and
+since then he's wanted to form a band.
+","[""Apparently, he had heard me on deck one day and\nsince then he's wanted to form a band.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#12; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,10,stream=0x86000;block=0xE20;text=10,"[""stream=0x86000;block=0xE20;text=10""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","どうやらミラーは、私が以前甲板で歌っていた声を耳にし
+て、それ以来バンドをやりたいと考えていたようだった。
+","兵士達の期待も高く、今さら断れそうにもない。
+","人前で歌ったことなどないが、期待されるのは悪い気分で
+はなかった。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大家都期待着，
+所以我现在没法退出了。","[""大家都期待着，\n所以我现在没法退出了。""]","Everybody's looking forward to it, so there is no
+way for me to back out now.
+","[""Everybody's looking forward to it, so there is no\nway for me to back out now.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#13; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,11,stream=0x86000;block=0xE20;text=11,"[""stream=0x86000;block=0xE20;text=11""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","兵士達の期待も高く、今さら断れそうにもない。
+","人前で歌ったことなどないが、期待されるのは悪い気分で
+はなかった。
+","まあ、ミラーが歌うよりマシなのは明らかだろう。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我从来没做过这种事，
+但知道大家很期待，感觉还挺不错的。","[""我从来没做过这种事，\n但知道大家很期待，感觉还挺不错的。""]","I have never done anything like this, but it does
+feel kind of nice to know that people are looking
+forward to it.
+","[""I have never done anything like this, but it does\nfeel kind of nice to know that people are looking\nforward to it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#14; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,12,stream=0x86000;block=0xE20;text=12,"[""stream=0x86000;block=0xE20;text=12""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","人前で歌ったことなどないが、期待されるのは悪い気分で
+はなかった。
+","まあ、ミラーが歌うよりマシなのは明らかだろう。
+","けれど、<R=ZEKE,ジーク>の改造はすでに完了している。私は使命を
+果たさなくてはならない。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我是说，总不会比Miller唱得还差吧。,"[""我是说，总不会比Miller唱得还差吧。""]","I mean, it cannot be any worse than Miller's singing.
+","[""I mean, it cannot be any worse than Miller's singing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#15; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,13,stream=0x86000;block=0xE20;text=13,"[""stream=0x86000;block=0xE20;text=13""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","まあ、ミラーが歌うよりマシなのは明らかだろう。
+","けれど、<R=ZEKE,ジーク>の改造はすでに完了している。私は使命を
+果たさなくてはならない。
+","<R=CIPHER,サイファー>を裏切ったりすれば、私は死より恐ろしい絶望を
+味わうことになるだろう。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但ZEKE的改装已经敲定了，
+我必须完成我的任务。","[""但ZEKE的改装已经敲定了，\n我必须完成我的任务。""]","But modifications to ZEKE are already finalized, and
+I must complete my mission.
+","[""But modifications to ZEKE are already finalized, and\nI must complete my mission.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#16; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,14,stream=0x86000;block=0xE20;text=14,"[""stream=0x86000;block=0xE20;text=14""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","けれど、<R=ZEKE,ジーク>の改造はすでに完了している。私は使命を
+果たさなくてはならない。
+","<R=CIPHER,サイファー>を裏切ったりすれば、私は死より恐ろしい絶望を
+味わうことになるだろう。
+","でも…。
+","[""<R=CIPHER,サイファー>""]",,,NOT_CHECKED,130,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"现在背叛Cipher的话，
+我会面临比死亡更惨的命运。","[""现在背叛Cipher的话，\n我会面临比死亡更惨的命运。""]","Betray Cipher now, and I will face a fate far worse
+than death.
+","[""Betray Cipher now, and I will face a fate far worse\nthan death.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#17; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,15,stream=0x86000;block=0xE20;text=15,"[""stream=0x86000;block=0xE20;text=15""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","<R=CIPHER,サイファー>を裏切ったりすれば、私は死より恐ろしい絶望を
+味わうことになるだろう。
+","でも…。
+","今すぐ計画を実行に移さなくても良いはずだ。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但是…,"[""但是…""]","Still...
+","[""Still...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#18; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,16,stream=0x86000;block=0xE20;text=16,"[""stream=0x86000;block=0xE20;text=16""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","でも…。
+","今すぐ計画を実行に移さなくても良いはずだ。
+","少しぐらい決行を遅らせても問題はないのでは？
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在还不需要把计划付诸行动。,"[""现在还不需要把计划付诸行动。""]","There's no need to put things in motion just yet.
+","[""There's no need to put things in motion just yet.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#19; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,17,stream=0x86000;block=0xE20;text=17,"[""stream=0x86000;block=0xE20;text=17""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","今すぐ計画を実行に移さなくても良いはずだ。
+","少しぐらい決行を遅らせても問題はないのでは？
+","せっかくの平和の日…。それを待ってからでも良いのでは
+ないだろうか？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,再多等一会儿又有什么区别呢？,"[""再多等一会儿又有什么区别呢？""]","What difference would it make to just wait a little
+while longer?
+","[""What difference would it make to just wait a little\nwhile longer?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#20; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,18,stream=0x86000;block=0xE20;text=18,"[""stream=0x86000;block=0xE20;text=18""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","少しぐらい決行を遅らせても問題はないのでは？
+","せっかくの平和の日…。それを待ってからでも良いのでは
+ないだろうか？
+","もしかしたら、私は問題を先送りにしているだけかもしれ
+ない。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,整整一天的和平…,"[""整整一天的和平…""]","A whole day of peace...
+","[""A whole day of peace...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#21; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,19,stream=0x86000;block=0xE20;text=19,"[""stream=0x86000;block=0xE20;text=19""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","せっかくの平和の日…。それを待ってからでも良いのでは
+ないだろうか？
+","もしかしたら、私は問題を先送りにしているだけかもしれ
+ない。
+","その日が来れば、いずれにしても私かスネーク、そのどち
+らかが死ぬことになる。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,任务可以等到那之后再说，不是吗？我知道我只是在拖延不可避免的事。,"[""任务可以等到那之后再说，不是吗？我知道我只是在拖延不可避免的事。""]","The mission can wait until after that, can it not?
+I know I am only delaying the inevitable.
+","[""The mission can wait until after that, can it not?\nI know I am only delaying the inevitable.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x86E20; ENG blocks=0x112B00,0x112B00; ENG source rows=0x112B00#22,0x112B00#23; block_semantic_score=0.152676."
+BRIEFING_FILES_BLOCK_086E20,20,stream=0x86000;block=0xE20;text=20,"[""stream=0x86000;block=0xE20;text=20""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","もしかしたら、私は問題を先送りにしているだけかもしれ
+ない。
+","その日が来れば、いずれにしても私かスネーク、そのどち
+らかが死ぬことになる。
+","それでも…。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当那一天到来时，
+我们中必须有人死去——Snake或是我。","[""当那一天到来时，\n我们中必须有人死去——Snake或是我。""]","When the day comes, one of us will have to die -
+Snake or me.
+","[""When the day comes, one of us will have to die -\nSnake or me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#24; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,21,stream=0x86000;block=0xE20;text=21,"[""stream=0x86000;block=0xE20;text=21""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","その日が来れば、いずれにしても私かスネーク、そのどち
+らかが死ぬことになる。
+","それでも…。
+","せめて平和の日までは…。<R=CIPHER,サイファー>にはなんとか嘘をつけ
+ば…。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但还是…,"[""但还是…""]","But still...
+","[""But still...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#25; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,22,stream=0x86000;block=0xE20;text=22,"[""stream=0x86000;block=0xE20;text=22""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","それでも…。
+","せめて平和の日までは…。<R=CIPHER,サイファー>にはなんとか嘘をつけ
+ば…。
+","なぜかそんなことを、私は考え始めている…。
+","[""<R=CIPHER,サイファー>""]",,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我能想出什么办法拖延Cipher…
+至少等到我们的和平日…","[""如果我能想出什么办法拖延Cipher…\n至少等到我们的和平日…""]","If I could just come up with some way to stall
+Cipher... at least until our day of peace...
+","[""If I could just come up with some way to stall\nCipher... at least until our day of peace...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#26; block_semantic_score=0.152676.
+BRIEFING_FILES_BLOCK_086E20,23,stream=0x86000;block=0xE20;text=23,"[""stream=0x86000;block=0xE20;text=23""]",1,BRIEFING FILES,"[""stream=0x86000;block=0xE20;block_file=0x86E20;text_base=0x86EA0;capacity=2416""]","せめて平和の日までは…。<R=CIPHER,サイファー>にはなんとか嘘をつけ
+ば…。
+","なぜかそんなことを、私は考え始めている…。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我是什么时候开始有这样的想法的…？,"[""我是什么时候开始有这样的想法的…？""]","When did I start having thoughts like this...?
+","[""When did I start having thoughts like this...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x86E20; ENG blocks=0x112B00; ENG source rows=0x112B00#27; block_semantic_score=0.152676.

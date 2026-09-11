@@ -1,0 +1,77 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0517F0,0,stream=0x51000;block=0x7F0;text=0,"[""stream=0x51000;block=0x7F0;text=0""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]",,"AIが逆方向に進化するっていうのはどういうことだ？
+","大量の情報処理に特化した、システムとしてのAIだ。そこ
+には人間の知性も、思考も感情もない。
+",[],,,NOT_CHECKED,72,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,相反的方向…那是什么意思？,"[""相反的方向…那是什么意思？""]","The opposite direction... What does that mean?
+","[""The opposite direction... What does that mean?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x517F0; ENG blocks=0xDF350; ENG source rows=0xDF350#0; block_semantic_score=0.137949.
+BRIEFING_FILES_BLOCK_0517F0,1,stream=0x51000;block=0x7F0;text=1,"[""stream=0x51000;block=0x7F0;text=1""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","AIが逆方向に進化するっていうのはどういうことだ？
+","大量の情報処理に特化した、システムとしてのAIだ。そこ
+には人間の知性も、思考も感情もない。
+","個としての自我を確立するのではなく、集団として振る舞
+うことで、社会性を発揮する機械。
+",[],,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"越来越多的AI正在变成
+专门处理海量信息的系统——没有人类的智能、思想或情感。","[""越来越多的AI正在变成\n专门处理海量信息的系统——没有人类的智能、思想或情感。""]","More and more AI are becoming systems that
+specialize in mass information processing
+- without human intelligence, thought, or emotion.
+","[""More and more AI are becoming systems that\nspecialize in mass information processing\n- without human intelligence, thought, or emotion.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x517F0; ENG blocks=0xDF350,0xDF350; ENG source rows=0xDF350#1,0xDF350#2; block_semantic_score=0.137949."
+BRIEFING_FILES_BLOCK_0517F0,2,stream=0x51000;block=0x7F0;text=2,"[""stream=0x51000;block=0x7F0;text=2""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","大量の情報処理に特化した、システムとしてのAIだ。そこ
+には人間の知性も、思考も感情もない。
+","個としての自我を確立するのではなく、集団として振る舞
+うことで、社会性を発揮する機械。
+","ミツバチのように？
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一台没有个性或自我意识的机器，而是作为一个集体行动，
+展现出社会的特质。","[""一台没有个性或自我意识的机器，而是作为一个集体行动，\n展现出社会的特质。""]","A machine that has no individualism or sense of
+self,
+but rather behaves as a collective, exhibiting the
+qualities of a society.
+","[""A machine that has no individualism or sense of\nself,\nbut rather behaves as a collective, exhibiting the\nqualities of a society.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x517F0; ENG blocks=0xDF350,0xDF350; ENG source rows=0xDF350#3,0xDF350#4; block_semantic_score=0.137949."
+BRIEFING_FILES_BLOCK_0517F0,3,stream=0x51000;block=0x7F0;text=3,"[""stream=0x51000;block=0x7F0;text=3""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","個としての自我を確立するのではなく、集団として振る舞
+うことで、社会性を発揮する機械。
+","ミツバチのように？
+","そうだ。個々の集めた情報を総合して、集団の振る舞いを
+決定する。ミツバチが、巣と花畑を往復するように。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就像蜂巢？,"[""就像蜂巢？""]","Like a beehive?
+","[""Like a beehive?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x517F0; ENG blocks=0xDF350; ENG source rows=0xDF350#5; block_semantic_score=0.137949.
+BRIEFING_FILES_BLOCK_0517F0,4,stream=0x51000;block=0x7F0;text=4,"[""stream=0x51000;block=0x7F0;text=4""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","ミツバチのように？
+","そうだ。個々の集めた情報を総合して、集団の振る舞いを
+決定する。ミツバチが、巣と花畑を往復するように。
+","そのためには、AIのネットワーク化が重要になるだろう。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的。它汇集个体收集的数据，
+并决定集体将如何行动，","[""是的。它汇集个体收集的数据，\n并决定集体将如何行动，""]","Yes. It aggregates data collected by individuals and
+determines how the collective will act
+","[""Yes. It aggregates data collected by individuals and\ndetermines how the collective will act\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x517F0; ENG blocks=0xDF350; ENG source rows=0xDF350#6; block_semantic_score=0.137949.
+BRIEFING_FILES_BLOCK_0517F0,5,stream=0x51000;block=0x7F0;text=5,"[""stream=0x51000;block=0x7F0;text=5""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","そうだ。個々の集めた情報を総合して、集団の振る舞いを
+決定する。ミツバチが、巣と花畑を往復するように。
+","そのためには、AIのネットワーク化が重要になるだろう。
+","うまく言えないが…不気味だな。
+",[],,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,实现这一点的关键，是让AI彼此联网。,"[""实现这一点的关键，是让AI彼此联网。""]","The key to achieving that will be networking AI
+together.
+","[""The key to achieving that will be networking AI\ntogether.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x517F0; ENG blocks=0xDF350; ENG source rows=0xDF350#8; block_semantic_score=0.137949.
+BRIEFING_FILES_BLOCK_0517F0,6,stream=0x51000;block=0x7F0;text=6,"[""stream=0x51000;block=0x7F0;text=6""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","そのためには、AIのネットワーク化が重要になるだろう。
+","うまく言えないが…不気味だな。
+","だが、社会をコントロールするなら、こっちのほうが向い
+ている。流通させたい情報だけを透過できるんだから。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不知道该怎么说，但是…
+那有点让我毛骨悚然。","[""我不知道该怎么说，但是…\n那有点让我毛骨悚然。""]","I don't know how to say this, but... that kind of
+gives me the creeps.
+","[""I don't know how to say this, but... that kind of\ngives me the creeps.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x517F0; ENG blocks=0xDF350; ENG source rows=0xDF350#9; block_semantic_score=0.137949.
+BRIEFING_FILES_BLOCK_0517F0,7,stream=0x51000;block=0x7F0;text=7,"[""stream=0x51000;block=0x7F0;text=7""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","うまく言えないが…不気味だな。
+","だが、社会をコントロールするなら、こっちのほうが向い
+ている。流通させたい情報だけを透過できるんだから。
+","もっとも、そんなロマンのかけらもないAIに、私は興味が
+持てないけどね。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但如果你的目标是控制社会，
+那这是更好的模式。它可以让你筛选数据——
+只传播你想传播的内容。","[""但如果你的目标是控制社会，\n那这是更好的模式。它可以让你筛选数据——\n只传播你想传播的内容。""]","But if your goal is to control society, it's the better
+model to use.
+It lets you filter data - disseminate only what you
+want disseminated.
+","[""But if your goal is to control society, it's the better\nmodel to use.\nIt lets you filter data - disseminate only what you\nwant disseminated.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x517F0; ENG blocks=0xDF350,0xDF350; ENG source rows=0xDF350#10,0xDF350#11; block_semantic_score=0.137949."
+BRIEFING_FILES_BLOCK_0517F0,8,stream=0x51000;block=0x7F0;text=8,"[""stream=0x51000;block=0x7F0;text=8""]",1,BRIEFING FILES,"[""stream=0x51000;block=0x7F0;block_file=0x517F0;text_base=0x51834;capacity=904""]","だが、社会をコントロールするなら、こっちのほうが向い
+ている。流通させたい情報だけを透過できるんだから。
+","もっとも、そんなロマンのかけらもないAIに、私は興味が
+持てないけどね。
+",,[],,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当然，我本人对毫无生命
+气息的AI没有兴趣。","[""当然，我本人对毫无生命\n气息的AI没有兴趣。""]","Of course, I myself have no interest in an AI
+without a shred of life to it.
+","[""Of course, I myself have no interest in an AI\nwithout a shred of life to it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x517F0; ENG blocks=0xDF350; ENG source rows=0xDF350#12; block_semantic_score=0.137949.

@@ -1,0 +1,118 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_073590,0,stream=0x73000;block=0x590;text=0,"[""stream=0x73000;block=0x590;text=0""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]",,"『2001年宇宙の旅』という映画を知っているかい？
+","いや、知らないな。
+",[],,,NOT_CHECKED,68,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你看过电影《2001太空漫游》吗？,"[""你看过电影《2001太空漫游》吗？""]","You ever see the movie ""2001: A Space Odyssey""?
+","[""You ever see the movie \""2001: A Space Odyssey\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#0; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,1,stream=0x73000;block=0x590;text=1,"[""stream=0x73000;block=0x590;text=1""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","『2001年宇宙の旅』という映画を知っているかい？
+","いや、知らないな。
+","あれはいい映画だよ…宇宙の<R=特撮,SFX>もすごいけど、AIの描写
+も出色だった。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我没看过。,"[""我没看过。""]","Can't say I have.
+","[""Can't say I have.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#1; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,2,stream=0x73000;block=0x590;text=2,"[""stream=0x73000;block=0x590;text=2""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","いや、知らないな。
+","あれはいい映画だよ…宇宙の<R=特撮,SFX>もすごいけど、AIの描写
+も出色だった。
+","AIが？
+","[""<R=特撮,SFX>""]",,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"绝妙的电影…外太空
+特效已经够惊人了，但对AI的描绘才是真正出彩的地方。","[""绝妙的电影…外太空\n特效已经够惊人了，但对AI的描绘才是真正出彩的地方。""]","Fantastic flick... The outer space special effects
+are incredible enough,
+but the depiction of AI is what really stands out.
+","[""Fantastic flick... The outer space special effects\nare incredible enough,\nbut the depiction of AI is what really stands out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x73590; ENG blocks=0xFF720,0xFF720; ENG source rows=0xFF720#2,0xFF720#3; block_semantic_score=0.140735."
+BRIEFING_FILES_BLOCK_073590,3,stream=0x73000;block=0x590;text=3,"[""stream=0x73000;block=0x590;text=3""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","あれはいい映画だよ…宇宙の<R=特撮,SFX>もすごいけど、AIの描写
+も出色だった。
+","AIが？
+","ああ。HALって言うんだ。宇宙船を制御するAIだよ。物語
+上でも重要な役割を果たすんだ。
+",[],,,NOT_CHECKED,9,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,里面有AI？,"[""里面有AI？""]","There's an AI ?
+","[""There's an AI ?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#4; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,4,stream=0x73000;block=0x590;text=4,"[""stream=0x73000;block=0x590;text=4""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","AIが？
+","ああ。HALって言うんだ。宇宙船を制御するAIだよ。物語
+上でも重要な役割を果たすんだ。
+","ストレンジラブもこの映画が好きでね。彼女とコスタリカ
+で再会した時の話はしたかな？
+",[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对。一个叫HAL的航天器驾驶AI。
+它在故事中扮演重要角色。","[""对。一个叫HAL的航天器驾驶AI。\n它在故事中扮演重要角色。""]","Yeah. A spacecraft pilot AI called HAL. It plays a
+major role in the story.
+","[""Yeah. A spacecraft pilot AI called HAL. It plays a\nmajor role in the story.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#5; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,5,stream=0x73000;block=0x590;text=5,"[""stream=0x73000;block=0x590;text=5""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","ああ。HALって言うんだ。宇宙船を制御するAIだよ。物語
+上でも重要な役割を果たすんだ。
+","ストレンジラブもこの映画が好きでね。彼女とコスタリカ
+で再会した時の話はしたかな？
+","いや。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Dr. Strangelove也很喜欢它。我有没有跟你讲过我们在
+哥斯达黎加初次见面的事？","[""Dr. Strangelove也很喜欢它。我有没有跟你讲过我们在\n哥斯达黎加初次见面的事？""]","Dr. Strangelove loves it, too.
+Did I ever tell you about the time we first met up
+in Costa Rica?
+","[""Dr. Strangelove loves it, too.\nDid I ever tell you about the time we first met up\nin Costa Rica?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x73590; ENG blocks=0xFF720,0xFF720; ENG source rows=0xFF720#6,0xFF720#7; block_semantic_score=0.140735."
+BRIEFING_FILES_BLOCK_073590,6,stream=0x73000;block=0x590;text=6,"[""stream=0x73000;block=0x590;text=6""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","ストレンジラブもこの映画が好きでね。彼女とコスタリカ
+で再会した時の話はしたかな？
+","いや。
+","彼女は男嫌いだろ？　NASA以来の再会だって言うのに、
+全然話が弾まなかったんだけど…HALの話をしたら、急に
+雄弁になってね。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没有。,"[""没有。""]","No.
+","[""No.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#8; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,7,stream=0x73000;block=0x590;text=7,"[""stream=0x73000;block=0x590;text=7""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","いや。
+","彼女は男嫌いだろ？　NASA以来の再会だって言うのに、
+全然話が弾まなかったんだけど…HALの話をしたら、急に
+雄弁になってね。
+","その語り口が、実に知的だったんだ。あの難解な映画への
+解釈、洞察、そしてAIについて語る熱意…。
+",[],,,NOT_CHECKED,175,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"自从NASA一别后，我们就没
+见过面，而且一直不太合得来…直到我们开始聊HAL，
+她就停不下来地讲开了。","[""自从NASA一别后，我们就没\n见过面，而且一直不太合得来…直到我们开始聊HAL，\n她就停不下来地讲开了。""]","So we hadn't seen each other since NASA, and we
+just weren't hitting it off...
+until we started talking about HAL, and then she
+started going off.
+","[""So we hadn't seen each other since NASA, and we\njust weren't hitting it off...\nuntil we started talking about HAL, and then she\nstarted going off.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x73590; ENG blocks=0xFF720,0xFF720; ENG source rows=0xFF720#10,0xFF720#11; block_semantic_score=0.140735."
+BRIEFING_FILES_BLOCK_073590,8,stream=0x73000;block=0x590;text=8,"[""stream=0x73000;block=0x590;text=8""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","彼女は男嫌いだろ？　NASA以来の再会だって言うのに、
+全然話が弾まなかったんだけど…HALの話をしたら、急に
+雄弁になってね。
+","その語り口が、実に知的だったんだ。あの難解な映画への
+解釈、洞察、そしてAIについて語る熱意…。
+","僕はまたもメロメロさ。
+",[],,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她谈论它的方式非常知性。她分析每个情节细节的方式，
+还有她对AI的热忱…","[""她谈论它的方式非常知性。她分析每个情节细节的方式，\n还有她对AI的热忱…""]","The way she talked about it was so intellectual.
+The way she analyzed every plot detail, how
+passionate she was about the AI...
+","[""The way she talked about it was so intellectual.\nThe way she analyzed every plot detail, how\npassionate she was about the AI...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x73590; ENG blocks=0xFF720,0xFF720; ENG source rows=0xFF720#12,0xFF720#13; block_semantic_score=0.140735."
+BRIEFING_FILES_BLOCK_073590,9,stream=0x73000;block=0x590;text=9,"[""stream=0x73000;block=0x590;text=9""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","その語り口が、実に知的だったんだ。あの難解な映画への
+解釈、洞察、そしてAIについて語る熱意…。
+","僕はまたもメロメロさ。
+","ああ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这让我再一次爱上了她。,"[""这让我再一次爱上了她。""]","It made me fall for her all over again.
+","[""It made me fall for her all over again.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#14; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,10,stream=0x73000;block=0x590;text=10,"[""stream=0x73000;block=0x590;text=10""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","僕はまたもメロメロさ。
+","ああ。
+","彼女と僕とを橋渡ししてくれたHALに乾杯！　ってとこだ
+ね。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯哼。,"[""嗯哼。""]","Uh huh.
+","[""Uh huh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#15; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,11,stream=0x73000;block=0x590;text=11,"[""stream=0x73000;block=0x590;text=11""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","ああ。
+","彼女と僕とを橋渡ししてくれたHALに乾杯！　ってとこだ
+ね。
+","君も彼女と『2001年』について話してみるといい。きっ
+とわかると思うよ、彼女の素晴らしさが。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道吗？敬HAL一杯，
+是它拉近了我和她之间的距离！","[""你知道吗？敬HAL一杯，\n是它拉近了我和她之间的距离！""]","You know what? Here's to HAL, for bringing her
+and me closer together!
+","[""You know what? Here's to HAL, for bringing her\nand me closer together!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#16; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,12,stream=0x73000;block=0x590;text=12,"[""stream=0x73000;block=0x590;text=12""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","彼女と僕とを橋渡ししてくれたHALに乾杯！　ってとこだ
+ね。
+","君も彼女と『2001年』について話してみるといい。きっ
+とわかると思うよ、彼女の素晴らしさが。
+","素晴らしさね…。
+",[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你也该跟她聊聊《2001》的事。
+那样你就会明白她有多厉害了。","[""你也该跟她聊聊《2001》的事。\n那样你就会明白她有多厉害了。""]","You should ask her about ""2001,"" too. Then you'll
+understand just how amazing she is.
+","[""You should ask her about \""2001,\"" too. Then you'll\nunderstand just how amazing she is.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#17; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,13,stream=0x73000;block=0x590;text=13,"[""stream=0x73000;block=0x590;text=13""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","君も彼女と『2001年』について話してみるといい。きっ
+とわかると思うよ、彼女の素晴らしさが。
+","素晴らしさね…。
+","HALっていい名前だよね…。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,很厉害，嗯…,"[""很厉害，嗯…""]","Amazing, huh...
+","[""Amazing, huh...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#18; block_semantic_score=0.140735.
+BRIEFING_FILES_BLOCK_073590,14,stream=0x73000;block=0x590;text=14,"[""stream=0x73000;block=0x590;text=14""]",1,BRIEFING FILES,"[""stream=0x73000;block=0x590;block_file=0x73590;text_base=0x735EC;capacity=1116""]","素晴らしさね…。
+","HALっていい名前だよね…。
+",,[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,HAL…这名字真不错…,"[""HAL…这名字真不错…""]","HAL... Now there's a good name...
+","[""HAL... Now there's a good name...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x73590; ENG blocks=0xFF720; ENG source rows=0xFF720#19; block_semantic_score=0.140735.

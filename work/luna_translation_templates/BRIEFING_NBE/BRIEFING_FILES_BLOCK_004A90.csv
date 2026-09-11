@@ -1,0 +1,76 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_004A90,0,stream=0x4000;block=0xA90;text=0,"[""stream=0x4000;block=0xA90;text=0""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]",,"キューバ危機から、もう10年以上も経つんだな。
+","だが、忘れようもない事件だ。
+",[],,,NOT_CHECKED,66,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这么说古巴导弹危机
+已经过去十多年了啊？","[""这么说古巴导弹危机\n已经过去十多年了啊？""]","So it's been more than ten years since the Cuban
+Missile Crisis, huh?
+","[""So it's been more than ten years since the Cuban\nMissile Crisis, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4A90; ENG blocks=0x99020; ENG source rows=0x99020#0; block_semantic_score=0.228539.
+BRIEFING_FILES_BLOCK_004A90,1,stream=0x4000;block=0xA90;text=1,"[""stream=0x4000;block=0xA90;text=1""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]","キューバ危機から、もう10年以上も経つんだな。
+","だが、忘れようもない事件だ。
+","ああ。1962年10月15日からの13日間は、世界が最も
+全面核戦争に近付いた日々だと言っていい。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我觉得我们永远不会忘记那件事。,"[""我觉得我们永远不会忘记那件事。""]","I don't think we'll ever forget it.
+","[""I don't think we'll ever forget it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4A90; ENG blocks=0x99020; ENG source rows=0x99020#1; block_semantic_score=0.228539.
+BRIEFING_FILES_BLOCK_004A90,2,stream=0x4000;block=0xA90;text=2,"[""stream=0x4000;block=0xA90;text=2""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]","だが、忘れようもない事件だ。
+","ああ。1962年10月15日からの13日間は、世界が最も
+全面核戦争に近付いた日々だと言っていい。
+","ソ連によるキューバへの核ミサイル配備。それに対抗した
+アメリカの海上封鎖、そして米軍偵察機の撃墜…。
+",[],,,NOT_CHECKED,126,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可不是嘛。从1962年10
+月15日开始的那13天","[""可不是嘛。从1962年10\n月15日开始的那13天""]","No kidding. Those 13 days starting October 15,
+1962
+","[""No kidding. Those 13 days starting October 15,\n1962\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4A90; ENG blocks=0x99020; ENG source rows=0x99020#2; block_semantic_score=0.228539.
+BRIEFING_FILES_BLOCK_004A90,3,stream=0x4000;block=0xA90;text=3,"[""stream=0x4000;block=0xA90;text=3""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]","ああ。1962年10月15日からの13日間は、世界が最も
+全面核戦争に近付いた日々だと言っていい。
+","ソ連によるキューバへの核ミサイル配備。それに対抗した
+アメリカの海上封鎖、そして米軍偵察機の撃墜…。
+","あの頃俺はまだ10代だったが、核戦争一歩手前という空気
+は、よく覚えているよ。大人達は大騒ぎだった。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"俄国人把核导弹部署到了古巴。
+美国用海上封锁作为回应。然后俄国击落了一架美国侦察机…","[""俄国人把核导弹部署到了古巴。\n美国用海上封锁作为回应。然后俄国击落了一架美国侦察机…""]","The Russians deployed nuclear missiles to Cuba.
+America responded with a naval blockade.
+Then Russia shot down an American spy plane...
+","[""The Russians deployed nuclear missiles to Cuba.\nAmerica responded with a naval blockade.\nThen Russia shot down an American spy plane...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4A90; ENG blocks=0x99020,0x99020; ENG source rows=0x99020#4,0x99020#5; block_semantic_score=0.228539."
+BRIEFING_FILES_BLOCK_004A90,4,stream=0x4000;block=0xA90;text=4,"[""stream=0x4000;block=0xA90;text=4""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]","ソ連によるキューバへの核ミサイル配備。それに対抗した
+アメリカの海上封鎖、そして米軍偵察機の撃墜…。
+","あの頃俺はまだ10代だったが、核戦争一歩手前という空気
+は、よく覚えているよ。大人達は大騒ぎだった。
+","キューバ危機がなければ、あるいはスネークイーター作戦
+もなかったかも知れん。そして…。
+",[],,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我还记得那种感觉，
+就差一步我们就要陷入核战争了——大人们都吓坏了。","[""但我还记得那种感觉，\n就差一步我们就要陷入核战争了——大人们都吓坏了。""]","But I remember what it felt like to be one step
+away from nuclear war
+- the adults were freaking out.
+","[""But I remember what it felt like to be one step\naway from nuclear war\n- the adults were freaking out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4A90; ENG blocks=0x99020,0x99020; ENG source rows=0x99020#7,0x99020#8; block_semantic_score=0.228539."
+BRIEFING_FILES_BLOCK_004A90,5,stream=0x4000;block=0xA90;text=5,"[""stream=0x4000;block=0xA90;text=5""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]","あの頃俺はまだ10代だったが、核戦争一歩手前という空気
+は、よく覚えているよ。大人達は大騒ぎだった。
+","キューバ危機がなければ、あるいはスネークイーター作戦
+もなかったかも知れん。そして…。
+","どうしたスネーク。仮説の話をするなんて、あんたらしく
+もない。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要不是古巴导弹危机，或许就永远不会有
+食蛇者行动了。而且…","[""要不是古巴导弹危机，或许就永远不会有\n食蛇者行动了。而且…""]","If it wasn't for the Cuban Missile Crisis,
+there might never have been an Operation Snake
+Eater. And...
+","[""If it wasn't for the Cuban Missile Crisis,\nthere might never have been an Operation Snake\nEater. And...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4A90; ENG blocks=0x99020,0x99020; ENG source rows=0x99020#9,0x99020#10; block_semantic_score=0.228539."
+BRIEFING_FILES_BLOCK_004A90,6,stream=0x4000;block=0xA90;text=6,"[""stream=0x4000;block=0xA90;text=6""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]","キューバ危機がなければ、あるいはスネークイーター作戦
+もなかったかも知れん。そして…。
+","どうしたスネーク。仮説の話をするなんて、あんたらしく
+もない。
+","…そうだな。そのキューバ危機への反省から、米ソのホッ
+トラインが敷かれ、<R=緊張緩和,デタント>も進んだ。皮肉なもんだ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"怎么了，Snake？想这些
+假设性的问题可不像你的作风。","[""怎么了，Snake？想这些\n假设性的问题可不像你的作风。""]","What's the matter, Snake? It's not like you to get
+all hypothetical.
+","[""What's the matter, Snake? It's not like you to get\nall hypothetical.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4A90; ENG blocks=0x99020; ENG source rows=0x99020#11; block_semantic_score=0.228539.
+BRIEFING_FILES_BLOCK_004A90,7,stream=0x4000;block=0xA90;text=7,"[""stream=0x4000;block=0xA90;text=7""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xA90;block_file=0x4A90;text_base=0x4AD0;capacity=932""]","どうしたスネーク。仮説の話をするなんて、あんたらしく
+もない。
+","…そうだな。そのキューバ危機への反省から、米ソのホッ
+トラインが敷かれ、<R=緊張緩和,デタント>も進んだ。皮肉なもんだ。
+",,"[""<R=緊張緩和,デタント>""]",,,NOT_CHECKED,172,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯…我猜不是。正是导弹
+危机之后的重新评估才铺就了莫斯科和华盛顿之间的
+“热线联络”，也促成了缓和政策。","[""嗯…我猜不是。正是导弹\n危机之后的重新评估才铺就了莫斯科和华盛顿之间的\n“热线联络”，也促成了缓和政策。""]","Hm... I guess not. It was the reassessment after
+the Missile Crisis
+that paved the way for the hotline between
+Moscow and Washington, and also for Détente.
+","[""Hm... I guess not. It was the reassessment after\nthe Missile Crisis\nthat paved the way for the hotline between\nMoscow and Washington, and also for Détente.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4A90; ENG blocks=0x99020,0x99020; ENG source rows=0x99020#12,0x99020#13; block_semantic_score=0.228539."

@@ -1,0 +1,118 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0497E0,0,stream=0x49000;block=0x7E0;text=0,"[""stream=0x49000;block=0x7E0;text=0""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]",,"…もしかしたら、パスは<R=CIPHER,サイファー>を裏切るつもりだったの
+かな。
+","<R=ZEKE,ジーク>がなければスネークを脅すこともできなくなる。
+","[""<R=CIPHER,サイファー>""]",,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你觉得Paz是打算背叛Cipher吗？,"[""…你觉得Paz是打算背叛Cipher吗？""]","...You think Paz was planning to double-cross
+Cipher?
+","[""...You think Paz was planning to double-cross\nCipher?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#0; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,1,stream=0x49000;block=0x7E0;text=1,"[""stream=0x49000;block=0x7E0;text=1""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","…もしかしたら、パスは<R=CIPHER,サイファー>を裏切るつもりだったの
+かな。
+","<R=ZEKE,ジーク>がなければスネークを脅すこともできなくなる。
+","それなら最初から全てを話せば済むことだ。<R=ZEKE,ジーク>を破壊
+する必要は…。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,85,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没有ZEKE，她就没有任何办法威胁你。,"[""没有ZEKE，她就没有任何办法威胁你。""]","Without ZEKE, she wouldn't have any way to
+threaten you.
+","[""Without ZEKE, she wouldn't have any way to\nthreaten you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#1; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,2,stream=0x49000;block=0x7E0;text=2,"[""stream=0x49000;block=0x7E0;text=2""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","<R=ZEKE,ジーク>がなければスネークを脅すこともできなくなる。
+","それなら最初から全てを話せば済むことだ。<R=ZEKE,ジーク>を破壊
+する必要は…。
+","それはそうだけど…。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要是那样的话，她从一开始
+就可以把一切都告诉我。她就不必想方设法去破坏它了。","[""要是那样的话，她从一开始\n就可以把一切都告诉我。她就不必想方设法去破坏它了。""]","If that were the case, she could have told me all
+that from the beginning.
+She wouldn't have had to try and sabotage it.
+","[""If that were the case, she could have told me all\nthat from the beginning.\nShe wouldn't have had to try and sabotage it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x497E0; ENG blocks=0xDB190,0xDB190; ENG source rows=0xDB190#2,0xDB190#3; block_semantic_score=0.186779."
+BRIEFING_FILES_BLOCK_0497E0,3,stream=0x49000;block=0x7E0;text=3,"[""stream=0x49000;block=0x7E0;text=3""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","それなら最初から全てを話せば済むことだ。<R=ZEKE,ジーク>を破壊
+する必要は…。
+","それはそうだけど…。
+","でも、あの日は平和の日の前日だった。パスはバンドで歌
+うことになってたし、すごく楽しみにしてた。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想也是…,"[""我想也是…""]","I guess so...
+","[""I guess so...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#4; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,4,stream=0x49000;block=0x7E0;text=4,"[""stream=0x49000;block=0x7E0;text=4""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","それはそうだけど…。
+","でも、あの日は平和の日の前日だった。パスはバンドで歌
+うことになってたし、すごく楽しみにしてた。
+","例えば…。裏切るつもりはなかったにしても、決行を遅ら
+せたかったとか…。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但那是和平日的前一天。
+Paz原本要在一个乐队里唱歌。
+我都等不及听她唱了。","[""但那是和平日的前一天。\nPaz原本要在一个乐队里唱歌。\n我都等不及听她唱了。""]","But that was the day before Peace Day. Paz was
+going to sing in a band. I couldn't wait to hear her.
+","[""But that was the day before Peace Day. Paz was\ngoing to sing in a band. I couldn't wait to hear her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#5; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,5,stream=0x49000;block=0x7E0;text=5,"[""stream=0x49000;block=0x7E0;text=5""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","でも、あの日は平和の日の前日だった。パスはバンドで歌
+うことになってたし、すごく楽しみにしてた。
+","例えば…。裏切るつもりはなかったにしても、決行を遅ら
+せたかったとか…。
+","チコ…。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果她并不打算背叛他们呢…
+也许她只是想至少能享受那一刻…","[""如果她并不打算背叛他们呢…\n也许她只是想至少能享受那一刻…""]","What if she wasn't going to double cross them...
+maybe she just wanted to at least be able to enjoy
+that...
+","[""What if she wasn't going to double cross them...\nmaybe she just wanted to at least be able to enjoy\nthat...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#6; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,6,stream=0x49000;block=0x7E0;text=6,"[""stream=0x49000;block=0x7E0;text=6""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","例えば…。裏切るつもりはなかったにしても、決行を遅ら
+せたかったとか…。
+","チコ…。
+","だったら…俺があのとき逃げなければ…。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico…,"[""Chico…""]","Chico...
+","[""Chico...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#7; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,7,stream=0x49000;block=0x7E0;text=7,"[""stream=0x49000;block=0x7E0;text=7""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","チコ…。
+","だったら…俺があのとき逃げなければ…。
+","話をして…誰にも言わないって約束してれば…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我就知道…要是我没有逃跑就好了…,"[""我就知道…要是我没有逃跑就好了…""]","I knew it... If only I hadn't run away...
+","[""I knew it... If only I hadn't run away...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#8; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,8,stream=0x49000;block=0x7E0;text=8,"[""stream=0x49000;block=0x7E0;text=8""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","だったら…俺があのとき逃げなければ…。
+","話をして…誰にも言わないって約束してれば…。
+","チコ、あのときにそんな判断はできない。その状況なら、
+言わなければ俺たちに危害が及ぶと考えるべきだ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我当时跟她谈谈…
+答应她我不会告诉任何人…","[""如果我当时跟她谈谈…\n答应她我不会告诉任何人…""]","If I'd talked to her... promised I wouldn't tell
+anybody...
+","[""If I'd talked to her... promised I wouldn't tell\nanybody...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#9; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,9,stream=0x49000;block=0x7E0;text=9,"[""stream=0x49000;block=0x7E0;text=9""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","話をして…誰にも言わないって約束してれば…。
+","チコ、あのときにそんな判断はできない。その状況なら、
+言わなければ俺たちに危害が及ぶと考えるべきだ。
+","そうだけど…。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别再事后自责了。想想如果你当时
+守口如瓶，谁可能会受到伤害。","[""别再事后自责了。想想如果你当时\n守口如瓶，谁可能会受到伤害。""]","Don't second-guess yourself. Think about who
+might have been hurt if you'd kept quiet.
+","[""Don't second-guess yourself. Think about who\nmight have been hurt if you'd kept quiet.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#10; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,10,stream=0x49000;block=0x7E0;text=10,"[""stream=0x49000;block=0x7E0;text=10""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","チコ、あのときにそんな判断はできない。その状況なら、
+言わなければ俺たちに危害が及ぶと考えるべきだ。
+","そうだけど…。
+","それに、パスが死んだと決まったわけじゃない。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，但是…,"[""是啊，但是…""]","Yeah, but...
+","[""Yeah, but...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#11; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,11,stream=0x49000;block=0x7E0;text=11,"[""stream=0x49000;block=0x7E0;text=11""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","そうだけど…。
+","それに、パスが死んだと決まったわけじゃない。
+","彼女は海に投げ出された。ダイバーの装備もしていた。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,再说了，我们还不确定她真的死了。,"[""再说了，我们还不确定她真的死了。""]","Besides, we don't know for sure she's dead.
+","[""Besides, we don't know for sure she's dead.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#12; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,12,stream=0x49000;block=0x7E0;text=12,"[""stream=0x49000;block=0x7E0;text=12""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","それに、パスが死んだと決まったわけじゃない。
+","彼女は海に投げ出された。ダイバーの装備もしていた。
+","うん…。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她被抛进了海里。而且
+她随身带着水肺装备。","[""她被抛进了海里。而且\n她随身带着水肺装备。""]","She was ejected into the ocean. And she had
+scuba equipment with her.
+","[""She was ejected into the ocean. And she had\nscuba equipment with her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#13; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,13,stream=0x49000;block=0x7E0;text=13,"[""stream=0x49000;block=0x7E0;text=13""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","彼女は海に投げ出された。ダイバーの装備もしていた。
+","うん…。
+","チコ、過去を悔いるより未来に希望を持て。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯…,"[""嗯…""]","Yeah...
+","[""Yeah...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#14; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,14,stream=0x49000;block=0x7E0;text=14,"[""stream=0x49000;block=0x7E0;text=14""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","うん…。
+","チコ、過去を悔いるより未来に希望を持て。
+","過去はどうにもできないが、未来はお前次第だ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别再为过去自责了，Chico——
+把希望寄予未来吧。","[""别再为过去自责了，Chico——\n把希望寄予未来吧。""]","Stop beating yourself up over the past, Chico - put
+your hope in the future.
+","[""Stop beating yourself up over the past, Chico - put\nyour hope in the future.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#15; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,15,stream=0x49000;block=0x7E0;text=15,"[""stream=0x49000;block=0x7E0;text=15""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","チコ、過去を悔いるより未来に希望を持て。
+","過去はどうにもできないが、未来はお前次第だ。
+","…わかった。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"过去的事就是过去了，
+但未来掌握在你手里。","[""过去的事就是过去了，\n但未来掌握在你手里。""]","The past is the past, but the future is up to you.
+","[""The past is the past, but the future is up to you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#16; block_semantic_score=0.186779.
+BRIEFING_FILES_BLOCK_0497E0,16,stream=0x49000;block=0x7E0;text=16,"[""stream=0x49000;block=0x7E0;text=16""]",1,BRIEFING FILES,"[""stream=0x49000;block=0x7E0;block_file=0x497E0;text_base=0x49844;capacity=1208""]","過去はどうにもできないが、未来はお前次第だ。
+","…わかった。
+",,[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…好的，Boss。,"[""…好的，Boss。""]","...Right, Boss.
+","[""...Right, Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x497E0; ENG blocks=0xDB190; ENG source rows=0xDB190#17; block_semantic_score=0.186779.

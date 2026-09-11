@@ -1,0 +1,14 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37A500,0,stream=0x37A000;block=0x500;text=0,"[""stream=0x37A000;block=0x500;text=0""]",1,d6066_m0436_mrd,"[""stream=0x37A000;block=0x500;block_file=0x37A500;text_base=0x37A52C;capacity=96""]",,"カズ、ザドルノフを確保した。
+","油断した…。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我抓到他了，Kaz。,"[""我抓到他了，Kaz。""]","I got him, Kaz.
+","[""I got him, Kaz.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37A500; ENG blocks=0x390F70; ENG source rows=0x390F70#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_37A500,1,stream=0x37A000;block=0x500;text=1,"[""stream=0x37A000;block=0x500;text=1""]",1,d6066_m0436_mrd,"[""stream=0x37A000;block=0x500;block_file=0x37A500;text_base=0x37A52C;capacity=96""]","カズ、ザドルノフを確保した。
+","油断した…。
+","了解。連行を頼む。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…又栽了…,"[""…又栽了…""]","...Slipped up again...
+","[""...Slipped up again...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37A500; ENG blocks=0x390F70; ENG source rows=0x390F70#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_37A500,2,stream=0x37A000;block=0x500;text=2,"[""stream=0x37A000;block=0x500;text=2""]",1,d6066_m0436_mrd,"[""stream=0x37A000;block=0x500;block_file=0x37A500;text_base=0x37A52C;capacity=96""]","油断した…。
+","了解。連行を頼む。
+",,[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,收到。把他带进来。,"[""收到。把他带进来。""]","Acknowledged. Bring him on in.
+","[""Acknowledged. Bring him on in.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37A500; ENG blocks=0x390F70; ENG source rows=0x390F70#2; block_semantic_score=1.000000.

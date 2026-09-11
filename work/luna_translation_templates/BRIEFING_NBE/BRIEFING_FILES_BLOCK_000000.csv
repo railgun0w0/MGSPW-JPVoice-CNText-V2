@@ -1,0 +1,127 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_000000,0,stream=0x0;block=0x0;text=0,"[""stream=0x0;block=0x0;text=0""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]",,"カズ、“教授”が用意したプラントは、どんな具合だ？
+","着いた時は笑うしかなかった。海鳥だらけのデカい巣箱っ
+て感じだったからな。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Kaz，那位「教授」
+给我们的平台设施长怎么样？","[""Kaz，那位「教授」\n给我们的平台设施长怎么样？""]","Kaz, what kind of shape is that plant the
+""professor"" gave us in?
+","[""Kaz, what kind of shape is that plant the\n\""professor\"" gave us in?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#0; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,1,stream=0x0;block=0x0;text=1,"[""stream=0x0;block=0x0;text=1""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","カズ、“教授”が用意したプラントは、どんな具合だ？
+","着いた時は笑うしかなかった。海鳥だらけのデカい巣箱っ
+て感じだったからな。
+","サビと糞は何とか落とした。基礎構造は傷んでないから、
+手入れすれば十分使える。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我第一眼看到它的时候，
+还以为是什么笑话。那简直是个巨大的鸟窝—
+到处都是海鸥。","[""我第一眼看到它的时候，\n还以为是什么笑话。那简直是个巨大的鸟窝—\n到处都是海鸥。""]","First time I laid eyes on it, I thought it was some
+kind of joke.
+It was a giant birdhouse - seagulls everywhere.
+","[""First time I laid eyes on it, I thought it was some\nkind of joke.\nIt was a giant birdhouse - seagulls everywhere.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x0; ENG blocks=0x944B0,0x944B0; ENG source rows=0x944B0#1,0x944B0#2; block_semantic_score=0.258965."
+BRIEFING_FILES_BLOCK_000000,2,stream=0x0;block=0x0;text=2,"[""stream=0x0;block=0x0;text=2""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","着いた時は笑うしかなかった。海鳥だらけのデカい巣箱っ
+て感じだったからな。
+","サビと糞は何とか落とした。基礎構造は傷んでないから、
+手入れすれば十分使える。
+","もともとはどこの所有だったんだ？　いくらボロくても、
+造るには相当のカネが必要だろう。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"基础结构还是完好的——
+费点力气收拾一下就能用了。","[""基础结构还是完好的——\n费点力气收拾一下就能用了。""]","The underlying structure's intact - a little elbow
+grease and we should be in business.
+","[""The underlying structure's intact - a little elbow\ngrease and we should be in business.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#4; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,3,stream=0x0;block=0x0;text=3,"[""stream=0x0;block=0x0;text=3""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","サビと糞は何とか落とした。基礎構造は傷んでないから、
+手入れすれば十分使える。
+","もともとはどこの所有だったんだ？　いくらボロくても、
+造るには相当のカネが必要だろう。
+","どうやらこのプラント、アメリカの大学が<R=海洋温度差発電,OTEC>
+の研究用に造ったものらしい。サビだらけの発電タービン
+に名前が残ってた。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管现在是什么样子，
+当初肯定砸了不少钱建的。据我所知，这是一所
+美国大学建造的研究平台，","[""不管现在是什么样子，\n当初肯定砸了不少钱建的。据我所知，这是一所\n美国大学建造的研究平台，""]","Whatever shape it's in now, somebody sank some
+serious money into building it.
+From what I can tell, an American university built it
+as a research platform
+","[""Whatever shape it's in now, somebody sank some\nserious money into building it.\nFrom what I can tell, an American university built it\nas a research platform\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x0; ENG blocks=0x944B0,0x944B0; ENG source rows=0x944B0#6,0x944B0#7; block_semantic_score=0.258965."
+BRIEFING_FILES_BLOCK_000000,4,stream=0x0;block=0x0;text=4,"[""stream=0x0;block=0x0;text=4""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","もともとはどこの所有だったんだ？　いくらボロくても、
+造るには相当のカネが必要だろう。
+","どうやらこのプラント、アメリカの大学が<R=海洋温度差発電,OTEC>
+の研究用に造ったものらしい。サビだらけの発電タービン
+に名前が残ってた。
+","建造にあたっては、もちろん政府や企業の援助もあったん
+だろう。だが、結局熱効率の問題を解決できずに研究は中
+止。
+","[""<R=海洋温度差発電,OTEC>""]",,,NOT_CHECKED,195,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"用于海洋温差发电，也就是""OTEC""。","[""用于海洋温差发电，也就是\""OTEC\""。""]","for ocean thermal energy conversion, ""OTEC.""
+","[""for ocean thermal energy conversion, \""OTEC.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#8; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,5,stream=0x0;block=0x0;text=5,"[""stream=0x0;block=0x0;text=5""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","どうやらこのプラント、アメリカの大学が<R=海洋温度差発電,OTEC>
+の研究用に造ったものらしい。サビだらけの発電タービン
+に名前が残ってた。
+","建造にあたっては、もちろん政府や企業の援助もあったん
+だろう。だが、結局熱効率の問題を解決できずに研究は中
+止。
+","廃棄されたこいつを、KGBのフロント企業が安く買い叩い
+た…ってとこじゃないか？
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我猜他们建这个的时候，
+应该也得到了政府和企业的协助。但他们没能解决热效率问题，
+项目就被取消了。","[""我猜他们建这个的时候，\n应该也得到了政府和企业的协助。但他们没能解决热效率问题，\n项目就被取消了。""]","I'm guessing they must have had government and
+corporate assistance to build it, too.
+But they couldn't solve the thermal efficiency
+problem, and the project was canceled.
+","[""I'm guessing they must have had government and\ncorporate assistance to build it, too.\nBut they couldn't solve the thermal efficiency\nproblem, and the project was canceled.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x0; ENG blocks=0x944B0,0x944B0; ENG source rows=0x944B0#10,0x944B0#11; block_semantic_score=0.258965."
+BRIEFING_FILES_BLOCK_000000,6,stream=0x0;block=0x0;text=6,"[""stream=0x0;block=0x0;text=6""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","建造にあたっては、もちろん政府や企業の援助もあったん
+だろう。だが、結局熱効率の問題を解決できずに研究は中
+止。
+","廃棄されたこいつを、KGBのフロント企業が安く買い叩い
+た…ってとこじゃないか？
+","フロント企業を通したとは言え、よくKGBがアメリカ資本
+のプラントを買えたな。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一家克格勃(KGB)的皮包公司
+几乎是白捡似地买下了它…
+至少我是这么猜的。","[""一家克格勃(KGB)的皮包公司\n几乎是白捡似地买下了它…\n至少我是这么猜的。""]","a KGB front company scooped it up for next to
+nothing... At least, that's my theory.
+","[""a KGB front company scooped it up for next to\nnothing... At least, that's my theory.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#13; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,7,stream=0x0;block=0x0;text=7,"[""stream=0x0;block=0x0;text=7""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","廃棄されたこいつを、KGBのフロント企業が安く買い叩い
+た…ってとこじゃないか？
+","フロント企業を通したとは言え、よくKGBがアメリカ資本
+のプラントを買えたな。
+","ああ、あの“教授”、相当のやり手だ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"克格勃(KGB)是怎么买下一座
+用美国资本建造的平台的，
+就算是通过皮包公司？","[""克格勃(KGB)是怎么买下一座\n用美国资本建造的平台的，\n就算是通过皮包公司？""]","How'd the KGB manage to buy a plant built with
+American capital, front company or not?
+","[""How'd the KGB manage to buy a plant built with\nAmerican capital, front company or not?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#14; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,8,stream=0x0;block=0x0;text=8,"[""stream=0x0;block=0x0;text=8""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","フロント企業を通したとは言え、よくKGBがアメリカ資本
+のプラントを買えたな。
+","ああ、あの“教授”、相当のやり手だ。
+","それとこのプラント、同規格のプラントと<R=連結,ジョイント>できる造り
+になってる。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，那个""教授""还真是个厉害角色。","[""是啊，那个\""教授\""还真是个厉害角色。""]","Yeah, that ""professor"" is quite the operator.
+","[""Yeah, that \""professor\"" is quite the operator.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#15; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,9,stream=0x0;block=0x0;text=9,"[""stream=0x0;block=0x0;text=9""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","ああ、あの“教授”、相当のやり手だ。
+","それとこのプラント、同規格のプラントと<R=連結,ジョイント>できる造り
+になってる。
+","もともとは、プラントを増築していく計画だったんだな。
+","[""<R=連結,ジョイント>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这座平台的设计使得它能够
+与其他同规格的平台对接。","[""这座平台的设计使得它能够\n与其他同规格的平台对接。""]","the plant's set up so that it can join up with other
+plants of the same standard.
+","[""the plant's set up so that it can join up with other\nplants of the same standard.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#17; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,10,stream=0x0;block=0x0;text=10,"[""stream=0x0;block=0x0;text=10""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","それとこのプラント、同規格のプラントと<R=連結,ジョイント>できる造り
+になってる。
+","もともとは、プラントを増築していく計画だったんだな。
+","俺たちがそいつをやってやろう。人を集めて、物を作り、
+MSFの拠点として、プラントを拡大するんだ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这么说他们原本是打算
+扩建这地方的，是吧？","[""这么说他们原本是打算\n扩建这地方的，是吧？""]","So they were originally planning on expanding the
+place, huh?
+","[""So they were originally planning on expanding the\nplace, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#18; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,11,stream=0x0;block=0x0;text=11,"[""stream=0x0;block=0x0;text=11""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","もともとは、プラントを増築していく計画だったんだな。
+","俺たちがそいつをやってやろう。人を集めて、物を作り、
+MSFの拠点として、プラントを拡大するんだ。
+","よろしく頼む、ボス。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们可以多召集一些人，
+把这地方建成MSF真正的家。","[""我们可以多召集一些人，\n把这地方建成MSF真正的家。""]","We can get some more people together and build
+this place up into a proper home for MSF.
+","[""We can get some more people together and build\nthis place up into a proper home for MSF.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#20; block_semantic_score=0.258965.
+BRIEFING_FILES_BLOCK_000000,12,stream=0x0;block=0x0;text=12,"[""stream=0x0;block=0x0;text=12""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","俺たちがそいつをやってやろう。人を集めて、物を作り、
+MSFの拠点として、プラントを拡大するんだ。
+","よろしく頼む、ボス。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Boss，这件事你支持我吧？,"[""Boss，这件事你支持我吧？""]","You're with me on this, right, Boss?
+","[""You're with me on this, right, Boss?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x0; ENG blocks=0x944B0; ENG source rows=0x944B0#21; block_semantic_score=0.258965.

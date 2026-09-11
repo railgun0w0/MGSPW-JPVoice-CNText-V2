@@ -1,0 +1,109 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_049EF0,0,stream=0x49000;block=0xEF0;text=0,"[""stream=0x49000;block=0xEF0;text=0""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]",,"知ってるか、スネーク？　コスタリカの沖には怪物の島が
+あるんだって。
+","怪物の島？
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，传说哥斯达黎加
+附近有个叫怪物岛的地方。","[""Snake，传说哥斯达黎加\n附近有个叫怪物岛的地方。""]","Snake, legend has it a place called Isla del
+Monstruo is near Costa Rica.
+","[""Snake, legend has it a place called Isla del\nMonstruo is near Costa Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#0; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,1,stream=0x49000;block=0xEF0;text=1,"[""stream=0x49000;block=0xEF0;text=1""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","知ってるか、スネーク？　コスタリカの沖には怪物の島が
+あるんだって。
+","怪物の島？
+","18世紀の海賊は、カリブ海から太平洋側にも船を進めたら
+しい。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怪物岛？,"[""怪物岛？""]","Isla del Monstruo?
+","[""Isla del Monstruo?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#1; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,2,stream=0x49000;block=0xEF0;text=2,"[""stream=0x49000;block=0xEF0;text=2""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","怪物の島？
+","18世紀の海賊は、カリブ海から太平洋側にも船を進めたら
+しい。
+","スチーブンソンの『宝島』もコスタリカ沖の島がモデルだ
+しね。
+",[],,,NOT_CHECKED,88,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它是在18世纪由加勒比海盗
+航行到太平洋时发现的。","[""它是在18世纪由加勒比海盗\n航行到太平洋时发现的。""]","It was discovered in the 18th century by
+Caribbean pirates sailing over to the Pacific.
+","[""It was discovered in the 18th century by\nCaribbean pirates sailing over to the Pacific.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#2; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,3,stream=0x49000;block=0xEF0;text=3,"[""stream=0x49000;block=0xEF0;text=3""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","18世紀の海賊は、カリブ海から太平洋側にも船を進めたら
+しい。
+","スチーブンソンの『宝島』もコスタリカ沖の島がモデルだ
+しね。
+","『宝島』か！　懐かしいな。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还有《金银岛》里的那座岛——也是以
+哥斯达黎加附近的一座岛为原型的。","[""还有《金银岛》里的那座岛——也是以\n哥斯达黎加附近的一座岛为原型的。""]","And the island in ""Treasure Island"" - it's based on
+one near Costa Rica, too.
+","[""And the island in \""Treasure Island\"" - it's based on\none near Costa Rica, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#3; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,4,stream=0x49000;block=0xEF0;text=4,"[""stream=0x49000;block=0xEF0;text=4""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","スチーブンソンの『宝島』もコスタリカ沖の島がモデルだ
+しね。
+","『宝島』か！　懐かしいな。
+","スネークも読んだことあるの？　それなら話が早いや。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,《金银岛》？我记得我读过。,"[""《金银岛》？我记得我读过。""]","""Treasure Island?"" I remember reading that.
+","[""\""Treasure Island?\"" I remember reading that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#4; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,5,stream=0x49000;block=0xEF0;text=5,"[""stream=0x49000;block=0xEF0;text=5""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","『宝島』か！　懐かしいな。
+","スネークも読んだことあるの？　それなら話が早いや。
+","そういう海賊の伝説として、海上で空飛ぶ怪物に遭遇した
+という話がニカラグアにも伝わってるんだ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在尼加拉瓜，我们也有个故事，
+讲一群海盗遭遇了","[""在尼加拉瓜，我们也有个故事，\n讲一群海盗遭遇了""]","In Nicaragua we too have a story about a group of
+pirates that encountered
+","[""In Nicaragua we too have a story about a group of\npirates that encountered\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#6; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,6,stream=0x49000;block=0xEF0;text=6,"[""stream=0x49000;block=0xEF0;text=6""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","スネークも読んだことあるの？　それなら話が早いや。
+","そういう海賊の伝説として、海上で空飛ぶ怪物に遭遇した
+という話がニカラグアにも伝わってるんだ。
+","それどころか、怪物の島に上陸したという話まであるんだ
+よ。その島の場所は記録されていないんだけどさ。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一只在海上飞行的怪物。,"[""一只在海上飞行的怪物。""]","a flying monster out at sea.
+","[""a flying monster out at sea.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#7; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,7,stream=0x49000;block=0xEF0;text=7,"[""stream=0x49000;block=0xEF0;text=7""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","そういう海賊の伝説として、海上で空飛ぶ怪物に遭遇した
+という話がニカラグアにも伝わってるんだ。
+","それどころか、怪物の島に上陸したという話まであるんだ
+よ。その島の場所は記録されていないんだけどさ。
+","だから俺はずっとコスタリカに来たかったんだ。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有些人甚至说他们登上了这座怪物岛，
+不过我们还不确定它到底在哪里。","[""有些人甚至说他们登上了这座怪物岛，\n不过我们还不确定它到底在哪里。""]","Some even say they landed on this monster island,
+though we still don't know exactly where it is.
+","[""Some even say they landed on this monster island,\nthough we still don't know exactly where it is.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#8; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,8,stream=0x49000;block=0xEF0;text=8,"[""stream=0x49000;block=0xEF0;text=8""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","それどころか、怪物の島に上陸したという話まであるんだ
+よ。その島の場所は記録されていないんだけどさ。
+","だから俺はずっとコスタリカに来たかったんだ。
+","ははっ。そいつはいい。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这就是我一直想来哥斯达黎加的原因。,"[""这就是我一直想来哥斯达黎加的原因。""]","That's the reason I've always wanted to come to
+Costa Rica.
+","[""That's the reason I've always wanted to come to\nCosta Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#9; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,9,stream=0x49000;block=0xEF0;text=9,"[""stream=0x49000;block=0xEF0;text=9""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","だから俺はずっとコスタリカに来たかったんだ。
+","ははっ。そいつはいい。
+","コスタリカのどこかにはその島まで案内してくれる、しゃ
+べるネコがいるらしいよ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哈，原来如此。,"[""哈，原来如此。""]","Ha, I see.
+","[""Ha, I see.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#10; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,10,stream=0x49000;block=0xEF0;text=10,"[""stream=0x49000;block=0xEF0;text=10""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","ははっ。そいつはいい。
+","コスタリカのどこかにはその島まで案内してくれる、しゃ
+べるネコがいるらしいよ。
+","それは面白い話だな。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我还听过另一个故事…关于一只住
+在哥斯达黎加某处的会说话的猫。","[""我还听过另一个故事…关于一只住\n在哥斯达黎加某处的会说话的猫。""]","I heard another story... about a talking cat that
+lives somewhere in Costa Rica.
+","[""I heard another story... about a talking cat that\nlives somewhere in Costa Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#11; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,11,stream=0x49000;block=0xEF0;text=11,"[""stream=0x49000;block=0xEF0;text=11""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","コスタリカのどこかにはその島まで案内してくれる、しゃ
+べるネコがいるらしいよ。
+","それは面白い話だな。
+","その島のこと、もっと知りたいか？
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,据说它会带你去那个地方。,"[""据说它会带你去那个地方。""]","They say it'll take you to this place.
+","[""They say it'll take you to this place.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#12; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,12,stream=0x49000;block=0xEF0;text=12,"[""stream=0x49000;block=0xEF0;text=12""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","それは面白い話だな。
+","その島のこと、もっと知りたいか？
+","今はいい。もしその島に行くことになったら聞かせてもら
+う。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,想多了解这座岛吗？,"[""想多了解这座岛吗？""]","Wanna know more about the island?
+","[""Wanna know more about the island?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#14; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,13,stream=0x49000;block=0xEF0;text=13,"[""stream=0x49000;block=0xEF0;text=13""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","その島のこと、もっと知りたいか？
+","今はいい。もしその島に行くことになったら聞かせてもら
+う。
+","わかった。それじゃ、そのとき話すよ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"改天吧。如果我要去那边，
+你再给我补补课。","[""改天吧。如果我要去那边，\n你再给我补补课。""]","Maybe later. If I'm headed that way you can fill me
+in.
+","[""Maybe later. If I'm headed that way you can fill me\nin.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#15; block_semantic_score=0.187119.
+BRIEFING_FILES_BLOCK_049EF0,14,stream=0x49000;block=0xEF0;text=14,"[""stream=0x49000;block=0xEF0;text=14""]",1,BRIEFING FILES,"[""stream=0x49000;block=0xEF0;block_file=0x49EF0;text_base=0x49F4C;capacity=1152""]","今はいい。もしその島に行くことになったら聞かせてもら
+う。
+","わかった。それじゃ、そのとき話すよ。
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好。到时候告诉我一声！,"[""好。到时候告诉我一声！""]","OK. Just lemme know!
+","[""OK. Just lemme know!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x49EF0; ENG blocks=0xD5DD0; ENG source rows=0xD5DD0#16; block_semantic_score=0.187119.

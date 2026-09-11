@@ -1,0 +1,76 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_060450,0,stream=0x60000;block=0x450;text=0,"[""stream=0x60000;block=0x450;text=0""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]",,"アルジェリアの独立戦争と言えば、『ジャッカルの日』は
+知ってるか？
+","去年映画になった小説でしょ？
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说到阿尔及利亚独立战争，,"[""说到阿尔及利亚独立战争，""]","Speaking of the Algerian War of Independence,
+","[""Speaking of the Algerian War of Independence,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#0; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,1,stream=0x60000;block=0x450;text=1,"[""stream=0x60000;block=0x450;text=1""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","アルジェリアの独立戦争と言えば、『ジャッカルの日』は
+知ってるか？
+","去年映画になった小説でしょ？
+","<R=秘密軍事組織,OAS>がド・ゴール大統領暗殺を企て、ジャッカル
+という狙撃手を雇う…。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你是说去年被改编成电影的那本小说？,"[""你是说去年被改编成电影的那本小说？""]","You mean the novel that was made into a movie
+last year?
+","[""You mean the novel that was made into a movie\nlast year?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#2; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,2,stream=0x60000;block=0x450;text=2,"[""stream=0x60000;block=0x450;text=2""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","去年映画になった小説でしょ？
+","<R=秘密軍事組織,OAS>がド・ゴール大統領暗殺を企て、ジャッカル
+という狙撃手を雇う…。
+","現実を知っているはずなのに、私ドキドキしちゃった。
+","[""<R=秘密軍事組織,OAS>""]",,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"秘密军组织，一个
+激进的法国地下组织，","[""秘密军组织，一个\n激进的法国地下组织，""]","The OAS, a militant French underground group,
+","[""The OAS, a militant French underground group,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#3; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,3,stream=0x60000;block=0x450;text=3,"[""stream=0x60000;block=0x450;text=3""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","<R=秘密軍事組織,OAS>がド・ゴール大統領暗殺を企て、ジャッカル
+という狙撃手を雇う…。
+","現実を知っているはずなのに、私ドキドキしちゃった。
+","私ももし誰かに狙撃されるんだったら、あんなふうにじっ
+くりと、下調べされたい。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"密谋刺杀戴高乐，
+雇了一个绰号“豺狼”的杀手。","[""密谋刺杀戴高乐，\n雇了一个绰号“豺狼”的杀手。""]","plots to assassinate De Gaulle, hiring a hitman
+known as the Jackal.
+","[""plots to assassinate De Gaulle, hiring a hitman\nknown as the Jackal.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#4; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,4,stream=0x60000;block=0x450;text=4,"[""stream=0x60000;block=0x450;text=4""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","現実を知っているはずなのに、私ドキドキしちゃった。
+","私ももし誰かに狙撃されるんだったら、あんなふうにじっ
+くりと、下調べされたい。
+","私が知らないうちに何もかも知りつくされたい。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_060450,5,stream=0x60000;block=0x450;text=5,"[""stream=0x60000;block=0x450;text=5""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","私ももし誰かに狙撃されるんだったら、あんなふうにじっ
+くりと、下調べされたい。
+","私が知らないうちに何もかも知りつくされたい。
+","そうか？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"读者都知道戴高乐没有被杀死，
+但故事依然扣人心弦。","[""读者都知道戴高乐没有被杀死，\n但故事依然扣人心弦。""]","Readers know that de Gaulle was not killed, but it
+is still so exciting.
+","[""Readers know that de Gaulle was not killed, but it\nis still so exciting.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#5; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,6,stream=0x60000;block=0x450;text=6,"[""stream=0x60000;block=0x450;text=6""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","私が知らないうちに何もかも知りつくされたい。
+","そうか？
+","もしかしたら私が見ている鳥たちも、そんな風に感じてい
+るのかも…。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果有人想除掉我，,"[""如果有人想除掉我，""]","If someone was going to try to eliminate me,
+","[""If someone was going to try to eliminate me,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#6; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,7,stream=0x60000;block=0x450;text=7,"[""stream=0x60000;block=0x450;text=7""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","そうか？
+","もしかしたら私が見ている鳥たちも、そんな風に感じてい
+るのかも…。
+","どうだろうな。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我希望他能像豺狼一样周密。,"[""我希望他能像豺狼一样周密。""]","I would hope they'd be as thorough as the Jackal.
+","[""I would hope they'd be as thorough as the Jackal.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#7; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,8,stream=0x60000;block=0x450;text=8,"[""stream=0x60000;block=0x450;text=8""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","もしかしたら私が見ている鳥たちも、そんな風に感じてい
+るのかも…。
+","どうだろうな。
+","キョーッ、キョーッ…。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对我了如指掌，而我却毫无察觉。,"[""对我了如指掌，而我却毫无察觉。""]","To know everything about me without me
+suspecting a thing.
+","[""To know everything about me without me\nsuspecting a thing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#8; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,9,stream=0x60000;block=0x450;text=9,"[""stream=0x60000;block=0x450;text=9""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","どうだろうな。
+","キョーッ、キョーッ…。
+","おい、セシール？
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦，是吗？,"[""哦，是吗？""]","Oh, Yeah?
+","[""Oh, Yeah?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#9; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,10,stream=0x60000;block=0x450;text=10,"[""stream=0x60000;block=0x450;text=10""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","キョーッ、キョーッ…。
+","おい、セシール？
+","ケツァールの気持ちよ。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不知道我的鸟儿们是不是也有同感。,"[""不知道我的鸟儿们是不是也有同感。""]","I wonder if my birds feel the same way.
+","[""I wonder if my birds feel the same way.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#10; block_semantic_score=0.154681.
+BRIEFING_FILES_BLOCK_060450,11,stream=0x60000;block=0x450;text=11,"[""stream=0x60000;block=0x450;text=11""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x450;block_file=0x60450;text_base=0x604A0;capacity=760""]","おい、セシール？
+","ケツァールの気持ちよ。
+",,[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我也想知道。,"[""我也想知道。""]","I wonder.
+","[""I wonder.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60450; ENG blocks=0xEDC40; ENG source rows=0xEDC40#11; block_semantic_score=0.154681.

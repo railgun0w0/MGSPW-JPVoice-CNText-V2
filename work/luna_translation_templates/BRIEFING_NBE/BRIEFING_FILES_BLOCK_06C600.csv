@@ -1,0 +1,58 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06C600,0,stream=0x6C000;block=0x600;text=0,"[""stream=0x6C000;block=0x600;text=0""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x600;block_file=0x6C600;text_base=0x6C63C;capacity=660""]",,"スネーク！　お願いだ、ピースウォーカーに核を撃たせな
+いでくれ！
+","落ち着け。それより、どうやって倒せばいい！？
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake！你必须阻止和平
+行者发射那枚核弹！","[""Snake！你必须阻止和平\n行者发射那枚核弹！""]","Snake! You have to stop Peace Walker from
+launching that nuke!
+","[""Snake! You have to stop Peace Walker from\nlaunching that nuke!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C600; ENG blocks=0xF8DA0; ENG source rows=0xF8DA0#0; block_semantic_score=0.106333.
+BRIEFING_FILES_BLOCK_06C600,1,stream=0x6C000;block=0x600;text=1,"[""stream=0x6C000;block=0x600;text=1""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x600;block_file=0x6C600;text_base=0x6C63C;capacity=660""]","スネーク！　お願いだ、ピースウォーカーに核を撃たせな
+いでくれ！
+","落ち着け。それより、どうやって倒せばいい！？
+","ママルとアセンブルされたことで、思考パターンや機動性
+も向上しているはずだ。一体どうすればいいのか、僕にも
+…。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,冷静点。我需要做什么？说实话，我也不太清楚…,"[""冷静点。我需要做什么？说实话，我也不太清楚…""]","Calm down. What do I need to do?
+To tell you the truth, I don't really know...
+","[""Calm down. What do I need to do?\nTo tell you the truth, I don't really know...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6C600; ENG blocks=0xF8DA0,0xF8DA0; ENG source rows=0xF8DA0#1,0xF8DA0#2; block_semantic_score=0.106333."
+BRIEFING_FILES_BLOCK_06C600,2,stream=0x6C000;block=0x600;text=2,"[""stream=0x6C000;block=0x600;text=2""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x600;block_file=0x6C600;text_base=0x6C63C;capacity=660""]","落ち着け。それより、どうやって倒せばいい！？
+","ママルとアセンブルされたことで、思考パターンや機動性
+も向上しているはずだ。一体どうすればいいのか、僕にも
+…。
+","Sマインやロケット弾、火炎放射器なんかの武器は変わら
+ないけど、それ以上は…。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哺乳舱大概增强了它的
+思维模式和机动性。","[""哺乳舱大概增强了它的\n思维模式和机动性。""]","The Mammal Pod has probably enhanced both its
+thought patterns and mobility.
+","[""The Mammal Pod has probably enhanced both its\nthought patterns and mobility.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C600; ENG blocks=0xF8DA0; ENG source rows=0xF8DA0#3; block_semantic_score=0.106333.
+BRIEFING_FILES_BLOCK_06C600,3,stream=0x6C000;block=0x600;text=3,"[""stream=0x6C000;block=0x600;text=3""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x600;block_file=0x6C600;text_base=0x6C63C;capacity=660""]","ママルとアセンブルされたことで、思考パターンや機動性
+も向上しているはずだ。一体どうすればいいのか、僕にも
+…。
+","Sマインやロケット弾、火炎放射器なんかの武器は変わら
+ないけど、それ以上は…。
+","相手の攻撃をよく見て、攻撃の種類と予備動作を把握する
+しかない。
+",[],,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"S型地雷、火箭弹、
+火焰喷射器——这些都一样，但是","[""S型地雷、火箭弹、\n火焰喷射器——这些都一样，但是""]","The S-mines, rockets, flamethrowers - they're all
+the same, but
+","[""The S-mines, rockets, flamethrowers - they're all\nthe same, but\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C600; ENG blocks=0xF8DA0; ENG source rows=0xF8DA0#4; block_semantic_score=0.106333.
+BRIEFING_FILES_BLOCK_06C600,4,stream=0x6C000;block=0x600;text=4,"[""stream=0x6C000;block=0x600;text=4""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x600;block_file=0x6C600;text_base=0x6C63C;capacity=660""]","Sマインやロケット弾、火炎放射器なんかの武器は変わら
+ないけど、それ以上は…。
+","相手の攻撃をよく見て、攻撃の種類と予備動作を把握する
+しかない。
+","やってみよう。もう時間がない。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你只能保持警惕，
+观察它在每次攻击前的行动。","[""你只能保持警惕，\n观察它在每次攻击前的行动。""]","You'll just have to stay sharp and watch for how it
+behaves before each of the attacks.
+","[""You'll just have to stay sharp and watch for how it\nbehaves before each of the attacks.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C600; ENG blocks=0xF8DA0; ENG source rows=0xF8DA0#6; block_semantic_score=0.106333.
+BRIEFING_FILES_BLOCK_06C600,5,stream=0x6C000;block=0x600;text=5,"[""stream=0x6C000;block=0x600;text=5""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x600;block_file=0x6C600;text_base=0x6C63C;capacity=660""]","相手の攻撃をよく見て、攻撃の種類と予備動作を把握する
+しかない。
+","やってみよう。もう時間がない。
+","役に立たなくてごめん。頑張ってくれ、スネーク！
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会试试看。现在没时间想别的了。,"[""我会试试看。现在没时间想别的了。""]","I'll give it a shot. There's no time for anything else.
+","[""I'll give it a shot. There's no time for anything else.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C600; ENG blocks=0xF8DA0; ENG source rows=0xF8DA0#7; block_semantic_score=0.106333.
+BRIEFING_FILES_BLOCK_06C600,6,stream=0x6C000;block=0x600;text=6,"[""stream=0x6C000;block=0x600;text=6""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0x600;block_file=0x6C600;text_base=0x6C63C;capacity=660""]","やってみよう。もう時間がない。
+","役に立たなくてごめん。頑張ってくれ、スネーク！
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"抱歉我没能帮上更多忙。
+你能行的，Snake！","[""抱歉我没能帮上更多忙。\n你能行的，Snake！""]","Sorry I can't be more helpful. You can do it, Snake!
+","[""Sorry I can't be more helpful. You can do it, Snake!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6C600; ENG blocks=0xF8DA0; ENG source rows=0xF8DA0#8; block_semantic_score=0.106333.

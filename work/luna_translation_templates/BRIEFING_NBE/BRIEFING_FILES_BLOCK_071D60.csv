@@ -1,0 +1,139 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_071D60,0,stream=0x71000;block=0xD60;text=0,"[""stream=0x71000;block=0xD60;text=0""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]",,"親父さん、マンハッタン計画に参加したって言ってたな。
+","ああ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你说过你父亲参与过
+曼哈顿计划，对吧？","[""你说过你父亲参与过\n曼哈顿计划，对吧？""]","You said your dad was involved in the Manhattan
+Project, right?
+","[""You said your dad was involved in the Manhattan\nProject, right?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#0; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,1,stream=0x71000;block=0xD60;text=1,"[""stream=0x71000;block=0xD60;text=1""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","親父さん、マンハッタン計画に参加したって言ってたな。
+","ああ。
+","自分が歩けないのは、その影響だと？
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯。,"[""嗯。""]","Yeah.
+","[""Yeah.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#1; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,2,stream=0x71000;block=0xD60;text=2,"[""stream=0x71000;block=0xD60;text=2""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","ああ。
+","自分が歩けないのは、その影響だと？
+","…どうかな。いや、おそらくは違うんだろう。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你觉得这就是你无法行走的原因？,"[""你觉得这就是你无法行走的原因？""]","And you think that's why you can't walk?
+","[""And you think that's why you can't walk?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#2; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,3,stream=0x71000;block=0xD60;text=3,"[""stream=0x71000;block=0xD60;text=3""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","自分が歩けないのは、その影響だと？
+","…どうかな。いや、おそらくは違うんだろう。
+","今のところ、親が放射線被曝していたからと言って、その
+子供に遺伝的な影響が出るという証拠は、見つかっていな
+い。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…我不知道。其实，
+你知道，大概不是。","[""…我不知道。其实，\n你知道，大概不是。""]","...I dunno. Actually, you know, probably not.
+","[""...I dunno. Actually, you know, probably not.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#3; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,4,stream=0x71000;block=0xD60;text=4,"[""stream=0x71000;block=0xD60;text=4""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","…どうかな。いや、おそらくは違うんだろう。
+","今のところ、親が放射線被曝していたからと言って、その
+子供に遺伝的な影響が出るという証拠は、見つかっていな
+い。
+","胎内被曝した場合は別として…疫学的にはね。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"至今没有人发现证据表明，
+父母暴露于辐射会导致子女遗传缺陷，","[""至今没有人发现证据表明，\n父母暴露于辐射会导致子女遗传缺陷，""]","So far nobody's found evidence that exposure to
+radiation
+in parents causes genetic defects in children,
+","[""So far nobody's found evidence that exposure to\nradiation\nin parents causes genetic defects in children,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x71D60; ENG blocks=0xFE0A0,0xFE0A0; ENG source rows=0xFE0A0#4,0xFE0A0#5; block_semantic_score=0.235500."
+BRIEFING_FILES_BLOCK_071D60,5,stream=0x71000;block=0xD60;text=5,"[""stream=0x71000;block=0xD60;text=5""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","今のところ、親が放射線被曝していたからと言って、その
+子供に遺伝的な影響が出るという証拠は、見つかっていな
+い。
+","胎内被曝した場合は別として…疫学的にはね。
+","それは、<R=原爆傷害調査委員会,ABCC>のデータ？
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"除了在子宫内受到辐射的那些人…
+从流行病学角度来说，是这样。","[""除了在子宫内受到辐射的那些人…\n从流行病学角度来说，是这样。""]","except for those exposed in the womb...
+Epidemiologically speaking, anyway.
+","[""except for those exposed in the womb...\nEpidemiologically speaking, anyway.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#6; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,6,stream=0x71000;block=0xD60;text=6,"[""stream=0x71000;block=0xD60;text=6""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","胎内被曝した場合は別として…疫学的にはね。
+","それは、<R=原爆傷害調査委員会,ABCC>のデータ？
+","ああ。<R=原爆傷害調査委員会,ABCC>は戦後まもなく、被爆者の調査
+を始めた。そして、それは今でも続いている。
+","[""<R=原爆傷害調査委員会,ABCC>""]",,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这是原子弹伤害调查
+委员会（ABCC）的结论？","[""这是原子弹伤害调查\n委员会（ABCC）的结论？""]","That's the conclusion of the Atomic Bomb Casualty
+Commission?
+","[""That's the conclusion of the Atomic Bomb Casualty\nCommission?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#7; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,7,stream=0x71000;block=0xD60;text=7,"[""stream=0x71000;block=0xD60;text=7""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","それは、<R=原爆傷害調査委員会,ABCC>のデータ？
+","ああ。<R=原爆傷害調査委員会,ABCC>は戦後まもなく、被爆者の調査
+を始めた。そして、それは今でも続いている。
+","30年経った今でも…。
+","[""<R=原爆傷害調査委員会,ABCC>""]",,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对。战争一结束，
+ABCC就立即开始了这项研究。","[""对。战争一结束，\nABCC就立即开始了这项研究。""]","Right. The ABCC commenced its study immediately
+after the war.
+","[""Right. The ABCC commenced its study immediately\nafter the war.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#8; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,8,stream=0x71000;block=0xD60;text=8,"[""stream=0x71000;block=0xD60;text=8""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","ああ。<R=原爆傷害調査委員会,ABCC>は戦後まもなく、被爆者の調査
+を始めた。そして、それは今でも続いている。
+","30年経った今でも…。
+","放射線の影響は長期間続く。遺伝的影響の調査にしたって、
+一応の結論が出るまで、あと10年はかかるだろうね。
+",[],,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,即便是现在，30年后的今天…,"[""即便是现在，30年后的今天…""]","Even now, 30 years later...
+","[""Even now, 30 years later...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#10; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,9,stream=0x71000;block=0xD60;text=9,"[""stream=0x71000;block=0xD60;text=9""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","30年経った今でも…。
+","放射線の影響は長期間続く。遺伝的影響の調査にしたって、
+一応の結論が出るまで、あと10年はかかるだろうね。
+","確かにかつてない、大規模な調査だよ。
+",[],,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,辐射暴露的影响会持续很长时间。,"[""辐射暴露的影响会持续很长时间。""]","The effects of radiation exposure last a long time.
+","[""The effects of radiation exposure last a long time.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#11; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,10,stream=0x71000;block=0xD60;text=10,"[""stream=0x71000;block=0xD60;text=10""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","放射線の影響は長期間続く。遺伝的影響の調査にしたって、
+一応の結論が出るまで、あと10年はかかるだろうね。
+","確かにかつてない、大規模な調査だよ。
+","だけど、本当に調査だけ。<R=原爆傷害調査委員会,ABCC>は被爆者を
+呼んでは検査をしたけど、治療はしなかったんだ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"的确，这是有史以来
+规模最庞大的研究。","[""的确，这是有史以来\n规模最庞大的研究。""]","Granted, it's the most massive study anybody's
+ever done.
+","[""Granted, it's the most massive study anybody's\never done.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#14; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,11,stream=0x71000;block=0xD60;text=11,"[""stream=0x71000;block=0xD60;text=11""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","確かにかつてない、大規模な調査だよ。
+","だけど、本当に調査だけ。<R=原爆傷害調査委員会,ABCC>は被爆者を
+呼んでは検査をしたけど、治療はしなかったんだ。
+","そうか…彼らも…。
+","[""<R=原爆傷害調査委員会,ABCC>""]",,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"ABCC把原子弹受害者带来做测试，
+却没有治疗他们。","[""ABCC把原子弹受害者带来做测试，\n却没有治疗他们。""]","The ABCC brought in bomb victims and ran tests
+on them, but they didn't treat them.
+","[""The ABCC brought in bomb victims and ran tests\non them, but they didn't treat them.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#16; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,12,stream=0x71000;block=0xD60;text=12,"[""stream=0x71000;block=0xD60;text=12""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","だけど、本当に調査だけ。<R=原爆傷害調査委員会,ABCC>は被爆者を
+呼んでは検査をしたけど、治療はしなかったんだ。
+","そうか…彼らも…。
+","いずれにしても、僕は子供の頃から信じ込まされてきたん
+だ、父に…。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真的吗…他们也不例外啊…,"[""真的吗…他们也不例外啊…""]","Really... them too, huh...
+","[""Really... them too, huh...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#17; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,13,stream=0x71000;block=0xD60;text=13,"[""stream=0x71000;block=0xD60;text=13""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","そうか…彼らも…。
+","いずれにしても、僕は子供の頃から信じ込まされてきたん
+だ、父に…。
+","親父さんなりに、説明に苦しんだ末なんじゃないのか。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管怎样，我从小到大，
+父亲就是这么让我相信的…","[""不管怎样，我从小到大，\n父亲就是这么让我相信的…""]","At any rate, that's what my father made me believe
+when I was growing up...
+","[""At any rate, that's what my father made me believe\nwhen I was growing up...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#18; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,14,stream=0x71000;block=0xD60;text=14,"[""stream=0x71000;block=0xD60;text=14""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","いずれにしても、僕は子供の頃から信じ込まされてきたん
+だ、父に…。
+","親父さんなりに、説明に苦しんだ末なんじゃないのか。
+","そうかも知れない。でもねスネーク。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许你父亲很难解释清楚。
+你有没有想过这点？","[""也许你父亲很难解释清楚。\n你有没有想过这点？""]","Maybe it was tough for your dad to explain. Ever
+think of that?
+","[""Maybe it was tough for your dad to explain. Ever\nthink of that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#19; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,15,stream=0x71000;block=0xD60;text=15,"[""stream=0x71000;block=0xD60;text=15""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","親父さんなりに、説明に苦しんだ末なんじゃないのか。
+","そうかも知れない。でもねスネーク。
+","これはもう僕自身の問題なんだ。僕はこの核という存在と
+向き合って行くしかない。好む好まざるにかかわらず。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，也许吧。但这是我现在
+必须面对的问题，Snake。","[""是啊，也许吧。但这是我现在\n必须面对的问题，Snake。""]","Yeah, maybe. But this is my problem now, Snake.
+","[""Yeah, maybe. But this is my problem now, Snake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#20; block_semantic_score=0.235500.
+BRIEFING_FILES_BLOCK_071D60,16,stream=0x71000;block=0xD60;text=16,"[""stream=0x71000;block=0xD60;text=16""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","そうかも知れない。でもねスネーク。
+","これはもう僕自身の問題なんだ。僕はこの核という存在と
+向き合って行くしかない。好む好まざるにかかわらず。
+","そしてその成果が、間違った方向に使われようとしている。
+何としてでも阻止したい。協力してくれ、スネーク。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管我愿不愿意，
+我都必须直面核武器。我的创造物正被用于错误的目的。","[""不管我愿不愿意，\n我都必须直面核武器。我的创造物正被用于错误的目的。""]","I have to face the nukes head on, whether I like it
+or not.
+My creations are being used for the wrong
+purposes.
+","[""I have to face the nukes head on, whether I like it\nor not.\nMy creations are being used for the wrong\npurposes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x71D60; ENG blocks=0xFE0A0,0xFE0A0; ENG source rows=0xFE0A0#21,0xFE0A0#22; block_semantic_score=0.235500."
+BRIEFING_FILES_BLOCK_071D60,17,stream=0x71000;block=0xD60;text=17,"[""stream=0x71000;block=0xD60;text=17""]",1,BRIEFING FILES,"[""stream=0x71000;block=0xD60;block_file=0x71D60;text_base=0x71DC8;capacity=1632""]","これはもう僕自身の問題なんだ。僕はこの核という存在と
+向き合って行くしかない。好む好まざるにかかわらず。
+","そしてその成果が、間違った方向に使われようとしている。
+何としてでも阻止したい。協力してくれ、スネーク。
+",,[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我有责任想方设法阻止这一切。
+帮帮我，Snake。","[""我有责任想方设法阻止这一切。\n帮帮我，Snake。""]","The onus is on me to stop it somehow. Help me,
+Snake.
+","[""The onus is on me to stop it somehow. Help me,\nSnake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x71D60; ENG blocks=0xFE0A0; ENG source rows=0xFE0A0#23; block_semantic_score=0.235500.

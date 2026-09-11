@@ -1,0 +1,53 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_070430,0,stream=0x70000;block=0x430;text=0,"[""stream=0x70000;block=0x430;text=0""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]",,"“レプタイル”は「爬虫類」って意味だ。
+","脳の中で生命維持や反射を司る部分は、人間が遙か昔、<R=爬虫類,レプタイル>
+だった頃に発達したものなんだ。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们叫它‘爬虫舱’是有原因的。,"[""我们叫它‘爬虫舱’是有原因的。""]","We call it the ""Reptile Pod"" for a reason.
+","[""We call it the \""Reptile Pod\"" for a reason.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#0; block_semantic_score=0.216887.
+BRIEFING_FILES_BLOCK_070430,1,stream=0x70000;block=0x430;text=1,"[""stream=0x70000;block=0x430;text=1""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","“レプタイル”は「爬虫類」って意味だ。
+","脳の中で生命維持や反射を司る部分は、人間が遙か昔、<R=爬虫類,レプタイル>
+だった頃に発達したものなんだ。
+","<R=爬虫類,レプタイル>だった…？
+","[""<R=爬虫類,レプタイル>""]",,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们大脑中掌管基本生命活动和反射的
+部分，在很久以前就发展出来了，","[""我们大脑中掌管基本生命活动和反射的\n部分，在很久以前就发展出来了，""]","The parts of our brains that govern basic life and
+reflex developed ages ago,
+","[""The parts of our brains that govern basic life and\nreflex developed ages ago,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#1; block_semantic_score=0.216887.
+BRIEFING_FILES_BLOCK_070430,2,stream=0x70000;block=0x430;text=2,"[""stream=0x70000;block=0x430;text=2""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","脳の中で生命維持や反射を司る部分は、人間が遙か昔、<R=爬虫類,レプタイル>
+だった頃に発達したものなんだ。
+","<R=爬虫類,レプタイル>だった…？
+","進化の段階の話さ。ポール・マクリーンという神経生化学
+者が唱えた説なんだ。
+","[""<R=爬虫類,レプタイル>""]",,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们曾经是爬行动物？,"[""我们曾经是爬行动物？""]","We were reptiles?
+","[""We were reptiles?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#3; block_semantic_score=0.216887.
+BRIEFING_FILES_BLOCK_070430,3,stream=0x70000;block=0x430;text=3,"[""stream=0x70000;block=0x430;text=3""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","<R=爬虫類,レプタイル>だった…？
+","進化の段階の話さ。ポール・マクリーンという神経生化学
+者が唱えた説なんだ。
+","はあ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，只是在进化过程
+中的某个阶段而已。","[""嗯，只是在进化过程\n中的某个阶段而已。""]","Well, only at one stage of our evolution.
+","[""Well, only at one stage of our evolution.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#4; block_semantic_score=0.216887.
+BRIEFING_FILES_BLOCK_070430,4,stream=0x70000;block=0x430;text=4,"[""stream=0x70000;block=0x430;text=4""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","進化の段階の話さ。ポール・マクリーンという神経生化学
+者が唱えた説なんだ。
+","はあ。
+","<R=爬虫類,レプタイル>脳は、脳幹と大脳基底核に相当する。実際のレプタ
+イルポッドは、小脳の機能までカバーしているけどね。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦。,"[""哦。""]","Huh.
+","[""Huh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#6; block_semantic_score=0.216887.
+BRIEFING_FILES_BLOCK_070430,5,stream=0x70000;block=0x430;text=5,"[""stream=0x70000;block=0x430;text=5""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","はあ。
+","<R=爬虫類,レプタイル>脳は、脳幹と大脳基底核に相当する。実際のレプタ
+イルポッドは、小脳の機能までカバーしているけどね。
+","要するに、脳の奥深くってことだな。
+","[""<R=爬虫類,レプタイル>""]",,,NOT_CHECKED,175,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"爬虫类脑对应的是我们大脑
+中的脑干和基底神经节。","[""爬虫类脑对应的是我们大脑\n中的脑干和基底神经节。""]","The reptile brain corresponds to the brainstem and
+basal ganglia in our brain.
+","[""The reptile brain corresponds to the brainstem and\nbasal ganglia in our brain.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#7; block_semantic_score=0.216887.
+BRIEFING_FILES_BLOCK_070430,6,stream=0x70000;block=0x430;text=6,"[""stream=0x70000;block=0x430;text=6""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","<R=爬虫類,レプタイル>脳は、脳幹と大脳基底核に相当する。実際のレプタ
+イルポッドは、小脳の機能までカバーしているけどね。
+","要するに、脳の奥深くってことだな。
+","これは、ストレンジラブの命名なんだ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以基本上，它就是大脑的深层部分。,"[""所以基本上，它就是大脑的深层部分。""]","So basically, it's the deep parts of the brain.
+","[""So basically, it's the deep parts of the brain.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#9; block_semantic_score=0.216887.
+BRIEFING_FILES_BLOCK_070430,7,stream=0x70000;block=0x430;text=7,"[""stream=0x70000;block=0x430;text=7""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","要するに、脳の奥深くってことだな。
+","これは、ストレンジラブの命名なんだ。
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Strangelove博士起了这个名字。,"[""Strangelove博士起了这个名字。""]","Dr. Strangelove came up with the name.
+","[""Dr. Strangelove came up with the name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70430; ENG blocks=0xFC8D0; ENG source rows=0xFC8D0#10; block_semantic_score=0.216887.

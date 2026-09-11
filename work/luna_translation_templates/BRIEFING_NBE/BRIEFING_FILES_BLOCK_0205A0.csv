@@ -1,0 +1,113 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0205A0,0,stream=0x20000;block=0x5A0;text=0,"[""stream=0x20000;block=0x5A0;text=0""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]",,"<R=偵察,スカウト>兵は潜伏用の偽装を施している。中でも異様なのが全
+身に海草を生やしたような姿をした奴だ。
+","ギリースーツか。
+","[""<R=偵察,スカウト>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"侦察兵配备了伪装服来帮助他们隐藏。有些看起来怪怪的，
+好像身上长满了海藻。","[""侦察兵配备了伪装服来帮助他们隐藏。有些看起来怪怪的，\n好像身上长满了海藻。""]","Scouts are outfitted with camouflage to help them
+hide.
+Some of them look kind of weird, like they've got
+seaweed growing all over them.
+","[""Scouts are outfitted with camouflage to help them\nhide.\nSome of them look kind of weird, like they've got\nseaweed growing all over them.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x205A0; ENG blocks=0xB1640,0xB1640; ENG source rows=0xB1640#0,0xB1640#1; block_semantic_score=0.124814."
+BRIEFING_FILES_BLOCK_0205A0,1,stream=0x20000;block=0x5A0;text=1,"[""stream=0x20000;block=0x5A0;text=1""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","<R=偵察,スカウト>兵は潜伏用の偽装を施している。中でも異様なのが全
+身に海草を生やしたような姿をした奴だ。
+","ギリースーツか。
+","戦闘能力は他の<R=偵察,スカウト>兵と大差ないようだが、とにかく見つ
+けにくいらしい。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,啊，吉利服。,"[""啊，吉利服。""]","Ah, ghillie suits.
+","[""Ah, ghillie suits.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#2; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,2,stream=0x20000;block=0x5A0;text=2,"[""stream=0x20000;block=0x5A0;text=2""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","ギリースーツか。
+","戦闘能力は他の<R=偵察,スカウト>兵と大差ないようだが、とにかく見つ
+けにくいらしい。
+","ああ、そうだろう。
+","[""<R=偵察,スカウト>""]",,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们和普通侦察兵在
+战斗能力方面没太大区别，","[""他们和普通侦察兵在\n战斗能力方面没太大区别，""]","Not much difference between them and any other
+scout in terms of combat ability,
+","[""Not much difference between them and any other\nscout in terms of combat ability,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#3; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,3,stream=0x20000;block=0x5A0;text=3,"[""stream=0x20000;block=0x5A0;text=3""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","戦闘能力は他の<R=偵察,スカウト>兵と大差ないようだが、とにかく見つ
+けにくいらしい。
+","ああ、そうだろう。
+","以前にも？
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过确实更难被发现。,"[""不过确实更难被发现。""]","but it does make them harder to spot.
+","[""but it does make them harder to spot.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#4; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,4,stream=0x20000;block=0x5A0;text=4,"[""stream=0x20000;block=0x5A0;text=4""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","ああ、そうだろう。
+","以前にも？
+","ソ連でな。初めての時は倒すのに1時間もかかった。…カ
+ズ、そいつらは光るのか？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你以前遇到过？,"[""你以前遇到过？""]","You've come across these before?
+","[""You've come across these before?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#6; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,5,stream=0x20000;block=0x5A0;text=5,"[""stream=0x20000;block=0x5A0;text=5""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","以前にも？
+","ソ連でな。初めての時は倒すのに1時間もかかった。…カ
+ズ、そいつらは光るのか？
+","光る？　何が？
+",[],,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"第一次，我花了整整一小时
+才找到那家伙把他干掉…Kaz，你知道他们会不会发光吗？","[""第一次，我花了整整一小时\n才找到那家伙把他干掉…Kaz，你知道他们会不会发光吗？""]","The first time, it took me a full hour to find the
+guy and take him out...
+Kaz, do you know if they shine?
+","[""The first time, it took me a full hour to find the\nguy and take him out...\nKaz, do you know if they shine?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x205A0; ENG blocks=0xB1640,0xB1640; ENG source rows=0xB1640#8,0xB1640#9; block_semantic_score=0.124814."
+BRIEFING_FILES_BLOCK_0205A0,6,stream=0x20000;block=0x5A0;text=6,"[""stream=0x20000;block=0x5A0;text=6""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","ソ連でな。初めての時は倒すのに1時間もかかった。…カ
+ズ、そいつらは光るのか？
+","光る？　何が？
+","頭だ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…发光。怎么个发光法？,"[""…发光。怎么个发光法？""]","...Shine. Like how?
+","[""...Shine. Like how?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#10; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,7,stream=0x20000;block=0x5A0;text=7,"[""stream=0x20000;block=0x5A0;text=7""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","光る？　何が？
+","頭だ。
+","頭？
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们的头？,"[""他们的头？""]","Their heads?
+","[""Their heads?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#12; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,8,stream=0x20000;block=0x5A0;text=8,"[""stream=0x20000;block=0x5A0;text=8""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","頭だ。
+","頭？
+","そいつらの髪はどうなってる。フサフサなのか。
+",[],,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那他们的头发呢？头发多吗？,"[""那他们的头发呢？头发多吗？""]","How about their hair? Do they have a lot of it?
+","[""How about their hair? Do they have a lot of it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#13; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,9,stream=0x20000;block=0x5A0;text=9,"[""stream=0x20000;block=0x5A0;text=9""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","頭？
+","そいつらの髪はどうなってる。フサフサなのか。
+","何を言ってるんだ？　そんなこと判るわけないじゃないか。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你在说什么？我他妈的怎么会知道？,"[""你在说什么？我他妈的怎么会知道？""]","What are you talking about? How the hell would I
+know?
+","[""What are you talking about? How the hell would I\nknow?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#14; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,10,stream=0x20000;block=0x5A0;text=10,"[""stream=0x20000;block=0x5A0;text=10""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","そいつらの髪はどうなってる。フサフサなのか。
+","何を言ってるんだ？　そんなこと判るわけないじゃないか。
+","オウムは。オウムの鳴き声はするのか。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那鹦鹉呢？有没有人听到鹦鹉叫？,"[""那鹦鹉呢？有没有人听到鹦鹉叫？""]","How about a parrot? Did anybody hear a parrot
+squawk?
+","[""How about a parrot? Did anybody hear a parrot\nsquawk?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#15; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,11,stream=0x20000;block=0x5A0;text=11,"[""stream=0x20000;block=0x5A0;text=11""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","何を言ってるんだ？　そんなこと判るわけないじゃないか。
+","オウムは。オウムの鳴き声はするのか。
+","オウム？　おい、話す相手間違ってるぞ、鳥のことならセ
+シールだろ…じゃなくて、さっきから何の話をしてるんだ？
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,鹦鹉？听着，Snake，你问错人了。,"[""鹦鹉？听着，Snake，你问错人了。""]","A parrot? Look, Snake, you're talking to the wrong
+guy.
+","[""A parrot? Look, Snake, you're talking to the wrong\nguy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#16; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,12,stream=0x20000;block=0x5A0;text=12,"[""stream=0x20000;block=0x5A0;text=12""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","オウムは。オウムの鳴き声はするのか。
+","オウム？　おい、話す相手間違ってるぞ、鳥のことならセ
+シールだろ…じゃなくて、さっきから何の話をしてるんだ？
+","いや、判らなければいい、別の方法を考える。気にするな。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我是说，Cécile才是鸟类专家…等等，我在说什么？
+你一开始就莫名其妙！","[""我是说，Cécile才是鸟类专家…等等，我在说什么？\n你一开始就莫名其妙！""]","I mean, Cecile's the bird expert...
+Wait a second, what am I saying? You're not
+making any sense to begin with!
+","[""I mean, Cecile's the bird expert...\nWait a second, what am I saying? You're not\nmaking any sense to begin with!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x205A0; ENG blocks=0xB1640,0xB1640; ENG source rows=0xB1640#17,0xB1640#18; block_semantic_score=0.124814."
+BRIEFING_FILES_BLOCK_0205A0,13,stream=0x20000;block=0x5A0;text=13,"[""stream=0x20000;block=0x5A0;text=13""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","オウム？　おい、話す相手間違ってるぞ、鳥のことならセ
+シールだろ…じゃなくて、さっきから何の話をしてるんだ？
+","いや、判らなければいい、別の方法を考える。気にするな。
+","…？　まあいい。ともかく、こいつらのアンブッシュには
+何人も味方がやられてる。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"算了。说来话长。
+我再想别的办法，忘了吧。","[""算了。说来话长。\n我再想别的办法，忘了吧。""]","Never mind. It's... a long story. I'll figure out another
+way. Forget about it.
+","[""Never mind. It's... a long story. I'll figure out another\nway. Forget about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#19; block_semantic_score=0.124814.
+BRIEFING_FILES_BLOCK_0205A0,14,stream=0x20000;block=0x5A0;text=14,"[""stream=0x20000;block=0x5A0;text=14""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","いや、判らなければいい、別の方法を考える。気にするな。
+","…？　まあいい。ともかく、こいつらのアンブッシュには
+何人も味方がやられてる。
+","十分に気をつけるんだ。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"好，我会的。总之，我们已经因为这些
+遭遇战损失了不少好手。","[""好，我会的。总之，我们已经因为这些\n遭遇战损失了不少好手。""]","Yeah, I'll do that.
+Anyway, we've already lost too many good people
+to these surprise encounters.
+","[""Yeah, I'll do that.\nAnyway, we've already lost too many good people\nto these surprise encounters.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x205A0; ENG blocks=0xB1640,0xB1640; ENG source rows=0xB1640#20,0xB1640#21; block_semantic_score=0.124814."
+BRIEFING_FILES_BLOCK_0205A0,15,stream=0x20000;block=0x5A0;text=15,"[""stream=0x20000;block=0x5A0;text=15""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","…？　まあいい。ともかく、こいつらのアンブッシュには
+何人も味方がやられてる。
+","十分に気をつけるんだ。
+",,[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你可别步他们的后尘。,"[""你可别步他们的后尘。""]","Make sure you don't end up like one of them.
+","[""Make sure you don't end up like one of them.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x205A0; ENG blocks=0xB1640; ENG source rows=0xB1640#22; block_semantic_score=0.124814.

@@ -1,0 +1,27 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01C940,0,stream=0x1C000;block=0x940;text=0,"[""stream=0x1C000;block=0x940;text=0""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x940;block_file=0x1C940;text_base=0x1C970;capacity=316""]",,"その場所に敵兵の姿は確認されていない。訓練に集中でき
+るはずだ。
+","的は少し分かりにくい場所にもあるかもしれないが、頑張
+って探してくれ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,里面没有敌人踪迹。你该能专心训练。,"[""里面没有敌人踪迹。你该能专心训练。""]","No sign of the enemy in there. You should be clear
+to focus on training.
+","[""No sign of the enemy in there. You should be clear\nto focus on training.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1C940; ENG blocks=0xADB70; ENG source rows=0xADB70#0; block_semantic_score=0.121874.
+BRIEFING_FILES_BLOCK_01C940,1,stream=0x1C000;block=0x940;text=1,"[""stream=0x1C000;block=0x940;text=1""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x940;block_file=0x1C940;text_base=0x1C970;capacity=316""]","その場所に敵兵の姿は確認されていない。訓練に集中でき
+るはずだ。
+","的は少し分かりにくい場所にもあるかもしれないが、頑張
+って探してくれ。
+","距離としては中距離だ。好きな武器を使ってくれ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有些标靶可能不太好找，但坚持找找，它们就藏在什么地方。,"[""有些标靶可能不太好找，但坚持找找，它们就藏在什么地方。""]","Some of the targets might be a little hard to spot,
+but keep at it - they're out there somewhere.
+","[""Some of the targets might be a little hard to spot,\nbut keep at it - they're out there somewhere.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x1C940; ENG blocks=0xADB70,0xADB70; ENG source rows=0xADB70#1,0xADB70#2; block_semantic_score=0.121874."
+BRIEFING_FILES_BLOCK_01C940,2,stream=0x1C000;block=0x940;text=2,"[""stream=0x1C000;block=0x940;text=2""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x940;block_file=0x1C940;text_base=0x1C970;capacity=316""]","的は少し分かりにくい場所にもあるかもしれないが、頑張
+って探してくれ。
+","距離としては中距離だ。好きな武器を使ってくれ。
+","素早く、正確に的を狙うんだ。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这里是中距离区域。,"[""这里是中距离区域。""]","This is a medium-range area.
+","[""This is a medium-range area.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1C940; ENG blocks=0xADB70; ENG source rows=0xADB70#3; block_semantic_score=0.121874.
+BRIEFING_FILES_BLOCK_01C940,3,stream=0x1C000;block=0x940;text=3,"[""stream=0x1C000;block=0x940;text=3""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x940;block_file=0x1C940;text_base=0x1C970;capacity=316""]","距離としては中距離だ。好きな武器を使ってくれ。
+","素早く、正確に的を狙うんだ。
+",,[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,随便你想练什么枪都行。,"[""随便你想练什么枪都行。""]","Good for whatever weapon you want to practice
+with.
+","[""Good for whatever weapon you want to practice\nwith.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1C940; ENG blocks=0xADB70; ENG source rows=0xADB70#4; block_semantic_score=0.121874.

@@ -1,0 +1,83 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_380960,0,stream=0x380000;block=0x960;text=0,"[""stream=0x380000;block=0x960;text=0""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]",,"ボス、聞いてくれ。
+あんたのおかげで、MSFもかなりの大所帯になって
+きた。
+","だがこうなってくると、糧食のことも真剣に考えない
+とまずい。
+",[],,,NOT_CHECKED,105,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你我都清楚，无国界之师（MSF）
+能发展壮大全靠你。","[""你我都清楚，无国界之师（MSF）\n能发展壮大全靠你。""]","we both know you're the reason MSF's
+grown so much.
+","[""we both know you're the reason MSF's\ngrown so much.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380960; ENG blocks=0x395BD0; ENG source rows=0x395BD0#1; block_semantic_score=0.193613.
+BRIEFING_MISSION_BLOCK_380960,1,stream=0x380000;block=0x960;text=1,"[""stream=0x380000;block=0x960;text=1""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","ボス、聞いてくれ。
+あんたのおかげで、MSFもかなりの大所帯になって
+きた。
+","だがこうなってくると、糧食のことも真剣に考えない
+とまずい。
+","そうだな。洋上プラントだけに、備蓄も欠かせない。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我们是时候该多
+考虑一下补给的问题了。","[""但我们是时候该多\n考虑一下补给的问题了。""]","But it's time we started putting more
+thought into provisions.
+","[""But it's time we started putting more\nthought into provisions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380960; ENG blocks=0x395BD0; ENG source rows=0x395BD0#2; block_semantic_score=0.193613.
+BRIEFING_MISSION_BLOCK_380960,2,stream=0x380000;block=0x960;text=2,"[""stream=0x380000;block=0x960;text=2""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","だがこうなってくると、糧食のことも真剣に考えない
+とまずい。
+","そうだな。洋上プラントだけに、備蓄も欠かせない。
+","日本のことわざにもある。
+「腹が減っては戦はできん」。
+第二次大戦で日本はそのことを学んだ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说得对。这么大的地方，
+确实需要有充足的储备。","[""说得对。这么大的地方，\n确实需要有充足的储备。""]","Good point. A place this big needs a good
+stockpile on hand.
+","[""Good point. A place this big needs a good\nstockpile on hand.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380960; ENG blocks=0x395BD0; ENG source rows=0x395BD0#3; block_semantic_score=0.193613.
+BRIEFING_MISSION_BLOCK_380960,3,stream=0x380000;block=0x960;text=3,"[""stream=0x380000;block=0x960;text=3""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","そうだな。洋上プラントだけに、備蓄も欠かせない。
+","日本のことわざにもある。
+「腹が減っては戦はできん」。
+第二次大戦で日本はそのことを学んだ。
+","食糧の供給は兵站の基本なんだが…。
+",[],,,NOT_CHECKED,135,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,日本人有句话：“空着肚子打不了仗。”这是我们在二战中学到的。,"[""日本人有句话：“空着肚子打不了仗。”这是我们在二战中学到的。""]","The Japanese say, ""You can't fight on an
+empty stomach.""
+Something we learned in World War II.
+","[""The Japanese say, \""You can't fight on an\nempty stomach.\""\nSomething we learned in World War II.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x380960; ENG blocks=0x395BD0,0x395BD0; ENG source rows=0x395BD0#4,0x395BD0#5; block_semantic_score=0.193613."
+BRIEFING_MISSION_BLOCK_380960,4,stream=0x380000;block=0x960;text=4,"[""stream=0x380000;block=0x960;text=4""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","日本のことわざにもある。
+「腹が減っては戦はできん」。
+第二次大戦で日本はそのことを学んだ。
+","食糧の供給は兵站の基本なんだが…。
+","そんなわけで、『糧食班』というのを作った。
+糧食班の人数と能力によって、
+マザーベースの食糧供給率が変化する。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"保持稳定的补给供应是
+后勤的基本准则之一。","[""保持稳定的补给供应是\n后勤的基本准则之一。""]","Maintaining a steady supply of provisions
+is one of the basic principles of logistics.
+","[""Maintaining a steady supply of provisions\nis one of the basic principles of logistics.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380960; ENG blocks=0x395BD0; ENG source rows=0x395BD0#7; block_semantic_score=0.193613.
+BRIEFING_MISSION_BLOCK_380960,5,stream=0x380000;block=0x960;text=5,"[""stream=0x380000;block=0x960;text=5""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","食糧の供給は兵站の基本なんだが…。
+","そんなわけで、『糧食班』というのを作った。
+糧食班の人数と能力によって、
+マザーベースの食糧供給率が変化する。
+","食糧が充分に供給されないと、兵士の士気が下がるし、
+あまり腹を減らした兵士は逃げ出すぞ。
+",[],,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"队员的数量和能力会
+影响可分配的食物量。","[""队员的数量和能力会\n影响可分配的食物量。""]","The team members' numbers and abilities
+will affect the amount of grub to go
+around.
+","[""The team members' numbers and abilities\nwill affect the amount of grub to go\naround.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380960; ENG blocks=0x395BD0; ENG source rows=0x395BD0#9; block_semantic_score=0.193613.
+BRIEFING_MISSION_BLOCK_380960,6,stream=0x380000;block=0x960;text=6,"[""stream=0x380000;block=0x960;text=6""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","そんなわけで、『糧食班』というのを作った。
+糧食班の人数と能力によって、
+マザーベースの食糧供給率が変化する。
+","食糧が充分に供給されないと、兵士の士気が下がるし、
+あまり腹を減らした兵士は逃げ出すぞ。
+","早速だが、糧食班に人員を配置してくれ。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"食物不足，士气就会下降。一旦他们饿得够呛，
+我们可能就会开始减员。","[""食物不足，士气就会下降。一旦他们饿得够呛，\n我们可能就会开始减员。""]","Without enough food, morale will drop.
+They get hungry enough, and we could
+start losing people.
+","[""Without enough food, morale will drop.\nThey get hungry enough, and we could\nstart losing people.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x380960; ENG blocks=0x395BD0,0x395BD0; ENG source rows=0x395BD0#10,0x395BD0#11; block_semantic_score=0.193613."
+BRIEFING_MISSION_BLOCK_380960,7,stream=0x380000;block=0x960;text=7,"[""stream=0x380000;block=0x960;text=7""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","食糧が充分に供給されないと、兵士の士気が下がるし、
+あまり腹を減らした兵士は逃げ出すぞ。
+","早速だが、糧食班に人員を配置してくれ。
+","了解。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,总之，我需要你派人到食堂小组。,"[""总之，我需要你派人到食堂小组。""]","Anyway, I need you to assign guys to the
+Mess Hall Team.
+","[""Anyway, I need you to assign guys to the\nMess Hall Team.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380960; ENG blocks=0x395BD0; ENG source rows=0x395BD0#12; block_semantic_score=0.193613.
+BRIEFING_MISSION_BLOCK_380960,8,stream=0x380000;block=0x960;text=8,"[""stream=0x380000;block=0x960;text=8""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x960;block_file=0x380960;text_base=0x3809A4;capacity=824""]","早速だが、糧食班に人員を配置してくれ。
+","了解。
+",,[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,收到。,"[""收到。""]","Copy that.
+","[""Copy that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380960; ENG blocks=0x395BD0; ENG source rows=0x395BD0#13; block_semantic_score=0.193613.

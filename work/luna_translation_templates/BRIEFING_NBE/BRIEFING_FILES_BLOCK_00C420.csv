@@ -1,0 +1,172 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00C420,0,stream=0xC000;block=0x420;text=0,"[""stream=0xC000;block=0x420;text=0""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]",,"日本には、アメリカ軍が駐留していたな。
+","そうだ。連合国による占領が終わった後も、日米安全保障
+条約に基づいて、米軍が駐留を続けている。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,美国在日本驻有军队，对吧？,"[""美国在日本驻有军队，对吧？""]","The U.S. has military forces stationed in Japan,
+right?
+","[""The U.S. has military forces stationed in Japan,\nright?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#0; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,1,stream=0xC000;block=0x420;text=1,"[""stream=0xC000;block=0x420;text=1""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","日本には、アメリカ軍が駐留していたな。
+","そうだ。連合国による占領が終わった後も、日米安全保障
+条約に基づいて、米軍が駐留を続けている。
+","そこはコスタリカと違うな。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。虽然盟军的占领已经结束，根据《日美安保条约》，
+美军至今仍驻扎在那里。","[""没错。虽然盟军的占领已经结束，根据《日美安保条约》，\n美军至今仍驻扎在那里。""]","Right. Even though the Allied occupation ended,
+American forces are still stationed there under the
+U.S.-Japan Security Treaty.
+","[""Right. Even though the Allied occupation ended,\nAmerican forces are still stationed there under the\nU.S.-Japan Security Treaty.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xC420; ENG blocks=0x9ECF0,0x9ECF0; ENG source rows=0x9ECF0#1,0x9ECF0#2; block_semantic_score=0.249377."
+BRIEFING_FILES_BLOCK_00C420,2,stream=0xC000;block=0x420;text=2,"[""stream=0xC000;block=0x420;text=2""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","そうだ。連合国による占領が終わった後も、日米安全保障
+条約に基づいて、米軍が駐留を続けている。
+","そこはコスタリカと違うな。
+","占領って経緯もあるが、そもそもアメリカにとって、日本
+は戦略上とても重要な位置にある。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,部分原因要追溯到占领时期，,"[""部分原因要追溯到占领时期，""]","Part of it stems from the occupation,
+","[""Part of it stems from the occupation,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#4; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,3,stream=0xC000;block=0x420;text=3,"[""stream=0xC000;block=0x420;text=3""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","そこはコスタリカと違うな。
+","占領って経緯もあるが、そもそもアメリカにとって、日本
+は戦略上とても重要な位置にある。
+","ソ連は目と鼻の先だし、中国や北朝鮮にも近い。太平洋の
+安全保障にとっても不可欠だ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但从美国的角度来看，
+日本也占据着关键的战略位置。","[""但从美国的角度来看，\n日本也占据着关键的战略位置。""]","but Japan also occupies a key strategic position
+from America's perspective.
+","[""but Japan also occupies a key strategic position\nfrom America's perspective.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#5; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,4,stream=0xC000;block=0x420;text=4,"[""stream=0xC000;block=0x420;text=4""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","占領って経緯もあるが、そもそもアメリカにとって、日本
+は戦略上とても重要な位置にある。
+","ソ連は目と鼻の先だし、中国や北朝鮮にも近い。太平洋の
+安全保障にとっても不可欠だ。
+","アメリカにしてみれば、日本は「共産主義からの防波堤」
+なんだ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它就在苏联隔壁，
+离中国和朝鲜也很近。这对太平洋亚洲地区的安全至关重要。","[""它就在苏联隔壁，\n离中国和朝鲜也很近。这对太平洋亚洲地区的安全至关重要。""]","It's next door to the Soviet Union, and close to
+China and North Korea as well.
+It's integral to the security of Pacific Asia.
+","[""It's next door to the Soviet Union, and close to\nChina and North Korea as well.\nIt's integral to the security of Pacific Asia.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xC420; ENG blocks=0x9ECF0,0x9ECF0; ENG source rows=0x9ECF0#6,0x9ECF0#7; block_semantic_score=0.249377."
+BRIEFING_FILES_BLOCK_00C420,5,stream=0xC000;block=0x420;text=5,"[""stream=0xC000;block=0x420;text=5""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","ソ連は目と鼻の先だし、中国や北朝鮮にも近い。太平洋の
+安全保障にとっても不可欠だ。
+","アメリカにしてみれば、日本は「共産主義からの防波堤」
+なんだ。
+","日本にとっては？
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对美国来说，日本是抵御
+共产主义的一道屏障。","[""对美国来说，日本是抵御\n共产主义的一道屏障。""]","For America, Japan represents a barrier against
+communism.
+","[""For America, Japan represents a barrier against\ncommunism.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#8; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,6,stream=0xC000;block=0x420;text=6,"[""stream=0xC000;block=0x420;text=6""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","アメリカにしてみれば、日本は「共産主義からの防波堤」
+なんだ。
+","日本にとっては？
+","もちろん、日米安保への反対は根強い。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那日本这边呢？,"[""那日本这边呢？""]","What about for Japan?
+","[""What about for Japan?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#9; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,7,stream=0xC000;block=0x420;text=7,"[""stream=0xC000;block=0x420;text=7""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","日本にとっては？
+","もちろん、日米安保への反対は根強い。
+","1960年と70年の条約改定時には、大きな反対運動が起
+きた。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你也能想到，对这个同盟的
+反对声一直根深蒂固。","[""你也能想到，对这个同盟的\n反对声一直根深蒂固。""]","As you might expect, there's deep-rooted
+opposition to the alliance.
+","[""As you might expect, there's deep-rooted\nopposition to the alliance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#10; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,8,stream=0xC000;block=0x420;text=8,"[""stream=0xC000;block=0x420;text=8""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","もちろん、日米安保への反対は根強い。
+","1960年と70年の条約改定時には、大きな反対運動が起
+きた。
+","特に沖縄は、2年前にアメリカから返還されたばかりで、
+基地が集中している。県民の負担も大きい。
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"1960年和1970年，
+条约到了修订期的时候，","[""1960年和1970年，\n条约到了修订期的时候，""]","In 1960 and 1970, when the treaty was up for
+revision,
+","[""In 1960 and 1970, when the treaty was up for\nrevision,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#11; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,9,stream=0xC000;block=0x420;text=9,"[""stream=0xC000;block=0x420;text=9""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","1960年と70年の条約改定時には、大きな反対運動が起
+きた。
+","特に沖縄は、2年前にアメリカから返還されたばかりで、
+基地が集中している。県民の負担も大きい。
+","なら、なぜ条約を破棄しないんだ。
+",[],,,NOT_CHECKED,138,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"尤其是冲绳。美国两年
+前才把它归还给日本，美军基地至今仍集中在那里。这对冲绳人来说是个沉重的负担。","[""尤其是冲绳。美国两年\n前才把它归还给日本，美军基地至今仍集中在那里。这对冲绳人来说是个沉重的负担。""]","Especially in Okinawa. The U.S. only gave it back to
+Japan two years ago,
+and American bases are still concentrated there.
+It's a heavy burden for the Okinawans to bear.
+","[""Especially in Okinawa. The U.S. only gave it back to\nJapan two years ago,\nand American bases are still concentrated there.\nIt's a heavy burden for the Okinawans to bear.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0xC420; ENG blocks=0x9ECF0,0x9ECF0,0x9ECF0; ENG source rows=0x9ECF0#13,0x9ECF0#14,0x9ECF0#15; block_semantic_score=0.249377."
+BRIEFING_FILES_BLOCK_00C420,10,stream=0xC000;block=0x420;text=10,"[""stream=0xC000;block=0x420;text=10""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","特に沖縄は、2年前にアメリカから返還されたばかりで、
+基地が集中している。県民の負担も大きい。
+","なら、なぜ条約を破棄しないんだ。
+","いろいろだ。もちろんアメリカとの力関係もある。それに
+条約を破棄すれば、アメリカの核の傘からも抜け出すこと
+になる。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那他们为什么不干脆废除条约呢？,"[""那他们为什么不干脆废除条约呢？""]","Then why don't they scrap the treaty?
+","[""Then why don't they scrap the treaty?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#16; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,11,stream=0xC000;block=0x420;text=11,"[""stream=0xC000;block=0x420;text=11""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","なら、なぜ条約を破棄しないんだ。
+","いろいろだ。もちろんアメリカとの力関係もある。それに
+条約を破棄すれば、アメリカの核の傘からも抜け出すこと
+になる。
+","米軍撤退後、自衛隊だけで国が守り切れるのか…俺には何
+とも言えん。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"原因很多。当然了，
+和美国之间的实力不对等是一个。而且如果日本退出，
+就会失去美国提供的核保护伞。","[""原因很多。当然了，\n和美国之间的实力不对等是一个。而且如果日本退出，\n就会失去美国提供的核保护伞。""]","Lots of reasons. There's the imbalance of power
+with the U.S., of course.
+And if Japan pulled out, they'd be losing the
+nuclear umbrella America provides.
+","[""Lots of reasons. There's the imbalance of power\nwith the U.S., of course.\nAnd if Japan pulled out, they'd be losing the\nnuclear umbrella America provides.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xC420; ENG blocks=0x9ECF0,0x9ECF0; ENG source rows=0x9ECF0#17,0x9ECF0#18; block_semantic_score=0.249377."
+BRIEFING_FILES_BLOCK_00C420,12,stream=0xC000;block=0x420;text=12,"[""stream=0xC000;block=0x420;text=12""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","いろいろだ。もちろんアメリカとの力関係もある。それに
+条約を破棄すれば、アメリカの核の傘からも抜け出すこと
+になる。
+","米軍撤退後、自衛隊だけで国が守り切れるのか…俺には何
+とも言えん。
+","コスタリカが、米州共同防衛条約、いわゆるリオ協定を恃
+みにしているのと同じだ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"至于美军撤走之后
+自卫队能不能保卫国家…","[""至于美军撤走之后\n自卫队能不能保卫国家…""]","And as for whether the JSDF could defend the
+country after the Americans left...
+","[""And as for whether the JSDF could defend the\ncountry after the Americans left...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#19; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,13,stream=0xC000;block=0x420;text=13,"[""stream=0xC000;block=0x420;text=13""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","米軍撤退後、自衛隊だけで国が守り切れるのか…俺には何
+とも言えん。
+","コスタリカが、米州共同防衛条約、いわゆるリオ協定を恃
+みにしているのと同じだ。
+","平和憲法を持つ国が、他国の軍隊を受け入れざるを得ない
+…皮肉なことだ。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们依靠的是《美洲国家间互助
+条约》，也就是所谓的《里约条约》。","[""他们依靠的是《美洲国家间互助\n条约》，也就是所谓的《里约条约》。""]","They depend on the Inter-American Treaty of
+Reciprocal Assistance, the so-called Rio Pact.
+","[""They depend on the Inter-American Treaty of\nReciprocal Assistance, the so-called Rio Pact.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#22; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,14,stream=0xC000;block=0x420;text=14,"[""stream=0xC000;block=0x420;text=14""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","コスタリカが、米州共同防衛条約、いわゆるリオ協定を恃
+みにしているのと同じだ。
+","平和憲法を持つ国が、他国の軍隊を受け入れざるを得ない
+…皮肉なことだ。
+","一方で、アメリカにも不満はあるようだ。日本は、米軍に
+よる安全保障にただ乗りしていると。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以那些拥有和平宪法的国家到头来还是得依赖
+别国的军队…真是讽刺。","[""所以那些拥有和平宪法的国家到头来还是得依赖\n别国的军队…真是讽刺。""]","So the countries with peace constitutions
+end up having to rely on other countries' armies...
+Kind of ironic.
+","[""So the countries with peace constitutions\nend up having to rely on other countries' armies...\nKind of ironic.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xC420; ENG blocks=0x9ECF0,0x9ECF0; ENG source rows=0x9ECF0#23,0x9ECF0#24; block_semantic_score=0.249377."
+BRIEFING_FILES_BLOCK_00C420,15,stream=0xC000;block=0x420;text=15,"[""stream=0xC000;block=0x420;text=15""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","平和憲法を持つ国が、他国の軍隊を受け入れざるを得ない
+…皮肉なことだ。
+","一方で、アメリカにも不満はあるようだ。日本は、米軍に
+よる安全保障にただ乗りしていると。
+","最近日本の工業製品が、アメリカに進出しているだろう？
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有人认为日本是在搭
+美国安全保障的便车。","[""有人认为日本是在搭\n美国安全保障的便车。""]","Some people argue Japan is freeloading off
+America's security guarantee.
+","[""Some people argue Japan is freeloading off\nAmerica's security guarantee.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#26; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,16,stream=0xC000;block=0x420;text=16,"[""stream=0xC000;block=0x420;text=16""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","一方で、アメリカにも不満はあるようだ。日本は、米軍に
+よる安全保障にただ乗りしていると。
+","最近日本の工業製品が、アメリカに進出しているだろう？
+","ああ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你也知道，日本的工业出口
+正在大举进军美国市场。","[""你也知道，日本的工业出口\n正在大举进军美国市场。""]","And you know how Japan's industrial exports are
+making inroads in the States.
+","[""And you know how Japan's industrial exports are\nmaking inroads in the States.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#27; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,17,stream=0xC000;block=0x420;text=17,"[""stream=0xC000;block=0x420;text=17""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","最近日本の工業製品が、アメリカに進出しているだろう？
+","ああ。
+","軍備費を経済復興に振り向けた日本が、アメリカの市場で
+シェアを伸ばしている。面白くはないだろうな。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊。我自己就有一台日本产的
+相机，是最棒的相机。","[""是啊。我自己就有一台日本产的\n相机，是最棒的相机。""]","Yeah. I've got a Japanese camera myself. Best
+damn camera around.
+","[""Yeah. I've got a Japanese camera myself. Best\ndamn camera around.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC420; ENG blocks=0x9ECF0; ENG source rows=0x9ECF0#28; block_semantic_score=0.249377.
+BRIEFING_FILES_BLOCK_00C420,18,stream=0xC000;block=0x420;text=18,"[""stream=0xC000;block=0x420;text=18""]",1,BRIEFING FILES,"[""stream=0xC000;block=0x420;block_file=0xC420;text_base=0xC48C;capacity=1804""]","ああ。
+","軍備費を経済復興に振り向けた日本が、アメリカの市場で
+シェアを伸ばしている。面白くはないだろうな。
+",,[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"日本较低的防卫开支让它能把
+更多资金投入到经济复苏中并扩大在美国市场的份额。","[""日本较低的防卫开支让它能把\n更多资金投入到经济复苏中并扩大在美国市场的份额。""]","Japan's low defense spending allows it to invest
+more in economic recovery
+and expand its share of the American market.
+","[""Japan's low defense spending allows it to invest\nmore in economic recovery\nand expand its share of the American market.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xC420; ENG blocks=0x9ECF0,0x9ECF0; ENG source rows=0x9ECF0#29,0x9ECF0#30; block_semantic_score=0.249377."

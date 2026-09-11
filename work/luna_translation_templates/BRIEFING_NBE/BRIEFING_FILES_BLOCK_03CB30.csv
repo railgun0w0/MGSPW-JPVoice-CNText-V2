@@ -1,0 +1,35 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03CB30,0,stream=0x3C000;block=0xB30;text=0,"[""stream=0x3C000;block=0xB30;text=0""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0xB30;block_file=0x3CB30;text_base=0x3CB60;capacity=448""]",,"スネーク、一度通った場所でも慎重にね。敵は自然の中に
+潜んでるはず。
+","それからIDカードを持った傭兵の見つけ方は？
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，经过之前
+走过的地方时要小心。敌人可能正等着埋伏你。","[""Snake，经过之前\n走过的地方时要小心。敌人可能正等着埋伏你。""]","Snake, be careful when going through areas you've
+passed through before.
+The enemy could be waiting to ambush you.
+","[""Snake, be careful when going through areas you've\npassed through before.\nThe enemy could be waiting to ambush you.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3CB30; ENG blocks=0xCCFB0,0xCCFB0; ENG source rows=0xCCFB0#0,0xCCFB0#1; block_semantic_score=0.140941."
+BRIEFING_FILES_BLOCK_03CB30,1,stream=0x3C000;block=0xB30;text=1,"[""stream=0x3C000;block=0xB30;text=1""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0xB30;block_file=0x3CB30;text_base=0x3CB60;capacity=448""]","スネーク、一度通った場所でも慎重にね。敵は自然の中に
+潜んでるはず。
+","それからIDカードを持った傭兵の見つけ方は？
+","ああ、セシールに教わった。ケツァールが鳴く森にいる、
+オレンジ色のジャケットを着た兵士。
+",[],,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那你知道怎么识别持有
+ID卡的那个士兵吗？","[""那你知道怎么识别持有\nID卡的那个士兵吗？""]","And do you know how to identify the soldier with
+the ID card?
+","[""And do you know how to identify the soldier with\nthe ID card?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3CB30; ENG blocks=0xCCFB0; ENG source rows=0xCCFB0#2; block_semantic_score=0.140941.
+BRIEFING_FILES_BLOCK_03CB30,2,stream=0x3C000;block=0xB30;text=2,"[""stream=0x3C000;block=0xB30;text=2""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0xB30;block_file=0x3CB30;text_base=0x3CB60;capacity=448""]","それからIDカードを持った傭兵の見つけ方は？
+","ああ、セシールに教わった。ケツァールが鳴く森にいる、
+オレンジ色のジャケットを着た兵士。
+","研究所の兵士ね。巡回に出てるんだと思う。ボディチェッ
+クすれば、IDカードを持っているかわかるはずよ。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"知道，Cécile告诉我了。他在一片有
+凤尾绿咬鹃的森林里，穿着橙色夹克。","[""知道，Cécile告诉我了。他在一片有\n凤尾绿咬鹃的森林里，穿着橙色夹克。""]","Yeah, Cécile told me. He's in a forest with some
+quetzals, wearing an orange jacket.
+","[""Yeah, Cécile told me. He's in a forest with some\nquetzals, wearing an orange jacket.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3CB30; ENG blocks=0xCCFB0; ENG source rows=0xCCFB0#3; block_semantic_score=0.140941.
+BRIEFING_FILES_BLOCK_03CB30,3,stream=0x3C000;block=0xB30;text=3,"[""stream=0x3C000;block=0xB30;text=3""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0xB30;block_file=0x3CB30;text_base=0x3CB60;capacity=448""]","ああ、セシールに教わった。ケツァールが鳴く森にいる、
+オレンジ色のジャケットを着た兵士。
+","研究所の兵士ね。巡回に出てるんだと思う。ボディチェッ
+クすれば、IDカードを持っているかわかるはずよ。
+",,[],,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他会从实验室出来。可能是在巡逻。
+搜身看看他有没有带卡。","[""他会从实验室出来。可能是在巡逻。\n搜身看看他有没有带卡。""]","He'll be from the lab. Probably out on patrol. Do a
+body check to see if he's got the card.
+","[""He'll be from the lab. Probably out on patrol. Do a\nbody check to see if he's got the card.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3CB30; ENG blocks=0xCCFB0; ENG source rows=0xCCFB0#4; block_semantic_score=0.140941.

@@ -1,0 +1,20 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_383C70,0,stream=0x383000;block=0xC70;text=0,"[""stream=0x383000;block=0xC70;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xC70;block_file=0x383C70;text_base=0x383C9C;capacity=188""]",,"これより、ミッションを開始する。
+","厳しいミッションとなるだろう。
+長期戦を覚悟してくれ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,下面进行任务简报。,"[""下面进行任务简报。""]","Time for your mission briefing.
+","[""Time for your mission briefing.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383C70; ENG blocks=0x399140; ENG source rows=0x399140#0; block_semantic_score=0.006472.
+BRIEFING_MISSION_BLOCK_383C70,1,stream=0x383000;block=0xC70;text=1,"[""stream=0x383000;block=0xC70;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xC70;block_file=0x383C70;text_base=0x383C9C;capacity=188""]","これより、ミッションを開始する。
+","厳しいミッションとなるだろう。
+長期戦を覚悟してくれ。
+","やってくれると信じている。頼んだぞ。
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这次会很棘手。做好打持久战的准备。,"[""这次会很棘手。做好打持久战的准备。""]","This is going to be a tough one. Be ready
+for a protracted fight.
+","[""This is going to be a tough one. Be ready\nfor a protracted fight.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383C70; ENG blocks=0x399140; ENG source rows=0x399140#1; block_semantic_score=0.006472.
+BRIEFING_MISSION_BLOCK_383C70,2,stream=0x383000;block=0xC70;text=2,"[""stream=0x383000;block=0xC70;text=2""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0xC70;block_file=0x383C70;text_base=0x383C9C;capacity=188""]","厳しいミッションとなるだろう。
+長期戦を覚悟してくれ。
+","やってくれると信じている。頼んだぞ。
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我知道你能行。去吧，
+给他们点颜色看看！","[""我知道你能行。去吧，\n给他们点颜色看看！""]","I know you can do it. Get out there and
+kick some ass!
+","[""I know you can do it. Get out there and\nkick some ass!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383C70; ENG blocks=0x399140; ENG source rows=0x399140#2; block_semantic_score=0.006472.

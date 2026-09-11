@@ -1,0 +1,16 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_378450,0,stream=0x378000;block=0x450;text=0,"[""stream=0x378000;block=0x450;text=0""]",1,d4290_m0320_mrd,"[""stream=0x378000;block=0x450;block_file=0x378450;text_base=0x378478;capacity=188""]",,"ピースウォーカーが動き出した。
+自己防衛システムの<R=目標,ターゲット>は
+スネーク、あんただ。
+","なんとしてもそいつを止めるんだ！
+","[""<R=目標,ターゲット>""]",,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和平行者已经启动了，
+它的自卫系统正在锁定你，Snake。","[""和平行者已经启动了，\n它的自卫系统正在锁定你，Snake。""]","Peace Walker's active, and its
+self-defense system is targeting you,
+Snake.
+","[""Peace Walker's active, and its\nself-defense system is targeting you,\nSnake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x378450; ENG blocks=0x38F0E0; ENG source rows=0x38F0E0#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_378450,1,stream=0x378000;block=0x450;text=1,"[""stream=0x378000;block=0x450;text=1""]",1,d4290_m0320_mrd,"[""stream=0x378000;block=0x450;block_file=0x378450;text_base=0x378478;capacity=188""]","ピースウォーカーが動き出した。
+自己防衛システムの<R=目標,ターゲット>は
+スネーク、あんただ。
+","なんとしてもそいつを止めるんだ！
+",,[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你最好赶快想办法阻止它！,"[""你最好赶快想办法阻止它！""]","You'd better find a way to stop it, quick!
+","[""You'd better find a way to stop it, quick!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x378450; ENG blocks=0x38F0E0; ENG source rows=0x38F0E0#1; block_semantic_score=1.000000.

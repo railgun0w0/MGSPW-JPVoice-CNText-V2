@@ -1,0 +1,123 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_066B30,0,stream=0x66000;block=0xB30;text=0,"[""stream=0x66000;block=0xB30;text=0""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]",,"しかし…冷戦とは文字どおり戦争だったのか、あるいは平
+和だったのか…。
+","正直なところ、僕にはわからないよ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"冷战真的是一场战争吗，
+还是说它其实是和平…？","[""冷战真的是一场战争吗，\n还是说它其实是和平…？""]","Is the Cold War really a war, or is it really peace...?
+","[""Is the Cold War really a war, or is it really peace...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#1; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,1,stream=0x66000;block=0xB30;text=1,"[""stream=0x66000;block=0xB30;text=1""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","しかし…冷戦とは文字どおり戦争だったのか、あるいは平
+和だったのか…。
+","正直なところ、僕にはわからないよ。
+","博士…？
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_066B30,2,stream=0x66000;block=0xB30;text=2,"[""stream=0x66000;block=0xB30;text=2""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","正直なところ、僕にはわからないよ。
+","博士…？
+","世間では冷たい戦争などと言われていた。でも僕は違うと
+思った。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,博士，你在说什么…？,"[""博士，你在说什么…？""]","Doc, what are you...?
+","[""Doc, what are you...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#2; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,3,stream=0x66000;block=0xB30;text=3,"[""stream=0x66000;block=0xB30;text=3""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","博士…？
+","世間では冷たい戦争などと言われていた。でも僕は違うと
+思った。
+","確かに核兵器は増え、威力を増し、米ソは何10回でも人類
+を滅ぼせるほどの力を手にした。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,人们称之为“冷战”，但我不同意。,"[""人们称之为“冷战”，但我不同意。""]","People called it a ""cold war,"" but I disagreed.
+","[""People called it a \""cold war,\"" but I disagreed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#3; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,4,stream=0x66000;block=0xB30;text=4,"[""stream=0x66000;block=0xB30;text=4""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","世間では冷たい戦争などと言われていた。でも僕は違うと
+思った。
+","確かに核兵器は増え、威力を増し、米ソは何10回でも人類
+を滅ぼせるほどの力を手にした。
+","だけど実際にそれで人が殺されたわけじゃない。もちろん
+小規模な紛争や、代理戦争のようなものはあったけど…。
+",[],,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错，核储备在增加，
+威胁在成倍增长，美国和苏联拥有的力量足以把人类毁灭一百次以上。","[""没错，核储备在增加，\n威胁在成倍增长，美国和苏联拥有的力量足以把人类毁灭一百次以上。""]","Sure, nuclear stockpiles are increasing, threats are
+multiplying,
+the U.S. and the Soviet Union have enough power
+to destroy the human race a hundred times over.
+","[""Sure, nuclear stockpiles are increasing, threats are\nmultiplying,\nthe U.S. and the Soviet Union have enough power\nto destroy the human race a hundred times over.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x66B30; ENG blocks=0xF34F0,0xF34F0,0xF34F0; ENG source rows=0xF34F0#4,0xF34F0#5,0xF34F0#6; block_semantic_score=0.176891."
+BRIEFING_FILES_BLOCK_066B30,5,stream=0x66000;block=0xB30;text=5,"[""stream=0x66000;block=0xB30;text=5""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","確かに核兵器は増え、威力を増し、米ソは何10回でも人類
+を滅ぼせるほどの力を手にした。
+","だけど実際にそれで人が殺されたわけじゃない。もちろん
+小規模な紛争や、代理戦争のようなものはあったけど…。
+","核抑止によって世界規模の大戦は回避されて、それ以前に
+比べて圧倒的な平和が訪れたんだ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但实际上并没有人在丧命。
+也许只有小规模冲突和代理人战争…","[""但实际上并没有人在丧命。\n也许只有小规模冲突和代理人战争…""]","But nobody's actually being killed. Small-scale
+conflicts and proxy wars, maybe...
+","[""But nobody's actually being killed. Small-scale\nconflicts and proxy wars, maybe...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#7; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,6,stream=0x66000;block=0xB30;text=6,"[""stream=0x66000;block=0xB30;text=6""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","だけど実際にそれで人が殺されたわけじゃない。もちろん
+小規模な紛争や、代理戦争のようなものはあったけど…。
+","核抑止によって世界規模の大戦は回避されて、それ以前に
+比べて圧倒的な平和が訪れたんだ。
+","それに、両陣営の競争によって宇宙開発が進んだのは素晴
+らしいことだ。そうは思わないか？
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但核威慑避免了又一场世界大战。如今的世界比过去和平得多。,"[""但核威慑避免了又一场世界大战。如今的世界比过去和平得多。""]","But nuclear deterrence has averted another world
+war.
+The world's far more peaceful today than it was
+before.
+","[""But nuclear deterrence has averted another world\nwar.\nThe world's far more peaceful today than it was\nbefore.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x66B30; ENG blocks=0xF34F0,0xF34F0; ENG source rows=0xF34F0#8,0xF34F0#9; block_semantic_score=0.176891."
+BRIEFING_FILES_BLOCK_066B30,7,stream=0x66000;block=0xB30;text=7,"[""stream=0x66000;block=0xB30;text=7""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","核抑止によって世界規模の大戦は回避されて、それ以前に
+比べて圧倒的な平和が訪れたんだ。
+","それに、両陣営の競争によって宇宙開発が進んだのは素晴
+らしいことだ。そうは思わないか？
+","いや…。宇宙開発を急ぐ必要はなかった…。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而我们在太空探索上取得的突破多亏了冷战竞争——了不起，
+你不觉得吗？","[""而我们在太空探索上取得的突破多亏了冷战竞争——了不起，\n你不觉得吗？""]","And the breakthroughs we've made in space
+exploration
+thanks to Cold War competition - fantastic, don't
+you think?
+","[""And the breakthroughs we've made in space\nexploration\nthanks to Cold War competition - fantastic, don't\nyou think?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x66B30; ENG blocks=0xF34F0,0xF34F0; ENG source rows=0xF34F0#10,0xF34F0#11; block_semantic_score=0.176891."
+BRIEFING_FILES_BLOCK_066B30,8,stream=0x66000;block=0xB30;text=8,"[""stream=0x66000;block=0xB30;text=8""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","それに、両陣営の競争によって宇宙開発が進んだのは素晴
+らしいことだ。そうは思わないか？
+","いや…。宇宙開発を急ぐ必要はなかった…。
+","宇宙に行くのは人類の夢だったかもしれない。だが無理な
+競争は犠牲を生んだ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不…我们没必要那样急着进入太空…,"[""不…我们没必要那样急着进入太空…""]","No... We didn't need to rush into space like that...
+","[""No... We didn't need to rush into space like that...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#12; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,9,stream=0x66000;block=0xB30;text=9,"[""stream=0x66000;block=0xB30;text=9""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","いや…。宇宙開発を急ぐ必要はなかった…。
+","宇宙に行くのは人類の夢だったかもしれない。だが無理な
+競争は犠牲を生んだ。
+","…そうかもしれない。宇宙開発機関は確かに全てを公表し
+ているわけではない…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,进入太空也许一直是人类的梦想，但在争夺中，许多好人牺牲了。,"[""进入太空也许一直是人类的梦想，但在争夺中，许多好人牺牲了。""]","Going into space may have been mankind's dream,
+but good people were sacrificed in the scramble.
+","[""Going into space may have been mankind's dream,\nbut good people were sacrificed in the scramble.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x66B30; ENG blocks=0xF34F0,0xF34F0; ENG source rows=0xF34F0#13,0xF34F0#14; block_semantic_score=0.176891."
+BRIEFING_FILES_BLOCK_066B30,10,stream=0x66000;block=0xB30;text=10,"[""stream=0x66000;block=0xB30;text=10""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","宇宙に行くのは人類の夢だったかもしれない。だが無理な
+競争は犠牲を生んだ。
+","…そうかもしれない。宇宙開発機関は確かに全てを公表し
+ているわけではない…。
+","核開発にしてもそうだ。核実験で民間人の死者や多くの被
+曝者が出ている。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…也许吧。NASA确实
+有些见不得人的秘密…","[""…也许吧。NASA确实\n有些见不得人的秘密…""]","...Maybe so. NASA's definitely got some skeletons in
+its closet...
+","[""...Maybe so. NASA's definitely got some skeletons in\nits closet...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#15; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,11,stream=0x66000;block=0xB30;text=11,"[""stream=0x66000;block=0xB30;text=11""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","…そうかもしれない。宇宙開発機関は確かに全てを公表し
+ているわけではない…。
+","核開発にしてもそうだ。核実験で民間人の死者や多くの被
+曝者が出ている。
+","その通りだ…。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"核军备竞赛也是一样。核试验杀害了平民，
+还让成千上万人暴露在辐射中。","[""核军备竞赛也是一样。核试验杀害了平民，\n还让成千上万人暴露在辐射中。""]","Same goes for the nuclear arms race.
+Atomic testing has killed civilians and exposed
+thousands to radiation.
+","[""Same goes for the nuclear arms race.\nAtomic testing has killed civilians and exposed\nthousands to radiation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x66B30; ENG blocks=0xF34F0,0xF34F0; ENG source rows=0xF34F0#16,0xF34F0#17; block_semantic_score=0.176891."
+BRIEFING_FILES_BLOCK_066B30,12,stream=0x66000;block=0xB30;text=12,"[""stream=0x66000;block=0xB30;text=12""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","核開発にしてもそうだ。核実験で民間人の死者や多くの被
+曝者が出ている。
+","その通りだ…。
+","そして今回の事件…。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,相信我，我清楚…,"[""相信我，我清楚…""]","Believe me, I know...
+","[""Believe me, I know...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#18; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,13,stream=0x66000;block=0xB30;text=13,"[""stream=0x66000;block=0xB30;text=13""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","その通りだ…。
+","そして今回の事件…。
+","僕が守ろうとしていた平和が一体なんなのか、だんだんわ
+からなくなってきたよ…。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而现在又出了这件事…
+我到底想要保护什么样的和平？","[""而现在又出了这件事…\n我到底想要保护什么样的和平？""]","And now this... What peace was I trying to protect,
+anyway?
+","[""And now this... What peace was I trying to protect,\nanyway?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#19; block_semantic_score=0.176891.
+BRIEFING_FILES_BLOCK_066B30,14,stream=0x66000;block=0xB30;text=14,"[""stream=0x66000;block=0xB30;text=14""]",1,BRIEFING FILES,"[""stream=0x66000;block=0xB30;block_file=0x66B30;text_base=0x66B8C;capacity=1372""]","そして今回の事件…。
+","僕が守ろうとしていた平和が一体なんなのか、だんだんわ
+からなくなってきたよ…。
+",,[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我越想越不明白。,"[""我越想越不明白。""]","The more I think about it, the less I understand.
+","[""The more I think about it, the less I understand.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x66B30; ENG blocks=0xF34F0; ENG source rows=0xF34F0#20; block_semantic_score=0.176891.

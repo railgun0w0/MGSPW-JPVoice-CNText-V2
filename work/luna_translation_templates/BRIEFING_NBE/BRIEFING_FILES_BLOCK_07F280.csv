@@ -1,0 +1,200 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_07F280,0,stream=0x7F000;block=0x280;text=0,"[""stream=0x7F000;block=0x280;text=0""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]",,"今日はチコに誘われて、兵士達と一緒に釣りをした。
+","食料の自給という意味では有益なのだろうが、私に下らな
+い仕事をさせないでほしいものだ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"今天Chico邀请我和
+士兵们一起去钓鱼。","[""今天Chico邀请我和\n士兵们一起去钓鱼。""]","Today Chico invited me to go fishing with the
+soldiers.
+","[""Today Chico invited me to go fishing with the\nsoldiers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#0; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,1,stream=0x7F000;block=0x280;text=1,"[""stream=0x7F000;block=0x280;text=1""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","今日はチコに誘われて、兵士達と一緒に釣りをした。
+","食料の自給という意味では有益なのだろうが、私に下らな
+い仕事をさせないでほしいものだ。
+","「釣りって結構楽しいよ」なんて言われても困る。私はこ
+こに遊びにきたわけじゃない。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想自己寻找食物确实有其意义，,"[""我想自己寻找食物确实有其意义，""]","I suppose finding one's own food does have its
+merit,
+","[""I suppose finding one's own food does have its\nmerit,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#1; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,2,stream=0x7F000;block=0x280;text=2,"[""stream=0x7F000;block=0x280;text=2""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","食料の自給という意味では有益なのだろうが、私に下らな
+い仕事をさせないでほしいものだ。
+","「釣りって結構楽しいよ」なんて言われても困る。私はこ
+こに遊びにきたわけじゃない。
+","とはいえ、正体を悟られないためには、適当に付き合わな
+くてはならないのがつらいところだ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我不太想参与这种有失身份的事。他们喋喋不休地说钓鱼""有趣""，
+简直是无稽之谈。","[""但我不太想参与这种有失身份的事。他们喋喋不休地说钓鱼\""有趣\""，\n简直是无稽之谈。""]","but I prefer not to be involved in such a degrading
+task.
+And their prattling on about fishing being ""fun"" is
+nonsense.
+","[""but I prefer not to be involved in such a degrading\ntask.\nAnd their prattling on about fishing being \""fun\"" is\nnonsense.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#2,0x10B0E0#3; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,3,stream=0x7F000;block=0x280;text=3,"[""stream=0x7F000;block=0x280;text=3""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","「釣りって結構楽しいよ」なんて言われても困る。私はこ
+こに遊びにきたわけじゃない。
+","とはいえ、正体を悟られないためには、適当に付き合わな
+くてはならないのがつらいところだ。
+","チコに押しつけられた釣り竿を持って甲板に出ると、集ま
+っていた5人ほどの兵士が嬉しそうに歓迎してくれた。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我来这里不是为了找玩伴的。尽管如此，虽然心里很不情愿，为了维持伪装，我还是跟去了。,"[""我来这里不是为了找玩伴的。尽管如此，虽然心里很不情愿，为了维持伪装，我还是跟去了。""]","I'm not here to find playmates.
+Nevertheless, distasteful as it was,
+I went along in order to maintain my cover.
+","[""I'm not here to find playmates.\nNevertheless, distasteful as it was,\nI went along in order to maintain my cover.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#4,0x10B0E0#5,0x10B0E0#6; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,4,stream=0x7F000;block=0x280;text=4,"[""stream=0x7F000;block=0x280;text=4""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","とはいえ、正体を悟られないためには、適当に付き合わな
+くてはならないのがつらいところだ。
+","チコに押しつけられた釣り竿を持って甲板に出ると、集ま
+っていた5人ほどの兵士が嬉しそうに歓迎してくれた。
+","マザーベースでは男が圧倒的に多いだけに、私はまるでお
+姫様扱いだ。10代でも学生でもないことを、誰も疑いもし
+ない。
+",[],,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Chico把钓竿塞到我手里，
+我们一起上了甲板，","[""Chico把钓竿塞到我手里，\n我们一起上了甲板，""]","Chico thrust a fishing pole into my hands, and we
+went up onto the deck,
+","[""Chico thrust a fishing pole into my hands, and we\nwent up onto the deck,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#7; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,5,stream=0x7F000;block=0x280;text=5,"[""stream=0x7F000;block=0x280;text=5""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","チコに押しつけられた釣り竿を持って甲板に出ると、集ま
+っていた5人ほどの兵士が嬉しそうに歓迎してくれた。
+","マザーベースでは男が圧倒的に多いだけに、私はまるでお
+姫様扱いだ。10代でも学生でもないことを、誰も疑いもし
+ない。
+","今日は良く晴れていて、風も波も穏やかだった。
+",[],,,NOT_CHECKED,167,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没人怀疑我既不是少女也不是学生。,"[""没人怀疑我既不是少女也不是学生。""]","No one suspects I'm neither a teenager nor a
+student.
+","[""No one suspects I'm neither a teenager nor a\nstudent.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#11; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,6,stream=0x7F000;block=0x280;text=6,"[""stream=0x7F000;block=0x280;text=6""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","マザーベースでは男が圧倒的に多いだけに、私はまるでお
+姫様扱いだ。10代でも学生でもないことを、誰も疑いもし
+ない。
+","今日は良く晴れていて、風も波も穏やかだった。
+","釣り竿を投げて魚がかかるのを待つ間、最初は兵士達にい
+ろいろと質問をされた。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,天气晴好，阳光明媚，微风轻拂，波浪柔和。,"[""天气晴好，阳光明媚，微风轻拂，波浪柔和。""]","It was nice and sunny,
+with a gentle breeze and waves.
+","[""It was nice and sunny,\nwith a gentle breeze and waves.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#12,0x10B0E0#13; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,7,stream=0x7F000;block=0x280;text=7,"[""stream=0x7F000;block=0x280;text=7""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","今日は良く晴れていて、風も波も穏やかだった。
+","釣り竿を投げて魚がかかるのを待つ間、最初は兵士達にい
+ろいろと質問をされた。
+","私はいつもどおり、決められた設定に基づいて答えを返し
+て、愛想笑い。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我抛出鱼线，等待鱼儿上钩，士兵们开始问我各种各样的问题。,"[""我抛出鱼线，等待鱼儿上钩，士兵们开始问我各种各样的问题。""]","As I cast my line and waited for a bite,
+the soldiers began to ask me all sorts of questions.
+","[""As I cast my line and waited for a bite,\nthe soldiers began to ask me all sorts of questions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#14,0x10B0E0#15; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,8,stream=0x7F000;block=0x280;text=8,"[""stream=0x7F000;block=0x280;text=8""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","釣り竿を投げて魚がかかるのを待つ間、最初は兵士達にい
+ろいろと質問をされた。
+","私はいつもどおり、決められた設定に基づいて答えを返し
+て、愛想笑い。
+","適当にごまかしているうちに魚がかかり始め、兵士達もそ
+の対応に追われ始める。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我按照预先编好的剧本回答，
+脸上挂着假笑。","[""我按照预先编好的剧本回答，\n脸上挂着假笑。""]","I answered according to our pre-defined scenario,
+feigning a smile.
+","[""I answered according to our pre-defined scenario,\nfeigning a smile.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#17; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,9,stream=0x7F000;block=0x280;text=9,"[""stream=0x7F000;block=0x280;text=9""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","私はいつもどおり、決められた設定に基づいて答えを返し
+て、愛想笑い。
+","適当にごまかしているうちに魚がかかり始め、兵士達もそ
+の対応に追われ始める。
+","チコが魚にエサを取られ、怒って立ち上がったときに海に
+落ちそうになって、みんなが笑った。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我坐在那里编着谎话，鱼开始咬钩了，士兵们也开始专注于自己的猎物。,"[""我坐在那里编着谎话，鱼开始咬钩了，士兵们也开始专注于自己的猎物。""]","As I sat there feeding them lies, the fish began to
+bite,
+and the soldiers began to focus on their prey.
+","[""As I sat there feeding them lies, the fish began to\nbite,\nand the soldiers began to focus on their prey.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#18,0x10B0E0#19; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,10,stream=0x7F000;block=0x280;text=10,"[""stream=0x7F000;block=0x280;text=10""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","適当にごまかしているうちに魚がかかり始め、兵士達もそ
+の対応に追われ始める。
+","チコが魚にエサを取られ、怒って立ち上がったときに海に
+落ちそうになって、みんなが笑った。
+","そのときは私もつい噴き出しそうになってしまった。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico的鱼饵被鱼偷走了，他气得站了起来，差点掉进海里。大家都笑了。,"[""Chico的鱼饵被鱼偷走了，他气得站了起来，差点掉进海里。大家都笑了。""]","Chico had his bait stolen by a fish,
+and got so angry that he stood up and nearly fell
+into the sea.
+Everybody laughed.
+","[""Chico had his bait stolen by a fish,\nand got so angry that he stood up and nearly fell\ninto the sea.\nEverybody laughed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#20,0x10B0E0#21,0x10B0E0#22; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,11,stream=0x7F000;block=0x280;text=11,"[""stream=0x7F000;block=0x280;text=11""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","チコが魚にエサを取られ、怒って立ち上がったときに海に
+落ちそうになって、みんなが笑った。
+","そのときは私もつい噴き出しそうになってしまった。
+","しばらくして、私の釣り竿にも魚がかかった。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那情景几乎让我也想跟着笑起来。,"[""那情景几乎让我也想跟着笑起来。""]","It almost made me want to join in, too.
+","[""It almost made me want to join in, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#23; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,12,stream=0x7F000;block=0x280;text=12,"[""stream=0x7F000;block=0x280;text=12""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","そのときは私もつい噴き出しそうになってしまった。
+","しばらくして、私の釣り竿にも魚がかかった。
+","軽い手応えを感じた次の瞬間、驚くほどの力で糸が引っ張
+られ始め、私は驚きの声を上げてしまった。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,过了一会儿，我这边也有鱼咬钩了。,"[""过了一会儿，我这边也有鱼咬钩了。""]","At some point, I got a bite myself.
+","[""At some point, I got a bite myself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#24; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,13,stream=0x7F000;block=0x280;text=13,"[""stream=0x7F000;block=0x280;text=13""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","しばらくして、私の釣り竿にも魚がかかった。
+","軽い手応えを感じた次の瞬間、驚くほどの力で糸が引っ張
+られ始め、私は驚きの声を上げてしまった。
+","かなりの大物だと思われた。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就在我感觉到第一下轻微拉扯的瞬间，鱼猛地一拽鱼线，力气大得惊人，我不禁惊叫出声。,"[""就在我感觉到第一下轻微拉扯的瞬间，鱼猛地一拽鱼线，力气大得惊人，我不禁惊叫出声。""]","The instant after I felt that first gentle tug,
+the fish yanked the line with astonishing strength,
+and I let out a cry of surprise.
+","[""The instant after I felt that first gentle tug,\nthe fish yanked the line with astonishing strength,\nand I let out a cry of surprise.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#25,0x10B0E0#26,0x10B0E0#27; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,14,stream=0x7F000;block=0x280;text=14,"[""stream=0x7F000;block=0x280;text=14""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","軽い手応えを感じた次の瞬間、驚くほどの力で糸が引っ張
+られ始め、私は驚きの声を上げてしまった。
+","かなりの大物だと思われた。
+","初めての経験だったので、少し焦っていると、隣の兵士が
+後ろから竿を支えてくれた。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我以为钓到了条大鱼。,"[""我以为钓到了条大鱼。""]","I thought it was going to be huge.
+","[""I thought it was going to be huge.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#28; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,15,stream=0x7F000;block=0x280;text=15,"[""stream=0x7F000;block=0x280;text=15""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","かなりの大物だと思われた。
+","初めての経験だったので、少し焦っていると、隣の兵士が
+後ろから竿を支えてくれた。
+","この水面の下には、どんな魚がいるのだろう？　私は少し、
+訓練のときに潜った海を思い出した。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那是我第一次钓鱼，有点手忙脚乱，旁边的士兵从后面帮我托住钓竿。,"[""那是我第一次钓鱼，有点手忙脚乱，旁边的士兵从后面帮我托住钓竿。""]","It was my first time fishing, and I was a bit
+flustered,
+so the soldier beside me helped by supporting the
+pole from behind.
+","[""It was my first time fishing, and I was a bit\nflustered,\nso the soldier beside me helped by supporting the\npole from behind.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#29,0x10B0E0#30; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,16,stream=0x7F000;block=0x280;text=16,"[""stream=0x7F000;block=0x280;text=16""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","初めての経験だったので、少し焦っていると、隣の兵士が
+後ろから竿を支えてくれた。
+","この水面の下には、どんな魚がいるのだろう？　私は少し、
+訓練のときに潜った海を思い出した。
+","あの頃も辛い日々ではあったが、優雅に泳ぐ色とりどりの
+魚たちには、不思議と心癒されたものだった。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我好奇水面下住着什么样的鱼，不禁回想起训练时必须
+进行的深海潜水。","[""我好奇水面下住着什么样的鱼，不禁回想起训练时必须\n进行的深海潜水。""]","I wondered what kind of fish live below the surface,
+and thought back to the deep-sea dives I had to
+do as part of training.
+","[""I wondered what kind of fish live below the surface,\nand thought back to the deep-sea dives I had to\ndo as part of training.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#33,0x10B0E0#34; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,17,stream=0x7F000;block=0x280;text=17,"[""stream=0x7F000;block=0x280;text=17""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","この水面の下には、どんな魚がいるのだろう？　私は少し、
+訓練のときに潜った海を思い出した。
+","あの頃も辛い日々ではあったが、優雅に泳ぐ色とりどりの
+魚たちには、不思議と心癒されたものだった。
+","格闘の末に釣り上げた魚は、意外にも<R=半バーラ,40cm>もなく、少
+し拍子抜けだった。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那是一段艰苦的日子，但我记得，看着五彩斑斓的鱼在
+水中滑行，让我感到无比平静。","[""那是一段艰苦的日子，但我记得，看着五彩斑斓的鱼在\n水中滑行，让我感到无比平静。""]","Those were difficult days,
+but I remember finding the multi-colored fish
+gliding through the water incredibly soothing.
+","[""Those were difficult days,\nbut I remember finding the multi-colored fish\ngliding through the water incredibly soothing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#35,0x10B0E0#36; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,18,stream=0x7F000;block=0x280;text=18,"[""stream=0x7F000;block=0x280;text=18""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","あの頃も辛い日々ではあったが、優雅に泳ぐ色とりどりの
+魚たちには、不思議と心癒されたものだった。
+","格闘の末に釣り上げた魚は、意外にも<R=半バーラ,40cm>もなく、少
+し拍子抜けだった。
+","だけど遊びでやっているわけじゃないから、別に悔しくな
+んてない。
+","[""<R=半バーラ,40cm>""]",,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"经过一番苦战，我把鱼拉了上来。
+出乎我意料的是，它连半瓦拉（16英寸）
+都不到，真是雷声大雨点小。","[""经过一番苦战，我把鱼拉了上来。\n出乎我意料的是，它连半瓦拉（16英寸）\n都不到，真是雷声大雨点小。""]","After a hard fight, I pulled it up. To my surprise,
+it wasn't even half a vara (16 in). Rather
+anti-climactic.
+","[""After a hard fight, I pulled it up. To my surprise,\nit wasn't even half a vara (16 in). Rather\nanti-climactic.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7F280; ENG blocks=0x10B0E0,0x10B0E0; ENG source rows=0x10B0E0#37,0x10B0E0#38; block_semantic_score=0.181046."
+BRIEFING_FILES_BLOCK_07F280,19,stream=0x7F000;block=0x280;text=19,"[""stream=0x7F000;block=0x280;text=19""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","格闘の末に釣り上げた魚は、意外にも<R=半バーラ,40cm>もなく、少
+し拍子抜けだった。
+","だけど遊びでやっているわけじゃないから、別に悔しくな
+んてない。
+","ニュークが物欲しそうな顔でうろうろしていたので、釣っ
+た魚はくれてやった。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我本来就不是为了好玩，
+所以一点也不失望。","[""但我本来就不是为了好玩，\n所以一点也不失望。""]","But I wasn't doing it for fun, so I wasn't the least
+bit disappointed.
+","[""But I wasn't doing it for fun, so I wasn't the least\nbit disappointed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#39; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,20,stream=0x7F000;block=0x280;text=20,"[""stream=0x7F000;block=0x280;text=20""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","だけど遊びでやっているわけじゃないから、別に悔しくな
+んてない。
+","ニュークが物欲しそうな顔でうろうろしていたので、釣っ
+た魚はくれてやった。
+","さんざんな一日と言っていいだろう。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“核弹”在旁边转来转去，
+一脸期待，我就把鱼给了他。","[""“核弹”在旁边转来转去，\n一脸期待，我就把鱼给了他。""]","Nuke was hovering nearby with an expectant look
+on his face, so I gave the fish to him.
+","[""Nuke was hovering nearby with an expectant look\non his face, so I gave the fish to him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#40; block_semantic_score=0.181046.
+BRIEFING_FILES_BLOCK_07F280,21,stream=0x7F000;block=0x280;text=21,"[""stream=0x7F000;block=0x280;text=21""]",1,BRIEFING FILES,"[""stream=0x7F000;block=0x280;block_file=0x7F280;text_base=0x7F2F8;capacity=2408""]","ニュークが物欲しそうな顔でうろうろしていたので、釣っ
+た魚はくれてやった。
+","さんざんな一日と言っていいだろう。
+",,[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,总而言之，真是彻底浪费的一天。,"[""总而言之，真是彻底浪费的一天。""]","All in all, a thoroughly wasted day.
+","[""All in all, a thoroughly wasted day.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7F280; ENG blocks=0x10B0E0; ENG source rows=0x10B0E0#41; block_semantic_score=0.181046.

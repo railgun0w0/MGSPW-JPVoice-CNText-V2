@@ -1,0 +1,48 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04D440,0,stream=0x4D000;block=0x440;text=0,"[""stream=0x4D000;block=0x440;text=0""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x440;block_file=0x4D440;text_base=0x4D47C;capacity=616""]",,"AIとはArtificial Intelligence、人工知能の略だ。
+","人によって創られた、人間並みの知能を持つ機械のことだ。
+",[],,,NOT_CHECKED,59,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“AI”代表人工智能。,"[""“AI”代表人工智能。""]","""AI"" stands for artificial intelligence.
+","[""\""AI\"" stands for artificial intelligence.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D440; ENG blocks=0xDB7C0; ENG source rows=0xDB7C0#0; block_semantic_score=0.148516.
+BRIEFING_FILES_BLOCK_04D440,1,stream=0x4D000;block=0x440;text=1,"[""stream=0x4D000;block=0x440;text=1""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x440;block_file=0x4D440;text_base=0x4D47C;capacity=616""]","AIとはArtificial Intelligence、人工知能の略だ。
+","人によって創られた、人間並みの知能を持つ機械のことだ。
+","可能なのか？　そんなことが。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它指的是人造机器，拥有一种智能，这种智能与人类不相上下。,"[""它指的是人造机器，拥有一种智能，这种智能与人类不相上下。""]","It refers to a manmade machine possessing an
+intellect on par
+with that of a human being.
+","[""It refers to a manmade machine possessing an\nintellect on par\nwith that of a human being.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4D440; ENG blocks=0xDB7C0,0xDB7C0; ENG source rows=0xDB7C0#1,0xDB7C0#2; block_semantic_score=0.148516."
+BRIEFING_FILES_BLOCK_04D440,2,stream=0x4D000;block=0x440;text=2,"[""stream=0x4D000;block=0x440;text=2""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x440;block_file=0x4D440;text_base=0x4D47C;capacity=616""]","人によって創られた、人間並みの知能を持つ機械のことだ。
+","可能なのか？　そんなことが。
+","可能かだって？　おまえも見ただろう、AI兵器の性能を。
+ザ・ボスの遺志を継いだ、ピースウォーカーの最期を。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这真的有可能吗？,"[""这真的有可能吗？""]","Is that even possible?
+","[""Is that even possible?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D440; ENG blocks=0xDB7C0; ENG source rows=0xDB7C0#3; block_semantic_score=0.148516.
+BRIEFING_FILES_BLOCK_04D440,3,stream=0x4D000;block=0x440;text=3,"[""stream=0x4D000;block=0x440;text=3""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x440;block_file=0x4D440;text_base=0x4D47C;capacity=616""]","可能なのか？　そんなことが。
+","可能かだって？　おまえも見ただろう、AI兵器の性能を。
+ザ・ボスの遺志を継いだ、ピースウォーカーの最期を。
+","ただの<R=機械,マシン>なら、自己犠牲など選択できるはずはない。
+",[],,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有可能？你可是亲眼所见。AI武器能做到什么。,"[""有可能？你可是亲眼所见。AI武器能做到什么。""]","Possible? You've seen it with your own eyes.
+What the AI weapons are capable of.
+","[""Possible? You've seen it with your own eyes.\nWhat the AI weapons are capable of.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4D440; ENG blocks=0xDB7C0,0xDB7C0; ENG source rows=0xDB7C0#4,0xDB7C0#5; block_semantic_score=0.148516."
+BRIEFING_FILES_BLOCK_04D440,4,stream=0x4D000;block=0x440;text=4,"[""stream=0x4D000;block=0x440;text=4""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x440;block_file=0x4D440;text_base=0x4D47C;capacity=616""]","可能かだって？　おまえも見ただろう、AI兵器の性能を。
+ザ・ボスの遺志を継いだ、ピースウォーカーの最期を。
+","ただの<R=機械,マシン>なら、自己犠牲など選択できるはずはない。
+","電子部品の塊が<R=意志,ウィル>を持つなんてことが…。
+","[""<R=機械,マシン>""]",,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没有任何一台普通机器能
+做出那种自我牺牲的选择。","[""没有任何一台普通机器能\n做出那种自我牺牲的选择。""]","No mere machine could ever choose to sacrifice
+itself like that.
+","[""No mere machine could ever choose to sacrifice\nitself like that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D440; ENG blocks=0xDB7C0; ENG source rows=0xDB7C0#7; block_semantic_score=0.148516.
+BRIEFING_FILES_BLOCK_04D440,5,stream=0x4D000;block=0x440;text=5,"[""stream=0x4D000;block=0x440;text=5""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x440;block_file=0x4D440;text_base=0x4D47C;capacity=616""]","ただの<R=機械,マシン>なら、自己犠牲など選択できるはずはない。
+","電子部品の塊が<R=意志,ウィル>を持つなんてことが…。
+","“The Ghost in the Machine”…あるんだよ、スネ
+ーク。機械に霊魂が宿ることが。
+","[""<R=意志,ウィル>""]",,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我就是想不通，一堆电路和
+开关怎么会有自己的意志…","[""我就是想不通，一堆电路和\n开关怎么会有自己的意志…""]","I just can't see how a bunch of circuits and
+switches could have a will of its own...
+","[""I just can't see how a bunch of circuits and\nswitches could have a will of its own...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D440; ENG blocks=0xDB7C0; ENG source rows=0xDB7C0#8; block_semantic_score=0.148516.
+BRIEFING_FILES_BLOCK_04D440,6,stream=0x4D000;block=0x440;text=6,"[""stream=0x4D000;block=0x440;text=6""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x440;block_file=0x4D440;text_base=0x4D47C;capacity=616""]","電子部品の塊が<R=意志,ウィル>を持つなんてことが…。
+","“The Ghost in the Machine”…あるんだよ、スネ
+ーク。機械に霊魂が宿ることが。
+",,[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这叫「机器中的幽灵」，
+Snake…而且它确实存在。","[""这叫「机器中的幽灵」，\nSnake…而且它确实存在。""]","It's called The Ghost in the Machine, Snake... And it
+exists.
+","[""It's called The Ghost in the Machine, Snake... And it\nexists.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D440; ENG blocks=0xDB7C0; ENG source rows=0xDB7C0#9; block_semantic_score=0.148516.

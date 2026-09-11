@@ -1,0 +1,79 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_043F80,0,stream=0x43000;block=0xF80;text=0,"[""stream=0x43000;block=0xF80;text=0""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]",,"オゴポゴというのは？　どこの言葉だ？
+","オゴポゴはカナダのオカナガン湖に棲む怪獣なんだ。イン
+ディオたちに語り継がれていた怪獣だから、インディオの
+言葉なんだろうね。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那奥古布古呢？而且
+这到底是什么名字？","[""那奥古布古呢？而且\n这到底是什么名字？""]","What about the Ogopogo? And what kind of name
+is that, anyway?
+","[""What about the Ogopogo? And what kind of name\nis that, anyway?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#0; block_semantic_score=0.151638.
+BRIEFING_FILES_BLOCK_043F80,1,stream=0x43000;block=0xF80;text=1,"[""stream=0x43000;block=0xF80;text=1""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","オゴポゴというのは？　どこの言葉だ？
+","オゴポゴはカナダのオカナガン湖に棲む怪獣なんだ。イン
+ディオたちに語り継がれていた怪獣だから、インディオの
+言葉なんだろうね。
+","伝承か。実際には…。
+",[],,,NOT_CHECKED,186,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"奥古布古是生活在加拿大
+奥卡纳根湖里的怪物。我猜这是个印第安名字，
+因为它是印第安人流传下来的传说。","[""奥古布古是生活在加拿大\n奥卡纳根湖里的怪物。我猜这是个印第安名字，\n因为它是印第安人流传下来的传说。""]","Ogopogo is a monster that lives in Okanagan Lake
+- in Canada.
+I guess it's an Indian name, 'cause it's a legend
+passed down by the Indians.
+","[""Ogopogo is a monster that lives in Okanagan Lake\n- in Canada.\nI guess it's an Indian name, 'cause it's a legend\npassed down by the Indians.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x43F80; ENG blocks=0xD1D30,0xD1D30; ENG source rows=0xD1D30#1,0xD1D30#2; block_semantic_score=0.151638."
+BRIEFING_FILES_BLOCK_043F80,2,stream=0x43000;block=0xF80;text=2,"[""stream=0x43000;block=0xF80;text=2""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","オゴポゴはカナダのオカナガン湖に棲む怪獣なんだ。イン
+ディオたちに語り継がれていた怪獣だから、インディオの
+言葉なんだろうね。
+","伝承か。実際には…。
+","文字として記録にも残ってる。1872年に最初の記録が残
+されて以降、20世紀に入ってからも何度も目撃されてるん
+だ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,传说啊。那大概不是…,"[""传说啊。那大概不是…""]","A legend, huh. Then it's probably not...
+","[""A legend, huh. Then it's probably not...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#3; block_semantic_score=0.151638.
+BRIEFING_FILES_BLOCK_043F80,3,stream=0x43000;block=0xF80;text=3,"[""stream=0x43000;block=0xF80;text=3""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","伝承か。実際には…。
+","文字として記録にも残ってる。1872年に最初の記録が残
+されて以降、20世紀に入ってからも何度も目撃されてるん
+だ。
+","そうか…。
+",[],,,NOT_CHECKED,159,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它也有书面记录。
+最早的一次是在1872年，而且从20世纪初开始，
+目击事件就更多了。","[""它也有书面记录。\n最早的一次是在1872年，而且从20世纪初开始，\n目击事件就更多了。""]","There're written records of it, too. The first one
+was in 1872,
+and there's been more sightings since the start of
+the 20th century.
+","[""There're written records of it, too. The first one\nwas in 1872,\nand there's been more sightings since the start of\nthe 20th century.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x43F80; ENG blocks=0xD1D30,0xD1D30; ENG source rows=0xD1D30#4,0xD1D30#5; block_semantic_score=0.151638."
+BRIEFING_FILES_BLOCK_043F80,4,stream=0x43000;block=0xF80;text=4,"[""stream=0x43000;block=0xF80;text=4""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","文字として記録にも残ってる。1872年に最初の記録が残
+されて以降、20世紀に入ってからも何度も目撃されてるん
+だ。
+","そうか…。
+","スネークも<R=UMA,ユーマ>が好きになってきた？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯嗯…,"[""嗯嗯…""]","Uh huh...
+","[""Uh huh...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#6; block_semantic_score=0.151638.
+BRIEFING_FILES_BLOCK_043F80,5,stream=0x43000;block=0xF80;text=5,"[""stream=0x43000;block=0xF80;text=5""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","そうか…。
+","スネークも<R=UMA,ユーマ>が好きになってきた？
+","そうだな…。
+","[""<R=UMA,ユーマ>""]",,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你也开始对未知生物
+感兴趣了吗，Snake？","[""你也开始对未知生物\n感兴趣了吗，Snake？""]","You starting to get into UMAs, too, Snake?
+","[""You starting to get into UMAs, too, Snake?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#7; block_semantic_score=0.151638.
+BRIEFING_FILES_BLOCK_043F80,6,stream=0x43000;block=0xF80;text=6,"[""stream=0x43000;block=0xF80;text=6""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","スネークも<R=UMA,ユーマ>が好きになってきた？
+","そうだな…。
+","やっぱり、<R=UMA,ユーマ>は男のロマンだよな。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，也许吧…,"[""是啊，也许吧…""]","Yeah, maybe...
+","[""Yeah, maybe...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#8; block_semantic_score=0.151638.
+BRIEFING_FILES_BLOCK_043F80,7,stream=0x43000;block=0xF80;text=7,"[""stream=0x43000;block=0xF80;text=7""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","そうだな…。
+","やっぱり、<R=UMA,ユーマ>は男のロマンだよな。
+","ニカラグアが平和になったら、スネークも一緒に探検に行
+かないか？
+","[""<R=UMA,ユーマ>""]",,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,追猎未知生物…那才是真男人的冒险！,"[""追猎未知生物…那才是真男人的冒险！""]","UMA hunting... Now that's a real man's adventure!
+","[""UMA hunting... Now that's a real man's adventure!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#9; block_semantic_score=0.151638.
+BRIEFING_FILES_BLOCK_043F80,8,stream=0x43000;block=0xF80;text=8,"[""stream=0x43000;block=0xF80;text=8""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","やっぱり、<R=UMA,ユーマ>は男のロマンだよな。
+","ニカラグアが平和になったら、スネークも一緒に探検に行
+かないか？
+","そうだな…。そんな生き方ができれば楽しいかもしれない。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"等尼加拉瓜重新恢复和平之后，
+要不要一起去探索？","[""等尼加拉瓜重新恢复和平之后，\n要不要一起去探索？""]","After Nicaragua's at peace again, you wanna go
+exploring together?
+","[""After Nicaragua's at peace again, you wanna go\nexploring together?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#11; block_semantic_score=0.151638.
+BRIEFING_FILES_BLOCK_043F80,9,stream=0x43000;block=0xF80;text=9,"[""stream=0x43000;block=0xF80;text=9""]",1,BRIEFING FILES,"[""stream=0x43000;block=0xF80;block_file=0x43F80;text_base=0x43FC8;capacity=780""]","ニカラグアが平和になったら、スネークも一緒に探検に行
+かないか？
+","そうだな…。そんな生き方ができれば楽しいかもしれない。
+",,[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,到时候再说吧…那样的生活也许不坏。,"[""到时候再说吧…那样的生活也许不坏。""]","We'll see... It might not be such a bad life.
+","[""We'll see... It might not be such a bad life.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x43F80; ENG blocks=0xD1D30; ENG source rows=0xD1D30#12; block_semantic_score=0.151638.

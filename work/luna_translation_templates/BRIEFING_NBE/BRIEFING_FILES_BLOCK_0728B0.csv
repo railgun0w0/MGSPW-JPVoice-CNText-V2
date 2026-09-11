@@ -1,0 +1,87 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0728B0,0,stream=0x72000;block=0x8B0;text=0,"[""stream=0x72000;block=0x8B0;text=0""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]",,"ストレンジラブ博士も<R=アメリカ航空宇宙局,NASA>にいたのか？
+","ああ。といっても、僕が入ってからしばらくして<R=国防,D>
+<R=高等研究企画局,ARPA>に行ってしまったけれど。
+","[""<R=アメリカ航空宇宙局,NASA>""]",,,NOT_CHECKED,85,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以这位Dr. Strangelove
+当时在NASA？","[""所以这位Dr. Strangelove\n当时在NASA？""]","So this Dr. Strangelove was at NASA?
+","[""So this Dr. Strangelove was at NASA?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#0; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,1,stream=0x72000;block=0x8B0;text=1,"[""stream=0x72000;block=0x8B0;text=1""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","ストレンジラブ博士も<R=アメリカ航空宇宙局,NASA>にいたのか？
+","ああ。といっても、僕が入ってからしばらくして<R=国防,D>
+<R=高等研究企画局,ARPA>に行ってしまったけれど。
+","そしてコスタリカで再び共同で研究することになったわけ
+か。
+","[""<R=国防,D>"", ""<R=高等研究企画局,ARPA>""]",,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对。嗯，其实，我加入后没多久，
+Strangelove就去了DARPA。","[""对。嗯，其实，我加入后没多久，\nStrangelove就去了DARPA。""]","Yeah. Well, actually, Strangelove left for DARPA not
+long after I joined.
+","[""Yeah. Well, actually, Strangelove left for DARPA not\nlong after I joined.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#1; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,2,stream=0x72000;block=0x8B0;text=2,"[""stream=0x72000;block=0x8B0;text=2""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","ああ。といっても、僕が入ってからしばらくして<R=国防,D>
+<R=高等研究企画局,ARPA>に行ってしまったけれど。
+","そしてコスタリカで再び共同で研究することになったわけ
+か。
+","共同、というほどじゃないな。何度か打ち合わせはしたけ
+ど、研究自体は別々に行っていた。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后你们俩最后又一起在
+哥斯达黎加做研究了？","[""然后你们俩最后又一起在\n哥斯达黎加做研究了？""]","And then the two of you ended up back together
+doing research in Costa Rica?
+","[""And then the two of you ended up back together\ndoing research in Costa Rica?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#2; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,3,stream=0x72000;block=0x8B0;text=3,"[""stream=0x72000;block=0x8B0;text=3""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","そしてコスタリカで再び共同で研究することになったわけ
+か。
+","共同、というほどじゃないな。何度か打ち合わせはしたけ
+ど、研究自体は別々に行っていた。
+","ピースウォーカーに関しては、ストレンジラブ博士が大脳
+に当たるママルポッド、僕がそれ以外という棲み分けがで
+きてたしね。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不完全是“一起”。
+我们只是协调过几件事，但研究项目本身是彼此分开的。","[""不完全是“一起”。\n我们只是协调过几件事，但研究项目本身是彼此分开的。""]","Not exactly ""together."" We coordinated on a few
+things,
+but the research projects themselves were
+separate from each other.
+","[""Not exactly \""together.\"" We coordinated on a few\nthings,\nbut the research projects themselves were\nseparate from each other.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x728B0; ENG blocks=0xFEB50,0xFEB50; ENG source rows=0xFEB50#3,0xFEB50#4; block_semantic_score=0.124582."
+BRIEFING_FILES_BLOCK_0728B0,4,stream=0x72000;block=0x8B0;text=4,"[""stream=0x72000;block=0x8B0;text=4""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","共同、というほどじゃないな。何度か打ち合わせはしたけ
+ど、研究自体は別々に行っていた。
+","ピースウォーカーに関しては、ストレンジラブ博士が大脳
+に当たるママルポッド、僕がそれ以外という棲み分けがで
+きてたしね。
+","あの手紙も研究に関する物か…？
+",[],,,NOT_CHECKED,177,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们当时计划好了，
+由Dr. Strangelove负责哺乳舱，也就是和平行者的大脑，而
+我负责其余部分。","[""我们当时计划好了，\n由Dr. Strangelove负责哺乳舱，也就是和平行者的大脑，而\n我负责其余部分。""]","We had it worked out so that Dr. Strangelove
+handled the Mammal Pod,
+Peace Walker's cerebrum, while I did the rest.
+","[""We had it worked out so that Dr. Strangelove\nhandled the Mammal Pod,\nPeace Walker's cerebrum, while I did the rest.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x728B0; ENG blocks=0xFEB50,0xFEB50; ENG source rows=0xFEB50#5,0xFEB50#6; block_semantic_score=0.124582."
+BRIEFING_FILES_BLOCK_0728B0,5,stream=0x72000;block=0x8B0;text=5,"[""stream=0x72000;block=0x8B0;text=5""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","ピースウォーカーに関しては、ストレンジラブ博士が大脳
+に当たるママルポッド、僕がそれ以外という棲み分けがで
+きてたしね。
+","あの手紙も研究に関する物か…？
+","え？　いや、それは…。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那封信——和你的研究有关…？,"[""那封信——和你的研究有关…？""]","That letter - something to do with your research...?
+","[""That letter - something to do with your research...?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#7; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,6,stream=0x72000;block=0x8B0;text=6,"[""stream=0x72000;block=0x8B0;text=6""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","あの手紙も研究に関する物か…？
+","え？　いや、それは…。
+","そうだ。研究成果の報告さ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯？呃，不，这是，呃…,"[""嗯？呃，不，这是，呃…""]","Huh? Er, no, it's, uh...
+","[""Huh? Er, no, it's, uh...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#8; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,7,stream=0x72000;block=0x8B0;text=7,"[""stream=0x72000;block=0x8B0;text=7""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","え？　いや、それは…。
+","そうだ。研究成果の報告さ。
+","研究成果？　ピースウォーカーに対抗するための情報はな
+いのか？
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是、是的，是一份报告。研究结果。,"[""是、是的，是一份报告。研究结果。""]","Y-yeah, it's a report. Research findings.
+","[""Y-yeah, it's a report. Research findings.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#9; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,8,stream=0x72000;block=0x8B0;text=8,"[""stream=0x72000;block=0x8B0;text=8""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","そうだ。研究成果の報告さ。
+","研究成果？　ピースウォーカーに対抗するための情報はな
+いのか？
+","そ、そんなことは書いてないよ！
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"研究结果？里面有没有什么能
+用来对付和平行者的东西？","[""研究结果？里面有没有什么能\n用来对付和平行者的东西？""]","Research findings? Anything in there we could use
+against Peace Walker?
+","[""Research findings? Anything in there we could use\nagainst Peace Walker?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#10; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,9,stream=0x72000;block=0x8B0;text=9,"[""stream=0x72000;block=0x8B0;text=9""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","研究成果？　ピースウォーカーに対抗するための情報はな
+いのか？
+","そ、そんなことは書いてないよ！
+","とにかく、読むなよ！　絶対に読むなよ！
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没、没有！什么都没有！,"[""没、没有！什么都没有！""]","N-nothing! Nothing at all!
+","[""N-nothing! Nothing at all!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#11; block_semantic_score=0.124582.
+BRIEFING_FILES_BLOCK_0728B0,10,stream=0x72000;block=0x8B0;text=10,"[""stream=0x72000;block=0x8B0;text=10""]",1,BRIEFING FILES,"[""stream=0x72000;block=0x8B0;block_file=0x728B0;text_base=0x728FC;capacity=952""]","そ、そんなことは書いてないよ！
+","とにかく、読むなよ！　絶対に読むなよ！
+",,[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别去看它，好吗？答应我不要看！,"[""别去看它，好吗？答应我不要看！""]","Just don't read it, OK? Promise me you won't!
+","[""Just don't read it, OK? Promise me you won't!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x728B0; ENG blocks=0xFEB50; ENG source rows=0xFEB50#12; block_semantic_score=0.124582.

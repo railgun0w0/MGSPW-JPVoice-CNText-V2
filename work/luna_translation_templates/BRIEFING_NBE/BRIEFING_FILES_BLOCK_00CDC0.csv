@@ -1,0 +1,107 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00CDC0,0,stream=0xC000;block=0xDC0;text=0,"[""stream=0xC000;block=0xDC0;text=0""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]",,"今日本は、アメリカが持つ核の傘の下にある…。
+","そうだな。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道，如今日本处于
+美国的核保护伞之下…","[""你知道，如今日本处于\n美国的核保护伞之下…""]","You know that today, Japan is under the American
+nuclear umbrella...
+","[""You know that today, Japan is under the American\nnuclear umbrella...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#0; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,1,stream=0xC000;block=0xDC0;text=1,"[""stream=0xC000;block=0xDC0;text=1""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","今日本は、アメリカが持つ核の傘の下にある…。
+","そうだな。
+","アメリカは、同盟国が核攻撃を受けたら、相手国を核攻撃
+する…そう宣言することで、同盟国への核攻撃を抑止する。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","Right.
+","[""Right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#1; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,2,stream=0xC000;block=0xDC0;text=2,"[""stream=0xC000;block=0xDC0;text=2""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","そうだな。
+","アメリカは、同盟国が核攻撃を受けたら、相手国を核攻撃
+する…そう宣言することで、同盟国への核攻撃を抑止する。
+","これが核の傘だ。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对盟国发动核打击的国家进行报复…这个承诺震慑了针对
+美国盟友的核打击。","[""对盟国发动核打击的国家进行报复…这个承诺震慑了针对\n美国盟友的核打击。""]","that launches a nuclear strike against an allied
+country...
+That promise deters nuclear attacks against
+America's allies.
+","[""that launches a nuclear strike against an allied\ncountry...\nThat promise deters nuclear attacks against\nAmerica's allies.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xCDC0; ENG blocks=0x9F870,0x9F870; ENG source rows=0x9F870#3,0x9F870#4; block_semantic_score=0.170285."
+BRIEFING_FILES_BLOCK_00CDC0,3,stream=0xC000;block=0xDC0;text=3,"[""stream=0xC000;block=0xDC0;text=3""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","アメリカは、同盟国が核攻撃を受けたら、相手国を核攻撃
+する…そう宣言することで、同盟国への核攻撃を抑止する。
+","これが核の傘だ。
+","だが、実際にソ連が東京へ核を撃ったとして、アメリカは
+本当にモスクワへ核を撃つか？
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这就是“核保护伞”这个说法的由来。,"[""这就是“核保护伞”这个说法的由来。""]","Hence the term ""nuclear umbrella.""
+","[""Hence the term \""nuclear umbrella.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#5; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,4,stream=0xC000;block=0xDC0;text=4,"[""stream=0xC000;block=0xDC0;text=4""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","これが核の傘だ。
+","だが、実際にソ連が東京へ核を撃ったとして、アメリカは
+本当にモスクワへ核を撃つか？
+","モスクワに核を撃てば、確実にソ連はアメリカに報復する
+だろう。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但假设俄国人向东京扔了核弹。,"[""但假设俄国人向东京扔了核弹。""]","But suppose the Russians nuked Tokyo.
+","[""But suppose the Russians nuked Tokyo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#6; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,5,stream=0xC000;block=0xDC0;text=5,"[""stream=0xC000;block=0xDC0;text=5""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","だが、実際にソ連が東京へ核を撃ったとして、アメリカは
+本当にモスクワへ核を撃つか？
+","モスクワに核を撃てば、確実にソ連はアメリカに報復する
+だろう。
+","ワシントンD．C．に核を落とされる危険を冒してまで、
+日本のために反撃するか？
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,美国真的会用核弹回击莫斯科吗？如果真这么做，苏联必定会报复。,"[""美国真的会用核弹回击莫斯科吗？如果真这么做，苏联必定会报复。""]","Would America really nuke Moscow in return?
+If they did, the Soviet Union would undoubtedly
+retaliate.
+","[""Would America really nuke Moscow in return?\nIf they did, the Soviet Union would undoubtedly\nretaliate.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xCDC0; ENG blocks=0x9F870,0x9F870; ENG source rows=0x9F870#7,0x9F870#8; block_semantic_score=0.170285."
+BRIEFING_FILES_BLOCK_00CDC0,6,stream=0xC000;block=0xDC0;text=6,"[""stream=0xC000;block=0xDC0;text=6""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","モスクワに核を撃てば、確実にソ連はアメリカに報復する
+だろう。
+","ワシントンD．C．に核を落とされる危険を冒してまで、
+日本のために反撃するか？
+","…俺にはわからない。
+",[],,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,本土挨核弹的风险，去为日本报仇吗？,"[""本土挨核弹的风险，去为日本报仇吗？""]","having a bomb dropped on itself in order to
+avenge Japan?
+","[""having a bomb dropped on itself in order to\navenge Japan?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#10; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,7,stream=0xC000;block=0xDC0;text=7,"[""stream=0xC000;block=0xDC0;text=7""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","ワシントンD．C．に核を落とされる危険を冒してまで、
+日本のために反撃するか？
+","…俺にはわからない。
+","どうした。今さら日本のことが気がかりか？
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我不太确定。,"[""…我不太确定。""]","...I'm not so sure.
+","[""...I'm not so sure.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#11; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,8,stream=0xC000;block=0xDC0;text=8,"[""stream=0xC000;block=0xDC0;text=8""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","…俺にはわからない。
+","どうした。今さら日本のことが気がかりか？
+","そう言うわけじゃないが…。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别告诉我你现在还在担心日本。
+都过去这么多年了？","[""别告诉我你现在还在担心日本。\n都过去这么多年了？""]","Don't tell me you're still worried about Japan. After
+all these years?
+","[""Don't tell me you're still worried about Japan. After\nall these years?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#12; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,9,stream=0xC000;block=0xDC0;text=9,"[""stream=0xC000;block=0xDC0;text=9""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","どうした。今さら日本のことが気がかりか？
+","そう言うわけじゃないが…。
+","…正直、俺にもわからん。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不是那个。我只是…,"[""不是那个。我只是…""]","It's not that. I just...
+","[""It's not that. I just...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#13; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,10,stream=0xC000;block=0xDC0;text=10,"[""stream=0xC000;block=0xDC0;text=10""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","そう言うわけじゃないが…。
+","…正直、俺にもわからん。
+","だが、それはソ連にとっても同じ事だ。アメリカは日本の
+ために報復しないかも知れん。だが報復するかも知れん。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说实话，我也不太相信这个说法。,"[""说实话，我也不太相信这个说法。""]","To be honest, I'm not convinced, either.
+","[""To be honest, I'm not convinced, either.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#14; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,11,stream=0xC000;block=0xDC0;text=11,"[""stream=0xC000;block=0xDC0;text=11""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","…正直、俺にもわからん。
+","だが、それはソ連にとっても同じ事だ。アメリカは日本の
+ために報復しないかも知れん。だが報復するかも知れん。
+","それなら、ソ連は報復される危険を冒さないだろう…とい
+うことか。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但莫斯科面临同样的两难处境。
+或许华盛顿根本不会为日本报复。","[""但莫斯科面临同样的两难处境。\n或许华盛顿根本不会为日本报复。""]","But Moscow faces the same dilemma. Maybe
+Washington wouldn't retaliate on Japan's behalf.
+","[""But Moscow faces the same dilemma. Maybe\nWashington wouldn't retaliate on Japan's behalf.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#15; block_semantic_score=0.170285.
+BRIEFING_FILES_BLOCK_00CDC0,12,stream=0xC000;block=0xDC0;text=12,"[""stream=0xC000;block=0xDC0;text=12""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","だが、それはソ連にとっても同じ事だ。アメリカは日本の
+ために報復しないかも知れん。だが報復するかも知れん。
+","それなら、ソ連は報復される危険を冒さないだろう…とい
+うことか。
+","そもそも核抑止自体が、仮定の上に成り立っている。所詮
+は幻想だ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过话说回来，也可能会。所以你是说莫斯科也
+不愿冒被攻击的风险…","[""不过话说回来，也可能会。所以你是说莫斯科也\n不愿冒被攻击的风险…""]","Then again, maybe it would.
+So you're saying Moscow wouldn't want to risk
+being attacked, either...
+","[""Then again, maybe it would.\nSo you're saying Moscow wouldn't want to risk\nbeing attacked, either...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xCDC0; ENG blocks=0x9F870,0x9F870; ENG source rows=0x9F870#16,0x9F870#17; block_semantic_score=0.170285."
+BRIEFING_FILES_BLOCK_00CDC0,13,stream=0xC000;block=0xDC0;text=13,"[""stream=0xC000;block=0xDC0;text=13""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xDC0;block_file=0xCDC0;text_base=0xCE18;capacity=1128""]","それなら、ソ連は報復される危険を冒さないだろう…とい
+うことか。
+","そもそも核抑止自体が、仮定の上に成り立っている。所詮
+は幻想だ。
+",,[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"核威慑这整套概念，
+说到底本来就是假设性的。","[""核威慑这整套概念，\n说到底本来就是假设性的。""]","The whole concept of nuclear deterrence is
+entirely hypothetical to begin with.
+","[""The whole concept of nuclear deterrence is\nentirely hypothetical to begin with.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xCDC0; ENG blocks=0x9F870; ENG source rows=0x9F870#18; block_semantic_score=0.170285.

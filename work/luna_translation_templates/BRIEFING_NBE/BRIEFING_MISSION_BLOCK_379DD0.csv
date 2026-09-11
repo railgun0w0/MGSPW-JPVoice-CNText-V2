@@ -1,0 +1,7 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_379DD0,0,stream=0x379000;block=0xDD0;text=0,"[""stream=0x379000;block=0xDD0;text=0""]",1,d5090_m0380_mrd,"[""stream=0x379000;block=0xDD0;block_file=0x379DD0;text_base=0x379DF4;capacity=72""]",,"スネーク！！
+偽装データの送信を止めてくれ！！
+",,[],,,NOT_CHECKED,68,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake！你必须阻止
+那些数据被发送出去！","[""Snake！你必须阻止\n那些数据被发送出去！""]","Snake! You have to stop that data from
+being sent!
+","[""Snake! You have to stop that data from\nbeing sent!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379DD0; ENG blocks=0x390410; ENG source rows=0x390410#0; block_semantic_score=1.000000.

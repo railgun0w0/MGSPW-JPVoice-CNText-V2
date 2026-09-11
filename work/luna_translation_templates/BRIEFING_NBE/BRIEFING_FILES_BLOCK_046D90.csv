@@ -1,0 +1,118 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_046D90,0,stream=0x46000;block=0xD90;text=0,"[""stream=0x46000;block=0xD90;text=0""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]",,"UFOはキャトルミューティレーションとも関係があるらし
+いな。
+","<R=家畜,キャトル>の<R=突然変異,ミューテーション>？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,据说，UFO和牲畜被肢解有关。,"[""据说，UFO和牲畜被肢解有关。""]","Apparently, UFOs are connected to cattle
+mutilations.
+","[""Apparently, UFOs are connected to cattle\nmutilations.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#0; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,1,stream=0x46000;block=0xD90;text=1,"[""stream=0x46000;block=0xD90;text=1""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","UFOはキャトルミューティレーションとも関係があるらし
+いな。
+","<R=家畜,キャトル>の<R=突然変異,ミューテーション>？
+","ミューテーションじゃない。ミューティレーションさ。…
+英語だから意味はわからないけど。
+","[""<R=家畜,キャトル>"", ""<R=突然変異,ミューテーション>""]",,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,牲畜突变？,"[""牲畜突变？""]","Cattle mutations?
+","[""Cattle mutations?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#1; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,2,stream=0x46000;block=0xD90;text=2,"[""stream=0x46000;block=0xD90;text=2""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","<R=家畜,キャトル>の<R=突然変異,ミューテーション>？
+","ミューテーションじゃない。ミューティレーションさ。…
+英語だから意味はわからないけど。
+","UFOの目撃談には、近くで牛とかの家畜が謎の変死を遂げ
+ていたというエピソードがついて回るんだ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不是突变，是肢解…
+我以前从没听过这个词。人们一直在报告牲畜死亡","[""不是突变，是肢解…\n我以前从没听过这个词。人们一直在报告牲畜死亡""]","Not mutations. Mutilations... It's a word I'd never
+heard before.
+People have been reporting their livestock dying
+","[""Not mutations. Mutilations... It's a word I'd never\nheard before.\nPeople have been reporting their livestock dying\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x46D90; ENG blocks=0xD4880,0xD4880; ENG source rows=0xD4880#2,0xD4880#3; block_semantic_score=0.180899."
+BRIEFING_FILES_BLOCK_046D90,3,stream=0x46000;block=0xD90;text=3,"[""stream=0x46000;block=0xD90;text=3""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","ミューテーションじゃない。ミューティレーションさ。…
+英語だから意味はわからないけど。
+","UFOの目撃談には、近くで牛とかの家畜が謎の変死を遂げ
+ていたというエピソードがついて回るんだ。
+","それらの死体は血を抜かれ、目玉や性器がくり抜かれてい
+るらしい。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"死法离奇，而且地点
+都在UFO目击点附近。","[""死法离奇，而且地点\n都在UFO目击点附近。""]","in mysterious ways near the same places where
+UFOs have been sighted.
+","[""in mysterious ways near the same places where\nUFOs have been sighted.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#4; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,4,stream=0x46000;block=0xD90;text=4,"[""stream=0x46000;block=0xD90;text=4""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","UFOの目撃談には、近くで牛とかの家畜が謎の変死を遂げ
+ていたというエピソードがついて回るんだ。
+","それらの死体は血を抜かれ、目玉や性器がくり抜かれてい
+るらしい。
+","傷を負った死体を放置すると血は地面に吸収されるぞ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"尸体被抽干了血，
+眼珠和生殖器都被挖了出来。","[""尸体被抽干了血，\n眼珠和生殖器都被挖了出来。""]","the bodies are drained of blood and the eyeballs
+and sexual organs are gouged out.
+","[""the bodies are drained of blood and the eyeballs\nand sexual organs are gouged out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#6; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,5,stream=0x46000;block=0xD90;text=5,"[""stream=0x46000;block=0xD90;text=5""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","それらの死体は血を抜かれ、目玉や性器がくり抜かれてい
+るらしい。
+","傷を負った死体を放置すると血は地面に吸収されるぞ。
+","でも、傷口は地球上の刃物で切ったものとは違うらしい。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你要是把一具剖开的尸体丢在野地里，
+泥土会把血吸干。","[""你要是把一具剖开的尸体丢在野地里，\n泥土会把血吸干。""]","When you leave a corpse cut open in a field
+somewhere, the ground soaks up the blood.
+","[""When you leave a corpse cut open in a field\nsomewhere, the ground soaks up the blood.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#7; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,6,stream=0x46000;block=0xD90;text=6,"[""stream=0x46000;block=0xD90;text=6""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","傷を負った死体を放置すると血は地面に吸収されるぞ。
+","でも、傷口は地球上の刃物で切ったものとは違うらしい。
+","蛆か何かに食われたんじゃないのか？
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，但据说这些牛并不是
+被任何人为手段切割的。","[""是啊，但据说这些牛并不是\n被任何人为手段切割的。""]","Yeah, but supposedly these cows weren't cut up
+by any man-made means.
+","[""Yeah, but supposedly these cows weren't cut up\nby any man-made means.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#8; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,7,stream=0x46000;block=0xD90;text=7,"[""stream=0x46000;block=0xD90;text=7""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","でも、傷口は地球上の刃物で切ったものとは違うらしい。
+","蛆か何かに食われたんじゃないのか？
+","放射能が検出されたっていう話もある。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,也许是蛆虫咬的？,"[""也许是蛆虫咬的？""]","Maybe maggots got to 'em?
+","[""Maybe maggots got to 'em?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#9; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,8,stream=0x46000;block=0xD90;text=8,"[""stream=0x46000;block=0xD90;text=8""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","蛆か何かに食われたんじゃないのか？
+","放射能が検出されたっていう話もある。
+","放射能…。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有些案例中检测到了辐射。,"[""有些案例中检测到了辐射。""]","In some cases they detected radiation.
+","[""In some cases they detected radiation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#10; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,9,stream=0x46000;block=0xD90;text=9,"[""stream=0x46000;block=0xD90;text=9""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","放射能が検出されたっていう話もある。
+","放射能…。
+","それに、俺たちのいた街でも山羊が変死する事件があった
+んだ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,辐射…,"[""辐射…""]","Radiation...
+","[""Radiation...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#11; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,10,stream=0x46000;block=0xD90;text=10,"[""stream=0x46000;block=0xD90;text=10""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","放射能…。
+","それに、俺たちのいた街でも山羊が変死する事件があった
+んだ。
+","怪物を目撃したという人もいた。<R=爬虫類,レプタイル>が立ち上がったよ
+うな姿で、頭から背中にかけて棘に覆われていたらしい。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就连我们镇上，也有山羊离奇死亡。,"[""就连我们镇上，也有山羊离奇死亡。""]","Even in our own town we had goats that died in
+strange ways.
+","[""Even in our own town we had goats that died in\nstrange ways.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#12; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,11,stream=0x46000;block=0xD90;text=11,"[""stream=0x46000;block=0xD90;text=11""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","それに、俺たちのいた街でも山羊が変死する事件があった
+んだ。
+","怪物を目撃したという人もいた。<R=爬虫類,レプタイル>が立ち上がったよ
+うな姿で、頭から背中にかけて棘に覆われていたらしい。
+","それが宇宙人の正体か、あるいは<R=宇宙人が連れてきた怪物,エイリアン・アニマル>
+なのかも…。
+","[""<R=爬虫類,レプタイル>""]",,,NOT_CHECKED,178,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有人说他们看见了一个怪物,"[""有人说他们看见了一个怪物""]","Some said they saw a monster
+","[""Some said they saw a monster\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#13; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,12,stream=0x46000;block=0xD90;text=12,"[""stream=0x46000;block=0xD90;text=12""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","怪物を目撃したという人もいた。<R=爬虫類,レプタイル>が立ち上がったよ
+うな姿で、頭から背中にかけて棘に覆われていたらしい。
+","それが宇宙人の正体か、あるいは<R=宇宙人が連れてきた怪物,エイリアン・アニマル>
+なのかも…。
+","…なんにせよ、進んだ文明のイメージじゃない。
+","[""<R=宇宙人が連れてきた怪物,エイリアン・アニマル>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"——一只用两条腿走路的蜥蜴，
+从头到背长满了尖刺。我在想外星人是不是就长那样，还是说那是他们带来的宠物…","[""——一只用两条腿走路的蜥蜴，\n从头到背长满了尖刺。我在想外星人是不是就长那样，还是说那是他们带来的宠物…""]","- a lizard on two legs, covered in spines from its
+head all the way down its back.
+I wonder if that's what the aliens look like,
+or if it was some pet they brought with them...
+","[""- a lizard on two legs, covered in spines from its\nhead all the way down its back.\nI wonder if that's what the aliens look like,\nor if it was some pet they brought with them...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x46D90; ENG blocks=0xD4880,0xD4880,0xD4880; ENG source rows=0xD4880#14,0xD4880#15,0xD4880#16; block_semantic_score=0.180899."
+BRIEFING_FILES_BLOCK_046D90,13,stream=0x46000;block=0xD90;text=13,"[""stream=0x46000;block=0xD90;text=13""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","それが宇宙人の正体か、あるいは<R=宇宙人が連れてきた怪物,エイリアン・アニマル>
+なのかも…。
+","…なんにせよ、進んだ文明のイメージじゃない。
+","基地でみかけたらよろしく伝えておいてくれ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…不管怎么说，我觉得这
+不像是什么先进的文明。","[""…不管怎么说，我觉得这\n不像是什么先进的文明。""]","...Either way, it doesn't sound like a very advanced
+civilization to me.
+","[""...Either way, it doesn't sound like a very advanced\ncivilization to me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#17; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,14,stream=0x46000;block=0xD90;text=14,"[""stream=0x46000;block=0xD90;text=14""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","…なんにせよ、進んだ文明のイメージじゃない。
+","基地でみかけたらよろしく伝えておいてくれ。
+","言葉が通じたら、な。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你要是见到一个，替我说声‘你好’！,"[""你要是见到一个，替我说声‘你好’！""]","If you see one, tell it I said ""hi!""
+","[""If you see one, tell it I said \""hi!\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#18; block_semantic_score=0.180899.
+BRIEFING_FILES_BLOCK_046D90,15,stream=0x46000;block=0xD90;text=15,"[""stream=0x46000;block=0xD90;text=15""]",1,BRIEFING FILES,"[""stream=0x46000;block=0xD90;block_file=0x46D90;text_base=0x46DF0;capacity=1376""]","基地でみかけたらよろしく伝えておいてくれ。
+","言葉が通じたら、な。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好啊…如果它说人话的话。,"[""好啊…如果它说人话的话。""]","Sure... if it speaks human.
+","[""Sure... if it speaks human.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x46D90; ENG blocks=0xD4880; ENG source rows=0xD4880#19; block_semantic_score=0.180899.

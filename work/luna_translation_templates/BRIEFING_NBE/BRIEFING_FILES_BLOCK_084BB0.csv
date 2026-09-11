@@ -1,0 +1,236 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_084BB0,0,stream=0x84000;block=0xBB0;text=0,"[""stream=0x84000;block=0xBB0;text=0""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]",,"マザーベースでは毎月、その月生まれの兵士達を集めて誕
+生会をやっている。
+","戦闘集団がバースデーパーティというのもまたミスマッチ
+だけど、要するに酒を飲んで騒ぐための名目らしい。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"母基地会为所有在这个
+月过生日的士兵举办派对。","[""母基地会为所有在这个\n月过生日的士兵举办派对。""]","Mother Base throws a party for all the soldiers
+whose birthdays fall in that month.
+","[""Mother Base throws a party for all the soldiers\nwhose birthdays fall in that month.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#1; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,1,stream=0x84000;block=0xBB0;text=1,"[""stream=0x84000;block=0xBB0;text=1""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","マザーベースでは毎月、その月生まれの兵士達を集めて誕
+生会をやっている。
+","戦闘集団がバースデーパーティというのもまたミスマッチ
+だけど、要するに酒を飲んで騒ぐための名目らしい。
+","洋上の要塞としては、酒を手に入れるのも楽じゃない。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"军事组织举办派对，总觉得有点奇怪。不过说真的，这不过是
+喝酒喧闹的借口罢了。","[""军事组织举办派对，总觉得有点奇怪。不过说真的，这不过是\n喝酒喧闹的借口罢了。""]","There's something strange about a military
+organization having parties.
+Really, though, it is just an excuse to drink and
+make noise.
+","[""There's something strange about a military\norganization having parties.\nReally, though, it is just an excuse to drink and\nmake noise.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84BB0; ENG blocks=0x110AB0,0x110AB0; ENG source rows=0x110AB0#2,0x110AB0#3; block_semantic_score=0.161321."
+BRIEFING_FILES_BLOCK_084BB0,2,stream=0x84000;block=0xBB0;text=2,"[""stream=0x84000;block=0xBB0;text=2""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","戦闘集団がバースデーパーティというのもまたミスマッチ
+だけど、要するに酒を飲んで騒ぐための名目らしい。
+","洋上の要塞としては、酒を手に入れるのも楽じゃない。
+","日頃は訓練に明け暮れていることもあり、なかなか自由に
+酒を飲んだりも出来ないようだ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在大海中央的堡垒上，
+想弄到酒可不容易。","[""在大海中央的堡垒上，\n想弄到酒可不容易。""]","It is not easy to get alcohol on a fortress in the
+middle of the ocean.
+","[""It is not easy to get alcohol on a fortress in the\nmiddle of the ocean.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#4; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,3,stream=0x84000;block=0xBB0;text=3,"[""stream=0x84000;block=0xBB0;text=3""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","洋上の要塞としては、酒を手に入れるのも楽じゃない。
+","日頃は訓練に明け暮れていることもあり、なかなか自由に
+酒を飲んだりも出来ないようだ。
+","そこで兵士達の息抜きのために、スネークとミラーが毎月
+こうしたパーティをすると決めたのだという。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,大多数日子，他们从早到晚都在训练。,"[""大多数日子，他们从早到晚都在训练。""]","Most days they are training from dawn till dusk.
+","[""Most days they are training from dawn till dusk.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#5; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,4,stream=0x84000;block=0xBB0;text=4,"[""stream=0x84000;block=0xBB0;text=4""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","日頃は訓練に明け暮れていることもあり、なかなか自由に
+酒を飲んだりも出来ないようだ。
+","そこで兵士達の息抜きのために、スネークとミラーが毎月
+こうしたパーティをすると決めたのだという。
+","もちろん無骨な戦士たちの誕生会だけに、ケーキの蝋燭を
+吹き消したりなんて気取ったことはしない。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们没有时间做喝酒这种事。所以Snake和Miller才想出了这个
+主意——给大家一个放松的机会。","[""他们没有时间做喝酒这种事。所以Snake和Miller才想出了这个\n主意——给大家一个放松的机会。""]","They do not have time for things like drinking.
+That is why Snake and Miller came up with the
+idea - to give everyone a chance to let loose.
+","[""They do not have time for things like drinking.\nThat is why Snake and Miller came up with the\nidea - to give everyone a chance to let loose.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84BB0; ENG blocks=0x110AB0,0x110AB0; ENG source rows=0x110AB0#6,0x110AB0#7; block_semantic_score=0.161321."
+BRIEFING_FILES_BLOCK_084BB0,5,stream=0x84000;block=0xBB0;text=5,"[""stream=0x84000;block=0xBB0;text=5""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","そこで兵士達の息抜きのために、スネークとミラーが毎月
+こうしたパーティをすると決めたのだという。
+","もちろん無骨な戦士たちの誕生会だけに、ケーキの蝋燭を
+吹き消したりなんて気取ったことはしない。
+","煙草の煙が立ちこめる中、酒を飲んで肉を喰らう。下品な
+冗談や、お互いの出身を揶揄した差別語が飛び交う。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"显然，那群粗鲁的家伙才不会
+费心去吹蛋糕上的蜡烛。","[""显然，那群粗鲁的家伙才不会\n费心去吹蛋糕上的蜡烛。""]","Obviously, a bunch of boors like that are not going
+to bother with blowing out candles on a cake.
+","[""Obviously, a bunch of boors like that are not going\nto bother with blowing out candles on a cake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#8; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,6,stream=0x84000;block=0xBB0;text=6,"[""stream=0x84000;block=0xBB0;text=6""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","もちろん無骨な戦士たちの誕生会だけに、ケーキの蝋燭を
+吹き消したりなんて気取ったことはしない。
+","煙草の煙が立ちこめる中、酒を飲んで肉を喰らう。下品な
+冗談や、お互いの出身を揶揄した差別語が飛び交う。
+","けれど本気のケンカになることはあまりないようだ。口で
+はいろいろ言いつつも、皆このパーティを楽しんでいるみ
+たいだった。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"相反，他们坐在那里，
+在香烟烟雾缭绕中，喝着啤酒，吃着肉，讲着低俗的笑话，
+互相用粗话拿对方的家乡开涮。","[""相反，他们坐在那里，\n在香烟烟雾缭绕中，喝着啤酒，吃着肉，讲着低俗的笑话，\n互相用粗话拿对方的家乡开涮。""]","Rather, they sit there in a cloud of cigarette
+smoke,
+drink beer, eat meat, tell tasteless jokes and swap
+crude insults about one another's hometowns.
+","[""Rather, they sit there in a cloud of cigarette\nsmoke,\ndrink beer, eat meat, tell tasteless jokes and swap\ncrude insults about one another's hometowns.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84BB0; ENG blocks=0x110AB0,0x110AB0; ENG source rows=0x110AB0#9,0x110AB0#10; block_semantic_score=0.161321."
+BRIEFING_FILES_BLOCK_084BB0,7,stream=0x84000;block=0xBB0;text=7,"[""stream=0x84000;block=0xBB0;text=7""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","煙草の煙が立ちこめる中、酒を飲んで肉を喰らう。下品な
+冗談や、お互いの出身を揶揄した差別語が飛び交う。
+","けれど本気のケンカになることはあまりないようだ。口で
+はいろいろ言いつつも、皆このパーティを楽しんでいるみ
+たいだった。
+","不思議なものだ。<R=FSLN,サンディニスタ>にいた人もいれば、UCLAにいた
+人もいて、昔はお互い敵同士だったはずなのに。
+",[],,,NOT_CHECKED,177,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但几乎从不会闹到不可收拾的地步。他们聊得热火朝天，但都只是在玩闹。,"[""但几乎从不会闹到不可收拾的地步。他们聊得热火朝天，但都只是在玩闹。""]","But it hardly ever breaks out into something
+serious.
+They talk up a storm, but they're just having fun.
+","[""But it hardly ever breaks out into something\nserious.\nThey talk up a storm, but they're just having fun.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84BB0; ENG blocks=0x110AB0,0x110AB0; ENG source rows=0x110AB0#11,0x110AB0#12; block_semantic_score=0.161321."
+BRIEFING_FILES_BLOCK_084BB0,8,stream=0x84000;block=0xBB0;text=8,"[""stream=0x84000;block=0xBB0;text=8""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","けれど本気のケンカになることはあまりないようだ。口で
+はいろいろ言いつつも、皆このパーティを楽しんでいるみ
+たいだった。
+","不思議なものだ。<R=FSLN,サンディニスタ>にいた人もいれば、UCLAにいた
+人もいて、昔はお互い敵同士だったはずなのに。
+","これもあの男、<R=BIGBOSS,ビッグボス>の人望のなせる<R=業,わざ>なのか。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说来有趣。你看到FSLN的
+成员和UCLAs的人混在一起。","[""说来有趣。你看到FSLN的\n成员和UCLAs的人混在一起。""]","It is funny. You've got members of FSLN rubbing
+shoulders with the UCLAs.
+","[""It is funny. You've got members of FSLN rubbing\nshoulders with the UCLAs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#13; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,9,stream=0x84000;block=0xBB0;text=9,"[""stream=0x84000;block=0xBB0;text=9""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","不思議なものだ。<R=FSLN,サンディニスタ>にいた人もいれば、UCLAにいた
+人もいて、昔はお互い敵同士だったはずなのに。
+","これもあの男、<R=BIGBOSS,ビッグボス>の人望のなせる<R=業,わざ>なのか。
+","それとも国を捨てたことで他国への憎しみも消えてしまっ
+たのか。
+","[""<R=BIGBOSS,ビッグボス>"", ""<R=業,わざ>""]",,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我在想，这就是Big Boss
+如此受欢迎的原因吗？","[""我在想，这就是Big Boss\n如此受欢迎的原因吗？""]","I wonder if that is what makes Big Boss so popular.
+","[""I wonder if that is what makes Big Boss so popular.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#15; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,10,stream=0x84000;block=0xBB0;text=10,"[""stream=0x84000;block=0xBB0;text=10""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","これもあの男、<R=BIGBOSS,ビッグボス>の人望のなせる<R=業,わざ>なのか。
+","それとも国を捨てたことで他国への憎しみも消えてしまっ
+たのか。
+","ミラーは「下品なヤツばかりで悪いな」などと私に気を遣
+ってくれたけれど、そのうち自分も酔っぱらってしまった
+らしい。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"离开了自己的国家，
+他们也把对别国的仇恨抛在了身后。","[""离开了自己的国家，\n他们也把对别国的仇恨抛在了身后。""]","In leaving their countries behind, they leave their
+hatred for other countries, too.
+","[""In leaving their countries behind, they leave their\nhatred for other countries, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#16; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,11,stream=0x84000;block=0xBB0;text=11,"[""stream=0x84000;block=0xBB0;text=11""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","それとも国を捨てたことで他国への憎しみも消えてしまっ
+たのか。
+","ミラーは「下品なヤツばかりで悪いな」などと私に気を遣
+ってくれたけれど、そのうち自分も酔っぱらってしまった
+らしい。
+","「本当の俺を見てくれ！」などと叫び、ズボンを下ろして
+みんなに尻を見せ始めた。他の兵士達も爆笑だ。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“希望他们别太粗俗，”他说。
+但没过多久，他自己也喝醉了。他大喊道：“过来看看真正的
+Kazuhira Miller吧！”","[""“希望他们别太粗俗，”他说。\n但没过多久，他自己也喝醉了。他大喊道：“过来看看真正的\nKazuhira Miller吧！”""]","""Hope they're not being too crude,"" he said. But
+soon enough he too was drunk.
+He yelled, ""C'mere and take a look at the REAL
+Kazuhira Miller!""
+","[""\""Hope they're not being too crude,\"" he said. But\nsoon enough he too was drunk.\nHe yelled, \""C'mere and take a look at the REAL\nKazuhira Miller!\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84BB0; ENG blocks=0x110AB0,0x110AB0; ENG source rows=0x110AB0#18,0x110AB0#19; block_semantic_score=0.161321."
+BRIEFING_FILES_BLOCK_084BB0,12,stream=0x84000;block=0xBB0;text=12,"[""stream=0x84000;block=0xBB0;text=12""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","ミラーは「下品なヤツばかりで悪いな」などと私に気を遣
+ってくれたけれど、そのうち自分も酔っぱらってしまった
+らしい。
+","「本当の俺を見てくれ！」などと叫び、ズボンを下ろして
+みんなに尻を見せ始めた。他の兵士達も爆笑だ。
+","なんてバカらしいパーティなんだろう。けれど…。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后他脱下裤子，把光屁股对着大家。
+其他士兵哄堂大笑。","[""然后他脱下裤子，把光屁股对着大家。\n其他士兵哄堂大笑。""]","then dropped his pants and mooned everybody.
+The other soldiers burst out laughing.
+","[""then dropped his pants and mooned everybody.\nThe other soldiers burst out laughing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#20; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,13,stream=0x84000;block=0xBB0;text=13,"[""stream=0x84000;block=0xBB0;text=13""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","「本当の俺を見てくれ！」などと叫び、ズボンを下ろして
+みんなに尻を見せ始めた。他の兵士達も爆笑だ。
+","なんてバカらしいパーティなんだろう。けれど…。
+","こんな風に下らないことをして笑っているのが、もしかし
+たら平和というものなのだろうか？
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我从未见过如此粗俗
+又荒唐的派对。然而…","[""我从未见过如此粗俗\n又荒唐的派对。然而…""]","I have never seen such a crude, ridiculous party
+before. And yet...
+","[""I have never seen such a crude, ridiculous party\nbefore. And yet...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#21; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,14,stream=0x84000;block=0xBB0;text=14,"[""stream=0x84000;block=0xBB0;text=14""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","なんてバカらしいパーティなんだろう。けれど…。
+","こんな風に下らないことをして笑っているのが、もしかし
+たら平和というものなのだろうか？
+","私はなぜか、ここに来てからのことをひとつひとつ思い出
+していた。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,——这就是他们所谓的和平吗？,"[""——这就是他们所谓的和平吗？""]","- is this what they call peace?
+","[""- is this what they call peace?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#23; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,15,stream=0x84000;block=0xBB0;text=15,"[""stream=0x84000;block=0xBB0;text=15""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","こんな風に下らないことをして笑っているのが、もしかし
+たら平和というものなのだろうか？
+","私はなぜか、ここに来てからのことをひとつひとつ思い出
+していた。
+","チコ達とした釣り、アマンダやセシールとの料理、みんな
+とのサッカー、風邪のときに見舞いに来てくれた人たち…。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不知为何，我开始回想来到
+这里之后发生的种种。","[""不知为何，我开始回想来到\n这里之后发生的种种。""]","For some reason, I began to think about all that
+has happened since I came here.
+","[""For some reason, I began to think about all that\nhas happened since I came here.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#24; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,16,stream=0x84000;block=0xBB0;text=16,"[""stream=0x84000;block=0xBB0;text=16""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","私はなぜか、ここに来てからのことをひとつひとつ思い出
+していた。
+","チコ達とした釣り、アマンダやセシールとの料理、みんな
+とのサッカー、風邪のときに見舞いに来てくれた人たち…。
+","思えばここに来てからが、私の人生で最も平和な時だった
+のかもしれない。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和Chico一起钓鱼，和Amanda、
+Cecile一起做饭，踢足球，感冒时有人来看我…","[""和Chico一起钓鱼，和Amanda、\nCecile一起做饭，踢足球，感冒时有人来看我…""]","Fishing with Chico, cooking with Amanda and
+Cecile, playing soccer,
+having visitors when I caught a cold...
+","[""Fishing with Chico, cooking with Amanda and\nCecile, playing soccer,\nhaving visitors when I caught a cold...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84BB0; ENG blocks=0x110AB0,0x110AB0; ENG source rows=0x110AB0#25,0x110AB0#26; block_semantic_score=0.161321."
+BRIEFING_FILES_BLOCK_084BB0,17,stream=0x84000;block=0xBB0;text=17,"[""stream=0x84000;block=0xBB0;text=17""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","チコ達とした釣り、アマンダやセシールとの料理、みんな
+とのサッカー、風邪のときに見舞いに来てくれた人たち…。
+","思えばここに来てからが、私の人生で最も平和な時だった
+のかもしれない。
+","しかし、それももう終わる。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当我静下心来想一想，在这里度过的
+时光是我一生中最平静的时光。","[""当我静下心来想一想，在这里度过的\n时光是我一生中最平静的时光。""]","When I stop and think about it, my time here has
+been the most peaceful of my life.
+","[""When I stop and think about it, my time here has\nbeen the most peaceful of my life.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#27; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,18,stream=0x84000;block=0xBB0;text=18,"[""stream=0x84000;block=0xBB0;text=18""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","思えばここに来てからが、私の人生で最も平和な時だった
+のかもしれない。
+","しかし、それももう終わる。
+","彼が交渉に応じるとも思えない。私は他ならぬ<R=BIGBOSS,ビッグボス>
+と戦うことになる。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但这样的日子就要结束了。,"[""但这样的日子就要结束了。""]","But that is about to end.
+","[""But that is about to end.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#28; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,19,stream=0x84000;block=0xBB0;text=19,"[""stream=0x84000;block=0xBB0;text=19""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","しかし、それももう終わる。
+","彼が交渉に応じるとも思えない。私は他ならぬ<R=BIGBOSS,ビッグボス>
+と戦うことになる。
+","私が<R=BIGBOSS,ビッグボス>に勝てるかは疑問だが、<R=CIPHER,サイファー>に逆らう
+のは死よりも恐ろしい。
+","[""<R=BIGBOSS,ビッグボス>""]",,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看来我注定要和传说
+中的Big Boss一战了。","[""看来我注定要和传说\n中的Big Boss一战了。""]","It seems I am to fight the legendary Big Boss.
+","[""It seems I am to fight the legendary Big Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#30; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,20,stream=0x84000;block=0xBB0;text=20,"[""stream=0x84000;block=0xBB0;text=20""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","彼が交渉に応じるとも思えない。私は他ならぬ<R=BIGBOSS,ビッグボス>
+と戦うことになる。
+","私が<R=BIGBOSS,ビッグボス>に勝てるかは疑問だが、<R=CIPHER,サイファー>に逆らう
+のは死よりも恐ろしい。
+","ただ死ぬのであれば怖くはないが、命令に背けば、私はそ
+れ以上の恐怖と絶望を味わうことになるだろう。
+","[""<R=BIGBOSS,ビッグボス>"", ""<R=CIPHER,サイファー>""]",,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但如果必须在死亡和违抗Cipher之间
+选择，我会欣然选择死亡。","[""但如果必须在死亡和违抗Cipher之间\n选择，我会欣然选择死亡。""]","but if I have to choose between death and defying
+Cipher, I will gladly choose death.
+","[""but if I have to choose between death and defying\nCipher, I will gladly choose death.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#32; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,21,stream=0x84000;block=0xBB0;text=21,"[""stream=0x84000;block=0xBB0;text=21""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","私が<R=BIGBOSS,ビッグボス>に勝てるかは疑問だが、<R=CIPHER,サイファー>に逆らう
+のは死よりも恐ろしい。
+","ただ死ぬのであれば怖くはないが、命令に背けば、私はそ
+れ以上の恐怖と絶望を味わうことになるだろう。
+","それに、孤児だった私に住む場所と食料を与えてくれたの
+は<R=CIPHER,サイファー>だ。その命令は常に理不尽ではあったが、恩を
+忘れたわけではない。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但如果我违抗命令，
+等待我的恐惧和绝望将远比我
+能想象的任何事都要可怕。","[""但如果我违抗命令，\n等待我的恐惧和绝望将远比我\n能想象的任何事都要可怕。""]","But if I disobey my orders, the fear and despair
+awaiting me will be far worse than anything I can
+imagine.
+","[""But if I disobey my orders, the fear and despair\nawaiting me will be far worse than anything I can\nimagine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#34; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,22,stream=0x84000;block=0xBB0;text=22,"[""stream=0x84000;block=0xBB0;text=22""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","ただ死ぬのであれば怖くはないが、命令に背けば、私はそ
+れ以上の恐怖と絶望を味わうことになるだろう。
+","それに、孤児だった私に住む場所と食料を与えてくれたの
+は<R=CIPHER,サイファー>だ。その命令は常に理不尽ではあったが、恩を
+忘れたわけではない。
+","やはり私は、あの男と戦うしかないのだろう。
+","[""<R=CIPHER,サイファー>""]",,,NOT_CHECKED,203,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是Cipher收养了我这个孤儿——
+给了我食物和栖身之所。","[""是Cipher收养了我这个孤儿——\n给了我食物和栖身之所。""]","It was Cipher who took me in as an orphan - gave
+me food and a place to live.
+","[""It was Cipher who took me in as an orphan - gave\nme food and a place to live.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#35; block_semantic_score=0.161321.
+BRIEFING_FILES_BLOCK_084BB0,23,stream=0x84000;block=0xBB0;text=23,"[""stream=0x84000;block=0xBB0;text=23""]",1,BRIEFING FILES,"[""stream=0x84000;block=0xBB0;block_file=0x84BB0;text_base=0x84C30;capacity=3032""]","それに、孤児だった私に住む場所と食料を与えてくれたの
+は<R=CIPHER,サイファー>だ。その命令は常に理不尽ではあったが、恩を
+忘れたわけではない。
+","やはり私は、あの男と戦うしかないのだろう。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他的命令也许并不合理，
+但我永远无法完全偿还这份恩情。","[""他的命令也许并不合理，\n但我永远无法完全偿还这份恩情。""]","His orders may have been unreasonable, but I will
+never repay my debt entirely.
+","[""His orders may have been unreasonable, but I will\nnever repay my debt entirely.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84BB0; ENG blocks=0x110AB0; ENG source rows=0x110AB0#36; block_semantic_score=0.161321.

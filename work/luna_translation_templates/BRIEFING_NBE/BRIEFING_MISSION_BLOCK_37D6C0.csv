@@ -1,0 +1,55 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37D6C0,0,stream=0x37D000;block=0x6C0;text=0,"[""stream=0x37D000;block=0x6C0;text=0""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x6C0;block_file=0x37D6C0;text_base=0x37D6F8;capacity=536""]",,"スネーク、研究開発班からの報告だ。
+","マザーベースの全プラントが、
+ヘックスタイプへの更新を終えたそうだ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，我收到了研发
+组的另一份报告。","[""Snake，我收到了研发\n组的另一份报告。""]","Snake, I got another report from the
+R&D team.
+","[""Snake, I got another report from the\nR&D team.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x37D6C0; ENG blocks=0x392F70; ENG source rows=0x392F70#0; block_semantic_score=0.111343.
+BRIEFING_MISSION_BLOCK_37D6C0,1,stream=0x37D000;block=0x6C0;text=1,"[""stream=0x37D000;block=0x6C0;text=1""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x6C0;block_file=0x37D6C0;text_base=0x37D6F8;capacity=536""]","スネーク、研究開発班からの報告だ。
+","マザーベースの全プラントが、
+ヘックスタイプへの更新を終えたそうだ。
+","MSFの能力も全般的に上がってきていて、
+実戦部隊の派遣依頼も順調に増えてる。
+連日、出撃に継ぐ出撃、GMPの稼ぎも上々だ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们已经把母基地改造
+成了一座六边形平台。","[""他们已经把母基地改造\n成了一座六边形平台。""]","They've finished converting Mother Base
+into a hex plant.
+","[""They've finished converting Mother Base\ninto a hex plant.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x37D6C0; ENG blocks=0x392F70; ENG source rows=0x392F70#1; block_semantic_score=0.111343.
+BRIEFING_MISSION_BLOCK_37D6C0,2,stream=0x37D000;block=0x6C0;text=2,"[""stream=0x37D000;block=0x6C0;text=2""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x6C0;block_file=0x37D6C0;text_base=0x37D6F8;capacity=536""]","マザーベースの全プラントが、
+ヘックスタイプへの更新を終えたそうだ。
+","MSFの能力も全般的に上がってきていて、
+実戦部隊の派遣依頼も順調に増えてる。
+連日、出撃に継ぐ出撃、GMPの稼ぎも上々だ。
+","やっぱりビジネスはこうでなくちゃな。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"无国界之师（MSF）的
+整体能力也全面提升了。","[""无国界之师（MSF）的\n整体能力也全面提升了。""]","MSF's capabilities are up across the
+board, too.
+","[""MSF's capabilities are up across the\nboard, too.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x37D6C0; ENG blocks=0x392F70; ENG source rows=0x392F70#2; block_semantic_score=0.111343.
+BRIEFING_MISSION_BLOCK_37D6C0,3,stream=0x37D000;block=0x6C0;text=3,"[""stream=0x37D000;block=0x6C0;text=3""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x6C0;block_file=0x37D6C0;text_base=0x37D6F8;capacity=536""]","MSFの能力も全般的に上がってきていて、
+実戦部隊の派遣依頼も順調に増えてる。
+連日、出撃に継ぐ出撃、GMPの稼ぎも上々だ。
+","やっぱりビジネスはこうでなくちゃな。
+","この調子でMSFの活動も、
+更に拡充していこうじゃないか。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们作战部队的合同
+数量也在不断增加。","[""我们作战部队的合同\n数量也在不断增加。""]","Our combat team's contracts keep
+increasing.
+","[""Our combat team's contracts keep\nincreasing.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x37D6C0; ENG blocks=0x392F70; ENG source rows=0x392F70#3; block_semantic_score=0.111343.
+BRIEFING_MISSION_BLOCK_37D6C0,4,stream=0x37D000;block=0x6C0;text=4,"[""stream=0x37D000;block=0x6C0;text=4""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x6C0;block_file=0x37D6C0;text_base=0x37D6F8;capacity=536""]","やっぱりビジネスはこうでなくちゃな。
+","この調子でMSFの活動も、
+更に拡充していこうじゃないか。
+","発展はこれからだ。
+よろしく頼むぞ、スネーク。
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这才像是一门生意该有的样子。照这个势头下去，前途不可限量。,"[""这才像是一门生意该有的样子。照这个势头下去，前途不可限量。""]","Now this is how a business is supposed
+to look.
+At this rate, the sky's the limit.
+","[""Now this is how a business is supposed\nto look.\nAt this rate, the sky's the limit.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x37D6C0; ENG blocks=0x392F70,0x392F70; ENG source rows=0x392F70#5,0x392F70#6; block_semantic_score=0.111343."
+BRIEFING_MISSION_BLOCK_37D6C0,5,stream=0x37D000;block=0x6C0;text=5,"[""stream=0x37D000;block=0x6C0;text=5""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x6C0;block_file=0x37D6C0;text_base=0x37D6F8;capacity=536""]","この調子でMSFの活動も、
+更に拡充していこうじゃないか。
+","発展はこれからだ。
+よろしく頼むぞ、スネーク。
+",,[],,,NOT_CHECKED,68,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们才刚刚开始，Snake。
+继续保持出色的表现。","[""我们才刚刚开始，Snake。\n继续保持出色的表现。""]","We're just getting started, Snake. Keep
+up the great work.
+","[""We're just getting started, Snake. Keep\nup the great work.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x37D6C0; ENG blocks=0x392F70; ENG source rows=0x392F70#7; block_semantic_score=0.111343.

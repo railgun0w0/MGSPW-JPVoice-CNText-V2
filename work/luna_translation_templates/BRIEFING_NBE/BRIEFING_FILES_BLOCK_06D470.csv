@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06D470,0,stream=0x6D000;block=0x470;text=0,"[""stream=0x6D000;block=0x470;text=0""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x470;block_file=0x6D470;text_base=0x6D4A0;capacity=628""]",,"コールドマンはなぜ核を撃とうと？　<R=人工知能,AI>による報復
+機能を証明するだけなら核弾頭を搭載する必要はないはず
+だ。
+","そうだ。弾頭を積まずに、ミサイル本体だけを飛ばしても、
+報復機能の実証は可能だ。僕も最初はそう聞いていた。
+","[""<R=人工知能,AI>""]",,,NOT_CHECKED,172,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果他只是想证明AI
+报复系统确实有效，","[""如果他只是想证明AI\n报复系统确实有效，""]","If all he wants to do is prove the AI retaliation
+system works,
+","[""If all he wants to do is prove the AI retaliation\nsystem works,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x6D470; ENG blocks=0xF9C50; ENG source rows=0xF9C50#1; block_semantic_score=0.113155.
+BRIEFING_FILES_BLOCK_06D470,1,stream=0x6D000;block=0x470;text=1,"[""stream=0x6D000;block=0x470;text=1""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x470;block_file=0x6D470;text_base=0x6D4A0;capacity=628""]","コールドマンはなぜ核を撃とうと？　<R=人工知能,AI>による報復
+機能を証明するだけなら核弾頭を搭載する必要はないはず
+だ。
+","そうだ。弾頭を積まずに、ミサイル本体だけを飛ばしても、
+報復機能の実証は可能だ。僕も最初はそう聞いていた。
+","だけどあいつは、模擬弾では意味がないって…実際に核を
+撃った、その事実こそが仮想敵への抑止力になるんだと。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他根本不需要装上实弹弹头。我同意。他完全可以只发射
+导弹来演示这个系统，","[""他根本不需要装上实弹弹头。我同意。他完全可以只发射\n导弹来演示这个系统，""]","he doesn't need to put a live warhead on it.
+I agree. He could demonstrate the system by
+launching the missile alone
+","[""he doesn't need to put a live warhead on it.\nI agree. He could demonstrate the system by\nlaunching the missile alone\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x6D470; ENG blocks=0xF9C50,0xF9C50; ENG source rows=0xF9C50#2,0xF9C50#3; block_semantic_score=0.113155."
+BRIEFING_FILES_BLOCK_06D470,2,stream=0x6D000;block=0x470;text=2,"[""stream=0x6D000;block=0x470;text=2""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x470;block_file=0x6D470;text_base=0x6D4A0;capacity=628""]","そうだ。弾頭を積まずに、ミサイル本体だけを飛ばしても、
+報復機能の実証は可能だ。僕も最初はそう聞いていた。
+","だけどあいつは、模擬弾では意味がないって…実際に核を
+撃った、その事実こそが仮想敵への抑止力になるんだと。
+","本物の核を撃つことで<R=本部,ラングレー>との交渉を有利に進める。それ
+もあいつの目的なんだ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"——不装弹头。我一开始
+也问过他同样的问题。他说用假导弹没有意义…","[""——不装弹头。我一开始\n也问过他同样的问题。他说用假导弹没有意义…""]","- without a warhead. I asked him the same thing at
+first.
+He said there was no point in using a dummy
+missile...
+","[""- without a warhead. I asked him the same thing at\nfirst.\nHe said there was no point in using a dummy\nmissile...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x6D470; ENG blocks=0xF9C50,0xF9C50; ENG source rows=0xF9C50#4,0xF9C50#5; block_semantic_score=0.113155."
+BRIEFING_FILES_BLOCK_06D470,3,stream=0x6D000;block=0x470;text=3,"[""stream=0x6D000;block=0x470;text=3""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x470;block_file=0x6D470;text_base=0x6D4A0;capacity=628""]","だけどあいつは、模擬弾では意味がないって…実際に核を
+撃った、その事実こそが仮想敵への抑止力になるんだと。
+","本物の核を撃つことで<R=本部,ラングレー>との交渉を有利に進める。それ
+もあいつの目的なんだ。
+",,"[""<R=本部,ラングレー>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只有真正发射核弹，
+才能威慑潜在的敌人。发射真家伙能让他跟
+兰利谈判时占上风。那才是他真正想要的。","[""只有真正发射核弹，\n才能威慑潜在的敌人。发射真家伙能让他跟\n兰利谈判时占上风。那才是他真正想要的。""]","That it'd take an actual nuclear launch to deter
+potential enemies.
+Launching the real deal gives him a leg up in
+negotiations with Langley.
+That's what he's really after.
+","[""That it'd take an actual nuclear launch to deter\npotential enemies.\nLaunching the real deal gives him a leg up in\nnegotiations with Langley.\nThat's what he's really after.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:3; JPN blocks=0x6D470; ENG blocks=0xF9C50,0xF9C50,0xF9C50; ENG source rows=0xF9C50#6,0xF9C50#7,0xF9C50#8; block_semantic_score=0.113155."

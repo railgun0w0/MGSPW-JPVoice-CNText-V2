@@ -1,0 +1,65 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_030DC0,0,stream=0x30000;block=0xDC0;text=0,"[""stream=0x30000;block=0xDC0;text=0""]",1,BRIEFING FILES,"[""stream=0x30000;block=0xDC0;block_file=0x30DC0;text_base=0x30DFC;capacity=672""]",,"マナグアの地震が起きたのは2年前。次の日はクリスマス
+イブだった。
+","街に何本も地割れが走った。寝ていた子供は、逃げること
+もできずに、崩れてきた家に押し潰された。サンタクロー
+スが来る前に。
+",[],,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"两年前，马那瓜大地震
+发生在圣诞前夜前夕。","[""两年前，马那瓜大地震\n发生在圣诞前夜前夕。""]","The Managua Earthquake struck two years ago,
+the day before Christmas Eve.
+","[""The Managua Earthquake struck two years ago,\nthe day before Christmas Eve.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x30DC0; ENG blocks=0xC1D60; ENG source rows=0xC1D60#0; block_semantic_score=0.159725.
+BRIEFING_FILES_BLOCK_030DC0,1,stream=0x30000;block=0xDC0;text=1,"[""stream=0x30000;block=0xDC0;text=1""]",1,BRIEFING FILES,"[""stream=0x30000;block=0xDC0;block_file=0x30DC0;text_base=0x30DFC;capacity=672""]","マナグアの地震が起きたのは2年前。次の日はクリスマス
+イブだった。
+","街に何本も地割れが走った。寝ていた子供は、逃げること
+もできずに、崩れてきた家に押し潰された。サンタクロー
+スが来る前に。
+","ソモサのせいで、古い家の建て替えもろくにできなかった
+から…悪夢よ。
+",[],,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,街道上裂开了巨大的裂缝。熟睡的孩子被倒塌的房屋掩埋。没有机会逃生，也等不到圣诞老人了。,"[""街道上裂开了巨大的裂缝。熟睡的孩子被倒塌的房屋掩埋。没有机会逃生，也等不到圣诞老人了。""]","Giant cracks opened up in the streets.
+Sleeping children were crushed in collapsing
+houses.
+No chance to escape. No visit from Santa Claus.
+","[""Giant cracks opened up in the streets.\nSleeping children were crushed in collapsing\nhouses.\nNo chance to escape. No visit from Santa Claus.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x30DC0; ENG blocks=0xC1D60,0xC1D60,0xC1D60; ENG source rows=0xC1D60#1,0xC1D60#2,0xC1D60#3; block_semantic_score=0.159725."
+BRIEFING_FILES_BLOCK_030DC0,2,stream=0x30000;block=0xDC0;text=2,"[""stream=0x30000;block=0xDC0;text=2""]",1,BRIEFING FILES,"[""stream=0x30000;block=0xDC0;block_file=0x30DC0;text_base=0x30DFC;capacity=672""]","街に何本も地割れが走った。寝ていた子供は、逃げること
+もできずに、崩れてきた家に押し潰された。サンタクロー
+スが来る前に。
+","ソモサのせいで、古い家の建て替えもろくにできなかった
+から…悪夢よ。
+","直下型と聞いたが。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"多亏了索摩查，那些老房子
+甚至无法重建…那是一场噩梦。","[""多亏了索摩查，那些老房子\n甚至无法重建…那是一场噩梦。""]","Thanks to Somoza, the old houses could not even
+get rebuilt... It was a nightmare.
+","[""Thanks to Somoza, the old houses could not even\nget rebuilt... It was a nightmare.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x30DC0; ENG blocks=0xC1D60; ENG source rows=0xC1D60#4; block_semantic_score=0.159725.
+BRIEFING_FILES_BLOCK_030DC0,3,stream=0x30000;block=0xDC0;text=3,"[""stream=0x30000;block=0xDC0;text=3""]",1,BRIEFING FILES,"[""stream=0x30000;block=0xDC0;block_file=0x30DC0;text_base=0x30DFC;capacity=672""]","ソモサのせいで、古い家の建て替えもろくにできなかった
+から…悪夢よ。
+","直下型と聞いたが。
+","今でも断層の真上は危険で、家も建てられない。中心部は
+廃墟のままよ。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我听说震中就在市中心。,"[""我听说震中就在市中心。""]","I heard the epicenter was right in the middle of the
+city.
+","[""I heard the epicenter was right in the middle of the\ncity.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x30DC0; ENG blocks=0xC1D60; ENG source rows=0xC1D60#5; block_semantic_score=0.159725.
+BRIEFING_FILES_BLOCK_030DC0,4,stream=0x30000;block=0xDC0;text=4,"[""stream=0x30000;block=0xDC0;text=4""]",1,BRIEFING FILES,"[""stream=0x30000;block=0xDC0;block_file=0x30DC0;text_base=0x30DFC;capacity=672""]","直下型と聞いたが。
+","今でも断層の真上は危険で、家も建てられない。中心部は
+廃墟のままよ。
+","おまけに復興資金はソモサが着服、か。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"直到今天，在断层线上方
+建造建筑仍然太危险了。市中心仍然是一片废墟。","[""直到今天，在断层线上方\n建造建筑仍然太危险了。市中心仍然是一片废墟。""]","Even today, it's too dangerous to build on top of
+the fault line.
+The city center is still in ruins.
+","[""Even today, it's too dangerous to build on top of\nthe fault line.\nThe city center is still in ruins.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x30DC0; ENG blocks=0xC1D60,0xC1D60; ENG source rows=0xC1D60#6,0xC1D60#7; block_semantic_score=0.159725."
+BRIEFING_FILES_BLOCK_030DC0,5,stream=0x30000;block=0xDC0;text=5,"[""stream=0x30000;block=0xDC0;text=5""]",1,BRIEFING FILES,"[""stream=0x30000;block=0xDC0;block_file=0x30DC0;text_base=0x30DFC;capacity=672""]","今でも断層の真上は危険で、家も建てられない。中心部は
+廃墟のままよ。
+","おまけに復興資金はソモサが着服、か。
+","亡くなった人たちのためにも、絶対に負けられない。必ず
+ソモサを倒す。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,更糟的是，索摩查还偷走了重建资金。,"[""更糟的是，索摩查还偷走了重建资金。""]","And to make things worse, Somoza stole the
+recovery money.
+","[""And to make things worse, Somoza stole the\nrecovery money.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x30DC0; ENG blocks=0xC1D60; ENG source rows=0xC1D60#8; block_semantic_score=0.159725.
+BRIEFING_FILES_BLOCK_030DC0,6,stream=0x30000;block=0xDC0;text=6,"[""stream=0x30000;block=0xDC0;text=6""]",1,BRIEFING FILES,"[""stream=0x30000;block=0xDC0;block_file=0x30DC0;text_base=0x30DFC;capacity=672""]","おまけに復興資金はソモサが着服、か。
+","亡くなった人たちのためにも、絶対に負けられない。必ず
+ソモサを倒す。
+",,[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们不能失败。
+我们欠那些失去生命的人。我们一定会击败索摩查。","[""我们不能失败。\n我们欠那些失去生命的人。我们一定会击败索摩查。""]","We must not fail. We owe it to those who lost their
+lives.
+We will defeat Somoza.
+","[""We must not fail. We owe it to those who lost their\nlives.\nWe will defeat Somoza.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x30DC0; ENG blocks=0xC1D60,0xC1D60; ENG source rows=0xC1D60#9,0xC1D60#10; block_semantic_score=0.159725."

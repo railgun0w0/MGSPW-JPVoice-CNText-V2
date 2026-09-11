@@ -1,0 +1,121 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_007D60,0,stream=0x7000;block=0xD60;text=0,"[""stream=0x7000;block=0xD60;text=0""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]",,"なあ、スネーク。俺は最近思うんだが…ゲバラも結局、戦
+場以外に居場所を見つけられなかったんじゃないかな。
+","どういう意味だ？
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许Che在战场之外，
+也找不到属于自己的位置。","[""也许Che在战场之外，\n也找不到属于自己的位置。""]","Maybe Che couldn't find a place for himself outside
+the battlefield, either.
+","[""Maybe Che couldn't find a place for himself outside\nthe battlefield, either.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#1; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,1,stream=0x7000;block=0xD60;text=1,"[""stream=0x7000;block=0xD60;text=1""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","なあ、スネーク。俺は最近思うんだが…ゲバラも結局、戦
+場以外に居場所を見つけられなかったんじゃないかな。
+","どういう意味だ？
+","ゲバラはキューバ革命を成し遂げた。偉大な戦果だ。そこ
+にあぐらをかいたって、誰も責めないはずだ。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为什么这么说？,"[""为什么这么说？""]","How so?
+","[""How so?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#2; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,2,stream=0x7000;block=0xD60;text=2,"[""stream=0x7000;block=0xD60;text=2""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","どういう意味だ？
+","ゲバラはキューバ革命を成し遂げた。偉大な戦果だ。そこ
+にあぐらをかいたって、誰も責めないはずだ。
+","なのに、ゲバラは暖かい家庭も大臣の座も捨てて、革命の
+戦地に身を投じたんだ。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他领导古巴革命取得了胜利。
+那可是相当了不起的成就。","[""他领导古巴革命取得了胜利。\n那可是相当了不起的成就。""]","He led the Cuban Revolution to victory. That's
+quite an accomplishment.
+","[""He led the Cuban Revolution to victory. That's\nquite an accomplishment.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#3; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,3,stream=0x7000;block=0xD60;text=3,"[""stream=0x7000;block=0xD60;text=3""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","ゲバラはキューバ革命を成し遂げた。偉大な戦果だ。そこ
+にあぐらをかいたって、誰も責めないはずだ。
+","なのに、ゲバラは暖かい家庭も大臣の座も捨てて、革命の
+戦地に身を投じたんだ。
+","コンゴ。そしてボリビア。そこが彼の最期の地になった。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但他还是抛下了疼爱他的家人
+和内阁职位，重新投身斗争。","[""但他还是抛下了疼爱他的家人\n和内阁职位，重新投身斗争。""]","But he left behind a loving family and a cabinet
+post to plunge back into the struggle.
+","[""But he left behind a loving family and a cabinet\npost to plunge back into the struggle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#5; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,4,stream=0x7000;block=0xD60;text=4,"[""stream=0x7000;block=0xD60;text=4""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","なのに、ゲバラは暖かい家庭も大臣の座も捨てて、革命の
+戦地に身を投じたんだ。
+","コンゴ。そしてボリビア。そこが彼の最期の地になった。
+","考えすぎだ。ゲバラが再び戦場へ赴いたのは、そこが彼を
+必要としたからだ。「別れの手紙」を読めばわかる。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"先是在刚果，然后是玻利维亚——
+他就是在那里牺牲的。","[""先是在刚果，然后是玻利维亚——\n他就是在那里牺牲的。""]","First in the Congo, then in Bolivia - where he met
+his end.
+","[""First in the Congo, then in Bolivia - where he met\nhis end.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#6; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,5,stream=0x7000;block=0xD60;text=5,"[""stream=0x7000;block=0xD60;text=5""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","コンゴ。そしてボリビア。そこが彼の最期の地になった。
+","考えすぎだ。ゲバラが再び戦場へ赴いたのは、そこが彼を
+必要としたからだ。「別れの手紙」を読めばわかる。
+","理想主義が過ぎて、政府に居場所がなくなったって話もあ
+る。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你想太多了。切格瓦拉重返战场，
+是因为那里需要他。去读读他的《告别信》，
+你就会明白了。","[""你想太多了。切格瓦拉重返战场，\n是因为那里需要他。去读读他的《告别信》，\n你就会明白了。""]","You're overthinking things. Che went back to the
+battlefield because he was needed there.
+Read his ""Farewell Letter,"" then you'll understand.
+","[""You're overthinking things. Che went back to the\nbattlefield because he was needed there.\nRead his \""Farewell Letter,\"" then you'll understand.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7D60; ENG blocks=0x9C120,0x9C120; ENG source rows=0x9C120#7,0x9C120#8; block_semantic_score=0.120169."
+BRIEFING_FILES_BLOCK_007D60,6,stream=0x7000;block=0xD60;text=6,"[""stream=0x7000;block=0xD60;text=6""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","考えすぎだ。ゲバラが再び戦場へ赴いたのは、そこが彼を
+必要としたからだ。「別れの手紙」を読めばわかる。
+","理想主義が過ぎて、政府に居場所がなくなったって話もあ
+る。
+","彼の潔癖さのせいだろう。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有人说他太理想主义，没法融入政府。,"[""有人说他太理想主义，没法融入政府。""]","Some say he was too idealistic to fit in with a
+government.
+","[""Some say he was too idealistic to fit in with a\ngovernment.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#9; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,7,stream=0x7000;block=0xD60;text=7,"[""stream=0x7000;block=0xD60;text=7""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","理想主義が過ぎて、政府に居場所がなくなったって話もあ
+る。
+","彼の潔癖さのせいだろう。
+","そりゃそうなんだが…。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,顾虑太多了吧，多半是这样。,"[""顾虑太多了吧，多半是这样。""]","Too many scruples, most likely.
+","[""Too many scruples, most likely.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#10; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,8,stream=0x7000;block=0xD60;text=8,"[""stream=0x7000;block=0xD60;text=8""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","彼の潔癖さのせいだろう。
+","そりゃそうなんだが…。
+","ただ、俺やあんたがゲバラに惹かれるのは、自分に似た匂
+いを感じるからじゃないか…そう思っただけさ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,也许是吧…,"[""也许是吧…""]","Maybe so...
+","[""Maybe so...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#11; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,9,stream=0x7000;block=0xD60;text=9,"[""stream=0x7000;block=0xD60;text=9""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","そりゃそうなんだが…。
+","ただ、俺やあんたがゲバラに惹かれるのは、自分に似た匂
+いを感じるからじゃないか…そう思っただけさ。
+","祖国を出て戦いに身を投じ、自分が必要とされる戦場を渡
+り歩く…。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过我还是忍不住想，
+你之所以敬仰Che，原因是…是因为你从他身上看到了自己的影子…","[""不过我还是忍不住想，\n你之所以敬仰Che，原因是…是因为你从他身上看到了自己的影子…""]","But I still can't help thinking the reason you look
+up to Che
+is because you see something of yourself in him...
+","[""But I still can't help thinking the reason you look\nup to Che\nis because you see something of yourself in him...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7D60; ENG blocks=0x9C120,0x9C120; ENG source rows=0x9C120#12,0x9C120#13; block_semantic_score=0.120169."
+BRIEFING_FILES_BLOCK_007D60,10,stream=0x7000;block=0xD60;text=10,"[""stream=0x7000;block=0xD60;text=10""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","ただ、俺やあんたがゲバラに惹かれるのは、自分に似た匂
+いを感じるからじゃないか…そう思っただけさ。
+","祖国を出て戦いに身を投じ、自分が必要とされる戦場を渡
+り歩く…。
+","ゲバラは戦士である以上に革命家だった。理想を実現する
+ために銃を取った。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你抛下了自己的祖国，投身战斗。,"[""你抛下了自己的祖国，投身战斗。""]","You left your country behind and plunged into
+battle.
+","[""You left your country behind and plunged into\nbattle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#14; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,11,stream=0x7000;block=0xD60;text=11,"[""stream=0x7000;block=0xD60;text=11""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","祖国を出て戦いに身を投じ、自分が必要とされる戦場を渡
+り歩く…。
+","ゲバラは戦士である以上に革命家だった。理想を実現する
+ために銃を取った。
+","俺は思想のために戦わない。俺は<R=　戦士　,war fighter>だ。それ以上で
+も以下でもない。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Che既是革命者，也是战士。
+他拿起武器，为自己的信念而战。","[""Che既是革命者，也是战士。\n他拿起武器，为自己的信念而战。""]","Che was a revolutionary as well as a warrior. He
+took up arms to fight for his beliefs.
+","[""Che was a revolutionary as well as a warrior. He\ntook up arms to fight for his beliefs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#16; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,12,stream=0x7000;block=0xD60;text=12,"[""stream=0x7000;block=0xD60;text=12""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","ゲバラは戦士である以上に革命家だった。理想を実現する
+ために銃を取った。
+","俺は思想のために戦わない。俺は<R=　戦士　,war fighter>だ。それ以上で
+も以下でもない。
+","わかったボス。その通りだ。偉大な英雄と自分を重ねてみ
+たかっただけなんだよ。
+","[""<R=　戦士　,war fighter>""]",,,NOT_CHECKED,120,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我做这些事不是为了什么主义。
+我是个战士，仅此而已。","[""我做这些事不是为了什么主义。\n我是个战士，仅此而已。""]","I don't do what I do for any ideology. I'm a warrior.
+Nothing more, nothing less.
+","[""I don't do what I do for any ideology. I'm a warrior.\nNothing more, nothing less.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#17; block_semantic_score=0.120169.
+BRIEFING_FILES_BLOCK_007D60,13,stream=0x7000;block=0xD60;text=13,"[""stream=0x7000;block=0xD60;text=13""]",1,BRIEFING FILES,"[""stream=0x7000;block=0xD60;block_file=0x7D60;text_base=0x7DB8;capacity=1420""]","俺は思想のために戦わない。俺は<R=　戦士　,war fighter>だ。それ以上で
+も以下でもない。
+","わかったボス。その通りだ。偉大な英雄と自分を重ねてみ
+たかっただけなんだよ。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"好吧，Boss。你说得对。
+我只是想看看，我们跟一位
+真正的英雄相比怎么样。","[""好吧，Boss。你说得对。\n我只是想看看，我们跟一位\n真正的英雄相比怎么样。""]","OK, Boss. You're right. Just wanted to see how we
+stacked up against a real hero.
+","[""OK, Boss. You're right. Just wanted to see how we\nstacked up against a real hero.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7D60; ENG blocks=0x9C120; ENG source rows=0x9C120#18; block_semantic_score=0.120169.

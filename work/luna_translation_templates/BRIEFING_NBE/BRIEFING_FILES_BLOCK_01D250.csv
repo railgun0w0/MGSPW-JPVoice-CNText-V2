@@ -1,0 +1,38 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01D250,0,stream=0x1D000;block=0x250;text=0,"[""stream=0x1D000;block=0x250;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]",,"敵兵を<R= 降伏 ,ホールドアップ>させるには、後方からゆっくりと近づくんだ。
+","気づかれずに近づいて銃を構えれば、訓練を受けた兵士で
+あってもひれ伏して降伏するはずだ。
+","[""<R= 降伏 ,ホールドアップ>""]",,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要挟持敌人，你得悄悄摸到他们背后，靠得足够近又不被发现，再举枪指着，,"[""要挟持敌人，你得悄悄摸到他们背后，靠得足够近又不被发现，再举枪指着，""]","To hold up an enemy, you need to get behind them
+without being seen.
+Get close enough without their noticing, point your
+weapon,
+","[""To hold up an enemy, you need to get behind them\nwithout being seen.\nGet close enough without their noticing, point your\nweapon,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1D250; ENG blocks=0xAE4E0,0xAE4E0; ENG source rows=0xAE4E0#0,0xAE4E0#1; block_semantic_score=0.149674."
+BRIEFING_FILES_BLOCK_01D250,1,stream=0x1D000;block=0x250;text=1,"[""stream=0x1D000;block=0x250;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]","敵兵を<R= 降伏 ,ホールドアップ>させるには、後方からゆっくりと近づくんだ。
+","気づかれずに近づいて銃を構えれば、訓練を受けた兵士で
+あってもひれ伏して降伏するはずだ。
+","とはいえ、せっかく<R= 降伏 ,ホールドアップ>させても、あんたが他の敵に攻
+撃されたら意味がない。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就算训练有素的士兵也会举手投降。,"[""就算训练有素的士兵也会举手投降。""]","and even a trained soldier will reach for the sky.
+","[""and even a trained soldier will reach for the sky.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D250; ENG blocks=0xAE4E0; ENG source rows=0xAE4E0#2; block_semantic_score=0.149674.
+BRIEFING_FILES_BLOCK_01D250,2,stream=0x1D000;block=0x250;text=2,"[""stream=0x1D000;block=0x250;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]","気づかれずに近づいて銃を構えれば、訓練を受けた兵士で
+あってもひれ伏して降伏するはずだ。
+","とはいえ、せっかく<R= 降伏 ,ホールドアップ>させても、あんたが他の敵に攻
+撃されたら意味がない。
+","兵士が一人になったときを狙うんだ。
+","[""<R= 降伏 ,ホールドアップ>""]",,,NOT_CHECKED,138,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过，刚挟持住敌人就被他
+同伴攻击，那就没意义了。","[""不过，刚挟持住敌人就被他\n同伴攻击，那就没意义了。""]","No sense in holding up an enemy only to have his
+buddies attack you, though.
+","[""No sense in holding up an enemy only to have his\nbuddies attack you, though.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D250; ENG blocks=0xAE4E0; ENG source rows=0xAE4E0#3; block_semantic_score=0.149674.
+BRIEFING_FILES_BLOCK_01D250,3,stream=0x1D000;block=0x250;text=3,"[""stream=0x1D000;block=0x250;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]","とはいえ、せっかく<R= 降伏 ,ホールドアップ>させても、あんたが他の敵に攻
+撃されたら意味がない。
+","兵士が一人になったときを狙うんだ。
+","間違って兵士を撃たないように気をつけてくれよ。兵士を
+殺してしまうとミッション失敗だ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要确认目标落单再动手。当心别失手射杀他们。,"[""要确认目标落单再动手。当心别失手射杀他们。""]","Make sure you get them when they're alone.
+And be careful you don't shoot them by mistake.
+","[""Make sure you get them when they're alone.\nAnd be careful you don't shoot them by mistake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1D250; ENG blocks=0xAE4E0,0xAE4E0; ENG source rows=0xAE4E0#4,0xAE4E0#5; block_semantic_score=0.149674."
+BRIEFING_FILES_BLOCK_01D250,4,stream=0x1D000;block=0x250;text=4,"[""stream=0x1D000;block=0x250;text=4""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]","兵士が一人になったときを狙うんだ。
+","間違って兵士を撃たないように気をつけてくれよ。兵士を
+殺してしまうとミッション失敗だ。
+",,[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在这里杀人就直接任务失败。,"[""在这里杀人就直接任务失败。""]","Kill a soldier here and you fail the mission.
+","[""Kill a soldier here and you fail the mission.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1D250; ENG blocks=0xAE4E0; ENG source rows=0xAE4E0#6; block_semantic_score=0.149674.

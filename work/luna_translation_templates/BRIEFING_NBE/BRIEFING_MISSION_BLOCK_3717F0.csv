@@ -1,0 +1,23 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_3717F0,0,stream=0x371000;block=0x7F0;text=0,"[""stream=0x371000;block=0x7F0;text=0""]",1,d2050_m0090_mrd,"[""stream=0x371000;block=0x7F0;block_file=0x3717F0;text_base=0x371818;capacity=320""]",,"スネーク、チコの情報によれば、積み荷の核物資は
+イラス東部の山麓の<R=列車車庫,ターミナル>で、列車からトラックに
+積み替えられるようだ。
+","この<R=列車車庫,ターミナル>で搬送を阻止しなければ危険だ。
+急いでくれ、スネーク！
+","[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,197,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，据Chico说，
+核材料将从火车上装到卡车上，就在伊拉苏山东麓附近的铁路终点站。","[""Snake，据Chico说，\n核材料将从火车上装到卡车上，就在伊拉苏山东麓附近的铁路终点站。""]","Snake, according to Chico, the nuclear
+materials will be loaded from a train and
+on to a truck
+at a rail terminal near the eastern foot of
+Irazú.
+","[""Snake, according to Chico, the nuclear\nmaterials will be loaded from a train and\non to a truck\nat a rail terminal near the eastern foot of\nIrazú.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3717F0; ENG blocks=0x3894B0,0x3894B0; ENG source rows=0x3894B0#0,0x3894B0#1; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_3717F0,1,stream=0x371000;block=0x7F0;text=1,"[""stream=0x371000;block=0x7F0;text=1""]",1,d2050_m0090_mrd,"[""stream=0x371000;block=0x7F0;block_file=0x3717F0;text_base=0x371818;capacity=320""]","スネーク、チコの情報によれば、積み荷の核物資は
+イラス東部の山麓の<R=列車車庫,ターミナル>で、列車からトラックに
+積み替えられるようだ。
+","この<R=列車車庫,ターミナル>で搬送を阻止しなければ危険だ。
+急いでくれ、スネーク！
+",,"[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我们不能在那个终点站截住它们，
+我们就会有大麻烦。快，Snake！","[""如果我们不能在那个终点站截住它们，\n我们就会有大麻烦。快，Snake！""]","If we can't cut 'em off at that terminal,
+we'll be in a world of hurt.
+Hurry, Snake!
+","[""If we can't cut 'em off at that terminal,\nwe'll be in a world of hurt.\nHurry, Snake!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3717F0; ENG blocks=0x3894B0,0x3894B0; ENG source rows=0x3894B0#2,0x3894B0#3; block_semantic_score=1.000000."

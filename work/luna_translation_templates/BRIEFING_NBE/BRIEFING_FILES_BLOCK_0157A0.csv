@@ -1,0 +1,74 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0157A0,0,stream=0x15000;block=0x7A0;text=0,"[""stream=0x15000;block=0x7A0;text=0""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]",,"スネーク・インした状態でじっとしていると、二人の鼓動
+が<R=同期,シンクロ>を始める。
+","鼓動？
+","[""<R=同期,シンクロ>""]",,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当你以Snake In状态静止不动时，
+你和队友就会开始同步。","[""当你以Snake In状态静止不动时，\n你和队友就会开始同步。""]","Stand still when you're Snake In and you and your
+teammates will start to get in sync.
+","[""Stand still when you're Snake In and you and your\nteammates will start to get in sync.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x157A0; ENG blocks=0xA84E0; ENG source rows=0xA84E0#0; block_semantic_score=0.110668.
+BRIEFING_FILES_BLOCK_0157A0,1,stream=0x15000;block=0x7A0;text=1,"[""stream=0x15000;block=0x7A0;text=1""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]","スネーク・インした状態でじっとしていると、二人の鼓動
+が<R=同期,シンクロ>を始める。
+","鼓動？
+","ああ。それが完全に同期すると、スネークシンクロ状態に
+入る。仲間との相乗効果で、普段より大きな力を発揮でき
+るんだ。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,同步？,"[""同步？""]","In sync?
+","[""In sync?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x157A0; ENG blocks=0xA84E0; ENG source rows=0xA84E0#1; block_semantic_score=0.110668.
+BRIEFING_FILES_BLOCK_0157A0,2,stream=0x15000;block=0x7A0;text=2,"[""stream=0x15000;block=0x7A0;text=2""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]","鼓動？
+","ああ。それが完全に同期すると、スネークシンクロ状態に
+入る。仲間との相乗効果で、普段より大きな力を発揮でき
+るんだ。
+","移動や回復が速くなり、カムフラ率も上がる。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。只要一起保持静止，
+你们就会进入Snake Sync模式。协同效应会让你们的表现得到提升。","[""没错。只要一起保持静止，\n你们就会进入Snake Sync模式。协同效应会让你们的表现得到提升。""]","That's right. Stay still together and you'll enter
+Snake Sync mode.
+The synergy will give you a boost in performance.
+","[""That's right. Stay still together and you'll enter\nSnake Sync mode.\nThe synergy will give you a boost in performance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x157A0; ENG blocks=0xA84E0,0xA84E0; ENG source rows=0xA84E0#2,0xA84E0#3; block_semantic_score=0.110668."
+BRIEFING_FILES_BLOCK_0157A0,3,stream=0x15000;block=0x7A0;text=3,"[""stream=0x15000;block=0x7A0;text=3""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]","ああ。それが完全に同期すると、スネークシンクロ状態に
+入る。仲間との相乗効果で、普段より大きな力を発揮でき
+るんだ。
+","移動や回復が速くなり、カムフラ率も上がる。
+","要は二人の息が合った状態、ってことだな。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你们的移动速度会变快，
+恢复会变快，伪装效果也会更好。","[""你们的移动速度会变快，\n恢复会变快，伪装效果也会更好。""]","You'll move faster, recover faster, and have better
+camouflage.
+","[""You'll move faster, recover faster, and have better\ncamouflage.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x157A0; ENG blocks=0xA84E0; ENG source rows=0xA84E0#4; block_semantic_score=0.110668.
+BRIEFING_FILES_BLOCK_0157A0,4,stream=0x15000;block=0x7A0;text=4,"[""stream=0x15000;block=0x7A0;text=4""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]","移動や回復が速くなり、カムフラ率も上がる。
+","要は二人の息が合った状態、ってことだな。
+","そうだ。ここ一番って時には、まず落ち着いてシンクロし
+てみるってのも手だ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"换句话说，当我们步调一致时，
+就能发挥出最佳水平。","[""换句话说，当我们步调一致时，\n就能发挥出最佳水平。""]","In other words, we're at our best when we're in the
+same groove.
+","[""In other words, we're at our best when we're in the\nsame groove.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x157A0; ENG blocks=0xA84E0; ENG source rows=0xA84E0#5; block_semantic_score=0.110668.
+BRIEFING_FILES_BLOCK_0157A0,5,stream=0x15000;block=0x7A0;text=5,"[""stream=0x15000;block=0x7A0;text=5""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]","要は二人の息が合った状態、ってことだな。
+","そうだ。ここ一番って時には、まず落ち着いてシンクロし
+てみるってのも手だ。
+","さっきも言ったが、スネークシンクロの効果は、相手との
+友情度に左右される。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。如果你们面前有个大任务，花点时间同步一下总没坏处。,"[""没错。如果你们面前有个大任务，花点时间同步一下总没坏处。""]","You got it. If you've got a big task ahead,
+it can't hurt to take some time to get in sync.
+","[""You got it. If you've got a big task ahead,\nit can't hurt to take some time to get in sync.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x157A0; ENG blocks=0xA84E0,0xA84E0; ENG source rows=0xA84E0#6,0xA84E0#7; block_semantic_score=0.110668."
+BRIEFING_FILES_BLOCK_0157A0,6,stream=0x15000;block=0x7A0;text=6,"[""stream=0x15000;block=0x7A0;text=6""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]","そうだ。ここ一番って時には、まず落ち着いてシンクロし
+てみるってのも手だ。
+","さっきも言ったが、スネークシンクロの効果は、相手との
+友情度に左右される。
+","そりゃそうだろう。気心の知れた奴と組んだほうが、お互
+いの死角をカバーし合える。その分自分の行動に集中でき
+るってもんだ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就像我之前说的，
+你从Snake Sync中获得的增益取决于你们的战友情谊。","[""就像我之前说的，\n你从Snake Sync中获得的增益取决于你们的战友情谊。""]","Like I said before, the benefits you get from Snake
+Sync
+depend on your camaraderie.
+","[""Like I said before, the benefits you get from Snake\nSync\ndepend on your camaraderie.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x157A0; ENG blocks=0xA84E0,0xA84E0; ENG source rows=0xA84E0#8,0xA84E0#9; block_semantic_score=0.110668."
+BRIEFING_FILES_BLOCK_0157A0,7,stream=0x15000;block=0x7A0;text=7,"[""stream=0x15000;block=0x7A0;text=7""]",1,BRIEFING FILES,"[""stream=0x15000;block=0x7A0;block_file=0x157A0;text_base=0x157E0;capacity=836""]","さっきも言ったが、スネークシンクロの効果は、相手との
+友情度に左右される。
+","そりゃそうだろう。気心の知れた奴と組んだほうが、お互
+いの死角をカバーし合える。その分自分の行動に集中でき
+るってもんだ。
+",,[],,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"知道有自己了解并信任的人掩护你，
+事情就好办多了。这样你就能更专注于自己该做的事。","[""知道有自己了解并信任的人掩护你，\n事情就好办多了。这样你就能更专注于自己该做的事。""]","It's a lot easier knowing you've got someone you
+know and trust covering your back.
+It lets you focus that much more on what you have
+to do.
+","[""It's a lot easier knowing you've got someone you\nknow and trust covering your back.\nIt lets you focus that much more on what you have\nto do.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x157A0; ENG blocks=0xA84E0,0xA84E0; ENG source rows=0xA84E0#11,0xA84E0#12; block_semantic_score=0.110668."

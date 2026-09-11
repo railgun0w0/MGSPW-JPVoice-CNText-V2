@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00C0E0,0,stream=0xC000;block=0xE0;text=0,"[""stream=0xC000;block=0xE0;text=0""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xE0;block_file=0xC0E0;text_base=0xC11C;capacity=516""]",,"カズ、お前日本じゃ自衛隊にいたんだよな。
+","さっき聞いた憲法第9条では、日本は軍を持たないことに
+なっていたはずだが…。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Kaz，你以前是在
+日本自卫队服役的吧？","[""Kaz，你以前是在\n日本自卫队服役的吧？""]","Kaz, you were in the Japanese Self-Defense Force,
+right?
+","[""Kaz, you were in the Japanese Self-Defense Force,\nright?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC0E0; ENG blocks=0x9E950; ENG source rows=0x9E950#0; block_semantic_score=0.299337.
+BRIEFING_FILES_BLOCK_00C0E0,1,stream=0xC000;block=0xE0;text=1,"[""stream=0xC000;block=0xE0;text=1""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xE0;block_file=0xC0E0;text_base=0xC11C;capacity=516""]","カズ、お前日本じゃ自衛隊にいたんだよな。
+","さっき聞いた憲法第9条では、日本は軍を持たないことに
+なっていたはずだが…。
+","そう、それもまた議論のタネだ。
+",[],,,NOT_CHECKED,111,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,让日本没法拥有军队…,"[""让日本没法拥有军队…""]","prevented Japan from having an army...
+","[""prevented Japan from having an army...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC0E0; ENG blocks=0x9E950; ENG source rows=0x9E950#2; block_semantic_score=0.299337.
+BRIEFING_FILES_BLOCK_00C0E0,2,stream=0xC000;block=0xE0;text=2,"[""stream=0xC000;block=0xE0;text=2""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xE0;block_file=0xC0E0;text_base=0xC11C;capacity=516""]","さっき聞いた憲法第9条では、日本は軍を持たないことに
+なっていたはずだが…。
+","そう、それもまた議論のタネだ。
+","「自衛隊は防衛のための組織であり、憲法第9条は自衛権
+までは否定していない。従って、自衛隊は合憲である」。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，这也是另一个争论焦点。,"[""是啊，这也是另一个争论焦点。""]","Yeah, and that's another subject of controversy.
+","[""Yeah, and that's another subject of controversy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC0E0; ENG blocks=0x9E950; ENG source rows=0x9E950#3; block_semantic_score=0.299337.
+BRIEFING_FILES_BLOCK_00C0E0,3,stream=0xC000;block=0xE0;text=3,"[""stream=0xC000;block=0xE0;text=3""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xE0;block_file=0xC0E0;text_base=0xC11C;capacity=516""]","そう、それもまた議論のタネだ。
+","「自衛隊は防衛のための組織であり、憲法第9条は自衛権
+までは否定していない。従って、自衛隊は合憲である」。
+","これが日本政府の見解だ。
+",[],,,NOT_CHECKED,156,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"""自卫队是以防卫为目的的组织。","[""\""自卫队是以防卫为目的的组织。""]","""The Self-Defense Force is an organization for the
+purpose of defense.
+","[""\""The Self-Defense Force is an organization for the\npurpose of defense.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC0E0; ENG blocks=0x9E950; ENG source rows=0x9E950#4; block_semantic_score=0.299337.
+BRIEFING_FILES_BLOCK_00C0E0,4,stream=0xC000;block=0xE0;text=4,"[""stream=0xC000;block=0xE0;text=4""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xE0;block_file=0xC0E0;text_base=0xC11C;capacity=516""]","「自衛隊は防衛のための組織であり、憲法第9条は自衛権
+までは否定していない。従って、自衛隊は合憲である」。
+","これが日本政府の見解だ。
+","…複雑だな。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,宪法第九条并不否认日本拥有自卫权。,"[""宪法第九条并不否认日本拥有自卫权。""]","Article 9 of the constitution does not deny Japan's
+right to self-defense.
+","[""Article 9 of the constitution does not deny Japan's\nright to self-defense.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC0E0; ENG blocks=0x9E950; ENG source rows=0x9E950#5; block_semantic_score=0.299337.
+BRIEFING_FILES_BLOCK_00C0E0,5,stream=0xC000;block=0xE0;text=5,"[""stream=0xC000;block=0xE0;text=5""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xE0;block_file=0xC0E0;text_base=0xC11C;capacity=516""]","これが日本政府の見解だ。
+","…複雑だな。
+","良いか悪いかは別にして、これは実に日本的な解釈だよ。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…听起来挺复杂的。,"[""…听起来挺复杂的。""]","...Sounds complicated.
+","[""...Sounds complicated.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC0E0; ENG blocks=0x9E950; ENG source rows=0x9E950#8; block_semantic_score=0.299337.
+BRIEFING_FILES_BLOCK_00C0E0,6,stream=0xC000;block=0xE0;text=6,"[""stream=0xC000;block=0xE0;text=6""]",1,BRIEFING FILES,"[""stream=0xC000;block=0xE0;block_file=0xC0E0;text_base=0xC11C;capacity=516""]","…複雑だな。
+","良いか悪いかは別にして、これは実に日本的な解釈だよ。
+",,[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管怎么说，这就是
+日本特有的解释方式。","[""不管怎么说，这就是\n日本特有的解释方式。""]","Call it what you will, it's a distinctly Japanese way
+of interpreting things.
+","[""Call it what you will, it's a distinctly Japanese way\nof interpreting things.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xC0E0; ENG blocks=0x9E950; ENG source rows=0x9E950#9; block_semantic_score=0.299337.

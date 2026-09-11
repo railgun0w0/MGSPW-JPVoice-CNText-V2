@@ -1,0 +1,174 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_038F80,0,stream=0x38000;block=0xF80;text=0,"[""stream=0x38000;block=0xF80;text=0""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]",,"マザーベースには慣れたか。
+","ええ。山での暮らしに比べれば<R=天国,ヘブン>よ。<R=国家警備隊,グァルディア>や傭兵
+に追われなくて済むしね。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Amanda，你习惯母基地了吗？,"[""Amanda，你习惯母基地了吗？""]","Amanda, you getting used to Mother Base?
+","[""Amanda, you getting used to Mother Base?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#0; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,1,stream=0x38000;block=0xF80;text=1,"[""stream=0x38000;block=0xF80;text=1""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","マザーベースには慣れたか。
+","ええ。山での暮らしに比べれば<R=天国,ヘブン>よ。<R=国家警備隊,グァルディア>や傭兵
+に追われなくて済むしね。
+","最近ここへ来た連中には、その傭兵出身の奴もいるが…。
+","[""<R=天国,ヘブン>"", ""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的，跟住在山里比起来，
+这里简直是天堂。我们再也不用不停地躲避
+国民警卫队或雇佣兵了。","[""是的，跟住在山里比起来，\n这里简直是天堂。我们再也不用不停地躲避\n国民警卫队或雇佣兵了。""]","Yes, it is Heaven compared to living in the
+mountains.
+We're no longer constantly on the run from la
+Guardia or mercenaries.
+","[""Yes, it is Heaven compared to living in the\nmountains.\nWe're no longer constantly on the run from la\nGuardia or mercenaries.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x38F80; ENG blocks=0xC9700,0xC9700; ENG source rows=0xC9700#1,0xC9700#2; block_semantic_score=0.153976."
+BRIEFING_FILES_BLOCK_038F80,2,stream=0x38000;block=0xF80;text=2,"[""stream=0x38000;block=0xF80;text=2""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","ええ。山での暮らしに比べれば<R=天国,ヘブン>よ。<R=国家警備隊,グァルディア>や傭兵
+に追われなくて済むしね。
+","最近ここへ来た連中には、その傭兵出身の奴もいるが…。
+","大丈夫、うまくやってる。最初はいざこざもあったけど、
+話してみれば普通の人間だもの。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们招募的一些新人以前就是雇佣兵…,"[""我们招募的一些新人以前就是雇佣兵…""]","Some of the new guys we've recruited used to be
+mercenaries...
+","[""Some of the new guys we've recruited used to be\nmercenaries...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#3; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,3,stream=0x38000;block=0xF80;text=3,"[""stream=0x38000;block=0xF80;text=3""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","最近ここへ来た連中には、その傭兵出身の奴もいるが…。
+","大丈夫、うまくやってる。最初はいざこざもあったけど、
+話してみれば普通の人間だもの。
+","そうか。安心した。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们相处得不错。一开始挺难的，但一旦跟他们聊聊，
+你就会发现我们有很多共同点。","[""我们相处得不错。一开始挺难的，但一旦跟他们聊聊，\n你就会发现我们有很多共同点。""]","We're getting along. It was difficult at first,
+but once you talk to them you realize we've got
+plenty in common.
+","[""We're getting along. It was difficult at first,\nbut once you talk to them you realize we've got\nplenty in common.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x38F80; ENG blocks=0xC9700,0xC9700; ENG source rows=0xC9700#4,0xC9700#5; block_semantic_score=0.153976."
+BRIEFING_FILES_BLOCK_038F80,4,stream=0x38000;block=0xF80;text=4,"[""stream=0x38000;block=0xF80;text=4""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","大丈夫、うまくやってる。最初はいざこざもあったけど、
+話してみれば普通の人間だもの。
+","そうか。安心した。
+","そうよ…敵味方に分かれて戦ってても、相手はただの人間
+…<R=CIA,ラ・シーア>の傭兵も、<R=国家警備隊,グァルディア>も…そしてきっと、アメリカ
+の民衆も。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了，很高兴听你这么说。,"[""明白了，很高兴听你这么说。""]","I see. Good to hear.
+","[""I see. Good to hear.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#6; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,5,stream=0x38000;block=0xF80;text=5,"[""stream=0x38000;block=0xF80;text=5""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","そうか。安心した。
+","そうよ…敵味方に分かれて戦ってても、相手はただの人間
+…<R=CIA,ラ・シーア>の傭兵も、<R=国家警備隊,グァルディア>も…そしてきっと、アメリカ
+の民衆も。
+","どうした、急に。
+","[""<R=CIA,ラ・シーア>"", ""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,214,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"中情局(CIA)的士兵，国民警卫队…
+对美国人民来说也一样。","[""中情局(CIA)的士兵，国民警卫队…\n对美国人民来说也一样。""]","La CIA's soldiers, la Guardia... The same goes for
+the people of America.
+","[""La CIA's soldiers, la Guardia... The same goes for\nthe people of America.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#8; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,6,stream=0x38000;block=0xF80;text=6,"[""stream=0x38000;block=0xF80;text=6""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","そうよ…敵味方に分かれて戦ってても、相手はただの人間
+…<R=CIA,ラ・シーア>の傭兵も、<R=国家警備隊,グァルディア>も…そしてきっと、アメリカ
+の民衆も。
+","どうした、急に。
+","<R=父さん,ミ・ビエホ>は革命の資金を稼ぐために、麻薬精製に手を出した。
+KGBに言われるままにね。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你怎么了？,"[""你怎么了？""]","What's gotten into you?
+","[""What's gotten into you?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#9; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,7,stream=0x38000;block=0xF80;text=7,"[""stream=0x38000;block=0xF80;text=7""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","どうした、急に。
+","<R=父さん,ミ・ビエホ>は革命の資金を稼ぐために、麻薬精製に手を出した。
+KGBに言われるままにね。
+","すべては<R=祖国,ニカラグア>のため…そう思うようにして目を背けていた。
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,136,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我老爹为了给革命筹钱，
+参与了毒品交易。他完全听从克格勃(KGB)的指使。","[""我老爹为了给革命筹钱，\n参与了毒品交易。他完全听从克格勃(KGB)的指使。""]","Mi viejo got involved with drugs in order to scrape
+together money for la revolución.
+He did whatever the KGB said.
+","[""Mi viejo got involved with drugs in order to scrape\ntogether money for la revolución.\nHe did whatever the KGB said.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x38F80; ENG blocks=0xC9700,0xC9700; ENG source rows=0xC9700#10,0xC9700#11; block_semantic_score=0.153976."
+BRIEFING_FILES_BLOCK_038F80,8,stream=0x38000;block=0xF80;text=8,"[""stream=0x38000;block=0xF80;text=8""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","<R=父さん,ミ・ビエホ>は革命の資金を稼ぐために、麻薬精製に手を出した。
+KGBに言われるままにね。
+","すべては<R=祖国,ニカラグア>のため…そう思うようにして目を背けていた。
+","でも結局それは、アメリカの若者を薬漬けにする手助けを
+するってことだったんだ…そう気付いたの。
+","[""<R=祖国,ニカラグア>""]",,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一切都是为了尼加拉瓜…
+至少他那么告诉自己。","[""一切都是为了尼加拉瓜…\n至少他那么告诉自己。""]","All for Nicaragua... or so he told himself.
+","[""All for Nicaragua... or so he told himself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#12; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,9,stream=0x38000;block=0xF80;text=9,"[""stream=0x38000;block=0xF80;text=9""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","すべては<R=祖国,ニカラグア>のため…そう思うようにして目を背けていた。
+","でも結局それは、アメリカの若者を薬漬けにする手助けを
+するってことだったんだ…そう気付いたの。
+","そうだな。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但现在我明白了…他到头来
+只是帮人毒害美国的年轻人。","[""但现在我明白了…他到头来\n只是帮人毒害美国的年轻人。""]","But I realize now... In the end all he did was help
+poison young people of America.
+","[""But I realize now... In the end all he did was help\npoison young people of America.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#13; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,10,stream=0x38000;block=0xF80;text=10,"[""stream=0x38000;block=0xF80;text=10""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","でも結局それは、アメリカの若者を薬漬けにする手助けを
+するってことだったんだ…そう気付いたの。
+","そうだな。
+","…決めた。<R= ここ ,マザーベース>を離れて革命に戻っても、もう麻薬精製
+には手を出さない。KGBにも頼らない。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯。,"[""嗯。""]","Yeah.
+","[""Yeah.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#14; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,11,stream=0x38000;block=0xF80;text=11,"[""stream=0x38000;block=0xF80;text=11""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","そうだな。
+","…決めた。<R= ここ ,マザーベース>を離れて革命に戻っても、もう麻薬精製
+には手を出さない。KGBにも頼らない。
+","KGBや麻薬の資金に頼ってソモサを倒したとしても、人々
+の心は離れてしまうはず。
+","[""<R= ここ ,マザーベース>""]",,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…我下定决心了。哪怕将来我
+离开母基地，回到革命中去，我也绝不会再碰毒品。
+也不会再向克格勃(KGB)求助。","[""…我下定决心了。哪怕将来我\n离开母基地，回到革命中去，我也绝不会再碰毒品。\n也不会再向克格勃(KGB)求助。""]","...I've made up my mind. Even when I leave Mother
+Base and return to la revolución,
+I will never turn to drugs. Nor will I look to the KGB
+for help.
+","[""...I've made up my mind. Even when I leave Mother\nBase and return to la revolución,\nI will never turn to drugs. Nor will I look to the KGB\nfor help.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x38F80; ENG blocks=0xC9700,0xC9700; ENG source rows=0xC9700#15,0xC9700#16; block_semantic_score=0.153976."
+BRIEFING_FILES_BLOCK_038F80,12,stream=0x38000;block=0xF80;text=12,"[""stream=0x38000;block=0xF80;text=12""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","…決めた。<R= ここ ,マザーベース>を離れて革命に戻っても、もう麻薬精製
+には手を出さない。KGBにも頼らない。
+","KGBや麻薬の資金に頼ってソモサを倒したとしても、人々
+の心は離れてしまうはず。
+","エゴのために<R=他人,ひと>を不幸にする…それじゃソモサと同じだ
+から。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我们依靠克格勃(KGB)和毒品
+资金推翻索摩查，就会失去民心。","[""如果我们依靠克格勃(KGB)和毒品\n资金推翻索摩查，就会失去民心。""]","If we topple Somoza using the KGB and drug
+money, we will lose the people's hearts.
+","[""If we topple Somoza using the KGB and drug\nmoney, we will lose the people's hearts.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#17; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,13,stream=0x38000;block=0xF80;text=13,"[""stream=0x38000;block=0xF80;text=13""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","KGBや麻薬の資金に頼ってソモサを倒したとしても、人々
+の心は離れてしまうはず。
+","エゴのために<R=他人,ひと>を不幸にする…それじゃソモサと同じだ
+から。
+","親父さんとは違う道を進むってことか。
+","[""<R=他人,ひと>""]",,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_038F80,14,stream=0x38000;block=0xF80;text=14,"[""stream=0x38000;block=0xF80;text=14""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","エゴのために<R=他人,ひと>を不幸にする…それじゃソモサと同じだ
+から。
+","親父さんとは違う道を進むってことか。
+","<R=父さん,ミ・ビエホ>のことは今でも尊敬してる。でも、あたしのやり方
+は違う。それだけ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以你选择了与你父亲不同的道路。,"[""所以你选择了与你父亲不同的道路。""]","So you're choosing a different path from your
+father.
+","[""So you're choosing a different path from your\nfather.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#18; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,15,stream=0x38000;block=0xF80;text=15,"[""stream=0x38000;block=0xF80;text=15""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","親父さんとは違う道を進むってことか。
+","<R=父さん,ミ・ビエホ>のことは今でも尊敬してる。でも、あたしのやり方
+は違う。それだけ。
+","そうか。チコも喜ぶだろう。
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我仍尊重他。但我不会像他那样行事。,"[""我仍尊重他。但我不会像他那样行事。""]","I still respect him. But I will not do things the way
+he did.
+","[""I still respect him. But I will not do things the way\nhe did.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#19; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,16,stream=0x38000;block=0xF80;text=16,"[""stream=0x38000;block=0xF80;text=16""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","<R=父さん,ミ・ビエホ>のことは今でも尊敬してる。でも、あたしのやり方
+は違う。それだけ。
+","そうか。チコも喜ぶだろう。
+","チコだって一人前の戦士。顔向けできないことはしたくな
+い。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，我相信Chico会很高兴听到这些。,"[""嗯，我相信Chico会很高兴听到这些。""]","Well, I'm sure Chico will be glad to hear that.
+","[""Well, I'm sure Chico will be glad to hear that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#20; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,17,stream=0x38000;block=0xF80;text=17,"[""stream=0x38000;block=0xF80;text=17""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","そうか。チコも喜ぶだろう。
+","チコだって一人前の戦士。顔向けできないことはしたくな
+い。
+","よく言った、アマンダ。<R=司令官,コマンダンテ>の顔つきになってきたな。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Chico现在是个成年战士了。
+否则我没法面对他。","[""Chico现在是个成年战士了。\n否则我没法面对他。""]","Chico is a grown soldier now. I could not face him
+otherwise.
+","[""Chico is a grown soldier now. I could not face him\notherwise.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#21; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,18,stream=0x38000;block=0xF80;text=18,"[""stream=0x38000;block=0xF80;text=18""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","チコだって一人前の戦士。顔向けできないことはしたくな
+い。
+","よく言った、アマンダ。<R=司令官,コマンダンテ>の顔つきになってきたな。
+","よしてよ…最高の<R=司令官,コマンダンテ>がそばにいてくれたおかげよ、ボ
+ス。
+","[""<R=司令官,コマンダンテ>""]",,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说得好，Amanda。
+这才是真正的指挥官说出的话。","[""说得好，Amanda。\n这才是真正的指挥官说出的话。""]","Well said, Amanda. Those are the words of a true
+comandante.
+","[""Well said, Amanda. Those are the words of a true\ncomandante.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#22; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,19,stream=0x38000;block=0xF80;text=19,"[""stream=0x38000;block=0xF80;text=19""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","よく言った、アマンダ。<R=司令官,コマンダンテ>の顔つきになってきたな。
+","よしてよ…最高の<R=司令官,コマンダンテ>がそばにいてくれたおかげよ、ボ
+ス。
+","む…。
+","[""<R=司令官,コマンダンテ>""]",,,NOT_CHECKED,109,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别…我是受到了我所认识的最
+伟大的指挥官的启发，Boss。","[""别…我是受到了我所认识的最\n伟大的指挥官的启发，Boss。""]","Stop... I was inspired by the greatest comandante I
+have ever known, Boss.
+","[""Stop... I was inspired by the greatest comandante I\nhave ever known, Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x38F80; ENG blocks=0xC9700; ENG source rows=0xC9700#23; block_semantic_score=0.153976.
+BRIEFING_FILES_BLOCK_038F80,20,stream=0x38000;block=0xF80;text=20,"[""stream=0x38000;block=0xF80;text=20""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","よしてよ…最高の<R=司令官,コマンダンテ>がそばにいてくれたおかげよ、ボ
+ス。
+","む…。
+","ふふ…。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_038F80,21,stream=0x38000;block=0xF80;text=21,"[""stream=0x38000;block=0xF80;text=21""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","む…。
+","ふふ…。
+",,[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

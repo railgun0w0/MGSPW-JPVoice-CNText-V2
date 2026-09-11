@@ -1,0 +1,100 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06BFE0,0,stream=0x6B000;block=0xFE0;text=0,"[""stream=0x6B000;block=0xFE0;text=0""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]",,"ピースウォーカーには近接戦闘用の武器類がいくつも搭載
+されてる。敵地まで歩いて行って自爆するって計画もある
+からね。
+","はた迷惑な話だ。で、どんな兵装が？
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和平行者配备了多种近距离武器。我们原本还计划让它能
+深入敌方领土并自爆。","[""和平行者配备了多种近距离武器。我们原本还计划让它能\n深入敌方领土并自爆。""]","Peace Walker is fitted with several close-range
+weapons.
+We'd also planned for it to be able to enter enemy
+territory and self-detonate.
+","[""Peace Walker is fitted with several close-range\nweapons.\nWe'd also planned for it to be able to enter enemy\nterritory and self-detonate.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6BFE0; ENG blocks=0xF87B0,0xF87B0; ENG source rows=0xF87B0#0,0xF87B0#1; block_semantic_score=0.133397."
+BRIEFING_FILES_BLOCK_06BFE0,1,stream=0x6B000;block=0xFE0;text=1,"[""stream=0x6B000;block=0xFE0;text=1""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","ピースウォーカーには近接戦闘用の武器類がいくつも搭載
+されてる。敵地まで歩いて行って自爆するって計画もある
+からね。
+","はた迷惑な話だ。で、どんな兵装が？
+","まずは近づいたものを焼き払う火炎放射器。後ろにも放射
+口があるから注意してくれ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好极了。我们到底要面对什么？,"[""好极了。我们到底要面对什么？""]","Wonderful. What exactly are we dealing with here?
+","[""Wonderful. What exactly are we dealing with here?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#2; block_semantic_score=0.133397.
+BRIEFING_FILES_BLOCK_06BFE0,2,stream=0x6B000;block=0xFE0;text=2,"[""stream=0x6B000;block=0xFE0;text=2""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","はた迷惑な話だ。で、どんな兵装が？
+","まずは近づいたものを焼き払う火炎放射器。後ろにも放射
+口があるから注意してくれ。
+","それからSマイン。これはクラスター爆弾みたいなものだ。
+脚部ハッチから放出されて四散する。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，首先是火焰喷射器——
+前面一个，后面一个。","[""嗯，首先是火焰喷射器——\n前面一个，后面一个。""]","Well, the flamethrowers, for one thing - One in the
+front, and one in the rear.
+","[""Well, the flamethrowers, for one thing - One in the\nfront, and one in the rear.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#3; block_semantic_score=0.133397.
+BRIEFING_FILES_BLOCK_06BFE0,3,stream=0x6B000;block=0xFE0;text=3,"[""stream=0x6B000;block=0xFE0;text=3""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","まずは近づいたものを焼き払う火炎放射器。後ろにも放射
+口があるから注意してくれ。
+","それからSマイン。これはクラスター爆弾みたいなものだ。
+脚部ハッチから放出されて四散する。
+","ハッチが開くのを見逃さずに逃げてくれ。
+",[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后是S型地雷。它们就像集束炸弹，
+它会从腿部舱口把它们撒出来。","[""然后是S型地雷。它们就像集束炸弹，\n它会从腿部舱口把它们撒出来。""]","Then there are the S-mines. They're like cluster
+bombs. It scatters them from its leg hatches.
+","[""Then there are the S-mines. They're like cluster\nbombs. It scatters them from its leg hatches.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#4; block_semantic_score=0.133397.
+BRIEFING_FILES_BLOCK_06BFE0,4,stream=0x6B000;block=0xFE0;text=4,"[""stream=0x6B000;block=0xFE0;text=4""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","それからSマイン。これはクラスター爆弾みたいなものだ。
+脚部ハッチから放出されて四散する。
+","ハッチが開くのを見逃さずに逃げてくれ。
+","最後にロケット弾。これはかなり遠くまで届くから注意が
+必要だ。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你看到那些舱口打开，
+最好赶紧撤离。","[""如果你看到那些舱口打开，\n最好赶紧撤离。""]","If you see those open, you'd better clear out
+quickly.
+","[""If you see those open, you'd better clear out\nquickly.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#5; block_semantic_score=0.133397.
+BRIEFING_FILES_BLOCK_06BFE0,5,stream=0x6B000;block=0xFE0;text=5,"[""stream=0x6B000;block=0xFE0;text=5""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","ハッチが開くのを見逃さずに逃げてくれ。
+","最後にロケット弾。これはかなり遠くまで届くから注意が
+必要だ。
+","逆にあまり近くには撃てないけど、近づきすぎると火炎放
+射器もあるし…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最后是火箭弹。
+它们能飞相当远，保持警惕。","[""最后是火箭弹。\n它们能飞相当远，保持警惕。""]","And finally, the rockets. These can travel quite a
+distance, so stay sharp.
+","[""And finally, the rockets. These can travel quite a\ndistance, so stay sharp.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#6; block_semantic_score=0.133397.
+BRIEFING_FILES_BLOCK_06BFE0,6,stream=0x6B000;block=0xFE0;text=6,"[""stream=0x6B000;block=0xFE0;text=6""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","最後にロケット弾。これはかなり遠くまで届くから注意が
+必要だ。
+","逆にあまり近くには撃てないけど、近づきすぎると火炎放
+射器もあるし…。
+","それに、歩兵相手なら脚自体も武器になる。脚で直接攻撃
+することも可能だ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过，它无法在太近的距离发射它们…但话说回来，它还有那些火焰喷射器。,"[""不过，它无法在太近的距离发射它们…但话说回来，它还有那些火焰喷射器。""]","On the other hand, it can't fire them from too
+close...
+but then again there are those flamethrowers.
+","[""On the other hand, it can't fire them from too\nclose...\nbut then again there are those flamethrowers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6BFE0; ENG blocks=0xF87B0,0xF87B0; ENG source rows=0xF87B0#7,0xF87B0#8; block_semantic_score=0.133397."
+BRIEFING_FILES_BLOCK_06BFE0,7,stream=0x6B000;block=0xFE0;text=7,"[""stream=0x6B000;block=0xFE0;text=7""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","逆にあまり近くには撃てないけど、近づきすぎると火炎放
+射器もあるし…。
+","それに、歩兵相手なら脚自体も武器になる。脚で直接攻撃
+することも可能だ。
+","厄介だな…。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它还能用腿部作为武器，
+对付地面上的步兵。","[""它还能用腿部作为武器，\n对付地面上的步兵。""]","It can also use its legs as weapons against any
+infantry on the ground.
+","[""It can also use its legs as weapons against any\ninfantry on the ground.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#9; block_semantic_score=0.133397.
+BRIEFING_FILES_BLOCK_06BFE0,8,stream=0x6B000;block=0xFE0;text=8,"[""stream=0x6B000;block=0xFE0;text=8""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","それに、歩兵相手なら脚自体も武器になる。脚で直接攻撃
+することも可能だ。
+","厄介だな…。
+","でも、ピースウォーカーは未完成だ。レプタイルポッドだ
+けでは単純な行動しかできないし、動きにクセもある。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哎哟。,"[""哎哟。""]","Ouch.
+","[""Ouch.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#10; block_semantic_score=0.133397.
+BRIEFING_FILES_BLOCK_06BFE0,9,stream=0x6B000;block=0xFE0;text=9,"[""stream=0x6B000;block=0xFE0;text=9""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","厄介だな…。
+","でも、ピースウォーカーは未完成だ。レプタイルポッドだ
+けでは単純な行動しかできないし、動きにクセもある。
+","攻撃の前の動作をよく見ていれば、次に何をしてくるかわ
+かるようになるはずだ。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但记住，和平行者严格来说还不完整。只搭载爬虫舱时，
+它只能进行相对简单的机动。","[""但记住，和平行者严格来说还不完整。只搭载爬虫舱时，\n它只能进行相对简单的机动。""]","But remember, Peace Walker technically isn't
+complete.
+With just the Reptile Pod, it can only perform
+relatively simple maneuvers.
+","[""But remember, Peace Walker technically isn't\ncomplete.\nWith just the Reptile Pod, it can only perform\nrelatively simple maneuvers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6BFE0; ENG blocks=0xF87B0,0xF87B0; ENG source rows=0xF87B0#11,0xF87B0#12; block_semantic_score=0.133397."
+BRIEFING_FILES_BLOCK_06BFE0,10,stream=0x6B000;block=0xFE0;text=10,"[""stream=0x6B000;block=0xFE0;text=10""]",1,BRIEFING FILES,"[""stream=0x6B000;block=0xFE0;block_file=0x6BFE0;text_base=0x6C02C;capacity=1136""]","でも、ピースウォーカーは未完成だ。レプタイルポッドだ
+けでは単純な行動しかできないし、動きにクセもある。
+","攻撃の前の動作をよく見ていれば、次に何をしてくるかわ
+かるようになるはずだ。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你应该就能预测它接下来
+会发动哪种攻击。","[""你应该就能预测它接下来\n会发动哪种攻击。""]","and you should be able to predict which attack is
+coming next.
+","[""and you should be able to predict which attack is\ncoming next.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6BFE0; ENG blocks=0xF87B0; ENG source rows=0xF87B0#15; block_semantic_score=0.133397.

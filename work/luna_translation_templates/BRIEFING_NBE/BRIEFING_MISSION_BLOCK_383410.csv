@@ -1,0 +1,24 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_383410,0,stream=0x383000;block=0x410;text=0,"[""stream=0x383000;block=0x410;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x410;block_file=0x383410;text_base=0x383438;capacity=244""]",,"米軍ミサイル基地の地下通路に、
+敵の増援部隊が送られた。
+","奴らを、ボスがいる管制塔へ入らせてはならない。
+この拠点を防衛し、敵部隊の侵入を、
+何としても阻止するんだ。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"敌方增援部队已被派往美国
+导弹基地的地下通道。","[""敌方增援部队已被派往美国\n导弹基地的地下通道。""]","Enemy reinforcements have been
+dispatched to the underground passage
+at the U.S. Missile Base.
+","[""Enemy reinforcements have been\ndispatched to the underground passage\nat the U.S. Missile Base.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x383410; ENG blocks=0x3988A0; ENG source rows=0x3988A0#0; block_semantic_score=0.276098.
+BRIEFING_MISSION_BLOCK_383410,1,stream=0x383000;block=0x410;text=1,"[""stream=0x383000;block=0x410;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x410;block_file=0x383410;text_base=0x383438;capacity=244""]","米軍ミサイル基地の地下通路に、
+敵の増援部隊が送られた。
+","奴らを、ボスがいる管制塔へ入らせてはならない。
+この拠点を防衛し、敵部隊の侵入を、
+何としても阻止するんだ。
+",,[],,,NOT_CHECKED,159,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"绝不能让敌人趁Snake
+在那里时进入控制塔。守住这个位置。
+不惜一切代价阻止敌人突破。","[""绝不能让敌人趁Snake\n在那里时进入控制塔。守住这个位置。\n不惜一切代价阻止敌人突破。""]","They must not be allowed to enter the
+Control Tower while Snake is there.
+Defend this position. Do whatever it takes
+to prevent the enemy from breaking
+through.
+","[""They must not be allowed to enter the\nControl Tower while Snake is there.\nDefend this position. Do whatever it takes\nto prevent the enemy from breaking\nthrough.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x383410; ENG blocks=0x3988A0,0x3988A0; ENG source rows=0x3988A0#1,0x3988A0#2; block_semantic_score=0.276098."

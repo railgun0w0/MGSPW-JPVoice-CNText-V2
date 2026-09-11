@@ -1,0 +1,143 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_006CF0,0,stream=0x6000;block=0xCF0;text=0,"[""stream=0x6000;block=0xCF0;text=0""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]",,"スネーク、ちょっといいか？
+","どうした？
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，你有空吗？,"[""Snake，你有空吗？""]","Snake, you got a sec?
+","[""Snake, you got a sec?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#0; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,1,stream=0x6000;block=0xCF0;text=1,"[""stream=0x6000;block=0xCF0;text=1""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","スネーク、ちょっといいか？
+","どうした？
+","グレナダのゲイリー首相が国連にUFO問題を扱う専門機関
+の設置を要請したらしい。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么了？,"[""怎么了？""]","What's up?
+","[""What's up?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#1; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,2,stream=0x6000;block=0xCF0;text=2,"[""stream=0x6000;block=0xCF0;text=2""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","どうした？
+","グレナダのゲイリー首相が国連にUFO問題を扱う専門機関
+の設置を要請したらしい。
+","グレナダ…カリブ海沖の島国か。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,来研究这个「UFO问题」。,"[""来研究这个「UFO问题」。""]","to study the ""UFO problem.""
+","[""to study the \""UFO problem.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#3; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,3,stream=0x6000;block=0xCF0;text=3,"[""stream=0x6000;block=0xCF0;text=3""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","グレナダのゲイリー首相が国連にUFO問題を扱う専門機関
+の設置を要請したらしい。
+","グレナダ…カリブ海沖の島国か。
+","報道でゲイリー首相がUFO存在の証拠として挙げていたと
+いう写真の中に、気になるものがあった。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,格林纳达…加勒比海上那个岛？,"[""格林纳达…加勒比海上那个岛？""]","Grenada... That island in the Caribbean?
+","[""Grenada... That island in the Caribbean?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#4; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,4,stream=0x6000;block=0xCF0;text=4,"[""stream=0x6000;block=0xCF0;text=4""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","グレナダ…カリブ海沖の島国か。
+","報道でゲイリー首相がUFO存在の証拠として挙げていたと
+いう写真の中に、気になるものがあった。
+","これは…。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他把一堆照片交给了媒体——
+说这些能证明UFO的存在。","[""他把一堆照片交给了媒体——\n说这些能证明UFO的存在。""]","He gave the press a bunch of photos - says they
+prove the existence of UFOs.
+","[""He gave the press a bunch of photos - says they\nprove the existence of UFOs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#5; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,5,stream=0x6000;block=0xCF0;text=5,"[""stream=0x6000;block=0xCF0;text=5""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","報道でゲイリー首相がUFO存在の証拠として挙げていたと
+いう写真の中に、気になるものがあった。
+","これは…。
+","ああ…。ヒューイがクリサリスと呼んでいる兵器だ。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那是…,"[""那是…""]","That's the...
+","[""That's the...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#7; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,6,stream=0x6000;block=0xCF0;text=6,"[""stream=0x6000;block=0xCF0;text=6""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","これは…。
+","ああ…。ヒューイがクリサリスと呼んでいる兵器だ。
+","…カズ、これは俺がチコに渡した写真だ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊…Huey管那个武器叫Chrysalis。,"[""是啊…Huey管那个武器叫Chrysalis。""]","Yep... The weapon Huey called the Chrysalis.
+","[""Yep... The weapon Huey called the Chrysalis.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#8; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,7,stream=0x6000;block=0xCF0;text=7,"[""stream=0x6000;block=0xCF0;text=7""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","ああ…。ヒューイがクリサリスと呼んでいる兵器だ。
+","…カズ、これは俺がチコに渡した写真だ。
+","チコはUFO写真として売ると言っていたが…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…Kaz，这是我给Chico的那张照片。,"[""…Kaz，这是我给Chico的那张照片。""]","...Kaz, this is the photo I gave to Chico.
+","[""...Kaz, this is the photo I gave to Chico.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#9; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,8,stream=0x6000;block=0xCF0;text=8,"[""stream=0x6000;block=0xCF0;text=8""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","…カズ、これは俺がチコに渡した写真だ。
+","チコはUFO写真として売ると言っていたが…。
+","どうやらこの写真は雑誌に掲載されてしまったようだな。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他说了些什么，
+说要把它当成UFO照片卖掉…","[""他说了些什么，\n说要把它当成UFO照片卖掉…""]","He said something about selling it off as a photo
+of a UFO...
+","[""He said something about selling it off as a photo\nof a UFO...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#10; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,9,stream=0x6000;block=0xCF0;text=9,"[""stream=0x6000;block=0xCF0;text=9""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","チコはUFO写真として売ると言っていたが…。
+","どうやらこの写真は雑誌に掲載されてしまったようだな。
+","しかし…一国の首相が、雑誌の与太話を信じるのか？
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看来它流落到了某本杂志的版面上。,"[""看来它流落到了某本杂志的版面上。""]","Looks like it found its way into the pages of a
+magazine.
+","[""Looks like it found its way into the pages of a\nmagazine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#11; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,10,stream=0x6000;block=0xCF0;text=10,"[""stream=0x6000;block=0xCF0;text=10""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","どうやらこの写真は雑誌に掲載されてしまったようだな。
+","しかし…一国の首相が、雑誌の与太話を信じるのか？
+","最近はアメリカ大陸全域でアブダクションやキャトルミュ
+ーティレーションの話が多い。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但是…一个国家的总理为什么
+会相信小报上那种垃圾新闻？","[""但是…一个国家的总理为什么\n会相信小报上那种垃圾新闻？""]","But... why would the prime minister of a country
+believe tabloid trash like that?
+","[""But... why would the prime minister of a country\nbelieve tabloid trash like that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#12; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,11,stream=0x6000;block=0xCF0;text=11,"[""stream=0x6000;block=0xCF0;text=11""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","しかし…一国の首相が、雑誌の与太話を信じるのか？
+","最近はアメリカ大陸全域でアブダクションやキャトルミュ
+ーティレーションの話が多い。
+","UFOによる誘拐、それに家畜の変死か。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最近整个美洲都有关于绑架
+和牲畜离奇死亡的报告。","[""最近整个美洲都有关于绑架\n和牲畜离奇死亡的报告。""]","There's been reports all over the Americas of
+abductions and cattle mutilations, lately.
+","[""There's been reports all over the Americas of\nabductions and cattle mutilations, lately.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#13; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,12,stream=0x6000;block=0xCF0;text=12,"[""stream=0x6000;block=0xCF0;text=12""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","最近はアメリカ大陸全域でアブダクションやキャトルミュ
+ーティレーションの話が多い。
+","UFOによる誘拐、それに家畜の変死か。
+","CIAが絡んでいるのかもしれん。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你觉得那些是真的吗？,"[""你觉得那些是真的吗？""]","You think they're true?
+","[""You think they're true?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#14; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,13,stream=0x6000;block=0xCF0;text=13,"[""stream=0x6000;block=0xCF0;text=13""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","UFOによる誘拐、それに家畜の変死か。
+","CIAが絡んでいるのかもしれん。
+","だとしたら、ゲイリーとやら…。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我觉得中情局(CIA)可能牵涉其中。,"[""我觉得中情局(CIA)可能牵涉其中。""]","I think the CIA might be involved.
+","[""I think the CIA might be involved.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#15; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,14,stream=0x6000;block=0xCF0;text=14,"[""stream=0x6000;block=0xCF0;text=14""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","CIAが絡んでいるのかもしれん。
+","だとしたら、ゲイリーとやら…。
+","ああ。深入りするとマズいことになりかねない。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果真是这样，那Gairy可能…,"[""如果真是这样，那Gairy可能…""]","If they are, then Gairy could be...
+","[""If they are, then Gairy could be...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#16; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,15,stream=0x6000;block=0xCF0;text=15,"[""stream=0x6000;block=0xCF0;text=15""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","だとしたら、ゲイリーとやら…。
+","ああ。深入りするとマズいことになりかねない。
+","だがグレナダと言えばキューバの目と鼻の先だ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我知道。他要是查得太深，
+会给自己惹上麻烦的。","[""我知道。他要是查得太深，\n会给自己惹上麻烦的。""]","I know. If he digs too deep, he's gonna get himself
+into trouble.
+","[""I know. If he digs too deep, he's gonna get himself\ninto trouble.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#17; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,16,stream=0x6000;block=0xCF0;text=16,"[""stream=0x6000;block=0xCF0;text=16""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","ああ。深入りするとマズいことになりかねない。
+","だがグレナダと言えばキューバの目と鼻の先だ。
+","その意味ではCIAも手出ししにくいかもしれないが…。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但格林纳达就在古巴隔壁啊。,"[""但格林纳达就在古巴隔壁啊。""]","But Grenada's right next door to Cuba.
+","[""But Grenada's right next door to Cuba.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#18; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,17,stream=0x6000;block=0xCF0;text=17,"[""stream=0x6000;block=0xCF0;text=17""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","だがグレナダと言えばキューバの目と鼻の先だ。
+","その意味ではCIAも手出ししにくいかもしれないが…。
+","国内のパワーバランスを崩せば、一気に共産化する可能性
+もある。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我想这么一来，中情局(CIA)插手也会
+变得比较麻烦吧，从某种意义上说。","[""我想这么一来，中情局(CIA)插手也会\n变得比较麻烦吧，从某种意义上说。""]","I guess that would make it tough for the CIA to
+intervene, in a sense.
+","[""I guess that would make it tough for the CIA to\nintervene, in a sense.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#19; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,18,stream=0x6000;block=0xCF0;text=18,"[""stream=0x6000;block=0xCF0;text=18""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","その意味ではCIAも手出ししにくいかもしれないが…。
+","国内のパワーバランスを崩せば、一気に共産化する可能性
+もある。
+","そうだな…。いずれにせよ、俺たちに何ができるわけでも
+ないが。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"打破国内的权力平衡，
+可能会让局势瞬间变红。","[""打破国内的权力平衡，\n可能会让局势瞬间变红。""]","Upsetting the domestic balance of power could
+cause it to go Red all of a sudden.
+","[""Upsetting the domestic balance of power could\ncause it to go Red all of a sudden.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#20; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,19,stream=0x6000;block=0xCF0;text=19,"[""stream=0x6000;block=0xCF0;text=19""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","国内のパワーバランスを崩せば、一気に共産化する可能性
+もある。
+","そうだな…。いずれにせよ、俺たちに何ができるわけでも
+ないが。
+","一応、耳に入れておきたかった。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错…不过，反正这也
+不是我们能插手的事。","[""没错…不过，反正这也\n不是我们能插手的事。""]","True... Well, in any case it's not like we can do
+anything about it.
+","[""True... Well, in any case it's not like we can do\nanything about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#21; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,20,stream=0x6000;block=0xCF0;text=20,"[""stream=0x6000;block=0xCF0;text=20""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","そうだな…。いずれにせよ、俺たちに何ができるわけでも
+ないが。
+","一応、耳に入れておきたかった。
+","わかった。写真はあまり表に出さないように気をつけよう。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就是想让你知道一下。,"[""就是想让你知道一下。""]","Just wanted to let you know.
+","[""Just wanted to let you know.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#22; block_semantic_score=0.128868.
+BRIEFING_FILES_BLOCK_006CF0,21,stream=0x6000;block=0xCF0;text=21,"[""stream=0x6000;block=0xCF0;text=21""]",1,BRIEFING FILES,"[""stream=0x6000;block=0xCF0;block_file=0x6CF0;text_base=0x6D68;capacity=1516""]","一応、耳に入れておきたかった。
+","わかった。写真はあまり表に出さないように気をつけよう。
+",,[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"明白了。我会小心，
+不会再让照片外流了。","[""明白了。我会小心，\n不会再让照片外流了。""]","Gotcha. I'll be careful not to let any more photos
+leak.
+","[""Gotcha. I'll be careful not to let any more photos\nleak.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6CF0; ENG blocks=0x9B1C0; ENG source rows=0x9B1C0#23; block_semantic_score=0.128868.

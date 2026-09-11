@@ -1,0 +1,84 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_038A50,0,stream=0x38000;block=0xA50;text=0,"[""stream=0x38000;block=0xA50;text=0""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]",,"コリブリから助けてもらって以来、世話になりっぱなしね。
+あたしも何か手伝わないと。
+","怪我が治ってからでいい。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"自从你把我从el colibri那里
+救出来后，你一直很照顾我。","[""自从你把我从el colibri那里\n救出来后，你一直很照顾我。""]","You've taken such good care of me since you
+saved me from el colibri.
+","[""You've taken such good care of me since you\nsaved me from el colibri.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x38A50; ENG blocks=0xC91F0; ENG source rows=0xC91F0#0; block_semantic_score=0.067158.
+BRIEFING_FILES_BLOCK_038A50,1,stream=0x38000;block=0xA50;text=1,"[""stream=0x38000;block=0xA50;text=1""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","コリブリから助けてもらって以来、世話になりっぱなしね。
+あたしも何か手伝わないと。
+","怪我が治ってからでいい。
+","ありがと。でも、そうも言ってられないでしょ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想报答你。,"[""我想报答你。""]","I want to return the favor.
+","[""I want to return the favor.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x38A50; ENG blocks=0xC91F0; ENG source rows=0xC91F0#1; block_semantic_score=0.067158.
+BRIEFING_FILES_BLOCK_038A50,2,stream=0x38000;block=0xA50;text=2,"[""stream=0x38000;block=0xA50;text=2""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","怪我が治ってからでいい。
+","ありがと。でも、そうも言ってられないでしょ。
+","怪我が治り切るには時間がかかるかも知れないけど、身体
+が動くようになれば十分。実戦部隊でだって、役に立って
+みせる。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我很感激。但你需要
+所有能得到的帮助。","[""我很感激。但你需要\n所有能得到的帮助。""]","I appreciate that. But you need all the help you
+can get.
+","[""I appreciate that. But you need all the help you\ncan get.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x38A50; ENG blocks=0xC91F0; ENG source rows=0xC91F0#3; block_semantic_score=0.067158.
+BRIEFING_FILES_BLOCK_038A50,3,stream=0x38000;block=0xA50;text=3,"[""stream=0x38000;block=0xA50;text=3""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","ありがと。でも、そうも言ってられないでしょ。
+","怪我が治り切るには時間がかかるかも知れないけど、身体
+が動くようになれば十分。実戦部隊でだって、役に立って
+みせる。
+","さすがは<R= FSLN ,サンディニスタ>の<R= 司令官 ,コマンダンテ>だ。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我完全康复可能还需要一段时间，但我一旦能站起来就好了。
+把我编入作战小队——我会出一份力的。","[""我完全康复可能还需要一段时间，但我一旦能站起来就好了。\n把我编入作战小队——我会出一份力的。""]","It might take a while for me to heal completely,
+but I'll be fine once I'm on my feet. Put me in a
+combat unit - I'll pull my weight.
+","[""It might take a while for me to heal completely,\nbut I'll be fine once I'm on my feet. Put me in a\ncombat unit - I'll pull my weight.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x38A50; ENG blocks=0xC91F0,0xC91F0; ENG source rows=0xC91F0#4,0xC91F0#5; block_semantic_score=0.067158."
+BRIEFING_FILES_BLOCK_038A50,4,stream=0x38000;block=0xA50;text=4,"[""stream=0x38000;block=0xA50;text=4""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","怪我が治り切るには時間がかかるかも知れないけど、身体
+が動くようになれば十分。実戦部隊でだって、役に立って
+みせる。
+","さすがは<R= FSLN ,サンディニスタ>の<R= 司令官 ,コマンダンテ>だ。
+","よしてよ。でも実際、<R=同志,コンパ>が頑張ってるのに、あたしだけ
+ぶらぶらしてるってのもね。
+","[""<R= FSLN ,サンディニスタ>"", ""<R= 司令官 ,コマンダンテ>""]",,,NOT_CHECKED,88,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我从桑地诺指挥官那里
+可不会期待更少。","[""我从桑地诺指挥官那里\n可不会期待更少。""]","I wouldn't expect any less from a Sandinista
+comandante.
+","[""I wouldn't expect any less from a Sandinista\ncomandante.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x38A50; ENG blocks=0xC91F0; ENG source rows=0xC91F0#6; block_semantic_score=0.067158.
+BRIEFING_FILES_BLOCK_038A50,5,stream=0x38000;block=0xA50;text=5,"[""stream=0x38000;block=0xA50;text=5""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","さすがは<R= FSLN ,サンディニスタ>の<R= 司令官 ,コマンダンテ>だ。
+","よしてよ。でも実際、<R=同志,コンパ>が頑張ってるのに、あたしだけ
+ぶらぶらしてるってのもね。
+","確かに、君が加わってくれれば、<R=FSLN兵,サンディニスタ>の士気も上がる
+かも知れんな。
+","[""<R=同志,コンパ>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但说真的，我的同志们在外头
+冒生命危险，我却坐在这里，
+总觉得良心不安。","[""但说真的，我的同志们在外头\n冒生命危险，我却坐在这里，\n总觉得良心不安。""]","But seriously, it does not feel right for me to be
+sitting here while my compas are out risking their
+lives.
+","[""But seriously, it does not feel right for me to be\nsitting here while my compas are out risking their\nlives.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x38A50; ENG blocks=0xC91F0; ENG source rows=0xC91F0#8; block_semantic_score=0.067158.
+BRIEFING_FILES_BLOCK_038A50,6,stream=0x38000;block=0xA50;text=6,"[""stream=0x38000;block=0xA50;text=6""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","よしてよ。でも実際、<R=同志,コンパ>が頑張ってるのに、あたしだけ
+ぶらぶらしてるってのもね。
+","確かに、君が加わってくれれば、<R=FSLN兵,サンディニスタ>の士気も上がる
+かも知れんな。
+","もちろん、あたし達の目的は、ソモサ政権の打倒。でも、
+態勢を立て直すまでは、しっかりあなた達に協力するつも
+りよ。
+","[""<R=FSLN兵,サンディニスタ>""]",,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有一点是肯定的。有你在外勤，
+会大大鼓舞桑地诺部队的士气。","[""有一点是肯定的。有你在外勤，\n会大大鼓舞桑地诺部队的士气。""]","One thing's for sure. Having you out in the field
+would be a big boost to Sandinista morale.
+","[""One thing's for sure. Having you out in the field\nwould be a big boost to Sandinista morale.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x38A50; ENG blocks=0xC91F0; ENG source rows=0xC91F0#9; block_semantic_score=0.067158.
+BRIEFING_FILES_BLOCK_038A50,7,stream=0x38000;block=0xA50;text=7,"[""stream=0x38000;block=0xA50;text=7""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","確かに、君が加わってくれれば、<R=FSLN兵,サンディニスタ>の士気も上がる
+かも知れんな。
+","もちろん、あたし達の目的は、ソモサ政権の打倒。でも、
+態勢を立て直すまでは、しっかりあなた達に協力するつも
+りよ。
+","ありがたい。よろしく頼む。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当然，我们的最终目标
+仍是推翻索摩查。但在我们重整旗鼓之前，
+我们会追随你的领导，不管去哪儿。","[""当然，我们的最终目标\n仍是推翻索摩查。但在我们重整旗鼓之前，\n我们会追随你的领导，不管去哪儿。""]","Of course, our ultimate goal is still the overthrow
+of Somoza.
+But until we get ourselves back in order, we will
+follow your lead, wherever it takes us.
+","[""Of course, our ultimate goal is still the overthrow\nof Somoza.\nBut until we get ourselves back in order, we will\nfollow your lead, wherever it takes us.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x38A50; ENG blocks=0xC91F0,0xC91F0; ENG source rows=0xC91F0#10,0xC91F0#11; block_semantic_score=0.067158."
+BRIEFING_FILES_BLOCK_038A50,8,stream=0x38000;block=0xA50;text=8,"[""stream=0x38000;block=0xA50;text=8""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","もちろん、あたし達の目的は、ソモサ政権の打倒。でも、
+態勢を立て直すまでは、しっかりあなた達に協力するつも
+りよ。
+","ありがたい。よろしく頼む。
+",,[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,很高兴有你们加入。,"[""很高兴有你们加入。""]","Glad to have you on board.
+","[""Glad to have you on board.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x38A50; ENG blocks=0xC91F0; ENG source rows=0xC91F0#12; block_semantic_score=0.067158.

@@ -1,0 +1,129 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_36FF00,0,stream=0x36F000;block=0xF00;text=0,"[""stream=0x36F000;block=0xF00;text=0""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]",,"スネーク、搬送中の核は湿地帯を抜けた。
+イラス山岳地帯に到達したようだ。
+","だが、こちらはガイド不在だ。
+山岳地帯での追跡はより難しくなる。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，那批核武器似乎
+已经离开了沿海沼泽地带，进入了伊拉苏周边的山区。","[""Snake，那批核武器似乎\n已经离开了沿海沼泽地带，进入了伊拉苏周边的山区。""]","Snake, the nukes appear to have left the
+coastal marshes
+and reached the mountains around Irazú.
+","[""Snake, the nukes appear to have left the\ncoastal marshes\nand reached the mountains around Irazú.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36FF00; ENG blocks=0x387F00,0x387F00; ENG source rows=0x387F00#0,0x387F00#1; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36FF00,1,stream=0x36F000;block=0xF00;text=1,"[""stream=0x36F000;block=0xF00;text=1""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","スネーク、搬送中の核は湿地帯を抜けた。
+イラス山岳地帯に到達したようだ。
+","だが、こちらはガイド不在だ。
+山岳地帯での追跡はより難しくなる。
+","そこで拠点のひとつ、捕虜収容所に潜入してくれ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但没有向导的话，
+要在山里追踪那些东西可不容易。","[""但没有向导的话，\n要在山里追踪那些东西可不容易。""]","But without a guide, it's gonna be tough
+tracking those things in the mountains.
+","[""But without a guide, it's gonna be tough\ntracking those things in the mountains.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,2,stream=0x36F000;block=0xF00;text=2,"[""stream=0x36F000;block=0xF00;text=2""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","だが、こちらはガイド不在だ。
+山岳地帯での追跡はより難しくなる。
+","そこで拠点のひとつ、捕虜収容所に潜入してくれ。
+","アマンダの弟、チコが無事ならいいが…。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以我们需要你潜入他们的
+一座基地——一座监狱设施。","[""所以我们需要你潜入他们的\n一座基地——一座监狱设施。""]","So we need you to infiltrate one of their
+bases, a prison facility.
+","[""So we need you to infiltrate one of their\nbases, a prison facility.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#3; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,3,stream=0x36F000;block=0xF00;text=3,"[""stream=0x36F000;block=0xF00;text=3""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","そこで拠点のひとつ、捕虜収容所に潜入してくれ。
+","アマンダの弟、チコが無事ならいいが…。
+","そうだな。
+他にも捕らわれている<R=FSLN,サンディニスタ>がいるかもしれない。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,希望Amanda的弟弟没出什么事…,"[""希望Amanda的弟弟没出什么事…""]","I hope nothing's happened to Amanda's
+brother...
+","[""I hope nothing's happened to Amanda's\nbrother...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,4,stream=0x36F000;block=0xF00;text=4,"[""stream=0x36F000;block=0xF00;text=4""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","アマンダの弟、チコが無事ならいいが…。
+","そうだな。
+他にも捕らわれている<R=FSLN,サンディニスタ>がいるかもしれない。
+","彼らをMSFに収容するには、
+『フルトン回収システム』を使ってくれ。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"明白。那里可能还关着
+其他桑地诺成员。","[""明白。那里可能还关着\n其他桑地诺成员。""]","I hear ya. There may be other Sandinistas
+held there, too.
+","[""I hear ya. There may be other Sandinistas\nheld there, too.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#5; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,5,stream=0x36F000;block=0xF00;text=5,"[""stream=0x36F000;block=0xF00;text=5""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","そうだな。
+他にも捕らわれている<R=FSLN,サンディニスタ>がいるかもしれない。
+","彼らをMSFに収容するには、
+『フルトン回収システム』を使ってくれ。
+","スネークは体験済みだと思うが、人体に影響はない。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要把他们安全带回无国界之师
+（MSF），就用富尔顿回收系统。","[""要把他们安全带回无国界之师\n（MSF），就用富尔顿回收系统。""]","To bring them back safely to MSF, use
+the Fulton Recovery System.
+","[""To bring them back safely to MSF, use\nthe Fulton Recovery System.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#6; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,6,stream=0x36F000;block=0xF00;text=6,"[""stream=0x36F000;block=0xF00;text=6""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","彼らをMSFに収容するには、
+『フルトン回収システム』を使ってくれ。
+","スネークは体験済みだと思うが、人体に影響はない。
+","一人一人、時間をかけて説得している余裕は
+ないからな。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我相信你凭经验就知道，
+这系统完全无害。","[""我相信你凭经验就知道，\n这系统完全无害。""]","As I'm sure you know from experience,
+it's completely harmless.
+","[""As I'm sure you know from experience,\nit's completely harmless.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#7; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,7,stream=0x36F000;block=0xF00;text=7,"[""stream=0x36F000;block=0xF00;text=7""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","スネークは体験済みだと思うが、人体に影響はない。
+","一人一人、時間をかけて説得している余裕は
+ないからな。
+","スネーク、ちょっといい？
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"毕竟，你不可能有时间坐在
+那儿一个一个说服他们加入。","[""毕竟，你不可能有时间坐在\n那儿一个一个说服他们加入。""]","After all, you won't have time to sit there
+and convince every single one of 'em to
+join.
+","[""After all, you won't have time to sit there\nand convince every single one of 'em to\njoin.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#8; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,8,stream=0x36F000;block=0xF00;text=8,"[""stream=0x36F000;block=0xF00;text=8""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","一人一人、時間をかけて説得している余裕は
+ないからな。
+","スネーク、ちょっといい？
+","アマンダ？
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有一件事，Snake。,"[""还有一件事，Snake。""]","One other thing, Snake.
+","[""One other thing, Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#9; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,9,stream=0x36F000;block=0xF00;text=9,"[""stream=0x36F000;block=0xF00;text=9""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","スネーク、ちょっといい？
+","アマンダ？
+","CIAの連中、村の家をいくつか接収して収容所に
+してるの。そのどこかにチコがいるはず。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Amanda…,"[""Amanda…""]","Amanda...
+","[""Amanda...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#10; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,10,stream=0x36F000;block=0xF00;text=10,"[""stream=0x36F000;block=0xF00;text=10""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","アマンダ？
+","CIAの連中、村の家をいくつか接収して収容所に
+してるの。そのどこかにチコがいるはず。
+","村の家をか…。
+だが、どうやって見分ける。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"中情局(CIA)那些混蛋
+没收了村里的一些房子。","[""中情局(CIA)那些混蛋\n没收了村里的一些房子。""]","Those CIA bastards confiscated some of
+the houses in the village.
+","[""Those CIA bastards confiscated some of\nthe houses in the village.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#11; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,11,stream=0x36F000;block=0xF00;text=11,"[""stream=0x36F000;block=0xF00;text=11""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","CIAの連中、村の家をいくつか接収して収容所に
+してるの。そのどこかにチコがいるはず。
+","村の家をか…。
+だが、どうやって見分ける。
+","接収された家は、監視用にドアが付け替えられてる。
+青いドアよ。覗き窓が付いてる。
+そこから中を確かめて。
+",[],,,NOT_CHECKED,62,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,房子，是吗…我怎么分辨是哪几栋？,"[""房子，是吗…我怎么分辨是哪几栋？""]","Houses, huh... How do I tell which ones?
+","[""Houses, huh... How do I tell which ones?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#13; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,12,stream=0x36F000;block=0xF00;text=12,"[""stream=0x36F000;block=0xF00;text=12""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","村の家をか…。
+だが、どうやって見分ける。
+","接収された家は、監視用にドアが付け替えられてる。
+青いドアよ。覗き窓が付いてる。
+そこから中を確かめて。
+","わかった。青いドアだな。
+",[],,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们接管那些房子时，
+为了安全起见装了新的前门。新门是蓝色的，还装了猫眼，
+可以看到里面。","[""他们接管那些房子时，\n为了安全起见装了新的前门。新门是蓝色的，还装了猫眼，\n可以看到里面。""]","When they took over the houses, they
+installed new front doors for security
+purposes.
+The new doors are blue. With peepholes,
+so you can see what's inside.
+","[""When they took over the houses, they\ninstalled new front doors for security\npurposes.\nThe new doors are blue. With peepholes,\nso you can see what's inside.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36FF00; ENG blocks=0x387F00,0x387F00; ENG source rows=0x387F00#14,0x387F00#15; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_36FF00,13,stream=0x36F000;block=0xF00;text=13,"[""stream=0x36F000;block=0xF00;text=13""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","接収された家は、監視用にドアが付け替えられてる。
+青いドアよ。覗き窓が付いてる。
+そこから中を確かめて。
+","わかった。青いドアだな。
+","物資搬入ルートの最終拠点は近い。
+頼んだぞ、スネーク。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,蓝色的门。明白了。,"[""蓝色的门。明白了。""]","Blue doors. Got it.
+","[""Blue doors. Got it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#16; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_36FF00,14,stream=0x36F000;block=0xF00;text=14,"[""stream=0x36F000;block=0xF00;text=14""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","わかった。青いドアだな。
+","物資搬入ルートの最終拠点は近い。
+頼んだぞ、スネーク。
+",,[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你快要到运输路线的终点了。
+祝你好运，Snake。","[""你快要到运输路线的终点了。\n祝你好运，Snake。""]","You're getting close to the end of the
+transport route. Good luck, Snake.
+","[""You're getting close to the end of the\ntransport route. Good luck, Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36FF00; ENG blocks=0x387F00; ENG source rows=0x387F00#17; block_semantic_score=1.000000.

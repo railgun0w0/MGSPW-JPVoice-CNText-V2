@@ -1,0 +1,32 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_020C50,0,stream=0x20000;block=0xC50;text=0,"[""stream=0x20000;block=0xC50;text=0""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xC50;block_file=0x20C50;text_base=0x20C80;capacity=324""]",,"場所にもよるが、敵は重層的な兵力配備を行っている。
+","屋根の上や遠くの地形から、長距離攻撃を仕掛けてくる敵
+も少なからずいる。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有些地方，敌军会以多层防线部署，扩大覆盖范围。,"[""有些地方，敌军会以多层防线部署，扩大覆盖范围。""]","There are areas out there where enemy soldiers
+are
+deployed in multiple layers for extra coverage.
+","[""There are areas out there where enemy soldiers\nare\ndeployed in multiple layers for extra coverage.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20C50; ENG blocks=0xB1DB0,0xB1DB0; ENG source rows=0xB1DB0#0,0xB1DB0#1; block_semantic_score=0.194989."
+BRIEFING_FILES_BLOCK_020C50,1,stream=0x20000;block=0xC50;text=1,"[""stream=0x20000;block=0xC50;text=1""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xC50;block_file=0x20C50;text_base=0x20C80;capacity=324""]","場所にもよるが、敵は重層的な兵力配備を行っている。
+","屋根の上や遠くの地形から、長距離攻撃を仕掛けてくる敵
+も少なからずいる。
+","近くの敵に気を取られて、遠くからの攻撃に無防備になら
+ないよう注意してくれ。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,其中不少会从远处攻击你——比如屋顶和远处的制高点。,"[""其中不少会从远处攻击你——比如屋顶和远处的制高点。""]","More than a few of those will be attacking you
+from a distance
+- rooftops and far-off vantage points.
+","[""More than a few of those will be attacking you\nfrom a distance\n- rooftops and far-off vantage points.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20C50; ENG blocks=0xB1DB0,0xB1DB0; ENG source rows=0xB1DB0#2,0xB1DB0#3; block_semantic_score=0.194989."
+BRIEFING_FILES_BLOCK_020C50,2,stream=0x20000;block=0xC50;text=2,"[""stream=0x20000;block=0xC50;text=2""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xC50;block_file=0x20C50;text_base=0x20C80;capacity=324""]","屋根の上や遠くの地形から、長距離攻撃を仕掛けてくる敵
+も少なからずいる。
+","近くの敵に気を取られて、遠くからの攻撃に無防備になら
+ないよう注意してくれ。
+","気をつけよう。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"尽量不要被近身的敌人
+分散太多注意力，否则你很可能会暴露给远距离攻击。","[""尽量不要被近身的敌人\n分散太多注意力，否则你很可能会暴露给远距离攻击。""]","Try not to get too distracted by nearby enemies,
+because you could be leaving yourself wide open
+to longer-range attacks.
+","[""Try not to get too distracted by nearby enemies,\nbecause you could be leaving yourself wide open\nto longer-range attacks.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20C50; ENG blocks=0xB1DB0,0xB1DB0; ENG source rows=0xB1DB0#4,0xB1DB0#5; block_semantic_score=0.194989."
+BRIEFING_FILES_BLOCK_020C50,3,stream=0x20000;block=0xC50;text=3,"[""stream=0x20000;block=0xC50;text=3""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xC50;block_file=0x20C50;text_base=0x20C80;capacity=324""]","近くの敵に気を取られて、遠くからの攻撃に無防備になら
+ないよう注意してくれ。
+","気をつけよう。
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会小心的。,"[""我会小心的。""]","I'll be careful.
+","[""I'll be careful.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20C50; ENG blocks=0xB1DB0; ENG source rows=0xB1DB0#6; block_semantic_score=0.194989.

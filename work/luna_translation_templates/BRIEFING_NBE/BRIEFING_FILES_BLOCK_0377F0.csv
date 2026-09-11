@@ -1,0 +1,90 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0377F0,0,stream=0x37000;block=0x7F0;text=0,"[""stream=0x37000;block=0x7F0;text=0""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]",,"小さい頃、マラリアにかかったの。
+","運悪く、重いほうのマラリアでね。意識まで朦朧として、
+一時はもうダメだって言われたらしい。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我小时候得过疟疾。,"[""我小时候得过疟疾。""]","When I was little, I came down with malaria.
+","[""When I was little, I came down with malaria.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#0; block_semantic_score=0.125124.
+BRIEFING_FILES_BLOCK_0377F0,1,stream=0x37000;block=0x7F0;text=1,"[""stream=0x37000;block=0x7F0;text=1""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","小さい頃、マラリアにかかったの。
+","運悪く、重いほうのマラリアでね。意識まで朦朧として、
+一時はもうダメだって言われたらしい。
+","マラリア脳症だな。熱帯熱マラリアだと起こりやすいと聞
+く。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"倒霉的是，我得的还是恶性疟疾。
+我整个人一直迷迷糊糊的，甚至一度他们说我没救了。","[""倒霉的是，我得的还是恶性疟疾。\n我整个人一直迷迷糊糊的，甚至一度他们说我没救了。""]","Unlucky for me, it was the bad kind. I was in a
+daze the whole time,
+and at one point they said I was not going to make
+it.
+","[""Unlucky for me, it was the bad kind. I was in a\ndaze the whole time,\nand at one point they said I was not going to make\nit.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x377F0; ENG blocks=0xC8150,0xC8150; ENG source rows=0xC8150#1,0xC8150#2; block_semantic_score=0.125124."
+BRIEFING_FILES_BLOCK_0377F0,2,stream=0x37000;block=0x7F0;text=2,"[""stream=0x37000;block=0x7F0;text=2""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","運悪く、重いほうのマラリアでね。意識まで朦朧として、
+一時はもうダメだって言われたらしい。
+","マラリア脳症だな。熱帯熱マラリアだと起こりやすいと聞
+く。
+","今でも、時々記憶があやふやになることがある。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"疟疾性脑病。我听说这
+在热带疟疾中很常见。","[""疟疾性脑病。我听说这\n在热带疟疾中很常见。""]","Malarial encephalopathy. I hear it's pretty common
+in tropical malaria cases.
+","[""Malarial encephalopathy. I hear it's pretty common\nin tropical malaria cases.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#3; block_semantic_score=0.125124.
+BRIEFING_FILES_BLOCK_0377F0,3,stream=0x37000;block=0x7F0;text=3,"[""stream=0x37000;block=0x7F0;text=3""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","マラリア脳症だな。熱帯熱マラリアだと起こりやすいと聞
+く。
+","今でも、時々記憶があやふやになることがある。
+","それ以来、蚊が恐くてね…。蚊の羽音が聞こえると、気が
+気じゃなくなる。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,直到今天，我有时还是觉得记忆模糊。,"[""直到今天，我有时还是觉得记忆模糊。""]","Even today, my memory sometimes gets a little
+fuzzy.
+","[""Even today, my memory sometimes gets a little\nfuzzy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#4; block_semantic_score=0.125124.
+BRIEFING_FILES_BLOCK_0377F0,4,stream=0x37000;block=0x7F0;text=4,"[""stream=0x37000;block=0x7F0;text=4""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","今でも、時々記憶があやふやになることがある。
+","それ以来、蚊が恐くてね…。蚊の羽音が聞こえると、気が
+気じゃなくなる。
+","タバコを切らさないのも、そのためか。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从那以后，我就特别怕蚊子…
+一听到附近有嗡嗡声，我就心惊胆战。","[""从那以后，我就特别怕蚊子…\n一听到附近有嗡嗡声，我就心惊胆战。""]","Since then I've had this fear of mosquitoes... When
+I hear them buzzing nearby, I get jumpy.
+","[""Since then I've had this fear of mosquitoes... When\nI hear them buzzing nearby, I get jumpy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#5; block_semantic_score=0.125124.
+BRIEFING_FILES_BLOCK_0377F0,5,stream=0x37000;block=0x7F0;text=5,"[""stream=0x37000;block=0x7F0;text=5""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","それ以来、蚊が恐くてね…。蚊の羽音が聞こえると、気が
+気じゃなくなる。
+","タバコを切らさないのも、そのためか。
+","ええ。少しでも蚊よけになればと思ってね。気休めかもし
+れないけど。あなたもそうでしょ？
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这就是你不停抽烟的原因？,"[""这就是你不停抽烟的原因？""]","That explains the chain-smoking?
+","[""That explains the chain-smoking?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#6; block_semantic_score=0.125124.
+BRIEFING_FILES_BLOCK_0377F0,6,stream=0x37000;block=0x7F0;text=6,"[""stream=0x37000;block=0x7F0;text=6""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","タバコを切らさないのも、そのためか。
+","ええ。少しでも蚊よけになればと思ってね。気休めかもし
+れないけど。あなたもそうでしょ？
+","少なくとも、蚊よりは葉巻の方が好きだ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊。我以为这能稍微驱赶一下蚊子。也许这全是我的心理作用。
+你也是这样吧？","[""是啊。我以为这能稍微驱赶一下蚊子。也许这全是我的心理作用。\n你也是这样吧？""]","Si. I thought it might help keep the mosquitoes
+away, just a little.
+Maybe it's all in my head. You're the same way,
+right?
+","[""Si. I thought it might help keep the mosquitoes\naway, just a little.\nMaybe it's all in my head. You're the same way,\nright?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x377F0; ENG blocks=0xC8150,0xC8150; ENG source rows=0xC8150#7,0xC8150#8; block_semantic_score=0.125124."
+BRIEFING_FILES_BLOCK_0377F0,7,stream=0x37000;block=0x7F0;text=7,"[""stream=0x37000;block=0x7F0;text=7""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","ええ。少しでも蚊よけになればと思ってね。気休めかもし
+れないけど。あなたもそうでしょ？
+","少なくとも、蚊よりは葉巻の方が好きだ。
+","あたしもよ。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我只说一句——比起蚊子，
+我宁愿选雪茄。","[""我只说一句——比起蚊子，\n我宁愿选雪茄。""]","I will say this - I prefer a cigar over mosquitoes.
+","[""I will say this - I prefer a cigar over mosquitoes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#9; block_semantic_score=0.125124.
+BRIEFING_FILES_BLOCK_0377F0,8,stream=0x37000;block=0x7F0;text=8,"[""stream=0x37000;block=0x7F0;text=8""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","少なくとも、蚊よりは葉巻の方が好きだ。
+","あたしもよ。
+","だが、大したものだ。その恐怖をものともせず、ゲリラと
+して野山を駆け巡っている。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我也一样。,"[""我也一样。""]","Me, too.
+","[""Me, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#10; block_semantic_score=0.125124.
+BRIEFING_FILES_BLOCK_0377F0,9,stream=0x37000;block=0x7F0;text=9,"[""stream=0x37000;block=0x7F0;text=9""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","あたしもよ。
+","だが、大したものだ。その恐怖をものともせず、ゲリラと
+して野山を駆け巡っている。
+","よしてよ。エル・チェなんて、喘息に苦しみながら、革命
+を成功させたのよ。それに比べれば、大したことじゃない。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我真是佩服你。克服那样的恐惧，
+需要很大的勇气，还要在荒野中过游击生活。","[""我真是佩服你。克服那样的恐惧，\n需要很大的勇气，还要在荒野中过游击生活。""]","I've gotta hand it to you. It takes guts to conquer
+your fear like that
+and live a guerrilla's life in the wild.
+","[""I've gotta hand it to you. It takes guts to conquer\nyour fear like that\nand live a guerrilla's life in the wild.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x377F0; ENG blocks=0xC8150,0xC8150; ENG source rows=0xC8150#11,0xC8150#12; block_semantic_score=0.125124."
+BRIEFING_FILES_BLOCK_0377F0,10,stream=0x37000;block=0x7F0;text=10,"[""stream=0x37000;block=0x7F0;text=10""]",1,BRIEFING FILES,"[""stream=0x37000;block=0x7F0;block_file=0x377F0;text_base=0x3783C;capacity=992""]","だが、大したものだ。その恐怖をものともせず、ゲリラと
+して野山を駆け巡っている。
+","よしてよ。エル・チェなんて、喘息に苦しみながら、革命
+を成功させたのよ。それに比べれば、大したことじゃない。
+",,[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这不算什么。切·格瓦拉也
+没有让哮喘阻止他领导革命。","[""这不算什么。切·格瓦拉也\n没有让哮喘阻止他领导革命。""]","It is nothing. El Che did not let asthma stop him
+from leading the revolution.
+","[""It is nothing. El Che did not let asthma stop him\nfrom leading the revolution.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x377F0; ENG blocks=0xC8150; ENG source rows=0xC8150#13; block_semantic_score=0.125124.

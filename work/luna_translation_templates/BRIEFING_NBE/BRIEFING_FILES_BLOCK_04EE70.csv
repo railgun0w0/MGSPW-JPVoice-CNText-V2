@@ -1,0 +1,107 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04EE70,0,stream=0x4E000;block=0xE70;text=0,"[""stream=0x4E000;block=0xE70;text=0""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]",,"もし、AIのモデルがボスじゃなかったら？
+","どういうことだ。
+",[],,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你没有用The Boss
+作为AI的模型呢？","[""如果你没有用The Boss\n作为AI的模型呢？""]","What if you hadn't used The Boss as the model for
+the AI?
+","[""What if you hadn't used The Boss as the model for\nthe AI?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#0; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,1,stream=0x4E000;block=0xE70;text=1,"[""stream=0x4E000;block=0xE70;text=1""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","もし、AIのモデルがボスじゃなかったら？
+","どういうことだ。
+","<R=相互確証破壊,MAD>を目的とするなら、もっとふさわしいモデル
+がいるだろう。軍の参謀、核技術者…それこそ大統領でも
+いいはずだ。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么意思？,"[""什么意思？""]","What do you mean?
+","[""What do you mean?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#1; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,2,stream=0x4E000;block=0xE70;text=2,"[""stream=0x4E000;block=0xE70;text=2""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","どういうことだ。
+","<R=相互確証破壊,MAD>を目的とするなら、もっとふさわしいモデル
+がいるだろう。軍の参謀、核技術者…それこそ大統領でも
+いいはずだ。
+","そんなことか…私に言わせれば、ザ・ボスこそが20世紀で
+最も完璧な人間だ。お前も異論はないだろう。
+","[""<R=相互確証破壊,MAD>""]",,,NOT_CHECKED,185,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果最终目标是相互确保摧毁，
+似乎还有更合适的模型。","[""如果最终目标是相互确保摧毁，\n似乎还有更合适的模型。""]","If the end goal is MAD, seems like there are more
+suitable models out there.
+","[""If the end goal is MAD, seems like there are more\nsuitable models out there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#2; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,3,stream=0x4E000;block=0xE70;text=3,"[""stream=0x4E000;block=0xE70;text=3""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","<R=相互確証破壊,MAD>を目的とするなら、もっとふさわしいモデル
+がいるだろう。軍の参謀、核技術者…それこそ大統領でも
+いいはずだ。
+","そんなことか…私に言わせれば、ザ・ボスこそが20世紀で
+最も完璧な人間だ。お前も異論はないだろう。
+","愛国心、統率力、判断力…彼女には全てが揃っていた。ど
+れも、核発射の判断に必要なもの。
+",[],,,NOT_CHECKED,142,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一位军队参谋长，
+或者核技术专家…甚至总统。","[""一位军队参谋长，\n或者核技术专家…甚至总统。""]","A military chief of staff, or a nuclear technician...
+even the President.
+","[""A military chief of staff, or a nuclear technician...\neven the President.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#3; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,4,stream=0x4E000;block=0xE70;text=4,"[""stream=0x4E000;block=0xE70;text=4""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","そんなことか…私に言わせれば、ザ・ボスこそが20世紀で
+最も完璧な人間だ。お前も異論はないだろう。
+","愛国心、統率力、判断力…彼女には全てが揃っていた。ど
+れも、核発射の判断に必要なもの。
+","それならば、大統領でも。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,爱国精神、领导力、良好的判断力…,"[""爱国精神、领导力、良好的判断力…""]","Patriotism, leadership, good judgment...
+","[""Patriotism, leadership, good judgment...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#4; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,5,stream=0x4E000;block=0xE70;text=5,"[""stream=0x4E000;block=0xE70;text=5""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","愛国心、統率力、判断力…彼女には全てが揃っていた。ど
+れも、核発射の判断に必要なもの。
+","それならば、大統領でも。
+","それだけじゃない。彼女には、意志があった。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,总统不也一样吗？,"[""总统不也一样吗？""]","Wouldn't the President, too?
+","[""Wouldn't the President, too?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#6; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,6,stream=0x4E000;block=0xE70;text=6,"[""stream=0x4E000;block=0xE70;text=6""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","それならば、大統領でも。
+","それだけじゃない。彼女には、意志があった。
+","意志？
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,光有这些还不够。她有那样的意志。,"[""光有这些还不够。她有那样的意志。""]","It's not enough. She had the will for it.
+","[""It's not enough. She had the will for it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#7; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,7,stream=0x4E000;block=0xE70;text=7,"[""stream=0x4E000;block=0xE70;text=7""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","それだけじゃない。彼女には、意志があった。
+","意志？
+","いいかスネーク。ピースウォーカーはスタンドアローンな
+兵器だ。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,意志？,"[""意志？""]","Will?
+","[""Will?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#8; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,8,stream=0x4E000;block=0xE70;text=8,"[""stream=0x4E000;block=0xE70;text=8""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","意志？
+","いいかスネーク。ピースウォーカーはスタンドアローンな
+兵器だ。
+","核を発射すべきかどうか、自分一人で判断しなくてはなら
+ない。誰にも相談できない。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听我说，Snake。
+和平行者是一件独立运作的武器。","[""听我说，Snake。\n和平行者是一件独立运作的武器。""]","Let me explain, Snake. Peace Walker is a
+stand-alone weapon.
+","[""Let me explain, Snake. Peace Walker is a\nstand-alone weapon.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#9; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,9,stream=0x4E000;block=0xE70;text=9,"[""stream=0x4E000;block=0xE70;text=9""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","いいかスネーク。ピースウォーカーはスタンドアローンな
+兵器だ。
+","核を発射すべきかどうか、自分一人で判断しなくてはなら
+ない。誰にも相談できない。
+","世界の運命を、たった一人で背負う覚悟がなければ、務ま
+らない。それができる人間を、私は彼女以外に知らない。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它必须自行决定是否发射核弹。,"[""它必须自行决定是否发射核弹。""]","It has to decide on its own whether or not to
+launch a nuke.
+","[""It has to decide on its own whether or not to\nlaunch a nuke.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#10; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,10,stream=0x4E000;block=0xE70;text=10,"[""stream=0x4E000;block=0xE70;text=10""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","核を発射すべきかどうか、自分一人で判断しなくてはなら
+ない。誰にも相談できない。
+","世界の運命を、たった一人で背負う覚悟がなければ、務ま
+らない。それができる人間を、私は彼女以外に知らない。
+","…それだけか？
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果它没有准备好独自承担世界命运的
+责任，就无法履行自己的职责。","[""如果它没有准备好独自承担世界命运的\n责任，就无法履行自己的职责。""]","It can't do its job if it's not prepared to take sole
+responsibility for the fate of the world.
+","[""It can't do its job if it's not prepared to take sole\nresponsibility for the fate of the world.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#12; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,11,stream=0x4E000;block=0xE70;text=11,"[""stream=0x4E000;block=0xE70;text=11""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","世界の運命を、たった一人で背負う覚悟がなければ、務ま
+らない。それができる人間を、私は彼女以外に知らない。
+","…それだけか？
+","もちろん、技術的な問題もある。AIがモデルにすべきなの
+は、そもそも女性の脳なんだ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…就这些？,"[""…就这些？""]","...That's it?
+","[""...That's it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#14; block_semantic_score=0.207586.
+BRIEFING_FILES_BLOCK_04EE70,12,stream=0x4E000;block=0xE70;text=12,"[""stream=0x4E000;block=0xE70;text=12""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","…それだけか？
+","もちろん、技術的な問題もある。AIがモデルにすべきなの
+は、そもそも女性の脳なんだ。
+","女性の脳？
+",[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当然，还有技术上的考量。
+首先，女性的大脑作为AI的模型更为合适。","[""当然，还有技术上的考量。\n首先，女性的大脑作为AI的模型更为合适。""]","There were technical considerations, of course. To
+begin with, the female brain
+is a more appropriate model for an AI.
+","[""There were technical considerations, of course. To\nbegin with, the female brain\nis a more appropriate model for an AI.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4EE70; ENG blocks=0xDC990,0xDC990; ENG source rows=0xDC990#15,0xDC990#16; block_semantic_score=0.207586."
+BRIEFING_FILES_BLOCK_04EE70,13,stream=0x4E000;block=0xE70;text=13,"[""stream=0x4E000;block=0xE70;text=13""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","もちろん、技術的な問題もある。AIがモデルにすべきなの
+は、そもそも女性の脳なんだ。
+","女性の脳？
+",,[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,等等…女性的大脑？,"[""等等…女性的大脑？""]","Wait...the female brain?
+","[""Wait...the female brain?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4EE70; ENG blocks=0xDC990; ENG source rows=0xDC990#17; block_semantic_score=0.207586.

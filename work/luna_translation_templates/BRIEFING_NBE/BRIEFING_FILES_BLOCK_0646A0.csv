@@ -1,0 +1,59 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0646A0,0,stream=0x64000;block=0x6A0;text=0,"[""stream=0x64000;block=0x6A0;text=0""]",1,BRIEFING FILES,"[""stream=0x64000;block=0x6A0;block_file=0x646A0;text_base=0x646DC;capacity=776""]",,"フランスが初めての核実験に成功したのは1960年、アル
+ジェリアのサハラ砂漠で。
+","フランスの科学者はマンハッタン計画にも大勢参加してい
+た。第二次大戦中、国を追われてアメリカに亡命してきた
+らしい。
+",[],,,NOT_CHECKED,111,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"1960年，法国在阿尔及利亚的
+撒哈拉沙漠成功进行了首次核试验。","[""1960年，法国在阿尔及利亚的\n撒哈拉沙漠成功进行了首次核试验。""]","France conducted its first successful nuclear test
+in the Algerian Sahara in 1960.
+","[""France conducted its first successful nuclear test\nin the Algerian Sahara in 1960.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x646A0; ENG blocks=0xEE040; ENG source rows=0xEE040#0; block_semantic_score=0.199664.
+BRIEFING_FILES_BLOCK_0646A0,1,stream=0x64000;block=0x6A0;text=1,"[""stream=0x64000;block=0x6A0;text=1""]",1,BRIEFING FILES,"[""stream=0x64000;block=0x6A0;block_file=0x646A0;text_base=0x646DC;capacity=776""]","フランスが初めての核実験に成功したのは1960年、アル
+ジェリアのサハラ砂漠で。
+","フランスの科学者はマンハッタン計画にも大勢参加してい
+た。第二次大戦中、国を追われてアメリカに亡命してきた
+らしい。
+","そう、その人たちが戦後、本国に戻って核開発を始めた。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,许多法国科学家参与了曼哈顿计划。,"[""许多法国科学家参与了曼哈顿计划。""]","A lot of French scientists took part in the
+Manhattan Project.
+","[""A lot of French scientists took part in the\nManhattan Project.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x646A0; ENG blocks=0xEE040; ENG source rows=0xEE040#1; block_semantic_score=0.199664.
+BRIEFING_FILES_BLOCK_0646A0,2,stream=0x64000;block=0x6A0;text=2,"[""stream=0x64000;block=0x6A0;text=2""]",1,BRIEFING FILES,"[""stream=0x64000;block=0x6A0;block_file=0x646A0;text_base=0x646DC;capacity=776""]","フランスの科学者はマンハッタン計画にも大勢参加してい
+た。第二次大戦中、国を追われてアメリカに亡命してきた
+らしい。
+","そう、その人たちが戦後、本国に戻って核開発を始めた。
+","アメリカの核の傘をあてにしなくていいように、ド・ゴー
+ル大統領は積極的だった。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们就回到了法国，
+继续自己的原子研究。","[""他们就回到了法国，\n继续自己的原子研究。""]","they returned to France and continued their own
+atomic research.
+","[""they returned to France and continued their own\natomic research.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x646A0; ENG blocks=0xEE040; ENG source rows=0xEE040#4; block_semantic_score=0.199664.
+BRIEFING_FILES_BLOCK_0646A0,3,stream=0x64000;block=0x6A0;text=3,"[""stream=0x64000;block=0x6A0;text=3""]",1,BRIEFING FILES,"[""stream=0x64000;block=0x6A0;block_file=0x646A0;text_base=0x646DC;capacity=776""]","そう、その人たちが戦後、本国に戻って核開発を始めた。
+","アメリカの核の傘をあてにしなくていいように、ド・ゴー
+ル大統領は積極的だった。
+","そしてフランスは第4の核保有国となった…。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"戴高乐总统不想依赖美国的
+核保护伞来保障安全。","[""戴高乐总统不想依赖美国的\n核保护伞来保障安全。""]","President de Gaulle did not want to have to rely
+on an American nuclear umbrella for protection.
+","[""President de Gaulle did not want to have to rely\non an American nuclear umbrella for protection.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x646A0; ENG blocks=0xEE040; ENG source rows=0xEE040#5; block_semantic_score=0.199664.
+BRIEFING_FILES_BLOCK_0646A0,4,stream=0x64000;block=0x6A0;text=4,"[""stream=0x64000;block=0x6A0;text=4""]",1,BRIEFING FILES,"[""stream=0x64000;block=0x6A0;block_file=0x646A0;text_base=0x646DC;capacity=776""]","アメリカの核の傘をあてにしなくていいように、ド・ゴー
+ル大統領は積極的だった。
+","そしてフランスは第4の核保有国となった…。
+","…核実験の成功がアルジェリアの反乱軍を鎮静化させたと
+も言われている。内戦は確かに食い止められた。
+",[],,,NOT_CHECKED,62,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这使法国成为世界上第四个核大国。,"[""这使法国成为世界上第四个核大国。""]","Thus making France the world's fourth nuclear
+power.
+","[""Thus making France the world's fourth nuclear\npower.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x646A0; ENG blocks=0xEE040; ENG source rows=0xEE040#6; block_semantic_score=0.199664.
+BRIEFING_FILES_BLOCK_0646A0,5,stream=0x64000;block=0x6A0;text=5,"[""stream=0x64000;block=0x6A0;text=5""]",1,BRIEFING FILES,"[""stream=0x64000;block=0x6A0;block_file=0x646A0;text_base=0x646DC;capacity=776""]","そしてフランスは第4の核保有国となった…。
+","…核実験の成功がアルジェリアの反乱軍を鎮静化させたと
+も言われている。内戦は確かに食い止められた。
+","だけど私は、核があるから平和だなんて思ったことはない。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有人说这次试验的成功镇住了
+阿尔及利亚的叛乱分子。","[""有人说这次试验的成功镇住了\n阿尔及利亚的叛乱分子。""]","Some say the test's success pacified the Algerian
+rebels.
+","[""Some say the test's success pacified the Algerian\nrebels.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x646A0; ENG blocks=0xEE040; ENG source rows=0xEE040#7; block_semantic_score=0.199664.
+BRIEFING_FILES_BLOCK_0646A0,6,stream=0x64000;block=0x6A0;text=6,"[""stream=0x64000;block=0x6A0;text=6""]",1,BRIEFING FILES,"[""stream=0x64000;block=0x6A0;block_file=0x646A0;text_base=0x646DC;capacity=776""]","…核実験の成功がアルジェリアの反乱軍を鎮静化させたと
+も言われている。内戦は確かに食い止められた。
+","だけど私は、核があるから平和だなんて思ったことはない。
+",,[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但我从不认为核武器等同于和平。,"[""但我从不认为核武器等同于和平。""]","But never have I equated nuclear weapons with
+peace.
+","[""But never have I equated nuclear weapons with\npeace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x646A0; ENG blocks=0xEE040; ENG source rows=0xEE040#9; block_semantic_score=0.199664.

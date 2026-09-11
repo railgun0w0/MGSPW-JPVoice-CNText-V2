@@ -1,0 +1,49 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_011B40,0,stream=0x11000;block=0xB40;text=0,"[""stream=0x11000;block=0xB40;text=0""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]",,"わかっていると思うが、敵との戦闘は可能な限り避けてく
+れ、スネーク。
+","ああ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你可能已经听过无数次了，Snake，但你应该尽量避免与敌人正面交战。,"[""你可能已经听过无数次了，Snake，但你应该尽量避免与敌人正面交战。""]","You've probably heard this a million times, Snake,
+but you should always avoid combat with the
+enemy when possible.
+","[""You've probably heard this a million times, Snake,\nbut you should always avoid combat with the\nenemy when possible.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x11B40; ENG blocks=0xA47A0,0xA47A0; ENG source rows=0xA47A0#0,0xA47A0#1; block_semantic_score=0.109118."
+BRIEFING_FILES_BLOCK_011B40,1,stream=0x11000;block=0xB40;text=1,"[""stream=0x11000;block=0xB40;text=1""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","わかっていると思うが、敵との戦闘は可能な限り避けてく
+れ、スネーク。
+","ああ。
+","こちらは少人数の上、土地鑑もない。本格的な戦闘になっ
+たら、いくらあんたでも苦戦は免れないだろう。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","Right.
+","[""Right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x11B40; ENG blocks=0xA47A0; ENG source rows=0xA47A0#2; block_semantic_score=0.109118.
+BRIEFING_FILES_BLOCK_011B40,2,stream=0x11000;block=0xB40;text=2,"[""stream=0x11000;block=0xB40;text=2""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","ああ。
+","こちらは少人数の上、土地鑑もない。本格的な戦闘になっ
+たら、いくらあんたでも苦戦は免れないだろう。
+","わかってる。戦闘回避は、スニーキング・ミッションの基
+本だ。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们寡不敌众，又身处陌生地带。即便有你助阵，
+正面硬碰硬我们也撑不了多久。","[""我们寡不敌众，又身处陌生地带。即便有你助阵，\n正面硬碰硬我们也撑不了多久。""]","We're outnumbered and in unfamiliar territory.
+We won't survive long in a straight fight, even with
+you on our side.
+","[""We're outnumbered and in unfamiliar territory.\nWe won't survive long in a straight fight, even with\nyou on our side.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x11B40; ENG blocks=0xA47A0,0xA47A0; ENG source rows=0xA47A0#3,0xA47A0#4; block_semantic_score=0.109118."
+BRIEFING_FILES_BLOCK_011B40,3,stream=0x11000;block=0xB40;text=3,"[""stream=0x11000;block=0xB40;text=3""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","こちらは少人数の上、土地鑑もない。本格的な戦闘になっ
+たら、いくらあんたでも苦戦は免れないだろう。
+","わかってる。戦闘回避は、スニーキング・ミッションの基
+本だ。
+","そうだな。敵に居場所をつかませず、必要な時のみ一撃離
+脱で敵に痛撃を与える…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我知道。潜入任务的第一条
+准则就是避免战斗。","[""我知道。潜入任务的第一条\n准则就是避免战斗。""]","I know. Avoiding combat is rule number one in a
+sneaking mission.
+","[""I know. Avoiding combat is rule number one in a\nsneaking mission.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x11B40; ENG blocks=0xA47A0; ENG source rows=0xA47A0#5; block_semantic_score=0.109118.
+BRIEFING_FILES_BLOCK_011B40,4,stream=0x11000;block=0xB40;text=4,"[""stream=0x11000;block=0xB40;text=4""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","わかってる。戦闘回避は、スニーキング・ミッションの基
+本だ。
+","そうだな。敵に居場所をつかませず、必要な時のみ一撃離
+脱で敵に痛撃を与える…。
+","これは、ゲリラ戦の要点でもある。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。别让敌人发现你的行踪，
+只在必要时攻击，","[""没错。别让敌人发现你的行踪，\n只在必要时攻击，""]","That's right. Don't let the enemy know where you
+are, and attack only when necessary,
+","[""That's right. Don't let the enemy know where you\nare, and attack only when necessary,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x11B40; ENG blocks=0xA47A0; ENG source rows=0xA47A0#6; block_semantic_score=0.109118.
+BRIEFING_FILES_BLOCK_011B40,5,stream=0x11000;block=0xB40;text=5,"[""stream=0x11000;block=0xB40;text=5""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","そうだな。敵に居場所をつかませず、必要な時のみ一撃離
+脱で敵に痛撃を与える…。
+","これは、ゲリラ戦の要点でもある。
+",,[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,用打了就跑的战术削弱他们…,"[""用打了就跑的战术削弱他们…""]","using hit-and-run tactics to cripple them...
+","[""using hit-and-run tactics to cripple them...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x11B40; ENG blocks=0xA47A0; ENG source rows=0xA47A0#7; block_semantic_score=0.109118.

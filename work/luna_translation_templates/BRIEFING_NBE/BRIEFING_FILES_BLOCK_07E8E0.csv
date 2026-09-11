@@ -1,0 +1,137 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_07E8E0,0,stream=0x7E000;block=0x8E0;text=0,"[""stream=0x7E000;block=0x8E0;text=0""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]",,"今日からあの男のマザーベースに住まわせてもらうことに
+なった。私にとっては、これからが本当の戦いだ。
+","ザドルノフに寄宿舎と奨学金を提供してもらっていたけれ
+ど、そのザドルノフは捕らえられてしまった。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从今天起，我就住在母基地了。
+我真正的考验现在才开始。","[""从今天起，我就住在母基地了。\n我真正的考验现在才开始。""]","As of today I will be living here at Mother Base.
+Now my real trial begins.
+","[""As of today I will be living here at Mother Base.\nNow my real trial begins.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#0; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,1,stream=0x7E000;block=0x8E0;text=1,"[""stream=0x7E000;block=0x8E0;text=1""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","今日からあの男のマザーベースに住まわせてもらうことに
+なった。私にとっては、これからが本当の戦いだ。
+","ザドルノフに寄宿舎と奨学金を提供してもらっていたけれ
+ど、そのザドルノフは捕らえられてしまった。
+","KGBからの資金が流れてこなくなった以上、学校に通うこ
+とはできない。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Zadornov一直在替我付房租、
+伙食费和学费，","[""Zadornov一直在替我付房租、\n伙食费和学费，""]","Zadornov was paying my room, board, and tuition,
+","[""Zadornov was paying my room, board, and tuition,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#1; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,2,stream=0x7E000;block=0x8E0;text=2,"[""stream=0x7E000;block=0x8E0;text=2""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","ザドルノフに寄宿舎と奨学金を提供してもらっていたけれ
+ど、そのザドルノフは捕らえられてしまった。
+","KGBからの資金が流れてこなくなった以上、学校に通うこ
+とはできない。
+","…そんな嘘にあの男は同情し、マザーベースで働きたいと
+いう私を受け入れてくれた。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我告诉那人，既然
+克格勃(KGB)不再给钱，我就供不起自己上学了。","[""我告诉那人，既然\n克格勃(KGB)不再给钱，我就供不起自己上学了。""]","I told the man that with no more money from the
+KGB,
+I could no longer afford school.
+","[""I told the man that with no more money from the\nKGB,\nI could no longer afford school.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0,0x10A6E0; ENG source rows=0x10A6E0#3,0x10A6E0#4; block_semantic_score=0.136577."
+BRIEFING_FILES_BLOCK_07E8E0,3,stream=0x7E000;block=0x8E0;text=3,"[""stream=0x7E000;block=0x8E0;text=3""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","KGBからの資金が流れてこなくなった以上、学校に通うこ
+とはできない。
+","…そんな嘘にあの男は同情し、マザーベースで働きたいと
+いう私を受け入れてくれた。
+","ミラーがなぜか強く押してくれたというのもあるが、なん
+にせよ愚かな男だ。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不知为何，Miller非常帮我说话。那倒是帮了忙，可那人终究是个傻瓜。,"[""不知为何，Miller非常帮我说话。那倒是帮了忙，可那人终究是个傻瓜。""]","For some reason Miller really plead my case.
+That was helpful, but the man is still a fool.
+","[""For some reason Miller really plead my case.\nThat was helpful, but the man is still a fool.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0,0x10A6E0; ENG source rows=0x10A6E0#7,0x10A6E0#8; block_semantic_score=0.136577."
+BRIEFING_FILES_BLOCK_07E8E0,4,stream=0x7E000;block=0x8E0;text=4,"[""stream=0x7E000;block=0x8E0;text=4""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","…そんな嘘にあの男は同情し、マザーベースで働きたいと
+いう私を受け入れてくれた。
+","ミラーがなぜか強く押してくれたというのもあるが、なん
+にせよ愚かな男だ。
+","部下の兵士達も低能揃いだ。訓練などして力を得ているつ
+もりらしいが、そんなものは真の力の前には無に等しい。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们以为接受过训练就算强大，,"[""他们以为接受过训练就算强大，""]","They think their training makes them strong,
+","[""They think their training makes them strong,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#10; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,5,stream=0x7E000;block=0x8E0;text=5,"[""stream=0x7E000;block=0x8E0;text=5""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","ミラーがなぜか強く押してくれたというのもあるが、なん
+にせよ愚かな男だ。
+","部下の兵士達も低能揃いだ。訓練などして力を得ているつ
+もりらしいが、そんなものは真の力の前には無に等しい。
+","おまけに10代の女子学生という肩書きだけでチヤホヤして
+くれる。おかげで仕事がしやすそうだ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可那种力量在真正的
+实力面前一文不值。","[""可那种力量在真正的\n实力面前一文不值。""]","but that kind of strength is nothing in the face of
+true power.
+","[""but that kind of strength is nothing in the face of\ntrue power.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#11; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,6,stream=0x7E000;block=0x8E0;text=6,"[""stream=0x7E000;block=0x8E0;text=6""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","部下の兵士達も低能揃いだ。訓練などして力を得ているつ
+もりらしいが、そんなものは真の力の前には無に等しい。
+","おまけに10代の女子学生という肩書きだけでチヤホヤして
+くれる。おかげで仕事がしやすそうだ。
+","先ほど居住区を偵察していたところ、甲板の片隅で兵士達
+が盛り上がっていた。近づいて様子を見ると、猫にエサを
+あげているところだった。
+",[],,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,以为我只是个女学生。,"[""以为我只是个女学生。""]","believing I am just a schoolgirl.
+","[""believing I am just a schoolgirl.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#13; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,7,stream=0x7E000;block=0x8E0;text=7,"[""stream=0x7E000;block=0x8E0;text=7""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","おまけに10代の女子学生という肩書きだけでチヤホヤして
+くれる。おかげで仕事がしやすそうだ。
+","先ほど居住区を偵察していたところ、甲板の片隅で兵士達
+が盛り上がっていた。近づいて様子を見ると、猫にエサを
+あげているところだった。
+","「可愛いなぁ」なんて、いい歳した男たちが何をしてるん
+だか…。
+",[],,,NOT_CHECKED,195,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我去侦察生活区的时候，,"[""我去侦察生活区的时候，""]","while scouting out the living quarters,
+","[""while scouting out the living quarters,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#16; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,8,stream=0x7E000;block=0x8E0;text=8,"[""stream=0x7E000;block=0x8E0;text=8""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","先ほど居住区を偵察していたところ、甲板の片隅で兵士達
+が盛り上がっていた。近づいて様子を見ると、猫にエサを
+あげているところだった。
+","「可愛いなぁ」なんて、いい歳した男たちが何をしてるん
+だか…。
+","呆れつつも、同意を求められたらうなずくしかない。
+<R=役割を演じる,ロールプレイ>必要がある。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“看，它多可爱啊？”
+他们到底有什么毛病？","[""“看，它多可爱啊？”\n他们到底有什么毛病？""]","""Look, isn't he cute?"" What is wrong with them?
+","[""\""Look, isn't he cute?\"" What is wrong with them?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#20; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,9,stream=0x7E000;block=0x8E0;text=9,"[""stream=0x7E000;block=0x8E0;text=9""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","「可愛いなぁ」なんて、いい歳した男たちが何をしてるん
+だか…。
+","呆れつつも、同意を求められたらうなずくしかない。
+<R=役割を演じる,ロールプレイ>必要がある。
+","適当に話を合わせていると、兵士の1人が猫に名前を付け
+るよう求めてきた。親離れしたばかりで、まだ名前も決ま
+ってないらしい。
+","[""<R=役割を演じる,ロールプレイ>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我满心厌恶，只是点点头笑了笑。毕竟，我得继续演好这个角色。我陪着他们闲聊了一会儿，,"[""我满心厌恶，只是点点头笑了笑。毕竟，我得继续演好这个角色。我陪着他们闲聊了一会儿，""]","Disgusted, I just nodded and smiled.
+I must stay in character, after all.
+I indulged their chit-chat for a few moments,
+","[""Disgusted, I just nodded and smiled.\nI must stay in character, after all.\nI indulged their chit-chat for a few moments,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0,0x10A6E0,0x10A6E0; ENG source rows=0x10A6E0#21,0x10A6E0#22,0x10A6E0#23; block_semantic_score=0.136577."
+BRIEFING_FILES_BLOCK_07E8E0,10,stream=0x7E000;block=0x8E0;text=10,"[""stream=0x7E000;block=0x8E0;text=10""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","呆れつつも、同意を求められたらうなずくしかない。
+<R=役割を演じる,ロールプレイ>必要がある。
+","適当に話を合わせていると、兵士の1人が猫に名前を付け
+るよう求めてきた。親離れしたばかりで、まだ名前も決ま
+ってないらしい。
+","私はその子猫に『ニューク』という名前を付けてやった。
+",[],,,NOT_CHECKED,181,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后其中有个人让我
+给那东西起个名字。","[""然后其中有个人让我\n给那东西起个名字。""]","then one of them asked me to give the thing a
+name.
+","[""then one of them asked me to give the thing a\nname.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#24; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,11,stream=0x7E000;block=0x8E0;text=11,"[""stream=0x7E000;block=0x8E0;text=11""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","適当に話を合わせていると、兵士の1人が猫に名前を付け
+るよう求めてきた。親離れしたばかりで、まだ名前も決ま
+ってないらしい。
+","私はその子猫に『ニューク』という名前を付けてやった。
+","「生き物を思いやる気持ちが戦争への抑止力になる」なん
+て、心にもないことを言いながら。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们刚把它从母猫身边带走。我给它取名叫“核弹”。,"[""他们刚把它从母猫身边带走。我给它取名叫“核弹”。""]","They had just taken it from its mother.
+I named it Nuke.
+","[""They had just taken it from its mother.\nI named it Nuke.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0,0x10A6E0; ENG source rows=0x10A6E0#25,0x10A6E0#26; block_semantic_score=0.136577."
+BRIEFING_FILES_BLOCK_07E8E0,12,stream=0x7E000;block=0x8E0;text=12,"[""stream=0x7E000;block=0x8E0;text=12""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","私はその子猫に『ニューク』という名前を付けてやった。
+","「生き物を思いやる気持ちが戦争への抑止力になる」なん
+て、心にもないことを言いながら。
+","兵士達からもらった小魚を手のひらに載せると、子猫は嬉
+しそうにそれを食べた。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“我们对生灵的同情心，
+有助于防止战争。”","[""“我们对生灵的同情心，\n有助于防止战争。”""]","""our compassion for living things can help prevent
+wars.""
+","[""\""our compassion for living things can help prevent\nwars.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#28; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,13,stream=0x7E000;block=0x8E0;text=13,"[""stream=0x7E000;block=0x8E0;text=13""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","「生き物を思いやる気持ちが戦争への抑止力になる」なん
+て、心にもないことを言いながら。
+","兵士達からもらった小魚を手のひらに載せると、子猫は嬉
+しそうにそれを食べた。
+","なんて愚かで…無力なのだろう。虫酸が走る。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那些人给了我一条小鱼。,"[""那些人给了我一条小鱼。""]","The men gave me a little fish.
+","[""The men gave me a little fish.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#29; block_semantic_score=0.136577.
+BRIEFING_FILES_BLOCK_07E8E0,14,stream=0x7E000;block=0x8E0;text=14,"[""stream=0x7E000;block=0x8E0;text=14""]",1,BRIEFING FILES,"[""stream=0x7E000;block=0x8E0;block_file=0x7E8E0;text_base=0x7E93C;capacity=1908""]","兵士達からもらった小魚を手のひらに載せると、子猫は嬉
+しそうにそれを食べた。
+","なんて愚かで…無力なのだろう。虫酸が走る。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我把它托在掌心里，
+小猫开心地吃了个精光。","[""我把它托在掌心里，\n小猫开心地吃了个精光。""]","I held it out in my palm, and the kitten happily ate
+it up.
+","[""I held it out in my palm, and the kitten happily ate\nit up.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7E8E0; ENG blocks=0x10A6E0; ENG source rows=0x10A6E0#30; block_semantic_score=0.136577.

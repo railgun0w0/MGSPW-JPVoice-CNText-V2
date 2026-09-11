@@ -1,0 +1,120 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04D7E0,0,stream=0x4D000;block=0x7E0;text=0,"[""stream=0x4D000;block=0x7E0;text=0""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]",,"“The Ghost in the Machine”とは、どういう意味
+だ。
+","ああ…あれはギルバート・ライルという哲学者の言葉だ。
+",[],,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你说「机器中的幽灵」是什么意思？,"[""你说「机器中的幽灵」是什么意思？""]","What did you mean by ""the Ghost in the Machine""?
+","[""What did you mean by \""the Ghost in the Machine\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#0; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,1,stream=0x4D000;block=0x7E0;text=1,"[""stream=0x4D000;block=0x7E0;text=1""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","“The Ghost in the Machine”とは、どういう意味
+だ。
+","ああ…あれはギルバート・ライルという哲学者の言葉だ。
+","デカルトは知っているな？
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哦，那个啊…是哲学家
+吉尔伯特·赖尔创造的术语。","[""哦，那个啊…是哲学家\n吉尔伯特·赖尔创造的术语。""]","Oh, that... It's a term coined by the philosopher
+Gilbert Ryle.
+","[""Oh, that... It's a term coined by the philosopher\nGilbert Ryle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#1; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,2,stream=0x4D000;block=0x7E0;text=2,"[""stream=0x4D000;block=0x7E0;text=2""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","ああ…あれはギルバート・ライルという哲学者の言葉だ。
+","デカルトは知っているな？
+","『我思う、故に我在り』…。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你听说过笛卡尔，对吧？,"[""你听说过笛卡尔，对吧？""]","You've heard of Descartes, yes?
+","[""You've heard of Descartes, yes?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#2; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,3,stream=0x4D000;block=0x7E0;text=3,"[""stream=0x4D000;block=0x7E0;text=3""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","デカルトは知っているな？
+","『我思う、故に我在り』…。
+","そう。心身二元論を唱えた哲学者。「思う」心は、物理法
+則に支配された身体とは別の次元にある。デカルトはそう
+考えた。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“我思故我在…”,"[""“我思故我在…”""]","""I think, therefore I am...""
+","[""\""I think, therefore I am...\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#3; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,4,stream=0x4D000;block=0x7E0;text=4,"[""stream=0x4D000;block=0x7E0;text=4""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","『我思う、故に我在り』…。
+","そう。心身二元論を唱えた哲学者。「思う」心は、物理法
+則に支配された身体とは別の次元にある。デカルトはそう
+考えた。
+","だがこれが本当なら、「身体」という<R=機械,マシン>に「心」という<R=幽霊,ゴースト>
+が宿ったものが人間、ということになりはしないか？
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而身体则受物理定律支配。,"[""而身体则受物理定律支配。""]","which are governed by the laws of physics.
+","[""which are governed by the laws of physics.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#6; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,5,stream=0x4D000;block=0x7E0;text=5,"[""stream=0x4D000;block=0x7E0;text=5""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","そう。心身二元論を唱えた哲学者。「思う」心は、物理法
+則に支配された身体とは別の次元にある。デカルトはそう
+考えた。
+","だがこれが本当なら、「身体」という<R=機械,マシン>に「心」という<R=幽霊,ゴースト>
+が宿ったものが人間、ということになりはしないか？
+","人間とはそんなものではないはずだ…ライルはそう批判し
+たんだ。
+","[""<R=機械,マシン>"", ""<R=幽霊,ゴースト>""]",,,NOT_CHECKED,189,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但如果那是真的，那能不能说，
+一个机械的“身体”被幽灵般的“心灵”
+所寄居，就是人类呢？","[""但如果那是真的，那能不能说，\n一个机械的“身体”被幽灵般的“心灵”\n所寄居，就是人类呢？""]","But if that were true, then couldn't you say that a
+mechanical ""body""
+inhabited by a ghost ""mind"" is a human being?
+","[""But if that were true, then couldn't you say that a\nmechanical \""body\""\ninhabited by a ghost \""mind\"" is a human being?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4D7E0; ENG blocks=0xE0230,0xE0230; ENG source rows=0xE0230#7,0xE0230#8; block_semantic_score=0.243525."
+BRIEFING_FILES_BLOCK_04D7E0,6,stream=0x4D000;block=0x7E0;text=6,"[""stream=0x4D000;block=0x7E0;text=6""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","だがこれが本当なら、「身体」という<R=機械,マシン>に「心」という<R=幽霊,ゴースト>
+が宿ったものが人間、ということになりはしないか？
+","人間とはそんなものではないはずだ…ライルはそう批判し
+たんだ。
+","なぜ、それをあんたが？
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,赖尔正是基于这些理由批评笛卡尔，说这样的东西肯定不是人类。,"[""赖尔正是基于这些理由批评笛卡尔，说这样的东西肯定不是人类。""]","Ryle criticized Descartes on those grounds,
+saying such a thing surely wouldn't be human.
+","[""Ryle criticized Descartes on those grounds,\nsaying such a thing surely wouldn't be human.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4D7E0; ENG blocks=0xE0230,0xE0230; ENG source rows=0xE0230#9,0xE0230#10; block_semantic_score=0.243525."
+BRIEFING_FILES_BLOCK_04D7E0,7,stream=0x4D000;block=0x7E0;text=7,"[""stream=0x4D000;block=0x7E0;text=7""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","人間とはそんなものではないはずだ…ライルはそう批判し
+たんだ。
+","なぜ、それをあんたが？
+","別にライルを意識して言ったわけじゃない。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你为什么要提这个？,"[""你为什么要提这个？""]","Why'd you bring it up?
+","[""Why'd you bring it up?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#11; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,8,stream=0x4D000;block=0x7E0;text=8,"[""stream=0x4D000;block=0x7E0;text=8""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","なぜ、それをあんたが？
+","別にライルを意識して言ったわけじゃない。
+","人間が<R=機械,マシン>と<R=幽霊,ゴースト>で成り立っているなら、逆もあるかも知
+れない。そう思っただけ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我说那句话时，并没有特别想到赖尔。,"[""我说那句话时，并没有特别想到赖尔。""]","I wasn't thinking of Ryle in particular when I said it.
+","[""I wasn't thinking of Ryle in particular when I said it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#12; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,9,stream=0x4D000;block=0x7E0;text=9,"[""stream=0x4D000;block=0x7E0;text=9""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","別にライルを意識して言ったわけじゃない。
+","人間が<R=機械,マシン>と<R=幽霊,ゴースト>で成り立っているなら、逆もあるかも知
+れない。そう思っただけ。
+","<R=機械,マシン>の中に<R=霊魂,ゴースト>を宿らせることで、あるいは人が生まれる
+んじゃないか、とね。
+","[""<R=機械,マシン>"", ""<R=幽霊,ゴースト>""]",,,NOT_CHECKED,147,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我只是想，如果一个人是
+由机器和幽灵构成的，那么反过来也许也成立。","[""我只是想，如果一个人是\n由机器和幽灵构成的，那么反过来也许也成立。""]","I simply thought that if a person is composed of a
+machine and a ghost,
+perhaps the opposite is true as well.
+","[""I simply thought that if a person is composed of a\nmachine and a ghost,\nperhaps the opposite is true as well.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4D7E0; ENG blocks=0xE0230,0xE0230; ENG source rows=0xE0230#13,0xE0230#14; block_semantic_score=0.243525."
+BRIEFING_FILES_BLOCK_04D7E0,10,stream=0x4D000;block=0x7E0;text=10,"[""stream=0x4D000;block=0x7E0;text=10""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","人間が<R=機械,マシン>と<R=幽霊,ゴースト>で成り立っているなら、逆もあるかも知
+れない。そう思っただけ。
+","<R=機械,マシン>の中に<R=霊魂,ゴースト>を宿らせることで、あるいは人が生まれる
+んじゃないか、とね。
+","それが、ザ・ボスのAIだったと？
+","[""<R=機械,マシン>"", ""<R=霊魂,ゴースト>""]",,,NOT_CHECKED,141,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许把幽灵放进机器里，
+我们实际上就能创造出一个新的人。","[""也许把幽灵放进机器里，\n我们实际上就能创造出一个新的人。""]","Perhaps by placing a ghost inside a machine, we
+could in effect give birth to a new person.
+","[""Perhaps by placing a ghost inside a machine, we\ncould in effect give birth to a new person.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#15; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,11,stream=0x4D000;block=0x7E0;text=11,"[""stream=0x4D000;block=0x7E0;text=11""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","<R=機械,マシン>の中に<R=霊魂,ゴースト>を宿らせることで、あるいは人が生まれる
+んじゃないか、とね。
+","それが、ザ・ボスのAIだったと？
+","あの時、記憶板はおまえに抜かれ、ママルポッドは停止し
+ていた。動くはずがない。
+",[],,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那就是你对Boss AI的想法？,"[""那就是你对Boss AI的想法？""]","And that was your idea for the Boss AI?
+","[""And that was your idea for the Boss AI?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#16; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,12,stream=0x4D000;block=0x7E0;text=12,"[""stream=0x4D000;block=0x7E0;text=12""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","それが、ザ・ボスのAIだったと？
+","あの時、記憶板はおまえに抜かれ、ママルポッドは停止し
+ていた。動くはずがない。
+","にも関わらず、ピースウォーカーは立ち上がった。平和の
+歌を歌いながら。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你拔出记忆板的那一刻，
+哺乳舱就停止了运作。","[""你拔出记忆板的那一刻，\n哺乳舱就停止了运作。""]","The moment you ripped the memory board out, the
+Mammal Pod ceased to function.
+","[""The moment you ripped the memory board out, the\nMammal Pod ceased to function.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#17; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,13,stream=0x4D000;block=0x7E0;text=13,"[""stream=0x4D000;block=0x7E0;text=13""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","あの時、記憶板はおまえに抜かれ、ママルポッドは停止し
+ていた。動くはずがない。
+","にも関わらず、ピースウォーカーは立ち上がった。平和の
+歌を歌いながら。
+","あの時、ピースウォーカーに彼女の魂が宿っていた…私に
+はそう思えてならなかった。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然而和平行者却自行恢复，
+唱起了和平之歌。","[""然而和平行者却自行恢复，\n唱起了和平之歌。""]","And yet Peace Walker righted itself, singing a song
+of peace.
+","[""And yet Peace Walker righted itself, singing a song\nof peace.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#19; block_semantic_score=0.243525.
+BRIEFING_FILES_BLOCK_04D7E0,14,stream=0x4D000;block=0x7E0;text=14,"[""stream=0x4D000;block=0x7E0;text=14""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x7E0;block_file=0x4D7E0;text_base=0x4D83C;capacity=1456""]","にも関わらず、ピースウォーカーは立ち上がった。平和の
+歌を歌いながら。
+","あの時、ピースウォーカーに彼女の魂が宿っていた…私に
+はそう思えてならなかった。
+",,[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不禁感到…她的灵魂已经
+住进了和平行者之中。","[""我不禁感到…她的灵魂已经\n住进了和平行者之中。""]","I couldn't help but feel... that her soul had come to
+inhabit Peace Walker.
+","[""I couldn't help but feel... that her soul had come to\ninhabit Peace Walker.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4D7E0; ENG blocks=0xE0230; ENG source rows=0xE0230#20; block_semantic_score=0.243525.

@@ -1,0 +1,133 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_072E10,0,stream=0x72000;block=0xE10;text=0,"[""stream=0x72000;block=0xE10;text=0""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]",,"あの手紙、ストレンジラブに渡してくれたかい？
+","…いや。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你把那封信交给
+Dr. Strangelove了吗？","[""你把那封信交给\nDr. Strangelove了吗？""]","Did you give that letter to Dr. Strangelove?
+","[""Did you give that letter to Dr. Strangelove?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#0; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,1,stream=0x72000;block=0xE10;text=1,"[""stream=0x72000;block=0xE10;text=1""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","あの手紙、ストレンジラブに渡してくれたかい？
+","…いや。
+","どうしてさ。大切な内容なんだ。ちゃんと渡してもらわな
+いと。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…呃，没有。,"[""…呃，没有。""]","...Uh, no.
+","[""...Uh, no.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#1; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,2,stream=0x72000;block=0xE10;text=2,"[""stream=0x72000;block=0xE10;text=2""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","…いや。
+","どうしてさ。大切な内容なんだ。ちゃんと渡してもらわな
+いと。
+","すまん。とてもそんな機会がなくてな。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为什么没有？我把它交给你是有
+原因的。这是非常重要的情报。","[""为什么没有？我把它交给你是有\n原因的。这是非常重要的情报。""]","Why not? I gave it to you for a reason. It's highly
+important information.
+","[""Why not? I gave it to you for a reason. It's highly\nimportant information.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#2; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,3,stream=0x72000;block=0xE10;text=3,"[""stream=0x72000;block=0xE10;text=3""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","どうしてさ。大切な内容なんだ。ちゃんと渡してもらわな
+いと。
+","すまん。とてもそんな機会がなくてな。
+","今度会ったら、必ず渡してくれよ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,抱歉。我确实没什么机会去当邮差。,"[""抱歉。我确实没什么机会去当邮差。""]","Sorry. I didn't exactly have an opportunity to play
+postman.
+","[""Sorry. I didn't exactly have an opportunity to play\npostman.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#3; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,4,stream=0x72000;block=0xE10;text=4,"[""stream=0x72000;block=0xE10;text=4""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","すまん。とてもそんな機会がなくてな。
+","今度会ったら、必ず渡してくれよ。
+","あ、ああ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那下次你见到她时，一定要交给她。,"[""那下次你见到她时，一定要交给她。""]","Well, next time you see her, make sure she gets it.
+","[""Well, next time you see her, make sure she gets it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#4; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,5,stream=0x72000;block=0xE10;text=5,"[""stream=0x72000;block=0xE10;text=5""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","今度会ったら、必ず渡してくれよ。
+","あ、ああ。
+","あれなら渡さないほうがマシだと思うが…。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦，好，当然。,"[""哦，好，当然。""]","Oh, yeah, sure.
+","[""Oh, yeah, sure.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#5; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,6,stream=0x72000;block=0xE10;text=6,"[""stream=0x72000;block=0xE10;text=6""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","あ、ああ。
+","あれなら渡さないほうがマシだと思うが…。
+","スネーク！
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她没收到的话，对你更好…,"[""她没收到的话，对你更好…""]","Better for you if she doesn't...
+","[""Better for you if she doesn't...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#6; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,7,stream=0x72000;block=0xE10;text=7,"[""stream=0x72000;block=0xE10;text=7""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","あれなら渡さないほうがマシだと思うが…。
+","スネーク！
+","な、なんだ？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake！,"[""Snake！""]","Snake!
+","[""Snake!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#7; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,8,stream=0x72000;block=0xE10;text=8,"[""stream=0x72000;block=0xE10;text=8""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","スネーク！
+","な、なんだ？
+","君、ひょっとしてあの手紙…読んだのかい？
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？,"[""什么？""]","What?
+","[""What?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#8; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,9,stream=0x72000;block=0xE10;text=9,"[""stream=0x72000;block=0xE10;text=9""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","な、なんだ？
+","君、ひょっとしてあの手紙…読んだのかい？
+","い、いや…。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,告诉我你没看那封信。没…没有…,"[""告诉我你没看那封信。没…没有…""]","Tell me you didn't read the letter.
+N-no...
+","[""Tell me you didn't read the letter.\nN-no...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x72E10; ENG blocks=0xFF000,0xFF000; ENG source rows=0xFF000#9,0xFF000#10; block_semantic_score=0.060487."
+BRIEFING_FILES_BLOCK_072E10,10,stream=0x72000;block=0xE10;text=10,"[""stream=0x72000;block=0xE10;text=10""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","君、ひょっとしてあの手紙…読んだのかい？
+","い、いや…。
+","読んだんだね！？
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你看了！,"[""你看了！""]","You did!
+","[""You did!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#11; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,11,stream=0x72000;block=0xE10;text=11,"[""stream=0x72000;block=0xE10;text=11""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","い、いや…。
+","読んだんだね！？
+","どんな情報が作戦の成否を分けるかわからないだろう？
+だから…。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我是说…,"[""我是说…""]","I mean...
+","[""I mean...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#12; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,12,stream=0x72000;block=0xE10;text=12,"[""stream=0x72000;block=0xE10;text=12""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","読んだんだね！？
+","どんな情報が作戦の成否を分けるかわからないだろう？
+だから…。
+","読んだって言うのか、人の手紙を。僕は読むなって言った
+のに！
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你永远不知道什么样的情报
+会影响行动的结果，对吧？","[""你永远不知道什么样的情报\n会影响行动的结果，对吧？""]","You never know what kind of information could
+affect the outcome of an operation, right?
+","[""You never know what kind of information could\naffect the outcome of an operation, right?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#13; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,13,stream=0x72000;block=0xE10;text=13,"[""stream=0x72000;block=0xE10;text=13""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","どんな情報が作戦の成否を分けるかわからないだろう？
+だから…。
+","読んだって言うのか、人の手紙を。僕は読むなって言った
+のに！
+","いや…読むなって言われればなおさら…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…你叫别人别去看某样东西的时候，
+你指望他们会怎么做…？","[""…你叫别人别去看某样东西的时候，\n你指望他们会怎么做…？""]","...What do you expect people to do when you tell
+them not to read something...?
+","[""...What do you expect people to do when you tell\nthem not to read something...?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#16; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,14,stream=0x72000;block=0xE10;text=14,"[""stream=0x72000;block=0xE10;text=14""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","読んだって言うのか、人の手紙を。僕は読むなって言った
+のに！
+","いや…読むなって言われればなおさら…。
+","見損なったよスネーク！！　君がそんな人だったとはね。
+とんだ見込み違いだった。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我本以为我了解你，Snake！
+我本以为我可以信任你！！","[""我本以为我了解你，Snake！\n我本以为我可以信任你！！""]","I thought I knew you, Snake! I thought I could trust
+you!!
+","[""I thought I knew you, Snake! I thought I could trust\nyou!!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#17; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,15,stream=0x72000;block=0xE10;text=15,"[""stream=0x72000;block=0xE10;text=15""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","いや…読むなって言われればなおさら…。
+","見損なったよスネーク！！　君がそんな人だったとはね。
+とんだ見込み違いだった。
+","…悪かった。しかし一体、あの博士のどこがいいんだ？
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但现在看来是我错了！,"[""但现在看来是我错了！""]","But now I see I was wrong!
+","[""But now I see I was wrong!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#18; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,16,stream=0x72000;block=0xE10;text=16,"[""stream=0x72000;block=0xE10;text=16""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","見損なったよスネーク！！　君がそんな人だったとはね。
+とんだ見込み違いだった。
+","…悪かった。しかし一体、あの博士のどこがいいんだ？
+","君みたいな野蛮人にはわからないよ。人の手紙を盗み見る
+ような輩にはね！
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…听着，我很抱歉。
+但我就是不明白你看上她哪一点。","[""…听着，我很抱歉。\n但我就是不明白你看上她哪一点。""]","...Look, I'm sorry. But I just don't get what you see
+in her.
+","[""...Look, I'm sorry. But I just don't get what you see\nin her.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#19; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,17,stream=0x72000;block=0xE10;text=17,"[""stream=0x72000;block=0xE10;text=17""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","…悪かった。しかし一体、あの博士のどこがいいんだ？
+","君みたいな野蛮人にはわからないよ。人の手紙を盗み見る
+ような輩にはね！
+","じゃあ、自分で渡せばいいだろう。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，一个擅自拆开他人私人
+信件的野蛮人，我可不指望他","[""嗯，一个擅自拆开他人私人\n信件的野蛮人，我可不指望他""]","Well, I wouldn't expect a barbarian who opens
+","[""Well, I wouldn't expect a barbarian who opens\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#20; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,18,stream=0x72000;block=0xE10;text=18,"[""stream=0x72000;block=0xE10;text=18""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","君みたいな野蛮人にはわからないよ。人の手紙を盗み見る
+ような輩にはね！
+","じゃあ、自分で渡せばいいだろう。
+","えっ！？　あ、いやその、それは…無理だ…。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那好。你自己去送吧。,"[""那好。你自己去送吧。""]","Fine, then. Deliver it yourself.
+","[""Fine, then. Deliver it yourself.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#22; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,19,stream=0x72000;block=0xE10;text=19,"[""stream=0x72000;block=0xE10;text=19""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","じゃあ、自分で渡せばいいだろう。
+","えっ！？　あ、いやその、それは…無理だ…。
+","前途多難だな、ヒューイ…。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,啊？！不…不，我…不行，我绝对不行…,"[""啊？！不…不，我…不行，我绝对不行…""]","Huh?! N-no, I... No way, I could never...
+","[""Huh?! N-no, I... No way, I could never...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#23; block_semantic_score=0.060487.
+BRIEFING_FILES_BLOCK_072E10,20,stream=0x72000;block=0xE10;text=20,"[""stream=0x72000;block=0xE10;text=20""]",1,BRIEFING FILES,"[""stream=0x72000;block=0xE10;block_file=0x72E10;text_base=0x72E84;capacity=1200""]","えっ！？　あ、いやその、それは…無理だ…。
+","前途多難だな、ヒューイ…。
+",,[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你还差得远呢，Huey…,"[""你还差得远呢，Huey…""]","You've got a long way to go, Huey...
+","[""You've got a long way to go, Huey...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x72E10; ENG blocks=0xFF000; ENG source rows=0xFF000#24; block_semantic_score=0.060487.

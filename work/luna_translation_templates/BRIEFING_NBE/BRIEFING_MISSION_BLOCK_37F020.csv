@@ -1,0 +1,107 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37F020,0,stream=0x37F000;block=0x20;text=0,"[""stream=0x37F000;block=0x20;text=0""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]",,"スネーク、僕たちのメタルギア<R=ZEKE,ジーク>に、
+AIポッドが搭載された。
+","AIの調整に手間取ってたんだけど、ストレンジラブ
+博士のおかげで、なんとかカタが付いた。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,100,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake，我们给ZEKE
+装上了专属的AI舱。","[""Snake，我们给ZEKE\n装上了专属的AI舱。""]","Snake, we fitted ZEKE with its own AI Pod.
+","[""Snake, we fitted ZEKE with its own AI Pod.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#0; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,1,stream=0x37F000;block=0x20;text=1,"[""stream=0x37F000;block=0x20;text=1""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","スネーク、僕たちのメタルギア<R=ZEKE,ジーク>に、
+AIポッドが搭載された。
+","AIの調整に手間取ってたんだけど、ストレンジラブ
+博士のおかげで、なんとかカタが付いた。
+","あの博士が？
+",[],,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我们原本在调整AI时遇到了麻烦，,"[""我们原本在调整AI时遇到了麻烦，""]","We were having trouble adjusting the AI,
+","[""We were having trouble adjusting the AI,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#1; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,2,stream=0x37F000;block=0x20;text=2,"[""stream=0x37F000;block=0x20;text=2""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","AIの調整に手間取ってたんだけど、ストレンジラブ
+博士のおかげで、なんとかカタが付いた。
+","あの博士が？
+","どうしたスネーク？　驚くこともないだろう。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但Strangelove博士让
+它成功启动并运行了。","[""但Strangelove博士让\n它成功启动并运行了。""]","but Dr. Strangelove was able to get it up
+and running.
+","[""but Dr. Strangelove was able to get it up\nand running.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#2; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,3,stream=0x37F000;block=0x20;text=3,"[""stream=0x37F000;block=0x20;text=3""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","あの博士が？
+","どうしたスネーク？　驚くこともないだろう。
+","…いいのか？　俺達は『国境なき軍隊』だ。
+国家の介入に対する抑止力が必要だ。
+それが<R=ZEKE,ジーク>だ。場合によっては…。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有这么惊讶吗，Snake？,"[""有这么惊讶吗，Snake？""]","Why the surprise, Snake?
+","[""Why the surprise, Snake?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#4; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,4,stream=0x37F000;block=0x20;text=4,"[""stream=0x37F000;block=0x20;text=4""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","どうしたスネーク？　驚くこともないだろう。
+","…いいのか？　俺達は『国境なき軍隊』だ。
+国家の介入に対する抑止力が必要だ。
+それが<R=ZEKE,ジーク>だ。場合によっては…。
+","抑止力自体を否定したわけではない。
+国家が抑止力に頼るのが問題なんだ。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这个…我们是一支没有国境的军队。我们需要一种对抗外国干预的
+威慑力量——这就是ZEKE存在的意义。","[""这个…我们是一支没有国境的军队。我们需要一种对抗外国干预的\n威慑力量——这就是ZEKE存在的意义。""]","Well... We're an army without borders.
+We need a deterrent against foreign
+intervention - that's what ZEKE is for.
+","[""Well... We're an army without borders.\nWe need a deterrent against foreign\nintervention - that's what ZEKE is for.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37F020; ENG blocks=0x3945B0,0x3945B0; ENG source rows=0x3945B0#5,0x3945B0#6; block_semantic_score=0.240973."
+BRIEFING_MISSION_BLOCK_37F020,5,stream=0x37F000;block=0x20;text=5,"[""stream=0x37F000;block=0x20;text=5""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","…いいのか？　俺達は『国境なき軍隊』だ。
+国家の介入に対する抑止力が必要だ。
+それが<R=ZEKE,ジーク>だ。場合によっては…。
+","抑止力自体を否定したわけではない。
+国家が抑止力に頼るのが問題なんだ。
+","国家が抑止力に依存すると、国民の共同体であるはず
+の国家という組織が、国民に犠牲を強いるようになる。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"问题在于当一个国家
+开始依赖它的时候。","[""问题在于当一个国家\n开始依赖它的时候。""]","The problem is when a nation comes to
+rely on it.
+","[""The problem is when a nation comes to\nrely on it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#9; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,6,stream=0x37F000;block=0x20;text=6,"[""stream=0x37F000;block=0x20;text=6""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","抑止力自体を否定したわけではない。
+国家が抑止力に頼るのが問題なんだ。
+","国家が抑止力に依存すると、国民の共同体であるはず
+の国家という組織が、国民に犠牲を強いるようになる。
+","そもそも国家という存在自体が、人間にとって害悪な
+んだ。だから私は、国家に帰属しないMSFに可能性
+を感じている。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那只会把负担强加给国民…而正是这些国民构成了国家本身。国家的存在对人类是有害的。,"[""那只会把负担强加给国民…而正是这些国民构成了国家本身。国家的存在对人类是有害的。""]","All that does is force a burden on its
+people...
+the same people that constitute the
+nation itself.
+The existence of nations is detrimental to
+man.
+","[""All that does is force a burden on its\npeople...\nthe same people that constitute the\nnation itself.\nThe existence of nations is detrimental to\nman.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x37F020; ENG blocks=0x3945B0,0x3945B0,0x3945B0; ENG source rows=0x3945B0#10,0x3945B0#11,0x3945B0#12; block_semantic_score=0.240973."
+BRIEFING_MISSION_BLOCK_37F020,7,stream=0x37F000;block=0x20;text=7,"[""stream=0x37F000;block=0x20;text=7""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","国家が抑止力に依存すると、国民の共同体であるはず
+の国家という組織が、国民に犠牲を強いるようになる。
+","そもそも国家という存在自体が、人間にとって害悪な
+んだ。だから私は、国家に帰属しないMSFに可能性
+を感じている。
+","だが、お前たちが国家と距離を置くためには、
+やはり力が必要だろう。
+そのための協力は、惜しまないつもりだ。
+",[],,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以身为一个没有国家的人，
+我在MSF身上看到了可能性。","[""所以身为一个没有国家的人，\n我在MSF身上看到了可能性。""]","That's why I, one without a nation, see
+potential in MSF.
+","[""That's why I, one without a nation, see\npotential in MSF.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#13; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,8,stream=0x37F000;block=0x20;text=8,"[""stream=0x37F000;block=0x20;text=8""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","そもそも国家という存在自体が、人間にとって害悪な
+んだ。だから私は、国家に帰属しないMSFに可能性
+を感じている。
+","だが、お前たちが国家と距離を置くためには、
+やはり力が必要だろう。
+そのための協力は、惜しまないつもりだ。
+","…それはありがたい話だ。
+",[],,,NOT_CHECKED,156,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但要想远离国家，你需要力量。,"[""但要想远离国家，你需要力量。""]","But power is required for you to distance
+yourself from nations.
+","[""But power is required for you to distance\nyourself from nations.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#14; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,9,stream=0x37F000;block=0x20;text=9,"[""stream=0x37F000;block=0x20;text=9""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","だが、お前たちが国家と距離を置くためには、
+やはり力が必要だろう。
+そのための協力は、惜しまないつもりだ。
+","…それはありがたい話だ。
+","それと、私はあくまでヒューイの手助けをしただけだ。
+<R=ZEKE,ジーク>に“彼女”のようなAIを、搭載する気はない。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会尽全力协助你获得力量。,"[""我会尽全力协助你获得力量。""]","I will do whatever I can to assist with that.
+","[""I will do whatever I can to assist with that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#15; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,10,stream=0x37F000;block=0x20;text=10,"[""stream=0x37F000;block=0x20;text=10""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","…それはありがたい話だ。
+","それと、私はあくまでヒューイの手助けをしただけだ。
+<R=ZEKE,ジーク>に“彼女”のようなAIを、搭載する気はない。
+","ああ、それでいい。
+","[""<R=ZEKE,ジーク>""]",,,NOT_CHECKED,157,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不会给ZEKE装上像她那样的AI。,"[""我不会给ZEKE装上像她那样的AI。""]","I will not give ZEKE an AI like hers.
+","[""I will not give ZEKE an AI like hers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#18; block_semantic_score=0.240973.
+BRIEFING_MISSION_BLOCK_37F020,11,stream=0x37F000;block=0x20;text=11,"[""stream=0x37F000;block=0x20;text=11""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x20;block_file=0x37F020;text_base=0x37F070;capacity=1292""]","それと、私はあくまでヒューイの手助けをしただけだ。
+<R=ZEKE,ジーク>に“彼女”のようなAIを、搭載する気はない。
+","ああ、それでいい。
+",,[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我也不会指望你这么做。,"[""我也不会指望你这么做。""]","I wouldn't expect you to.
+","[""I wouldn't expect you to.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37F020; ENG blocks=0x3945B0; ENG source rows=0x3945B0#19; block_semantic_score=0.240973.

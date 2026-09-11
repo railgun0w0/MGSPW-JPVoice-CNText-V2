@@ -1,0 +1,92 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_034100,0,stream=0x34000;block=0x100;text=0,"[""stream=0x34000;block=0x100;text=0""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]",,"あの巨大なヘリを、お前達は“オンブレ・ヌエボ”と呼ん
+でいたが…。
+","ああ、“オンブレ・ヌエボ”は「新しい人間」という意味
+よ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你把那架巨大的直升机叫做""新人类""…","[""你把那架巨大的直升机叫做\""新人类\""…""]","You called that giant chopper an ""hombre nuevo""...
+","[""You called that giant chopper an \""hombre nuevo\""...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#0; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,1,stream=0x34000;block=0x100;text=1,"[""stream=0x34000;block=0x100;text=1""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","あの巨大なヘリを、お前達は“オンブレ・ヌエボ”と呼ん
+でいたが…。
+","ああ、“オンブレ・ヌエボ”は「新しい人間」という意味
+よ。
+","「新しい人間」？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的。意思是""新人类""。","[""是的。意思是\""新人类\""。""]","Si. It means ""new man.""
+","[""Si. It means \""new man.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#1; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,2,stream=0x34000;block=0x100;text=2,"[""stream=0x34000;block=0x100;text=2""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","ああ、“オンブレ・ヌエボ”は「新しい人間」という意味
+よ。
+","「新しい人間」？
+","あのヘリには、人が乗ってないの。多分、機械が動かして
+る。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"""新人类""？","[""\""新人类\""？""]","""New man""?
+","[""\""New man\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#2; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,3,stream=0x34000;block=0x100;text=3,"[""stream=0x34000;block=0x100;text=3""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","「新しい人間」？
+","あのヘリには、人が乗ってないの。多分、機械が動かして
+る。
+","そうらしいな。だからこそ、あんな無茶な機動もできる。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那东西没有驾驶员。
+一定是由机器控制的。","[""那东西没有驾驶员。\n一定是由机器控制的。""]","There was nobody piloting that thing. It must be
+controlled by machine.
+","[""There was nobody piloting that thing. It must be\ncontrolled by machine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#3; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,4,stream=0x34000;block=0x100;text=4,"[""stream=0x34000;block=0x100;text=4""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","あのヘリには、人が乗ってないの。多分、機械が動かして
+る。
+","そうらしいな。だからこそ、あんな無茶な機動もできる。
+","でも、それにしては頭のいい動きをする。歌も歌う。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，看来是这样。
+没有人能做出那些疯狂的动作。","[""是啊，看来是这样。\n没有人能做出那些疯狂的动作。""]","Yeah, it seems that way. No human being could pull
+off those crazy maneuvers.
+","[""Yeah, it seems that way. No human being could pull\noff those crazy maneuvers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#4; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,5,stream=0x34000;block=0x100;text=5,"[""stream=0x34000;block=0x100;text=5""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","そうらしいな。だからこそ、あんな無茶な機動もできる。
+","でも、それにしては頭のいい動きをする。歌も歌う。
+","それを見て、隊の誰かが「<R=新しい人間,オンブレ・ヌエボ>が乗ってる」って言
+い出してね。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但它并不疯狂——
+它很聪明。它还会唱歌。","[""但它并不疯狂——\n它很聪明。它还会唱歌。""]","But it's not crazy - it's smart. It sings, too.
+","[""But it's not crazy - it's smart. It sings, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#5; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,6,stream=0x34000;block=0x100;text=6,"[""stream=0x34000;block=0x100;text=6""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","でも、それにしては頭のいい動きをする。歌も歌う。
+","それを見て、隊の誰かが「<R=新しい人間,オンブレ・ヌエボ>が乗ってる」って言
+い出してね。
+","あたしはその呼び方、気に入らないんだけど。
+","[""<R=新しい人間,オンブレ・ヌエボ>""]",,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们第一次看到它时，我的一个人说，
+“驾驶员一定是个新人类。”","[""我们第一次看到它时，我的一个人说，\n“驾驶员一定是个新人类。”""]","When we first saw it, one of my men said, ""Pilot
+must be an hombre nuevo.""
+","[""When we first saw it, one of my men said, \""Pilot\nmust be an hombre nuevo.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#6; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,7,stream=0x34000;block=0x100;text=7,"[""stream=0x34000;block=0x100;text=7""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","それを見て、隊の誰かが「<R=新しい人間,オンブレ・ヌエボ>が乗ってる」って言
+い出してね。
+","あたしはその呼び方、気に入らないんだけど。
+","なぜ。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我，我不喜欢这个名字。,"[""我，我不喜欢这个名字。""]","Me, I do not like the name.
+","[""Me, I do not like the name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#7; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,8,stream=0x34000;block=0x100;text=8,"[""stream=0x34000;block=0x100;text=8""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","あたしはその呼び方、気に入らないんだけど。
+","なぜ。
+","だって、「<R=新しい人間,オンブレ・ヌエボ>」は、ゲバラが目指した姿じゃない
+の。<R=FSLN,サンディニスタ>に集うものの目標よ。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为什么？,"[""为什么？""]","Why?
+","[""Why?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#8; block_semantic_score=0.105130.
+BRIEFING_FILES_BLOCK_034100,9,stream=0x34000;block=0x100;text=9,"[""stream=0x34000;block=0x100;text=9""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","なぜ。
+","だって、「<R=新しい人間,オンブレ・ヌエボ>」は、ゲバラが目指した姿じゃない
+の。<R=FSLN,サンディニスタ>に集うものの目標よ。
+","モラルと、自発的な労働に喜びを見いだす、「新しい人間」
+…その名をあんな化物にくれてやるのは、悔しくて。
+","[""<R=新しい人間,オンブレ・ヌエボ>"", ""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,175,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"""新人类""是切努力想要成为的样子。是我们所有加入桑地诺的人努力
+想要成为的样子。这就是为什么！","[""\""新人类\""是切努力想要成为的样子。是我们所有加入桑地诺的人努力\n想要成为的样子。这就是为什么！""]","""Hombre nuevo"" was what El Che was striving to
+become.
+What all of us who joined the Sandinistas strive to
+become. That's why!
+","[""\""Hombre nuevo\"" was what El Che was striving to\nbecome.\nWhat all of us who joined the Sandinistas strive to\nbecome. That's why!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x34100; ENG blocks=0xC4BB0,0xC4BB0; ENG source rows=0xC4BB0#9,0xC4BB0#10; block_semantic_score=0.105130."
+BRIEFING_FILES_BLOCK_034100,10,stream=0x34000;block=0x100;text=10,"[""stream=0x34000;block=0x100;text=10""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","だって、「<R=新しい人間,オンブレ・ヌエボ>」は、ゲバラが目指した姿じゃない
+の。<R=FSLN,サンディニスタ>に集うものの目標よ。
+","モラルと、自発的な労働に喜びを見いだす、「新しい人間」
+…その名をあんな化物にくれてやるのは、悔しくて。
+","違いない。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"新人类是在美德和自愿
+劳动中找到快乐的人…看到那个名字被赋予这样
+一个怪物，我愤怒极了。","[""新人类是在美德和自愿\n劳动中找到快乐的人…看到那个名字被赋予这样\n一个怪物，我愤怒极了。""]","An hombre nuevo is one who finds joy in virtue
+and voluntary labor...
+It makes me furious to see the name given to such
+a monster.
+","[""An hombre nuevo is one who finds joy in virtue\nand voluntary labor...\nIt makes me furious to see the name given to such\na monster.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x34100; ENG blocks=0xC4BB0,0xC4BB0; ENG source rows=0xC4BB0#11,0xC4BB0#12; block_semantic_score=0.105130."
+BRIEFING_FILES_BLOCK_034100,11,stream=0x34000;block=0x100;text=11,"[""stream=0x34000;block=0x100;text=11""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","モラルと、自発的な労働に喜びを見いだす、「新しい人間」
+…その名をあんな化物にくれてやるのは、悔しくて。
+","違いない。
+",,[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我打赌。,"[""我打赌。""]","I'll bet.
+","[""I'll bet.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x34100; ENG blocks=0xC4BB0; ENG source rows=0xC4BB0#13; block_semantic_score=0.105130.

@@ -1,0 +1,11 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_379E90,0,stream=0x379000;block=0xE90;text=0,"[""stream=0x379000;block=0xE90;text=0""]",1,d6020_m0390_mrd,"[""stream=0x379000;block=0xE90;block_file=0x379E90;text_base=0x379EB8;capacity=120""]",,"スネーク。
+拘留していたザドルノフが姿を消した。
+","ザドルノフを見つけ出してくれ！
+",[],,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，Zadornov已经逃脱监禁了。,"[""Snake，Zadornov已经逃脱监禁了。""]","Snake, Zadornov has escaped custody.
+","[""Snake, Zadornov has escaped custody.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379E90; ENG blocks=0x3906D0; ENG source rows=0x3906D0#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_379E90,1,stream=0x379000;block=0xE90;text=1,"[""stream=0x379000;block=0xE90;text=1""]",1,d6020_m0390_mrd,"[""stream=0x379000;block=0xE90;block_file=0x379E90;text_base=0x379EB8;capacity=120""]","スネーク。
+拘留していたザドルノフが姿を消した。
+","ザドルノフを見つけ出してくれ！
+",,[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,找到他！,"[""找到他！""]","Find him!
+","[""Find him!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x379E90; ENG blocks=0x3906D0; ENG source rows=0x3906D0#1; block_semantic_score=1.000000.

@@ -1,0 +1,93 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_027FF0,0,stream=0x27000;block=0xFF0;text=0,"[""stream=0x27000;block=0xFF0;text=0""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]",,"今は一人で暮らしているのか？
+","ううん。中等学校に入学してからは、学校の寄宿舎に入っ
+てるの。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那你现在是一个人住吗？,"[""那你现在是一个人住吗？""]","So you live alone now?
+","[""So you live alone now?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#0; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,1,stream=0x27000;block=0xFF0;text=1,"[""stream=0x27000;block=0xFF0;text=1""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","今は一人で暮らしているのか？
+","ううん。中等学校に入学してからは、学校の寄宿舎に入っ
+てるの。
+","お母さんが死んでからは親戚の家に引き取られたんだけど
+…やっぱり、本当の家族じゃないから。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，不是一个人。
+我从上初中起就一直住校舍。","[""不，不是一个人。\n我从上初中起就一直住校舍。""]","No, not alone. I've been living in school dormitories
+since I started junior high.
+","[""No, not alone. I've been living in school dormitories\nsince I started junior high.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#1; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,2,stream=0x27000;block=0xFF0;text=2,"[""stream=0x27000;block=0xFF0;text=2""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","ううん。中等学校に入学してからは、学校の寄宿舎に入っ
+てるの。
+","お母さんが死んでからは親戚の家に引き取られたんだけど
+…やっぱり、本当の家族じゃないから。
+","居心地が悪かったか？
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我母亲去世后，亲戚收养了我，
+但是…他们并不是我的家人。","[""我母亲去世后，亲戚收养了我，\n但是…他们并不是我的家人。""]","After my mother died, my relatives took me in,
+but... they were not my real family.
+","[""After my mother died, my relatives took me in,\nbut... they were not my real family.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#2; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,3,stream=0x27000;block=0xFF0;text=3,"[""stream=0x27000;block=0xFF0;text=3""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","お母さんが死んでからは親戚の家に引き取られたんだけど
+…やっぱり、本当の家族じゃないから。
+","居心地が悪かったか？
+","そうね…。おばさんたちは私の前では優しかったけど…。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你在那儿格格不入吗？,"[""你在那儿格格不入吗？""]","You didn't fit in there?
+","[""You didn't fit in there?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#3; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,4,stream=0x27000;block=0xFF0;text=4,"[""stream=0x27000;block=0xFF0;text=4""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","居心地が悪かったか？
+","そうね…。おばさんたちは私の前では優しかったけど…。
+","でも、急に子供を引き取ることになって、やっぱり困って
+たんだと思うの。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,某种程度吧…我的姨妈们对我都挺好…,"[""某种程度吧…我的姨妈们对我都挺好…""]","In a way... My aunts were kind to me and all...
+","[""In a way... My aunts were kind to me and all...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#4; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,5,stream=0x27000;block=0xFF0;text=5,"[""stream=0x27000;block=0xFF0;text=5""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","そうね…。おばさんたちは私の前では優しかったけど…。
+","でも、急に子供を引き取ることになって、やっぱり困って
+たんだと思うの。
+","一緒に暮らしてたら隠し事なんて出来ない。やっぱり私が
+迷惑をかけているというのはわかったから…。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我知道，突然让一个孩子硬
+挤进她们的生活，有多困难。","[""但我知道，突然让一个孩子硬\n挤进她们的生活，有多困难。""]","But I know how difficult it must have been to
+suddenly have a child thrust into their lives.
+","[""But I know how difficult it must have been to\nsuddenly have a child thrust into their lives.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#5; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,6,stream=0x27000;block=0xFF0;text=6,"[""stream=0x27000;block=0xFF0;text=6""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","でも、急に子供を引き取ることになって、やっぱり困って
+たんだと思うの。
+","一緒に暮らしてたら隠し事なんて出来ない。やっぱり私が
+迷惑をかけているというのはわかったから…。
+","苦労したようだな。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"跟别人一起生活，就没有秘密可言。我能感觉到我的存在
+给她们带来了负担…","[""跟别人一起生活，就没有秘密可言。我能感觉到我的存在\n给她们带来了负担…""]","When you live with someone, there are no secrets.
+I could tell my being there was a burden on them...
+","[""When you live with someone, there are no secrets.\nI could tell my being there was a burden on them...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x27FF0; ENG blocks=0xB95F0,0xB95F0; ENG source rows=0xB95F0#6,0xB95F0#7; block_semantic_score=0.134893."
+BRIEFING_FILES_BLOCK_027FF0,7,stream=0x27000;block=0xFF0;text=7,"[""stream=0x27000;block=0xFF0;text=7""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","一緒に暮らしてたら隠し事なんて出来ない。やっぱり私が
+迷惑をかけているというのはわかったから…。
+","苦労したようだな。
+","ううん。引き取ってくれる人がいただけで有り難かった。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听起来你的童年很不容易。,"[""听起来你的童年很不容易。""]","Sounds like a rough childhood.
+","[""Sounds like a rough childhood.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#8; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,8,stream=0x27000;block=0xFF0;text=8,"[""stream=0x27000;block=0xFF0;text=8""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","苦労したようだな。
+","ううん。引き取ってくれる人がいただけで有り難かった。
+","<R=私生児,バスタード>の中には母親が死んでストリートチルドレンになる
+子もいるし、内戦が多い国はもっとひどい。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我倒不这么觉得。有人肯收留我，
+我已经很幸运了。","[""我倒不这么觉得。有人肯收留我，\n我已经很幸运了。""]","I would not say that. I was lucky just to have
+people to take me in.
+","[""I would not say that. I was lucky just to have\npeople to take me in.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#9; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,9,stream=0x27000;block=0xFF0;text=9,"[""stream=0x27000;block=0xFF0;text=9""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","ううん。引き取ってくれる人がいただけで有り難かった。
+","<R=私生児,バスタード>の中には母親が死んでストリートチルドレンになる
+子もいるし、内戦が多い国はもっとひどい。
+","この程度で不幸とは言えないわ。
+","[""<R=私生児,バスタード>""]",,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有些失去母亲的孤儿流落街头。在内战频繁的国家，情况还要更糟。,"[""有些失去母亲的孤儿流落街头。在内战频繁的国家，情况还要更糟。""]","There are huérfanos living out in the streets
+because their mothers died.
+It is even worse in countries with frequent civil
+wars.
+","[""There are huérfanos living out in the streets\nbecause their mothers died.\nIt is even worse in countries with frequent civil\nwars.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x27FF0; ENG blocks=0xB95F0,0xB95F0; ENG source rows=0xB95F0#10,0xB95F0#11; block_semantic_score=0.134893."
+BRIEFING_FILES_BLOCK_027FF0,10,stream=0x27000;block=0xFF0;text=10,"[""stream=0x27000;block=0xFF0;text=10""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","<R=私生児,バスタード>の中には母親が死んでストリートチルドレンになる
+子もいるし、内戦が多い国はもっとひどい。
+","この程度で不幸とは言えないわ。
+","君は強いんだな。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以，我有什么资格
+抱怨自己的童年呢？","[""所以，我有什么资格\n抱怨自己的童年呢？""]","So who am I to complain about my childhood?
+","[""So who am I to complain about my childhood?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#12; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,11,stream=0x27000;block=0xFF0;text=11,"[""stream=0x27000;block=0xFF0;text=11""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","この程度で不幸とは言えないわ。
+","君は強いんだな。
+","…ううん。強くなんてない。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你是个相当坚强的孩子，知道吗？,"[""你是个相当坚强的孩子，知道吗？""]","You're a pretty tough kid, you know?
+","[""You're a pretty tough kid, you know?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#13; block_semantic_score=0.134893.
+BRIEFING_FILES_BLOCK_027FF0,12,stream=0x27000;block=0xFF0;text=12,"[""stream=0x27000;block=0xFF0;text=12""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","君は強いんだな。
+","…ううん。強くなんてない。
+",,[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…一点都没有。我一点都不坚强。,"[""…一点都没有。我一点都不坚强。""]","...Not at all. I am not strong at all.
+","[""...Not at all. I am not strong at all.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x27FF0; ENG blocks=0xB95F0; ENG source rows=0xB95F0#14; block_semantic_score=0.134893.

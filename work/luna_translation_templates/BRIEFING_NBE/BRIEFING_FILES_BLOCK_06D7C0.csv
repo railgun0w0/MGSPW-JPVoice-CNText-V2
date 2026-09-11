@@ -1,0 +1,117 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06D7C0,0,stream=0x6D000;block=0x7C0;text=0,"[""stream=0x6D000;block=0x7C0;text=0""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]",,"ピースウォーカーに使われている二足歩行技術は、東側の
+研究を参考にしている。
+","…いや、正直に言おう。基礎アイデアの大半は盗用なんだ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和平行者所用的双足步行技术，
+是以苏联的研究为基础开发的。","[""和平行者所用的双足步行技术，\n是以苏联的研究为基础开发的。""]","I based the bipedal locomotion technology used in
+Peace Walker on Soviet research.
+","[""I based the bipedal locomotion technology used in\nPeace Walker on Soviet research.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#0; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,1,stream=0x6D000;block=0x7C0;text=1,"[""stream=0x6D000;block=0x7C0;text=1""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","ピースウォーカーに使われている二足歩行技術は、東側の
+研究を参考にしている。
+","…いや、正直に言おう。基礎アイデアの大半は盗用なんだ。
+","東側…二足歩行…もしや、グラーニン？
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这背后的基本构想，
+大部分都是我偷来的。","[""这背后的基本构想，\n大部分都是我偷来的。""]","I stole most of the basic ideas behind it.
+","[""I stole most of the basic ideas behind it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#2; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,2,stream=0x6D000;block=0x7C0;text=2,"[""stream=0x6D000;block=0x7C0;text=2""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","…いや、正直に言おう。基礎アイデアの大半は盗用なんだ。
+","東側…二足歩行…もしや、グラーニン？
+","彼を知っているのか？
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,苏联…双足…你是说Granin。,"[""苏联…双足…你是说Granin。""]","Soviet... Bipedal... You mean Granin.
+","[""Soviet... Bipedal... You mean Granin.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#3; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,3,stream=0x6D000;block=0x7C0;text=3,"[""stream=0x6D000;block=0x7C0;text=3""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","東側…二足歩行…もしや、グラーニン？
+","彼を知っているのか？
+","ああ。ソ連の研究所で会った。ちょっとした世話にもなっ
+た。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你认识他？,"[""你认识他？""]","You know him?
+","[""You know him?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#4; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,4,stream=0x6D000;block=0x7C0;text=4,"[""stream=0x6D000;block=0x7C0;text=4""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","彼を知っているのか？
+","ああ。ソ連の研究所で会った。ちょっとした世話にもなっ
+た。
+","会ったって、君は一体…？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"认识。我在俄罗斯他的实验室
+里见过他。他帮了我一点忙。","[""认识。我在俄罗斯他的实验室\n里见过他。他帮了我一点忙。""]","Yeah. I met him at his lab in Russia. He helped me
+out a little bit.
+","[""Yeah. I met him at his lab in Russia. He helped me\nout a little bit.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#5; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,5,stream=0x6D000;block=0x7C0;text=5,"[""stream=0x6D000;block=0x7C0;text=5""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","ああ。ソ連の研究所で会った。ちょっとした世話にもなっ
+た。
+","会ったって、君は一体…？
+","ソ連の兵器を数多く生み出した、グラーニン設計局の局長
+…奴の研究なら、合点がいく。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你见过他？你怎么会…？,"[""你见过他？你怎么会…？""]","You met him? What were you...?
+","[""You met him? What were you...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#6; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,6,stream=0x6D000;block=0x7C0;text=6,"[""stream=0x6D000;block=0x7C0;text=6""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","会ったって、君は一体…？
+","ソ連の兵器を数多く生み出した、グラーニン設計局の局長
+…奴の研究なら、合点がいく。
+","当時僕の研究は、壁にぶつかっていてね…グラーニンのア
+イデアは、そのほとんどを解決してくれたんだ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他是Granin设计局的局长，
+设计过无数苏联武器…","[""他是Granin设计局的局长，\n设计过无数苏联武器…""]","He was the head of the Granin Design Bureau,
+creator of countless Soviet weapons....
+","[""He was the head of the Granin Design Bureau,\ncreator of countless Soviet weapons....\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#7; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,7,stream=0x6D000;block=0x7C0;text=7,"[""stream=0x6D000;block=0x7C0;text=7""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","ソ連の兵器を数多く生み出した、グラーニン設計局の局長
+…奴の研究なら、合点がいく。
+","当時僕の研究は、壁にぶつかっていてね…グラーニンのア
+イデアは、そのほとんどを解決してくれたんだ。
+","他人の研究結果を参考に自分の研究を発展させるのは、お
+かしくはないんじゃないのか？
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当时我的研究遇到了瓶颈…Granin的构想几乎
+解决了我的全部问题。","[""当时我的研究遇到了瓶颈…Granin的构想几乎\n解决了我的全部问题。""]","I'd hit a wall in my research at the time...
+Granin's ideas solved nearly all my problems.
+","[""I'd hit a wall in my research at the time...\nGranin's ideas solved nearly all my problems.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0,0xF9FC0; ENG source rows=0xF9FC0#8,0xF9FC0#9; block_semantic_score=0.170874."
+BRIEFING_FILES_BLOCK_06D7C0,8,stream=0x6D000;block=0x7C0;text=8,"[""stream=0x6D000;block=0x7C0;text=8""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","当時僕の研究は、壁にぶつかっていてね…グラーニンのア
+イデアは、そのほとんどを解決してくれたんだ。
+","他人の研究結果を参考に自分の研究を発展させるのは、お
+かしくはないんじゃないのか？
+","出典を明らかにすればね。だが、それはできない相談だっ
+た。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"利用别人的研究成果来推进自己的
+研究，没什么不正常的吧？","[""利用别人的研究成果来推进自己的\n研究，没什么不正常的吧？""]","There's nothing unusual about using somebody
+else's work to further your own research, is there?
+","[""There's nothing unusual about using somebody\nelse's work to further your own research, is there?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#10; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,9,stream=0x6D000;block=0x7C0;text=9,"[""stream=0x6D000;block=0x7C0;text=9""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","他人の研究結果を参考に自分の研究を発展させるのは、お
+かしくはないんじゃないのか？
+","出典を明らかにすればね。だが、それはできない相談だっ
+た。
+","彼の研究は、最高レベルの軍事機密だ。それも敵国の。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只要标明出处，确实没什么。
+但我当时没有条件那么做。","[""只要标明出处，确实没什么。\n但我当时没有条件那么做。""]","As long as you cite it, yeah. But I wasn't in a
+position to do that.
+","[""As long as you cite it, yeah. But I wasn't in a\nposition to do that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#11; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,10,stream=0x6D000;block=0x7C0;text=10,"[""stream=0x6D000;block=0x7C0;text=10""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","出典を明らかにすればね。だが、それはできない相談だっ
+た。
+","彼の研究は、最高レベルの軍事機密だ。それも敵国の。
+","だから、黙って使ったのか。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他的研究是最高机密。而且
+还是不折不扣的苏联研究。","[""他的研究是最高机密。而且\n还是不折不扣的苏联研究。""]","His research was classified at the highest level.
+Soviet research, no less.
+","[""His research was classified at the highest level.\nSoviet research, no less.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#12; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,11,stream=0x6D000;block=0x7C0;text=11,"[""stream=0x6D000;block=0x7C0;text=11""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","彼の研究は、最高レベルの軍事機密だ。それも敵国の。
+","だから、黙って使ったのか。
+","僕は学会の連中を見返してやりたかったんだ！　…僕を馬
+鹿にした、あの連中を。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以你就瞒着所有人，把它拿来用了？,"[""所以你就瞒着所有人，把它拿来用了？""]","So you used it without telling anybody?
+","[""So you used it without telling anybody?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#13; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,12,stream=0x6D000;block=0x7C0;text=12,"[""stream=0x6D000;block=0x7C0;text=12""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","だから、黙って使ったのか。
+","僕は学会の連中を見返してやりたかったんだ！　…僕を馬
+鹿にした、あの連中を。
+","でも、自業自得だね。その弱みをコールドマンに握られた。
+ピースウォーカーの研究をやめるなら、盗用をバラすって。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我当时就想让那些同事也难堪一次…
+那些从来不把我当回事的人！","[""我当时就想让那些同事也难堪一次…\n那些从来不把我当回事的人！""]","I wanted to show up my colleagues for once... The
+ones who never took me seriously!
+","[""I wanted to show up my colleagues for once... The\nones who never took me seriously!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#14; block_semantic_score=0.170874.
+BRIEFING_FILES_BLOCK_06D7C0,13,stream=0x6D000;block=0x7C0;text=13,"[""stream=0x6D000;block=0x7C0;text=13""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","僕は学会の連中を見返してやりたかったんだ！　…僕を馬
+鹿にした、あの連中を。
+","でも、自業自得だね。その弱みをコールドマンに握られた。
+ピースウォーカーの研究をやめるなら、盗用をバラすって。
+","はめられたな、博士。
+",[],,,NOT_CHECKED,164,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但种什么因，得什么果。Coldman抓住了这个弱点——
+说如果我退出项目，他就揭发我剽窃。","[""但种什么因，得什么果。Coldman抓住了这个弱点——\n说如果我退出项目，他就揭发我剽窃。""]","But you reap what you sow.
+Coldman seized on that vulnerability - told me if I
+quit the project, he'd expose my larceny.
+","[""But you reap what you sow.\nColdman seized on that vulnerability - told me if I\nquit the project, he'd expose my larceny.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0,0xF9FC0; ENG source rows=0xF9FC0#15,0xF9FC0#16; block_semantic_score=0.170874."
+BRIEFING_FILES_BLOCK_06D7C0,14,stream=0x6D000;block=0x7C0;text=14,"[""stream=0x6D000;block=0x7C0;text=14""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","でも、自業自得だね。その弱みをコールドマンに握られた。
+ピースウォーカーの研究をやめるなら、盗用をバラすって。
+","はめられたな、博士。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他把你拿捏得死死的，博士。,"[""他把你拿捏得死死的，博士。""]","He had you by the balls, Doc.
+","[""He had you by the balls, Doc.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6D7C0; ENG blocks=0xF9FC0; ENG source rows=0xF9FC0#17; block_semantic_score=0.170874.

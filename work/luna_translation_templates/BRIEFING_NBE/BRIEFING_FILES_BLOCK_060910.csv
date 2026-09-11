@@ -1,0 +1,192 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_060910,0,stream=0x60000;block=0x910;text=0,"[""stream=0x60000;block=0x910;text=0""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]",,"フランスは哲学者もたくさん生んでる。デカルト、バタイ
+ユ、サルトル、ボードリヤール…。
+","サルトルなら、俺も知ってる。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,法国多年来涌现出许多哲学家。,"[""法国多年来涌现出许多哲学家。""]","France has produced many philosophers over the
+years.
+","[""France has produced many philosophers over the\nyears.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#0; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,1,stream=0x60000;block=0x910;text=1,"[""stream=0x60000;block=0x910;text=1""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","フランスは哲学者もたくさん生んでる。デカルト、バタイ
+ユ、サルトル、ボードリヤール…。
+","サルトルなら、俺も知ってる。
+","「チェ・ゲバラは20世紀で最も完璧な人間だ」って言った
+男だろう？　見る目がある。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,笛卡尔、巴塔耶、萨特、鲍德里亚…,"[""笛卡尔、巴塔耶、萨特、鲍德里亚…""]","Descartes, Bataille, Sartre, Baudrillard...
+","[""Descartes, Bataille, Sartre, Baudrillard...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#1; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,2,stream=0x60000;block=0x910;text=2,"[""stream=0x60000;block=0x910;text=2""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","サルトルなら、俺も知ってる。
+","「チェ・ゲバラは20世紀で最も完璧な人間だ」って言った
+男だろう？　見る目がある。
+","サルトルは…。
+",[],,,NOT_CHECKED,118,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_060910,3,stream=0x60000;block=0x910;text=3,"[""stream=0x60000;block=0x910;text=3""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","「チェ・ゲバラは20世紀で最も完璧な人間だ」って言った
+男だろう？　見る目がある。
+","サルトルは…。
+","びっくりした！
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我自己对萨特有所了解。,"[""我自己对萨特有所了解。""]","I'm familiar with Sartre myself.
+","[""I'm familiar with Sartre myself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#2; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,4,stream=0x60000;block=0x910;text=4,"[""stream=0x60000;block=0x910;text=4""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","サルトルは…。
+","びっくりした！
+","じゃないわよ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他说过切·格瓦拉是本世纪
+最完整的人，对吧？","[""他说过切·格瓦拉是本世纪\n最完整的人，对吧？""]","He called Che Guevara the most complete man of
+the century, didn't he?
+","[""He called Che Guevara the most complete man of\nthe century, didn't he?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#3; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,5,stream=0x60000;block=0x910;text=5,"[""stream=0x60000;block=0x910;text=5""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","びっくりした！
+","じゃないわよ。
+","サルトルは左翼のシンパだったものね。他にサルトルにつ
+いては？
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,聪明人。,"[""聪明人。""]","Smart guy.
+","[""Smart guy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#4; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,6,stream=0x60000;block=0x910;text=6,"[""stream=0x60000;block=0x910;text=6""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","じゃないわよ。
+","サルトルは左翼のシンパだったものね。他にサルトルにつ
+いては？
+","…知らん。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他确实倾向于同情左翼。
+你还知道他什么？","[""他确实倾向于同情左翼。\n你还知道他什么？""]","He does tend to sympathize with the left. What
+else do you know about him.
+","[""He does tend to sympathize with the left. What\nelse do you know about him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#5; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,7,stream=0x60000;block=0x910;text=7,"[""stream=0x60000;block=0x910;text=7""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","サルトルは左翼のシンパだったものね。他にサルトルにつ
+いては？
+","…知らん。
+","何にも？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你不知道别的了？,"[""你不知道别的了？""]","You know nothing else?
+","[""You know nothing else?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#7; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,8,stream=0x60000;block=0x910;text=8,"[""stream=0x60000;block=0x910;text=8""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","…知らん。
+","何にも？
+","…ああ。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…不知道。,"[""…不知道。""]","...Nope.
+","[""...Nope.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#8; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,9,stream=0x60000;block=0x910;text=9,"[""stream=0x60000;block=0x910;text=9""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","何にも？
+","…ああ。
+","もう、<R= 実 存 主 義 ,エグジスタンシアリスム>の大家なのに…。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哎呀呀。要知道，
+他可是存在主义的巨擘之一。","[""哎呀呀。要知道，\n他可是存在主义的巨擘之一。""]","Ooh la la. The man is one of the giants of
+existentialism, you know.
+","[""Ooh la la. The man is one of the giants of\nexistentialism, you know.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#9; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,10,stream=0x60000;block=0x910;text=10,"[""stream=0x60000;block=0x910;text=10""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","…ああ。
+","もう、<R= 実 存 主 義 ,エグジスタンシアリスム>の大家なのに…。
+","<R= 出 口 主 義 ,エグジッタンシアリスム>か。それは拝聴したいな。退路を確保せずに
+潜入する程危険なことは…。
+","[""<R= 実 存 主 義 ,エグジスタンシアリスム>""]",,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,存在主义？我一直想研究一下。,"[""存在主义？我一直想研究一下。""]","Exitentialism? I've been meaning to look into that.
+","[""Exitentialism? I've been meaning to look into that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#10; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,11,stream=0x60000;block=0x910;text=11,"[""stream=0x60000;block=0x910;text=11""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","もう、<R= 実 存 主 義 ,エグジスタンシアリスム>の大家なのに…。
+","<R= 出 口 主 義 ,エグジッタンシアリスム>か。それは拝聴したいな。退路を確保せずに
+潜入する程危険なことは…。
+","違うわよ。<R= 実 存 主 義 ,エグジスタンシアリスム>。なんで英語が混ざってるの？
+","[""<R= 出 口 主 義 ,エグジッタンシアリスム>""]",,,NOT_CHECKED,156,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没什么比不先确保退路
+就潜入更危险的了…","[""没什么比不先确保退路\n就潜入更危险的了…""]","Nothing more dangerous than sneaking in without
+first securing an exit...
+","[""Nothing more dangerous than sneaking in without\nfirst securing an exit...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#11; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,12,stream=0x60000;block=0x910;text=12,"[""stream=0x60000;block=0x910;text=12""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","<R= 出 口 主 義 ,エグジッタンシアリスム>か。それは拝聴したいな。退路を確保せずに
+潜入する程危険なことは…。
+","違うわよ。<R= 実 存 主 義 ,エグジスタンシアリスム>。なんで英語が混ざってるの？
+","…すまんが、哲学には興味がなくてな。
+","[""<R= 実 存 主 義 ,エグジスタンシアリスム>""]",,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，是存在主义。有时候我真怀疑
+我的英语是不是比你的还好。","[""不，是存在主义。有时候我真怀疑\n我的英语是不是比你的还好。""]","No, existentialism. Sometimes I wonder if my
+English is not better than yours.
+","[""No, existentialism. Sometimes I wonder if my\nEnglish is not better than yours.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#12; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,13,stream=0x60000;block=0x910;text=13,"[""stream=0x60000;block=0x910;text=13""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","違うわよ。<R= 実 存 主 義 ,エグジスタンシアリスム>。なんで英語が混ざってるの？
+","…すまんが、哲学には興味がなくてな。
+","そう？　人生を豊かにしてくれると思うけど。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,抱歉，我只是…对哲学不感兴趣。,"[""抱歉，我只是…对哲学不感兴趣。""]","Sorry, I'm just... not into philosophy.
+","[""Sorry, I'm just... not into philosophy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#13; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,14,stream=0x60000;block=0x910;text=14,"[""stream=0x60000;block=0x910;text=14""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","…すまんが、哲学には興味がなくてな。
+","そう？　人生を豊かにしてくれると思うけど。
+","人間かくあるべしとか、人間の本質とはなんぞやとか…そ
+んなこと考えるより先に、行動に移したほうが早い。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是吗？我想它或许真的
+能丰富你的人生。","[""是吗？我想它或许真的\n能丰富你的人生。""]","Is that so? I would imagine it might really enrich
+your life.
+","[""Is that so? I would imagine it might really enrich\nyour life.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#14; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,15,stream=0x60000;block=0x910;text=15,"[""stream=0x60000;block=0x910;text=15""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","そう？　人生を豊かにしてくれると思うけど。
+","人間かくあるべしとか、人間の本質とはなんぞやとか…そ
+んなこと考えるより先に、行動に移したほうが早い。
+","そうやって生きてきた結果が、俺自身なんだからな。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我宁愿现在就采取行动，
+也不愿花时间思考","[""我宁愿现在就采取行动，\n也不愿花时间思考""]","I'd rather take action now than spend time thinking
+about
+","[""I'd rather take action now than spend time thinking\nabout\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#15; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,16,stream=0x60000;block=0x910;text=16,"[""stream=0x60000;block=0x910;text=16""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","人間かくあるべしとか、人間の本質とはなんぞやとか…そ
+んなこと考えるより先に、行動に移したほうが早い。
+","そうやって生きてきた結果が、俺自身なんだからな。
+","あら？　それってサルトルが言ってることと似てる。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想你可以说，我活出了自己的哲学。,"[""我想你可以说，我活出了自己的哲学。""]","I guess you could say I live my philosophy.
+","[""I guess you could say I live my philosophy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#17; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,17,stream=0x60000;block=0x910;text=17,"[""stream=0x60000;block=0x910;text=17""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","そうやって生きてきた結果が、俺自身なんだからな。
+","あら？　それってサルトルが言ってることと似てる。
+","そうなのか？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有趣。这话听起来像是萨特会说的。,"[""有趣。这话听起来像是萨特会说的。""]","Interesting. That sounds like something Sartre
+would say.
+","[""Interesting. That sounds like something Sartre\nwould say.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#18; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,18,stream=0x60000;block=0x910;text=18,"[""stream=0x60000;block=0x910;text=18""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","あら？　それってサルトルが言ってることと似てる。
+","そうなのか？
+","ええ。人には生まれながらの本質はない。自分とは自分自
+身が自由に創り上げるものだって。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是吗？,"[""是吗？""]","Yeah?
+","[""Yeah?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#19; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,19,stream=0x60000;block=0x910;text=19,"[""stream=0x60000;block=0x910;text=19""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","そうなのか？
+","ええ。人には生まれながらの本質はない。自分とは自分自
+身が自由に創り上げるものだって。
+","自由に？　お気楽な言い方だな。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他说我们生来没有固定的本性，我们可以自由地把“自我”
+塑造成自己想要的样子。","[""他说我们生来没有固定的本性，我们可以自由地把“自我”\n塑造成自己想要的样子。""]","He says we're born with no defined nature,
+and that we're free to make our ""self"" what we wish.
+","[""He says we're born with no defined nature,\nand that we're free to make our \""self\"" what we wish.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x60910; ENG blocks=0xEE440,0xEE440; ENG source rows=0xEE440#20,0xEE440#21; block_semantic_score=0.214625."
+BRIEFING_FILES_BLOCK_060910,20,stream=0x60000;block=0x910;text=20,"[""stream=0x60000;block=0x910;text=20""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","ええ。人には生まれながらの本質はない。自分とは自分自
+身が自由に創り上げるものだって。
+","自由に？　お気楽な言い方だな。
+","そうじゃないの。自由故に、自分自身に責任を持たなくて
+はならないって意味。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"自由？所以他也是那种什么
+都不在乎的人，对吧？","[""自由？所以他也是那种什么\n都不在乎的人，对吧？""]","Free? So he was one of those devil-may-care kind
+of guys, huh?
+","[""Free? So he was one of those devil-may-care kind\nof guys, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#22; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,21,stream=0x60000;block=0x910;text=21,"[""stream=0x60000;block=0x910;text=21""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","自由に？　お気楽な言い方だな。
+","そうじゃないの。自由故に、自分自身に責任を持たなくて
+はならないって意味。
+","「人間は自由という刑を宣告されている」…サルトルの言
+葉よ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，实际上他的意思是，正因为
+我们可以自由地创造自己的人生，我们就必须对自己的行为负全部责任。","[""不，实际上他的意思是，正因为\n我们可以自由地创造自己的人生，我们就必须对自己的行为负全部责任。""]","No, actually he meant that because we are free to
+create our own life,
+we must take full responsibility for our actions.
+","[""No, actually he meant that because we are free to\ncreate our own life,\nwe must take full responsibility for our actions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x60910; ENG blocks=0xEE440,0xEE440; ENG source rows=0xEE440#23,0xEE440#24; block_semantic_score=0.214625."
+BRIEFING_FILES_BLOCK_060910,22,stream=0x60000;block=0x910;text=22,"[""stream=0x60000;block=0x910;text=22""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","そうじゃないの。自由故に、自分自身に責任を持たなくて
+はならないって意味。
+","「人間は自由という刑を宣告されている」…サルトルの言
+葉よ。
+","『自由という刑』か…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“人注定要自由，”他是这么说的。,"[""“人注定要自由，”他是这么说的。""]","""Man is condemned to be free,"" is how he put it.
+","[""\""Man is condemned to be free,\"" is how he put it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#25; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,23,stream=0x60000;block=0x910;text=23,"[""stream=0x60000;block=0x910;text=23""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","「人間は自由という刑を宣告されている」…サルトルの言
+葉よ。
+","『自由という刑』か…。
+","でも、他人の眼差しは、あなたをあなたという存在に固定
+しようとする。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,注定要自由…,"[""注定要自由…""]","Condemned to be free...
+","[""Condemned to be free...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#26; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,24,stream=0x60000;block=0x910;text=24,"[""stream=0x60000;block=0x910;text=24""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","『自由という刑』か…。
+","でも、他人の眼差しは、あなたをあなたという存在に固定
+しようとする。
+","そいつは最近、痛感してる。俺が「スネークと呼べ」と言
+っても、聞きやしない。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但这样一来，别人就会
+自行来定义你是谁。","[""但这样一来，别人就会\n自行来定义你是谁。""]","But then others will take it upon themselves to
+define who you are.
+","[""But then others will take it upon themselves to\ndefine who you are.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#27; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,25,stream=0x60000;block=0x910;text=25,"[""stream=0x60000;block=0x910;text=25""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","でも、他人の眼差しは、あなたをあなたという存在に固定
+しようとする。
+","そいつは最近、痛感してる。俺が「スネークと呼べ」と言
+っても、聞きやしない。
+","「地獄、それは他人」…これもサルトルの言葉よ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我最近一直有这种感觉。,"[""我最近一直有这种感觉。""]","I've been feeling that way lately.
+","[""I've been feeling that way lately.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#28; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,26,stream=0x60000;block=0x910;text=26,"[""stream=0x60000;block=0x910;text=26""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","そいつは最近、痛感してる。俺が「スネークと呼べ」と言
+っても、聞きやしない。
+","「地獄、それは他人」…これもサルトルの言葉よ。
+","地獄か…まあ、ここは<R=天国の外,アウター・ヘブン>だからな。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,萨特还说过：“他人即地狱。”,"[""萨特还说过：“他人即地狱。”""]","Sartre also says, ""Hell is other people.""
+","[""Sartre also says, \""Hell is other people.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#30; block_semantic_score=0.214625.
+BRIEFING_FILES_BLOCK_060910,27,stream=0x60000;block=0x910;text=27,"[""stream=0x60000;block=0x910;text=27""]",1,BRIEFING FILES,"[""stream=0x60000;block=0x910;block_file=0x60910;text_base=0x609A0;capacity=2092""]","「地獄、それは他人」…これもサルトルの言葉よ。
+","地獄か…まあ、ここは<R=天国の外,アウター・ヘブン>だからな。
+",,"[""<R=天国の外,アウター・ヘブン>""]",,,NOT_CHECKED,87,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,地狱…嗯，我们反正也不在天堂里。,"[""地狱…嗯，我们反正也不在天堂里。""]","Hell... Well we are outside of Heaven.
+","[""Hell... Well we are outside of Heaven.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x60910; ENG blocks=0xEE440; ENG source rows=0xEE440#31; block_semantic_score=0.214625.

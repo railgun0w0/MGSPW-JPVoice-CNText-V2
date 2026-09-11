@@ -1,0 +1,92 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_023940,0,stream=0x23000;block=0x940;text=0,"[""stream=0x23000;block=0x940;text=0""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]",,"君達が持ってきてくれたコーヒー、うまかったよ。
+","でしょう？　コスタリカのコーヒーは美味しいんだから。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你们带来的咖啡真他娘的好喝。,"[""你们带来的咖啡真他娘的好喝。""]","That coffee you guys brought us is pretty damn
+good.
+","[""That coffee you guys brought us is pretty damn\ngood.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#0; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,1,stream=0x23000;block=0x940;text=1,"[""stream=0x23000;block=0x940;text=1""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","君達が持ってきてくれたコーヒー、うまかったよ。
+","でしょう？　コスタリカのコーヒーは美味しいんだから。
+","中央盆地は、コーヒーの栽培に最適な条件が揃ってるの。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是吧？哥斯达黎加咖啡是最好的。,"[""是吧？哥斯达黎加咖啡是最好的。""]","Isn't it? Costa Rican coffee is the best.
+","[""Isn't it? Costa Rican coffee is the best.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#1; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,2,stream=0x23000;block=0x940;text=2,"[""stream=0x23000;block=0x940;text=2""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","でしょう？　コスタリカのコーヒーは美味しいんだから。
+","中央盆地は、コーヒーの栽培に最適な条件が揃ってるの。
+","標高があって、気温の変化が少ない。土が火山性だから、
+水はけもいいし。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"中央盆地拥有种植
+咖啡的所有理想条件。","[""中央盆地拥有种植\n咖啡的所有理想条件。""]","The Central Basin has all the right conditions for
+growing coffee.
+","[""The Central Basin has all the right conditions for\ngrowing coffee.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#2; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,3,stream=0x23000;block=0x940;text=3,"[""stream=0x23000;block=0x940;text=3""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","中央盆地は、コーヒーの栽培に最適な条件が揃ってるの。
+","標高があって、気温の変化が少ない。土が火山性だから、
+水はけもいいし。
+","“教授”も随分御執心だった。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"海拔高，温度稳定，
+还有排水性好的火山土壤。","[""海拔高，温度稳定，\n还有排水性好的火山土壤。""]","It is high in elevation, with steady temperatures
+and well-drained, volcanic soils.
+","[""It is high in elevation, with steady temperatures\nand well-drained, volcanic soils.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#3; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,4,stream=0x23000;block=0x940;text=4,"[""stream=0x23000;block=0x940;text=4""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","標高があって、気温の変化が少ない。土が火山性だから、
+水はけもいいし。
+","“教授”も随分御執心だった。
+","行きの船で飲んだコーヒーが美味しくなくて。先生、ずっ
+とおかんむりだったのよ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那位“教授”似乎对它情有独钟。,"[""那位“教授”似乎对它情有独钟。""]","The ""professor"" certainly seems attached to it.
+","[""The \""professor\"" certainly seems attached to it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#4; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,5,stream=0x23000;block=0x940;text=5,"[""stream=0x23000;block=0x940;text=5""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","“教授”も随分御執心だった。
+","行きの船で飲んだコーヒーが美味しくなくて。先生、ずっ
+とおかんむりだったのよ。
+","それにしては、コスタリカコーヒーって名前をあまり聞か
+ないな。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们来时船上喝的咖啡难喝极了，
+搞得他心情很糟。","[""我们来时船上喝的咖啡难喝极了，\n搞得他心情很糟。""]","The coffee we drank on the boat coming over was
+awful. It put him in such a terrible mood.
+","[""The coffee we drank on the boat coming over was\nawful. It put him in such a terrible mood.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#5; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,6,stream=0x23000;block=0x940;text=6,"[""stream=0x23000;block=0x940;text=6""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","行きの船で飲んだコーヒーが美味しくなくて。先生、ずっ
+とおかんむりだったのよ。
+","それにしては、コスタリカコーヒーって名前をあまり聞か
+ないな。
+","業者に買い上げられた後は、他の国の豆と混ぜられちゃう
+みたいだから…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那为什么我从没听说过
+哥斯达黎加咖啡？","[""那为什么我从没听说过\n哥斯达黎加咖啡？""]","How come I never hear about Costa Rican coffee,
+then?
+","[""How come I never hear about Costa Rican coffee,\nthen?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#6; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,7,stream=0x23000;block=0x940;text=7,"[""stream=0x23000;block=0x940;text=7""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","それにしては、コスタリカコーヒーって名前をあまり聞か
+ないな。
+","業者に買い上げられた後は、他の国の豆と混ぜられちゃう
+みたいだから…。
+","せっかくいい豆が採れるのに、それがコスタリカのものっ
+てわかってもらえないのは、悔しいな。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"因为都被批发商买走，
+混入其他国家的咖啡豆里了…","[""因为都被批发商买走，\n混入其他国家的咖啡豆里了…""]","Because it gets bought up by wholesalers and
+mixed with beans from other countries...
+","[""Because it gets bought up by wholesalers and\nmixed with beans from other countries...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#7; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,8,stream=0x23000;block=0x940;text=8,"[""stream=0x23000;block=0x940;text=8""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","業者に買い上げられた後は、他の国の豆と混ぜられちゃう
+みたいだから…。
+","せっかくいい豆が採れるのに、それがコスタリカのものっ
+てわかってもらえないのは、悔しいな。
+","ちゃんとアピールすればいい。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"真是太可惜了。这么好的咖啡豆，
+却没人知道是哥斯达黎加产的。","[""真是太可惜了。这么好的咖啡豆，\n却没人知道是哥斯达黎加产的。""]","It is really a shame. Such wonderful beans and
+nobody knows they're from Costa Rica.
+","[""It is really a shame. Such wonderful beans and\nnobody knows they're from Costa Rica.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#8; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,9,stream=0x23000;block=0x940;text=9,"[""stream=0x23000;block=0x940;text=9""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","せっかくいい豆が採れるのに、それがコスタリカのものっ
+てわかってもらえないのは、悔しいな。
+","ちゃんとアピールすればいい。
+","うん。将来、「コスタリカ・コーヒー」として、きちんと
+評価されるようになるといいな。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们应该搞个广告宣传什么的。,"[""他们应该搞个广告宣传什么的。""]","They should launch an ad campaign or something.
+","[""They should launch an ad campaign or something.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#9; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,10,stream=0x23000;block=0x940;text=10,"[""stream=0x23000;block=0x940;text=10""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","ちゃんとアピールすればいい。
+","うん。将来、「コスタリカ・コーヒー」として、きちんと
+評価されるようになるといいな。
+","そうだな。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错！希望有一天，人们能认识
+到哥斯达黎加咖啡的真正价值。","[""没错！希望有一天，人们能认识\n到哥斯达黎加咖啡的真正价值。""]","Right! I hope one day people will recognize Costa
+Rican coffee for what it is.
+","[""Right! I hope one day people will recognize Costa\nRican coffee for what it is.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#10; block_semantic_score=0.188276.
+BRIEFING_FILES_BLOCK_023940,11,stream=0x23000;block=0x940;text=11,"[""stream=0x23000;block=0x940;text=11""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","うん。将来、「コスタリカ・コーヒー」として、きちんと
+評価されるようになるといいな。
+","そうだな。
+",,[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我同意。,"[""我同意。""]","I'm with you there.
+","[""I'm with you there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23940; ENG blocks=0xB4FE0; ENG source rows=0xB4FE0#11; block_semantic_score=0.188276.

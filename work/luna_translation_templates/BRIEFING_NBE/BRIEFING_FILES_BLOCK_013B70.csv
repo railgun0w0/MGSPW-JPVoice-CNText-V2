@@ -1,0 +1,98 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_013B70,0,stream=0x13000;block=0xB70;text=0,"[""stream=0x13000;block=0xB70;text=0""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]",,"二人以上で協力して任務に当たることを共同作戦
+COrporative OPerationS、略してCO-OPSと呼ぶ。
+","CO-OPSの基本は<R=二人一組,ツーマンセル>だ。
+",[],,,NOT_CHECKED,120,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"协同作战
+（COoperative OPerationS），
+简称合作模式，","[""协同作战\n（COoperative OPerationS），\n简称合作模式，""]","COoperative OPerationS, or CO-OPS for short,
+","[""COoperative OPerationS, or CO-OPS for short,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13B70; ENG blocks=0xA6910; ENG source rows=0xA6910#0; block_semantic_score=0.215963.
+BRIEFING_FILES_BLOCK_013B70,1,stream=0x13000;block=0xB70;text=1,"[""stream=0x13000;block=0xB70;text=1""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","二人以上で協力して任務に当たることを共同作戦
+COrporative OPerationS、略してCO-OPSと呼ぶ。
+","CO-OPSの基本は<R=二人一組,ツーマンセル>だ。
+","たった一人の味方であっても、敵地においては心強いもん
+だ。
+","[""<R=二人一組,ツーマンセル>""]",,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,合作模式最基本的单位是两人小组。,"[""合作模式最基本的单位是两人小组。""]","The basic CO-OPS unit is a two-man cell.
+","[""The basic CO-OPS unit is a two-man cell.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13B70; ENG blocks=0xA6910; ENG source rows=0xA6910#2; block_semantic_score=0.215963.
+BRIEFING_FILES_BLOCK_013B70,2,stream=0x13000;block=0xB70;text=2,"[""stream=0x13000;block=0xB70;text=2""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","CO-OPSの基本は<R=二人一組,ツーマンセル>だ。
+","たった一人の味方であっても、敵地においては心強いもん
+だ。
+","実際、一人ではできない様々な行動が可能になる。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在敌后哪怕只有一个
+搭档也是极大的帮助。","[""在敌后哪怕只有一个\n搭档也是极大的帮助。""]","Even a single teammate is great to have in enemy
+territory.
+","[""Even a single teammate is great to have in enemy\nterritory.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13B70; ENG blocks=0xA6910; ENG source rows=0xA6910#3; block_semantic_score=0.215963.
+BRIEFING_FILES_BLOCK_013B70,3,stream=0x13000;block=0xB70;text=3,"[""stream=0x13000;block=0xB70;text=3""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","たった一人の味方であっても、敵地においては心強いもん
+だ。
+","実際、一人ではできない様々な行動が可能になる。
+","協力することで段差を越えたり、役割を分担したり…。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且确实有不少事是
+你一个人做不到的。","[""而且确实有不少事是\n你一个人做不到的。""]","And there are actually quite a few things you can't
+do by yourself.
+","[""And there are actually quite a few things you can't\ndo by yourself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13B70; ENG blocks=0xA6910; ENG source rows=0xA6910#4; block_semantic_score=0.215963.
+BRIEFING_FILES_BLOCK_013B70,4,stream=0x13000;block=0xB70;text=4,"[""stream=0x13000;block=0xB70;text=4""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","実際、一人ではできない様々な行動が可能になる。
+","協力することで段差を越えたり、役割を分担したり…。
+","ただし、一人が発見されればもう一人も危険に身をさらす
+ことになる。また狭い場所に二人が隠れきるのは難しいこ
+とかもしれない。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你们可以互相协助攀爬
+高墙、分配任务分工…","[""你们可以互相协助攀爬\n高墙、分配任务分工…""]","You can help each other climb walls, divide up
+mission roles...
+","[""You can help each other climb walls, divide up\nmission roles...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13B70; ENG blocks=0xA6910; ENG source rows=0xA6910#5; block_semantic_score=0.215963.
+BRIEFING_FILES_BLOCK_013B70,5,stream=0x13000;block=0xB70;text=5,"[""stream=0x13000;block=0xB70;text=5""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","協力することで段差を越えたり、役割を分担したり…。
+","ただし、一人が発見されればもう一人も危険に身をさらす
+ことになる。また狭い場所に二人が隠れきるのは難しいこ
+とかもしれない。
+","そうだな。だが、何より大切なのは仲間との絆だ。
+",[],,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另一方面，要是有一方暴露，
+另一方也得跟着倒霉。两个人都想藏进一个小空间也挺难的。","[""另一方面，要是有一方暴露，\n另一方也得跟着倒霉。两个人都想藏进一个小空间也挺难的。""]","On the other hand, if one of you is spotted, the
+other one's screwed, too.
+And it's kind of tough for two people to hide in one
+small space.
+","[""On the other hand, if one of you is spotted, the\nother one's screwed, too.\nAnd it's kind of tough for two people to hide in one\nsmall space.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x13B70; ENG blocks=0xA6910,0xA6910; ENG source rows=0xA6910#6,0xA6910#7; block_semantic_score=0.215963."
+BRIEFING_FILES_BLOCK_013B70,6,stream=0x13000;block=0xB70;text=6,"[""stream=0x13000;block=0xB70;text=6""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","ただし、一人が発見されればもう一人も危険に身をさらす
+ことになる。また狭い場所に二人が隠れきるのは難しいこ
+とかもしれない。
+","そうだな。だが、何より大切なのは仲間との絆だ。
+","そのとおりだ。ツーマンセルでの潜入は、二人のコンビネ
+ーション次第で有利にも不利にもなる。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说得对。但比什么都重要的，是你们战友间的默契程度。,"[""说得对。但比什么都重要的，是你们战友间的默契程度。""]","Good point. But what's more important than
+anything
+is how close you are to your comrades.
+","[""Good point. But what's more important than\nanything\nis how close you are to your comrades.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x13B70; ENG blocks=0xA6910,0xA6910; ENG source rows=0xA6910#8,0xA6910#9; block_semantic_score=0.215963."
+BRIEFING_FILES_BLOCK_013B70,7,stream=0x13000;block=0xB70;text=7,"[""stream=0x13000;block=0xB70;text=7""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","そうだな。だが、何より大切なのは仲間との絆だ。
+","そのとおりだ。ツーマンセルでの潜入は、二人のコンビネ
+ーション次第で有利にも不利にもなる。
+","ちなみに、目標のハッキリしている戦闘であれば、さらに
+大人数での作戦も有効になるだろう。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说得好。两人小组能让
+任务更轻松，也能更难，全看你们配合得怎么样。","[""说得好。两人小组能让\n任务更轻松，也能更难，全看你们配合得怎么样。""]","Well said. Working as a two-man cell can make the
+mission easier or harder
+depending on how well you work together.
+","[""Well said. Working as a two-man cell can make the\nmission easier or harder\ndepending on how well you work together.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x13B70; ENG blocks=0xA6910,0xA6910; ENG source rows=0xA6910#10,0xA6910#11; block_semantic_score=0.215963."
+BRIEFING_FILES_BLOCK_013B70,8,stream=0x13000;block=0xB70;text=8,"[""stream=0x13000;block=0xB70;text=8""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","そのとおりだ。ツーマンセルでの潜入は、二人のコンビネ
+ーション次第で有利にも不利にもなる。
+","ちなみに、目標のハッキリしている戦闘であれば、さらに
+大人数での作戦も有効になるだろう。
+","しかし、3人以上の部隊になると発見される危険も跳ね上
+がる。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还有一点值得留意：
+如果目标明确、任务具体，使用更大规模的队伍反而会有优势。","[""还有一点值得留意：\n如果目标明确、任务具体，使用更大规模的队伍反而会有优势。""]","It's also good to note that if you've got a clear,
+specific objective,
+it can be to your advantage to use an even bigger
+team.
+","[""It's also good to note that if you've got a clear,\nspecific objective,\nit can be to your advantage to use an even bigger\nteam.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x13B70; ENG blocks=0xA6910,0xA6910; ENG source rows=0xA6910#12,0xA6910#13; block_semantic_score=0.215963."
+BRIEFING_FILES_BLOCK_013B70,9,stream=0x13000;block=0xB70;text=9,"[""stream=0x13000;block=0xB70;text=9""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","ちなみに、目標のハッキリしている戦闘であれば、さらに
+大人数での作戦も有効になるだろう。
+","しかし、3人以上の部隊になると発見される危険も跳ね上
+がる。
+","ああ。潜入任務では人数が少ない方が動きやすい。
+",[],,,NOT_CHECKED,87,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"话虽如此，三人以上的队伍
+被发现的风险也大大增加。","[""话虽如此，三人以上的队伍\n被发现的风险也大大增加。""]","That said, teams of three or more run a much
+greater risk of being spotted.
+","[""That said, teams of three or more run a much\ngreater risk of being spotted.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13B70; ENG blocks=0xA6910; ENG source rows=0xA6910#14; block_semantic_score=0.215963.
+BRIEFING_FILES_BLOCK_013B70,10,stream=0x13000;block=0xB70;text=10,"[""stream=0x13000;block=0xB70;text=10""]",1,BRIEFING FILES,"[""stream=0x13000;block=0xB70;block_file=0x13B70;text_base=0x13BBC;capacity=1100""]","しかし、3人以上の部隊になると発見される危険も跳ね上
+がる。
+","ああ。潜入任務では人数が少ない方が動きやすい。
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。潜入任务里，人越少，,"[""没错。潜入任务里，人越少，""]","Yeah. In a sneaking mission, the fewer people you
+have,
+","[""Yeah. In a sneaking mission, the fewer people you\nhave,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x13B70; ENG blocks=0xA6910; ENG source rows=0xA6910#15; block_semantic_score=0.215963.

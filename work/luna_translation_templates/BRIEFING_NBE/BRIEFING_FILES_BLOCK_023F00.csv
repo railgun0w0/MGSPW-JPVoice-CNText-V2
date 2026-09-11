@@ -1,0 +1,56 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_023F00,0,stream=0x23000;block=0xF00;text=0,"[""stream=0x23000;block=0xF00;text=0""]",1,BRIEFING FILES,"[""stream=0x23000;block=0xF00;block_file=0x23F00;text_base=0x23F3C;capacity=596""]",,"パス、コスタリカに大きな遺跡はあるか？
+","カルタゴの東に、グアヤボ遺跡って言うのがある。そんな
+に大きくはないけど。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Paz，哥斯达黎加有什么大型遗迹吗？,"[""Paz，哥斯达黎加有什么大型遗迹吗？""]","Are there any large-scale ruins in Costa Rica, Paz?
+","[""Are there any large-scale ruins in Costa Rica, Paz?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23F00; ENG blocks=0xB54B0; ENG source rows=0xB54B0#0; block_semantic_score=0.215970.
+BRIEFING_FILES_BLOCK_023F00,1,stream=0x23000;block=0xF00;text=1,"[""stream=0x23000;block=0xF00;text=1""]",1,BRIEFING FILES,"[""stream=0x23000;block=0xF00;block_file=0x23F00;text_base=0x23F3C;capacity=596""]","パス、コスタリカに大きな遺跡はあるか？
+","カルタゴの東に、グアヤボ遺跡って言うのがある。そんな
+に大きくはないけど。
+","場所が違うな…他には？
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在卡塔戈东边有个地方
+叫瓜亚博（Guayabo）。那里是有遗迹，不过规模不是特别大。","[""在卡塔戈东边有个地方\n叫瓜亚博（Guayabo）。那里是有遗迹，不过规模不是特别大。""]","There's a place east of Cartago called Guayabo.
+They have ruins there, but they're not especially
+big.
+","[""There's a place east of Cartago called Guayabo.\nThey have ruins there, but they're not especially\nbig.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x23F00; ENG blocks=0xB54B0,0xB54B0; ENG source rows=0xB54B0#1,0xB54B0#2; block_semantic_score=0.215970."
+BRIEFING_FILES_BLOCK_023F00,2,stream=0x23000;block=0xF00;text=2,"[""stream=0x23000;block=0xF00;text=2""]",1,BRIEFING FILES,"[""stream=0x23000;block=0xF00;block_file=0x23F00;text_base=0x23F3C;capacity=596""]","カルタゴの東に、グアヤボ遺跡って言うのがある。そんな
+に大きくはないけど。
+","場所が違うな…他には？
+","国境からニカラグアにちょっと入ると、コンセプシオン城
+塞っていうのがあるかな。有名なのはそれくらい。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不是我想的那个地方…还有别的吗？,"[""不是我想的那个地方…还有别的吗？""]","Not the place I'm thinking of... Any others?
+","[""Not the place I'm thinking of... Any others?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23F00; ENG blocks=0xB54B0; ENG source rows=0xB54B0#3; block_semantic_score=0.215970.
+BRIEFING_FILES_BLOCK_023F00,3,stream=0x23000;block=0xF00;text=3,"[""stream=0x23000;block=0xF00;text=3""]",1,BRIEFING FILES,"[""stream=0x23000;block=0xF00;block_file=0x23F00;text_base=0x23F3C;capacity=596""]","場所が違うな…他には？
+","国境からニカラグアにちょっと入ると、コンセプシオン城
+塞っていうのがあるかな。有名なのはそれくらい。
+","それじゃあ、イラスから見た遺跡は一体…。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，要是越过边境进到
+尼加拉瓜不远的话，有个地方叫“圣母无原罪堡垒”。
+有名的就只有这一个了。","[""嗯，要是越过边境进到\n尼加拉瓜不远的话，有个地方叫“圣母无原罪堡垒”。\n有名的就只有这一个了。""]","Well, if you go a little way across the border into
+Nicaragua,
+there's a place called La Fortaleza de la
+Inmaculada Concepción. That's the only famous one.
+","[""Well, if you go a little way across the border into\nNicaragua,\nthere's a place called La Fortaleza de la\nInmaculada Concepción. That's the only famous one.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x23F00; ENG blocks=0xB54B0,0xB54B0; ENG source rows=0xB54B0#4,0xB54B0#5; block_semantic_score=0.215970."
+BRIEFING_FILES_BLOCK_023F00,4,stream=0x23000;block=0xF00;text=4,"[""stream=0x23000;block=0xF00;text=4""]",1,BRIEFING FILES,"[""stream=0x23000;block=0xF00;block_file=0x23F00;text_base=0x23F3C;capacity=596""]","国境からニカラグアにちょっと入ると、コンセプシオン城
+塞っていうのがあるかな。有名なのはそれくらい。
+","それじゃあ、イラスから見た遺跡は一体…。
+","コスタリカの古代文明については、まだわかっていないこ
+とが多いの。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那我从伊拉苏山上看到的
+那些遗迹是什么…？","[""那我从伊拉苏山上看到的\n那些遗迹是什么…？""]","Then what were those ruins I saw from up on
+Irazu...?
+","[""Then what were those ruins I saw from up on\nIrazu...?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23F00; ENG blocks=0xB54B0; ENG source rows=0xB54B0#6; block_semantic_score=0.215970.
+BRIEFING_FILES_BLOCK_023F00,5,stream=0x23000;block=0xF00;text=5,"[""stream=0x23000;block=0xF00;text=5""]",1,BRIEFING FILES,"[""stream=0x23000;block=0xF00;block_file=0x23F00;text_base=0x23F3C;capacity=596""]","それじゃあ、イラスから見た遺跡は一体…。
+","コスタリカの古代文明については、まだわかっていないこ
+とが多いの。
+","何に使ったかわからない大きな石の球も各地に残ってる。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"关于哥斯达黎加的古文明，
+我们还有很多不了解的地方。","[""关于哥斯达黎加的古文明，\n我们还有很多不了解的地方。""]","There are a lot of things we still do not know
+about Costa Rica's ancient civilizations.
+","[""There are a lot of things we still do not know\nabout Costa Rica's ancient civilizations.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23F00; ENG blocks=0xB54B0; ENG source rows=0xB54B0#7; block_semantic_score=0.215970.
+BRIEFING_FILES_BLOCK_023F00,6,stream=0x23000;block=0xF00;text=6,"[""stream=0x23000;block=0xF00;text=6""]",1,BRIEFING FILES,"[""stream=0x23000;block=0xF00;block_file=0x23F00;text_base=0x23F3C;capacity=596""]","コスタリカの古代文明については、まだわかっていないこ
+とが多いの。
+","何に使ったかわからない大きな石の球も各地に残ってる。
+",,[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,全国各地都有巨大的石球。,"[""全国各地都有巨大的石球。""]","There are giant stone spheres throughout the
+country.
+","[""There are giant stone spheres throughout the\ncountry.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x23F00; ENG blocks=0xB54B0; ENG source rows=0xB54B0#8; block_semantic_score=0.215970.

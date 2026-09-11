@@ -1,0 +1,228 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_056170,0,stream=0x56000;block=0x170;text=0,"[""stream=0x56000;block=0x170;text=0""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]",,"そう言えば、ヒューイからもらったIDカードでは、研究所
+に入れなかったんだが…。
+","ああ、奴のカードは無効にしたからな。
+",[],,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道，Huey给我的那
+张ID卡进不了实验室。","[""你知道，Huey给我的那\n张ID卡进不了实验室。""]","You know, that ID card I got from Huey wouldn't
+let me into the lab.
+","[""You know, that ID card I got from Huey wouldn't\nlet me into the lab.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#0; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,1,stream=0x56000;block=0x170;text=1,"[""stream=0x56000;block=0x170;text=1""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","そう言えば、ヒューイからもらったIDカードでは、研究所
+に入れなかったんだが…。
+","ああ、奴のカードは無効にしたからな。
+","どうして。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然进不去。我把它停用了。,"[""当然进不去。我把它停用了。""]","Of course not. I deactivated it.
+","[""Of course not. I deactivated it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#1; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,2,stream=0x56000;block=0x170;text=2,"[""stream=0x56000;block=0x170;text=2""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","ああ、奴のカードは無効にしたからな。
+","どうして。
+","あんな奴を、私の研究所に入れさせるものか。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为什么？,"[""为什么？""]","Why?
+","[""Why?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#2; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,3,stream=0x56000;block=0x170;text=3,"[""stream=0x56000;block=0x170;text=3""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","どうして。
+","あんな奴を、私の研究所に入れさせるものか。
+","ひどい嫌いようだな。同じ研究をする仲間だろう。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说得好像我会让他进我的实验室似的！,"[""说得好像我会让他进我的实验室似的！""]","As though I'd let him into my lab!
+","[""As though I'd let him into my lab!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#3; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,4,stream=0x56000;block=0x170;text=4,"[""stream=0x56000;block=0x170;text=4""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","あんな奴を、私の研究所に入れさせるものか。
+","ひどい嫌いようだな。同じ研究をする仲間だろう。
+","冗談じゃない。まず、奴のウジウジしたところが我慢なら
+ん。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你似乎不太喜欢他。尽管你们是同行。,"[""你似乎不太喜欢他。尽管你们是同行。""]","You don't seem to care for him much. Even though
+you two are in the same field.
+","[""You don't seem to care for him much. Even though\nyou two are in the same field.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#4; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,5,stream=0x56000;block=0x170;text=5,"[""stream=0x56000;block=0x170;text=5""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","ひどい嫌いようだな。同じ研究をする仲間だろう。
+","冗談じゃない。まず、奴のウジウジしたところが我慢なら
+ん。
+","男のくせにこそこそ手紙なんて書いてないで、直接会って
+思いを伝えたらどうだ！？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"得了吧。首先，
+我受不了他那暧昧不明的态度。","[""得了吧。首先，\n我受不了他那暧昧不明的态度。""]","Oh, please. For starters, I can't stand that
+wishy-washy attitude of his.
+","[""Oh, please. For starters, I can't stand that\nwishy-washy attitude of his.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#5; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,6,stream=0x56000;block=0x170;text=6,"[""stream=0x56000;block=0x170;text=6""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","冗談じゃない。まず、奴のウジウジしたところが我慢なら
+ん。
+","男のくせにこそこそ手紙なんて書いてないで、直接会って
+思いを伝えたらどうだ！？
+","だが、カードが無効じゃ会いにも行かれないだろう。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他要是有什么话想对我说，
+就该像个男人一样亲自来说，","[""他要是有什么话想对我说，\n就该像个男人一样亲自来说，""]","If he's got something to say to me, he should be a
+man and come say it in person,
+","[""If he's got something to say to me, he should be a\nman and come say it in person,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#6; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,7,stream=0x56000;block=0x170;text=7,"[""stream=0x56000;block=0x170;text=7""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","男のくせにこそこそ手紙なんて書いてないで、直接会って
+思いを伝えたらどうだ！？
+","だが、カードが無効じゃ会いにも行かれないだろう。
+","それに！　何かというと自分を卑下したがる。二言目には
+「僕なんか…」だ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而不是偷偷摸摸写信。但如果他的卡进不去，他怎么能…,"[""而不是偷偷摸摸写信。但如果他的卡进不去，他怎么能…""]","not write some furtive letter.
+But if his card doesn't work, how's he supposed to...
+","[""not write some furtive letter.\nBut if his card doesn't work, how's he supposed to...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x56170; ENG blocks=0xE4140,0xE4140; ENG source rows=0xE4140#7,0xE4140#8; block_semantic_score=0.142253."
+BRIEFING_FILES_BLOCK_056170,8,stream=0x56000;block=0x170;text=8,"[""stream=0x56000;block=0x170;text=8""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","だが、カードが無効じゃ会いにも行かれないだろう。
+","それに！　何かというと自分を卑下したがる。二言目には
+「僕なんか…」だ。
+","なぜ自分のやっている事に自信を持たない！？
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还有一件事！他老是贬低自己。他每句话开头都是“我
+也许会错，但是…”","[""还有一件事！他老是贬低自己。他每句话开头都是“我\n也许会错，但是…”""]","And another thing! The way he always demeans
+himself.
+Every other sentence begins with ""I could be
+wrong, but...""
+","[""And another thing! The way he always demeans\nhimself.\nEvery other sentence begins with \""I could be\nwrong, but...\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x56170; ENG blocks=0xE4140,0xE4140; ENG source rows=0xE4140#9,0xE4140#10; block_semantic_score=0.142253."
+BRIEFING_FILES_BLOCK_056170,9,stream=0x56000;block=0x170;text=9,"[""stream=0x56000;block=0x170;text=9""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","それに！　何かというと自分を卑下したがる。二言目には
+「僕なんか…」だ。
+","なぜ自分のやっている事に自信を持たない！？
+","まあ、論文の盗用だしな…。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他就不能做自己的事并
+对此自信一点吗？！","[""他就不能做自己的事并\n对此自信一点吗？！""]","Why can't he just do what he does and be
+confident about it?!
+","[""Why can't he just do what he does and be\nconfident about it?!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#11; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,10,stream=0x56000;block=0x170;text=10,"[""stream=0x56000;block=0x170;text=10""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","なぜ自分のやっている事に自信を持たない！？
+","まあ、論文の盗用だしな…。
+","大体、奴には主体性ってものがない。NASAでも、コスタ
+リカでも、人の後を付いて回っては、「ねえ、何か手伝え
+ることはないかな？」だ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，是有他论文抄袭那回事…,"[""嗯，是有他论文抄袭那回事…""]","Well, there was the thing about his dissertation
+being plagiarized...
+","[""Well, there was the thing about his dissertation\nbeing plagiarized...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#12; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,11,stream=0x56000;block=0x170;text=11,"[""stream=0x56000;block=0x170;text=11""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","まあ、論文の盗用だしな…。
+","大体、奴には主体性ってものがない。NASAでも、コスタ
+リカでも、人の後を付いて回っては、「ねえ、何か手伝え
+ることはないかな？」だ。
+","なぜ堂々と論陣を張って、私とやり合うくらいのことをし
+ない？
+",[],,,NOT_CHECKED,190,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在哥斯达黎加，甚至之前在NASA，
+他总是跟在别人后面","[""在哥斯达黎加，甚至之前在NASA，\n他总是跟在别人后面""]","In Costa Rica, and even back at NASA he was
+always following people around
+","[""In Costa Rica, and even back at NASA he was\nalways following people around\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#14; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,12,stream=0x56000;block=0x170;text=12,"[""stream=0x56000;block=0x170;text=12""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","大体、奴には主体性ってものがない。NASAでも、コスタ
+リカでも、人の後を付いて回っては、「ねえ、何か手伝え
+ることはないかな？」だ。
+","なぜ堂々と論陣を張って、私とやり合うくらいのことをし
+ない？
+","そいつは俺でも勘弁してほしいが…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他为什么不能停止抱怨，
+表明立场，直接面对我？","[""他为什么不能停止抱怨，\n表明立场，直接面对我？""]","Why doesn't he stop his whining, take a stand, and
+face up to me?
+","[""Why doesn't he stop his whining, take a stand, and\nface up to me?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#16; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,13,stream=0x56000;block=0x170;text=13,"[""stream=0x56000;block=0x170;text=13""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","なぜ堂々と論陣を張って、私とやり合うくらいのことをし
+ない？
+","そいつは俺でも勘弁してほしいが…。
+","おまけに、人のつけたあだ名を、喜んで自分でも使ってる。
+その神経がわからない。主体性がないのも甚だしい。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想我理解他的感受…,"[""我想我理解他的感受…""]","I think I know how he feels....
+","[""I think I know how he feels....\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#17; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,14,stream=0x56000;block=0x170;text=14,"[""stream=0x56000;block=0x170;text=14""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","そいつは俺でも勘弁してほしいが…。
+","おまけに、人のつけたあだ名を、喜んで自分でも使ってる。
+その神経がわからない。主体性がないのも甚だしい。
+","ヒューイってのは、あんたが付けたあだ名だったのか…。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最糟糕的是，他似乎很喜欢用我
+给他起的那个绰号来称呼自己。","[""最糟糕的是，他似乎很喜欢用我\n给他起的那个绰号来称呼自己。""]","And to top it all off, he seems to enjoy referring to
+himself by that nickname I gave him.
+","[""And to top it all off, he seems to enjoy referring to\nhimself by that nickname I gave him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#18; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,15,stream=0x56000;block=0x170;text=15,"[""stream=0x56000;block=0x170;text=15""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","おまけに、人のつけたあだ名を、喜んで自分でも使ってる。
+その神経がわからない。主体性がないのも甚だしい。
+","ヒューイってのは、あんたが付けたあだ名だったのか…。
+","そうだ。『サイレント・ランニング』というSF映画に出て
+くるドローンから取った。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我完全不明白。他怎么能这么顺从？所以Huey是你给他起的绰号…,"[""我完全不明白。他怎么能这么顺从？所以Huey是你给他起的绰号…""]","I simply don't get it. How can he be so submissive?
+So Huey was a nickname you gave him...
+","[""I simply don't get it. How can he be so submissive?\nSo Huey was a nickname you gave him...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x56170; ENG blocks=0xE4140,0xE4140; ENG source rows=0xE4140#19,0xE4140#20; block_semantic_score=0.142253."
+BRIEFING_FILES_BLOCK_056170,16,stream=0x56000;block=0x170;text=16,"[""stream=0x56000;block=0x170;text=16""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","ヒューイってのは、あんたが付けたあだ名だったのか…。
+","そうだ。『サイレント・ランニング』というSF映画に出て
+くるドローンから取った。
+","ドローン？
+",[],,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错。我取自科幻电影《静寂逃亡》
+里一台无人机的名字。","[""没错。我取自科幻电影《静寂逃亡》\n里一台无人机的名字。""]","That's right. I took it from the name of a drone in
+the science fiction film ""Silent Running.""
+","[""That's right. I took it from the name of a drone in\nthe science fiction film \""Silent Running.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#21; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,17,stream=0x56000;block=0x170;text=17,"[""stream=0x56000;block=0x170;text=17""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","そうだ。『サイレント・ランニング』というSF映画に出て
+くるドローンから取った。
+","ドローン？
+","一種の作業ロボットだ。後を付いてきては人の指示を待っ
+ているところがそっくりだったんで、拝借した。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,无人机？,"[""无人机？""]","Drone?
+","[""Drone?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#22; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,18,stream=0x56000;block=0x170;text=18,"[""stream=0x56000;block=0x170;text=18""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","ドローン？
+","一種の作業ロボットだ。後を付いてきては人の指示を待っ
+ているところがそっくりだったんで、拝借した。
+","『2001年宇宙の旅』でSFXをやっていたダグラス・トラ
+ンブルが監督したアメリカ映画だ。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是一种工人机器人。他跟着别人、等着别人使唤他的样子，
+实在太像了。我忍不住。","[""是一种工人机器人。他跟着别人、等着别人使唤他的样子，\n实在太像了。我忍不住。""]","It's a type of worker robot.
+The way he follows people, just waiting for them to
+boss him around, is so similar. I couldn't help myself.
+","[""It's a type of worker robot.\nThe way he follows people, just waiting for them to\nboss him around, is so similar. I couldn't help myself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x56170; ENG blocks=0xE4140,0xE4140; ENG source rows=0xE4140#23,0xE4140#24; block_semantic_score=0.142253."
+BRIEFING_FILES_BLOCK_056170,19,stream=0x56000;block=0x170;text=19,"[""stream=0x56000;block=0x170;text=19""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","一種の作業ロボットだ。後を付いてきては人の指示を待っ
+ているところがそっくりだったんで、拝借した。
+","『2001年宇宙の旅』でSFXをやっていたダグラス・トラ
+ンブルが監督したアメリカ映画だ。
+","意外だ。科学者ってのはSFが好きなんだな…。
+",[],,,NOT_CHECKED,120,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哦…这是一部美国电影，
+导演是道格拉斯·特兰布尔，就是为《2001太空漫游》
+做特效的那个人。","[""哦…这是一部美国电影，\n导演是道格拉斯·特兰布尔，就是为《2001太空漫游》\n做特效的那个人。""]","Oh.. It's an American film directed by Douglas
+Trumbull,
+the man who did the special effects for ""2001: A
+Space Odyssey.""
+","[""Oh.. It's an American film directed by Douglas\nTrumbull,\nthe man who did the special effects for \""2001: A\nSpace Odyssey.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x56170; ENG blocks=0xE4140,0xE4140; ENG source rows=0xE4140#25,0xE4140#26; block_semantic_score=0.142253."
+BRIEFING_FILES_BLOCK_056170,20,stream=0x56000;block=0x170;text=20,"[""stream=0x56000;block=0x170;text=20""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","『2001年宇宙の旅』でSFXをやっていたダグラス・トラ
+ンブルが監督したアメリカ映画だ。
+","意外だ。科学者ってのはSFが好きなんだな…。
+","それにそもそも！
+",[],,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真想不到。一个喜欢科幻的科学家…,"[""真想不到。一个喜欢科幻的科学家…""]","Imagine that. A scientist who likes science fiction...
+","[""Imagine that. A scientist who likes science fiction...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#27; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,21,stream=0x56000;block=0x170;text=21,"[""stream=0x56000;block=0x170;text=21""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","意外だ。科学者ってのはSFが好きなんだな…。
+","それにそもそも！
+","まだあるのか。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还不止这些！,"[""还不止这些！""]","And that's not all!
+","[""And that's not all!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#28; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,22,stream=0x56000;block=0x170;text=22,"[""stream=0x56000;block=0x170;text=22""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","それにそもそも！
+","まだあるのか。
+","そもそも、奴は男だ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有？,"[""还有？""]","There's more?
+","[""There's more?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#29; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,23,stream=0x56000;block=0x170;text=23,"[""stream=0x56000;block=0x170;text=23""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","まだあるのか。
+","そもそも、奴は男だ。
+","……さっきは「男のくせに」と言っていたようだが。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他是个男人！,"[""他是个男人！""]","He's a man!
+","[""He's a man!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#30; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,24,stream=0x56000;block=0x170;text=24,"[""stream=0x56000;block=0x170;text=24""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","そもそも、奴は男だ。
+","……さっきは「男のくせに」と言っていたようだが。
+","…まあ、科学者としては優秀だ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…等等，我记得你说过
+他应该更像个男人。","[""…等等，我记得你说过\n他应该更像个男人。""]","...Hang on, I seem to remember you saying he
+should be more of a man.
+","[""...Hang on, I seem to remember you saying he\nshould be more of a man.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#31; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,25,stream=0x56000;block=0x170;text=25,"[""stream=0x56000;block=0x170;text=25""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","……さっきは「男のくせに」と言っていたようだが。
+","…まあ、科学者としては優秀だ。
+","<R=爬虫類,レプタイル>ポッドなしに、<R=哺乳類,ママル>ポッドは動かない。脳幹や小
+脳のない大脳がないように。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…是的，嗯，他是个
+非常优秀的科学家。","[""…是的，嗯，他是个\n非常优秀的科学家。""]","...Yes, well, he is an awfully good scientist.
+","[""...Yes, well, he is an awfully good scientist.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#32; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,26,stream=0x56000;block=0x170;text=26,"[""stream=0x56000;block=0x170;text=26""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","…まあ、科学者としては優秀だ。
+","<R=爬虫類,レプタイル>ポッドなしに、<R=哺乳類,ママル>ポッドは動かない。脳幹や小
+脳のない大脳がないように。
+","それを設計した技術は、認めてやろう。
+","[""<R=爬虫類,レプタイル>"", ""<R=哺乳類,ママル>""]",,,NOT_CHECKED,153,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没有他的爬虫舱，
+我的哺乳舱就无法运转。","[""没有他的爬虫舱，\n我的哺乳舱就无法运转。""]","Without his Reptile Pod, my Mammal Pod wouldn't
+function.
+","[""Without his Reptile Pod, my Mammal Pod wouldn't\nfunction.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#33; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,27,stream=0x56000;block=0x170;text=27,"[""stream=0x56000;block=0x170;text=27""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","<R=爬虫類,レプタイル>ポッドなしに、<R=哺乳類,ママル>ポッドは動かない。脳幹や小
+脳のない大脳がないように。
+","それを設計した技術は、認めてやろう。
+","珍しいな。あんたが他人を褒めるとは。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他设计得很好，这点我承认。,"[""他设计得很好，这点我承认。""]","He did a fine job of designing it, I'll give him that.
+","[""He did a fine job of designing it, I'll give him that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#35; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,28,stream=0x56000;block=0x170;text=28,"[""stream=0x56000;block=0x170;text=28""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","それを設計した技術は、認めてやろう。
+","珍しいな。あんたが他人を褒めるとは。
+","ふん。客観的に評価しただけだ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这听起来倒像是夸奖…,"[""这听起来倒像是夸奖…""]","That sounded suspiciously like praise...
+","[""That sounded suspiciously like praise...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#36; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,29,stream=0x56000;block=0x170;text=29,"[""stream=0x56000;block=0x170;text=29""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","珍しいな。あんたが他人を褒めるとは。
+","ふん。客観的に評価しただけだ。
+","私は、自分の意志で、前へ進む人間が好き。状況に流され
+るようでは話にならない。まずはそこからだ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哼。这只是客观评价。,"[""哼。这只是客观评价。""]","Hmph. It's merely an objective observation.
+","[""Hmph. It's merely an objective observation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#37; block_semantic_score=0.142253.
+BRIEFING_FILES_BLOCK_056170,30,stream=0x56000;block=0x170;text=30,"[""stream=0x56000;block=0x170;text=30""]",1,BRIEFING FILES,"[""stream=0x56000;block=0x170;block_file=0x56170;text_base=0x5620C;capacity=2512""]","ふん。客観的に評価しただけだ。
+","私は、自分の意志で、前へ進む人間が好き。状況に流され
+るようでは話にならない。まずはそこからだ。
+",,[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我喜欢有前进意志的人。,"[""我喜欢有前进意志的人。""]","I like people who possess the will to move forward.
+","[""I like people who possess the will to move forward.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x56170; ENG blocks=0xE4140; ENG source rows=0xE4140#38; block_semantic_score=0.142253.

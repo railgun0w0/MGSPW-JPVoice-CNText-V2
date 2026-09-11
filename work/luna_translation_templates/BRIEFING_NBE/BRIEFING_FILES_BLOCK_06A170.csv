@@ -1,0 +1,64 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06A170,0,stream=0x6A000;block=0x170;text=0,"[""stream=0x6A000;block=0x170;text=0""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]",,"ピースウォーカーが移動型核兵器である理由…それは、核
+抑止の力を最大限に高めるためだ。
+","どういうことだ。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和平行者之所以是一套
+机动核武器系统，是为了将核威慑的潜力发挥到极致。","[""和平行者之所以是一套\n机动核武器系统，是为了将核威慑的潜力发挥到极致。""]","The reason Peace Walker is a mobile nuclear
+weapons system
+is to maximize its potential as a nuclear deterrent.
+","[""The reason Peace Walker is a mobile nuclear\nweapons system\nis to maximize its potential as a nuclear deterrent.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6A170; ENG blocks=0xF6A00,0xF6A00; ENG source rows=0xF6A00#0,0xF6A00#1; block_semantic_score=0.155305."
+BRIEFING_FILES_BLOCK_06A170,1,stream=0x6A000;block=0x170;text=1,"[""stream=0x6A000;block=0x170;text=1""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]","ピースウォーカーが移動型核兵器である理由…それは、核
+抑止の力を最大限に高めるためだ。
+","どういうことだ。
+","必要なら常に移動し、敵に居場所をつかませない…そうす
+ることで、ピースウォーカーは敵の先制攻撃から逃れられ
+る。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么说？,"[""怎么说？""]","How so?
+","[""How so?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6A170; ENG blocks=0xF6A00; ENG source rows=0xF6A00#2; block_semantic_score=0.155305.
+BRIEFING_FILES_BLOCK_06A170,2,stream=0x6A000;block=0x170;text=2,"[""stream=0x6A000;block=0x170;text=2""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]","どういうことだ。
+","必要なら常に移動し、敵に居場所をつかませない…そうす
+ることで、ピースウォーカーは敵の先制攻撃から逃れられ
+る。
+","つまり、核報復というカードを持ち続けられる、というこ
+とか。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,只要有必要，和平行者就能持续移动，,"[""只要有必要，和平行者就能持续移动，""]","If need be, Peace Walker can stay constantly on
+the move
+","[""If need be, Peace Walker can stay constantly on\nthe move\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6A170; ENG blocks=0xF6A00; ENG source rows=0xF6A00#3; block_semantic_score=0.155305.
+BRIEFING_FILES_BLOCK_06A170,3,stream=0x6A000;block=0x170;text=3,"[""stream=0x6A000;block=0x170;text=3""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]","必要なら常に移動し、敵に居場所をつかませない…そうす
+ることで、ピースウォーカーは敵の先制攻撃から逃れられ
+る。
+","つまり、核報復というカードを持ち続けられる、というこ
+とか。
+","中南米には密林が多い。多少機体が大きくても、隠れる場
+所はいくらでもある…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以你是说，它把报复的
+王牌一直握在手里。","[""所以你是说，它把报复的\n王牌一直握在手里。""]","So you're saying it keeps the retaliation card in
+play.
+","[""So you're saying it keeps the retaliation card in\nplay.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6A170; ENG blocks=0xF6A00; ENG source rows=0xF6A00#6; block_semantic_score=0.155305.
+BRIEFING_FILES_BLOCK_06A170,4,stream=0x6A000;block=0x170;text=4,"[""stream=0x6A000;block=0x170;text=4""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]","つまり、核報復というカードを持ち続けられる、というこ
+とか。
+","中南米には密林が多い。多少機体が大きくても、隠れる場
+所はいくらでもある…。
+","ミサイル原潜の陸上版、というわけか。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Coldman喜欢这样吹嘘…,"[""Coldman喜欢这样吹嘘…""]","Coldman likes to brag about it in this way...
+","[""Coldman likes to brag about it in this way...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6A170; ENG blocks=0xF6A00; ENG source rows=0xF6A00#7; block_semantic_score=0.155305.
+BRIEFING_FILES_BLOCK_06A170,5,stream=0x6A000;block=0x170;text=5,"[""stream=0x6A000;block=0x170;text=5""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]","中南米には密林が多い。多少機体が大きくても、隠れる場
+所はいくらでもある…。
+","ミサイル原潜の陸上版、というわけか。
+","それと、移動する目的は、もう一つある。ピースウォーカ
+ーは1Mt<R=級,クラス>の核ミサイルを積んでいるんだけど。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就像陆基版的弹道导弹
+核潜艇（SSBN）。","[""就像陆基版的弹道导弹\n核潜艇（SSBN）。""]","Like a land-based version of an SSBN.
+","[""Like a land-based version of an SSBN.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6A170; ENG blocks=0xF6A00; ENG source rows=0xF6A00#8; block_semantic_score=0.155305.
+BRIEFING_FILES_BLOCK_06A170,6,stream=0x6A000;block=0x170;text=6,"[""stream=0x6A000;block=0x170;text=6""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]","ミサイル原潜の陸上版、というわけか。
+","それと、移動する目的は、もう一つある。ピースウォーカ
+ーは1Mt<R=級,クラス>の核ミサイルを積んでいるんだけど。
+","他に自爆機能も持ってるんだ。
+","[""<R=級,クラス>""]",,,NOT_CHECKED,157,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且，让它们保持机动
+还有另一个原因。","[""而且，让它们保持机动\n还有另一个原因。""]","And there's another reason for them to be mobile.
+","[""And there's another reason for them to be mobile.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6A170; ENG blocks=0xF6A00; ENG source rows=0xF6A00#9; block_semantic_score=0.155305.
+BRIEFING_FILES_BLOCK_06A170,7,stream=0x6A000;block=0x170;text=7,"[""stream=0x6A000;block=0x170;text=7""]",1,BRIEFING FILES,"[""stream=0x6A000;block=0x170;block_file=0x6A170;text_base=0x6A1B0;capacity=784""]","それと、移動する目的は、もう一つある。ピースウォーカ
+ーは1Mt<R=級,クラス>の核ミサイルを積んでいるんだけど。
+","他に自爆機能も持ってるんだ。
+",,[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,和平行者还装有自毁装置。,"[""和平行者还装有自毁装置。""]","Peace Walker also has a self-destruct function.
+","[""Peace Walker also has a self-destruct function.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6A170; ENG blocks=0xF6A00; ENG source rows=0xF6A00#10; block_semantic_score=0.155305.

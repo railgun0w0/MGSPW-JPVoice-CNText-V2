@@ -1,0 +1,388 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_090C40,0,stream=0x90000;block=0xC40;text=0,"[""stream=0x90000;block=0xC40;text=0""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]",,"軌道を外れたザ・ボスの船は、予定していた着水点を大き
+く逸れ、減速が足りないまま海面に激突した。
+","着水の衝撃で宇宙船は大破。そのまま沈没した。ザ・ボス
+は何とか自力で水面へ脱出した…。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它没有足够时间减速，就坠入了大海。,"[""它没有足够时间减速，就坠入了大海。""]","It didn't have enough time to decelerate before
+crashing into the sea.
+","[""It didn't have enough time to decelerate before\ncrashing into the sea.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#1; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,1,stream=0x90000;block=0xC40;text=1,"[""stream=0x90000;block=0xC40;text=1""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","軌道を外れたザ・ボスの船は、予定していた着水点を大き
+く逸れ、減速が足りないまま海面に激突した。
+","着水の衝撃で宇宙船は大破。そのまま沈没した。ザ・ボス
+は何とか自力で水面へ脱出した…。
+","全身打撲と放射線被曝。生きているのが不思議なくらいだ
+った。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"撞击的冲击力撞碎了航天器，
+随后它开始像石头一样下沉。The Boss用尽最后一丝力气浮出水面…","[""撞击的冲击力撞碎了航天器，\n随后它开始像石头一样下沉。The Boss用尽最后一丝力气浮出水面…""]","The force of the impact shattered the spacecraft,
+before it started to sink like a stone.
+The Boss used the last of her strength to escape
+to the surface...
+","[""The force of the impact shattered the spacecraft,\nbefore it started to sink like a stone.\nThe Boss used the last of her strength to escape\nto the surface...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#2,0x11C2D0#3; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,2,stream=0x90000;block=0xC40;text=2,"[""stream=0x90000;block=0xC40;text=2""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","着水の衝撃で宇宙船は大破。そのまま沈没した。ザ・ボス
+は何とか自力で水面へ脱出した…。
+","全身打撲と放射線被曝。生きているのが不思議なくらいだ
+った。
+","彼女はそのまま半年もの間、昏睡し続けた。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她浑身淤伤，还被辐射灼伤。,"[""她浑身淤伤，还被辐射灼伤。""]","Her body was covered in bruises and scorched by
+radiation.
+","[""Her body was covered in bruises and scorched by\nradiation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#4; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,3,stream=0x90000;block=0xC40;text=3,"[""stream=0x90000;block=0xC40;text=3""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","全身打撲と放射線被曝。生きているのが不思議なくらいだ
+った。
+","彼女はそのまま半年もの間、昏睡し続けた。
+","残念ながら、宇宙へ上がった時刻はわずかにガガーリンの
+ほうが早かった。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她陷入昏迷，六个月后才恢复意识。,"[""她陷入昏迷，六个月后才恢复意识。""]","She slipped into a coma and didn't regain
+consciousness for six months.
+","[""She slipped into a coma and didn't regain\nconsciousness for six months.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#6; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,4,stream=0x90000;block=0xC40;text=4,"[""stream=0x90000;block=0xC40;text=4""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","彼女はそのまま半年もの間、昏睡し続けた。
+","残念ながら、宇宙へ上がった時刻はわずかにガガーリンの
+ほうが早かった。
+","それでも、アメリカ初の宇宙飛行は、輝かしい業績である
+はずだった。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对某些人来说，最糟糕的是她以几分钟之差在太空
+竞赛中输给了加加林。","[""对某些人来说，最糟糕的是她以几分钟之差在太空\n竞赛中输给了加加林。""]","To some, what was worst of all was that
+she had lost the space race to Gagarin by only a
+few minutes.
+","[""To some, what was worst of all was that\nshe had lost the space race to Gagarin by only a\nfew minutes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#7,0x11C2D0#8; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,5,stream=0x90000;block=0xC40;text=5,"[""stream=0x90000;block=0xC40;text=5""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","残念ながら、宇宙へ上がった時刻はわずかにガガーリンの
+ほうが早かった。
+","それでも、アメリカ初の宇宙飛行は、輝かしい業績である
+はずだった。
+","けれど、このことは歴史には記されていない。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"撇开这点不谈，
+这本该是美国骄傲的一天——它的首次载人航天飞行。","[""撇开这点不谈，\n这本该是美国骄傲的一天——它的首次载人航天飞行。""]","That aside, it should have been a proud day for
+America
+- its first manned spaceflight.
+","[""That aside, it should have been a proud day for\nAmerica\n- its first manned spaceflight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#9,0x11C2D0#10; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,6,stream=0x90000;block=0xC40;text=6,"[""stream=0x90000;block=0xC40;text=6""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","それでも、アメリカ初の宇宙飛行は、輝かしい業績である
+はずだった。
+","けれど、このことは歴史には記されていない。
+","それは、アメリカのメンツのためだった。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"遗憾的是，她的成就
+被从史书中抹去了。","[""遗憾的是，她的成就\n被从史书中抹去了。""]","Sadly, her accomplishment was kept out of the
+history books.
+","[""Sadly, her accomplishment was kept out of the\nhistory books.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#11; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,7,stream=0x90000;block=0xC40;text=7,"[""stream=0x90000;block=0xC40;text=7""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","けれど、このことは歴史には記されていない。
+","それは、アメリカのメンツのためだった。
+","周回軌道に乗って地球を一周したガガーリンに比べ、アメ
+リカ側はただの弾道飛行。飛行時間にも大きな違いがある。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这是华盛顿为保全面子而做出的举动。,"[""这是华盛顿为保全面子而做出的举动。""]","An attempt to save face by Washington.
+","[""An attempt to save face by Washington.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#12; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,8,stream=0x90000;block=0xC40;text=8,"[""stream=0x90000;block=0xC40;text=8""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","それは、アメリカのメンツのためだった。
+","周回軌道に乗って地球を一周したガガーリンに比べ、アメ
+リカ側はただの弾道飛行。飛行時間にも大きな違いがある。
+","何よりソ連側は、宇宙船もパイロットも無事だった。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"与加加林的轨道飞行相比，
+美国只实现了弹道轨迹飞行。","[""与加加林的轨道飞行相比，\n美国只实现了弹道轨迹飞行。""]","In contrast to Gagarin's orbital fight, America had
+only managed a ballistic trajectory.
+","[""In contrast to Gagarin's orbital fight, America had\nonly managed a ballistic trajectory.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#13; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,9,stream=0x90000;block=0xC40;text=9,"[""stream=0x90000;block=0xC40;text=9""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","周回軌道に乗って地球を一周したガガーリンに比べ、アメ
+リカ側はただの弾道飛行。飛行時間にも大きな違いがある。
+","何よりソ連側は、宇宙船もパイロットも無事だった。
+","なまじ生還したことで、美談に仕立て上げることもできな
+い。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而最重要的是，苏联人让航天器
+和飞行员都安全返回了。","[""而最重要的是，苏联人让航天器\n和飞行员都安全返回了。""]","And most importantly, the Soviets had brought
+back both spacecraft and pilot safely.
+","[""And most importantly, the Soviets had brought\nback both spacecraft and pilot safely.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#15; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,10,stream=0x90000;block=0xC40;text=10,"[""stream=0x90000;block=0xC40;text=10""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","何よりソ連側は、宇宙船もパイロットも無事だった。
+","なまじ生還したことで、美談に仕立て上げることもできな
+い。
+","決定打は、飛行直後に開始されたソ連のプロパガンダ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"NASA甚至连一个敷衍的英雄
+生还故事都编不出来。","[""NASA甚至连一个敷衍的英雄\n生还故事都编不出来。""]","NASA couldn't even conjure up a half-hearted tale
+of heroic survival.
+","[""NASA couldn't even conjure up a half-hearted tale\nof heroic survival.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#16; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,11,stream=0x90000;block=0xC40;text=11,"[""stream=0x90000;block=0xC40;text=11""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","なまじ生還したことで、美談に仕立て上げることもできな
+い。
+","決定打は、飛行直後に開始されたソ連のプロパガンダ。
+","「地球は青かった」…この言葉を初めとしたガガーリンの
+体験談が、世界を駆け巡った。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"飞行结束后，苏联的
+宣传攻势全面启动。","[""飞行结束后，苏联的\n宣传攻势全面启动。""]","the Soviet propaganda campaign that kicked into
+gear after the flight.
+","[""the Soviet propaganda campaign that kicked into\ngear after the flight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#18; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,12,stream=0x90000;block=0xC40;text=12,"[""stream=0x90000;block=0xC40;text=12""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","決定打は、飛行直後に開始されたソ連のプロパガンダ。
+","「地球は青かった」…この言葉を初めとしたガガーリンの
+体験談が、世界を駆け巡った。
+","瞬く間に、ガガーリンは世界中から賞賛と祝福を集めるよ
+うになった。ソ連にしてみれば、格好の宣伝だった。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“地球是蓝色的…”
+这就是加加林归来时说的话。而全世界都在聆听。","[""“地球是蓝色的…”\n这就是加加林归来时说的话。而全世界都在聆听。""]","""The Earth was blue..."" Those were the words of
+Gagarin on his return.
+And the whole world was listening.
+","[""\""The Earth was blue...\"" Those were the words of\nGagarin on his return.\nAnd the whole world was listening.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#19,0x11C2D0#20; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,13,stream=0x90000;block=0xC40;text=13,"[""stream=0x90000;block=0xC40;text=13""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","「地球は青かった」…この言葉を初めとしたガガーリンの
+体験談が、世界を駆け巡った。
+","瞬く間に、ガガーリンは世界中から賞賛と祝福を集めるよ
+うになった。ソ連にしてみれば、格好の宣伝だった。
+","アメリカ政府は沈黙するしかなかった。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"转眼之间，加加林就成了国际名人，
+获得了来自世界各地的赞誉。","[""转眼之间，加加林就成了国际名人，\n获得了来自世界各地的赞誉。""]","In the blink of an eye, Gagarin was an international
+celebrity, earning accolades from every corner.
+","[""In the blink of an eye, Gagarin was an international\ncelebrity, earning accolades from every corner.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#21; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,14,stream=0x90000;block=0xC40;text=14,"[""stream=0x90000;block=0xC40;text=14""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","瞬く間に、ガガーリンは世界中から賞賛と祝福を集めるよ
+うになった。ソ連にしてみれば、格好の宣伝だった。
+","アメリカ政府は沈黙するしかなかった。
+","ザ・ボスの飛行を公開することは、プロパガンダにはなら
+ない。むしろ逆効果だと判断されたの。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这对苏联来说是一次
+公关上的重大胜利。","[""这对苏联来说是一次\n公关上的重大胜利。""]","It was a PR coup for the Soviet Union.
+","[""It was a PR coup for the Soviet Union.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#22; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,15,stream=0x90000;block=0xC40;text=15,"[""stream=0x90000;block=0xC40;text=15""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","アメリカ政府は沈黙するしかなかった。
+","ザ・ボスの飛行を公開することは、プロパガンダにはなら
+ない。むしろ逆効果だと判断されたの。
+","政府は、彼女の飛行を闇のミッションとして葬った…。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们认为公开The Boss的
+飞行毫无价值，","[""他们认为公开The Boss的\n飞行毫无价值，""]","They decided there was no value in making The
+Boss' flight public,
+","[""They decided there was no value in making The\nBoss' flight public,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#24; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,16,stream=0x90000;block=0xC40;text=16,"[""stream=0x90000;block=0xC40;text=16""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ザ・ボスの飛行を公開することは、プロパガンダにはなら
+ない。むしろ逆効果だと判断されたの。
+","政府は、彼女の飛行を闇のミッションとして葬った…。
+","NASAとCIAは、マーキュリー計画からザ・ボスの痕跡を
+抹消することに全力を傾けた。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"于是他们反而把它掩盖起来，
+标记为一项黑暗任务…","[""于是他们反而把它掩盖起来，\n标记为一项黑暗任务…""]","So they buried it instead, labeling it a dark mission...
+","[""So they buried it instead, labeling it a dark mission...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#26; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,17,stream=0x90000;block=0xC40;text=17,"[""stream=0x90000;block=0xC40;text=17""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","政府は、彼女の飛行を闇のミッションとして葬った…。
+","NASAとCIAは、マーキュリー計画からザ・ボスの痕跡を
+抹消することに全力を傾けた。
+","その結果が、この写真。本当に見事な修整でしょう？
+",[],,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,NASA和中情局(CIA)动用了一切力量,"[""NASA和中情局(CIA)动用了一切力量""]","NASA and the CIA did everything in their power
+","[""NASA and the CIA did everything in their power\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#27; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,18,stream=0x90000;block=0xC40;text=18,"[""stream=0x90000;block=0xC40;text=18""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","NASAとCIAは、マーキュリー計画からザ・ボスの痕跡を
+抹消することに全力を傾けた。
+","その結果が、この写真。本当に見事な修整でしょう？
+","飛行計画だけでなく、彼女の存在自体が「なかったこと」
+にされたの。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"结果就是你眼前这张
+照片。干得不错吧？","[""结果就是你眼前这张\n照片。干得不错吧？""]","The result was the photo you see before you. Not
+a bad job, huh?
+","[""The result was the photo you see before you. Not\na bad job, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#29; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,19,stream=0x90000;block=0xC40;text=19,"[""stream=0x90000;block=0xC40;text=19""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","その結果が、この写真。本当に見事な修整でしょう？
+","飛行計画だけでなく、彼女の存在自体が「なかったこと」
+にされたの。
+","それだけじゃない。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们不仅把她的飞行从记录中删除，还否认她曾经存在过。,"[""他们不仅把她的飞行从记录中删除，还否认她曾经存在过。""]","Not only did they expunge her flight from the
+records,
+they denied that she ever existed.
+","[""Not only did they expunge her flight from the\nrecords,\nthey denied that she ever existed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#30,0x11C2D0#31; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,20,stream=0x90000;block=0xC40;text=20,"[""stream=0x90000;block=0xC40;text=20""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","飛行計画だけでなく、彼女の存在自体が「なかったこと」
+にされたの。
+","それだけじゃない。
+","アリバイ作りのために、軍はザ・ボスがCIAによるキュー
+バ奪還作戦「コスチノス湾事件」に参加していたことにし
+た。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且这还不是结束。,"[""而且这还不是结束。""]","And that wasn't the end of it.
+","[""And that wasn't the end of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#32; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,21,stream=0x90000;block=0xC40;text=21,"[""stream=0x90000;block=0xC40;text=21""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","それだけじゃない。
+","アリバイ作りのために、軍はザ・ボスがCIAによるキュー
+バ奪還作戦「コスチノス湾事件」に参加していたことにし
+た。
+","そのうえ回復後のザ・ボスを、軍は迎え入れなかった。彼
+女は、地下に潜るしかなかった。
+",[],,,NOT_CHECKED,162,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她参与了中情局(CIA)失败的
+猪湾阴谋，企图夺回古巴。","[""她参与了中情局(CIA)失败的\n猪湾阴谋，企图夺回古巴。""]","she'd taken part in the CIA's botched Bay of Pigs
+plot to take back Cuba.
+","[""she'd taken part in the CIA's botched Bay of Pigs\nplot to take back Cuba.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#34; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,22,stream=0x90000;block=0xC40;text=22,"[""stream=0x90000;block=0xC40;text=22""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","アリバイ作りのために、軍はザ・ボスがCIAによるキュー
+バ奪還作戦「コスチノス湾事件」に参加していたことにし
+た。
+","そのうえ回復後のザ・ボスを、軍は迎え入れなかった。彼
+女は、地下に潜るしかなかった。
+","公にはザ・ボスは「大戦の英雄」のまま。だけど、実際に
+は違った。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而当The Boss终于康复
+到可以重返服役时，他们却不肯接纳她。她被迫转入地下。","[""而当The Boss终于康复\n到可以重返服役时，他们却不肯接纳她。她被迫转入地下。""]","And when The Boss was finally well enough to
+return to service,
+they wouldn't take her back. She was forced to go
+underground.
+","[""And when The Boss was finally well enough to\nreturn to service,\nthey wouldn't take her back. She was forced to go\nunderground.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#35,0x11C2D0#36; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,23,stream=0x90000;block=0xC40;text=23,"[""stream=0x90000;block=0xC40;text=23""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","そのうえ回復後のザ・ボスを、軍は迎え入れなかった。彼
+女は、地下に潜るしかなかった。
+","公にはザ・ボスは「大戦の英雄」のまま。だけど、実際に
+は違った。
+","もはや公的に存在しない人間。<R=汚れ仕事,BLACK OPS>を引き受けるだけ
+の存在…そう、彼女は亡者として扱われたの。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在公众眼中，The Boss
+仍然是二战英雄。","[""在公众眼中，The Boss\n仍然是二战英雄。""]","In the public eye, The Boss was still a hero of
+World War II.
+","[""In the public eye, The Boss was still a hero of\nWorld War II.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#37; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,24,stream=0x90000;block=0xC40;text=24,"[""stream=0x90000;block=0xC40;text=24""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","公にはザ・ボスは「大戦の英雄」のまま。だけど、実際に
+は違った。
+","もはや公的に存在しない人間。<R=汚れ仕事,BLACK OPS>を引き受けるだけ
+の存在…そう、彼女は亡者として扱われたの。
+","ガガーリンは世界中を巡り、祝福を受けた。
+","[""<R=汚れ仕事,BLACK OPS>""]",,,NOT_CHECKED,157,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她是一个不存在的人，
+只适合执行最黑暗的黑色行动…","[""她是一个不存在的人，\n只适合执行最黑暗的黑色行动…""]","She was a non-person, fit only for the blackest of
+black ops...
+","[""She was a non-person, fit only for the blackest of\nblack ops...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#39; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,25,stream=0x90000;block=0xC40;text=25,"[""stream=0x90000;block=0xC40;text=25""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","もはや公的に存在しない人間。<R=汚れ仕事,BLACK OPS>を引き受けるだけ
+の存在…そう、彼女は亡者として扱われたの。
+","ガガーリンは世界中を巡り、祝福を受けた。
+","一方ザ・ボスは「生ける亡者」として、それを語ることす
+ら許されない。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"加加林在数百万崇拜的
+粉丝面前进行全球巡游。","[""加加林在数百万崇拜的\n粉丝面前进行全球巡游。""]","Gagarin went on a worldwide tour in front of
+millions of adoring fans.
+","[""Gagarin went on a worldwide tour in front of\nmillions of adoring fans.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#41; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,26,stream=0x90000;block=0xC40;text=26,"[""stream=0x90000;block=0xC40;text=26""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ガガーリンは世界中を巡り、祝福を受けた。
+","一方ザ・ボスは「生ける亡者」として、それを語ることす
+ら許されない。
+","彼女は政府の高官からこう言われたそうよ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"与此同时，The Boss
+却是一个行走的秘密，对自己的经历一个字也不能吐露。","[""与此同时，The Boss\n却是一个行走的秘密，对自己的经历一个字也不能吐露。""]","The Boss, meanwhile, was a walking secret,
+unable to breath a word about her experience.
+","[""The Boss, meanwhile, was a walking secret,\nunable to breath a word about her experience.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#42,0x11C2D0#43; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,27,stream=0x90000;block=0xC40;text=27,"[""stream=0x90000;block=0xC40;text=27""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","一方ザ・ボスは「生ける亡者」として、それを語ることす
+ら許されない。
+","彼女は政府の高官からこう言われたそうよ。
+","「君はなぜここにいるのかね？」。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,华盛顿当局是这样说的：“你为什么还在这里？”,"[""华盛顿当局是这样说的：“你为什么还在这里？”""]","The authorities in Washington had this to say:
+""Why are you still here?""
+","[""The authorities in Washington had this to say:\n\""Why are you still here?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#44,0x11C2D0#45; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,28,stream=0x90000;block=0xC40;text=28,"[""stream=0x90000;block=0xC40;text=28""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","彼女は政府の高官からこう言われたそうよ。
+","「君はなぜここにいるのかね？」。
+","「あの時、ガガーリンのように一端の名言でも吐いて名誉
+の死を遂げていれば、英雄として名を遺せたのに」って。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“你要是能像加加林那样
+识相地说句漂亮话，","[""“你要是能像加加林那样\n识相地说句漂亮话，""]","""If only you'd had the decency to give us a nice
+quote like Gagarin
+","[""\""If only you'd had the decency to give us a nice\nquote like Gagarin\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#46; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,29,stream=0x90000;block=0xC40;text=29,"[""stream=0x90000;block=0xC40;text=29""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","「君はなぜここにいるのかね？」。
+","「あの時、ガガーリンのように一端の名言でも吐いて名誉
+の死を遂げていれば、英雄として名を遺せたのに」って。
+","それから3週間後の5月5日、オリジナル7の一人、アラン・
+シェパードが宇宙弾道飛行に成功した。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后光荣地死去，
+你就会被当作英雄了。”","[""然后光荣地死去，\n你就会被当作英雄了。”""]","and then die an honorable death, you'd have gone
+down as a hero.""
+","[""and then die an honorable death, you'd have gone\ndown as a hero.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#47; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,30,stream=0x90000;block=0xC40;text=30,"[""stream=0x90000;block=0xC40;text=30""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","「あの時、ガガーリンのように一端の名言でも吐いて名誉
+の死を遂げていれば、英雄として名を遺せたのに」って。
+","それから3週間後の5月5日、オリジナル7の一人、アラン・
+シェパードが宇宙弾道飛行に成功した。
+","彼の成功は、大々的に報道された。
+",[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,三周后，5月5日，艾伦·谢泼德，,"[""三周后，5月5日，艾伦·谢泼德，""]","Three weeks later, on May 5th, Alan Shepard,
+","[""Three weeks later, on May 5th, Alan Shepard,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#48; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,31,stream=0x90000;block=0xC40;text=31,"[""stream=0x90000;block=0xC40;text=31""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","それから3週間後の5月5日、オリジナル7の一人、アラン・
+シェパードが宇宙弾道飛行に成功した。
+","彼の成功は、大々的に報道された。
+","ザ・ボスでの失敗を元に、改良を加えた成果だった。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当然，他的成功要归功于从
+The Boss的悲剧中吸取的教训。","[""当然，他的成功要归功于从\nThe Boss的悲剧中吸取的教训。""]","Of course, he owed his success to the lessons
+learned from The Boss' tragedy.
+","[""Of course, he owed his success to the lessons\nlearned from The Boss' tragedy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#51; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,32,stream=0x90000;block=0xC40;text=32,"[""stream=0x90000;block=0xC40;text=32""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","彼の成功は、大々的に報道された。
+","ザ・ボスでの失敗を元に、改良を加えた成果だった。
+","ソ連はガガーリンの飛行に先立って、<R=　人　形　,イワン・イワノヴィチ>を使って
+着陸実験をしていたらしい。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在把加加林送入太空之前，
+苏联人曾使用一个假人，","[""在把加加林送入太空之前，\n苏联人曾使用一个假人，""]","Before sending Gagarin up into space, the Soviets
+had used a mannequin
+","[""Before sending Gagarin up into space, the Soviets\nhad used a mannequin\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#52; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,33,stream=0x90000;block=0xC40;text=33,"[""stream=0x90000;block=0xC40;text=33""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ザ・ボスでの失敗を元に、改良を加えた成果だった。
+","ソ連はガガーリンの飛行に先立って、<R=　人　形　,イワン・イワノヴィチ>を使って
+着陸実験をしていたらしい。
+","ザ・ボスは人形同様の扱いだったことになる…。
+","[""<R=　人　形　,イワン・イワノヴィチ>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"名叫伊万·伊万诺维奇，
+用来测试着陆程序。","[""名叫伊万·伊万诺维奇，\n用来测试着陆程序。""]","called Ivan Ivanovich to test the landing procedure.
+","[""called Ivan Ivanovich to test the landing procedure.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#53; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,34,stream=0x90000;block=0xC40;text=34,"[""stream=0x90000;block=0xC40;text=34""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ソ連はガガーリンの飛行に先立って、<R=　人　形　,イワン・イワノヴィチ>を使って
+着陸実験をしていたらしい。
+","ザ・ボスは人形同様の扱いだったことになる…。
+","でも、彼女は言った「人形だろうとなんだろうと、私の飛
+行が計画成功の助けになったなら、それは本望よ」って。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这样一来，The Boss就成了
+美国版的碰撞测试假人…","[""这样一来，The Boss就成了\n美国版的碰撞测试假人…""]","Which would make The Boss America's version of a
+crash-test dummy...
+","[""Which would make The Boss America's version of a\ncrash-test dummy...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#54; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,35,stream=0x90000;block=0xC40;text=35,"[""stream=0x90000;block=0xC40;text=35""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ザ・ボスは人形同様の扱いだったことになる…。
+","でも、彼女は言った「人形だろうとなんだろうと、私の飛
+行が計画成功の助けになったなら、それは本望よ」って。
+","だけど、それだけでは終わらなかった。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但她不在乎。“我很乐意当这个假人，”
+她说，“如果这能帮助计划成功。","[""但她不在乎。“我很乐意当这个假人，”\n她说，“如果这能帮助计划成功。""]","But she didn't care. ""I'm happy to be the dummy,""
+she said, ""if it'll help the project succeed.
+","[""But she didn't care. \""I'm happy to be the dummy,\""\nshe said, \""if it'll help the project succeed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#55; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,36,stream=0x90000;block=0xC40;text=36,"[""stream=0x90000;block=0xC40;text=36""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","でも、彼女は言った「人形だろうとなんだろうと、私の飛
+行が計画成功の助けになったなら、それは本望よ」って。
+","だけど、それだけでは終わらなかった。
+","ザ・ボスはソ連内の反政府的『賢者達』のつてで<R=潜入工作員,スリーパー>
+を確保し、ソ連の宇宙開発計画に近づいた。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且，这仍然不是终点。,"[""而且，这仍然不是终点。""]","And that STILL wasn't the end of it.
+","[""And that STILL wasn't the end of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#57; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,37,stream=0x90000;block=0xC40;text=37,"[""stream=0x90000;block=0xC40;text=37""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","だけど、それだけでは終わらなかった。
+","ザ・ボスはソ連内の反政府的『賢者達』のつてで<R=潜入工作員,スリーパー>
+を確保し、ソ連の宇宙開発計画に近づいた。
+","そして、ある時点からその事はソ連に筒抜けだった。
+","[""<R=潜入工作員,スリーパー>""]",,,NOT_CHECKED,163,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"The Boss曾通过苏联哲学家
+组织中的反莫斯科派系安插了那名潜伏特工。","[""The Boss曾通过苏联哲学家\n组织中的反莫斯科派系安插了那名潜伏特工。""]","The Boss had worked through the anti-Moscow
+faction of the Soviet Union's Philosophers
+to place the sleeper agent.
+","[""The Boss had worked through the anti-Moscow\nfaction of the Soviet Union's Philosophers\nto place the sleeper agent.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#58,0x11C2D0#59; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,38,stream=0x90000;block=0xC40;text=38,"[""stream=0x90000;block=0xC40;text=38""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ザ・ボスはソ連内の反政府的『賢者達』のつてで<R=潜入工作員,スリーパー>
+を確保し、ソ連の宇宙開発計画に近づいた。
+","そして、ある時点からその事はソ連に筒抜けだった。
+","にも関わらず、アメリカ側ではその事実をつかめていなか
+った…。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而在某个时候，苏联人发现了这件事。,"[""而在某个时候，苏联人发现了这件事。""]","And at some point, the Soviets found out about it.
+","[""And at some point, the Soviets found out about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#60; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,39,stream=0x90000;block=0xC40;text=39,"[""stream=0x90000;block=0xC40;text=39""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","そして、ある時点からその事はソ連に筒抜けだった。
+","にも関わらず、アメリカ側ではその事実をつかめていなか
+った…。
+","ザ・ボスがつないだ『賢者達』のネットワークからも、ス
+リーパーの裏切りは伝わってこなかったの。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,然而，美国人直到最后都浑然不觉…,"[""然而，美国人直到最后都浑然不觉…""]","Yet the Americans remained oblivious to the end...
+","[""Yet the Americans remained oblivious to the end...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#61; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,40,stream=0x90000;block=0xC40;text=40,"[""stream=0x90000;block=0xC40;text=40""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","にも関わらず、アメリカ側ではその事実をつかめていなか
+った…。
+","ザ・ボスがつないだ『賢者達』のネットワークからも、ス
+リーパーの裏切りは伝わってこなかったの。
+","そこには2通りの可能性しかない。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就连The Boss所接入的哲学家网络也从未向他们透露过这场背叛。,"[""就连The Boss所接入的哲学家网络也从未向他们透露过这场背叛。""]","Even the Philosopher network The Boss plugged
+into
+never tipped them off to the double cross.
+","[""Even the Philosopher network The Boss plugged\ninto\nnever tipped them off to the double cross.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#62,0x11C2D0#63; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,41,stream=0x90000;block=0xC40;text=41,"[""stream=0x90000;block=0xC40;text=41""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ザ・ボスがつないだ『賢者達』のネットワークからも、ス
+リーパーの裏切りは伝わってこなかったの。
+","そこには2通りの可能性しかない。
+","ソ連政府に近い『賢者達』が介入したか、あるいは反政府
+的だった『賢者達』が懐柔されたか。
+",[],,,NOT_CHECKED,47,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那只能意味着两种情况之一。,"[""那只能意味着两种情况之一。""]","That could only mean one of two things.
+","[""That could only mean one of two things.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#64; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,42,stream=0x90000;block=0xC40;text=42,"[""stream=0x90000;block=0xC40;text=42""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","そこには2通りの可能性しかない。
+","ソ連政府に近い『賢者達』が介入したか、あるいは反政府
+的だった『賢者達』が懐柔されたか。
+","それはアメリカ側の『賢者達』にとって、許すことのでき
+ない事実だったの。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要么是反莫斯科的哲学家已经倒戈。无论哪种情况，这种局面都是他们
+在美国的同行所无法容忍的。","[""要么是反莫斯科的哲学家已经倒戈。无论哪种情况，这种局面都是他们\n在美国的同行所无法容忍的。""]","or the anti-Moscow Philosophers had been turned.
+Either way, it was a situation their American
+counterparts couldn't stand.
+","[""or the anti-Moscow Philosophers had been turned.\nEither way, it was a situation their American\ncounterparts couldn't stand.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x90C40; ENG blocks=0x11C2D0,0x11C2D0; ENG source rows=0x11C2D0#66,0x11C2D0#67; block_semantic_score=0.162497."
+BRIEFING_FILES_BLOCK_090C40,43,stream=0x90000;block=0xC40;text=43,"[""stream=0x90000;block=0xC40;text=43""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ソ連政府に近い『賢者達』が介入したか、あるいは反政府
+的だった『賢者達』が懐柔されたか。
+","それはアメリカ側の『賢者達』にとって、許すことのでき
+ない事実だったの。
+","ザ・ボスは『賢者達』のメンツを保つため、言わば落とし
+前を付けるためだけに、再びソ連に潜入することになった。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为了维护哲学家的名声——
+也可以说是为了偿还她的债务，","[""为了维护哲学家的名声——\n也可以说是为了偿还她的债务，""]","To preserve the Philosophers' good name - and to
+repay her debt, so to speak
+","[""To preserve the Philosophers' good name - and to\nrepay her debt, so to speak\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#68; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,44,stream=0x90000;block=0xC40;text=44,"[""stream=0x90000;block=0xC40;text=44""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","それはアメリカ側の『賢者達』にとって、許すことのでき
+ない事実だったの。
+","ザ・ボスは『賢者達』のメンツを保つため、言わば落とし
+前を付けるためだけに、再びソ連に潜入することになった。
+","そこで彼女は、ソ連側のエージェントと対峙した…。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,——The Boss再一次踏上了苏联的土地。,"[""——The Boss再一次踏上了苏联的土地。""]","- The Boss once again made her way into the
+Soviet Union.
+","[""- The Boss once again made her way into the\nSoviet Union.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#69; block_semantic_score=0.162497.
+BRIEFING_FILES_BLOCK_090C40,45,stream=0x90000;block=0xC40;text=45,"[""stream=0x90000;block=0xC40;text=45""]",1,BRIEFING FILES,"[""stream=0x90000;block=0xC40;block_file=0x90C40;text_base=0x90D18;capacity=4684""]","ザ・ボスは『賢者達』のメンツを保つため、言わば落とし
+前を付けるためだけに、再びソ連に潜入することになった。
+","そこで彼女は、ソ連側のエージェントと対峙した…。
+",,[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,在那里，她与苏联自己的特工面对面…,"[""在那里，她与苏联自己的特工面对面…""]","There, she found herself face to face with the
+Soviets' own agent...
+","[""There, she found herself face to face with the\nSoviets' own agent...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x90C40; ENG blocks=0x11C2D0; ENG source rows=0x11C2D0#70; block_semantic_score=0.162497.

@@ -1,0 +1,32 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0133A0,0,stream=0x13000;block=0x3A0;text=0,"[""stream=0x13000;block=0x3A0;text=0""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x3A0;block_file=0x133A0;text_base=0x133D0;capacity=424""]",,"バトルドレスは戦闘に特化した服だ。スニーキングスーツ
+の逆だな。持って行ける武器や弾薬の数が多いし、防御力
+も高い。
+","潜入には向かないが、派手に行きたい時はこいつに頼るの
+もいいだろう。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它能让你携带大量武器和弹药，
+并提供出色的防护。","[""它能让你携带大量武器和弹药，\n并提供出色的防护。""]","It lets you carry plenty of weapons and ammo, and
+provides excellent protection.
+","[""It lets you carry plenty of weapons and ammo, and\nprovides excellent protection.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x133A0; ENG blocks=0xA60D0; ENG source rows=0xA60D0#2; block_semantic_score=0.137681.
+BRIEFING_FILES_BLOCK_0133A0,1,stream=0x13000;block=0x3A0;text=1,"[""stream=0x13000;block=0x3A0;text=1""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x3A0;block_file=0x133A0;text_base=0x133D0;capacity=424""]","バトルドレスは戦闘に特化した服だ。スニーキングスーツ
+の逆だな。持って行ける武器や弾薬の数が多いし、防御力
+も高い。
+","潜入には向かないが、派手に行きたい時はこいつに頼るの
+もいいだろう。
+","さすがに重そうだな。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"虽然不适合潜入，
+但如果你想来场单人无双，","[""虽然不适合潜入，\n但如果你想来场单人无双，""]","Not the best choice for sneaking, but if you feel
+like playing one-man army,
+","[""Not the best choice for sneaking, but if you feel\nlike playing one-man army,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x133A0; ENG blocks=0xA60D0; ENG source rows=0xA60D0#3; block_semantic_score=0.137681.
+BRIEFING_FILES_BLOCK_0133A0,2,stream=0x13000;block=0x3A0;text=2,"[""stream=0x13000;block=0x3A0;text=2""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x3A0;block_file=0x133A0;text_base=0x133D0;capacity=424""]","潜入には向かないが、派手に行きたい時はこいつに頼るの
+もいいだろう。
+","さすがに重そうだな。
+","ああ。移動速度も遅くなるだろう。つまり潜入任務には向
+かない。気をつけてくれ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看起来真他妈重。,"[""看起来真他妈重。""]","Looks pretty damn heavy.
+","[""Looks pretty damn heavy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x133A0; ENG blocks=0xA60D0; ENG source rows=0xA60D0#5; block_semantic_score=0.137681.
+BRIEFING_FILES_BLOCK_0133A0,3,stream=0x13000;block=0x3A0;text=3,"[""stream=0x13000;block=0x3A0;text=3""]",1,BRIEFING FILES,"[""stream=0x13000;block=0x3A0;block_file=0x133A0;text_base=0x133D0;capacity=424""]","さすがに重そうだな。
+","ああ。移動速度も遅くなるだろう。つまり潜入任務には向
+かない。気をつけてくれ。
+",,[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,确实。穿上后你没法快速移动，,"[""确实。穿上后你没法快速移动，""]","It is. You won't be able to move as fast with it on,
+","[""It is. You won't be able to move as fast with it on,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x133A0; ENG blocks=0xA60D0; ENG source rows=0xA60D0#6; block_semantic_score=0.137681.

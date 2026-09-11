@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01DC10,0,stream=0x1D000;block=0xC10;text=0,"[""stream=0x1D000;block=0xC10;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]",,"今回のミッションでは、敵を一人も殺してはならない。
+","それから、一度でも敵に発見されたら任務は失敗となる。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,本次任务禁止击杀任何敌方战斗人员。,"[""本次任务禁止击杀任何敌方战斗人员。""]","In this mission, you're prohibited from killing any
+enemy combatants.
+","[""In this mission, you're prohibited from killing any\nenemy combatants.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1DC10; ENG blocks=0xAEE20; ENG source rows=0xAEE20#0; block_semantic_score=0.229451.
+BRIEFING_FILES_BLOCK_01DC10,1,stream=0x1D000;block=0xC10;text=1,"[""stream=0x1D000;block=0xC10;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","今回のミッションでは、敵を一人も殺してはならない。
+","それから、一度でも敵に発見されたら任務は失敗となる。
+","とにかく慎重に行動するようにしてくれ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而且只要被发现一次，任务就算失败。,"[""而且只要被发现一次，任务就算失败。""]","And if you're spotted even once, you fail.
+","[""And if you're spotted even once, you fail.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1DC10; ENG blocks=0xAEE20; ENG source rows=0xAEE20#1; block_semantic_score=0.229451.
+BRIEFING_FILES_BLOCK_01DC10,2,stream=0x1D000;block=0xC10;text=2,"[""stream=0x1D000;block=0xC10;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","それから、一度でも敵に発見されたら任務は失敗となる。
+","とにかく慎重に行動するようにしてくれ。
+","姿勢を低く保つ、近くに敵兵がいるときは足音を立てずに
+ゆっくり歩く…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,总之，务必谨慎行动。,"[""总之，务必谨慎行动。""]","Bottom line: proceed with caution.
+","[""Bottom line: proceed with caution.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1DC10; ENG blocks=0xAEE20; ENG source rows=0xAEE20#2; block_semantic_score=0.229451.
+BRIEFING_FILES_BLOCK_01DC10,3,stream=0x1D000;block=0xC10;text=3,"[""stream=0x1D000;block=0xC10;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","とにかく慎重に行動するようにしてくれ。
+","姿勢を低く保つ、近くに敵兵がいるときは足音を立てずに
+ゆっくり歩く…。
+","物陰に身を隠して、<I=ESEARCH>で相手の気配をうかがうのも有効だ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,压低身子。如果附近有敌人，,"[""压低身子。如果附近有敌人，""]","Stay low to the ground. If there are any enemies
+nearby,
+","[""Stay low to the ground. If there are any enemies\nnearby,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1DC10; ENG blocks=0xAEE20; ENG source rows=0xAEE20#3; block_semantic_score=0.229451.
+BRIEFING_FILES_BLOCK_01DC10,4,stream=0x1D000;block=0xC10;text=4,"[""stream=0x1D000;block=0xC10;text=4""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","姿勢を低く保つ、近くに敵兵がいるときは足音を立てずに
+ゆっくり歩く…。
+","物陰に身を隠して、<I=ESEARCH>で相手の気配をうかがうのも有効だ。
+","古典的だが、空になったマガジンを投げたりして敵を誘導
+するって手もある。
+","[""<I=ESEARCH>""]",,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,按<I=ESEARCH>来观察敌人。,"[""按<I=ESEARCH>来观察敌人。""]","and do <I=ESEARCH> to check out your enemies.
+","[""and do <I=ESEARCH> to check out your enemies.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1DC10; ENG blocks=0xAEE20; ENG source rows=0xAEE20#6; block_semantic_score=0.229451.
+BRIEFING_FILES_BLOCK_01DC10,5,stream=0x1D000;block=0xC10;text=5,"[""stream=0x1D000;block=0xC10;text=5""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","物陰に身を隠して、<I=ESEARCH>で相手の気配をうかがうのも有効だ。
+","古典的だが、空になったマガジンを投げたりして敵を誘導
+するって手もある。
+","音にも気を遣え。音を視覚化するサラウンドインジケータ
+ーも便利だ。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,扔空弹匣来分散敌人的注意力。,"[""扔空弹匣来分散敌人的注意力。""]","an empty ammo magazine to distract the enemy.
+","[""an empty ammo magazine to distract the enemy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1DC10; ENG blocks=0xAEE20; ENG source rows=0xAEE20#8; block_semantic_score=0.229451.
+BRIEFING_FILES_BLOCK_01DC10,6,stream=0x1D000;block=0xC10;text=6,"[""stream=0x1D000;block=0xC10;text=6""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","古典的だが、空になったマガジンを投げたりして敵を誘導
+するって手もある。
+","音にも気を遣え。音を視覚化するサラウンドインジケータ
+ーも便利だ。
+",,[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"周围感知指示器是把声音
+“可视化”的便捷方式。","[""周围感知指示器是把声音\n“可视化”的便捷方式。""]","The Surround Indicator is a handy way to ""see""
+sounds as visual data.
+","[""The Surround Indicator is a handy way to \""see\""\nsounds as visual data.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1DC10; ENG blocks=0xAEE20; ENG source rows=0xAEE20#10; block_semantic_score=0.229451.

@@ -1,0 +1,9 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_3719D0,0,stream=0x371000;block=0x9D0;text=0,"[""stream=0x371000;block=0x9D0;text=0""]",1,d2080_m0100_mrd,"[""stream=0x371000;block=0x9D0;block_file=0x3719D0;text_base=0x3719F4;capacity=136""]",,"スネーク！　敵戦車部隊だ。
+兵士を無力化するか、戦車を破壊するしかない。
+頼む、スネーク！
+",,[],,,NOT_CHECKED,132,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Snake！那是敌人的坦克部队。要么消灭那些士兵，
+要么摧毁坦克。干掉他们！","[""Snake！那是敌人的坦克部队。要么消灭那些士兵，\n要么摧毁坦克。干掉他们！""]","Snake! That's an enemy tank unit.
+Either neutralize the soldiers or destroy
+the tank. Get 'em!
+","[""Snake! That's an enemy tank unit.\nEither neutralize the soldiers or destroy\nthe tank. Get 'em!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3719D0; ENG blocks=0x389670,0x389670; ENG source rows=0x389670#0,0x389670#1; block_semantic_score=1.000000."

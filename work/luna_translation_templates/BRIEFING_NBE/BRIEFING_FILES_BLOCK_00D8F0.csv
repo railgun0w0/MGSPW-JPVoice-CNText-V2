@@ -1,0 +1,75 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00D8F0,0,stream=0xD000;block=0x8F0;text=0,"[""stream=0xD000;block=0x8F0;text=0""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]",,"カズ、お前がいた自衛隊は、軍隊とどう違うんだ？
+","自衛隊は、自国防衛のための組織だ。他国への侵攻を想定
+していない。いわゆる専守防衛だな。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那跟我说说，Kaz，你以前待的
+自卫队和一般的军队有什么不同？","[""那跟我说说，Kaz，你以前待的\n自卫队和一般的军队有什么不同？""]","So tell me, Kaz, how's the Self-Defense Force you
+were in different from an army?
+","[""So tell me, Kaz, how's the Self-Defense Force you\nwere in different from an army?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD8F0; ENG blocks=0xA04E0; ENG source rows=0xA04E0#0; block_semantic_score=0.262363.
+BRIEFING_FILES_BLOCK_00D8F0,1,stream=0xD000;block=0x8F0;text=1,"[""stream=0xD000;block=0x8F0;text=1""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","カズ、お前がいた自衛隊は、軍隊とどう違うんだ？
+","自衛隊は、自国防衛のための組織だ。他国への侵攻を想定
+していない。いわゆる専守防衛だな。
+","専守防衛？
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"JSDF是为了国土防卫而设立的。它不是为了对其他国家
+发动侵略而组建的。","[""JSDF是为了国土防卫而设立的。它不是为了对其他国家\n发动侵略而组建的。""]","The JSDF is set up for national defense.
+It's not configured for aggression against other
+countries.
+","[""The JSDF is set up for national defense.\nIt's not configured for aggression against other\ncountries.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xD8F0; ENG blocks=0xA04E0,0xA04E0; ENG source rows=0xA04E0#1,0xA04E0#2; block_semantic_score=0.262363."
+BRIEFING_FILES_BLOCK_00D8F0,2,stream=0xD000;block=0x8F0;text=2,"[""stream=0xD000;block=0x8F0;text=2""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","自衛隊は、自国防衛のための組織だ。他国への侵攻を想定
+していない。いわゆる専守防衛だな。
+","専守防衛？
+","自衛隊の基本的な軍事戦略だ。先制攻撃を行わず、相手の
+攻撃を受けてから、最低限の防衛行動を取る。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,专守…防卫？,"[""专守…防卫？""]","Exclusive... defense?
+","[""Exclusive... defense?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD8F0; ENG blocks=0xA04E0; ENG source rows=0xA04E0#4; block_semantic_score=0.262363.
+BRIEFING_FILES_BLOCK_00D8F0,3,stream=0xD000;block=0x8F0;text=3,"[""stream=0xD000;block=0x8F0;text=3""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","専守防衛？
+","自衛隊の基本的な軍事戦略だ。先制攻撃を行わず、相手の
+攻撃を受けてから、最低限の防衛行動を取る。
+","それなら自衛権の範疇、というわけか。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这是JSDF最根本的战略方针。
+绝不先发制人。只有在遭到敌方攻击之后，
+才采取最低限度的防御行动。","[""这是JSDF最根本的战略方针。\n绝不先发制人。只有在遭到敌方攻击之后，\n才采取最低限度的防御行动。""]","It's the fundamental strategic posture of the JSDF.
+No preemptive attacks.
+Only the minimum defensive action necessary after
+an enemy attacks.
+","[""It's the fundamental strategic posture of the JSDF.\nNo preemptive attacks.\nOnly the minimum defensive action necessary after\nan enemy attacks.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xD8F0; ENG blocks=0xA04E0,0xA04E0; ENG source rows=0xA04E0#5,0xA04E0#6; block_semantic_score=0.262363."
+BRIEFING_FILES_BLOCK_00D8F0,4,stream=0xD000;block=0x8F0;text=4,"[""stream=0xD000;block=0x8F0;text=4""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","自衛隊の基本的な軍事戦略だ。先制攻撃を行わず、相手の
+攻撃を受けてから、最低限の防衛行動を取る。
+","それなら自衛権の範疇、というわけか。
+","もともと自衛隊は「警察予備隊」として始まったんだ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也就是说，凡是被定义
+为自卫的行动都可以。","[""也就是说，凡是被定义\n为自卫的行动都可以。""]","Anything defined as self defense, then.
+","[""Anything defined as self defense, then.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD8F0; ENG blocks=0xA04E0; ENG source rows=0xA04E0#7; block_semantic_score=0.262363.
+BRIEFING_FILES_BLOCK_00D8F0,5,stream=0xD000;block=0x8F0;text=5,"[""stream=0xD000;block=0x8F0;text=5""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","それなら自衛権の範疇、というわけか。
+","もともと自衛隊は「警察予備隊」として始まったんだ。
+","その頃、朝鮮戦争のおかげで在日米軍が出払ってしまった。
+その穴を埋める意味もあったんだろう。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,JSDF的前身是警察预备队。,"[""JSDF的前身是警察预备队。""]","The JSDF originated as the National Police Reserve.
+","[""The JSDF originated as the National Police Reserve.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD8F0; ENG blocks=0xA04E0; ENG source rows=0xA04E0#8; block_semantic_score=0.262363.
+BRIEFING_FILES_BLOCK_00D8F0,6,stream=0xD000;block=0x8F0;text=6,"[""stream=0xD000;block=0x8F0;text=6""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","もともと自衛隊は「警察予備隊」として始まったんだ。
+","その頃、朝鮮戦争のおかげで在日米軍が出払ってしまった。
+その穴を埋める意味もあったんだろう。
+","警察か…コスタリカの市民警備隊を思い出すな。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当年，驻日美军被派去
+朝鲜战争前线作战。所以从某种意义上说，
+警察预备队填补了这个空缺。","[""当年，驻日美军被派去\n朝鲜战争前线作战。所以从某种意义上说，\n警察预备队填补了这个空缺。""]","Back then, American forces stationed in Japan
+were being sent over to fight in the Korean War.
+So in a sense, the NPR was filling a gap.
+","[""Back then, American forces stationed in Japan\nwere being sent over to fight in the Korean War.\nSo in a sense, the NPR was filling a gap.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xD8F0; ENG blocks=0xA04E0,0xA04E0; ENG source rows=0xA04E0#9,0xA04E0#10; block_semantic_score=0.262363."
+BRIEFING_FILES_BLOCK_00D8F0,7,stream=0xD000;block=0x8F0;text=7,"[""stream=0xD000;block=0x8F0;text=7""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","その頃、朝鮮戦争のおかげで在日米軍が出払ってしまった。
+その穴を埋める意味もあったんだろう。
+","警察か…コスタリカの市民警備隊を思い出すな。
+","そうそう、災害救助に派遣されることもある。俺が入隊す
+る前の年も、転落したバスの救助で大変だったらしい。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"警察啊…这让我想起了
+哥斯达黎加的民防警卫队。","[""警察啊…这让我想起了\n哥斯达黎加的民防警卫队。""]","Police, huh... Reminds me of the Costa Rican Civil
+Guard.
+","[""Police, huh... Reminds me of the Costa Rican Civil\nGuard.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD8F0; ENG blocks=0xA04E0; ENG source rows=0xA04E0#11; block_semantic_score=0.262363.
+BRIEFING_FILES_BLOCK_00D8F0,8,stream=0xD000;block=0x8F0;text=8,"[""stream=0xD000;block=0x8F0;text=8""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x8F0;block_file=0xD8F0;text_base=0xD934;capacity=860""]","警察か…コスタリカの市民警備隊を思い出すな。
+","そうそう、災害救助に派遣されることもある。俺が入隊す
+る前の年も、転落したバスの救助で大変だったらしい。
+",,[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错，就是这样。
+他们也会被派去做救灾工作。我加入的前一年，他们费了好大劲","[""没错，就是这样。\n他们也会被派去做救灾工作。我加入的前一年，他们费了好大劲""]","Yeah, exactly. They're also dispatched to provide
+disaster relief.
+The year before I joined, they had a hell of a time
+","[""Yeah, exactly. They're also dispatched to provide\ndisaster relief.\nThe year before I joined, they had a hell of a time\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xD8F0; ENG blocks=0xA04E0,0xA04E0; ENG source rows=0xA04E0#12,0xA04E0#13; block_semantic_score=0.262363."

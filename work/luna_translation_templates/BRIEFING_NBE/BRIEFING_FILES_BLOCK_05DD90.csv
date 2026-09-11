@@ -1,0 +1,85 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_05DD90,0,stream=0x5D000;block=0xD90;text=0,"[""stream=0x5D000;block=0xD90;text=0""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]",,"雲霧林と言えばヒゲドリも有名ね。
+","ヒゲドリ？　髭でも生えてるのか？
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"云雾森林里另一种有名的
+鸟是三肉垂钟雀。","[""云雾森林里另一种有名的\n鸟是三肉垂钟雀。""]","Another well-known bird of the cloud forest is the
+Three-wattled Bellbird.
+","[""Another well-known bird of the cloud forest is the\nThree-wattled Bellbird.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#0; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,1,stream=0x5D000;block=0xD90;text=1,"[""stream=0x5D000;block=0xD90;text=1""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","雲霧林と言えばヒゲドリも有名ね。
+","ヒゲドリ？　髭でも生えてるのか？
+","スネーク、あなたのお髭と一緒よ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,肉垂？肉垂是什么鬼东西？,"[""肉垂？肉垂是什么鬼东西？""]","Wattled? What the hell's a wattle?
+","[""Wattled? What the hell's a wattle?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#1; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,2,stream=0x5D000;block=0xD90;text=2,"[""stream=0x5D000;block=0xD90;text=2""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","ヒゲドリ？　髭でも生えてるのか？
+","スネーク、あなたのお髭と一緒よ。
+","は？
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就像你的胡子一样，Snake！,"[""就像你的胡子一样，Snake！""]","It is just like your beard, Snake!
+","[""It is just like your beard, Snake!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#2; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,3,stream=0x5D000;block=0xD90;text=3,"[""stream=0x5D000;block=0xD90;text=3""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","スネーク、あなたのお髭と一緒よ。
+","は？
+","まあ正確には毛じゃなくて肉垂れだけど、見た目は髭その
+もの。
+",[],,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？,"[""什么？""]","What?
+","[""What?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#3; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,4,stream=0x5D000;block=0xD90;text=4,"[""stream=0x5D000;block=0xD90;text=4""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","は？
+","まあ正確には毛じゃなくて肉垂れだけど、見た目は髭その
+もの。
+","肉垂れ？
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是从下巴垂下来的一块肉。有点像胡须，但不是毛发。,"[""是从下巴垂下来的一块肉。有点像胡须，但不是毛发。""]","It's a piece of flesh that hangs down from its chin.
+Kind of like whiskers, but not made of hair.
+","[""It's a piece of flesh that hangs down from its chin.\nKind of like whiskers, but not made of hair.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5DD90; ENG blocks=0xEA890,0xEA890; ENG source rows=0xEA890#4,0xEA890#5; block_semantic_score=0.266836."
+BRIEFING_FILES_BLOCK_05DD90,5,stream=0x5D000;block=0xD90;text=5,"[""stream=0x5D000;block=0xD90;text=5""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","まあ正確には毛じゃなくて肉垂れだけど、見た目は髭その
+もの。
+","肉垂れ？
+","うん。しかもオスにしか生えない。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一块垂下来的肉？,"[""一块垂下来的肉？""]","A hanging piece of flesh?
+","[""A hanging piece of flesh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#6; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,6,stream=0x5D000;block=0xD90;text=6,"[""stream=0x5D000;block=0xD90;text=6""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","肉垂れ？
+","うん。しかもオスにしか生えない。
+","結構なことだ。髭は男の命だからな。そいつも雲霧林にい
+るのか？
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错，而且只有雄性才有。,"[""没错，而且只有雄性才有。""]","Oui, and it only grows on males.
+","[""Oui, and it only grows on males.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#7; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,7,stream=0x5D000;block=0xD90;text=7,"[""stream=0x5D000;block=0xD90;text=7""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","うん。しかもオスにしか生えない。
+","結構なことだ。髭は男の命だからな。そいつも雲霧林にい
+るのか？
+","普段は低地の熱帯雨林にいるけど、繁殖期になると高地の
+雲霧林に移るの。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对男人来说，没什么比胡子更重要了。所以这种鸟也在云雾森林里？,"[""对男人来说，没什么比胡子更重要了。所以这种鸟也在云雾森林里？""]","Nothing more important to a man than his beard.
+So these birds are in the cloud forest, too?
+","[""Nothing more important to a man than his beard.\nSo these birds are in the cloud forest, too?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5DD90; ENG blocks=0xEA890,0xEA890; ENG source rows=0xEA890#8,0xEA890#9; block_semantic_score=0.266836."
+BRIEFING_FILES_BLOCK_05DD90,8,stream=0x5D000;block=0xD90;text=8,"[""stream=0x5D000;block=0xD90;text=8""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","結構なことだ。髭は男の命だからな。そいつも雲霧林にい
+るのか？
+","普段は低地の熱帯雨林にいるけど、繁殖期になると高地の
+雲霧林に移るの。
+","それからヒゲドリは、ともかく鳴き声が大きいので有名よ。
+それもボーンとかキーンとか金属的な音で、ちょっと鳥の
+声には聞こえない感じなの。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它们通常生活在低地雨林，但繁殖季节会迁徙到高地的云雾森林。,"[""它们通常生活在低地雨林，但繁殖季节会迁徙到高地的云雾森林。""]","They're normally found in the lowland rain forests,
+but they migrate into the highland cloud forests
+during breeding season.
+","[""They're normally found in the lowland rain forests,\nbut they migrate into the highland cloud forests\nduring breeding season.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5DD90; ENG blocks=0xEA890,0xEA890; ENG source rows=0xEA890#10,0xEA890#11; block_semantic_score=0.266836."
+BRIEFING_FILES_BLOCK_05DD90,9,stream=0x5D000;block=0xD90;text=9,"[""stream=0x5D000;block=0xD90;text=9""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","普段は低地の熱帯雨林にいるけど、繁殖期になると高地の
+雲霧林に移るの。
+","それからヒゲドリは、ともかく鳴き声が大きいので有名よ。
+それもボーンとかキーンとか金属的な音で、ちょっと鳥の
+声には聞こえない感じなの。
+","さすがの私も、あの鳴き声はちょっとマネできないわ。
+",[],,,NOT_CHECKED,201,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它会发出金属般的“咚！”
+和“叮！”声——因此得名“钟雀”。","[""它会发出金属般的“咚！”\n和“叮！”声——因此得名“钟雀”。""]","It makes these metallic BONG! and DING! sounds -
+hence the name ""bellbird.""
+","[""It makes these metallic BONG! and DING! sounds -\nhence the name \""bellbird.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#13; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,10,stream=0x5D000;block=0xD90;text=10,"[""stream=0x5D000;block=0xD90;text=10""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","それからヒゲドリは、ともかく鳴き声が大きいので有名よ。
+それもボーンとかキーンとか金属的な音で、ちょっと鳥の
+声には聞こえない感じなの。
+","さすがの私も、あの鳴き声はちょっとマネできないわ。
+","ケツァールと間違えることはなさそうだな。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就连我这样的鸟鸣专家，
+也没法把它模仿到位。","[""就连我这样的鸟鸣专家，\n也没法把它模仿到位。""]","Even an expert bird caller like me cannot do it
+justice.
+","[""Even an expert bird caller like me cannot do it\njustice.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#15; block_semantic_score=0.266836.
+BRIEFING_FILES_BLOCK_05DD90,11,stream=0x5D000;block=0xD90;text=11,"[""stream=0x5D000;block=0xD90;text=11""]",1,BRIEFING FILES,"[""stream=0x5D000;block=0xD90;block_file=0x5DD90;text_base=0x5DDE0;capacity=852""]","さすがの私も、あの鳴き声はちょっとマネできないわ。
+","ケツァールと間違えることはなさそうだな。
+",,[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看来我是不会把它错认
+成凤尾绿咬鹃了。","[""看来我是不会把它错认\n成凤尾绿咬鹃了。""]","Doesn't sound like I'll be mistaking it for a quetzal.
+","[""Doesn't sound like I'll be mistaking it for a quetzal.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5DD90; ENG blocks=0xEA890; ENG source rows=0xEA890#16; block_semantic_score=0.266836.

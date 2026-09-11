@@ -1,0 +1,21 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_383290,0,stream=0x383000;block=0x290;text=0,"[""stream=0x383000;block=0x290;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x290;block_file=0x383290;text_base=0x3832B8;capacity=228""]",,"米軍ミサイル基地の地下通路に、
+敵増援部隊が送られた。
+","既に現地入りしているボスのために、
+何としてもこの拠点を防衛し、
+増援部隊の侵入を食い止めるんだ。
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"敌方增援部队已被派往美国
+导弹基地的地下通道。","[""敌方增援部队已被派往美国\n导弹基地的地下通道。""]","Enemy reinforcements have been
+dispatched to the underground passage
+at the U.S. Missile Base.
+","[""Enemy reinforcements have been\ndispatched to the underground passage\nat the U.S. Missile Base.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383290; ENG blocks=0x398700; ENG source rows=0x398700#0; block_semantic_score=0.173911.
+BRIEFING_MISSION_BLOCK_383290,1,stream=0x383000;block=0x290;text=1,"[""stream=0x383000;block=0x290;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x290;block_file=0x383290;text_base=0x3832B8;capacity=228""]","米軍ミサイル基地の地下通路に、
+敵増援部隊が送られた。
+","既に現地入りしているボスのために、
+何としてもこの拠点を防衛し、
+増援部隊の侵入を食い止めるんだ。
+",,[],,,NOT_CHECKED,144,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"问题是，Snake已经到了那里。你得想办法守住这个位置。
+别让他们突破。","[""问题是，Snake已经到了那里。你得想办法守住这个位置。\n别让他们突破。""]","The problem is, Snake's already there.
+You've gotta find a way to defend this
+position. Do not let them break through.
+","[""The problem is, Snake's already there.\nYou've gotta find a way to defend this\nposition. Do not let them break through.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x383290; ENG blocks=0x398700,0x398700; ENG source rows=0x398700#1,0x398700#2; block_semantic_score=0.173911."

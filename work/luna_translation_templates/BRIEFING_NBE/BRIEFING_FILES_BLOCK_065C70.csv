@@ -1,0 +1,83 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_065C70,0,stream=0x65000;block=0xC70;text=0,"[""stream=0x65000;block=0xC70;text=0""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]",,"世界は一度核戦争の瀬戸際まで突き進んだことがある。
+","<R=カリブ海の対岸,キューバ>で、だな。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就在不久前，世界还
+处于核战争的边缘。","[""就在不久前，世界还\n处于核战争的边缘。""]","It wasn't so long ago the world stood on the brink
+of nuclear war.
+","[""It wasn't so long ago the world stood on the brink\nof nuclear war.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#0; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,1,stream=0x65000;block=0xC70;text=1,"[""stream=0x65000;block=0xC70;text=1""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","世界は一度核戦争の瀬戸際まで突き進んだことがある。
+","<R=カリブ海の対岸,キューバ>で、だな。
+","僕は当時17歳、飛び級で入学したMITの<R=2年生,ソフモア>だった。毎
+日の報道に、ある種の白けを禁じ得なかった覚えがある。
+","[""<R=カリブ海の対岸,キューバ>""]",,,NOT_CHECKED,54,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就在加勒比海的那一边。,"[""就在加勒比海的那一边。""]","Just over on the other side of the Caribbean.
+","[""Just over on the other side of the Caribbean.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#1; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,2,stream=0x65000;block=0xC70;text=2,"[""stream=0x65000;block=0xC70;text=2""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","<R=カリブ海の対岸,キューバ>で、だな。
+","僕は当時17歳、飛び級で入学したMITの<R=2年生,ソフモア>だった。毎
+日の報道に、ある種の白けを禁じ得なかった覚えがある。
+","核抑止の概念が正しく理解されていれば、恐れる必要が無
+いことは明白だったからね。
+","[""<R=2年生,ソフモア>""]",,,NOT_CHECKED,169,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那时我17岁。我跳了几级，
+是麻省理工的大二学生。","[""那时我17岁。我跳了几级，\n是麻省理工的大二学生。""]","I was 17 at the time. I'd skipped a few grades and
+was a sophomore at MIT.
+","[""I was 17 at the time. I'd skipped a few grades and\nwas a sophomore at MIT.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#2; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,3,stream=0x65000;block=0xC70;text=3,"[""stream=0x65000;block=0xC70;text=3""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","僕は当時17歳、飛び級で入学したMITの<R=2年生,ソフモア>だった。毎
+日の報道に、ある種の白けを禁じ得なかった覚えがある。
+","核抑止の概念が正しく理解されていれば、恐れる必要が無
+いことは明白だったからね。
+","あるいはあえて恐怖を煽ったか。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我记得当时对每天传来的
+新闻有些无动于衷。在我看来，只要他们
+掌握了核威慑的概念，","[""我记得当时对每天传来的\n新闻有些无动于衷。在我看来，只要他们\n掌握了核威慑的概念，""]","I remember feeling kind of apathetic about the
+news that came in every day.
+It seemed clear to me that as long as they had a
+grasp of the concept of nuclear deterrence,
+","[""I remember feeling kind of apathetic about the\nnews that came in every day.\nIt seemed clear to me that as long as they had a\ngrasp of the concept of nuclear deterrence,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x65C70; ENG blocks=0xF26A0,0xF26A0; ENG source rows=0xF26A0#3,0xF26A0#4; block_semantic_score=0.164220."
+BRIEFING_FILES_BLOCK_065C70,4,stream=0x65000;block=0xC70;text=4,"[""stream=0x65000;block=0xC70;text=4""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","核抑止の概念が正しく理解されていれば、恐れる必要が無
+いことは明白だったからね。
+","あるいはあえて恐怖を煽ったか。
+","国防予算獲得の便法として…かい？　ふっ、あり得る話だ
+な。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要么就是如此，要么就是
+他们故意煽动那种恐惧。","[""要么就是如此，要么就是\n他们故意煽动那种恐惧。""]","Either that, or they were fanning that fear on
+purpose.
+","[""Either that, or they were fanning that fear on\npurpose.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#6; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,5,stream=0x65000;block=0xC70;text=5,"[""stream=0x65000;block=0xC70;text=5""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","あるいはあえて恐怖を煽ったか。
+","国防予算獲得の便法として…かい？　ふっ、あり得る話だ
+な。
+","だけどもしそうなら、当てが外れたとも言える。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为了争取更大的国防
+预算…？呵，这我懂。","[""为了争取更大的国防\n预算…？呵，这我懂。""]","As a way to secure a bigger defense budget...?
+Heh, I can see that.
+","[""As a way to secure a bigger defense budget...?\nHeh, I can see that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#7; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,6,stream=0x65000;block=0xC70;text=6,"[""stream=0x65000;block=0xC70;text=6""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","国防予算獲得の便法として…かい？　ふっ、あり得る話だ
+な。
+","だけどもしそうなら、当てが外れたとも言える。
+","事件後、東西間で<R=緊張緩和,デタント>が進んだからな。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但如果这是他们的计划，
+那有点适得其反了。","[""但如果这是他们的计划，\n那有点适得其反了。""]","But if that was their plan, it kind of backfired.
+","[""But if that was their plan, it kind of backfired.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#8; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,7,stream=0x65000;block=0xC70;text=7,"[""stream=0x65000;block=0xC70;text=7""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","だけどもしそうなら、当てが外れたとも言える。
+","事件後、東西間で<R=緊張緩和,デタント>が進んだからな。
+","コールドマンは、今度は本当に撃とうとしている。一度核
+の火を解き放てば、抑止のくびきは意味を失う。
+","[""<R=緊張緩和,デタント>""]",,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,因为它开启了东西方之间的缓和时代。,"[""因为它开启了东西方之间的缓和时代。""]","Because it ushered in the era of Détente between
+East and West.
+","[""Because it ushered in the era of Détente between\nEast and West.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#9; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,8,stream=0x65000;block=0xC70;text=8,"[""stream=0x65000;block=0xC70;text=8""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","事件後、東西間で<R=緊張緩和,デタント>が進んだからな。
+","コールドマンは、今度は本当に撃とうとしている。一度核
+の火を解き放てば、抑止のくびきは意味を失う。
+","人々は死に、街は燃える。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一旦核魔从瓶子里放出来，,"[""一旦核魔从瓶子里放出来，""]","Once the nuclear genie is out of the bottle,
+","[""Once the nuclear genie is out of the bottle,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#11; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,9,stream=0x65000;block=0xC70;text=9,"[""stream=0x65000;block=0xC70;text=9""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","コールドマンは、今度は本当に撃とうとしている。一度核
+の火を解き放てば、抑止のくびきは意味を失う。
+","人々は死に、街は燃える。
+","取り返しの付かない結果になる前に、彼を阻止しなくては。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,会有人死去。城市将化为火海。,"[""会有人死去。城市将化为火海。""]","People will die. Cities will burn.
+","[""People will die. Cities will burn.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#13; block_semantic_score=0.164220.
+BRIEFING_FILES_BLOCK_065C70,10,stream=0x65000;block=0xC70;text=10,"[""stream=0x65000;block=0xC70;text=10""]",1,BRIEFING FILES,"[""stream=0x65000;block=0xC70;block_file=0x65C70;text_base=0x65CBC;capacity=972""]","人々は死に、街は燃える。
+","取り返しの付かない結果になる前に、彼を阻止しなくては。
+",,[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们必须现在就阻止他，
+趁还来得及回头。","[""我们必须现在就阻止他，\n趁还来得及回头。""]","We have to stop him now, before it's too late to
+turn back.
+","[""We have to stop him now, before it's too late to\nturn back.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x65C70; ENG blocks=0xF26A0; ENG source rows=0xF26A0#14; block_semantic_score=0.164220.

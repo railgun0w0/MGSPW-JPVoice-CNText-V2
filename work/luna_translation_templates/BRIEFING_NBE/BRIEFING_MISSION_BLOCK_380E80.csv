@@ -1,0 +1,88 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_380E80,0,stream=0x380000;block=0xE80;text=0,"[""stream=0x380000;block=0xE80;text=0""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]",,"ボス、もう一点報告させてくれ。
+","まだ何かあるのか…。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Boss，还有一件事…,"[""Boss，还有一件事…""]","Boss, one more thing...
+","[""Boss, one more thing...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#0; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,1,stream=0x380000;block=0xE80;text=1,"[""stream=0x380000;block=0xE80;text=1""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","ボス、もう一点報告させてくれ。
+","まだ何かあるのか…。
+","アマンダの居る『診療所』だが、
+他にも怪我人や病人が出たら、収容する予定だ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是关于医务室的事。,"[""是关于医务室的事。""]","It's about sick bay.
+","[""It's about sick bay.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#2; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,2,stream=0x380000;block=0xE80;text=2,"[""stream=0x380000;block=0xE80;text=2""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","まだ何かあるのか…。
+","アマンダの居る『診療所』だが、
+他にも怪我人や病人が出たら、収容する予定だ。
+","とはいえ、適切な処置をしなければ、
+治る怪我も治らない。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当然，我们可以用它来收治伤病员，
+就像当初对Amanda那样。","[""当然，我们可以用它来收治伤病员，\n就像当初对Amanda那样。""]","Naturally, we can use it for the sick or
+injured, like we did with Amanda.
+","[""Naturally, we can use it for the sick or\ninjured, like we did with Amanda.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#3; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,3,stream=0x380000;block=0xE80;text=3,"[""stream=0x380000;block=0xE80;text=3""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","アマンダの居る『診療所』だが、
+他にも怪我人や病人が出たら、収容する予定だ。
+","とはいえ、適切な処置をしなければ、
+治る怪我も治らない。
+","ああ。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但没有适当的治疗，
+我们不能指望他们能康复。","[""但没有适当的治疗，\n我们不能指望他们能康复。""]","But we can't expect people to get better
+without the proper treatment.
+","[""But we can't expect people to get better\nwithout the proper treatment.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#4; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,4,stream=0x380000;block=0xE80;text=4,"[""stream=0x380000;block=0xE80;text=4""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","とはいえ、適切な処置をしなければ、
+治る怪我も治らない。
+","ああ。
+","そこで怪我人や病人の手当のため、
+『医療班』を作ろうと思う。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…嗯哼。,"[""…嗯哼。""]","...Uh huh.
+","[""...Uh huh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#5; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,5,stream=0x380000;block=0xE80;text=5,"[""stream=0x380000;block=0xE80;text=5""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","ああ。
+","そこで怪我人や病人の手当のため、
+『医療班』を作ろうと思う。
+","医療班の人数と能力次第で、
+怪我や病気の回復を早めることもできる。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以我觉得我们需要一个
+医疗小组来负责这件事。","[""所以我觉得我们需要一个\n医疗小组来负责这件事。""]","So I figure we'll need a Medical Team for
+that.
+","[""So I figure we'll need a Medical Team for\nthat.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#6; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,6,stream=0x380000;block=0xE80;text=6,"[""stream=0x380000;block=0xE80;text=6""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","そこで怪我人や病人の手当のため、
+『医療班』を作ろうと思う。
+","医療班の人数と能力次第で、
+怪我や病気の回復を早めることもできる。
+","彼らには、日頃から兵士達の健康管理も
+担当してもらう予定だ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"队员的数量和能力将决定
+伤病员的康复速度。","[""队员的数量和能力将决定\n伤病员的康复速度。""]","The number of team members, and their
+abilities will determine how quickly the
+sick and injured heal.
+","[""The number of team members, and their\nabilities will determine how quickly the\nsick and injured heal.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#7; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,7,stream=0x380000;block=0xE80;text=7,"[""stream=0x380000;block=0xE80;text=7""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","医療班の人数と能力次第で、
+怪我や病気の回復を早めることもできる。
+","彼らには、日頃から兵士達の健康管理も
+担当してもらう予定だ。
+","そうだな。
+病気になってから困るより、予防が大切だ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们还能监测每个人的健康状况。,"[""他们还能监测每个人的健康状况。""]","They can also monitor everybody's health.
+","[""They can also monitor everybody's health.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#8; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,8,stream=0x380000;block=0xE80;text=8,"[""stream=0x380000;block=0xE80;text=8""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","彼らには、日頃から兵士達の健康管理も
+担当してもらう予定だ。
+","そうだな。
+病気になってから困るより、予防が大切だ。
+","その通りだ。
+ボス、あんたも“手洗い・うがい”を
+忘れないでくれよ。
+",[],,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。预防是最好的药物。,"[""没错。预防是最好的药物。""]","Right. Prevention is the best medicine.
+","[""Right. Prevention is the best medicine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#9; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,9,stream=0x380000;block=0xE80;text=9,"[""stream=0x380000;block=0xE80;text=9""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","そうだな。
+病気になってから困るより、予防が大切だ。
+","その通りだ。
+ボス、あんたも“手洗い・うがい”を
+忘れないでくれよ。
+","そんな余裕がありゃいいんだがな…。
+",[],,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,记得要勤洗手，每天漱口两次，Boss。,"[""记得要勤洗手，每天漱口两次，Boss。""]","Remember to wash your hands often and
+gargle twice a day, Boss.
+","[""Remember to wash your hands often and\ngargle twice a day, Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#11; block_semantic_score=0.223802.
+BRIEFING_MISSION_BLOCK_380E80,10,stream=0x380000;block=0xE80;text=10,"[""stream=0x380000;block=0xE80;text=10""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","その通りだ。
+ボス、あんたも“手洗い・うがい”を
+忘れないでくれよ。
+","そんな余裕がありゃいいんだがな…。
+",,[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我要是有时间就好了。,"[""我要是有时间就好了。""]","If only I had the time.
+","[""If only I had the time.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x380E80; ENG blocks=0x396100; ENG source rows=0x396100#12; block_semantic_score=0.223802.

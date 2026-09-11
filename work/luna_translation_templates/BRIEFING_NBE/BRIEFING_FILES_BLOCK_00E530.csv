@@ -1,0 +1,65 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00E530,0,stream=0xE000;block=0x530;text=0,"[""stream=0xE000;block=0x530;text=0""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]",,"MSFスタッフの配置決め、忘れないでくれよ。人員配置が、
+マザーベースの成長方針を決めるんだから。
+","ああ。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别忘了给MSF的人员分配工作。,"[""别忘了给MSF的人员分配工作。""]","Don't forget to give the MSF staff assignments.
+","[""Don't forget to give the MSF staff assignments.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#0; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,1,stream=0xE000;block=0x530;text=1,"[""stream=0xE000;block=0x530;text=1""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","MSFスタッフの配置決め、忘れないでくれよ。人員配置が、
+マザーベースの成長方針を決めるんだから。
+","ああ。
+","俺のことも好きに配置して構わないからな。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没错。,"[""没错。""]","Right.
+","[""Right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#2; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,2,stream=0xE000;block=0x530;text=2,"[""stream=0xE000;block=0x530;text=2""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","ああ。
+","俺のことも好きに配置して構わないからな。
+","お前も？　お前はマザーベースの副司令だろう。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这话对我也一样。你觉得我放
+哪儿合适，就把我放哪儿吧。","[""这话对我也一样。你觉得我放\n哪儿合适，就把我放哪儿吧。""]","That goes for me, too. Assign me wherever you
+think is best.
+","[""That goes for me, too. Assign me wherever you\nthink is best.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#3; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,3,stream=0xE000;block=0x530;text=3,"[""stream=0xE000;block=0x530;text=3""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","俺のことも好きに配置して構わないからな。
+","お前も？　お前はマザーベースの副司令だろう。
+","もちろん、その仕事に手は抜けない。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你？我还以为你是副官呢。,"[""你？我还以为你是副官呢。""]","You? I thought you were second-in-command.
+","[""You? I thought you were second-in-command.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#4; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,4,stream=0xE000;block=0x530;text=4,"[""stream=0xE000;block=0x530;text=4""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","お前も？　お前はマザーベースの副司令だろう。
+","もちろん、その仕事に手は抜けない。
+","だが、MSFが小さいうちは椅子にふんぞり返っている余裕
+もない。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别担心，那边我已经安排好了。,"[""别担心，那边我已经安排好了。""]","Don't worry, I've got that covered.
+","[""Don't worry, I've got that covered.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#5; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,5,stream=0xE000;block=0x530;text=5,"[""stream=0xE000;block=0x530;text=5""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","もちろん、その仕事に手は抜けない。
+","だが、MSFが小さいうちは椅子にふんぞり返っている余裕
+もない。
+","それはそうだが…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可MSF现在规模还小，
+我可没那闲工夫成天坐着不干活。","[""可MSF现在规模还小，\n我可没那闲工夫成天坐着不干活。""]","But MSF is still small, and I don't have the leisure
+of sitting around on my butt all day.
+","[""But MSF is still small, and I don't have the leisure\nof sitting around on my butt all day.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#6; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,6,stream=0xE000;block=0x530;text=6,"[""stream=0xE000;block=0x530;text=6""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","だが、MSFが小さいうちは椅子にふんぞり返っている余裕
+もない。
+","それはそうだが…。
+","言っちゃ悪いが、俺はどの班の仕事をやらせてもスゴいぞ。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我明白你的意思，可…,"[""我明白你的意思，可…""]","I see your point, but...
+","[""I see your point, but...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#7; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,7,stream=0xE000;block=0x530;text=7,"[""stream=0xE000;block=0x530;text=7""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","それはそうだが…。
+","言っちゃ悪いが、俺はどの班の仕事をやらせてもスゴいぞ。
+","あんたが重点的に育てたい部門に配置してくれ。その班の
+スタッフは特にかわいがってやるよ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不是我吹，你把随便什么工作交给我，
+我都能干得漂漂亮亮的。","[""不是我吹，你把随便什么工作交给我，\n我都能干得漂漂亮亮的。""]","Not to brag or anything, but I'd kick ass at
+whatever job you gave me.
+","[""Not to brag or anything, but I'd kick ass at\nwhatever job you gave me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#8; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,8,stream=0xE000;block=0x530;text=8,"[""stream=0xE000;block=0x530;text=8""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","言っちゃ悪いが、俺はどの班の仕事をやらせてもスゴいぞ。
+","あんたが重点的に育てたい部門に配置してくれ。その班の
+スタッフは特にかわいがってやるよ。
+","カズ、ほどほどにな。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"把我放到你最想重点
+发展的那个区域吧。","[""把我放到你最想重点\n发展的那个区域吧。""]","Put me in the area you want to focus on
+developing most.
+","[""Put me in the area you want to focus on\ndeveloping most.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#9; block_semantic_score=0.115063.
+BRIEFING_FILES_BLOCK_00E530,9,stream=0xE000;block=0x530;text=9,"[""stream=0xE000;block=0x530;text=9""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x530;block_file=0xE530;text_base=0xE578;capacity=704""]","あんたが重点的に育てたい部門に配置してくれ。その班の
+スタッフは特にかわいがってやるよ。
+","カズ、ほどほどにな。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,行了行了，Kaz。,"[""行了行了，Kaz。""]","Easy, Kaz.
+","[""Easy, Kaz.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xE530; ENG blocks=0xA11F0; ENG source rows=0xA11F0#11; block_semantic_score=0.115063.

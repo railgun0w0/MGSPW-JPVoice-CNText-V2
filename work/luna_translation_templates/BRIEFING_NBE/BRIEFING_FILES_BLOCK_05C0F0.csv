@@ -1,0 +1,138 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_05C0F0,0,stream=0x5C000;block=0xF0;text=0,"[""stream=0x5C000;block=0xF0;text=0""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]",,"ケツァールについて何が知りたい？
+","そうだな…生態についてわかれば、捜すときに役立つかも
+しれない。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯…给我讲讲基本知识，
+能帮我找到一只的那种。","[""嗯…给我讲讲基本知识，\n能帮我找到一只的那种。""]","Hmm... Give me the basics, something that'll help
+me find one.
+","[""Hmm... Give me the basics, something that'll help\nme find one.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#1; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,1,stream=0x5C000;block=0xF0;text=1,"[""stream=0x5C000;block=0xF0;text=1""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","ケツァールについて何が知りたい？
+","そうだな…生態についてわかれば、捜すときに役立つかも
+しれない。
+","そうね。まず、姿は覚えてると思うけど、羽や背中は
+<R= 緑 ,ビリジアン>と青がグラデーションのように入り交じってるわ。
+エメラルドグリーンね。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好，那么。首先，我相信你还记得，,"[""好，那么。首先，我相信你还记得，""]","OK, then. First of all, as I'm sure you remember,
+","[""OK, then. First of all, as I'm sure you remember,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#2; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,2,stream=0x5C000;block=0xF0;text=2,"[""stream=0x5C000;block=0xF0;text=2""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","そうだな…生態についてわかれば、捜すときに役立つかも
+しれない。
+","そうね。まず、姿は覚えてると思うけど、羽や背中は
+<R= 緑 ,ビリジアン>と青がグラデーションのように入り交じってるわ。
+エメラルドグリーンね。
+","お腹は鮮やかな赤。尾羽は白。本当に綺麗な鳥よね…。
+","[""<R= 緑 ,ビリジアン>""]",,,NOT_CHECKED,202,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,绿咬鹃的翅膀和背部是翠绿色的，,"[""绿咬鹃的翅膀和背部是翠绿色的，""]","the quetzal's wings and back are emerald green
+","[""the quetzal's wings and back are emerald green\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#3; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,3,stream=0x5C000;block=0xF0;text=3,"[""stream=0x5C000;block=0xF0;text=3""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","そうね。まず、姿は覚えてると思うけど、羽や背中は
+<R= 緑 ,ビリジアン>と青がグラデーションのように入り交じってるわ。
+エメラルドグリーンね。
+","お腹は鮮やかな赤。尾羽は白。本当に綺麗な鳥よね…。
+","それから、長い2本の飾り羽は繁殖期のオスだけにあるの。
+鳥類はだいたい、オスの方が美しいの。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它的腹部是鲜红色，
+尾羽是白色。多美的鸟啊…","[""它的腹部是鲜红色，\n尾羽是白色。多美的鸟啊…""]","Its belly is brilliant red, and its tail feathers are
+white. Such a gorgeous bird...
+","[""Its belly is brilliant red, and its tail feathers are\nwhite. Such a gorgeous bird...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#5; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,4,stream=0x5C000;block=0xF0;text=4,"[""stream=0x5C000;block=0xF0;text=4""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","お腹は鮮やかな赤。尾羽は白。本当に綺麗な鳥よね…。
+","それから、長い2本の飾り羽は繁殖期のオスだけにあるの。
+鳥類はだいたい、オスの方が美しいの。
+","孔雀の飾り羽と同じか。
+",[],,,NOT_CHECKED,135,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另外，雄鸟有两条长长的装饰性羽毛，
+但只在繁殖季节才有。","[""另外，雄鸟有两条长长的装饰性羽毛，\n但只在繁殖季节才有。""]","Also, the male has two long decorative feathers,
+but only during breeding season.
+","[""Also, the male has two long decorative feathers,\nbut only during breeding season.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#6; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,5,stream=0x5C000;block=0xF0;text=5,"[""stream=0x5C000;block=0xF0;text=5""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","それから、長い2本の飾り羽は繁殖期のオスだけにあるの。
+鳥類はだいたい、オスの方が美しいの。
+","孔雀の飾り羽と同じか。
+","そう。ちなみに、胴体の大きさは40センチ程度だけど、飾
+り羽を含めると1メートルを超える個体も多いわ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就像孔雀的尾巴一样。,"[""就像孔雀的尾巴一样。""]","Like a peacock's tail.
+","[""Like a peacock's tail.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#8; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,6,stream=0x5C000;block=0xF0;text=6,"[""stream=0x5C000;block=0xF0;text=6""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","孔雀の飾り羽と同じか。
+","そう。ちなみに、胴体の大きさは40センチ程度だけど、飾
+り羽を含めると1メートルを超える個体も多いわ。
+","巣は朽ち木に嘴で穴を空けて作ることが多い。巣の高さは
+地上から3、4メートルぐらいね。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有趣的是，虽然它们的
+身体只有40厘米长，","[""有趣的是，虽然它们的\n身体只有40厘米长，""]","It is interesting to note that while their bodies are
+only 40 cm long,
+","[""It is interesting to note that while their bodies are\nonly 40 cm long,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#10; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,7,stream=0x5C000;block=0xF0;text=7,"[""stream=0x5C000;block=0xF0;text=7""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","そう。ちなみに、胴体の大きさは40センチ程度だけど、飾
+り羽を含めると1メートルを超える個体も多いわ。
+","巣は朽ち木に嘴で穴を空けて作ることが多い。巣の高さは
+地上から3、4メートルぐらいね。
+","雑食だから木の実からトカゲまでいろいろ食べるわ。
+",[],,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但如果把装饰性羽毛也算上，
+许多绿咬鹃能超过一米长。绿咬鹃通常用喙在枯树
+上啄出洞来筑巢，","[""但如果把装饰性羽毛也算上，\n许多绿咬鹃能超过一米长。绿咬鹃通常用喙在枯树\n上啄出洞来筑巢，""]","many quetzals reach over a meter in length when
+you include their decorative plumage.
+Quetzals typically build their nests by making holes
+in dead trees with their beaks,
+","[""many quetzals reach over a meter in length when\nyou include their decorative plumage.\nQuetzals typically build their nests by making holes\nin dead trees with their beaks,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0,0xE8DA0; ENG source rows=0xE8DA0#11,0xE8DA0#12; block_semantic_score=0.161003."
+BRIEFING_FILES_BLOCK_05C0F0,8,stream=0x5C000;block=0xF0;text=8,"[""stream=0x5C000;block=0xF0;text=8""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","巣は朽ち木に嘴で穴を空けて作ることが多い。巣の高さは
+地上から3、4メートルぐらいね。
+","雑食だから木の実からトカゲまでいろいろ食べるわ。
+","どこを捜せばいい？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它们是杂食动物，
+从坚果到蜥蜴什么都吃。","[""它们是杂食动物，\n从坚果到蜥蜴什么都吃。""]","They're omnivorous and eat everything from nuts
+to lizards.
+","[""They're omnivorous and eat everything from nuts\nto lizards.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#14; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,9,stream=0x5C000;block=0xF0;text=9,"[""stream=0x5C000;block=0xF0;text=9""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","雑食だから木の実からトカゲまでいろいろ食べるわ。
+","どこを捜せばいい？
+","生息域は熱帯雲霧林全体にわたるわ。やっぱり、声を頼り
+に捜すしかないかもしれない。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我在哪里能找到一只？,"[""我在哪里能找到一只？""]","Where can I find one?
+","[""Where can I find one?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#15; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,10,stream=0x5C000;block=0xF0;text=10,"[""stream=0x5C000;block=0xF0;text=10""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","どこを捜せばいい？
+","生息域は熱帯雲霧林全体にわたるわ。やっぱり、声を頼り
+に捜すしかないかもしれない。
+","そうか…。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它们的栖息地遍布整片热带云雾林。,"[""它们的栖息地遍布整片热带云雾林。""]","Their habitat stretches across the entire tropical
+cloud forest.
+","[""Their habitat stretches across the entire tropical\ncloud forest.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#16; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,11,stream=0x5C000;block=0xF0;text=11,"[""stream=0x5C000;block=0xF0;text=11""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","生息域は熱帯雲霧林全体にわたるわ。やっぱり、声を頼り
+に捜すしかないかもしれない。
+","そうか…。
+","鳴き真似してあげるから、頑張って！
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,知道了…,"[""知道了…""]","Good to know...
+","[""Good to know...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#18; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,12,stream=0x5C000;block=0xF0;text=12,"[""stream=0x5C000;block=0xF0;text=12""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","そうか…。
+","鳴き真似してあげるから、頑張って！
+","キョーッキョーッキョーッ…。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我来模仿一下。仔细听！,"[""我来模仿一下。仔细听！""]","I will do an imitation. Listen closely!
+","[""I will do an imitation. Listen closely!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#19; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,13,stream=0x5C000;block=0xF0;text=13,"[""stream=0x5C000;block=0xF0;text=13""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","鳴き真似してあげるから、頑張って！
+","キョーッキョーッキョーッ…。
+","上手いな。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,啾——，啾——…,"[""啾——，啾——…""]","Kyohhh, kyohhh...
+","[""Kyohhh, kyohhh...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#20; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,14,stream=0x5C000;block=0xF0;text=14,"[""stream=0x5C000;block=0xF0;text=14""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","キョーッキョーッキョーッ…。
+","上手いな。
+","ついでに鶏の真似もしましょうか？　コケコッコー！
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不错嘛。,"[""不错嘛。""]","Not bad.
+","[""Not bad.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#21; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,15,stream=0x5C000;block=0xF0;text=15,"[""stream=0x5C000;block=0xF0;text=15""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","上手いな。
+","ついでに鶏の真似もしましょうか？　コケコッコー！
+","それは…それはいらない。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"接下来要我学鸡叫吗？
+咯咯咯咯咯——咕咕咕！","[""接下来要我学鸡叫吗？\n咯咯咯咯咯——咕咕咕！""]","Shall I do a chicken next?
+Cluck-cluck-cluck-cluck-bacaaak!
+","[""Shall I do a chicken next?\nCluck-cluck-cluck-cluck-bacaaak!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#22; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,16,stream=0x5C000;block=0xF0;text=16,"[""stream=0x5C000;block=0xF0;text=16""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","ついでに鶏の真似もしましょうか？　コケコッコー！
+","それは…それはいらない。
+","そう？　猿は？
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不用了，够了。,"[""不用了，够了。""]","No thanks. That's enough.
+","[""No thanks. That's enough.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#23; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,17,stream=0x5C000;block=0xF0;text=17,"[""stream=0x5C000;block=0xF0;text=17""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","それは…それはいらない。
+","そう？　猿は？
+","…それも…いらない。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你确定？那猴子怎么样？,"[""你确定？那猴子怎么样？""]","Are you sure? How about a monkey?
+","[""Are you sure? How about a monkey?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#24; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,18,stream=0x5C000;block=0xF0;text=18,"[""stream=0x5C000;block=0xF0;text=18""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","そう？　猿は？
+","…それも…いらない。
+","…。残念ね…。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…那个也不需要。,"[""…那个也不需要。""]","...Don't need that, either.
+","[""...Don't need that, either.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#25; block_semantic_score=0.161003.
+BRIEFING_FILES_BLOCK_05C0F0,19,stream=0x5C000;block=0xF0;text=19,"[""stream=0x5C000;block=0xF0;text=19""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0xF0;block_file=0x5C0F0;text_base=0x5C160;capacity=1416""]","…それも…いらない。
+","…。残念ね…。
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦，那好吧。,"[""哦，那好吧。""]","Oh. All right, then.
+","[""Oh. All right, then.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5C0F0; ENG blocks=0xE8DA0; ENG source rows=0xE8DA0#26; block_semantic_score=0.161003.

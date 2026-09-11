@@ -1,0 +1,162 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37D9F0,0,stream=0x37D000;block=0x9F0;text=0,"[""stream=0x37D000;block=0x9F0;text=0""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]",,"スネーク、少しいいか？
+","なんだ？
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，有空吗？,"[""Snake，有空吗？""]","Got a sec, Snake?
+","[""Got a sec, Snake?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#0; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,1,stream=0x37D000;block=0x9F0;text=1,"[""stream=0x37D000;block=0x9F0;text=1""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","スネーク、少しいいか？
+","なんだ？
+","パスのことなんだが…。
+…知ってのとおり、彼女には身寄りがない。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么了？,"[""怎么了？""]","What's up?
+","[""What's up?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#1; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,2,stream=0x37D000;block=0x9F0;text=2,"[""stream=0x37D000;block=0x9F0;text=2""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","なんだ？
+","パスのことなんだが…。
+…知ってのとおり、彼女には身寄りがない。
+","ザドルノフ経由で奨学金をもらって、
+学校の寄宿舎で暮らしていたらしいんだが、
+ザドルノフはKGBだった…。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是关于Paz的事。你知道，
+她没有任何家人。","[""是关于Paz的事。你知道，\n她没有任何家人。""]","It's about Paz. You know, she doesn't
+have any family.
+","[""It's about Paz. You know, she doesn't\nhave any family.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#2; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,3,stream=0x37D000;block=0x9F0;text=3,"[""stream=0x37D000;block=0x9F0;text=3""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","パスのことなんだが…。
+…知ってのとおり、彼女には身寄りがない。
+","ザドルノフ経由で奨学金をもらって、
+学校の寄宿舎で暮らしていたらしいんだが、
+ザドルノフはKGBだった…。
+","奨学金とやらもKGBから流れてきていたようだ。
+仮にザドルノフが釈放されたとしても、
+もうパスに金が行くことはないはずだ。
+",[],,,NOT_CHECKED,150,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但他原来是克格勃(KGB)的人。,"[""但他原来是克格勃(KGB)的人。""]","But he was KGB.
+","[""But he was KGB.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#4; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,4,stream=0x37D000;block=0x9F0;text=4,"[""stream=0x37D000;block=0x9F0;text=4""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","ザドルノフ経由で奨学金をもらって、
+学校の寄宿舎で暮らしていたらしいんだが、
+ザドルノフはKGBだった…。
+","奨学金とやらもKGBから流れてきていたようだ。
+仮にザドルノフが釈放されたとしても、
+もうパスに金が行くことはないはずだ。
+","どうせろくな金じゃない。
+良かったじゃないか。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"种种迹象表明，
+她的奖学金也来自克格勃(KGB)。","[""种种迹象表明，\n她的奖学金也来自克格勃(KGB)。""]","All signs are her scholarship came from
+the KGB, too.
+","[""All signs are her scholarship came from\nthe KGB, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#5; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,5,stream=0x37D000;block=0x9F0;text=5,"[""stream=0x37D000;block=0x9F0;text=5""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","奨学金とやらもKGBから流れてきていたようだ。
+仮にザドルノフが釈放されたとしても、
+もうパスに金が行くことはないはずだ。
+","どうせろくな金じゃない。
+良かったじゃないか。
+","そこで…だ。
+しばらくの間、パスを<R= ここ ,マザーベース>に置いてやりたい。
+",[],,,NOT_CHECKED,68,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就算他们放了他，
+她也不会再拿到一分钱了。","[""就算他们放了他，\n她也不会再拿到一分钱了。""]","Even if they let him go, she's not going to
+be seeing any more money.
+","[""Even if they let him go, she's not going to\nbe seeing any more money.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#6; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,6,stream=0x37D000;block=0x9F0;text=6,"[""stream=0x37D000;block=0x9F0;text=6""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","どうせろくな金じゃない。
+良かったじゃないか。
+","そこで…だ。
+しばらくの間、パスを<R= ここ ,マザーベース>に置いてやりたい。
+","パスは何と？
+","[""<R= ここ ,マザーベース>""]",,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"反正本来也不会有多少。所以我在想，不如让她
+在这里待上一阵子？","[""反正本来也不会有多少。所以我在想，不如让她\n在这里待上一阵子？""]","It wouldn't have been much anyway.
+So I was wondering, what about letting
+her stay here a while?
+","[""It wouldn't have been much anyway.\nSo I was wondering, what about letting\nher stay here a while?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37D9F0; ENG blocks=0x393270,0x393270; ENG source rows=0x393270#7,0x393270#8; block_semantic_score=0.164029."
+BRIEFING_MISSION_BLOCK_37D9F0,7,stream=0x37D000;block=0x9F0;text=7,"[""stream=0x37D000;block=0x9F0;text=7""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","そこで…だ。
+しばらくの間、パスを<R= ここ ,マザーベース>に置いてやりたい。
+","パスは何と？
+","「ぜひ何かの役に立ちたい」と。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她说她想帮忙。,"[""她说她想帮忙。""]","She says she wants to help out.
+","[""She says she wants to help out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#10; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,8,stream=0x37D000;block=0x9F0;text=8,"[""stream=0x37D000;block=0x9F0;text=8""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","パスは何と？
+","「ぜひ何かの役に立ちたい」と。
+","まあ、あくまで一時的な措置だ。
+今回の件のショックもまだ残っている。
+いま彼女に、俺達以上の理解者はいないはずだ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,只是暂时的。她还没缓过劲来。,"[""只是暂时的。她还没缓过劲来。""]","It would only be temporary. She's still in
+shock.
+","[""It would only be temporary. She's still in\nshock.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#11; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,9,stream=0x37D000;block=0x9F0;text=9,"[""stream=0x37D000;block=0x9F0;text=9""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","「ぜひ何かの役に立ちたい」と。
+","まあ、あくまで一時的な措置だ。
+今回の件のショックもまだ残っている。
+いま彼女に、俺達以上の理解者はいないはずだ。
+","わかった。
+だがカズ、彼女から目を離すな。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,现在，没有人比我们更理解她。,"[""现在，没有人比我们更理解她。""]","Right now, no one understands her better
+than we do.
+","[""Right now, no one understands her better\nthan we do.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#12; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,10,stream=0x37D000;block=0x9F0;text=10,"[""stream=0x37D000;block=0x9F0;text=10""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","まあ、あくまで一時的な措置だ。
+今回の件のショックもまだ残っている。
+いま彼女に、俺達以上の理解者はいないはずだ。
+","わかった。
+だがカズ、彼女から目を離すな。
+","え？　どういう意味だ。
+",[],,,NOT_CHECKED,62,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好吧。不过，Kaz，别把视线从她身上移开。,"[""好吧。不过，Kaz，别把视线从她身上移开。""]","OK. But Kaz,
+don't take your eyes off her.
+","[""OK. But Kaz,\ndon't take your eyes off her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37D9F0; ENG blocks=0x393270,0x393270; ENG source rows=0x393270#13,0x393270#14; block_semantic_score=0.164029."
+BRIEFING_MISSION_BLOCK_37D9F0,11,stream=0x37D000;block=0x9F0;text=11,"[""stream=0x37D000;block=0x9F0;text=11""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","わかった。
+だがカズ、彼女から目を離すな。
+","え？　どういう意味だ。
+","ここの暮らしに慣れるのは、
+パスにとっていいことじゃないだろう。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么意思？,"[""什么意思？""]","What do you mean?
+","[""What do you mean?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#15; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,12,stream=0x37D000;block=0x9F0;text=12,"[""stream=0x37D000;block=0x9F0;text=12""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","え？　どういう意味だ。
+","ここの暮らしに慣れるのは、
+パスにとっていいことじゃないだろう。
+","わかってるさ、スネーク。
+彼女を兵士にしようってわけじゃない。
+あとで本人からも話を聞いてやってくれ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我知道，Snake。
+我并不是想把她变成我们的一员。","[""我知道，Snake。\n我并不是想把她变成我们的一员。""]","I know, Snake. I'm not trying to turn her
+into one of us.
+","[""I know, Snake. I'm not trying to turn her\ninto one of us.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#17; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,13,stream=0x37D000;block=0x9F0;text=13,"[""stream=0x37D000;block=0x9F0;text=13""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","ここの暮らしに慣れるのは、
+パスにとっていいことじゃないだろう。
+","わかってるさ、スネーク。
+彼女を兵士にしようってわけじゃない。
+あとで本人からも話を聞いてやってくれ。
+","ああ。
+",[],,,NOT_CHECKED,150,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你晚点应该亲自和她谈谈。,"[""你晚点应该亲自和她谈谈。""]","You should talk to her yourself later.
+","[""You should talk to her yourself later.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#18; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,14,stream=0x37D000;block=0x9F0;text=14,"[""stream=0x37D000;block=0x9F0;text=14""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","わかってるさ、スネーク。
+彼女を兵士にしようってわけじゃない。
+あとで本人からも話を聞いてやってくれ。
+","ああ。
+","それと、ストレンジラブ博士も、
+マザーベースに来たいと言っている。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],"OK.
+","[""OK.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#19; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,15,stream=0x37D000;block=0x9F0;text=15,"[""stream=0x37D000;block=0x9F0;text=15""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","ああ。
+","それと、ストレンジラブ博士も、
+マザーベースに来たいと言っている。
+","ストレンジラブも？
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Strangelove博士也想一起来。,"[""Strangelove博士也想一起来。""]","Dr. Strangelove wants to come, too.
+","[""Dr. Strangelove wants to come, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#21; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,16,stream=0x37D000;block=0x9F0;text=16,"[""stream=0x37D000;block=0x9F0;text=16""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","それと、ストレンジラブ博士も、
+マザーベースに来たいと言っている。
+","ストレンジラブも？
+","彼女も仕事がなくなっちまったわけだし、
+本国に戻るのも、いろいろとややこしそうだからな。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Strangelove？,"[""Strangelove？""]","Strangelove?
+","[""Strangelove?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#22; block_semantic_score=0.164029.
+BRIEFING_MISSION_BLOCK_37D9F0,17,stream=0x37D000;block=0x9F0;text=17,"[""stream=0x37D000;block=0x9F0;text=17""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","ストレンジラブも？
+","彼女も仕事がなくなっちまったわけだし、
+本国に戻るのも、いろいろとややこしそうだからな。
+","詳しくは彼女に聞いてみてくれ。
+研究開発要員としての能力は…、
+…言うまでもないはずだ。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，她现在失业了，而且
+回英格兰可能会有麻烦。你可以和她谈谈这件事。","[""嗯，她现在失业了，而且\n回英格兰可能会有麻烦。你可以和她谈谈这件事。""]","Well she's out of a job now, and she'd
+have a problem returning to England.
+You can talk to her about it.
+","[""Well she's out of a job now, and she'd\nhave a problem returning to England.\nYou can talk to her about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37D9F0; ENG blocks=0x393270,0x393270; ENG source rows=0x393270#23,0x393270#24; block_semantic_score=0.164029."
+BRIEFING_MISSION_BLOCK_37D9F0,18,stream=0x37D000;block=0x9F0;text=18,"[""stream=0x37D000;block=0x9F0;text=18""]",1,BRIEFING MISSION,"[""stream=0x37D000;block=0x9F0;block_file=0x37D9F0;text_base=0x37DA5C;capacity=1632""]","彼女も仕事がなくなっちまったわけだし、
+本国に戻るのも、いろいろとややこしそうだからな。
+","詳しくは彼女に聞いてみてくれ。
+研究開発要員としての能力は…、
+…言うまでもないはずだ。
+",,[],,,NOT_CHECKED,129,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"总之，不用我说你也知道
+她对研发会有多大帮助。","[""总之，不用我说你也知道\n她对研发会有多大帮助。""]","Anyway, you don't need me to tell you
+how good she'd be for R&D.
+","[""Anyway, you don't need me to tell you\nhow good she'd be for R&D.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D9F0; ENG blocks=0x393270; ENG source rows=0x393270#25; block_semantic_score=0.164029.

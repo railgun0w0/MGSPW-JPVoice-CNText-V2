@@ -1,0 +1,67 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02E610,0,stream=0x2E000;block=0x610;text=0,"[""stream=0x2E000;block=0x610;text=0""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]",,"そのあたりに、巨大な遺跡なんてあったかな…。
+","言ってたな。コスタリカの古代文明については、わかって
+いないことも多いと。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不记得那里有那么大的废墟…,"[""我不记得那里有那么大的废墟…""]","I do not know if I recall such large ruins being
+there...
+","[""I do not know if I recall such large ruins being\nthere...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E610; ENG blocks=0xBF890; ENG source rows=0xBF890#0; block_semantic_score=0.263420.
+BRIEFING_FILES_BLOCK_02E610,1,stream=0x2E000;block=0x610;text=1,"[""stream=0x2E000;block=0x610;text=1""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","そのあたりに、巨大な遺跡なんてあったかな…。
+","言ってたな。コスタリカの古代文明については、わかって
+いないことも多いと。
+","大きな石の球が転がってるって話もしてたな。何のことだ？
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你不是说过，哥斯达黎加的远古
+文明还有很多我们不知道的事吗？","[""你不是说过，哥斯达黎加的远古\n文明还有很多我们不知道的事吗？""]","Well, didn't you say there's a lot we don't know
+about Costa Rica's ancient civilizations?
+","[""Well, didn't you say there's a lot we don't know\nabout Costa Rica's ancient civilizations?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E610; ENG blocks=0xBF890; ENG source rows=0xBF890#1; block_semantic_score=0.263420.
+BRIEFING_FILES_BLOCK_02E610,2,stream=0x2E000;block=0x610;text=2,"[""stream=0x2E000;block=0x610;text=2""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","言ってたな。コスタリカの古代文明については、わかって
+いないことも多いと。
+","大きな石の球が転がってるって話もしてたな。何のことだ？
+","『コスタリカの石球』のことね。50年くらい前に、コスタ
+リカのジャングルで見つかった、巨大な石の球のことよ。
+それもたくさん。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你还提到过一些巨大的
+石球，那又是什么？哦，哥斯达黎加石球？","[""你还提到过一些巨大的\n石球，那又是什么？哦，哥斯达黎加石球？""]","You talked about some giant stone balls, too. What
+are those?
+Oh, the Stone Spheres of Costa Rica?
+","[""You talked about some giant stone balls, too. What\nare those?\nOh, the Stone Spheres of Costa Rica?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2E610; ENG blocks=0xBF890,0xBF890; ENG source rows=0xBF890#2,0xBF890#3; block_semantic_score=0.263420."
+BRIEFING_FILES_BLOCK_02E610,3,stream=0x2E000;block=0x610;text=3,"[""stream=0x2E000;block=0x610;text=3""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","大きな石の球が転がってるって話もしてたな。何のことだ？
+","『コスタリカの石球』のことね。50年くらい前に、コスタ
+リカのジャングルで見つかった、巨大な石の球のことよ。
+それもたくさん。
+","石くらい、珍しくもないだろう。
+",[],,,NOT_CHECKED,182,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大约50年前在哥斯达黎加的
+丛林中被发现。","[""大约50年前在哥斯达黎加的\n丛林中被发现。""]","that were discovered in the jungles of Costa Rica
+about 50 years ago.
+","[""that were discovered in the jungles of Costa Rica\nabout 50 years ago.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E610; ENG blocks=0xBF890; ENG source rows=0xBF890#5; block_semantic_score=0.263420.
+BRIEFING_FILES_BLOCK_02E610,4,stream=0x2E000;block=0x610;text=4,"[""stream=0x2E000;block=0x610;text=4""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","『コスタリカの石球』のことね。50年くらい前に、コスタ
+リカのジャングルで見つかった、巨大な石の球のことよ。
+それもたくさん。
+","石くらい、珍しくもないだろう。
+","それが、ほぼ完全な球体だとしても？　それも、球は花崗
+岩なの。かなり固い岩石よ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果我告诉你，
+其中有些近乎完美的球体呢？","[""如果我告诉你，\n其中有些近乎完美的球体呢？""]","What if I told you some of them are nearly perfect
+spheres?
+","[""What if I told you some of them are nearly perfect\nspheres?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E610; ENG blocks=0xBF890; ENG source rows=0xBF890#7; block_semantic_score=0.263420.
+BRIEFING_FILES_BLOCK_02E610,5,stream=0x2E000;block=0x610;text=5,"[""stream=0x2E000;block=0x610;text=5""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","石くらい、珍しくもないだろう。
+","それが、ほぼ完全な球体だとしても？　それも、球は花崗
+岩なの。かなり固い岩石よ。
+","なら、トラップに使えるかも知れんな。真円なら転がりや
+すいだろうし…。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且它们是用花岗岩雕出来的，
+那可是相当硬的石头。","[""而且它们是用花岗岩雕出来的，\n那可是相当硬的石头。""]","And that they were carved out of granite, which is
+quite a hard substance.
+","[""And that they were carved out of granite, which is\nquite a hard substance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E610; ENG blocks=0xBF890; ENG source rows=0xBF890#8; block_semantic_score=0.263420.
+BRIEFING_FILES_BLOCK_02E610,6,stream=0x2E000;block=0x610;text=6,"[""stream=0x2E000;block=0x610;text=6""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","それが、ほぼ完全な球体だとしても？　それも、球は花崗
+岩なの。かなり固い岩石よ。
+","なら、トラップに使えるかも知れんな。真円なら転がりや
+すいだろうし…。
+","スネーク…。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，用来设陷阱倒是不错。既然是球形，那也一定很容易滚…,"[""嗯，用来设陷阱倒是不错。既然是球形，那也一定很容易滚…""]","Hmm, could be good for laying a trap.
+And if they're spherical, they'd roll easily, too...
+","[""Hmm, could be good for laying a trap.\nAnd if they're spherical, they'd roll easily, too...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2E610; ENG blocks=0xBF890,0xBF890; ENG source rows=0xBF890#9,0xBF890#10; block_semantic_score=0.263420."
+BRIEFING_FILES_BLOCK_02E610,7,stream=0x2E000;block=0x610;text=7,"[""stream=0x2E000;block=0x610;text=7""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","なら、トラップに使えるかも知れんな。真円なら転がりや
+すいだろうし…。
+","スネーク…。
+",,[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake…,"[""Snake…""]","Snake...
+","[""Snake...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E610; ENG blocks=0xBF890; ENG source rows=0xBF890#11; block_semantic_score=0.263420.

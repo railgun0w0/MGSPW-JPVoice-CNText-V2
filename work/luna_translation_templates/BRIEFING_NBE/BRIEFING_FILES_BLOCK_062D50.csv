@@ -1,0 +1,246 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_062D50,0,stream=0x62000;block=0xD50;text=0,"[""stream=0x62000;block=0xD50;text=0""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]",,"スネーク。
+","なんだ。酔っ払っているのか。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你好！Snake，亲爱的。,"[""你好！Snake，亲爱的。""]","Hello! Snake, mon chéri.
+","[""Hello! Snake, mon chéri.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#0; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,1,stream=0x62000;block=0xD50;text=1,"[""stream=0x62000;block=0xD50;text=1""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","スネーク。
+","なんだ。酔っ払っているのか。
+","あの人、どうにかして。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你喝酒了吗，Cécile？,"[""你喝酒了吗，Cécile？""]","You been drinking, Cécile?
+","[""You been drinking, Cécile?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#1; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,2,stream=0x62000;block=0xD50;text=2,"[""stream=0x62000;block=0xD50;text=2""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","なんだ。酔っ払っているのか。
+","あの人、どうにかして。
+","誰のことだ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你能不能想个办法治治这个讨厌鬼？,"[""你能不能想个办法治治这个讨厌鬼？""]","Can't you please do something about this pest?
+","[""Can't you please do something about this pest?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#2; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,3,stream=0x62000;block=0xD50;text=3,"[""stream=0x62000;block=0xD50;text=3""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","あの人、どうにかして。
+","誰のことだ。
+","ミラーさん。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谁？,"[""谁？""]","Who?
+","[""Who?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#3; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,4,stream=0x62000;block=0xD50;text=4,"[""stream=0x62000;block=0xD50;text=4""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","誰のことだ。
+","ミラーさん。
+","カズがどうかしたか。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Miller先生。,"[""Miller先生。""]","Monsieur Miller.
+","[""Monsieur Miller.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#4; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,5,stream=0x62000;block=0xD50;text=5,"[""stream=0x62000;block=0xD50;text=5""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ミラーさん。
+","カズがどうかしたか。
+","ワインよ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他又干了什么…,"[""他又干了什么…""]","What's he done now...
+","[""What's he done now...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#5; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,6,stream=0x62000;block=0xD50;text=6,"[""stream=0x62000;block=0xD50;text=6""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","カズがどうかしたか。
+","ワインよ。
+","ワイン？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,葡萄酒。,"[""葡萄酒。""]","Wine.
+","[""Wine.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#6; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,7,stream=0x62000;block=0xD50;text=7,"[""stream=0x62000;block=0xD50;text=7""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ワインよ。
+","ワイン？
+","ビールばっかりじゃ隊員達も飽きるだろうっていうから、
+ワインはどう？　って勧めたの。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,葡萄酒？,"[""葡萄酒？""]","Wine?
+","[""Wine?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#7; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,8,stream=0x62000;block=0xD50;text=8,"[""stream=0x62000;block=0xD50;text=8""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ワイン？
+","ビールばっかりじゃ隊員達も飽きるだろうっていうから、
+ワインはどう？　って勧めたの。
+","ほう、いいじゃないか。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_062D50,9,stream=0x62000;block=0xD50;text=9,"[""stream=0x62000;block=0xD50;text=9""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ビールばっかりじゃ隊員達も飽きるだろうっていうから、
+ワインはどう？　って勧めたの。
+","ほう、いいじゃないか。
+","でもね、ここ2年ほどフランスのワインは不作だったの。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他说他觉得士兵们总喝啤酒会腻，,"[""他说他觉得士兵们总喝啤酒会腻，""]","He said he thought the soldiers might tire of
+having beer all the time,
+","[""He said he thought the soldiers might tire of\nhaving beer all the time,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#8; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,10,stream=0x62000;block=0xD50;text=10,"[""stream=0x62000;block=0xD50;text=10""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ほう、いいじゃないか。
+","でもね、ここ2年ほどフランスのワインは不作だったの。
+","ああ、よだれよだれ！
+",[],,,NOT_CHECKED,77,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以就弄了些葡萄酒来。
+然后还给了我一大堆。","[""所以就弄了些葡萄酒来。\n然后还给了我一大堆。""]","so he's brought in some wine instead. And then he
+gave me a bunch.
+","[""so he's brought in some wine instead. And then he\ngave me a bunch.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#9; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,11,stream=0x62000;block=0xD50;text=11,"[""stream=0x62000;block=0xD50;text=11""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","でもね、ここ2年ほどフランスのワインは不作だったの。
+","ああ、よだれよだれ！
+","ありがとう。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他还真是…好心。,"[""他还真是…好心。""]","That was... nice of him.
+","[""That was... nice of him.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#10; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,12,stream=0x62000;block=0xD50;text=12,"[""stream=0x62000;block=0xD50;text=12""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ああ、よだれよだれ！
+","ありがとう。
+","それで？
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但过去两年对法国
+葡萄酒来说可不景气。","[""但过去两年对法国\n葡萄酒来说可不景气。""]","But the past two years have been bad for French
+wine.
+","[""But the past two years have been bad for French\nwine.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#11; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,13,stream=0x62000;block=0xD50;text=13,"[""stream=0x62000;block=0xD50;text=13""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ありがとう。
+","それで？
+","あのね、天候が不順だったせいだと思うんだけど、とにか
+く、今の時期ワインならフランスのものはよした方がいい
+ってアドバイスしたのよ、私。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,也许是天气不好，但不管怎么说，,"[""也许是天气不好，但不管怎么说，""]","Perhaps it is the bad weather we have had, but
+whatever the case,
+","[""Perhaps it is the bad weather we have had, but\nwhatever the case,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#12; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,14,stream=0x62000;block=0xD50;text=14,"[""stream=0x62000;block=0xD50;text=14""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","それで？
+","あのね、天候が不順だったせいだと思うんだけど、とにか
+く、今の時期ワインならフランスのものはよした方がいい
+ってアドバイスしたのよ、私。
+","ああ、そうかそうか。まあカリフォルニアやチリにもいい
+ワインはあるからな。
+",[],,,NOT_CHECKED,201,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我跟他说，现在最不该
+喝的就是法国葡萄酒。","[""我跟他说，现在最不该\n喝的就是法国葡萄酒。""]","I told him the last thing you want to be drinking
+right now is French wine.
+","[""I told him the last thing you want to be drinking\nright now is French wine.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#13; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,15,stream=0x62000;block=0xD50;text=15,"[""stream=0x62000;block=0xD50;text=15""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","あのね、天候が不順だったせいだと思うんだけど、とにか
+く、今の時期ワインならフランスのものはよした方がいい
+ってアドバイスしたのよ、私。
+","ああ、そうかそうか。まあカリフォルニアやチリにもいい
+ワインはあるからな。
+","ところがよ、彼ったらわざわざフランスの、しかも不作だ
+った72年モノばかり倉庫一杯買い付けてきたのよ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,加利福尼亚和智利也有好酒。,"[""加利福尼亚和智利也有好酒。""]","California and Chile have good wine, too.
+","[""California and Chile have good wine, too.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#14; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,16,stream=0x62000;block=0xD50;text=16,"[""stream=0x62000;block=0xD50;text=16""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ああ、そうかそうか。まあカリフォルニアやチリにもいい
+ワインはあるからな。
+","ところがよ、彼ったらわざわざフランスの、しかも不作だ
+った72年モノばかり倉庫一杯買い付けてきたのよ。
+","ああ…。そうかそうか…。
+",[],,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"结果他倒好，把储藏室全
+塞满了72年的法国葡萄酒。","[""结果他倒好，把储藏室全\n塞满了72年的法国葡萄酒。""]","But then he goes and stocks the pantry with
+nothing but French wine from '72.
+","[""But then he goes and stocks the pantry with\nnothing but French wine from '72.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#15; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,17,stream=0x62000;block=0xD50;text=17,"[""stream=0x62000;block=0xD50;text=17""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ところがよ、彼ったらわざわざフランスの、しかも不作だ
+った72年モノばかり倉庫一杯買い付けてきたのよ。
+","ああ…。そうかそうか…。
+","「どうだセシール、故郷の香りを楽しんでみないか」です
+って。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那玩意儿简直是个灾难。,"[""那玩意儿简直是个灾难。""]","The stuff is a disaster.
+","[""The stuff is a disaster.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#16; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,18,stream=0x62000;block=0xD50;text=18,"[""stream=0x62000;block=0xD50;text=18""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ああ…。そうかそうか…。
+","「どうだセシール、故郷の香りを楽しんでみないか」です
+って。
+","ほう…。それで。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后他说：‘来嘛，Cécile，
+尝尝家乡的味道。’","[""然后他说：‘来嘛，Cécile，\n尝尝家乡的味道。’""]","Then he says, ""Come on, Cécile, have a taste of
+the old country.""
+","[""Then he says, \""Come on, Cécile, have a taste of\nthe old country.\""\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#17; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,19,stream=0x62000;block=0xD50;text=19,"[""stream=0x62000;block=0xD50;text=19""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","「どうだセシール、故郷の香りを楽しんでみないか」です
+って。
+","ほう…。それで。
+","嫌な予感がしたから私、味を確かめるためにテイスティン
+グしたわ。何度も、何度もしたわ。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,结果一口又一口，又多喝了好几口。,"[""结果一口又一口，又多喝了好几口。""]","And then again, and then a few more times.
+","[""And then again, and then a few more times.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#19; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,20,stream=0x62000;block=0xD50;text=20,"[""stream=0x62000;block=0xD50;text=20""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ほう…。それで。
+","嫌な予感がしたから私、味を確かめるためにテイスティン
+グしたわ。何度も、何度もしたわ。
+","ああ、そりゃご苦労だったな。…だが、普通はテイスティ
+ングじゃ飲み込まないはずなんじゃ…。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为了大家牺牲自己，是吧？,"[""为了大家牺牲自己，是吧？""]","Took one for the team, huh?
+","[""Took one for the team, huh?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#20; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,21,stream=0x62000;block=0xD50;text=21,"[""stream=0x62000;block=0xD50;text=21""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","嫌な予感がしたから私、味を確かめるためにテイスティン
+グしたわ。何度も、何度もしたわ。
+","ああ、そりゃご苦労だったな。…だが、普通はテイスティ
+ングじゃ飲み込まないはずなんじゃ…。
+","ところが何本封を切っても、どのボトル取りだしても、全
+部、ぜんぶマズイの。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但品酒的时候，
+不是通常要把酒吐掉吗？","[""但品酒的时候，\n不是通常要把酒吐掉吗？""]","But when you do a tasting, don't you usually spit
+the wine out?
+","[""But when you do a tasting, don't you usually spit\nthe wine out?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#21; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,22,stream=0x62000;block=0xD50;text=22,"[""stream=0x62000;block=0xD50;text=22""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ああ、そりゃご苦労だったな。…だが、普通はテイスティ
+ングじゃ飲み込まないはずなんじゃ…。
+","ところが何本封を切っても、どのボトル取りだしても、全
+部、ぜんぶマズイの。
+","ただの一本も美味しいワインが無かったの！　何が故郷の
+香りよ…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可一瓶接一瓶，全是垃圾，
+彻头彻尾的垃圾。","[""可一瓶接一瓶，全是垃圾，\n彻头彻尾的垃圾。""]","But bottle after bottle, nothing but garbage,
+absolute garbage.
+","[""But bottle after bottle, nothing but garbage,\nabsolute garbage.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#22; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,23,stream=0x62000;block=0xD50;text=23,"[""stream=0x62000;block=0xD50;text=23""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ところが何本封を切っても、どのボトル取りだしても、全
+部、ぜんぶマズイの。
+","ただの一本も美味しいワインが無かったの！　何が故郷の
+香りよ…。
+","…そりゃ、残念だったな。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"整批里没有一瓶像样的！
+他还说‘家乡的味道’…","[""整批里没有一瓶像样的！\n他还说‘家乡的味道’…""]","Not one half-decent bottle in the whole lot! ""Taste
+of the old country"" he says...
+","[""Not one half-decent bottle in the whole lot! \""Taste\nof the old country\"" he says...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#23; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,24,stream=0x62000;block=0xD50;text=24,"[""stream=0x62000;block=0xD50;text=24""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ただの一本も美味しいワインが無かったの！　何が故郷の
+香りよ…。
+","…そりゃ、残念だったな。
+","もう信じられない！　あんなにたくさんどうすんのよ！
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听你这么说真遗憾。,"[""听你这么说真遗憾。""]","Sorry to hear that.
+","[""Sorry to hear that.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#24; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,25,stream=0x62000;block=0xD50;text=25,"[""stream=0x62000;block=0xD50;text=25""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","…そりゃ、残念だったな。
+","もう信じられない！　あんなにたくさんどうすんのよ！
+","ここの連中は味なんか気にしないさ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我真不敢相信！这些酒可怎么办啊！,"[""我真不敢相信！这些酒可怎么办啊！""]","I cannot believe this! What will we do with all this
+wine!
+","[""I cannot believe this! What will we do with all this\nwine!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#25; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,26,stream=0x62000;block=0xD50;text=26,"[""stream=0x62000;block=0xD50;text=26""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","もう信じられない！　あんなにたくさんどうすんのよ！
+","ここの連中は味なんか気にしないさ。
+","あんたさ…スネークさんよぉ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那些家伙在味道上不怎么挑剔。,"[""那些家伙在味道上不怎么挑剔。""]","The guys aren't too picky when it comes to taste.
+","[""The guys aren't too picky when it comes to taste.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#26; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,27,stream=0x62000;block=0xD50;text=27,"[""stream=0x62000;block=0xD50;text=27""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ここの連中は味なんか気にしないさ。
+","あんたさ…スネークさんよぉ。
+","なんだよ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你说的话和Miller先生一模一样。,"[""你说的话和Miller先生一模一样。""]","You sound just like Monsieur Miller.
+","[""You sound just like Monsieur Miller.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#27; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,28,stream=0x62000;block=0xD50;text=28,"[""stream=0x62000;block=0xD50;text=28""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","あんたさ…スネークさんよぉ。
+","なんだよ。
+","あんたもミラーさんと同じこというのか？
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯？,"[""嗯？""]","Huh?
+","[""Huh?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#28; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,29,stream=0x62000;block=0xD50;text=29,"[""stream=0x62000;block=0xD50;text=29""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","なんだよ。
+","あんたもミラーさんと同じこというのか？
+","え。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我抱怨的时候，他只是说：
+‘能解决问题就行。’","[""我抱怨的时候，他只是说：\n‘能解决问题就行。’""]","When I complained, he simply said, ""As long as it
+gets the job done.""
+","[""When I complained, he simply said, \""As long as it\ngets the job done.\""\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=2:1; JPN blocks=0x62D50,0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#29; block_semantic_score=0.065670."
+BRIEFING_FILES_BLOCK_062D50,30,stream=0x62000;block=0xD50;text=30,"[""stream=0x62000;block=0xD50;text=30""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","あんたもミラーさんと同じこというのか？
+","え。
+","アタイ文句言ったらあの人シレッとして言ったわ、「酔っ
+ぱらえばいいんだ」。
+",[],,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我抱怨的时候，他只是说：
+‘能解决问题就行。’","[""我抱怨的时候，他只是说：\n‘能解决问题就行。’""]","When I complained, he simply said, ""As long as it
+gets the job done.""
+","[""When I complained, he simply said, \""As long as it\ngets the job done.\""\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=2:1; JPN blocks=0x62D50,0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#29; block_semantic_score=0.065670."
+BRIEFING_FILES_BLOCK_062D50,31,stream=0x62000;block=0xD50;text=31,"[""stream=0x62000;block=0xD50;text=31""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","え。
+","アタイ文句言ったらあの人シレッとして言ったわ、「酔っ
+ぱらえばいいんだ」。
+","なんなのここの人達、味覚の野蛮人だらけじゃない！
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_062D50,32,stream=0x62000;block=0xD50;text=32,"[""stream=0x62000;block=0xD50;text=32""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","アタイ文句言ったらあの人シレッとして言ったわ、「酔っ
+ぱらえばいいんだ」。
+","なんなのここの人達、味覚の野蛮人だらけじゃない！
+","ああ、よしよしよしよし。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你们这些人真是味觉上的野蛮人！,"[""你们这些人真是味觉上的野蛮人！""]","You people are such culinary savages!
+","[""You people are such culinary savages!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#30; block_semantic_score=0.065670.
+BRIEFING_FILES_BLOCK_062D50,33,stream=0x62000;block=0xD50;text=33,"[""stream=0x62000;block=0xD50;text=33""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","なんなのここの人達、味覚の野蛮人だらけじゃない！
+","ああ、よしよしよしよし。
+","ありがとう。あんたいい人だよ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你们全都见鬼去吧！…啊——
+谁能带我回巴黎！拜托了！","[""你们全都见鬼去吧！…啊——\n谁能带我回巴黎！拜托了！""]","Allez tous vous faire voir ! ...Aaaah, somebody take
+me back to Paris! Please!
+","[""Allez tous vous faire voir ! ...Aaaah, somebody take\nme back to Paris! Please!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=2:1; JPN blocks=0x62D50,0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#31; block_semantic_score=0.065670."
+BRIEFING_FILES_BLOCK_062D50,34,stream=0x62000;block=0xD50;text=34,"[""stream=0x62000;block=0xD50;text=34""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ああ、よしよしよしよし。
+","ありがとう。あんたいい人だよ。
+","ああ…。そうか。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你们全都见鬼去吧！…啊——
+谁能带我回巴黎！拜托了！","[""你们全都见鬼去吧！…啊——\n谁能带我回巴黎！拜托了！""]","Allez tous vous faire voir ! ...Aaaah, somebody take
+me back to Paris! Please!
+","[""Allez tous vous faire voir ! ...Aaaah, somebody take\nme back to Paris! Please!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=2:1; JPN blocks=0x62D50,0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#31; block_semantic_score=0.065670."
+BRIEFING_FILES_BLOCK_062D50,35,stream=0x62000;block=0xD50;text=35,"[""stream=0x62000;block=0xD50;text=35""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ありがとう。あんたいい人だよ。
+","ああ…。そうか。
+","…私、パリに帰りたい！
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我觉得你喝得有点多了，Cécile。,"[""…我觉得你喝得有点多了，Cécile。""]","...I think you've had a little too much, Cécile.
+","[""...I think you've had a little too much, Cécile.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=2:1; JPN blocks=0x62D50,0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#32; block_semantic_score=0.065670."
+BRIEFING_FILES_BLOCK_062D50,36,stream=0x62000;block=0xD50;text=36,"[""stream=0x62000;block=0xD50;text=36""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","ああ…。そうか。
+","…私、パリに帰りたい！
+","…酔っぱらいすぎてないか、お前。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我觉得你喝得有点多了，Cécile。,"[""…我觉得你喝得有点多了，Cécile。""]","...I think you've had a little too much, Cécile.
+","[""...I think you've had a little too much, Cécile.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=2:1; JPN blocks=0x62D50,0x62D50; ENG blocks=0xF0320; ENG source rows=0xF0320#32; block_semantic_score=0.065670."
+BRIEFING_FILES_BLOCK_062D50,37,stream=0x62000;block=0xD50;text=37,"[""stream=0x62000;block=0xD50;text=37""]",1,BRIEFING FILES,"[""stream=0x62000;block=0xD50;block_file=0x62D50;text_base=0x62E08;capacity=2268""]","…私、パリに帰りたい！
+","…酔っぱらいすぎてないか、お前。
+",,[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

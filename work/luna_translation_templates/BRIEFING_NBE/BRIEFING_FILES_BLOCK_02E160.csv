@@ -1,0 +1,71 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02E160,0,stream=0x2E000;block=0x160;text=0,"[""stream=0x2E000;block=0x160;text=0""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]",,"そのあたりには「リュイナス・デ・ショチケツァル」、シ
+ョチケツアル遺跡があるはずよ。
+","復元はされていないから、緑に埋もれているかもしれない
+けど。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,索奇克察尔遗迹应该就在那边。,"[""索奇克察尔遗迹应该就在那边。""]","La Ruinas de Xochiquetzal will be around there.
+","[""La Ruinas de Xochiquetzal will be around there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#0; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,1,stream=0x2E000;block=0x160;text=1,"[""stream=0x2E000;block=0x160;text=1""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","そのあたりには「リュイナス・デ・ショチケツァル」、シ
+ョチケツアル遺跡があるはずよ。
+","復元はされていないから、緑に埋もれているかもしれない
+けど。
+","ショチケツアル？
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"完全没有修复过，
+很可能全被植物盖住了。","[""完全没有修复过，\n很可能全被植物盖住了。""]","They have not been restored at all, so they may
+well be covered in plants.
+","[""They have not been restored at all, so they may\nwell be covered in plants.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#1; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,2,stream=0x2E000;block=0x160;text=2,"[""stream=0x2E000;block=0x160;text=2""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","復元はされていないから、緑に埋もれているかもしれない
+けど。
+","ショチケツアル？
+","古代アステカの神の一人。花や美の女神として知られてい
+るの。蝶や鳥を従えているんだって。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,索奇克察尔？,"[""索奇克察尔？""]","Xochiquetzal?
+","[""Xochiquetzal?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#2; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,3,stream=0x2E000;block=0x160;text=3,"[""stream=0x2E000;block=0x160;text=3""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","ショチケツアル？
+","古代アステカの神の一人。花や美の女神として知られてい
+るの。蝶や鳥を従えているんだって。
+","ケツァルコアトル神のお母さんって説もあるみたい。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,阿兹特克的生育与美之女神。传说她总是有鸟和蝴蝶陪伴在侧。,"[""阿兹特克的生育与美之女神。传说她总是有鸟和蝴蝶陪伴在侧。""]","An Aztec goddess of fertility and beauty.
+They say she was always accompanied by birds
+and butterflies.
+","[""An Aztec goddess of fertility and beauty.\nThey say she was always accompanied by birds\nand butterflies.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2E160; ENG blocks=0xBF3B0,0xBF3B0; ENG source rows=0xBF3B0#3,0xBF3B0#4; block_semantic_score=0.174264."
+BRIEFING_FILES_BLOCK_02E160,4,stream=0x2E000;block=0x160;text=4,"[""stream=0x2E000;block=0x160;text=4""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","古代アステカの神の一人。花や美の女神として知られてい
+るの。蝶や鳥を従えているんだって。
+","ケツァルコアトル神のお母さんって説もあるみたい。
+","ケツァルコアトル…。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有一种说法是，她是羽蛇神的母亲。,"[""有一种说法是，她是羽蛇神的母亲。""]","One theory states she was the mother of the god
+known as Quetzalcoatl.
+","[""One theory states she was the mother of the god\nknown as Quetzalcoatl.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#5; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,5,stream=0x2E000;block=0x160;text=5,"[""stream=0x2E000;block=0x160;text=5""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","ケツァルコアトル神のお母さんって説もあるみたい。
+","ケツァルコアトル…。
+","ケツァルコアトル神の化身がケツァールって言われてる。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,羽蛇神…,"[""羽蛇神…""]","Quetzalcoatl...
+","[""Quetzalcoatl...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#6; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,6,stream=0x2E000;block=0x160;text=6,"[""stream=0x2E000;block=0x160;text=6""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","ケツァルコアトル…。
+","ケツァルコアトル神の化身がケツァールって言われてる。
+","なるほど、雲霧林にふさわしい。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"绿咬鹃据说就是羽蛇神的
+化身，因此得名。","[""绿咬鹃据说就是羽蛇神的\n化身，因此得名。""]","The quetzal is said to be an incarnation of
+Quetzalcoatl, hence its name.
+","[""The quetzal is said to be an incarnation of\nQuetzalcoatl, hence its name.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#7; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,7,stream=0x2E000;block=0x160;text=7,"[""stream=0x2E000;block=0x160;text=7""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","ケツァルコアトル神の化身がケツァールって言われてる。
+","なるほど、雲霧林にふさわしい。
+","朽ちかけていても神殿よ。入る時は敬意を忘れないでね。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"懂了。这地方倒真有
+几分云雾森林的感觉。","[""懂了。这地方倒真有\n几分云雾森林的感觉。""]","I get it. Well, this place definitely matches the
+atmosphere of a cloud forest.
+","[""I get it. Well, this place definitely matches the\natmosphere of a cloud forest.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#8; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,8,stream=0x2E000;block=0x160;text=8,"[""stream=0x2E000;block=0x160;text=8""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","なるほど、雲霧林にふさわしい。
+","朽ちかけていても神殿よ。入る時は敬意を忘れないでね。
+","気が向いたらな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以进去的时候，记得心怀敬意。,"[""所以进去的时候，记得心怀敬意。""]","So, be sure to show respect when you're inside.
+","[""So, be sure to show respect when you're inside.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#10; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,9,stream=0x2E000;block=0x160;text=9,"[""stream=0x2E000;block=0x160;text=9""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","朽ちかけていても神殿よ。入る時は敬意を忘れないでね。
+","気が向いたらな。
+","もう！　罰が当たっても知らないから。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哼！那你只能怪你自己了，,"[""哼！那你只能怪你自己了，""]","Hmph! Well, you've got no one to blame but yourself
+","[""Hmph! Well, you've got no one to blame but yourself\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#12; block_semantic_score=0.174264.
+BRIEFING_FILES_BLOCK_02E160,10,stream=0x2E000;block=0x160;text=10,"[""stream=0x2E000;block=0x160;text=10""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x160;block_file=0x2E160;text_base=0x2E1AC;capacity=772""]","気が向いたらな。
+","もう！　罰が当たっても知らないから。
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要是被索奇克察尔降下惩罚的话。,"[""要是被索奇克察尔降下惩罚的话。""]","if Xochiquetzal strikes you down.
+","[""if Xochiquetzal strikes you down.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2E160; ENG blocks=0xBF3B0; ENG source rows=0xBF3B0#13; block_semantic_score=0.174264.

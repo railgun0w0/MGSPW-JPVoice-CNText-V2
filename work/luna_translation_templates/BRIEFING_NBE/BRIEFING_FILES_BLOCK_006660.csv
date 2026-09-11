@@ -1,0 +1,116 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_006660,0,stream=0x6000;block=0x660;text=0,"[""stream=0x6000;block=0x660;text=0""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]",,"CIAとKGBが手を結んでいたとは、驚いたよ。
+","支局長クラスが手を組むとはな…現場の諜報員同士が顔見
+知りになるっていう話は聞くが。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你敢相信中情局(CIA)和克格勃
+(KGB)居然真的联手过吗？","[""你敢相信中情局(CIA)和克格勃\n(KGB)居然真的联手过吗？""]","Can you believe the CIA and the KGB were actually
+in cahoots?
+","[""Can you believe the CIA and the KGB were actually\nin cahoots?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#0; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,1,stream=0x6000;block=0x660;text=1,"[""stream=0x6000;block=0x660;text=1""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","CIAとKGBが手を結んでいたとは、驚いたよ。
+","支局長クラスが手を組むとはな…現場の諜報員同士が顔見
+知りになるっていう話は聞くが。
+","そうなのか？
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没想到连站长级别都会有这种事…不过我倒是听说过，
+一线的特工之间关系相当融洽。","[""没想到连站长级别都会有这种事…不过我倒是听说过，\n一线的特工之间关系相当融洽。""]","Never thought I'd see that at the station chief
+level...
+But I've heard stories of operatives in the field
+being on friendly terms.
+","[""Never thought I'd see that at the station chief\nlevel...\nBut I've heard stories of operatives in the field\nbeing on friendly terms.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6660; ENG blocks=0x9AB70,0x9AB70; ENG source rows=0x9AB70#1,0x9AB70#2; block_semantic_score=0.146374."
+BRIEFING_FILES_BLOCK_006660,2,stream=0x6000;block=0x660;text=2,"[""stream=0x6000;block=0x660;text=2""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","支局長クラスが手を組むとはな…現場の諜報員同士が顔見
+知りになるっていう話は聞くが。
+","そうなのか？
+","諜報活動の舞台は、当然政治的にホットな場所ということ
+になる。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真的假的？,"[""真的假的？""]","Seriously?
+","[""Seriously?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#3; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,3,stream=0x6000;block=0x660;text=3,"[""stream=0x6000;block=0x660;text=3""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","そうなのか？
+","諜報活動の舞台は、当然政治的にホットな場所ということ
+になる。
+","だが、そういった場所は限られている。特に小さい国では
+な。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大多数间谍活动都发生在政治
+热点地区，这也在情理之中。","[""大多数间谍活动都发生在政治\n热点地区，这也在情理之中。""]","Most espionage takes place in political hotspots, as
+you'd expect.
+","[""Most espionage takes place in political hotspots, as\nyou'd expect.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#4; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,4,stream=0x6000;block=0x660;text=4,"[""stream=0x6000;block=0x660;text=4""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","諜報活動の舞台は、当然政治的にホットな場所ということ
+になる。
+","だが、そういった場所は限られている。特に小さい国では
+な。
+","そこに足繁く通っていれば、お互い嫌でも顔を合わせるこ
+とになるだろう。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"可这种地方其实没多少。
+尤其是在小国里。","[""可这种地方其实没多少。\n尤其是在小国里。""]","But there aren't that many of those kinds of
+places. Especially in a small country.
+","[""But there aren't that many of those kinds of\nplaces. Especially in a small country.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#5; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,5,stream=0x6000;block=0x660;text=5,"[""stream=0x6000;block=0x660;text=5""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","だが、そういった場所は限られている。特に小さい国では
+な。
+","そこに足繁く通っていれば、お互い嫌でも顔を合わせるこ
+とになるだろう。
+","そのうち挨拶をするようになり、一緒にメシを食うように
+なり…。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"待得久了，难免会碰上同行，
+不管你愿不愿意。","[""待得久了，难免会碰上同行，\n不管你愿不愿意。""]","Hang around long enough, and you're bound to run
+into fellow spies, like it or not.
+","[""Hang around long enough, and you're bound to run\ninto fellow spies, like it or not.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#6; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,6,stream=0x6000;block=0x660;text=6,"[""stream=0x6000;block=0x660;text=6""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","そこに足繁く通っていれば、お互い嫌でも顔を合わせるこ
+とになるだろう。
+","そのうち挨拶をするようになり、一緒にメシを食うように
+なり…。
+","恋の花咲くこともある、か？
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"先是打个招呼，
+没多久就开始一起吃饭了…","[""先是打个招呼，\n没多久就开始一起吃饭了…""]","You start saying hello, and soon enough you're
+eating dinner together...
+","[""You start saying hello, and soon enough you're\neating dinner together...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#7; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,7,stream=0x6000;block=0x660;text=7,"[""stream=0x6000;block=0x660;text=7""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","そのうち挨拶をするようになり、一緒にメシを食うように
+なり…。
+","恋の花咲くこともある、か？
+","それはわからん。ともかく、そういった馴れ合いが高じた
+結果が、この茶番なのかも知れん。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真是奇怪的同床异梦啊。,"[""真是奇怪的同床异梦啊。""]","Strange bedfellows, huh?
+","[""Strange bedfellows, huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#8; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,8,stream=0x6000;block=0x660;text=8,"[""stream=0x6000;block=0x660;text=8""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","恋の花咲くこともある、か？
+","それはわからん。ともかく、そういった馴れ合いが高じた
+結果が、この茶番なのかも知れん。
+","利害が一致すれば、忠義すら投げ捨てる連中もいるとはな
+…。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这我可说不好。总之，间谍之间走得太近，
+就容易出这种乱子。","[""这我可说不好。总之，间谍之间走得太近，\n就容易出这种乱子。""]","I dunno about that.
+At any rate, this kind of fiasco is what happens
+when spies get too familiar.
+","[""I dunno about that.\nAt any rate, this kind of fiasco is what happens\nwhen spies get too familiar.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6660; ENG blocks=0x9AB70,0x9AB70; ENG source rows=0x9AB70#9,0x9AB70#10; block_semantic_score=0.146374."
+BRIEFING_FILES_BLOCK_006660,9,stream=0x6000;block=0x660;text=9,"[""stream=0x6000;block=0x660;text=9""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","それはわからん。ともかく、そういった馴れ合いが高じた
+結果が、この茶番なのかも知れん。
+","利害が一致すれば、忠義すら投げ捨てる連中もいるとはな
+…。
+","情に訴えられる事が、<R=人的諜報,ヒュミント>のメリットだが、同時に情
+にほだされてしまうのがデメリットでもある。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但确实有些人只要对自己有利，
+谁都能出卖，什么都能出卖。","[""但确实有些人只要对自己有利，\n谁都能出卖，什么都能出卖。""]","but some people will betray anyone and anything if
+it suits their interests.
+","[""but some people will betray anyone and anything if\nit suits their interests.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#12; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,10,stream=0x6000;block=0x660;text=10,"[""stream=0x6000;block=0x660;text=10""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","利害が一致すれば、忠義すら投げ捨てる連中もいるとはな
+…。
+","情に訴えられる事が、<R=人的諜報,ヒュミント>のメリットだが、同時に情
+にほだされてしまうのがデメリットでもある。
+","だから今の諜報世界の潮流は、<R=電子諜報,シギント>に移行しつつある。
+","[""<R=人的諜報,ヒュミント>""]",,,NOT_CHECKED,163,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"人力情报（HUMINT）的
+强项在于能打动人心，但它的弱点也恰恰在于
+容易被这份人心所左右。","[""人力情报（HUMINT）的\n强项在于能打动人心，但它的弱点也恰恰在于\n容易被这份人心所左右。""]","The strength of HUMINT is in its appeal to human
+emotions,
+but its weakness is in its susceptibility to those
+same emotions.
+","[""The strength of HUMINT is in its appeal to human\nemotions,\nbut its weakness is in its susceptibility to those\nsame emotions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6660; ENG blocks=0x9AB70,0x9AB70; ENG source rows=0x9AB70#13,0x9AB70#14; block_semantic_score=0.146374."
+BRIEFING_FILES_BLOCK_006660,11,stream=0x6000;block=0x660;text=11,"[""stream=0x6000;block=0x660;text=11""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","情に訴えられる事が、<R=人的諜報,ヒュミント>のメリットだが、同時に情
+にほだされてしまうのがデメリットでもある。
+","だから今の諜報世界の潮流は、<R=電子諜報,シギント>に移行しつつある。
+","情の関与しない、デジタルな情報のみのネットワークだ。
+","[""<R=電子諜報,シギント>""]",,,NOT_CHECKED,99,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这就是为什么情报界的潮流正在
+转向信号情报（SIGINT）。","[""这就是为什么情报界的潮流正在\n转向信号情报（SIGINT）。""]","That's why the tide in the intelligence world is
+shifting toward SIGINT.
+","[""That's why the tide in the intelligence world is\nshifting toward SIGINT.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#15; block_semantic_score=0.146374.
+BRIEFING_FILES_BLOCK_006660,12,stream=0x6000;block=0x660;text=12,"[""stream=0x6000;block=0x660;text=12""]",1,BRIEFING FILES,"[""stream=0x6000;block=0x660;block_file=0x6660;text_base=0x66B4;capacity=1184""]","だから今の諜報世界の潮流は、<R=電子諜報,シギント>に移行しつつある。
+","情の関与しない、デジタルな情報のみのネットワークだ。
+",,[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"一个冷冰冰的数字信息
+网络，与情感无关。","[""一个冷冰冰的数字信息\n网络，与情感无关。""]","A network of cold, digital data, where feelings are
+irrelevant.
+","[""A network of cold, digital data, where feelings are\nirrelevant.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6660; ENG blocks=0x9AB70; ENG source rows=0x9AB70#16; block_semantic_score=0.146374.

@@ -1,0 +1,89 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_041A90,0,stream=0x41000;block=0xA90;text=0,"[""stream=0x41000;block=0xA90;text=0""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]",,"資材中継地はイラス東部の山麓だ。核物資はそこの<R=列車車庫,ターミナル>
+で列車からトラックに積み替えられるはず。
+","わかった。積み替えの隙を狙おう。
+","[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,163,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"补给中转站在伊拉苏火山东麓，
+那里有个铁路终点站——他们大概会把核弹从
+火车上转移到卡车里。","[""补给中转站在伊拉苏火山东麓，\n那里有个铁路终点站——他们大概会把核弹从\n火车上转移到卡车里。""]","The supply staging point is at the eastern foot of
+Irazú. There's a rail terminal there -
+they'll probably transfer the nuke from the train
+onto a truck.
+","[""The supply staging point is at the eastern foot of\nIrazú. There's a rail terminal there -\nthey'll probably transfer the nuke from the train\nonto a truck.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x41A90; ENG blocks=0xCF9D0,0xCF9D0; ENG source rows=0xCF9D0#0,0xCF9D0#1; block_semantic_score=0.121639."
+BRIEFING_FILES_BLOCK_041A90,1,stream=0x41000;block=0xA90;text=1,"[""stream=0x41000;block=0xA90;text=1""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","資材中継地はイラス東部の山麓だ。核物資はそこの<R=列車車庫,ターミナル>
+で列車からトラックに積み替えられるはず。
+","わかった。積み替えの隙を狙おう。
+","けど、あそこにはバシリスコがいるかもしれない…。気を
+つけてくれよ、スネーク。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了。我得趁他们搬运货物时动手。,"[""明白了。我得趁他们搬运货物时动手。""]","Gotcha. I'll have to catch them while they're moving
+the cargo.
+","[""Gotcha. I'll have to catch them while they're moving\nthe cargo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#2; block_semantic_score=0.121639.
+BRIEFING_FILES_BLOCK_041A90,2,stream=0x41000;block=0xA90;text=2,"[""stream=0x41000;block=0xA90;text=2""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","わかった。積み替えの隙を狙おう。
+","けど、あそこにはバシリスコがいるかもしれない…。気を
+つけてくれよ、スネーク。
+","80フィートの歩く化け物…CIAの新兵器か…？
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但你可能遇到el basilisco…
+多加小心，Snake。","[""但你可能遇到el basilisco…\n多加小心，Snake。""]","But you might run into el basilisco... Keep your
+eyes peeled, Snake.
+","[""But you might run into el basilisco... Keep your\neyes peeled, Snake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#3; block_semantic_score=0.121639.
+BRIEFING_FILES_BLOCK_041A90,3,stream=0x41000;block=0xA90;text=3,"[""stream=0x41000;block=0xA90;text=3""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","けど、あそこにはバシリスコがいるかもしれない…。気を
+つけてくれよ、スネーク。
+","80フィートの歩く化け物…CIAの新兵器か…？
+","そうかもね。残念だけどあれは恐竜じゃない。山の上の<R=基地,ベース>
+で実験してるのかもしれない。
+",[],,,NOT_CHECKED,60,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"80英尺高的行走巨兽…
+中情局(CIA)的新武器？","[""80英尺高的行走巨兽…\n中情局(CIA)的新武器？""]","An 80-foot-tall walking behemoth... The CIA's new
+weapon?
+","[""An 80-foot-tall walking behemoth... The CIA's new\nweapon?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#4; block_semantic_score=0.121639.
+BRIEFING_FILES_BLOCK_041A90,4,stream=0x41000;block=0xA90;text=4,"[""stream=0x41000;block=0xA90;text=4""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","80フィートの歩く化け物…CIAの新兵器か…？
+","そうかもね。残念だけどあれは恐竜じゃない。山の上の<R=基地,ベース>
+で実験してるのかもしれない。
+","歩兵と兵器をつなぐ金属の歯車、メタル・ギア…ソ連にそ
+んなことを言っていた奴がいた。
+","[""<R=基地,ベース>""]",,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我想他们正在山顶的基地里测试它。,"[""我想他们正在山顶的基地里测试它。""]","I think they're testing it up at the base on top of
+the mountain.
+","[""I think they're testing it up at the base on top of\nthe mountain.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#6; block_semantic_score=0.121639.
+BRIEFING_FILES_BLOCK_041A90,5,stream=0x41000;block=0xA90;text=5,"[""stream=0x41000;block=0xA90;text=5""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","そうかもね。残念だけどあれは恐竜じゃない。山の上の<R=基地,ベース>
+で実験してるのかもしれない。
+","歩兵と兵器をつなぐ金属の歯車、メタル・ギア…ソ連にそ
+んなことを言っていた奴がいた。
+","金属の歯車…。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我在俄罗斯见过一个人，
+他是这么形容的：“一种连接步兵与炮兵的Metal Gear…”","[""我在俄罗斯见过一个人，\n他是这么形容的：“一种连接步兵与炮兵的Metal Gear…”""]","I met a guy in Russia who described it as
+""a metal gear linking infantry and artillery...""
+","[""I met a guy in Russia who described it as\n\""a metal gear linking infantry and artillery...\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x41A90; ENG blocks=0xCF9D0,0xCF9D0; ENG source rows=0xCF9D0#7,0xCF9D0#8; block_semantic_score=0.121639."
+BRIEFING_FILES_BLOCK_041A90,6,stream=0x41000;block=0xA90;text=6,"[""stream=0x41000;block=0xA90;text=6""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","歩兵と兵器をつなぐ金属の歯車、メタル・ギア…ソ連にそ
+んなことを言っていた奴がいた。
+","金属の歯車…。
+","嫌な予感がする。ここで行われていることと何か関係があ
+るのかもしれん。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Metal Gear…,"[""Metal Gear…""]","Metal gear...
+","[""Metal gear...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#9; block_semantic_score=0.121639.
+BRIEFING_FILES_BLOCK_041A90,7,stream=0x41000;block=0xA90;text=7,"[""stream=0x41000;block=0xA90;text=7""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","金属の歯車…。
+","嫌な予感がする。ここで行われていることと何か関係があ
+るのかもしれん。
+","まさか、核兵器と？
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我有种不祥的预感。也许它和这里发生的
+一切都有某种联系。","[""我有种不祥的预感。也许它和这里发生的\n一切都有某种联系。""]","I've got a bad feeling about this.
+Like maybe it's connected to everything that's
+happening here somehow.
+","[""I've got a bad feeling about this.\nLike maybe it's connected to everything that's\nhappening here somehow.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x41A90; ENG blocks=0xCF9D0,0xCF9D0; ENG source rows=0xCF9D0#10,0xCF9D0#11; block_semantic_score=0.121639."
+BRIEFING_FILES_BLOCK_041A90,8,stream=0x41000;block=0xA90;text=8,"[""stream=0x41000;block=0xA90;text=8""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","嫌な予感がする。ここで行われていることと何か関係があ
+るのかもしれん。
+","まさか、核兵器と？
+","…考えていても仕方ない。そこにそいつがいたら作戦を練
+り直すだけだ。斥候がいない以上、自分で行くしかない。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,核弹？你不会是觉得…,"[""核弹？你不会是觉得…""]","The nukes? You don't think...
+","[""The nukes? You don't think...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#12; block_semantic_score=0.121639.
+BRIEFING_FILES_BLOCK_041A90,9,stream=0x41000;block=0xA90;text=9,"[""stream=0x41000;block=0xA90;text=9""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","まさか、核兵器と？
+","…考えていても仕方ない。そこにそいつがいたら作戦を練
+り直すだけだ。斥候がいない以上、自分で行くしかない。
+","気をつけてくれよ、スネーク…。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…不然还能是什么？如果在上面，
+我也只能随机应变了。","[""…不然还能是什么？如果在上面，\n我也只能随机应变了。""]","...What else could it be? If it is up there, I'll just
+have to improvise.
+","[""...What else could it be? If it is up there, I'll just\nhave to improvise.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#13; block_semantic_score=0.121639.
+BRIEFING_FILES_BLOCK_041A90,10,stream=0x41000;block=0xA90;text=10,"[""stream=0x41000;block=0xA90;text=10""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","…考えていても仕方ない。そこにそいつがいたら作戦を練
+り直すだけだ。斥候がいない以上、自分で行くしかない。
+","気をつけてくれよ、スネーク…。
+",,[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不管怎样，到了那里才知道。,"[""不管怎样，到了那里才知道。""]","Either way, I won't know until I get there.
+","[""Either way, I won't know until I get there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x41A90; ENG blocks=0xCF9D0; ENG source rows=0xCF9D0#14; block_semantic_score=0.121639.

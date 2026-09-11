@@ -1,0 +1,62 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01A5B0,0,stream=0x1A000;block=0x5B0;text=0,"[""stream=0x1A000;block=0x5B0;text=0""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]",,"地図を見る限り、<R=FSLN,サンディニスタ>司令官が捕らえられている小屋ま
+での地形はバリエーションに富んでるな。
+","そのようだ。まずはジャングルか。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"按照这张地图，你和你被关押的桑地诺
+指挥官之间，地形变化还挺多的。","[""按照这张地图，你和你被关押的桑地诺\n指挥官之间，地形变化还挺多的。""]","Going by this map, you've got a lot of different
+terrain types between
+","[""Going by this map, you've got a lot of different\nterrain types between\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A5B0; ENG blocks=0xABA60; ENG source rows=0xABA60#0; block_semantic_score=0.140696.
+BRIEFING_FILES_BLOCK_01A5B0,1,stream=0x1A000;block=0x5B0;text=1,"[""stream=0x1A000;block=0x5B0;text=1""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","地図を見る限り、<R=FSLN,サンディニスタ>司令官が捕らえられている小屋ま
+での地形はバリエーションに富んでるな。
+","そのようだ。まずはジャングルか。
+","敵の目を盗んで進むにはいいだろうが、その分こちらも敵
+を発見しにくい。注意してくれ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,从地图上看，丛林、沼泽…确实复杂。,"[""从地图上看，丛林、沼泽…确实复杂。""]","you and the hut where the Sandinista
+comandante's being held.
+","[""you and the hut where the Sandinista\ncomandante's being held.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A5B0; ENG blocks=0xABA60; ENG source rows=0xABA60#1; block_semantic_score=0.140696.
+BRIEFING_FILES_BLOCK_01A5B0,2,stream=0x1A000;block=0x5B0;text=2,"[""stream=0x1A000;block=0x5B0;text=2""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","そのようだ。まずはジャングルか。
+","敵の目を盗んで進むにはいいだろうが、その分こちらも敵
+を発見しにくい。注意してくれ。
+","次は川沿いの沼地。どの程度監視態勢に厚みを持たせてい
+るか、よく見極めて進んでくれ。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看起来是这样没错。先从丛林开始。敌人不容易发现你，但你的视野也好不到哪去。保持警惕。,"[""看起来是这样没错。先从丛林开始。敌人不容易发现你，但你的视野也好不到哪去。保持警惕。""]","Looks that way, doesn't it. Starting with jungle.
+The enemy won't be able to see you very well,
+but your visibility won't be so hot, either. Stay alert.
+","[""Looks that way, doesn't it. Starting with jungle.\nThe enemy won't be able to see you very well,\nbut your visibility won't be so hot, either. Stay alert.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x1A5B0; ENG blocks=0xABA60,0xABA60,0xABA60; ENG source rows=0xABA60#2,0xABA60#3,0xABA60#4; block_semantic_score=0.140696."
+BRIEFING_FILES_BLOCK_01A5B0,3,stream=0x1A000;block=0x5B0;text=3,"[""stream=0x1A000;block=0x5B0;text=3""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","敵の目を盗んで進むにはいいだろうが、その分こちらも敵
+を発見しにくい。注意してくれ。
+","次は川沿いの沼地。どの程度監視態勢に厚みを持たせてい
+るか、よく見極めて進んでくれ。
+","そうしよう。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"接下来是沿河的沼泽地。在贸然进入之前，
+先摸清敌人的警戒程度有多严密。","[""接下来是沿河的沼泽地。在贸然进入之前，\n先摸清敌人的警戒程度有多严密。""]","Next you've got the swamps along the river.
+Make sure you get a good feel for how robust
+surveillance is before diving in.
+","[""Next you've got the swamps along the river.\nMake sure you get a good feel for how robust\nsurveillance is before diving in.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1A5B0; ENG blocks=0xABA60,0xABA60; ENG source rows=0xABA60#5,0xABA60#6; block_semantic_score=0.140696."
+BRIEFING_FILES_BLOCK_01A5B0,4,stream=0x1A000;block=0x5B0;text=4,"[""stream=0x1A000;block=0x5B0;text=4""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","次は川沿いの沼地。どの程度監視態勢に厚みを持たせてい
+るか、よく見極めて進んでくれ。
+","そうしよう。
+","最後がボートの修理小屋。ここに司令官がいる。敵の重要
+拠点だ、警備は厳重だろう。腕力にモノを言わせる必要が
+あるかも知れん。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白。,"[""明白。""]","Will do.
+","[""Will do.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A5B0; ENG blocks=0xABA60; ENG source rows=0xABA60#7; block_semantic_score=0.140696.
+BRIEFING_FILES_BLOCK_01A5B0,5,stream=0x1A000;block=0x5B0;text=5,"[""stream=0x1A000;block=0x5B0;text=5""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","そうしよう。
+","最後がボートの修理小屋。ここに司令官がいる。敵の重要
+拠点だ、警備は厳重だろう。腕力にモノを言わせる必要が
+あるかも知れん。
+","まだ先は長い、くれぐれも慎重に進んでくれ。あまり派手
+な音を立てるなよ。
+",[],,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,最后是修船小屋，指挥官就在里面。,"[""最后是修船小屋，指挥官就在里面。""]","Finally, there's the boat repair cabin - the
+comandante's in there.
+","[""Finally, there's the boat repair cabin - the\ncomandante's in there.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A5B0; ENG blocks=0xABA60; ENG source rows=0xABA60#8; block_semantic_score=0.140696.
+BRIEFING_FILES_BLOCK_01A5B0,6,stream=0x1A000;block=0x5B0;text=6,"[""stream=0x1A000;block=0x5B0;text=6""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","最後がボートの修理小屋。ここに司令官がいる。敵の重要
+拠点だ、警備は厳重だろう。腕力にモノを言わせる必要が
+あるかも知れん。
+","まだ先は長い、くれぐれも慎重に進んでくれ。あまり派手
+な音を立てるなよ。
+",,[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你还有很长的路要走，Snake。小心行事，别引起太
+大动静。明白了吗？","[""你还有很长的路要走，Snake。小心行事，别引起太\n大动静。明白了吗？""]","You still have a long way to go, Snake.
+Use caution, and don't make a racket out there.
+Got it?
+","[""You still have a long way to go, Snake.\nUse caution, and don't make a racket out there.\nGot it?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1A5B0; ENG blocks=0xABA60,0xABA60; ENG source rows=0xABA60#11,0xABA60#12; block_semantic_score=0.140696."

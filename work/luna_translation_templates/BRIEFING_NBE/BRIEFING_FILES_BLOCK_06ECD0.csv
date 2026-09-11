@@ -1,0 +1,202 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_06ECD0,0,stream=0x6E000;block=0xCD0;text=0,"[""stream=0x6E000;block=0xCD0;text=0""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]",,"CIAから渡された資料に、シャゴホッドのデータはあった
+か？
+","シャゴホッド？
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"中情局(CIA)给你的那些文件…
+里面有没有关于Shagohod的数据？","[""中情局(CIA)给你的那些文件…\n里面有没有关于Shagohod的数据？""]","Those papers the CIA gave you... Was there any
+data on the Shagohod in there?
+","[""Those papers the CIA gave you... Was there any\ndata on the Shagohod in there?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#0; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,1,stream=0x6E000;block=0xCD0;text=1,"[""stream=0x6E000;block=0xCD0;text=1""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","CIAから渡された資料に、シャゴホッドのデータはあった
+か？
+","シャゴホッド？
+","IRBMを射出する核搭載戦車だ。グラーニンのシステムと
+採用を争っていた。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Shagohod？,"[""Shagohod？""]","Shagohod?
+","[""Shagohod?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#1; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,2,stream=0x6E000;block=0xCD0;text=2,"[""stream=0x6E000;block=0xCD0;text=2""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","シャゴホッド？
+","IRBMを射出する核搭載戦車だ。グラーニンのシステムと
+採用を争っていた。
+","ああ、あのロケット付きか。確か設計者はソコロフとか言
+う男で…ふふっ。
+",[],,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,一种发射中程弹道导弹的核坦克。它当初和Granin的方案竞争过审批。,"[""一种发射中程弹道导弹的核坦克。它当初和Granin的方案竞争过审批。""]","A nuclear tank that launches IRBMs.
+It competed against Granin's system for approval.
+","[""A nuclear tank that launches IRBMs.\nIt competed against Granin's system for approval.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6ECD0; ENG blocks=0xFB280,0xFB280; ENG source rows=0xFB280#2,0xFB280#3; block_semantic_score=0.109165."
+BRIEFING_FILES_BLOCK_06ECD0,3,stream=0x6E000;block=0xCD0;text=3,"[""stream=0x6E000;block=0xCD0;text=3""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","IRBMを射出する核搭載戦車だ。グラーニンのシステムと
+採用を争っていた。
+","ああ、あのロケット付きか。確か設計者はソコロフとか言
+う男で…ふふっ。
+","何がおかしい。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哦，就是那个带火箭的东西。
+设计师叫…Sokolov，对吧？…嘿嘿。","[""哦，就是那个带火箭的东西。\n设计师叫…Sokolov，对吧？…嘿嘿。""]","Oh, the thing with the rockets. Designed by a guy
+named... Sokolov, right? ...Heh heh.
+","[""Oh, the thing with the rockets. Designed by a guy\nnamed... Sokolov, right? ...Heh heh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#4; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,4,stream=0x6E000;block=0xCD0;text=4,"[""stream=0x6E000;block=0xCD0;text=4""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","ああ、あのロケット付きか。確か設計者はソコロフとか言
+う男で…ふふっ。
+","何がおかしい。
+","いや、シャゴホッドの資料に、グラーニンが分析を加えて
+いたのを思い出してね。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,有什么好笑的？,"[""有什么好笑的？""]","What's so funny?
+","[""What's so funny?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#5; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,5,stream=0x6E000;block=0xCD0;text=5,"[""stream=0x6E000;block=0xCD0;text=5""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","何がおかしい。
+","いや、シャゴホッドの資料に、グラーニンが分析を加えて
+いたのを思い出してね。
+","それはそれは悪し様に書いてあったよ。保守的だとか、下
+品だとか。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没什么，我只是想起了Granin在
+Shagohod文件上写的一些“批注”。","[""没什么，我只是想起了Granin在\nShagohod文件上写的一些“批注”。""]","No, I was just remembering some of the
+""commentary"" Granin added to the Shagohod
+papers.
+","[""No, I was just remembering some of the\n\""commentary\"" Granin added to the Shagohod\npapers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#6; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,6,stream=0x6E000;block=0xCD0;text=6,"[""stream=0x6E000;block=0xCD0;text=6""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","いや、シャゴホッドの資料に、グラーニンが分析を加えて
+いたのを思い出してね。
+","それはそれは悪し様に書いてあったよ。保守的だとか、下
+品だとか。
+","だろうな。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,太保守了，太难看了…,"[""太保守了，太难看了…""]","It was too conservative, too ugly...
+","[""It was too conservative, too ugly...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#8; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,7,stream=0x6E000;block=0xCD0;text=7,"[""stream=0x6E000;block=0xCD0;text=7""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","それはそれは悪し様に書いてあったよ。保守的だとか、下
+品だとか。
+","だろうな。
+","よほど腹を立てていたのか、ひどくインクが滲んでた。た
+だでさえ、向こうの紙は質が悪いのにね。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能想象得到。,"[""能想象得到。""]","I can imagine.
+","[""I can imagine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#9; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,8,stream=0x6E000;block=0xCD0;text=8,"[""stream=0x6E000;block=0xCD0;text=8""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","だろうな。
+","よほど腹を立てていたのか、ひどくインクが滲んでた。た
+だでさえ、向こうの紙は質が悪いのにね。
+","…だろうな。それも、奴らしい。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他写那些的时候气得把墨水都蹭花了。而且你也知道那边生产的纸本来就差。,"[""他写那些的时候气得把墨水都蹭花了。而且你也知道那边生产的纸本来就差。""]","He was so angry when he wrote that he smeared
+up the ink.
+And you know how shoddy the paper is over there
+to begin with.
+","[""He was so angry when he wrote that he smeared\nup the ink.\nAnd you know how shoddy the paper is over there\nto begin with.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6ECD0; ENG blocks=0xFB280,0xFB280; ENG source rows=0xFB280#10,0xFB280#11; block_semantic_score=0.109165."
+BRIEFING_FILES_BLOCK_06ECD0,9,stream=0x6E000;block=0xCD0;text=9,"[""stream=0x6E000;block=0xCD0;text=9""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","よほど腹を立てていたのか、ひどくインクが滲んでた。た
+だでさえ、向こうの紙は質が悪いのにね。
+","…だろうな。それも、奴らしい。
+","IRBMの射程を伸ばすために、戦車自体を時速500kmに
+まで加速する…。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…我猜也是。那确实是Granin的风格。,"[""…我猜也是。那确实是Granin的风格。""]","...I'll bet. That's Granin, all right.
+","[""...I'll bet. That's Granin, all right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#12; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,10,stream=0x6E000;block=0xCD0;text=10,"[""stream=0x6E000;block=0xCD0;text=10""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","…だろうな。それも、奴らしい。
+","IRBMの射程を伸ばすために、戦車自体を時速500kmに
+まで加速する…。
+","実に馬鹿馬鹿しくも、豪快な兵器だよ。戦車をロケットの
+1段目代わりに使うとはね。ソビエトらしい。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"想想看，把发射器本身加速到每小时
+三百英里来延长中程弹道导弹的射程…","[""想想看，把发射器本身加速到每小时\n三百英里来延长中程弹道导弹的射程…""]","Imagine, accelerating the launcher itself to 300
+miles an hour to extend the range of an IRBM...
+","[""Imagine, accelerating the launcher itself to 300\nmiles an hour to extend the range of an IRBM...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#13; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,11,stream=0x6E000;block=0xCD0;text=11,"[""stream=0x6E000;block=0xCD0;text=11""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","IRBMの射程を伸ばすために、戦車自体を時速500kmに
+まで加速する…。
+","実に馬鹿馬鹿しくも、豪快な兵器だよ。戦車をロケットの
+1段目代わりに使うとはね。ソビエトらしい。
+","実は、ピューパの開発にあたっては、シャゴホッドを参考
+にさせてもらってるんだ。
+",[],,,NOT_CHECKED,141,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"虽然听起来很蠢，
+但确实是个厉害的概念。除了苏联人，谁会想到用
+坦克当火箭的第一级？","[""虽然听起来很蠢，\n但确实是个厉害的概念。除了苏联人，谁会想到用\n坦克当火箭的第一级？""]","As stupid as it sounds, it's a hell of a concept.
+Who but the Soviets would think of using a tank as
+the first stage of a rocket?
+","[""As stupid as it sounds, it's a hell of a concept.\nWho but the Soviets would think of using a tank as\nthe first stage of a rocket?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6ECD0; ENG blocks=0xFB280,0xFB280; ENG source rows=0xFB280#14,0xFB280#15; block_semantic_score=0.109165."
+BRIEFING_FILES_BLOCK_06ECD0,12,stream=0x6E000;block=0xCD0;text=12,"[""stream=0x6E000;block=0xCD0;text=12""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","実に馬鹿馬鹿しくも、豪快な兵器だよ。戦車をロケットの
+1段目代わりに使うとはね。ソビエトらしい。
+","実は、ピューパの開発にあたっては、シャゴホッドを参考
+にさせてもらってるんだ。
+","あのホバー兵器か。それも盗用か？
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"其实我开发Pupa的时候，
+从Shagohod上偷了一手。","[""其实我开发Pupa的时候，\n从Shagohod上偷了一手。""]","I actually took a cue from the Shagohod when I
+developed the Pupa.
+","[""I actually took a cue from the Shagohod when I\ndeveloped the Pupa.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#16; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,13,stream=0x6E000;block=0xCD0;text=13,"[""stream=0x6E000;block=0xCD0;text=13""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","実は、ピューパの開発にあたっては、シャゴホッドを参考
+にさせてもらってるんだ。
+","あのホバー兵器か。それも盗用か？
+","失礼だな。参考にしたのはコンセプトで、技術はオリジナ
+ルさ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那个气垫船玩意儿？那个你也偷了？,"[""那个气垫船玩意儿？那个你也偷了？""]","That hovercraft thing? You stole that one, too?
+","[""That hovercraft thing? You stole that one, too?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#17; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,14,stream=0x6E000;block=0xCD0;text=14,"[""stream=0x6E000;block=0xCD0;text=14""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","あのホバー兵器か。それも盗用か？
+","失礼だな。参考にしたのはコンセプトで、技術はオリジナ
+ルさ。
+","もっともホバーじゃ、中米の地形に完璧には対応できなか
+ったけどね。所詮、力押しの兵器だよ。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"给我点面子吧！我只是借了概念。
+技术都是原创的。","[""给我点面子吧！我只是借了概念。\n技术都是原创的。""]","Give me a little credit! I only borrowed the concept.
+The technology is original.
+","[""Give me a little credit! I only borrowed the concept.\nThe technology is original.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#18; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,15,stream=0x6E000;block=0xCD0;text=15,"[""stream=0x6E000;block=0xCD0;text=15""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","失礼だな。参考にしたのはコンセプトで、技術はオリジナ
+ルさ。
+","もっともホバーじゃ、中米の地形に完璧には対応できなか
+ったけどね。所詮、力押しの兵器だよ。
+","だが、シャゴホッドが脅威だったのは確かだ。意外と小回
+りも利いたし、なかなか丈夫だった。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"气垫技术不足以应付
+中美洲的各种地形。","[""气垫技术不足以应付\n中美洲的各种地形。""]","hover technology wasn't enough to handle all the
+terrain in Central America.
+","[""hover technology wasn't enough to handle all the\nterrain in Central America.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#20; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,16,stream=0x6E000;block=0xCD0;text=16,"[""stream=0x6E000;block=0xCD0;text=16""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","もっともホバーじゃ、中米の地形に完璧には対応できなか
+ったけどね。所詮、力押しの兵器だよ。
+","だが、シャゴホッドが脅威だったのは確かだ。意外と小回
+りも利いたし、なかなか丈夫だった。
+","詳しいんだな。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但Shagohod是个巨大的威胁。那东西的过弯能力超乎
+想象——而且造得也很结实。","[""但Shagohod是个巨大的威胁。那东西的过弯能力超乎\n想象——而且造得也很结实。""]","But the Shagohod was a major threat.
+That thing could corner like you wouldn't believe -
+built pretty tough, too.
+","[""But the Shagohod was a major threat.\nThat thing could corner like you wouldn't believe -\nbuilt pretty tough, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6ECD0; ENG blocks=0xFB280,0xFB280; ENG source rows=0xFB280#22,0xFB280#23; block_semantic_score=0.109165."
+BRIEFING_FILES_BLOCK_06ECD0,17,stream=0x6E000;block=0xCD0;text=17,"[""stream=0x6E000;block=0xCD0;text=17""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","だが、シャゴホッドが脅威だったのは確かだ。意外と小回
+りも利いたし、なかなか丈夫だった。
+","詳しいんだな。
+","奴には手を焼いた。忘れろと言うほうが無理だ。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你对它了解得真多。,"[""你对它了解得真多。""]","You sure know a lot about it.
+","[""You sure know a lot about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#24; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,18,stream=0x6E000;block=0xCD0;text=18,"[""stream=0x6E000;block=0xCD0;text=18""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","詳しいんだな。
+","奴には手を焼いた。忘れろと言うほうが無理だ。
+","手を焼いた？　…じゃあ、シャゴホッドを倒したのも君だ
+ったのか？　驚いた。すごいんだな、君は。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,它差点把我干掉。我想忘都忘不掉。,"[""它差点把我干掉。我想忘都忘不掉。""]","It almost did me in. I couldn't forget it if I tried.
+","[""It almost did me in. I couldn't forget it if I tried.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#25; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,19,stream=0x6E000;block=0xCD0;text=19,"[""stream=0x6E000;block=0xCD0;text=19""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","奴には手を焼いた。忘れろと言うほうが無理だ。
+","手を焼いた？　…じゃあ、シャゴホッドを倒したのも君だ
+ったのか？　驚いた。すごいんだな、君は。
+","俺一人で倒したわけじゃない。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,把你干掉了？…所以是你搞定它的！哇！你真的很厉害。,"[""把你干掉了？…所以是你搞定它的！哇！你真的很厉害。""]","Did you in? ...So you were the one who took it
+down!
+Wow! You really are amazing.
+","[""Did you in? ...So you were the one who took it\ndown!\nWow! You really are amazing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6ECD0; ENG blocks=0xFB280,0xFB280; ENG source rows=0xFB280#26,0xFB280#27; block_semantic_score=0.109165."
+BRIEFING_FILES_BLOCK_06ECD0,20,stream=0x6E000;block=0xCD0;text=20,"[""stream=0x6E000;block=0xCD0;text=20""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","手を焼いた？　…じゃあ、シャゴホッドを倒したのも君だ
+ったのか？　驚いた。すごいんだな、君は。
+","俺一人で倒したわけじゃない。
+","いや、礼を言うよ。シャゴホッドが量産化されていたら、
+今この世界はなかったかも知れない。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不是我一个人做到的。,"[""不是我一个人做到的。""]","I didn't do it alone.
+","[""I didn't do it alone.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#28; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,21,stream=0x6E000;block=0xCD0;text=21,"[""stream=0x6E000;block=0xCD0;text=21""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","俺一人で倒したわけじゃない。
+","いや、礼を言うよ。シャゴホッドが量産化されていたら、
+今この世界はなかったかも知れない。
+","もっとも、今は核弾頭の小型化も進んだ。シャゴホッドの
+ような加速戦車は、もう必要ないと思う。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果那东西开始量产，
+我们可能今天就不会在这里了。","[""如果那东西开始量产，\n我们可能今天就不会在这里了。""]","We might not be here today if they'd begun
+mass-producing that thing.
+","[""We might not be here today if they'd begun\nmass-producing that thing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#30; block_semantic_score=0.109165.
+BRIEFING_FILES_BLOCK_06ECD0,22,stream=0x6E000;block=0xCD0;text=22,"[""stream=0x6E000;block=0xCD0;text=22""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","いや、礼を言うよ。シャゴホッドが量産化されていたら、
+今この世界はなかったかも知れない。
+","もっとも、今は核弾頭の小型化も進んだ。シャゴホッドの
+ような加速戦車は、もう必要ないと思う。
+","喜べんな。それだけ、どこからでも世界中に核が撃てるよ
+うになったってことだ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"话说回来，他们现在
+正忙着把核弹头小型化。用不了多久，他们就连Shagohod
+那种加速发射器都不需要了。","[""话说回来，他们现在\n正忙着把核弹头小型化。用不了多久，他们就连Shagohod\n那种加速发射器都不需要了。""]","Then again, they're hard at work now miniaturizing
+nuclear warheads.
+Pretty soon they won't even need an accelerated
+launcher like the Shagohod.
+","[""Then again, they're hard at work now miniaturizing\nnuclear warheads.\nPretty soon they won't even need an accelerated\nlauncher like the Shagohod.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x6ECD0; ENG blocks=0xFB280,0xFB280; ENG source rows=0xFB280#31,0xFB280#32; block_semantic_score=0.109165."
+BRIEFING_FILES_BLOCK_06ECD0,23,stream=0x6E000;block=0xCD0;text=23,"[""stream=0x6E000;block=0xCD0;text=23""]",1,BRIEFING FILES,"[""stream=0x6E000;block=0xCD0;block_file=0x6ECD0;text_base=0x6ED50;capacity=2172""]","もっとも、今は核弾頭の小型化も進んだ。シャゴホッドの
+ような加速戦車は、もう必要ないと思う。
+","喜べんな。それだけ、どこからでも世界中に核が撃てるよ
+うになったってことだ。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"太好了。那意味着他们离从世界
+任何地方发射又近了一步。","[""太好了。那意味着他们离从世界\n任何地方发射又近了一步。""]","Great. That means they're that much closer to
+being able to launch from anywhere in the world.
+","[""Great. That means they're that much closer to\nbeing able to launch from anywhere in the world.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x6ECD0; ENG blocks=0xFB280; ENG source rows=0xFB280#33; block_semantic_score=0.109165.

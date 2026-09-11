@@ -1,0 +1,37 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_000A80,0,stream=0x0;block=0xA80;text=0,"[""stream=0x0;block=0xA80;text=0""]",1,BRIEFING FILES,"[""stream=0x0;block=0xA80;block_file=0xA80;text_base=0xABC;capacity=336""]",,"ちなみに女王蜂は誰になるんだ？
+","そうだな？　俺はパスだと思うけどな。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"话说回来，Kaz，
+你觉得谁会是我们的蜂后？","[""话说回来，Kaz，\n你觉得谁会是我们的蜂后？""]","By the way, Kaz, who do you think's our queen bee?
+","[""By the way, Kaz, who do you think's our queen bee?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0xA80; ENG blocks=0x94FD0; ENG source rows=0x94FD0#0; block_semantic_score=0.084801.
+BRIEFING_FILES_BLOCK_000A80,1,stream=0x0;block=0xA80;text=1,"[""stream=0x0;block=0xA80;text=1""]",1,BRIEFING FILES,"[""stream=0x0;block=0xA80;block_file=0xA80;text_base=0xABC;capacity=336""]","ちなみに女王蜂は誰になるんだ？
+","そうだな？　俺はパスだと思うけどな。
+","そうか、俺はストレンジラブ…。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好问题。我觉得可能是Paz。,"[""好问题。我觉得可能是Paz。""]","Good question. I was thinking maybe Paz.
+","[""Good question. I was thinking maybe Paz.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0xA80; ENG blocks=0x94FD0; ENG source rows=0x94FD0#1; block_semantic_score=0.084801.
+BRIEFING_FILES_BLOCK_000A80,2,stream=0x0;block=0xA80;text=2,"[""stream=0x0;block=0xA80;text=2""]",1,BRIEFING FILES,"[""stream=0x0;block=0xA80;block_file=0xA80;text_base=0xABC;capacity=336""]","そうだな？　俺はパスだと思うけどな。
+","そうか、俺はストレンジラブ…。
+","そうだな、セシールもそうかも。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯…我觉得会是Strangelove…,"[""嗯…我觉得会是Strangelove…""]","Hmm. I was thinking Strangelove...
+","[""Hmm. I was thinking Strangelove...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0xA80; ENG blocks=0x94FD0; ENG source rows=0x94FD0#2; block_semantic_score=0.084801.
+BRIEFING_FILES_BLOCK_000A80,3,stream=0x0;block=0xA80;text=3,"[""stream=0x0;block=0xA80;text=3""]",1,BRIEFING FILES,"[""stream=0x0;block=0xA80;block_file=0xA80;text_base=0xABC;capacity=336""]","そうか、俺はストレンジラブ…。
+","そうだな、セシールもそうかも。
+","いや、アマンダとも云えるかも。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这倒说得通。或者也可能是Cecile。,"[""这倒说得通。或者也可能是Cecile。""]","I can see that. Or maybe Cecile.
+","[""I can see that. Or maybe Cecile.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0xA80; ENG blocks=0x94FD0; ENG source rows=0x94FD0#3; block_semantic_score=0.084801.
+BRIEFING_FILES_BLOCK_000A80,4,stream=0x0;block=0xA80;text=4,"[""stream=0x0;block=0xA80;text=4""]",1,BRIEFING FILES,"[""stream=0x0;block=0xA80;block_file=0xA80;text_base=0xABC;capacity=336""]","そうだな、セシールもそうかも。
+","いや、アマンダとも云えるかも。
+","スネーク、こうしよう。うちの女王蜂は女性陣みんなだ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,转念一想，我可能会选Amanda。,"[""转念一想，我可能会选Amanda。""]","On second thought, I might go with Amanda.
+","[""On second thought, I might go with Amanda.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0xA80; ENG blocks=0x94FD0; ENG source rows=0x94FD0#4; block_semantic_score=0.084801.
+BRIEFING_FILES_BLOCK_000A80,5,stream=0x0;block=0xA80;text=5,"[""stream=0x0;block=0xA80;text=5""]",1,BRIEFING FILES,"[""stream=0x0;block=0xA80;block_file=0xA80;text_base=0xABC;capacity=336""]","いや、アマンダとも云えるかも。
+","スネーク、こうしよう。うちの女王蜂は女性陣みんなだ。
+","了解。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这样吧，Snake。
+我们干脆搞一支蜂后大军。","[""这样吧，Snake。\n我们干脆搞一支蜂后大军。""]","How about this, Snake. We'll have an army of
+queen bees.
+","[""How about this, Snake. We'll have an army of\nqueen bees.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0xA80; ENG blocks=0x94FD0; ENG source rows=0x94FD0#5; block_semantic_score=0.084801.
+BRIEFING_FILES_BLOCK_000A80,6,stream=0x0;block=0xA80;text=6,"[""stream=0x0;block=0xA80;text=6""]",1,BRIEFING FILES,"[""stream=0x0;block=0xA80;block_file=0xA80;text_base=0xABC;capacity=336""]","スネーク、こうしよう。うちの女王蜂は女性陣みんなだ。
+","了解。
+",,[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,行啊，有何不可。,"[""行啊，有何不可。""]","Sure, why not.
+","[""Sure, why not.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0xA80; ENG blocks=0x94FD0; ENG source rows=0x94FD0#6; block_semantic_score=0.084801.

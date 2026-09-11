@@ -1,0 +1,68 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_014170,0,stream=0x14000;block=0x170;text=0,"[""stream=0x14000;block=0x170;text=0""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]",,"CO-OPSでは武器や装備品の貸し借りも出来る。
+","仲間の持ち物も、自分の武器・装備品メニューから表示で
+きるぞ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在合作模式里，
+可以和队友交换武器和装备。","[""在合作模式里，\n可以和队友交换武器和装备。""]","In CO-OPS, you can trade weapons and equipment
+with your teammates.
+","[""In CO-OPS, you can trade weapons and equipment\nwith your teammates.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#0; block_semantic_score=0.105846.
+BRIEFING_FILES_BLOCK_014170,1,stream=0x14000;block=0x170;text=1,"[""stream=0x14000;block=0x170;text=1""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]","CO-OPSでは武器や装備品の貸し借りも出来る。
+","仲間の持ち物も、自分の武器・装備品メニューから表示で
+きるぞ。
+","当然ながら弾薬も共有だ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也可以在武器或装备菜单
+中查看队友的携带物品。","[""也可以在武器或装备菜单\n中查看队友的携带物品。""]","You can also display your teammates' inventories
+from your Weapon or Equipment Menu.
+","[""You can also display your teammates' inventories\nfrom your Weapon or Equipment Menu.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#1; block_semantic_score=0.105846.
+BRIEFING_FILES_BLOCK_014170,2,stream=0x14000;block=0x170;text=2,"[""stream=0x14000;block=0x170;text=2""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]","仲間の持ち物も、自分の武器・装備品メニューから表示で
+きるぞ。
+","当然ながら弾薬も共有だ。
+","それどころじゃない。<R=　命　,LIFEゲージ>だって共有だ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,弹药自然也是共享的。,"[""弹药自然也是共享的。""]","Ammo is shared, too, of course.
+","[""Ammo is shared, too, of course.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#2; block_semantic_score=0.105846.
+BRIEFING_FILES_BLOCK_014170,3,stream=0x14000;block=0x170;text=3,"[""stream=0x14000;block=0x170;text=3""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]","当然ながら弾薬も共有だ。
+","それどころじゃない。<R=　命　,LIFEゲージ>だって共有だ。
+","ああ。そのときは一蓮托生だ。相手の死はすなわち自分の
+死を意味する。
+","[""<R=　命　,LIFEゲージ>""]",,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"弹药没问题。那生命
+值呢？也能共享吗？","[""弹药没问题。那生命\n值呢？也能共享吗？""]","Ammo, sure. How about LIFE? That also shared?
+","[""Ammo, sure. How about LIFE? That also shared?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#3; block_semantic_score=0.105846.
+BRIEFING_FILES_BLOCK_014170,4,stream=0x14000;block=0x170;text=4,"[""stream=0x14000;block=0x170;text=4""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]","それどころじゃない。<R=　命　,LIFEゲージ>だって共有だ。
+","ああ。そのときは一蓮托生だ。相手の死はすなわち自分の
+死を意味する。
+","お互いの持ち物を受け渡しするにはある程度近くにいる必
+要がある。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,对。同生共死。队友阵亡，你也会死。,"[""对。同生共死。队友阵亡，你也会死。""]","Yep. You all sink or swim together. Your teammate
+dies, you die.
+","[""Yep. You all sink or swim together. Your teammate\ndies, you die.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#4; block_semantic_score=0.105846.
+BRIEFING_FILES_BLOCK_014170,5,stream=0x14000;block=0x170;text=5,"[""stream=0x14000;block=0x170;text=5""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]","ああ。そのときは一蓮托生だ。相手の死はすなわち自分の
+死を意味する。
+","お互いの持ち物を受け渡しするにはある程度近くにいる必
+要がある。
+","わかっている。俺様ぐらい豊富な経験を積み重ねていれば、
+その間合いはハッキリと目に見えている。まるで<R=輪,リング>のよう
+にな。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"交换物品需要双方保持
+在一定距离之内。","[""交换物品需要双方保持\n在一定距离之内。""]","You need to be within a certain distance of each
+other to swap items.
+","[""You need to be within a certain distance of each\nother to swap items.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#5; block_semantic_score=0.105846.
+BRIEFING_FILES_BLOCK_014170,6,stream=0x14000;block=0x170;text=6,"[""stream=0x14000;block=0x170;text=6""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]","お互いの持ち物を受け渡しするにはある程度近くにいる必
+要がある。
+","わかっている。俺様ぐらい豊富な経験を積み重ねていれば、
+その間合いはハッキリと目に見えている。まるで<R=輪,リング>のよう
+にな。
+","さすがボス。それなら、うん、その<R=　　輪　　,CO-OPリング>に入ること
+をCO-OPインと呼ぼう。
+","[""<R=輪,リング>""]",,,NOT_CHECKED,185,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，我明白。干这行这么久，
+那个距离我几乎能用眼睛看见。","[""嗯，我明白。干这行这么久，\n那个距离我几乎能用眼睛看见。""]","Yeah, I know. I've been in this business so long, I
+can virtually see that distance.
+","[""Yeah, I know. I've been in this business so long, I\ncan virtually see that distance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#6; block_semantic_score=0.105846.
+BRIEFING_FILES_BLOCK_014170,7,stream=0x14000;block=0x170;text=7,"[""stream=0x14000;block=0x170;text=7""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x170;block_file=0x14170;text_base=0x141B0;capacity=788""]","わかっている。俺様ぐらい豊富な経験を積み重ねていれば、
+その間合いはハッキリと目に見えている。まるで<R=輪,リング>のよう
+にな。
+","さすがボス。それなら、うん、その<R=　　輪　　,CO-OPリング>に入ること
+をCO-OPインと呼ぼう。
+",,"[""<R=　　輪　　,CO-OPリング>""]",,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"好，就叫它“合作环”，
+进入这个环就叫“合作加入”。","[""好，就叫它“合作环”，\n进入这个环就叫“合作加入”。""]","OK, we'll call it the ""CO-OP Ring,"" and entering the
+ring will be called going ""CO-OP IN.""
+","[""OK, we'll call it the \""CO-OP Ring,\"" and entering the\nring will be called going \""CO-OP IN.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14170; ENG blocks=0xA6F50; ENG source rows=0xA6F50#9; block_semantic_score=0.105846.

@@ -1,0 +1,99 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_014A80,0,stream=0x14000;block=0xA80;text=0,"[""stream=0x14000;block=0xA80;text=0""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]",,"人間、心臓が止まってもすぐに死ぬわけじゃない。
+","心臓は全身に血液を送っているだけだからな。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"心脏停止跳动并不代表
+你立刻就死掉了。","[""心脏停止跳动并不代表\n你立刻就死掉了。""]","Just because your heart stops doesn't mean you're
+dead immediately.
+","[""Just because your heart stops doesn't mean you're\ndead immediately.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#0; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,1,stream=0x14000;block=0xA80;text=1,"[""stream=0x14000;block=0xA80;text=1""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","人間、心臓が止まってもすぐに死ぬわけじゃない。
+","心臓は全身に血液を送っているだけだからな。
+","だが心臓が止まると脳に酸素が運ばれなくなり、遠からず
+死に至る。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没错，心脏只是负责
+把血液输送到全身。","[""没错，心脏只是负责\n把血液输送到全身。""]","Right. The heart just circulates blood through the
+body.
+","[""Right. The heart just circulates blood through the\nbody.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#1; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,2,stream=0x14000;block=0xA80;text=2,"[""stream=0x14000;block=0xA80;text=2""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","心臓は全身に血液を送っているだけだからな。
+","だが心臓が止まると脳に酸素が運ばれなくなり、遠からず
+死に至る。
+","そこで心臓マッサージだ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但心跳停止会切断大脑的氧气供应——
+用不了多久你就会死。","[""但心跳停止会切断大脑的氧气供应——\n用不了多久你就会死。""]","But stopping it does cut oxygen supply to the
+brain - you'll be dead soon after.
+","[""But stopping it does cut oxygen supply to the\nbrain - you'll be dead soon after.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#2; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,3,stream=0x14000;block=0xA80;text=3,"[""stream=0x14000;block=0xA80;text=3""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","だが心臓が止まると脳に酸素が運ばれなくなり、遠からず
+死に至る。
+","そこで心臓マッサージだ。
+","仮に心臓が止まったとしても、脳細胞が死滅する前に心臓
+マッサージを施せば生き返るってわけだ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以才有了心肺复苏。,"[""所以才有了心肺复苏。""]","Which is why we have CPR.
+","[""Which is why we have CPR.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#3; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,4,stream=0x14000;block=0xA80;text=4,"[""stream=0x14000;block=0xA80;text=4""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","そこで心臓マッサージだ。
+","仮に心臓が止まったとしても、脳細胞が死滅する前に心臓
+マッサージを施せば生き返るってわけだ。
+","CO-OPSでLIFEゲージがゼロになると瀕死状態になった
+ことを示す。こうなったらもう動くことも出来ないはずだ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只要有人趁你的脑细胞还没死之前
+进行心肺复苏，你就有可能活过来。","[""只要有人趁你的脑细胞还没死之前\n进行心肺复苏，你就有可能活过来。""]","If someone performs CPR before your brain cells
+die you can recover.
+","[""If someone performs CPR before your brain cells\ndie you can recover.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#5; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,5,stream=0x14000;block=0xA80;text=5,"[""stream=0x14000;block=0xA80;text=5""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","仮に心臓が止まったとしても、脳細胞が死滅する前に心臓
+マッサージを施せば生き返るってわけだ。
+","CO-OPSでLIFEゲージがゼロになると瀕死状態になった
+ことを示す。こうなったらもう動くことも出来ないはずだ。
+","瀕死状態の仲間は心臓マッサージで戦線復帰させることが
+出来る。
+",[],,,NOT_CHECKED,150,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就意味着你进入了濒死状态。,"[""就意味着你进入了濒死状态。""]","it means you're in a near-death state.
+","[""it means you're in a near-death state.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#7; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,6,stream=0x14000;block=0xA80;text=6,"[""stream=0x14000;block=0xA80;text=6""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","CO-OPSでLIFEゲージがゼロになると瀕死状態になった
+ことを示す。こうなったらもう動くことも出来ないはずだ。
+","瀕死状態の仲間は心臓マッサージで戦線復帰させることが
+出来る。
+","もちろん戦闘中の心臓マッサージは危険を伴う。その間、
+自らを危険にさらすことになるからな。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对濒死的队友进行心肺复苏，
+可以让他们重新投入战斗。","[""对濒死的队友进行心肺复苏，\n可以让他们重新投入战斗。""]","Performing CPR on near-death teammates can
+bring them back into action.
+","[""Performing CPR on near-death teammates can\nbring them back into action.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#9; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,7,stream=0x14000;block=0xA80;text=7,"[""stream=0x14000;block=0xA80;text=7""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","瀕死状態の仲間は心臓マッサージで戦線復帰させることが
+出来る。
+","もちろん戦闘中の心臓マッサージは危険を伴う。その間、
+自らを危険にさらすことになるからな。
+","とはいえ、CO-OPSの仲間は一心同体。一人だけ置いて行
+くなんてことは考えないでくれ。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然，在交火中做心肺复苏并不安全。你会完全暴露自己。,"[""当然，在交火中做心肺复苏并不安全。你会完全暴露自己。""]","Of course, performing CPR in the middle of battle
+isn't exactly safe.
+You're leaving yourself exposed.
+","[""Of course, performing CPR in the middle of battle\nisn't exactly safe.\nYou're leaving yourself exposed.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x14A80; ENG blocks=0xA7780,0xA7780; ENG source rows=0xA7780#10,0xA7780#11; block_semantic_score=0.138640."
+BRIEFING_FILES_BLOCK_014A80,8,stream=0x14000;block=0xA80;text=8,"[""stream=0x14000;block=0xA80;text=8""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","もちろん戦闘中の心臓マッサージは危険を伴う。その間、
+自らを危険にさらすことになるからな。
+","とはいえ、CO-OPSの仲間は一心同体。一人だけ置いて行
+くなんてことは考えないでくれ。
+","もちろん、そのときはお互いさまだ。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"即便如此，在合作模式中，
+你和队友都是一条绳上的蚂蚱。","[""即便如此，在合作模式中，\n你和队友都是一条绳上的蚂蚱。""]","Even so, in CO-OPS you and your teammates are
+all in the same boat.
+","[""Even so, in CO-OPS you and your teammates are\nall in the same boat.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#12; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,9,stream=0x14000;block=0xA80;text=9,"[""stream=0x14000;block=0xA80;text=9""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","とはいえ、CO-OPSの仲間は一心同体。一人だけ置いて行
+くなんてことは考えないでくれ。
+","もちろん、そのときはお互いさまだ。
+","作戦中、自分と仲間の全員が死んでしまえば、もう誰にも
+助けられない。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别以为你可以丢下某个队友不管。,"[""别以为你可以丢下某个队友不管。""]","Don't think you can get away with leaving one of
+them behind.
+","[""Don't think you can get away with leaving one of\nthem behind.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x14A80; ENG blocks=0xA7780; ENG source rows=0xA7780#13; block_semantic_score=0.138640.
+BRIEFING_FILES_BLOCK_014A80,10,stream=0x14000;block=0xA80;text=10,"[""stream=0x14000;block=0xA80;text=10""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","もちろん、そのときはお互いさまだ。
+","作戦中、自分と仲間の全員が死んでしまえば、もう誰にも
+助けられない。
+","そこで<R=おしまい,ゲームオーバー>ってわけだな。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我绝不会那么想。而且我
+也希望他们能同样对我。如果你在任务中让所有队友都死了，","[""我绝不会那么想。而且我\n也希望他们能同样对我。如果你在任务中让所有队友都死了，""]","I wouldn't think of it. And I'd expect them to do the
+same for me.
+If you let all your teammates die during a mission,
+","[""I wouldn't think of it. And I'd expect them to do the\nsame for me.\nIf you let all your teammates die during a mission,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x14A80; ENG blocks=0xA7780,0xA7780; ENG source rows=0xA7780#14,0xA7780#15; block_semantic_score=0.138640."
+BRIEFING_FILES_BLOCK_014A80,11,stream=0x14000;block=0xA80;text=11,"[""stream=0x14000;block=0xA80;text=11""]",1,BRIEFING FILES,"[""stream=0x14000;block=0xA80;block_file=0x14A80;text_base=0x14AD0;capacity=1132""]","作戦中、自分と仲間の全員が死んでしまえば、もう誰にも
+助けられない。
+","そこで<R=おしまい,ゲームオーバー>ってわけだな。
+",,"[""<R=おしまい,ゲームオーバー>""]",,,NOT_CHECKED,69,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那就没人能救你了。然后游戏就结束了。,"[""那就没人能救你了。然后游戏就结束了。""]","there'll be nobody left to save you.
+And then it's game over.
+","[""there'll be nobody left to save you.\nAnd then it's game over.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x14A80; ENG blocks=0xA7780,0xA7780; ENG source rows=0xA7780#16,0xA7780#17; block_semantic_score=0.138640."

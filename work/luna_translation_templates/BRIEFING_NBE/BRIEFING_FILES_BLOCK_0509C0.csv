@@ -1,0 +1,146 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0509C0,0,stream=0x50000;block=0x9C0;text=0,"[""stream=0x50000;block=0x9C0;text=0""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]",,"エキスパートシステムとは何だ。
+","ピースウォーカーに載せるAIは、もともとこのエキスパー
+トシステムとして開発が始まった。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那么，“专家系统”是什么？,"[""那么，“专家系统”是什么？""]","So what's an 'expert system?'
+","[""So what's an 'expert system?'\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#0; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,1,stream=0x50000;block=0x9C0;text=1,"[""stream=0x50000;block=0x9C0;text=1""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","エキスパートシステムとは何だ。
+","ピースウォーカーに載せるAIは、もともとこのエキスパー
+トシステムとして開発が始まった。
+","コンピュータが<R=専門家,エキスパート>のように判断をするシステム。一種
+の代行プログラムだ。
+",[],,,NOT_CHECKED,127,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和平行者内部搭载的AI，
+最初就是作为这种系统开发的。","[""和平行者内部搭载的AI，\n最初就是作为这种系统开发的。""]","The AI housed within Peace Walker began
+development as such a system.
+","[""The AI housed within Peace Walker began\ndevelopment as such a system.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#1; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,2,stream=0x50000;block=0x9C0;text=2,"[""stream=0x50000;block=0x9C0;text=2""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","ピースウォーカーに載せるAIは、もともとこのエキスパー
+トシステムとして開発が始まった。
+","コンピュータが<R=専門家,エキスパート>のように判断をするシステム。一種
+の代行プログラムだ。
+","例えば、“Mycin”というプログラム。これは、処方すべ
+き抗生物質を決めるシステムだ。
+","[""<R=専門家,エキスパート>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,专家系统是一种代理程序，,"[""专家系统是一种代理程序，""]","An expert system is a type of proxy program
+","[""An expert system is a type of proxy program\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#2; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,3,stream=0x50000;block=0x9C0;text=3,"[""stream=0x50000;block=0x9C0;text=3""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","コンピュータが<R=専門家,エキスパート>のように判断をするシステム。一種
+の代行プログラムだ。
+","例えば、“Mycin”というプログラム。これは、処方すべ
+き抗生物質を決めるシステムだ。
+","システムが患者に質問していくことで、処方薬を絞り込ん
+でいく。
+",[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,例如，“MYCIN”这个程序，,"[""例如，“MYCIN”这个程序，""]","The program ""MYCIN,"" for example,
+","[""The program \""MYCIN,\"" for example,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#4; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,4,stream=0x50000;block=0x9C0;text=4,"[""stream=0x50000;block=0x9C0;text=4""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","例えば、“Mycin”というプログラム。これは、処方すべ
+き抗生物質を決めるシステムだ。
+","システムが患者に質問していくことで、処方薬を絞り込ん
+でいく。
+","ピースウォーカーに、ペニシリンではなく、熱核兵器を処
+方させようとしたわけか。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,系统会向患者提出一系列问题，,"[""系统会向患者提出一系列问题，""]","The system asks the patient a series of questions
+","[""The system asks the patient a series of questions\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#6; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,5,stream=0x50000;block=0x9C0;text=5,"[""stream=0x50000;block=0x9C0;text=5""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","システムが患者に質問していくことで、処方薬を絞り込ん
+でいく。
+","ピースウォーカーに、ペニシリンではなく、熱核兵器を処
+方させようとしたわけか。
+","だが、単なるエキスパートシステムでは、力不足というこ
+とがわかった。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以你就把和平行者设定成开
+真正的核弹头，而不是青霉素。","[""所以你就把和平行者设定成开\n真正的核弹头，而不是青霉素。""]","So you programmed Peace Walker to prescribe live
+nuclear warheads instead of penicillin.
+","[""So you programmed Peace Walker to prescribe live\nnuclear warheads instead of penicillin.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#8; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,6,stream=0x50000;block=0x9C0;text=6,"[""stream=0x50000;block=0x9C0;text=6""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","ピースウォーカーに、ペニシリンではなく、熱核兵器を処
+方させようとしたわけか。
+","だが、単なるエキスパートシステムでは、力不足というこ
+とがわかった。
+","専門知識だけじゃ、核は撃てない。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然而我意识到，简单的
+专家系统无法胜任这个任务。","[""然而我意识到，简单的\n专家系统无法胜任这个任务。""]","What I realized, however, was that a simple expert
+system wasn't up to the task.
+","[""What I realized, however, was that a simple expert\nsystem wasn't up to the task.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#9; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,7,stream=0x50000;block=0x9C0;text=7,"[""stream=0x50000;block=0x9C0;text=7""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","だが、単なるエキスパートシステムでは、力不足というこ
+とがわかった。
+","専門知識だけじゃ、核は撃てない。
+","そうだ。専門知識は必要だが、それだけでは足りない。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要发射核弹，光有专业知识还不够。,"[""要发射核弹，光有专业知识还不够。""]","You need more than expertise to launch a nuke.
+","[""You need more than expertise to launch a nuke.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#10; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,8,stream=0x50000;block=0x9C0;text=8,"[""stream=0x50000;block=0x9C0;text=8""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","専門知識だけじゃ、核は撃てない。
+","そうだ。専門知識は必要だが、それだけでは足りない。
+","報復攻撃の判断を下すには、もっと広範囲で条件を考慮す
+る必要がある。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"确实。专业知识是必要的先决条件，
+但仅凭它还不够。","[""确实。专业知识是必要的先决条件，\n但仅凭它还不够。""]","Indeed. Expertise is a necessary prerequisite but
+insufficient on its own.
+","[""Indeed. Expertise is a necessary prerequisite but\ninsufficient on its own.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#11; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,9,stream=0x50000;block=0x9C0;text=9,"[""stream=0x50000;block=0x9C0;text=9""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","そうだ。専門知識は必要だが、それだけでは足りない。
+","報復攻撃の判断を下すには、もっと広範囲で条件を考慮す
+る必要がある。
+","それこそ、世界の情勢全てが判断すべき基準になるんだ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"决定发动报复性打击，
+需要考虑更广泛的因素。","[""决定发动报复性打击，\n需要考虑更广泛的因素。""]","Deciding to launch a retaliatory strike requires
+consideration of a wider range of factors.
+","[""Deciding to launch a retaliatory strike requires\nconsideration of a wider range of factors.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#12; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,10,stream=0x50000;block=0x9C0;text=10,"[""stream=0x50000;block=0x9C0;text=10""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","報復攻撃の判断を下すには、もっと広範囲で条件を考慮す
+る必要がある。
+","それこそ、世界の情勢全てが判断すべき基準になるんだ。
+","確かにな。処方を間違えれば、全世界がアナフィラキシー・
+ショックに陥る。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在这种情形下，整个全球局势
+都会成为决策的评判标准。","[""在这种情形下，整个全球局势\n都会成为决策的评判标准。""]","In such a scenario, the entire global situation
+becomes the criterion for making a decision.
+","[""In such a scenario, the entire global situation\nbecomes the criterion for making a decision.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#13; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,11,stream=0x50000;block=0x9C0;text=11,"[""stream=0x50000;block=0x9C0;text=11""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","それこそ、世界の情勢全てが判断すべき基準になるんだ。
+","確かにな。処方を間違えれば、全世界がアナフィラキシー・
+ショックに陥る。
+","狭い専門知識の中でしか判断できない“弱いAI”ではだめ
+なんだ。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有道理。你要是开错处方，
+全世界都会过敏性休克。","[""有道理。你要是开错处方，\n全世界都会过敏性休克。""]","Makes sense. You screw up the prescription, and
+the whole world goes into anaphylactic shock.
+","[""Makes sense. You screw up the prescription, and\nthe whole world goes into anaphylactic shock.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#14; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,12,stream=0x50000;block=0x9C0;text=12,"[""stream=0x50000;block=0x9C0;text=12""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","確かにな。処方を間違えれば、全世界がアナフィラキシー・
+ショックに陥る。
+","狭い専門知識の中でしか判断できない“弱いAI”ではだめ
+なんだ。
+","だから私は、ザ・ボスの思考をAIに学ばせた。“強いAI”
+…真のエキスパートシステムを作るために。
+",[],,,NOT_CHECKED,91,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“弱AI”,"[""“弱AI”""]","A ""weak AI""
+","[""A \""weak AI\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#15; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,13,stream=0x50000;block=0x9C0;text=13,"[""stream=0x50000;block=0x9C0;text=13""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","狭い専門知識の中でしか判断できない“弱いAI”ではだめ
+なんだ。
+","だから私は、ザ・ボスの思考をAIに学ばせた。“強いAI”
+…真のエキスパートシステムを作るために。
+","偏った見識に世界は任せられない、ということか。
+",[],,,NOT_CHECKED,138,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从而创造出一个真正的
+专家系统——“强AI”。","[""从而创造出一个真正的\n专家系统——“强AI”。""]","thus creating a true expert system - a ""strong AI.""
+","[""thus creating a true expert system - a \""strong AI.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#18; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,14,stream=0x50000;block=0x9C0;text=14,"[""stream=0x50000;block=0x9C0;text=14""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","だから私は、ザ・ボスの思考をAIに学ばせた。“強いAI”
+…真のエキスパートシステムを作るために。
+","偏った見識に世界は任せられない、ということか。
+","単純なエキスパートシステムなら、すぐにでも用意できる。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,——一个世界观不够绝对的东西。,"[""——一个世界观不够绝对的东西。""]","with anything less than an absolute worldview.
+","[""with anything less than an absolute worldview.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#20; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,15,stream=0x50000;block=0x9C0;text=15,"[""stream=0x50000;block=0x9C0;text=15""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","偏った見識に世界は任せられない、ということか。
+","単純なエキスパートシステムなら、すぐにでも用意できる。
+","そうだ、作戦内容に応じて、携行する銃を決めるシステム
+はどうだ？
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我本来可以分分钟就做出
+一个简单的专家系统。","[""我本来可以分分钟就做出\n一个简单的专家系统。""]","I could have built a simple expert system in no
+time at all.
+","[""I could have built a simple expert system in no\ntime at all.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#21; block_semantic_score=0.212819.
+BRIEFING_FILES_BLOCK_0509C0,16,stream=0x50000;block=0x9C0;text=16,"[""stream=0x50000;block=0x9C0;text=16""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","単純なエキスパートシステムなら、すぐにでも用意できる。
+","そうだ、作戦内容に応じて、携行する銃を決めるシステム
+はどうだ？
+","遠慮しておく。自分の生死を、他人の判断に委ねるつもり
+はない。機械になどなおさらだ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"比如说，一个决定你该
+装备哪把枪的系统————根据任务参数来决定，怎么样？","[""比如说，一个决定你该\n装备哪把枪的系统————根据任务参数来决定，怎么样？""]","Say, how would you like a system that decides
+which guns you should equip
+according to the mission's parameters?
+","[""Say, how would you like a system that decides\nwhich guns you should equip\naccording to the mission's parameters?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x509C0; ENG blocks=0xDE520,0xDE520; ENG source rows=0xDE520#22,0xDE520#23; block_semantic_score=0.212819."
+BRIEFING_FILES_BLOCK_0509C0,17,stream=0x50000;block=0x9C0;text=17,"[""stream=0x50000;block=0x9C0;text=17""]",1,BRIEFING FILES,"[""stream=0x50000;block=0x9C0;block_file=0x509C0;text_base=0x50A28;capacity=1768""]","そうだ、作戦内容に応じて、携行する銃を決めるシステム
+はどうだ？
+","遠慮しておく。自分の生死を、他人の判断に委ねるつもり
+はない。機械になどなおさらだ。
+",,[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"免了。我可不想把自己的
+命交到别人的判断手里。","[""免了。我可不想把自己的\n命交到别人的判断手里。""]","I'll pass. I'm not gonna leave my life up to
+somebody else's judgment.
+","[""I'll pass. I'm not gonna leave my life up to\nsomebody else's judgment.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x509C0; ENG blocks=0xDE520; ENG source rows=0xDE520#24; block_semantic_score=0.212819.

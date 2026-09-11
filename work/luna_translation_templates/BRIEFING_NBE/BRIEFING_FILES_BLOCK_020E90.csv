@@ -1,0 +1,70 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_020E90,0,stream=0x20000;block=0xE90;text=0,"[""stream=0x20000;block=0xE90;text=0""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]",,"敵の戦車や装甲車、それに攻撃ヘリには常に一個戦闘班が
+随伴している。
+","兵士個々の戦闘力は飛び抜けて高いわけじゃないが、何し
+ろ連携が巧みで手を焼く。マシンの火力だけでも洒落にな
+らないってのに。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"敌军坦克、装甲车、以及武装直升机，
+总是有战斗小队随行。","[""敌军坦克、装甲车、以及武装直升机，\n总是有战斗小队随行。""]","Enemy tanks, armored vehicles,
+and attack choppers are always accompanied by a
+combat squad.
+","[""Enemy tanks, armored vehicles,\nand attack choppers are always accompanied by a\ncombat squad.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20E90; ENG blocks=0xB2060,0xB2060; ENG source rows=0xB2060#0,0xB2060#1; block_semantic_score=0.134256."
+BRIEFING_FILES_BLOCK_020E90,1,stream=0x20000;block=0xE90;text=1,"[""stream=0x20000;block=0xE90;text=1""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]","敵の戦車や装甲車、それに攻撃ヘリには常に一個戦闘班が
+随伴している。
+","兵士個々の戦闘力は飛び抜けて高いわけじゃないが、何し
+ろ連携が巧みで手を焼く。マシンの火力だけでも洒落にな
+らないってのに。
+","倒し甲斐があっていい。
+",[],,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这些士兵单独对付并不难。,"[""这些士兵单独对付并不难。""]","The soldiers aren't particularly tough on their own.
+","[""The soldiers aren't particularly tough on their own.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20E90; ENG blocks=0xB2060; ENG source rows=0xB2060#2; block_semantic_score=0.134256.
+BRIEFING_FILES_BLOCK_020E90,2,stream=0x20000;block=0xE90;text=2,"[""stream=0x20000;block=0xE90;text=2""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]","兵士個々の戦闘力は飛び抜けて高いわけじゃないが、何し
+ろ連携が巧みで手を焼く。マシンの火力だけでも洒落にな
+らないってのに。
+","倒し甲斐があっていい。
+","実際に戦うとなったらそうも言ってられないぞ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们的可怕之处在于
+团队合作非常默契。","[""他们的可怕之处在于\n团队合作非常默契。""]","What makes them formidable is how well they work
+together as a team.
+","[""What makes them formidable is how well they work\ntogether as a team.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20E90; ENG blocks=0xB2060; ENG source rows=0xB2060#3; block_semantic_score=0.134256.
+BRIEFING_FILES_BLOCK_020E90,3,stream=0x20000;block=0xE90;text=3,"[""stream=0x20000;block=0xE90;text=3""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]","倒し甲斐があっていい。
+","実際に戦うとなったらそうも言ってられないぞ。
+","いいか、包囲されないように気をつけるんだ。敵マシンの
+キルゾーンへ追い込まれるなんてのは惨めだ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好像光对付那机器就够你操心的了。很好。我喜欢挑战。,"[""好像光对付那机器就够你操心的了。很好。我喜欢挑战。""]","As if you didn't have enough to worry about with
+the machine.
+Good. I like a challenge.
+","[""As if you didn't have enough to worry about with\nthe machine.\nGood. I like a challenge.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20E90; ENG blocks=0xB2060,0xB2060; ENG source rows=0xB2060#4,0xB2060#5; block_semantic_score=0.134256."
+BRIEFING_FILES_BLOCK_020E90,4,stream=0x20000;block=0xE90;text=4,"[""stream=0x20000;block=0xE90;text=4""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]","実際に戦うとなったらそうも言ってられないぞ。
+","いいか、包囲されないように気をつけるんだ。敵マシンの
+キルゾーンへ追い込まれるなんてのは惨めだ。
+","それから敵同士のやり取りにも注意するんだ。会話から動
+きを読んで先手を打っていけば、勝機も生まれるだろう。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是嘛，等真正在战场上面对他们的
+时候，看你还能不能这么说。Snake，无论如何都别让他们包围你。","[""是嘛，等真正在战场上面对他们的\n时候，看你还能不能这么说。Snake，无论如何都别让他们包围你。""]","Yeah, well, see how you feel when you actually
+have to face them in battle.
+Snake, whatever you do, don't let them surround
+you.
+","[""Yeah, well, see how you feel when you actually\nhave to face them in battle.\nSnake, whatever you do, don't let them surround\nyou.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20E90; ENG blocks=0xB2060,0xB2060; ENG source rows=0xB2060#6,0xB2060#7; block_semantic_score=0.134256."
+BRIEFING_FILES_BLOCK_020E90,5,stream=0x20000;block=0xE90;text=5,"[""stream=0x20000;block=0xE90;text=5""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]","いいか、包囲されないように気をつけるんだ。敵マシンの
+キルゾーンへ追い込まれるなんてのは惨めだ。
+","それから敵同士のやり取りにも注意するんだ。会話から動
+きを読んで先手を打っていけば、勝機も生まれるだろう。
+","正面から殴り合うだけが能じゃない。ゲリラの戦い方を忘
+れるなよ。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有，注意听敌人之间的对话。,"[""还有，注意听敌人之间的对话。""]","And pay attention to what your enemies say to
+each other.
+","[""And pay attention to what your enemies say to\neach other.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20E90; ENG blocks=0xB2060; ENG source rows=0xB2060#9; block_semantic_score=0.134256.
+BRIEFING_FILES_BLOCK_020E90,6,stream=0x20000;block=0xE90;text=6,"[""stream=0x20000;block=0xE90;text=6""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]","それから敵同士のやり取りにも注意するんだ。会話から動
+きを読んで先手を打っていけば、勝機も生まれるだろう。
+","正面から殴り合うだけが能じゃない。ゲリラの戦い方を忘
+れるなよ。
+","了解だ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你能通过推测他们的计划来提高胜算，并用此先发制人，打乱他们的行动。,"[""你能通过推测他们的计划来提高胜算，并用此先发制人，打乱他们的行动。""]","You can improve your chances by figuring out
+what they're planning
+and using it to preempt their movements.
+","[""You can improve your chances by figuring out\nwhat they're planning\nand using it to preempt their movements.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x20E90; ENG blocks=0xB2060,0xB2060; ENG source rows=0xB2060#10,0xB2060#11; block_semantic_score=0.134256."
+BRIEFING_FILES_BLOCK_020E90,7,stream=0x20000;block=0xE90;text=7,"[""stream=0x20000;block=0xE90;text=7""]",1,BRIEFING FILES,"[""stream=0x20000;block=0xE90;block_file=0x20E90;text_base=0x20ED0;capacity=804""]","正面から殴り合うだけが能じゃない。ゲリラの戦い方を忘
+れるなよ。
+","了解だ。
+",,[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了。,"[""明白了。""]","Got it.
+","[""Got it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x20E90; ENG blocks=0xB2060; ENG source rows=0xB2060#14; block_semantic_score=0.134256.

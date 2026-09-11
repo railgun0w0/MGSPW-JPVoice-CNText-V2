@@ -1,0 +1,31 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_3735C0,0,stream=0x373000;block=0x5C0;text=0,"[""stream=0x373000;block=0x5C0;text=0""]",1,d3010_m0180_mrd,"[""stream=0x373000;block=0x5C0;block_file=0x3735C0;text_base=0x3735EC;capacity=480""]",,"計画の中核となる兵器、ピースウォーカーの完成を
+阻止するには、機体の大脳部となる<R=人工知能,AI>を制止、
+または破壊する必要がある。
+","ヒューイの情報によると、その<R=人工知能,AI>は、
+ストレンジラブ博士の<R=研究施設,ラボ>で、
+最終調整を受けているらしい。
+","[""<R=人工知能,AI>""]",,,NOT_CHECKED,190,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,为了阻止它的完成，,"[""为了阻止它的完成，""]","To prevent its completion,
+","[""To prevent its completion,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3735C0; ENG blocks=0x38AC60; ENG source rows=0x38AC60#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3735C0,1,stream=0x373000;block=0x5C0;text=1,"[""stream=0x373000;block=0x5C0;text=1""]",1,d3010_m0180_mrd,"[""stream=0x373000;block=0x5C0;block_file=0x3735C0;text_base=0x3735EC;capacity=480""]","計画の中核となる兵器、ピースウォーカーの完成を
+阻止するには、機体の大脳部となる<R=人工知能,AI>を制止、
+または破壊する必要がある。
+","ヒューイの情報によると、その<R=人工知能,AI>は、
+ストレンジラブ博士の<R=研究施設,ラボ>で、
+最終調整を受けているらしい。
+","熱帯雲霧林にある<R=研究施設,ラボ>に潜入、
+<R=人工知能,AI>の搬出を阻止するんだ。
+","[""<R=人工知能,AI>"", ""<R=研究施設,ラボ>""]",,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那个AI目前正在Strangelove的
+实验室里进行最终校准。","[""那个AI目前正在Strangelove的\n实验室里进行最终校准。""]","that AI is now undergoing final
+calibrations in Strangelove's lab.
+","[""that AI is now undergoing final\ncalibrations in Strangelove's lab.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3735C0; ENG blocks=0x38AC60; ENG source rows=0x38AC60#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3735C0,2,stream=0x373000;block=0x5C0;text=2,"[""stream=0x373000;block=0x5C0;text=2""]",1,d3010_m0180_mrd,"[""stream=0x373000;block=0x5C0;block_file=0x3735C0;text_base=0x3735EC;capacity=480""]","ヒューイの情報によると、その<R=人工知能,AI>は、
+ストレンジラブ博士の<R=研究施設,ラボ>で、
+最終調整を受けているらしい。
+","熱帯雲霧林にある<R=研究施設,ラボ>に潜入、
+<R=人工知能,AI>の搬出を阻止するんだ。
+",,"[""<R=研究施設,ラボ>"", ""<R=人工知能,AI>""]",,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它在一片热带云雾林里面。潜入进去，赶在他们
+运出之前摧毁那个AI。","[""它在一片热带云雾林里面。潜入进去，赶在他们\n运出之前摧毁那个AI。""]","It's inside a tropical cloud forest.
+Slip in and terminate that AI before they
+ship it out.
+","[""It's inside a tropical cloud forest.\nSlip in and terminate that AI before they\nship it out.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3735C0; ENG blocks=0x38AC60,0x38AC60; ENG source rows=0x38AC60#5,0x38AC60#6; block_semantic_score=1.000000."

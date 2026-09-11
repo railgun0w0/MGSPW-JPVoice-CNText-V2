@@ -1,0 +1,116 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_042C00,0,stream=0x42000;block=0xC00;text=0,"[""stream=0x42000;block=0xC00;text=0""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]",,"イラスには複数の火口がある。何度も噴火してるからね。
+","火口の多くには雨水が溜まって湖になってるって話だ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"伊拉苏火山不止一个火山口，
+因为它喷发过太多次了。","[""伊拉苏火山不止一个火山口，\n因为它喷发过太多次了。""]","Irazú has more than one crater, 'cause it's erupted
+so many times.
+","[""Irazú has more than one crater, 'cause it's erupted\nso many times.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#0; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,1,stream=0x42000;block=0xC00;text=1,"[""stream=0x42000;block=0xC00;text=1""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","イラスには複数の火口がある。何度も噴火してるからね。
+","火口の多くには雨水が溜まって湖になってるって話だ。
+","カルデラか。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我听说大部分火山口积满
+雨水，变成了湖泊。","[""我听说大部分火山口积满\n雨水，变成了湖泊。""]","I heard most of them filled up with rainwater and
+became lakes.
+","[""I heard most of them filled up with rainwater and\nbecame lakes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#1; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,2,stream=0x42000;block=0xC00;text=2,"[""stream=0x42000;block=0xC00;text=2""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","火口の多くには雨水が溜まって湖になってるって話だ。
+","カルデラか。
+","<R=大鍋,カルデラ>？　まあ、そんな感じかな。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,火山口湖啊。,"[""火山口湖啊。""]","Calderas, huh.
+","[""Calderas, huh.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#2; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,3,stream=0x42000;block=0xC00;text=3,"[""stream=0x42000;block=0xC00;text=3""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","カルデラか。
+","<R=大鍋,カルデラ>？　まあ、そんな感じかな。
+","…そうだ。湖に着いたら、変わった生き物がいないか見て
+おいてくれないか？
+","[""<R=大鍋,カルデラ>""]",,,NOT_CHECKED,63,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,火山口湖？嗯，差不多吧。…嘿，我有个主意。,"[""火山口湖？嗯，差不多吧。…嘿，我有个主意。""]","Calderas? Yeah, something like that.
+...Hey, I got an idea.
+","[""Calderas? Yeah, something like that.\n...Hey, I got an idea.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x42C00; ENG blocks=0xD0AE0,0xD0AE0; ENG source rows=0xD0AE0#3,0xD0AE0#4; block_semantic_score=0.154897."
+BRIEFING_FILES_BLOCK_042C00,4,stream=0x42000;block=0xC00;text=4,"[""stream=0x42000;block=0xC00;text=4""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","<R=大鍋,カルデラ>？　まあ、そんな感じかな。
+","…そうだ。湖に着いたら、変わった生き物がいないか見て
+おいてくれないか？
+","湖に巨大な生き物が棲んでるっていう話は、世界中にある
+らしいんだ。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你到湖边的时候，能帮我留意
+一下有没有奇怪的动物吗？","[""你到湖边的时候，能帮我留意\n一下有没有奇怪的动物吗？""]","When you get to the lake, can you keep an eye out
+for weird animals for me?
+","[""When you get to the lake, can you keep an eye out\nfor weird animals for me?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#5; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,5,stream=0x42000;block=0xC00;text=5,"[""stream=0x42000;block=0xC00;text=5""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","…そうだ。湖に着いたら、変わった生き物がいないか見て
+おいてくれないか？
+","湖に巨大な生き物が棲んでるっていう話は、世界中にある
+らしいんだ。
+","ネス湖のネッシー、アルゼンチンのナウエリート、カナダ
+のオゴポゴ…数え上げればキリがない。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"世界各地都有人讲湖里
+有巨型怪物的故事。","[""世界各地都有人讲湖里\n有巨型怪物的故事。""]","People all over the world tell stories about giant
+monsters living in lakes.
+","[""People all over the world tell stories about giant\nmonsters living in lakes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#6; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,6,stream=0x42000;block=0xC00;text=6,"[""stream=0x42000;block=0xC00;text=6""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","湖に巨大な生き物が棲んでるっていう話は、世界中にある
+らしいんだ。
+","ネス湖のネッシー、アルゼンチンのナウエリート、カナダ
+のオゴポゴ…数え上げればキリがない。
+","そういう目撃談も、恐竜が生き残ってるって説を裏付けて
+るんだ。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"尼斯湖的尼斯湖水怪，阿根廷的
+Nahuelito，加拿大的Ogopogo…","[""尼斯湖的尼斯湖水怪，阿根廷的\nNahuelito，加拿大的Ogopogo…""]","Nessie in Loch Ness, Nahuelito in Argentina,
+Ogopogo in Canada...
+","[""Nessie in Loch Ness, Nahuelito in Argentina,\nOgopogo in Canada...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#7; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,7,stream=0x42000;block=0xC00;text=7,"[""stream=0x42000;block=0xC00;text=7""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","ネス湖のネッシー、アルゼンチンのナウエリート、カナダ
+のオゴポゴ…数え上げればキリがない。
+","そういう目撃談も、恐竜が生き残ってるって説を裏付けて
+るんだ。
+","しかし、カルデラ湖だとすると、川にも繋がっていない。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"都说这些目击事件证明
+恐龙确实还存在。","[""都说这些目击事件证明\n恐龙确实还存在。""]","They say that all these sightings prove dinosaurs
+do still exist.
+","[""They say that all these sightings prove dinosaurs\ndo still exist.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#9; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,8,stream=0x42000;block=0xC00;text=8,"[""stream=0x42000;block=0xC00;text=8""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","そういう目撃談も、恐竜が生き残ってるって説を裏付けて
+るんだ。
+","しかし、カルデラ湖だとすると、川にも繋がっていない。
+","そうなんだけど…。でも、コンゴのモケーレ・ムベンベな
+んかだと、陸上も歩けるからな。移動してきて棲み着いて
+るかもしれない。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但火山口湖是封闭的，跟河流不连通。,"[""但火山口湖是封闭的，跟河流不连通。""]","But crater lakes are isolated. They're not
+connected to rivers.
+","[""But crater lakes are isolated. They're not\nconnected to rivers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#10; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,9,stream=0x42000;block=0xC00;text=9,"[""stream=0x42000;block=0xC00;text=9""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","しかし、カルデラ湖だとすると、川にも繋がっていない。
+","そうなんだけど…。でも、コンゴのモケーレ・ムベンベな
+んかだと、陸上も歩けるからな。移動してきて棲み着いて
+るかもしれない。
+","<R=未確認動物,UMA>に詳しいんだな。
+",[],,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，不过…你知道魔克拉姆边贝吗？
+在刚果河？它能在陆地上行走。","[""嗯，不过…你知道魔克拉姆边贝吗？\n在刚果河？它能在陆地上行走。""]","Yeah, but... you know Mokèlé-mbèmbé? In the
+Congo River? He can walk on land.
+","[""Yeah, but... you know Mokèlé-mbèmbé? In the\nCongo River? He can walk on land.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#11; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,10,stream=0x42000;block=0xC00;text=10,"[""stream=0x42000;block=0xC00;text=10""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","そうなんだけど…。でも、コンゴのモケーレ・ムベンベな
+んかだと、陸上も歩けるからな。移動してきて棲み着いて
+るかもしれない。
+","<R=未確認動物,UMA>に詳しいんだな。
+","<R=FSLN,フレンテ>のメンバーに元<R=狩人,ハンター>がいたんだ。その人にいろんな
+ことを教わったよ。怪物の島にも行ったことがあるらしい。
+","[""<R=未確認動物,UMA>""]",,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你对未知生物还真了解啊。,"[""你对未知生物还真了解啊。""]","You sure know a lot about UMAs.
+","[""You sure know a lot about UMAs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#13; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,11,stream=0x42000;block=0xC00;text=11,"[""stream=0x42000;block=0xC00;text=11""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","<R=未確認動物,UMA>に詳しいんだな。
+","<R=FSLN,フレンテ>のメンバーに元<R=狩人,ハンター>がいたんだ。その人にいろんな
+ことを教わったよ。怪物の島にも行ったことがあるらしい。
+","怪物の島の<R=狩人,ハンター>…。
+","[""<R=FSLN,フレンテ>"", ""<R=狩人,ハンター>""]",,,NOT_CHECKED,190,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"阵线以前有个当猎人的同志。
+他教了我很多东西。他甚至说自己去过一个
+叫怪物岛的地方。","[""阵线以前有个当猎人的同志。\n他教了我很多东西。他甚至说自己去过一个\n叫怪物岛的地方。""]","There used to be a guy in el Frente who was a
+hunter. He taught me lots of things.
+He even said he once went to a place called Isla
+del Monstruo.
+","[""There used to be a guy in el Frente who was a\nhunter. He taught me lots of things.\nHe even said he once went to a place called Isla\ndel Monstruo.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x42C00; ENG blocks=0xD0AE0,0xD0AE0; ENG source rows=0xD0AE0#14,0xD0AE0#15; block_semantic_score=0.154897."
+BRIEFING_FILES_BLOCK_042C00,12,stream=0x42000;block=0xC00;text=12,"[""stream=0x42000;block=0xC00;text=12""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","<R=FSLN,フレンテ>のメンバーに元<R=狩人,ハンター>がいたんだ。その人にいろんな
+ことを教わったよ。怪物の島にも行ったことがあるらしい。
+","怪物の島の<R=狩人,ハンター>…。
+","俺もいつかは<R=狩人,ハンター>として珍しい生き物を捕まえたいんだ。
+もちろん、ニカラグアに平和を取り戻すのが先だけどね。
+","[""<R=狩人,ハンター>""]",,,NOT_CHECKED,45,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怪物岛上的猎人…,"[""怪物岛上的猎人…""]","A hunter on Isla del Monstruo...
+","[""A hunter on Isla del Monstruo...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x42C00; ENG blocks=0xD0AE0; ENG source rows=0xD0AE0#16; block_semantic_score=0.154897.
+BRIEFING_FILES_BLOCK_042C00,13,stream=0x42000;block=0xC00;text=13,"[""stream=0x42000;block=0xC00;text=13""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","怪物の島の<R=狩人,ハンター>…。
+","俺もいつかは<R=狩人,ハンター>として珍しい生き物を捕まえたいんだ。
+もちろん、ニカラグアに平和を取り戻すのが先だけどね。
+",,"[""<R=狩人,ハンター>""]",,,NOT_CHECKED,175,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"总有一天，我也要当猎人，
+去抓稀有动物。当然，得等我们恢复家园的和平之后。","[""总有一天，我也要当猎人，\n去抓稀有动物。当然，得等我们恢复家园的和平之后。""]","Someday, I'm gonna be a hunter and catch some
+rare animals.
+Right after we restore peace to our land, of course.
+","[""Someday, I'm gonna be a hunter and catch some\nrare animals.\nRight after we restore peace to our land, of course.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x42C00; ENG blocks=0xD0AE0,0xD0AE0; ENG source rows=0xD0AE0#17,0xD0AE0#18; block_semantic_score=0.154897."

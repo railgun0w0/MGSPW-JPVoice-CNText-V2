@@ -1,0 +1,84 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_05F2C0,0,stream=0x5F000;block=0x2C0;text=0,"[""stream=0x5F000;block=0x2C0;text=0""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]",,"この世の<R=天国,ヘブン>か…。フランスには外人部隊というイメージ
+しかないな。
+","か、偏ってるわね…。
+","[""<R=天国,ヘブン>""]",,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"人间天堂，是吗…
+我对法国唯一的印象就是外籍军团。","[""人间天堂，是吗…\n我对法国唯一的印象就是外籍军团。""]","Heaven on earth, huh... The only image I have of
+France is the Foreign Legion.
+","[""Heaven on earth, huh... The only image I have of\nFrance is the Foreign Legion.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#0; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,1,stream=0x5F000;block=0x2C0;text=1,"[""stream=0x5F000;block=0x2C0;text=1""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","この世の<R=天国,ヘブン>か…。フランスには外人部隊というイメージ
+しかないな。
+","か、偏ってるわね…。
+","フランス国民は外人部隊をどう思っているんだ？
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你、你就是这么看法国的？！,"[""你、你就是这么看法国的？！""]","Th-that is how you view France?!
+","[""Th-that is how you view France?!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#1; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,2,stream=0x5F000;block=0x2C0;text=2,"[""stream=0x5F000;block=0x2C0;text=2""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","か、偏ってるわね…。
+","フランス国民は外人部隊をどう思っているんだ？
+","どうと言われても…。普段そんなに意識することもないし。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那法国人怎么看他们？,"[""那法国人怎么看他们？""]","What do the French think of the them?
+","[""What do the French think of the them?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#2; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,3,stream=0x5F000;block=0x2C0;text=3,"[""stream=0x5F000;block=0x2C0;text=3""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","フランス国民は外人部隊をどう思っているんだ？
+","どうと言われても…。普段そんなに意識することもないし。
+","国民が犠牲にならないよう外国人に危険な任務を押しつけ
+ているという批判もあるが。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这问题很难回答…
+我们平时其实不太想这些。","[""这问题很难回答…\n我们平时其实不太想这些。""]","It is a difficult question... We normally don't think
+about it so much.
+","[""It is a difficult question... We normally don't think\nabout it so much.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#3; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,4,stream=0x5F000;block=0x2C0;text=4,"[""stream=0x5F000;block=0x2C0;text=4""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","どうと言われても…。普段そんなに意識することもないし。
+","国民が犠牲にならないよう外国人に危険な任務を押しつけ
+ているという批判もあるが。
+","確かに設立の経緯としてはそういった事情もあったでしょ
+うね…。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"批评者声称，它迫使外国人
+去执行最危险的任务，","[""批评者声称，它迫使外国人\n去执行最危险的任务，""]","Critics claim it forces foreigners to take on the
+most dangerous missions
+","[""Critics claim it forces foreigners to take on the\nmost dangerous missions\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#4; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,5,stream=0x5F000;block=0x2C0;text=5,"[""stream=0x5F000;block=0x2C0;text=5""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","国民が犠牲にならないよう外国人に危険な任務を押しつけ
+ているという批判もあるが。
+","確かに設立の経緯としてはそういった事情もあったでしょ
+うね…。
+","でも、勤務を続ければフランス国籍と居住権が得られるっ
+て聞いた。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你说得对，这大概和它
+当初成立的原因有关…","[""你说得对，这大概和它\n当初成立的原因有关…""]","You're right, that probably had something to do
+with why it was created...
+","[""You're right, that probably had something to do\nwith why it was created...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#6; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,6,stream=0x5F000;block=0x2C0;text=6,"[""stream=0x5F000;block=0x2C0;text=6""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","確かに設立の経緯としてはそういった事情もあったでしょ
+うね…。
+","でも、勤務を続ければフランス国籍と居住権が得られるっ
+て聞いた。
+","入隊すれば、国籍、出身、人種、宗教、学歴など問わずに
+等しいチャンスが与えられる。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不过我也知道，
+服役的同时也会带来好处，比如法国国籍和永久居留权。","[""不过我也知道，\n服役的同时也会带来好处，比如法国国籍和永久居留权。""]","But I understand that along with service comes
+benefits
+such as French citizenship and permanent
+residency.
+","[""But I understand that along with service comes\nbenefits\nsuch as French citizenship and permanent\nresidency.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5F2C0; ENG blocks=0xECC30,0xECC30; ENG source rows=0xECC30#7,0xECC30#8; block_semantic_score=0.195456."
+BRIEFING_FILES_BLOCK_05F2C0,7,stream=0x5F000;block=0x2C0;text=7,"[""stream=0x5F000;block=0x2C0;text=7""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","でも、勤務を続ければフランス国籍と居住権が得られるっ
+て聞いた。
+","入隊すれば、国籍、出身、人種、宗教、学歴など問わずに
+等しいチャンスが与えられる。
+","だから貧しい国の人たちにとって大きな救いでもあるわ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不论种族、宗教、教育程度、
+社会地位，还是国籍出身。","[""不论种族、宗教、教育程度、\n社会地位，还是国籍出身。""]","regardless of race, religion, education, social
+status, or national origin.
+","[""regardless of race, religion, education, social\nstatus, or national origin.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#10; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,8,stream=0x5F000;block=0x2C0;text=8,"[""stream=0x5F000;block=0x2C0;text=8""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","入隊すれば、国籍、出身、人種、宗教、学歴など問わずに
+等しいチャンスが与えられる。
+","だから貧しい国の人たちにとって大きな救いでもあるわ。
+","持たざる者達が生きていく手段か。ある意味、MSFに近い
+存在なのかもしれないな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以，对来自贫穷国家的人来说，
+这可能是天赐良机。","[""所以，对来自贫穷国家的人来说，\n这可能是天赐良机。""]","So it can be a godsend for people from poor
+countries.
+","[""So it can be a godsend for people from poor\ncountries.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5F2C0; ENG blocks=0xECC30; ENG source rows=0xECC30#11; block_semantic_score=0.195456.
+BRIEFING_FILES_BLOCK_05F2C0,9,stream=0x5F000;block=0x2C0;text=9,"[""stream=0x5F000;block=0x2C0;text=9""]",1,BRIEFING FILES,"[""stream=0x5F000;block=0x2C0;block_file=0x5F2C0;text_base=0x5F308;capacity=924""]","だから貧しい国の人たちにとって大きな救いでもあるわ。
+","持たざる者達が生きていく手段か。ある意味、MSFに近い
+存在なのかもしれないな。
+",,[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"让一无所有的人也能过
+上体面生活的一条路…我想这和无国界之师（MSF）
+也没什么不同。","[""让一无所有的人也能过\n上体面生活的一条路…我想这和无国界之师（MSF）\n也没什么不同。""]","A way for the have-nots to live a decent life...
+I guess that's not so different from MSF.
+","[""A way for the have-nots to live a decent life...\nI guess that's not so different from MSF.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5F2C0; ENG blocks=0xECC30,0xECC30; ENG source rows=0xECC30#12,0xECC30#13; block_semantic_score=0.195456."

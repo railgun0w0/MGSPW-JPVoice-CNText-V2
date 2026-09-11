@@ -1,0 +1,81 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_381430,0,stream=0x381000;block=0x430;text=0,"[""stream=0x381000;block=0x430;text=0""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]",,"ボス！　ひとつアイデアがあるんだ。
+聞いてくれ。
+","今度はなんだ？　
+タブロイド紙に広告を出す気はないぞ。
+",[],,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Boss！我有个想法。你听听。让我猜猜。,"[""Boss！我有个想法。你听听。让我猜猜。""]","Boss! I had an idea. Listen to this.
+Lemme guess.
+","[""Boss! I had an idea. Listen to this.\nLemme guess.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x381430; ENG blocks=0x396580,0x396580; ENG source rows=0x396580#0,0x396580#1; block_semantic_score=0.186053."
+BRIEFING_MISSION_BLOCK_381430,1,stream=0x381000;block=0x430;text=1,"[""stream=0x381000;block=0x430;text=1""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]","ボス！　ひとつアイデアがあるんだ。
+聞いてくれ。
+","今度はなんだ？　
+タブロイド紙に広告を出す気はないぞ。
+","そんな話じゃない。
+せっかくMSFも人数が増えたことだし、
+『諜報班』を作ろうと思うんだ。
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你是想开始在当地八卦
+小报上打广告吧。","[""你是想开始在当地八卦\n小报上打广告吧。""]","You want to start running ads in the local
+gossip rags.
+","[""You want to start running ads in the local\ngossip rags.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381430; ENG blocks=0x396580; ENG source rows=0x396580#2; block_semantic_score=0.186053.
+BRIEFING_MISSION_BLOCK_381430,2,stream=0x381000;block=0x430;text=2,"[""stream=0x381000;block=0x430;text=2""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]","今度はなんだ？　
+タブロイド紙に広告を出す気はないぞ。
+","そんな話じゃない。
+せっかくMSFも人数が増えたことだし、
+『諜報班』を作ろうと思うんだ。
+","諜報員をコスタリカ各地に送り込んでおけば、
+事前に現地の情報が得られる。
+これから、どこに行くことになっても困らないはずだ。
+",[],,,NOT_CHECKED,126,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"拜托，你把我当成什么人了？我是想，既然我们有了这么多新兵，
+我们应该组建一个情报小组。","[""拜托，你把我当成什么人了？我是想，既然我们有了这么多新兵，\n我们应该组建一个情报小组。""]","Please, what do you take me for?
+I thought that with all the new guys we've
+got, we should get an Intel Team going.
+","[""Please, what do you take me for?\nI thought that with all the new guys we've\ngot, we should get an Intel Team going.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x381430; ENG blocks=0x396580,0x396580; ENG source rows=0x396580#3,0x396580#4; block_semantic_score=0.186053."
+BRIEFING_MISSION_BLOCK_381430,3,stream=0x381000;block=0x430;text=3,"[""stream=0x381000;block=0x430;text=3""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]","そんな話じゃない。
+せっかくMSFも人数が増えたことだし、
+『諜報班』を作ろうと思うんだ。
+","諜報員をコスタリカ各地に送り込んでおけば、
+事前に現地の情報が得られる。
+これから、どこに行くことになっても困らないはずだ。
+","悪くないアイデアだ。
+",[],,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们可以派特工到全国
+各地侦察不同的地点。这样一来，无论我们最终
+去向何方，都能有备无患。","[""我们可以派特工到全国\n各地侦察不同的地点。这样一来，无论我们最终\n去向何方，都能有备无患。""]","We'd send agents around the country to
+scout out different locations.
+That way we're better prepared - no
+matter where we end up.
+","[""We'd send agents around the country to\nscout out different locations.\nThat way we're better prepared - no\nmatter where we end up.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x381430; ENG blocks=0x396580,0x396580; ENG source rows=0x396580#5,0x396580#6; block_semantic_score=0.186053."
+BRIEFING_MISSION_BLOCK_381430,4,stream=0x381000;block=0x430;text=4,"[""stream=0x381000;block=0x430;text=4""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]","諜報員をコスタリカ各地に送り込んでおけば、
+事前に現地の情報が得られる。
+これから、どこに行くことになっても困らないはずだ。
+","悪くないアイデアだ。
+","諜報班には、索敵用の装備品なども
+開発してもらおうと思う。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这主意倒是不错。,"[""这主意倒是不错。""]","That's actually not a bad idea.
+","[""That's actually not a bad idea.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381430; ENG blocks=0x396580; ENG source rows=0x396580#7; block_semantic_score=0.186053.
+BRIEFING_MISSION_BLOCK_381430,5,stream=0x381000;block=0x430;text=5,"[""stream=0x381000;block=0x430;text=5""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]","悪くないアイデアだ。
+","諜報班には、索敵用の装備品なども
+開発してもらおうと思う。
+","物資を搬送したり、マザーベースからの
+攻撃支援を誘導させたりもできるはずだ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他们大概还能为我们开发侦察设备。,"[""他们大概还能为我们开发侦察设备。""]","They could probably develop recon
+equipment for us, too.
+","[""They could probably develop recon\nequipment for us, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381430; ENG blocks=0x396580; ENG source rows=0x396580#8; block_semantic_score=0.186053.
+BRIEFING_MISSION_BLOCK_381430,6,stream=0x381000;block=0x430;text=6,"[""stream=0x381000;block=0x430;text=6""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]","諜報班には、索敵用の装備品なども
+開発してもらおうと思う。
+","物資を搬送したり、マザーベースからの
+攻撃支援を誘導させたりもできるはずだ。
+","CO-OP相手にアイテムを送りたければ、
+メニューから<R=『DELIVERY』,デリバリー>を選んでみてくれ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们还可以让他们运输物资，
+并指挥母基地的支援攻击。","[""我们还可以让他们运输物资，\n并指挥母基地的支援攻击。""]","We could also have them transport goods
+and direct the Mother Base support
+strikes.
+","[""We could also have them transport goods\nand direct the Mother Base support\nstrikes.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381430; ENG blocks=0x396580; ENG source rows=0x396580#9; block_semantic_score=0.186053.
+BRIEFING_MISSION_BLOCK_381430,7,stream=0x381000;block=0x430;text=7,"[""stream=0x381000;block=0x430;text=7""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0x430;block_file=0x381430;text_base=0x381470;capacity=832""]","物資を搬送したり、マザーベースからの
+攻撃支援を誘導させたりもできるはずだ。
+","CO-OP相手にアイテムを送りたければ、
+メニューから<R=『DELIVERY』,デリバリー>を選んでみてくれ。
+",,"[""<R=『DELIVERY』,デリバリー>""]",,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你可以从“DELIVERY”
+菜单向合作模式队友发送物品。","[""你可以从“DELIVERY”\n菜单向合作模式队友发送物品。""]","You can send an item to a Co-Op
+teammate from the ""DELIVERY"" Menu.
+","[""You can send an item to a Co-Op\nteammate from the \""DELIVERY\"" Menu.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x381430; ENG blocks=0x396580; ENG source rows=0x396580#10; block_semantic_score=0.186053.

@@ -1,0 +1,35 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_383890,0,stream=0x383000;block=0x890;text=0,"[""stream=0x383000;block=0x890;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x890;block_file=0x383890;text_base=0x3838C4;capacity=384""]",,"スネーク…。夕陽が綺麗だ…。
+","…突然どうした、カズ。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake…这里的日落好美…,"[""Snake…这里的日落好美…""]","Snake...the sunsets are so pretty here...
+","[""Snake...the sunsets are so pretty here...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383890; ENG blocks=0x398D50; ENG source rows=0x398D50#0; block_semantic_score=0.042415.
+BRIEFING_MISSION_BLOCK_383890,1,stream=0x383000;block=0x890;text=1,"[""stream=0x383000;block=0x890;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x890;block_file=0x383890;text_base=0x3838C4;capacity=384""]","スネーク…。夕陽が綺麗だ…。
+","…突然どうした、カズ。
+","いや…。MSFのビジネスについて考えるのもいいが、
+たまにはこんな夕陽を見ながら、ゆっくりするのも
+悪くないと思ってな。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Kaz，你还好吗？,"[""Kaz，你还好吗？""]","Are you feeling OK, Kaz?
+","[""Are you feeling OK, Kaz?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383890; ENG blocks=0x398D50; ENG source rows=0x398D50#1; block_semantic_score=0.042415.
+BRIEFING_MISSION_BLOCK_383890,2,stream=0x383000;block=0x890;text=2,"[""stream=0x383000;block=0x890;text=2""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x890;block_file=0x383890;text_base=0x3838C4;capacity=384""]","…突然どうした、カズ。
+","いや…。MSFのビジネスについて考えるのもいいが、
+たまにはこんな夕陽を見ながら、ゆっくりするのも
+悪くないと思ってな。
+","…そうだな。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，我是说…我也有无国界之师
+（MSF）的事务要处理，","[""嗯，我是说…我也有无国界之师\n（MSF）的事务要处理，""]","Yeah, I mean...I've got MSF business to
+think about and all,
+","[""Yeah, I mean...I've got MSF business to\nthink about and all,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383890; ENG blocks=0x398D50; ENG source rows=0x398D50#2; block_semantic_score=0.042415.
+BRIEFING_MISSION_BLOCK_383890,3,stream=0x383000;block=0x890;text=3,"[""stream=0x383000;block=0x890;text=3""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x890;block_file=0x383890;text_base=0x3838C4;capacity=384""]","いや…。MSFのビジネスについて考えるのもいいが、
+たまにはこんな夕陽を見ながら、ゆっくりするのも
+悪くないと思ってな。
+","…そうだな。
+","スネーク…、その…、良かったら俺と二人で、
+海岸まで夕陽を見に行かないか？
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…嗯，是吗。,"[""…嗯，是吗。""]","...Yyyyeah.
+","[""...Yyyyeah.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383890; ENG blocks=0x398D50; ENG source rows=0x398D50#4; block_semantic_score=0.042415.
+BRIEFING_MISSION_BLOCK_383890,4,stream=0x383000;block=0x890;text=4,"[""stream=0x383000;block=0x890;text=4""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x890;block_file=0x383890;text_base=0x3838C4;capacity=384""]","…そうだな。
+","スネーク…、その…、良かったら俺と二人で、
+海岸まで夕陽を見に行かないか？
+",,[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，嗯…你愿意去海边看日落吗？,"[""Snake，嗯…你愿意去海边看日落吗？""]","Snake, um...would you be up for going to
+the coast to watch the sunset?
+","[""Snake, um...would you be up for going to\nthe coast to watch the sunset?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=MISSION_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x383890; ENG blocks=0x398D50; ENG source rows=0x398D50#5; block_semantic_score=0.042415.

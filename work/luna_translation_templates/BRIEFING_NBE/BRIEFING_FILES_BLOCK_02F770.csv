@@ -1,0 +1,42 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02F770,0,stream=0x2F000;block=0x770;text=0,"[""stream=0x2F000;block=0x770;text=0""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x770;block_file=0x2F770;text_base=0x2F7A4;capacity=544""]",,"アメリカはニカラグア運河の建設権を握ったと聞いたが。
+","アメリカはニカラグアに運河を造る気などなかった。もう
+パナマに運河を掘っていたからね。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我以为美国已经拥有在
+尼加拉瓜开凿运河的权利了…","[""我以为美国已经拥有在\n尼加拉瓜开凿运河的权利了…""]","I thought the U.S. already has the rights to build a
+canal in Nicaragua...
+","[""I thought the U.S. already has the rights to build a\ncanal in Nicaragua...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2F770; ENG blocks=0xC0880; ENG source rows=0xC0880#0; block_semantic_score=0.138004.
+BRIEFING_FILES_BLOCK_02F770,1,stream=0x2F000;block=0x770;text=1,"[""stream=0x2F000;block=0x770;text=1""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x770;block_file=0x2F770;text_base=0x2F7A4;capacity=544""]","アメリカはニカラグア運河の建設権を握ったと聞いたが。
+","アメリカはニカラグアに運河を造る気などなかった。もう
+パナマに運河を掘っていたからね。
+","ニカラグアに運河ができたら、パナマ運河の独占が崩れる。
+それだけのために、アメリカはニカラグアに横槍を入れ続
+けた。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们根本没打算在那里建运河。
+他们已经在巴拿马动工了。","[""他们根本没打算在那里建运河。\n他们已经在巴拿马动工了。""]","They never intended to build a canal there. They
+had already started digging in Panama.
+","[""They never intended to build a canal there. They\nhad already started digging in Panama.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2F770; ENG blocks=0xC0880; ENG source rows=0xC0880#1; block_semantic_score=0.138004.
+BRIEFING_FILES_BLOCK_02F770,2,stream=0x2F000;block=0x770;text=2,"[""stream=0x2F000;block=0x770;text=2""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x770;block_file=0x2F770;text_base=0x2F7A4;capacity=544""]","アメリカはニカラグアに運河を造る気などなかった。もう
+パナマに運河を掘っていたからね。
+","ニカラグアに運河ができたら、パナマ運河の独占が崩れる。
+それだけのために、アメリカはニカラグアに横槍を入れ続
+けた。
+","運河を造らせないために、その建設権を手に入れたわけだ。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"尼加拉瓜运河会打破
+巴拿马运河的垄断，","[""尼加拉瓜运河会打破\n巴拿马运河的垄断，""]","A canal in Nicaragua would break up the Panama
+Canal's monopoly,
+","[""A canal in Nicaragua would break up the Panama\nCanal's monopoly,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2F770; ENG blocks=0xC0880; ENG source rows=0xC0880#2; block_semantic_score=0.138004.
+BRIEFING_FILES_BLOCK_02F770,3,stream=0x2F000;block=0x770;text=3,"[""stream=0x2F000;block=0x770;text=3""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x770;block_file=0x2F770;text_base=0x2F7A4;capacity=544""]","ニカラグアに運河ができたら、パナマ運河の独占が崩れる。
+それだけのために、アメリカはニカラグアに横槍を入れ続
+けた。
+","運河を造らせないために、その建設権を手に入れたわけだ。
+","そのアメリカに反旗を翻したのが、サンディーノ将軍よ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这足以成为美国插手我们事务的理由。,"[""这足以成为美国插手我们事务的理由。""]","reason enough for America to stick its nose into
+our affairs.
+","[""reason enough for America to stick its nose into\nour affairs.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2F770; ENG blocks=0xC0880; ENG source rows=0xC0880#3; block_semantic_score=0.138004.
+BRIEFING_FILES_BLOCK_02F770,4,stream=0x2F000;block=0x770;text=4,"[""stream=0x2F000;block=0x770;text=4""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x770;block_file=0x2F770;text_base=0x2F7A4;capacity=544""]","運河を造らせないために、その建設権を手に入れたわけだ。
+","そのアメリカに反旗を翻したのが、サンディーノ将軍よ。
+",,[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最终是Sandino将军
+挺身而出对抗那些洋基佬。","[""最终是Sandino将军\n挺身而出对抗那些洋基佬。""]","It was General Sandino who finally stood up to los
+yanquis.
+","[""It was General Sandino who finally stood up to los\nyanquis.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2F770; ENG blocks=0xC0880; ENG source rows=0xC0880#5; block_semantic_score=0.138004.

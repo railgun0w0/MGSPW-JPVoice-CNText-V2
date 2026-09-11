@@ -1,0 +1,72 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03B000,0,stream=0x3B000;block=0x0;text=0,"[""stream=0x3B000;block=0x0;text=0""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]",,"アマンダ、村へ戻るには三叉路を経由するしかないか？
+","抜け道があるみたい。コーヒー工場の入り口まで戻ったら、
+右側の道の方よ。直接村に戻れる。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Amanda，我必须走那条
+回到村子的岔路吗？","[""Amanda，我必须走那条\n回到村子的岔路吗？""]","Amanda, do I have to take the fork in the road
+back to the village?
+","[""Amanda, do I have to take the fork in the road\nback to the village?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B000; ENG blocks=0xCB450; ENG source rows=0xCB450#0; block_semantic_score=0.154048.
+BRIEFING_FILES_BLOCK_03B000,1,stream=0x3B000;block=0x0;text=1,"[""stream=0x3B000;block=0x0;text=1""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","アマンダ、村へ戻るには三叉路を経由するしかないか？
+","抜け道があるみたい。コーヒー工場の入り口まで戻ったら、
+右側の道の方よ。直接村に戻れる。
+","それから、そのあたりは警備が強化されているかも。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听说有条近路。回到咖啡厂入口，然后沿着右边的小路走。那条路能直接到村子。,"[""听说有条近路。回到咖啡厂入口，然后沿着右边的小路走。那条路能直接到村子。""]","People say there is a shortcut. Go back to the
+coffee factory entrance,
+then follow the path on the right.
+That will take you straight to the village.
+","[""People say there is a shortcut. Go back to the\ncoffee factory entrance,\nthen follow the path on the right.\nThat will take you straight to the village.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x3B000; ENG blocks=0xCB450,0xCB450,0xCB450; ENG source rows=0xCB450#1,0xCB450#2,0xCB450#3; block_semantic_score=0.154048."
+BRIEFING_FILES_BLOCK_03B000,2,stream=0x3B000;block=0x0;text=2,"[""stream=0x3B000;block=0x0;text=2""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","抜け道があるみたい。コーヒー工場の入り口まで戻ったら、
+右側の道の方よ。直接村に戻れる。
+","それから、そのあたりは警備が強化されているかも。
+","戦車相手に、派手にやったからな。それで、村に戻ったら
+どうすればいい。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过，那儿的警戒可能加强了。,"[""不过，那儿的警戒可能加强了。""]","They may have increased security in that area,
+though.
+","[""They may have increased security in that area,\nthough.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B000; ENG blocks=0xCB450; ENG source rows=0xCB450#4; block_semantic_score=0.154048.
+BRIEFING_FILES_BLOCK_03B000,3,stream=0x3B000;block=0x0;text=3,"[""stream=0x3B000;block=0x0;text=3""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","それから、そのあたりは警備が強化されているかも。
+","戦車相手に、派手にやったからな。それで、村に戻ったら
+どうすればいい。
+","村の北側にあるバリケードを爆破して。その先から奴らの
+搬送ルートに合流できる。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"出了坦克那档子事，也不奇怪。
+回到村子后我该做什么？","[""出了坦克那档子事，也不奇怪。\n回到村子后我该做什么？""]","Not surprising, after what happened with the tank.
+What do I do once I'm back at the village?
+","[""Not surprising, after what happened with the tank.\nWhat do I do once I'm back at the village?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B000; ENG blocks=0xCB450; ENG source rows=0xCB450#5; block_semantic_score=0.154048.
+BRIEFING_FILES_BLOCK_03B000,4,stream=0x3B000;block=0x0;text=4,"[""stream=0x3B000;block=0x0;text=4""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","戦車相手に、派手にやったからな。それで、村に戻ったら
+どうすればいい。
+","村の北側にあるバリケードを爆破して。その先から奴らの
+搬送ルートに合流できる。
+","バリケードを破壊…C4が必要だな…。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"摧毁北侧的路障。
+从那里你就能重新接上运输路线。","[""摧毁北侧的路障。\n从那里你就能重新接上运输路线。""]","Destroy the barricade at the north side. From
+there you can reconnect with the transport route.
+","[""Destroy the barricade at the north side. From\nthere you can reconnect with the transport route.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B000; ENG blocks=0xCB450; ENG source rows=0xCB450#6; block_semantic_score=0.154048.
+BRIEFING_FILES_BLOCK_03B000,5,stream=0x3B000;block=0x0;text=5,"[""stream=0x3B000;block=0x0;text=5""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","村の北側にあるバリケードを爆破して。その先から奴らの
+搬送ルートに合流できる。
+","バリケードを破壊…C4が必要だな…。
+","爆破すれば敵も黙っちゃいない。警戒は避けられないだろ
+う。
+",[],,,NOT_CHECKED,51,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯…那我得用C4。,"[""嗯…那我得用C4。""]","Hmm... I'll need C4 for that.
+","[""Hmm... I'll need C4 for that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3B000; ENG blocks=0xCB450; ENG source rows=0xCB450#7; block_semantic_score=0.154048.
+BRIEFING_FILES_BLOCK_03B000,6,stream=0x3B000;block=0x0;text=6,"[""stream=0x3B000;block=0x0;text=6""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","バリケードを破壊…C4が必要だな…。
+","爆破すれば敵も黙っちゃいない。警戒は避けられないだろ
+う。
+","細い路地裏なら、連中の目も届かないかも知れない。垣根
+が乗り越えられればいいんだけど。バリケードを破った後
+も油断しないで。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,爆炸还会把所有人都引过来。很可能免不了一场恶战——不管怎样。,"[""爆炸还会把所有人都引过来。很可能免不了一场恶战——不管怎样。""]","The explosion will bring everyone running too.
+There's probably going to be a fight - one way or
+the other.
+","[""The explosion will bring everyone running too.\nThere's probably going to be a fight - one way or\nthe other.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3B000; ENG blocks=0xCB450,0xCB450; ENG source rows=0xCB450#8,0xCB450#9; block_semantic_score=0.154048."
+BRIEFING_FILES_BLOCK_03B000,7,stream=0x3B000;block=0x0;text=7,"[""stream=0x3B000;block=0x0;text=7""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","爆破すれば敵も黙っちゃいない。警戒は避けられないだろ
+う。
+","細い路地裏なら、連中の目も届かないかも知れない。垣根
+が乗り越えられればいいんだけど。バリケードを破った後
+も油断しないで。
+",,[],,,NOT_CHECKED,183,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你走那些窄路，
+他们可能发现不了你。然后直接翻过障碍就行。摧毁路障后也别放松警惕。","[""如果你走那些窄路，\n他们可能发现不了你。然后直接翻过障碍就行。摧毁路障后也别放松警惕。""]","They might not see you if you stick to the
+narrower pathways.
+Then just climb over any obstacles.
+Don't let your guard down after taking out the
+barricade, either.
+","[""They might not see you if you stick to the\nnarrower pathways.\nThen just climb over any obstacles.\nDon't let your guard down after taking out the\nbarricade, either.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x3B000; ENG blocks=0xCB450,0xCB450,0xCB450; ENG source rows=0xCB450#10,0xCB450#11,0xCB450#12; block_semantic_score=0.154048."

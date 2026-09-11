@@ -1,0 +1,75 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_00D430,0,stream=0xD000;block=0x430;text=0,"[""stream=0xD000;block=0x430;text=0""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]",,"「核兵器を持たず、作らず、持ち込ませず」…これが、日
+本政府が示した『非核三原則』だ。
+","“持ち込ませず”…？　妙だな。日本に寄港する米軍艦の
+中には、核を積んでいるのもあるだろう。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这就是日本政府提出的“无核三原则”。,"[""这就是日本政府提出的“无核三原则”。""]","Those are the Three Non-Nuclear Principles set
+forth by the Japanese government.
+","[""Those are the Three Non-Nuclear Principles set\nforth by the Japanese government.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD430; ENG blocks=0x9FF20; ENG source rows=0x9FF20#1; block_semantic_score=0.202673.
+BRIEFING_FILES_BLOCK_00D430,1,stream=0xD000;block=0x430;text=1,"[""stream=0xD000;block=0x430;text=1""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","「核兵器を持たず、作らず、持ち込ませず」…これが、日
+本政府が示した『非核三原則』だ。
+","“持ち込ませず”…？　妙だな。日本に寄港する米軍艦の
+中には、核を積んでいるのもあるだろう。
+","それとも、いちいち海の上で積み替えているとでも言うの
+か？
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有些造访日本港口的
+美国军舰上就携带着核武器…","[""有些造访日本港口的\n美国军舰上就携带着核武器…""]","Some of the U.S. warships that visit Japanese
+ports are armed with nukes...
+","[""Some of the U.S. warships that visit Japanese\nports are armed with nukes...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD430; ENG blocks=0x9FF20; ENG source rows=0x9FF20#3; block_semantic_score=0.202673.
+BRIEFING_FILES_BLOCK_00D430,2,stream=0xD000;block=0x430;text=2,"[""stream=0xD000;block=0x430;text=2""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","“持ち込ませず”…？　妙だな。日本に寄港する米軍艦の
+中には、核を積んでいるのもあるだろう。
+","それとも、いちいち海の上で積み替えているとでも言うの
+か？
+","あんたの言うとおりだ、スネーク。だが、少なくとも日本
+政府は認めていない。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"还是说你要告诉我，他们每次靠港
+前都会把核弹转移到别的船上？","[""还是说你要告诉我，他们每次靠港\n前都会把核弹转移到别的船上？""]","Or are you gonna tell me they transfer them at
+sea onto other ships every time they visit?
+","[""Or are you gonna tell me they transfer them at\nsea onto other ships every time they visit?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD430; ENG blocks=0x9FF20; ENG source rows=0x9FF20#4; block_semantic_score=0.202673.
+BRIEFING_FILES_BLOCK_00D430,3,stream=0xD000;block=0x430;text=3,"[""stream=0xD000;block=0x430;text=3""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","それとも、いちいち海の上で積み替えているとでも言うの
+か？
+","あんたの言うとおりだ、スネーク。だが、少なくとも日本
+政府は認めていない。
+","核の持ち込みは事前協議の対象だ。アメリカ側から事前協
+議はない。従って、核は持ち込まれていない…それが答弁
+だ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你说得有道理，Snake。
+但日本政府不承认这算数。","[""你说得有道理，Snake。\n但日本政府不承认这算数。""]","You raise a good point, Snake. But the Japanese
+government doesn't recognize it as such.
+","[""You raise a good point, Snake. But the Japanese\ngovernment doesn't recognize it as such.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD430; ENG blocks=0x9FF20; ENG source rows=0x9FF20#5; block_semantic_score=0.202673.
+BRIEFING_FILES_BLOCK_00D430,4,stream=0xD000;block=0x430;text=4,"[""stream=0xD000;block=0x430;text=4""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","あんたの言うとおりだ、スネーク。だが、少なくとも日本
+政府は認めていない。
+","核の持ち込みは事前協議の対象だ。アメリカ側から事前協
+議はない。従って、核は持ち込まれていない…それが答弁
+だ。
+","それは…答えになってんのか？
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"需要事先达成协议。而
+美国从未签过这种协议。","[""需要事先达成协议。而\n美国从未签过这种协议。""]","would need to be agreed upon in advance. America
+hasn't made any such agreements.
+","[""would need to be agreed upon in advance. America\nhasn't made any such agreements.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD430; ENG blocks=0x9FF20; ENG source rows=0x9FF20#7; block_semantic_score=0.202673.
+BRIEFING_FILES_BLOCK_00D430,5,stream=0xD000;block=0x430;text=5,"[""stream=0xD000;block=0x430;text=5""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","核の持ち込みは事前協議の対象だ。アメリカ側から事前協
+議はない。従って、核は持ち込まれていない…それが答弁
+だ。
+","それは…答えになってんのか？
+","さあな。ただ、日本は核被爆国だ。核に対する拒否反応は、
+あんたが考えている以上に強い。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…在我听来，这算不上
+什么像样的借口。","[""…在我听来，这算不上\n什么像样的借口。""]","...Doesn't sound like much of an excuse to me.
+","[""...Doesn't sound like much of an excuse to me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD430; ENG blocks=0x9FF20; ENG source rows=0x9FF20#9; block_semantic_score=0.202673.
+BRIEFING_FILES_BLOCK_00D430,6,stream=0xD000;block=0x430;text=6,"[""stream=0xD000;block=0x430;text=6""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","それは…答えになってんのか？
+","さあな。ただ、日本は核被爆国だ。核に対する拒否反応は、
+あんたが考えている以上に強い。
+","政府もなかなか認めるわけにいかないんだろう。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不怪你这么想。不过你要知道，
+日本真真切切遭受过核打击。那里的反核情绪，比你想的要深得多。","[""我不怪你这么想。不过你要知道，\n日本真真切切遭受过核打击。那里的反核情绪，比你想的要深得多。""]","I don't blame you. Keep in mind, though, Japan's
+suffered actual nuclear attacks.
+Anti-nuke sentiment there runs deeper than you
+think.
+","[""I don't blame you. Keep in mind, though, Japan's\nsuffered actual nuclear attacks.\nAnti-nuke sentiment there runs deeper than you\nthink.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0xD430; ENG blocks=0x9FF20,0x9FF20; ENG source rows=0x9FF20#10,0x9FF20#11; block_semantic_score=0.202673."
+BRIEFING_FILES_BLOCK_00D430,7,stream=0xD000;block=0x430;text=7,"[""stream=0xD000;block=0x430;text=7""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","さあな。ただ、日本は核被爆国だ。核に対する拒否反応は、
+あんたが考えている以上に強い。
+","政府もなかなか認めるわけにいかないんだろう。
+",,[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我想日本政府大概也没什么
+立场去承认这种事。","[""我想日本政府大概也没什么\n立场去承认这种事。""]","I suppose the government's not really in a position
+to admit that sort of thing.
+","[""I suppose the government's not really in a position\nto admit that sort of thing.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0xD430; ENG blocks=0x9FF20; ENG source rows=0x9FF20#12; block_semantic_score=0.202673.

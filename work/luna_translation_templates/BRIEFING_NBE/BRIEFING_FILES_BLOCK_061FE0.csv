@@ -1,0 +1,211 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_061FE0,0,stream=0x61000;block=0xFE0;text=0,"[""stream=0x61000;block=0xFE0;text=0""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]",,"ねえ、スネーク、レーションにお菓子を入れたりはしない
+の？
+","考えたこともないな。なんでだ？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"告诉我，Snake，
+你有没有在口粮里加过甜食？","[""告诉我，Snake，\n你有没有在口粮里加过甜食？""]","Tell me, Snake, do you ever put sweets in your
+rations?
+","[""Tell me, Snake, do you ever put sweets in your\nrations?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#0; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,1,stream=0x61000;block=0xFE0;text=1,"[""stream=0x61000;block=0xFE0;text=1""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","ねえ、スネーク、レーションにお菓子を入れたりはしない
+の？
+","考えたこともないな。なんでだ？
+","お菓子大好きなの！　フランスのお菓子は、そりゃあ美味
+しいんだから。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,以前从没想过。怎么了？,"[""以前从没想过。怎么了？""]","Never thought about it before. Why?
+","[""Never thought about it before. Why?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#1; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,2,stream=0x61000;block=0xFE0;text=2,"[""stream=0x61000;block=0xFE0;text=2""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","考えたこともないな。なんでだ？
+","お菓子大好きなの！　フランスのお菓子は、そりゃあ美味
+しいんだから。
+","クレープでしょ、<R=シュークリーム,シュー・ア・ラ・クレーム >に<R=エクレア,エクレール>、マドレーヌ
+に<R=フィナンシェ,フィナンシエ>…。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我就是喜欢甜食！
+法式甜点真是美味极了。","[""我就是喜欢甜食！\n法式甜点真是美味极了。""]","I simply love them! French sweets are très délicieux.
+","[""I simply love them! French sweets are très délicieux.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#2; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,3,stream=0x61000;block=0xFE0;text=3,"[""stream=0x61000;block=0xFE0;text=3""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","お菓子大好きなの！　フランスのお菓子は、そりゃあ美味
+しいんだから。
+","クレープでしょ、<R=シュークリーム,シュー・ア・ラ・クレーム >に<R=エクレア,エクレール>、マドレーヌ
+に<R=フィナンシェ,フィナンシエ>…。
+","それとタルト・タタン。サヴァランも外せないな。<R=ミルフィーユ,ミル・フイユ>、
+クレープ、ブラン・マンジェ…。
+","[""<R=シュークリーム,シュー・ア・ラ・クレーム >"", ""<R=エクレア,エクレール>"", ""<R=フィナンシェ,フィナンシエ>""]",,,NOT_CHECKED,192,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,人人都知道可丽饼，但还有泡芙，,"[""人人都知道可丽饼，但还有泡芙，""]","Everyone knows crêpes, but there are also
+profiteroles,
+","[""Everyone knows crêpes, but there are also\nprofiteroles,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#3; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,4,stream=0x61000;block=0xFE0;text=4,"[""stream=0x61000;block=0xFE0;text=4""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","クレープでしょ、<R=シュークリーム,シュー・ア・ラ・クレーム >に<R=エクレア,エクレール>、マドレーヌ
+に<R=フィナンシェ,フィナンシエ>…。
+","それとタルト・タタン。サヴァランも外せないな。<R=ミルフィーユ,ミル・フイユ>、
+クレープ、ブラン・マンジェ…。
+","クレープ、2回目だ。
+","[""<R=ミルフィーユ,ミル・フイユ>""]",,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"闪电泡芙、玛德琳蛋糕、费南雪…还有反烤苹果塔，
+也不能忘了萨瓦兰蛋糕。哦，还有千层酥、可丽饼、牛奶冻…","[""闪电泡芙、玛德琳蛋糕、费南雪…还有反烤苹果塔，\n也不能忘了萨瓦兰蛋糕。哦，还有千层酥、可丽饼、牛奶冻…""]","éclairs, madeleines, financiers...
+Then there's Tarte Tatins, and you can't forget
+savarins.
+Oh, and mille-feuilles, crêpes, blancmanges...
+","[""éclairs, madeleines, financiers...\nThen there's Tarte Tatins, and you can't forget\nsavarins.\nOh, and mille-feuilles, crêpes, blancmanges...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:3; JPN blocks=0x61FE0; ENG blocks=0xEF830,0xEF830,0xEF830; ENG source rows=0xEF830#4,0xEF830#5,0xEF830#6; block_semantic_score=0.089001."
+BRIEFING_FILES_BLOCK_061FE0,5,stream=0x61000;block=0xFE0;text=5,"[""stream=0x61000;block=0xFE0;text=5""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","それとタルト・タタン。サヴァランも外せないな。<R=ミルフィーユ,ミル・フイユ>、
+クレープ、ブラン・マンジェ…。
+","クレープ、2回目だ。
+","スフレ、クロカンブッシュ、カヌレ、フロランタン、クイ
+ニーアマン、ペーシュ・メルバ……。
+",[],,,NOT_CHECKED,29,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你刚才已经说过可丽饼了。,"[""你刚才已经说过可丽饼了。""]","You already mentioned crêpes.
+","[""You already mentioned crêpes.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#7; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,6,stream=0x61000;block=0xFE0;text=6,"[""stream=0x61000;block=0xFE0;text=6""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","クレープ、2回目だ。
+","スフレ、クロカンブッシュ、カヌレ、フロランタン、クイ
+ニーアマン、ペーシュ・メルバ……。
+","終わったか？
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"舒芙蕾、泡芙塔、可露丽、佛罗伦汀、
+布列塔尼黄油蛋糕、蜜桃梅尔巴…","[""舒芙蕾、泡芙塔、可露丽、佛罗伦汀、\n布列塔尼黄油蛋糕、蜜桃梅尔巴…""]","Soufflés, croquembouches, canelés, floretins, kouign
+amanns, Peach Melbas...
+","[""Soufflés, croquembouches, canelés, floretins, kouign\namanns, Peach Melbas...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#8; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,7,stream=0x61000;block=0xFE0;text=7,"[""stream=0x61000;block=0xFE0;text=7""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","スフレ、クロカンブッシュ、カヌレ、フロランタン、クイ
+ニーアマン、ペーシュ・メルバ……。
+","終わったか？
+","……それにマカロン！　私、マカロンが一番好きなの。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说完了吗？,"[""说完了吗？""]","Finished?
+","[""Finished?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#9; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,8,stream=0x61000;block=0xFE0;text=8,"[""stream=0x61000;block=0xFE0;text=8""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","終わったか？
+","……それにマカロン！　私、マカロンが一番好きなの。
+","それもやっぱり<R=マカロン・パリジャン,macaron parisien>が最高ね。カラフル
+で見た目も可愛いし、メレンゲを使ってるからとっても口
+溶けがいいの。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…还有马卡龙！我最喜欢那个了。,"[""…还有马卡龙！我最喜欢那个了。""]","...And macarons! I love those the most.
+","[""...And macarons! I love those the most.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#10; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,9,stream=0x61000;block=0xFE0;text=9,"[""stream=0x61000;block=0xFE0;text=9""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","……それにマカロン！　私、マカロンが一番好きなの。
+","それもやっぱり<R=マカロン・パリジャン,macaron parisien>が最高ね。カラフル
+で見た目も可愛いし、メレンゲを使ってるからとっても口
+溶けがいいの。
+","意外だな。マカロンがフランスでもそんなに人気だったと
+は。
+","[""<R=マカロン・パリジャン,macaron parisien>""]",,,NOT_CHECKED,201,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"巴黎的马卡龙最棒了。
+它们又可爱又色彩缤纷，","[""巴黎的马卡龙最棒了。\n它们又可爱又色彩缤纷，""]","Macarons parisiens are the best.They're so cute
+and colorful,
+","[""Macarons parisiens are the best.They're so cute\nand colorful,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#11; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,10,stream=0x61000;block=0xFE0;text=10,"[""stream=0x61000;block=0xFE0;text=10""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","それもやっぱり<R=マカロン・パリジャン,macaron parisien>が最高ね。カラフル
+で見た目も可愛いし、メレンゲを使ってるからとっても口
+溶けがいいの。
+","意外だな。マカロンがフランスでもそんなに人気だったと
+は。
+","フランスでも…？
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哇，我不知道马卡隆在
+法国也这么受欢迎。","[""哇，我不知道马卡隆在\n法国也这么受欢迎。""]","Wow. I'd no idea macaroons were that popular in
+France, too.
+","[""Wow. I'd no idea macaroons were that popular in\nFrance, too.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#13; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,11,stream=0x61000;block=0xFE0;text=11,"[""stream=0x61000;block=0xFE0;text=11""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","意外だな。マカロンがフランスでもそんなに人気だったと
+は。
+","フランスでも…？
+","ああ。<R=マカロン,macaroon>…ココナッツ味のクッキーだろ？
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么叫“在法国也”？,"[""什么叫“在法国也”？""]","What do you mean ""in France, too""?
+","[""What do you mean \""in France, too\""?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#14; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,12,stream=0x61000;block=0xFE0;text=12,"[""stream=0x61000;block=0xFE0;text=12""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","フランスでも…？
+","ああ。<R=マカロン,macaroon>…ココナッツ味のクッキーだろ？
+","違うわよ！　マカロンに入ってるのは<R=アーモンドパウダー,プードル・ダマンド>。
+","[""<R=マカロン,macaroon>""]",,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,马卡隆不就是那种椰子味的饼干吗？,"[""马卡隆不就是那种椰子味的饼干吗？""]","Macaroons are those coconut-flavored cookies,
+right?
+","[""Macaroons are those coconut-flavored cookies,\nright?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#15; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,13,stream=0x61000;block=0xFE0;text=13,"[""stream=0x61000;block=0xFE0;text=13""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","ああ。<R=マカロン,macaroon>…ココナッツ味のクッキーだろ？
+","違うわよ！　マカロンに入ってるのは<R=アーモンドパウダー,プードル・ダマンド>。
+","ピーナッツじゃなかったか？　俺も日本で何回か食べたぞ。
+名前も「まころん」だと思ったが。
+","[""<R=アーモンドパウダー,プードル・ダマンド>""]",,,NOT_CHECKED,114,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你搞错了吧！马卡龙是用
+杏仁粉做的，不是椰子！","[""你搞错了吧！马卡龙是用\n杏仁粉做的，不是椰子！""]","Excuse you! Macarons contains almond powder, not
+coconuts!
+","[""Excuse you! Macarons contains almond powder, not\ncoconuts!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#16; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,14,stream=0x61000;block=0xFE0;text=14,"[""stream=0x61000;block=0xFE0;text=14""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","違うわよ！　マカロンに入ってるのは<R=アーモンドパウダー,プードル・ダマンド>。
+","ピーナッツじゃなかったか？　俺も日本で何回か食べたぞ。
+名前も「まころん」だと思ったが。
+","まころん？　そ…それはきっとフランスの真似よ。いい？　
+フランスのマカロンは由緒あるお菓子なんだから。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"马卡龙里面不是有花生吗？
+我在日本吃过几次。","[""马卡龙里面不是有花生吗？\n我在日本吃过几次。""]","Don't they have peanuts in them? I've had them in
+Japan a few times.
+","[""Don't they have peanuts in them? I've had them in\nJapan a few times.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#17; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,15,stream=0x61000;block=0xFE0;text=15,"[""stream=0x61000;block=0xFE0;text=15""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","ピーナッツじゃなかったか？　俺も日本で何回か食べたぞ。
+名前も「まころん」だと思ったが。
+","まころん？　そ…それはきっとフランスの真似よ。いい？　
+フランスのマカロンは由緒あるお菓子なんだから。
+","遡ること16世紀、フィレンツェのメディチ家から、カトリ
+ーヌって娘がフランス王家に嫁いで来たの。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我以为它们叫“马卡隆”呢。“马卡隆”？我敢肯定那
+是什么廉价仿冒品。法式马卡龙可有着悠久而辉煌的历史。","[""我以为它们叫“马卡隆”呢。“马卡隆”？我敢肯定那\n是什么廉价仿冒品。法式马卡龙可有着悠久而辉煌的历史。""]","I thought they were called ""makorons.""
+Makarons? Some cheap imitation, I am sure.
+French macarons have a long and distinguished
+history.
+","[""I thought they were called \""makorons.\""\nMakarons? Some cheap imitation, I am sure.\nFrench macarons have a long and distinguished\nhistory.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:3; JPN blocks=0x61FE0; ENG blocks=0xEF830,0xEF830,0xEF830; ENG source rows=0xEF830#18,0xEF830#19,0xEF830#20; block_semantic_score=0.089001."
+BRIEFING_FILES_BLOCK_061FE0,16,stream=0x61000;block=0xFE0;text=16,"[""stream=0x61000;block=0xFE0;text=16""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","まころん？　そ…それはきっとフランスの真似よ。いい？　
+フランスのマカロンは由緒あるお菓子なんだから。
+","遡ること16世紀、フィレンツェのメディチ家から、カトリ
+ーヌって娘がフランス王家に嫁いで来たの。
+","その彼女が連れてきた<R=菓子職人,パティシエ>が作り方を伝えたのが始ま
+りって話。
+",[],,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"它们的历史可以追溯到16世纪，
+当时佛罗伦萨的Catherine de' Medici嫁入了法国王室。","[""它们的历史可以追溯到16世纪，\n当时佛罗伦萨的Catherine de' Medici嫁入了法国王室。""]","They date back to the 16th century, when
+Catherine de' Medici of Florence
+married into the French royal family.
+","[""They date back to the 16th century, when\nCatherine de' Medici of Florence\nmarried into the French royal family.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x61FE0; ENG blocks=0xEF830,0xEF830; ENG source rows=0xEF830#21,0xEF830#22; block_semantic_score=0.089001."
+BRIEFING_FILES_BLOCK_061FE0,17,stream=0x61000;block=0xFE0;text=17,"[""stream=0x61000;block=0xFE0;text=17""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","遡ること16世紀、フィレンツェのメディチ家から、カトリ
+ーヌって娘がフランス王家に嫁いで来たの。
+","その彼女が連れてきた<R=菓子職人,パティシエ>が作り方を伝えたのが始ま
+りって話。
+","どう？　500年近くの歴史があるのよ。
+","[""<R=菓子職人,パティシエ>""]",,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"据说她的糕点师傅们到了法国后，
+就把配方分享了出来。","[""据说她的糕点师傅们到了法国后，\n就把配方分享了出来。""]","The story goes that her pâtissiers shared the
+recipe after they arrived.
+","[""The story goes that her pâtissiers shared the\nrecipe after they arrived.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#23; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,18,stream=0x61000;block=0xFE0;text=18,"[""stream=0x61000;block=0xFE0;text=18""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","その彼女が連れてきた<R=菓子職人,パティシエ>が作り方を伝えたのが始ま
+りって話。
+","どう？　500年近くの歴史があるのよ。
+","フィレンツェのメディチ家からって、それじゃあ、元はイ
+タリアの菓子じゃないか。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那可是超过500年的历史了。,"[""那可是超过500年的历史了。""]","That's a history of over 500 years.
+","[""That's a history of over 500 years.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#24; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,19,stream=0x61000;block=0xFE0;text=19,"[""stream=0x61000;block=0xFE0;text=19""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","どう？　500年近くの歴史があるのよ。
+","フィレンツェのメディチ家からって、それじゃあ、元はイ
+タリアの菓子じゃないか。
+","あ…。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以…它们其实是起源于意大利喽？,"[""所以…它们其实是起源于意大利喽？""]","So... they're originally from Italy, then.
+","[""So... they're originally from Italy, then.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#25; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,20,stream=0x61000;block=0xFE0;text=20,"[""stream=0x61000;block=0xFE0;text=20""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","フィレンツェのメディチ家からって、それじゃあ、元はイ
+タリアの菓子じゃないか。
+","あ…。
+","こっちの<R=マカロン,macaroon>もおおかた、イタリアのが元なんじゃな
+いか？
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯…,"[""嗯…""]","Well...
+","[""Well...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#26; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,21,stream=0x61000;block=0xFE0;text=21,"[""stream=0x61000;block=0xFE0;text=21""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","あ…。
+","こっちの<R=マカロン,macaroon>もおおかた、イタリアのが元なんじゃな
+いか？
+","そ…そんなこと…。
+","[""<R=マカロン,macaroon>""]",,,NOT_CHECKED,102,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,马卡隆不也是来自意大利吗？,"[""马卡隆不也是来自意大利吗？""]","Don't macaroons come from Italy, too?
+","[""Don't macaroons come from Italy, too?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#27; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,22,stream=0x61000;block=0xFE0;text=22,"[""stream=0x61000;block=0xFE0;text=22""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","こっちの<R=マカロン,macaroon>もおおかた、イタリアのが元なんじゃな
+いか？
+","そ…そんなこと…。
+","そういや<R=マカロン,macaron>って名前、<R=マカロニ,macaroni>と似てるしな。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你听我说，我真不觉得…,"[""你听我说，我真不觉得…""]","Look, I do not really think...
+","[""Look, I do not really think...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#28; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,23,stream=0x61000;block=0xFE0;text=23,"[""stream=0x61000;block=0xFE0;text=23""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","そ…そんなこと…。
+","そういや<R=マカロン,macaron>って名前、<R=マカロニ,macaroni>と似てるしな。
+","違いない。
+","[""<R=マカロン,macaron>"", ""<R=マカロニ,macaroni>""]",,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别忘了“马卡龙”和“马卡罗尼”
+几乎一模一样。","[""别忘了“马卡龙”和“马卡罗尼”\n几乎一模一样。""]","Keep in mind ""macaron"" is almost identical to
+""macaroni.""
+","[""Keep in mind \""macaron\"" is almost identical to\n\""macaroni.\""\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#29; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,24,stream=0x61000;block=0xFE0;text=24,"[""stream=0x61000;block=0xFE0;text=24""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","そういや<R=マカロン,macaron>って名前、<R=マカロニ,macaroni>と似てるしな。
+","違いない。
+","…信じられない。マカロンとマカロニを一緒にするなんて
+…ミラーさんって無神経なのね！
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那不就得了。,"[""那不就得了。""]","Well, that settles it.
+","[""Well, that settles it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#30; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,25,stream=0x61000;block=0xFE0;text=25,"[""stream=0x61000;block=0xFE0;text=25""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","違いない。
+","…信じられない。マカロンとマカロニを一緒にするなんて
+…ミラーさんって無神経なのね！
+","な、なんで俺だけ…おーい待ってくれ、セシール！
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…我简直不敢相信。
+居然把马卡龙和马卡罗尼相提并论！","[""…我简直不敢相信。\n居然把马卡龙和马卡罗尼相提并论！""]","...I cannot believe this. To associate macarons with
+macaroni!
+","[""...I cannot believe this. To associate macarons with\nmacaroni!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#31; block_semantic_score=0.089001.
+BRIEFING_FILES_BLOCK_061FE0,26,stream=0x61000;block=0xFE0;text=26,"[""stream=0x61000;block=0xFE0;text=26""]",1,BRIEFING FILES,"[""stream=0x61000;block=0xFE0;block_file=0x61FE0;text_base=0x6206C;capacity=2528""]","…信じられない。マカロンとマカロニを一緒にするなんて
+…ミラーさんって無神経なのね！
+","な、なんで俺だけ…おーい待ってくれ、セシール！
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你，Miller先生，
+真是个麻木不仁的蠢货！","[""你，Miller先生，\n真是个麻木不仁的蠢货！""]","You, Monsieur Miller, are an insensible oaf!
+","[""You, Monsieur Miller, are an insensible oaf!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x61FE0; ENG blocks=0xEF830; ENG source rows=0xEF830#32; block_semantic_score=0.089001.

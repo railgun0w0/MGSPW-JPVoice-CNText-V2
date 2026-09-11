@@ -1,0 +1,111 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_05C930,0,stream=0x5C000;block=0x930;text=0,"[""stream=0x5C000;block=0x930;text=0""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]",,"さっき言ってた猿の鳴き真似だが…。
+","聞きたい？
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你说过你会学猴子叫。,"[""你说过你会学猴子叫。""]","You said you could do a monkey call.
+","[""You said you could do a monkey call.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#0; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,1,stream=0x5C000;block=0x930;text=1,"[""stream=0x5C000;block=0x930;text=1""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","さっき言ってた猿の鳴き真似だが…。
+","聞きたい？
+","いや、気になって、聞いておかないと座りが悪くてな。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是的！想听听看吗？,"[""是的！想听听看吗？""]","Yes! Want to hear it?
+","[""Yes! Want to hear it?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#1; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,2,stream=0x5C000;block=0x930;text=2,"[""stream=0x5C000;block=0x930;text=2""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","聞きたい？
+","いや、気になって、聞いておかないと座りが悪くてな。
+","それじゃ、いくわよ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，不学会的话我会一直惦记着。,"[""嗯，不学会的话我会一直惦记着。""]","Yeah, I won't be able to get it off my mind until I do.
+","[""Yeah, I won't be able to get it off my mind until I do.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#2; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,3,stream=0x5C000;block=0x930;text=3,"[""stream=0x5C000;block=0x930;text=3""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","いや、気になって、聞いておかないと座りが悪くてな。
+","それじゃ、いくわよ。
+","上手いもんだ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好吧，那我就来一段。,"[""好吧，那我就来一段。""]","Alright. Here it is, then.
+","[""Alright. Here it is, then.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#3; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,4,stream=0x5C000;block=0x930;text=4,"[""stream=0x5C000;block=0x930;text=4""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","それじゃ、いくわよ。
+","上手いもんだ。
+","他にはね、羊とか、豚とか…。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…还真不错。,"[""…还真不错。""]","...That's pretty good.
+","[""...That's pretty good.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#4; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,5,stream=0x5C000;block=0x930;text=5,"[""stream=0x5C000;block=0x930;text=5""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","上手いもんだ。
+","他にはね、羊とか、豚とか…。
+","羊と豚？
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我还会学别的，比如羊、猪…,"[""我还会学别的，比如羊、猪…""]","I can do others, too. Like a sheep, a pig...
+","[""I can do others, too. Like a sheep, a pig...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#5; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,6,stream=0x5C000;block=0x930;text=6,"[""stream=0x5C000;block=0x930;text=6""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","他にはね、羊とか、豚とか…。
+","羊と豚？
+","おおっ。豚は？
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是吗？,"[""是吗？""]","Yeah?
+","[""Yeah?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#6; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,7,stream=0x5C000;block=0x930;text=7,"[""stream=0x5C000;block=0x930;text=7""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","羊と豚？
+","おおっ。豚は？
+","そっくりだ！
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哇，那猪呢？,"[""哇，那猪呢？""]","Wow. What about a pig?
+","[""Wow. What about a pig?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#7; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,8,stream=0x5C000;block=0x930;text=8,"[""stream=0x5C000;block=0x930;text=8""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","おおっ。豚は？
+","そっくりだ！
+","そう？　あとはねえ、ゴリラなんかもあるんだから！
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这也太像了吧！,"[""这也太像了吧！""]","That's uncanny!
+","[""That's uncanny!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#8; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,9,stream=0x5C000;block=0x930;text=9,"[""stream=0x5C000;block=0x930;text=9""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","そっくりだ！
+","そう？　あとはねえ、ゴリラなんかもあるんだから！
+","ゴリラ？　ゴリラ鳴くのか？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哈哈，兔子叫我也会学。,"[""哈哈，兔子叫我也会学。""]","Ha ha. I can do a rabbit as well.
+","[""Ha ha. I can do a rabbit as well.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#9; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,10,stream=0x5C000;block=0x930;text=10,"[""stream=0x5C000;block=0x930;text=10""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","そう？　あとはねえ、ゴリラなんかもあるんだから！
+","ゴリラ？　ゴリラ鳴くのか？
+","ほう！
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,兔子？兔子也会叫吗？,"[""兔子？兔子也会叫吗？""]","A rabbit? Rabbits make noises?
+","[""A rabbit? Rabbits make noises?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#10; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,11,stream=0x5C000;block=0x930;text=11,"[""stream=0x5C000;block=0x930;text=11""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","ゴリラ？　ゴリラ鳴くのか？
+","ほう！
+","それからね、ウサギの真似なんかも…。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然会，不过声音很轻，,"[""当然会，不过声音很轻，""]","Certainly. But they're very faint,
+","[""Certainly. But they're very faint,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#11; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,12,stream=0x5C000;block=0x930;text=12,"[""stream=0x5C000;block=0x930;text=12""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","ほう！
+","それからね、ウサギの真似なんかも…。
+","ウサギ？　ウサギ鳴くのか！？
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_05C930,13,stream=0x5C000;block=0x930;text=13,"[""stream=0x5C000;block=0x930;text=13""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","それからね、ウサギの真似なんかも…。
+","ウサギ？　ウサギ鳴くのか！？
+","ええ。でも、すごく小さな声だから、飼ったことがないと
+あまりわからないかも。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以大概只有养过的人才能听得出来。,"[""所以大概只有养过的人才能听得出来。""]","so perhaps only someone who has owned one
+would recognize them.
+","[""so perhaps only someone who has owned one\nwould recognize them.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#12; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,14,stream=0x5C000;block=0x930;text=14,"[""stream=0x5C000;block=0x930;text=14""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","ウサギ？　ウサギ鳴くのか！？
+","ええ。でも、すごく小さな声だから、飼ったことがないと
+あまりわからないかも。
+","へえ。あ、そうか。どんな鳴き声なんだ？
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_05C930,15,stream=0x5C000;block=0x930;text=15,"[""stream=0x5C000;block=0x930;text=15""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","ええ。でも、すごく小さな声だから、飼ったことがないと
+あまりわからないかも。
+","へえ。あ、そうか。どんな鳴き声なんだ？
+","それじゃ、耳を澄ませて。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这样啊，那它们的叫声是什么样的？,"[""这样啊，那它们的叫声是什么样的？""]","I see. So what do they sound like?
+","[""I see. So what do they sound like?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#13; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,16,stream=0x5C000;block=0x930;text=16,"[""stream=0x5C000;block=0x930;text=16""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","へえ。あ、そうか。どんな鳴き声なんだ？
+","それじゃ、耳を澄ませて。
+","ああ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,仔细听好了。,"[""仔细听好了。""]","Listen very carefully.
+","[""Listen very carefully.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#14; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,17,stream=0x5C000;block=0x930;text=17,"[""stream=0x5C000;block=0x930;text=17""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","それじゃ、耳を澄ませて。
+","ああ。
+","なんだ、それは？　ウサギはそんな声で鳴くのか！？
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],"OK.
+","[""OK.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#15; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,18,stream=0x5C000;block=0x930;text=18,"[""stream=0x5C000;block=0x930;text=18""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","ああ。
+","なんだ、それは？　ウサギはそんな声で鳴くのか！？
+","本当よ、本当にこう鳴くんだから！　いい？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真的假的？兔子的叫声是那样的？,"[""真的假的？兔子的叫声是那样的？""]","Seriously? Rabbits sound like that?
+","[""Seriously? Rabbits sound like that?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#16; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,19,stream=0x5C000;block=0x930;text=19,"[""stream=0x5C000;block=0x930;text=19""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","なんだ、それは？　ウサギはそんな声で鳴くのか！？
+","本当よ、本当にこう鳴くんだから！　いい？
+","聞いたことがないな…。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我跟你保证真的会叫，再听一次。,"[""我跟你保证真的会叫，再听一次。""]","I assure you, they do. Listen again.
+","[""I assure you, they do. Listen again.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#17; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,20,stream=0x5C000;block=0x930;text=20,"[""stream=0x5C000;block=0x930;text=20""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","本当よ、本当にこう鳴くんだから！　いい？
+","聞いたことがないな…。
+","本当なの！
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我还从没听过兔子发出那种声音。,"[""我还从没听过兔子发出那种声音。""]","Never heard a rabbit do that before.
+","[""Never heard a rabbit do that before.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#18; block_semantic_score=0.060582.
+BRIEFING_FILES_BLOCK_05C930,21,stream=0x5C000;block=0x930;text=21,"[""stream=0x5C000;block=0x930;text=21""]",1,BRIEFING FILES,"[""stream=0x5C000;block=0x930;block_file=0x5C930;text_base=0x5C9A8;capacity=940""]","聞いたことがないな…。
+","本当なの！
+",,[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真的会叫，我发誓！,"[""真的会叫，我发誓！""]","They do, I swear!
+","[""They do, I swear!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x5C930; ENG blocks=0xE9630; ENG source rows=0xE9630#19; block_semantic_score=0.060582.

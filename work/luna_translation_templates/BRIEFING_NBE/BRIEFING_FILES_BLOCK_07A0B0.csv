@@ -1,0 +1,680 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_07A0B0,0,stream=0x7A000;block=0xB0;text=0,"[""stream=0x7A000;block=0xB0;text=0""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]",,"私は彼女の搭乗に反対した。宇宙線の遮断が不十分だとレ
+ポートを書いて提出した。
+","だが、上層部の答えはこうだった「<R=彼女,ザ・ボス>は、ネヴァダで既
+に被曝している。だから適任だ」。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,并提交报告，指出射线防护不足。,"[""并提交报告，指出射线防护不足。""]","submitting a report stating the ray shielding was
+inadequate.
+","[""submitting a report stating the ray shielding was\ninadequate.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#1; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,1,stream=0x7A000;block=0xB0;text=1,"[""stream=0x7A000;block=0xB0;text=1""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","私は彼女の搭乗に反対した。宇宙線の遮断が不十分だとレ
+ポートを書いて提出した。
+","だが、上層部の答えはこうだった「<R=彼女,ザ・ボス>は、ネヴァダで既
+に被曝している。だから適任だ」。
+","あまりに不合理だった。被曝が蓄積されれば、危険度はよ
+り高まる。
+","[""<R=彼女,ザ・ボス>""]",,,NOT_CHECKED,145,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但高层的回复却十分生硬：「她已经经历过内华达州的核试验。
+她是完美的人选。」","[""但高层的回复却十分生硬：「她已经经历过内华达州的核试验。\n她是完美的人选。」""]","But the brass's response was brusque:
+""She's already been exposed to a nuclear test in
+Nevada. She's the perfect candidate.""
+","[""But the brass's response was brusque:\n\""She's already been exposed to a nuclear test in\nNevada. She's the perfect candidate.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#2,0x104860#3; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,2,stream=0x7A000;block=0xB0;text=2,"[""stream=0x7A000;block=0xB0;text=2""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だが、上層部の答えはこうだった「<R=彼女,ザ・ボス>は、ネヴァダで既
+に被曝している。だから適任だ」。
+","あまりに不合理だった。被曝が蓄積されれば、危険度はよ
+り高まる。
+","だが、スプートニク・ショックから立ち直れない政府の連
+中に、理性的な判断は望むべくもなかった。彼らはそれほ
+どまでに焦っていた。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这完全不合理。,"[""这完全不合理。""]","It was completely irrational.
+","[""It was completely irrational.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#4; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,3,stream=0x7A000;block=0xB0;text=3,"[""stream=0x7A000;block=0xB0;text=3""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","あまりに不合理だった。被曝が蓄積されれば、危険度はよ
+り高まる。
+","だが、スプートニク・ショックから立ち直れない政府の連
+中に、理性的な判断は望むべくもなかった。彼らはそれほ
+どまでに焦っていた。
+","ヒトは目に見えないものに、余りにも鈍感だ。だが、私に
+は身に沁みていた。
+",[],,,NOT_CHECKED,189,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但政府仍因苏联成功发射斯
+普特尼克号而惊魂未定。别指望他们能给出理性的回应。
+他们只是太恐慌了。","[""但政府仍因苏联成功发射斯\n普特尼克号而惊魂未定。别指望他们能给出理性的回应。\n他们只是太恐慌了。""]","But the government was still reeling from the
+Soviets' success with Sputnik.
+There was no hope of getting a rational response.
+They were simply too panicked.
+","[""But the government was still reeling from the\nSoviets' success with Sputnik.\nThere was no hope of getting a rational response.\nThey were simply too panicked.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#6,0x104860#7; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,4,stream=0x7A000;block=0xB0;text=4,"[""stream=0x7A000;block=0xB0;text=4""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だが、スプートニク・ショックから立ち直れない政府の連
+中に、理性的な判断は望むべくもなかった。彼らはそれほ
+どまでに焦っていた。
+","ヒトは目に見えないものに、余りにも鈍感だ。だが、私に
+は身に沁みていた。
+","目に見えない紫外線が私の肌を灼くように、宇宙からの重
+粒子線は、不可逆なダメージを人間に与えるだろう。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,人对于看不见的事物总是如此愚钝。,"[""人对于看不见的事物总是如此愚钝。""]","People can be so obtuse when it comes to things
+they can't see.
+","[""People can be so obtuse when it comes to things\nthey can't see.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#8; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,5,stream=0x7A000;block=0xB0;text=5,"[""stream=0x7A000;block=0xB0;text=5""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","ヒトは目に見えないものに、余りにも鈍感だ。だが、私に
+は身に沁みていた。
+","目に見えない紫外線が私の肌を灼くように、宇宙からの重
+粒子線は、不可逆なダメージを人間に与えるだろう。
+","要は彼女を使い捨てにすると言うことだ。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"正如看不见的紫外线灼伤了我的皮肤，来自太空的重粒子辐射也会对
+人体组织造成不可修复的伤害。","[""正如看不见的紫外线灼伤了我的皮肤，来自太空的重粒子辐射也会对\n人体组织造成不可修复的伤害。""]","Just as invisible ultraviolet radiation scorched my
+skin,
+heavy particle radiation from space would cause
+irreparable harm to human tissue.
+","[""Just as invisible ultraviolet radiation scorched my\nskin,\nheavy particle radiation from space would cause\nirreparable harm to human tissue.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#10,0x104860#11; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,6,stream=0x7A000;block=0xB0;text=6,"[""stream=0x7A000;block=0xB0;text=6""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","目に見えない紫外線が私の肌を灼くように、宇宙からの重
+粒子線は、不可逆なダメージを人間に与えるだろう。
+","要は彼女を使い捨てにすると言うことだ。
+","飛行を控えた身体チェック。その際に私は、ザ・ボスの頭
+蓋X線写真に、奇妙な点を見つけた。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就是在The Boss的飞行前体检时，,"[""就是在The Boss的飞行前体检时，""]","It was during The Boss's pre-flight checkup
+","[""It was during The Boss's pre-flight checkup\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#13; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,7,stream=0x7A000;block=0xB0;text=7,"[""stream=0x7A000;block=0xB0;text=7""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","要は彼女を使い捨てにすると言うことだ。
+","飛行を控えた身体チェック。その際に私は、ザ・ボスの頭
+蓋X線写真に、奇妙な点を見つけた。
+","大脳右半球の一部が欠損しているのだ。
+",[],,,NOT_CHECKED,129,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我在她头骨的X光片上发现了异常。,"[""我在她头骨的X光片上发现了异常。""]","that I noticed something strange on the X-ray of
+her skull.
+","[""that I noticed something strange on the X-ray of\nher skull.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#14; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,8,stream=0x7A000;block=0xB0;text=8,"[""stream=0x7A000;block=0xB0;text=8""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","飛行を控えた身体チェック。その際に私は、ザ・ボスの頭
+蓋X線写真に、奇妙な点を見つけた。
+","大脳右半球の一部が欠損しているのだ。
+","彼女の聡明さと驚異的な身体能力からすれば不可解だった
+が、ともかくも私はそれを報告することにした。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她大脑右半球的一部分受损了。,"[""她大脑右半球的一部分受损了。""]","Part of the right hemisphere of her brain was
+damaged.
+","[""Part of the right hemisphere of her brain was\ndamaged.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#15; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,9,stream=0x7A000;block=0xB0;text=9,"[""stream=0x7A000;block=0xB0;text=9""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","大脳右半球の一部が欠損しているのだ。
+","彼女の聡明さと驚異的な身体能力からすれば不可解だった
+が、ともかくも私はそれを報告することにした。
+","彼女の身体に異常が見つかれば、飛行は取りやめになると
+思ったから。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"鉴于她敏锐的智力和惊人的体能，
+这简直无法解释。","[""鉴于她敏锐的智力和惊人的体能，\n这简直无法解释。""]","It seemed inexplicable given her keen intelligence
+and amazing physical prowess.
+","[""It seemed inexplicable given her keen intelligence\nand amazing physical prowess.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#16; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,10,stream=0x7A000;block=0xB0;text=10,"[""stream=0x7A000;block=0xB0;text=10""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼女の聡明さと驚異的な身体能力からすれば不可解だった
+が、ともかくも私はそれを報告することにした。
+","彼女の身体に異常が見つかれば、飛行は取りやめになると
+思ったから。
+","…だが、報告へ向かう私を、彼女自身が押しとどめた。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我希望，也许我发现的这个身体缺陷能导致这次飞行被取消。,"[""我希望，也许我发现的这个身体缺陷能导致这次飞行被取消。""]","I hoped that perhaps my discovery of a physical
+defect
+would result in the flight being canceled.
+","[""I hoped that perhaps my discovery of a physical\ndefect\nwould result in the flight being canceled.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#18,0x104860#19; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,11,stream=0x7A000;block=0xB0;text=11,"[""stream=0x7A000;block=0xB0;text=11""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼女の身体に異常が見つかれば、飛行は取りやめになると
+思ったから。
+","…だが、報告へ向かう私を、彼女自身が押しとどめた。
+","「なぜ？　このままモルモットになるつもりなの！？」。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…但正当我准备去报告
+时，她拦住了我。","[""…但正当我准备去报告\n时，她拦住了我。""]","...But as I went to make my report, she stopped me.
+","[""...But as I went to make my report, she stopped me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#20; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,12,stream=0x7A000;block=0xB0;text=12,"[""stream=0x7A000;block=0xB0;text=12""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","…だが、報告へ向かう私を、彼女自身が押しとどめた。
+","「なぜ？　このままモルモットになるつもりなの！？」。
+","そう詰め寄る私を、彼女は研究所の屋上に誘った。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"「为什么？」我质问道。
+「你怎么能让他们拿你当实验品？！」","[""「为什么？」我质问道。\n「你怎么能让他们拿你当实验品？！」""]","""Why?"" I demanded. ""How can you let yourself be
+their guinea pig?!""
+","[""\""Why?\"" I demanded. \""How can you let yourself be\ntheir guinea pig?!\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#21; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,13,stream=0x7A000;block=0xB0;text=13,"[""stream=0x7A000;block=0xB0;text=13""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「なぜ？　このままモルモットになるつもりなの！？」。
+","そう詰め寄る私を、彼女は研究所の屋上に誘った。
+","満天の星空だった。そこで私は聞いたのだ。彼女が頭に傷
+を負ったわけを。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她没有理会我的抗议，
+带我上了实验室的屋顶。","[""她没有理会我的抗议，\n带我上了实验室的屋顶。""]","Ignoring my protests, she took me up to the roof
+of the lab.
+","[""Ignoring my protests, she took me up to the roof\nof the lab.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#22; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,14,stream=0x7A000;block=0xB0;text=14,"[""stream=0x7A000;block=0xB0;text=14""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","そう詰め寄る私を、彼女は研究所の屋上に誘った。
+","満天の星空だった。そこで私は聞いたのだ。彼女が頭に傷
+を負ったわけを。
+","1943年、ロス・アラモス。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"夜空繁星闪耀。正是在那里，我知道了
+她的头是怎么受伤的。","[""夜空繁星闪耀。正是在那里，我知道了\n她的头是怎么受伤的。""]","The night sky was ablaze with stars.
+It was there that I learned how she had wounded
+her head.
+","[""The night sky was ablaze with stars.\nIt was there that I learned how she had wounded\nher head.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#23,0x104860#24; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,15,stream=0x7A000;block=0xB0;text=15,"[""stream=0x7A000;block=0xB0;text=15""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","満天の星空だった。そこで私は聞いたのだ。彼女が頭に傷
+を負ったわけを。
+","1943年、ロス・アラモス。
+","特殊部隊に所属していた彼女に、一つの指令が下った。
+",[],,,NOT_CHECKED,35,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,1943年，洛斯阿拉莫斯。,"[""1943年，洛斯阿拉莫斯。""]","1943, Los Alamos.
+","[""1943, Los Alamos.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#25; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,16,stream=0x7A000;block=0xB0;text=16,"[""stream=0x7A000;block=0xB0;text=16""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","1943年、ロス・アラモス。
+","特殊部隊に所属していた彼女に、一つの指令が下った。
+","世界初の原爆開発を目指すマンハッタン計画。その科学者
+の中に、ドイツのスパイがいる。その男を消せ、と。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她当时正在特种部队服役，
+随后接到了新的命令。","[""她当时正在特种部队服役，\n随后接到了新的命令。""]","She was serving with the Special Forces when she
+received new orders.
+","[""She was serving with the Special Forces when she\nreceived new orders.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#26; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,17,stream=0x7A000;block=0xB0;text=17,"[""stream=0x7A000;block=0xB0;text=17""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","特殊部隊に所属していた彼女に、一つの指令が下った。
+","世界初の原爆開発を目指すマンハッタン計画。その科学者
+の中に、ドイツのスパイがいる。その男を消せ、と。
+","科学者の名はフォン・ノイマン。超人的な計算能力を持つ
+数学者にして、爆縮レンズの設計者だ。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"该计划旨在制造世界上第一颗原子弹。
+她的任务是除掉这名间谍。","[""该计划旨在制造世界上第一颗原子弹。\n她的任务是除掉这名间谍。""]","which aimed to build the world's first atomic bomb.
+She was to eliminate him.
+","[""which aimed to build the world's first atomic bomb.\nShe was to eliminate him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#28; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,18,stream=0x7A000;block=0xB0;text=18,"[""stream=0x7A000;block=0xB0;text=18""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","世界初の原爆開発を目指すマンハッタン計画。その科学者
+の中に、ドイツのスパイがいる。その男を消せ、と。
+","科学者の名はフォン・ノイマン。超人的な計算能力を持つ
+数学者にして、爆縮レンズの設計者だ。
+","マンハッタン計画は国家プロジェクトだ。それなりの警護
+もある。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他叫约翰·冯·诺依曼，
+一位拥有超人计算能力的数学家，","[""他叫约翰·冯·诺依曼，\n一位拥有超人计算能力的数学家，""]","His name was John von Neumann, a mathematician
+with superhuman computational abilities,
+","[""His name was John von Neumann, a mathematician\nwith superhuman computational abilities,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#29; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,19,stream=0x7A000;block=0xB0;text=19,"[""stream=0x7A000;block=0xB0;text=19""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","科学者の名はフォン・ノイマン。超人的な計算能力を持つ
+数学者にして、爆縮レンズの設計者だ。
+","マンハッタン計画は国家プロジェクトだ。それなりの警護
+もある。
+","だが、彼らに真相を知られるわけにはいかない。警護の目
+をかいくぐって、事故死に見せかける。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"曼哈顿计划是国家的最高优先事项，
+安保自然十分严密。","[""曼哈顿计划是国家的最高优先事项，\n安保自然十分严密。""]","The Manhattan Project was a top national priority,
+security accordingly tight.
+","[""The Manhattan Project was a top national priority,\nsecurity accordingly tight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#31; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,20,stream=0x7A000;block=0xB0;text=20,"[""stream=0x7A000;block=0xB0;text=20""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","マンハッタン計画は国家プロジェクトだ。それなりの警護
+もある。
+","だが、彼らに真相を知られるわけにはいかない。警護の目
+をかいくぐって、事故死に見せかける。
+","…彼女なら難なくこなせる任務のはずだった。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不能让警卫知道发生了什么事。她必须从他们身边溜过去，
+并让这场死亡看起来像意外。","[""不能让警卫知道发生了什么事。她必须从他们身边溜过去，\n并让这场死亡看起来像意外。""]","The guards couldn't be allowed to know what was
+going on.
+She'd have to slip past them and make the death
+look like an accident.
+","[""The guards couldn't be allowed to know what was\ngoing on.\nShe'd have to slip past them and make the death\nlook like an accident.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#32,0x104860#33; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,21,stream=0x7A000;block=0xB0;text=21,"[""stream=0x7A000;block=0xB0;text=21""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だが、彼らに真相を知られるわけにはいかない。警護の目
+をかいくぐって、事故死に見せかける。
+","…彼女なら難なくこなせる任務のはずだった。
+","だが作戦直前に、彼女は一つの事実を知った。自分の中に
+新たな生命が宿っていることを。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…这本该是一次足够简单的任务。,"[""…这本该是一次足够简单的任务。""]","...It should have been an easy enough mission.
+","[""...It should have been an easy enough mission.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#34; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,22,stream=0x7A000;block=0xB0;text=22,"[""stream=0x7A000;block=0xB0;text=22""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","…彼女なら難なくこなせる任務のはずだった。
+","だが作戦直前に、彼女は一つの事実を知った。自分の中に
+新たな生命が宿っていることを。
+","<R=歓喜,ジョイ>が彼女を包み、同時にそれが一瞬の判断力を喪わせた。
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但就在行动开始前，
+她收到了一条意外的消息：一个新生命正在她体内孕育。","[""但就在行动开始前，\n她收到了一条意外的消息：一个新生命正在她体内孕育。""]","But just before the operation, she received
+unexpected news:
+a new life was growing inside her.
+","[""But just before the operation, she received\nunexpected news:\na new life was growing inside her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#35,0x104860#36; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,23,stream=0x7A000;block=0xB0;text=23,"[""stream=0x7A000;block=0xB0;text=23""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だが作戦直前に、彼女は一つの事実を知った。自分の中に
+新たな生命が宿っていることを。
+","<R=歓喜,ジョイ>が彼女を包み、同時にそれが一瞬の判断力を喪わせた。
+","運悪く警護と撃ち合いになり、とっさにお腹をかばった彼
+女は、頭部に銃弾を受けてしまう……。
+","[""<R=歓喜,ジョイ>""]",,,NOT_CHECKED,96,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她欣喜若狂。而在那一瞬间，
+这份喜悦蒙蔽了她的判断力。","[""她欣喜若狂。而在那一瞬间，\n这份喜悦蒙蔽了她的判断力。""]","She was overcome with joy. And for one brief
+moment, it clouded her judgment.
+","[""She was overcome with joy. And for one brief\nmoment, it clouded her judgment.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#37; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,24,stream=0x7A000;block=0xB0;text=24,"[""stream=0x7A000;block=0xB0;text=24""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","<R=歓喜,ジョイ>が彼女を包み、同時にそれが一瞬の判断力を喪わせた。
+","運悪く警護と撃ち合いになり、とっさにお腹をかばった彼
+女は、頭部に銃弾を受けてしまう……。
+","脳の表面を掠めただけとは言え、銃創周辺は壊死。彼女は
+昏睡状態に陥った。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她意外地与警卫发生了枪战，
+并下意识地护住了腹部。她头部中弹。","[""她意外地与警卫发生了枪战，\n并下意识地护住了腹部。她头部中弹。""]","She accidentally got into a shootout with the
+guards, and without thinking protected her belly.
+She was shot in the head.
+","[""She accidentally got into a shootout with the\nguards, and without thinking protected her belly.\nShe was shot in the head.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#38,0x104860#39; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,25,stream=0x7A000;block=0xB0;text=25,"[""stream=0x7A000;block=0xB0;text=25""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","運悪く警護と撃ち合いになり、とっさにお腹をかばった彼
+女は、頭部に銃弾を受けてしまう……。
+","脳の表面を掠めただけとは言え、銃創周辺は壊死。彼女は
+昏睡状態に陥った。
+","回復は絶望と思われた。だが、3ヶ月後には意識を回復。
+半年後には以前と同じように動けるようになっていたらし
+い。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"子弹只是擦过她大脑的表面，但伤口周围的组织被摧毁，
+使她陷入了昏迷。","[""子弹只是擦过她大脑的表面，但伤口周围的组织被摧毁，\n使她陷入了昏迷。""]","The bullet only grazed the surface of her brain,
+but the tissue around the wound was destroyed,
+leaving her in a coma.
+","[""The bullet only grazed the surface of her brain,\nbut the tissue around the wound was destroyed,\nleaving her in a coma.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#40,0x104860#41; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,26,stream=0x7A000;block=0xB0;text=26,"[""stream=0x7A000;block=0xB0;text=26""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","脳の表面を掠めただけとは言え、銃創周辺は壊死。彼女は
+昏睡状態に陥った。
+","回復は絶望と思われた。だが、3ヶ月後には意識を回復。
+半年後には以前と同じように動けるようになっていたらし
+い。
+","機能代償…喪われた部分の機能を、他の部分が補ったのだ。
+理論的にはあり得る。が、これほどまでの回復は奇跡だ。
+",[],,,NOT_CHECKED,163,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当时她恢复的希望不大。
+但三个月后，她醒了过来。六个月内，她就能像
+没事人一样活动了。","[""当时她恢复的希望不大。\n但三个月后，她醒了过来。六个月内，她就能像\n没事人一样活动了。""]","She wasn't given much chance of recovery. But
+three months later, she woke up.
+Within six, she was able to move around as if
+nothing had happened.
+","[""She wasn't given much chance of recovery. But\nthree months later, she woke up.\nWithin six, she was able to move around as if\nnothing had happened.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#42,0x104860#43; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,27,stream=0x7A000;block=0xB0;text=27,"[""stream=0x7A000;block=0xB0;text=27""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","回復は絶望と思われた。だが、3ヶ月後には意識を回復。
+半年後には以前と同じように動けるようになっていたらし
+い。
+","機能代償…喪われた部分の機能を、他の部分が補ったのだ。
+理論的にはあり得る。が、これほどまでの回復は奇跡だ。
+","彼女の超人的な意志の力が為した技なのか。それとも。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"——她大脑的其他部分
+接管了受损部分的功能。这在逻辑上说得通。
+但如此彻底的恢复，简直堪称奇迹。","[""——她大脑的其他部分\n接管了受损部分的功能。这在逻辑上说得通。\n但如此彻底的恢复，简直堪称奇迹。""]","- the other parts of her brain took over for the
+part that was lost.
+It made logical sense. But such a full recovery was
+nothing short of a miracle.
+","[""- the other parts of her brain took over for the\npart that was lost.\nIt made logical sense. But such a full recovery was\nnothing short of a miracle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#45,0x104860#46; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,28,stream=0x7A000;block=0xB0;text=28,"[""stream=0x7A000;block=0xB0;text=28""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","機能代償…喪われた部分の機能を、他の部分が補ったのだ。
+理論的にはあり得る。が、これほどまでの回復は奇跡だ。
+","彼女の超人的な意志の力が為した技なのか。それとも。
+","「お腹の子のためにも、生きなければと思ったのかもね。
+身体が」。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许是她那超人的意志力
+让这成为可能。又或许…","[""也许是她那超人的意志力\n让这成为可能。又或许…""]","Perhaps her superhuman willpower made it
+possible. Or perhaps...
+","[""Perhaps her superhuman willpower made it\npossible. Or perhaps...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#47; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,29,stream=0x7A000;block=0xB0;text=29,"[""stream=0x7A000;block=0xB0;text=29""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼女の超人的な意志の力が為した技なのか。それとも。
+","「お腹の子のためにも、生きなければと思ったのかもね。
+身体が」。
+","そう言って彼女は笑った。その気持ちが、私にはわかる。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"「也许是我的身体知道，
+为了腹中的孩子，它必须活下去。」","[""「也许是我的身体知道，\n为了腹中的孩子，它必须活下去。」""]","""Perhaps my body knew it had to survive for the
+sake of my unborn child.""
+","[""\""Perhaps my body knew it had to survive for the\nsake of my unborn child.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#48; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,30,stream=0x7A000;block=0xB0;text=30,"[""stream=0x7A000;block=0xB0;text=30""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「お腹の子のためにも、生きなければと思ったのかもね。
+身体が」。
+","そう言って彼女は笑った。その気持ちが、私にはわかる。
+","「それ以来、私のことを“左脳の女”と言う人もいた。任
+務のためには、手段を選ばなかったから」。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"她说这话时笑了…
+我理解她当时的心情。","[""她说这话时笑了…\n我理解她当时的心情。""]","She smiled as she said that... I understand how
+she must have felt.
+","[""She smiled as she said that... I understand how\nshe must have felt.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#49; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,31,stream=0x7A000;block=0xB0;text=31,"[""stream=0x7A000;block=0xB0;text=31""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","そう言って彼女は笑った。その気持ちが、私にはわかる。
+","「それ以来、私のことを“左脳の女”と言う人もいた。任
+務のためには、手段を選ばなかったから」。
+","確かに彼女は厳しかった。だが、彼女にも感情や情緒はあ
+ったのだ。それは、私が一番よく知っている。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"「有人开始叫我『左叶
+女士』，」她说道。「因为为了任务，我什么都愿意做。」","[""「有人开始叫我『左叶\n女士』，」她说道。「因为为了任务，我什么都愿意做。」""]","""Some have taken to calling me 'Ms. Left Lobe,""
+she said.
+""Because I'll do anything for the mission.""
+","[""\""Some have taken to calling me 'Ms. Left Lobe,\""\nshe said.\n\""Because I'll do anything for the mission.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#50,0x104860#51; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,32,stream=0x7A000;block=0xB0;text=32,"[""stream=0x7A000;block=0xB0;text=32""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「それ以来、私のことを“左脳の女”と言う人もいた。任
+務のためには、手段を選ばなかったから」。
+","確かに彼女は厳しかった。だが、彼女にも感情や情緒はあ
+ったのだ。それは、私が一番よく知っている。
+","結局、ノイマンはスパイではなかった。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的，她很坚强。但她也有感情。
+这一点我比任何人都清楚。","[""是的，她很坚强。但她也有感情。\n这一点我比任何人都清楚。""]","She was tough, yes. But she had feelings, too. I
+knew that better than anyone else.
+","[""She was tough, yes. But she had feelings, too. I\nknew that better than anyone else.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#52; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,33,stream=0x7A000;block=0xB0;text=33,"[""stream=0x7A000;block=0xB0;text=33""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","確かに彼女は厳しかった。だが、彼女にも感情や情緒はあ
+ったのだ。それは、私が一番よく知っている。
+","結局、ノイマンはスパイではなかった。
+","暗殺指令は、ソ連が意図的に漏らした偽情報によるものだ
+った。彼女は騙されたのだ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"事实证明，冯·诺依曼
+并不是那名间谍。","[""事实证明，冯·诺依曼\n并不是那名间谍。""]","As it turned out, von Neumann wasn't the spy.
+","[""As it turned out, von Neumann wasn't the spy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#53; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,34,stream=0x7A000;block=0xB0;text=34,"[""stream=0x7A000;block=0xB0;text=34""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","結局、ノイマンはスパイではなかった。
+","暗殺指令は、ソ連が意図的に漏らした偽情報によるものだ
+った。彼女は騙されたのだ。
+","当時東西陣営は、対ナチスという一点で連合していた。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那道暗杀命令，
+是俄国人故意散布的虚假情报。","[""那道暗杀命令，\n是俄国人故意散布的虚假情报。""]","The assassination order was a deliberate bit of
+misinformation planted by the Russians.
+","[""The assassination order was a deliberate bit of\nmisinformation planted by the Russians.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#54; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,35,stream=0x7A000;block=0xB0;text=35,"[""stream=0x7A000;block=0xB0;text=35""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","暗殺指令は、ソ連が意図的に漏らした偽情報によるものだ
+った。彼女は騙されたのだ。
+","当時東西陣営は、対ナチスという一点で連合していた。
+","ヒトラーが核を持つ前に、連合国側が原爆を開発せねばな
+らない。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"东西方阵营在一个问题上是
+团结一致的——共同反对纳粹。","[""东西方阵营在一个问题上是\n团结一致的——共同反对纳粹。""]","The Eastern and Western camps were united on
+one point - opposition to the Nazis.
+","[""The Eastern and Western camps were united on\none point - opposition to the Nazis.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#56; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,36,stream=0x7A000;block=0xB0;text=36,"[""stream=0x7A000;block=0xB0;text=36""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","当時東西陣営は、対ナチスという一点で連合していた。
+","ヒトラーが核を持つ前に、連合国側が原爆を開発せねばな
+らない。
+","だがその後を見据えた時、マンハッタン計画の急激な進展
+は、ソ連にとって面白くない事実だった。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,盟军必须在希特勒之前造出那颗炸弹。但若将目光放得更远，,"[""盟军必须在希特勒之前造出那颗炸弹。但若将目光放得更远，""]","The Allies needed to develop that bomb before
+Hitler did.
+But in looking ahead,
+","[""The Allies needed to develop that bomb before\nHitler did.\nBut in looking ahead,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#57,0x104860#58; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,37,stream=0x7A000;block=0xB0;text=37,"[""stream=0x7A000;block=0xB0;text=37""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","ヒトラーが核を持つ前に、連合国側が原爆を開発せねばな
+らない。
+","だがその後を見据えた時、マンハッタン計画の急激な進展
+は、ソ連にとって面白くない事実だった。
+","広島に落とされたウラン型原爆は、原料の面から量産が難
+しい。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"俄国人觉得曼哈顿计划的进展
+有些太快了，不合他们的心意。","[""俄国人觉得曼哈顿计划的进展\n有些太快了，不合他们的心意。""]","the Russians found the Manhattan Project's
+progress a little too quick for their liking.
+","[""the Russians found the Manhattan Project's\nprogress a little too quick for their liking.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#59; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,38,stream=0x7A000;block=0xB0;text=38,"[""stream=0x7A000;block=0xB0;text=38""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だがその後を見据えた時、マンハッタン計画の急激な進展
+は、ソ連にとって面白くない事実だった。
+","広島に落とされたウラン型原爆は、原料の面から量産が難
+しい。
+","だが、プルトニウム型原爆が軌道に乗れば、量産化、将来
+の小型化も視野に入ってくる。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要量产像最终投在广岛的那种铀弹，从材料角度看会很困难。,"[""要量产像最终投在广岛的那种铀弹，从材料角度看会很困难。""]","Mass-production of a uranium bomb like the one
+that was eventually dropped on Hiroshima
+would be difficult from a material perspective.
+","[""Mass-production of a uranium bomb like the one\nthat was eventually dropped on Hiroshima\nwould be difficult from a material perspective.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#60,0x104860#61; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,39,stream=0x7A000;block=0xB0;text=39,"[""stream=0x7A000;block=0xB0;text=39""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","広島に落とされたウラン型原爆は、原料の面から量産が難
+しい。
+","だが、プルトニウム型原爆が軌道に乗れば、量産化、将来
+の小型化も視野に入ってくる。
+","アメリカにそこまで先を越されたくない。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但钚弹一旦成熟，就能量产，
+甚至最终实现小型化。","[""但钚弹一旦成熟，就能量产，\n甚至最终实现小型化。""]","But a plutonium bomb, once perfected, could be
+mass-produced and eventually even miniaturized.
+","[""But a plutonium bomb, once perfected, could be\nmass-produced and eventually even miniaturized.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#62; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,40,stream=0x7A000;block=0xB0;text=40,"[""stream=0x7A000;block=0xB0;text=40""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だが、プルトニウム型原爆が軌道に乗れば、量産化、将来
+の小型化も視野に入ってくる。
+","アメリカにそこまで先を越されたくない。
+","プルトニウム型に、爆縮レンズの技術は不可欠だ。だから、
+その鍵を握るノイマンを亡き者にする…それがソ連の計略
+だったのだ。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…而莫斯科可不喜欢美国
+拥有那样的先发优势。","[""…而莫斯科可不喜欢美国\n拥有那样的先发优势。""]","...And Moscow did not like the idea of America
+having that kind of head start.
+","[""...And Moscow did not like the idea of America\nhaving that kind of head start.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#63; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,41,stream=0x7A000;block=0xB0;text=41,"[""stream=0x7A000;block=0xB0;text=41""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","アメリカにそこまで先を越されたくない。
+","プルトニウム型に、爆縮レンズの技術は不可欠だ。だから、
+その鍵を握るノイマンを亡き者にする…それがソ連の計略
+だったのだ。
+","その事実が知られたことで、アメリカとソ連との対立は決
+定的になった。
+",[],,,NOT_CHECKED,180,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,爆炸透镜技术对钚弹的设计至关重要。,"[""爆炸透镜技术对钚弹的设计至关重要。""]","Explosive lens technology was critical to the
+plutonium design.
+","[""Explosive lens technology was critical to the\nplutonium design.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#64; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,42,stream=0x7A000;block=0xB0;text=42,"[""stream=0x7A000;block=0xB0;text=42""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","プルトニウム型に、爆縮レンズの技術は不可欠だ。だから、
+その鍵を握るノイマンを亡き者にする…それがソ連の計略
+だったのだ。
+","その事実が知られたことで、アメリカとソ連との対立は決
+定的になった。
+","フロリダには珍しく、寒い夜だった。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"于是，计划就是除掉它的
+开创者——冯·诺依曼。","[""于是，计划就是除掉它的\n开创者——冯·诺依曼。""]","So the plan was to get rid of its pioneer, von
+Neumann.
+","[""So the plan was to get rid of its pioneer, von\nNeumann.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#65; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,43,stream=0x7A000;block=0xB0;text=43,"[""stream=0x7A000;block=0xB0;text=43""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","その事実が知られたことで、アメリカとソ連との対立は決
+定的になった。
+","フロリダには珍しく、寒い夜だった。
+","震える私の肩を、彼女はそっと抱いてくれた。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那是佛罗里达一个少有的寒夜。,"[""那是佛罗里达一个少有的寒夜。""]","It was one of the rare cold nights in Florida.
+","[""It was one of the rare cold nights in Florida.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#67; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,44,stream=0x7A000;block=0xB0;text=44,"[""stream=0x7A000;block=0xB0;text=44""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","フロリダには珍しく、寒い夜だった。
+","震える私の肩を、彼女はそっと抱いてくれた。
+","彼女の優しい匂いに包まれて、私は夢見心地で話を聞いて
+いた。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她轻轻伸出手臂，环住我颤抖的肩膀。,"[""她轻轻伸出手臂，环住我颤抖的肩膀。""]","She put her arm gently around my shivering
+shoulders.
+","[""She put her arm gently around my shivering\nshoulders.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#68; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,45,stream=0x7A000;block=0xB0;text=45,"[""stream=0x7A000;block=0xB0;text=45""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","震える私の肩を、彼女はそっと抱いてくれた。
+","彼女の優しい匂いに包まれて、私は夢見心地で話を聞いて
+いた。
+","完璧に見える彼女の失敗。そしてその失敗が、奇しくもア
+メリカの優位を支えた…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听着她的声音，我被她那
+令人安心的气息所包围。","[""听着她的声音，我被她那\n令人安心的气息所包围。""]","As I listened to her voice, I was wrapped in her
+soothing scent.
+","[""As I listened to her voice, I was wrapped in her\nsoothing scent.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#69; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,46,stream=0x7A000;block=0xB0;text=46,"[""stream=0x7A000;block=0xB0;text=46""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼女の優しい匂いに包まれて、私は夢見心地で話を聞いて
+いた。
+","完璧に見える彼女の失敗。そしてその失敗が、奇しくもア
+メリカの優位を支えた…。
+","超人と謳われたノイマンは、原爆以外にも、多くの功績を
+残していた。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"即便失败了，她也显得那样完美——奇怪的是，那次失败的
+暗杀反而保住了美国的优势…","[""即便失败了，她也显得那样完美——奇怪的是，那次失败的\n暗杀反而保住了美国的优势…""]","Even in failure, she seemed perfect
+- oddly enough, the failed assassination attempt
+helped preserve America's edge...
+","[""Even in failure, she seemed perfect\n- oddly enough, the failed assassination attempt\nhelped preserve America's edge...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#71,0x104860#72; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,47,stream=0x7A000;block=0xB0;text=47,"[""stream=0x7A000;block=0xB0;text=47""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","完璧に見える彼女の失敗。そしてその失敗が、奇しくもア
+メリカの優位を支えた…。
+","超人と謳われたノイマンは、原爆以外にも、多くの功績を
+残していた。
+","経済学におけるゲーム理論や、<R=プログラム内蔵,ストアドプログラム>型コンピュ
+ータの理論化……。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"冯·诺依曼在曼哈顿计划之外，
+也在众多领域留下了他的印记。","[""冯·诺依曼在曼哈顿计划之外，\n也在众多领域留下了他的印记。""]","von Neumann went on to make his mark in
+numerous fields outside of the Manhattan Project.
+","[""von Neumann went on to make his mark in\nnumerous fields outside of the Manhattan Project.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#74; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,48,stream=0x7A000;block=0xB0;text=48,"[""stream=0x7A000;block=0xB0;text=48""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","超人と謳われたノイマンは、原爆以外にも、多くの功績を
+残していた。
+","経済学におけるゲーム理論や、<R=プログラム内蔵,ストアドプログラム>型コンピュ
+ータの理論化……。
+","現在のコンピュータのほとんどが、この<R=プログラム内蔵,ストアドプログラム>型、
+いわゆる「ノイマン型」だ。
+","[""<R=プログラム内蔵,ストアドプログラム>""]",,,NOT_CHECKED,139,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,经济博弈论、存储程序计算…,"[""经济博弈论、存储程序计算…""]","Economic game theory, stored-program computing...
+","[""Economic game theory, stored-program computing...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#75; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,49,stream=0x7A000;block=0xB0;text=49,"[""stream=0x7A000;block=0xB0;text=49""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","経済学におけるゲーム理論や、<R=プログラム内蔵,ストアドプログラム>型コンピュ
+ータの理論化……。
+","現在のコンピュータのほとんどが、この<R=プログラム内蔵,ストアドプログラム>型、
+いわゆる「ノイマン型」だ。
+","彼が殺されていたら、その普及が10年は遅れたかも知れず、
+私がここで研究することもなかった。
+","[""<R=プログラム内蔵,ストアドプログラム>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如今几乎所有计算机都采用存储程序，也就是所谓的“冯·诺依曼体系结构”。他的死本会让计算机发展倒退十年，,"[""如今几乎所有计算机都采用存储程序，也就是所谓的“冯·诺依曼体系结构”。他的死本会让计算机发展倒退十年，""]","Almost all computers today use stored programs,
+the so-called ""Von Neumann architecture.""
+His death would have set back computing 10 years,
+","[""Almost all computers today use stored programs,\nthe so-called \""Von Neumann architecture.\""\nHis death would have set back computing 10 years,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860,0x104860; ENG source rows=0x104860#76,0x104860#77,0x104860#78; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,50,stream=0x7A000;block=0xB0;text=50,"[""stream=0x7A000;block=0xB0;text=50""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","現在のコンピュータのほとんどが、この<R=プログラム内蔵,ストアドプログラム>型、
+いわゆる「ノイマン型」だ。
+","彼が殺されていたら、その普及が10年は遅れたかも知れず、
+私がここで研究することもなかった。
+","それは詰まるところ、私がこうやって彼女の腕の中にいる
+こともない、ということだ。
+",[],,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而我也不会在NASA做研究了。,"[""而我也不会在NASA做研究了。""]","and I wouldn't be at NASA doing research.
+","[""and I wouldn't be at NASA doing research.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#79; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,51,stream=0x7A000;block=0xB0;text=51,"[""stream=0x7A000;block=0xB0;text=51""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼が殺されていたら、その普及が10年は遅れたかも知れず、
+私がここで研究することもなかった。
+","それは詰まるところ、私がこうやって彼女の腕の中にいる
+こともない、ということだ。
+","私はその巡り合わせに感謝した。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那一晚，我也不会在
+那里——在她的怀里。","[""那一晚，我也不会在\n那里——在她的怀里。""]","I wouldn't have been there - in her arms - that
+night.
+","[""I wouldn't have been there - in her arms - that\nnight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#80; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,52,stream=0x7A000;block=0xB0;text=52,"[""stream=0x7A000;block=0xB0;text=52""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","それは詰まるところ、私がこうやって彼女の腕の中にいる
+こともない、ということだ。
+","私はその巡り合わせに感謝した。
+","だが、彼女は意外なことを言った。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我感谢命运给了我这次机会。,"[""我感谢命运给了我这次机会。""]","I thanked the fates for giving me that chance.
+","[""I thanked the fates for giving me that chance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#81; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,53,stream=0x7A000;block=0xB0;text=53,"[""stream=0x7A000;block=0xB0;text=53""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","私はその巡り合わせに感謝した。
+","だが、彼女は意外なことを言った。
+","「あの時、ノイマンを殺しておくべきだった」と。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但这时，她说了一句出人意料的话。,"[""但这时，她说了一句出人意料的话。""]","But then she said something unexpected.
+","[""But then she said something unexpected.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#82; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,54,stream=0x7A000;block=0xB0;text=54,"[""stream=0x7A000;block=0xB0;text=54""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だが、彼女は意外なことを言った。
+","「あの時、ノイマンを殺しておくべきだった」と。
+","「なぜ？　指令は陰謀だったんでしょ？」。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“我本该在有机会的
+时候杀掉冯·诺依曼。”","[""“我本该在有机会的\n时候杀掉冯·诺依曼。”""]","""I should have killed von Neumann when I had the
+chance.""
+","[""\""I should have killed von Neumann when I had the\nchance.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#83; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,55,stream=0x7A000;block=0xB0;text=55,"[""stream=0x7A000;block=0xB0;text=55""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「あの時、ノイマンを殺しておくべきだった」と。
+","「なぜ？　指令は陰謀だったんでしょ？」。
+","そう見上げる私に、彼女は諭すように続けた。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“为什么？”我问道，
+“那个命令难道不是苏联的阴谋吗？”","[""“为什么？”我问道，\n“那个命令难道不是苏联的阴谋吗？”""]","""Why?"" I asked. ""Wasn't the order a Soviet plot?""
+","[""\""Why?\"" I asked. \""Wasn't the order a Soviet plot?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#84; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,56,stream=0x7A000;block=0xB0;text=56,"[""stream=0x7A000;block=0xB0;text=56""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「なぜ？　指令は陰謀だったんでしょ？」。
+","そう見上げる私に、彼女は諭すように続けた。
+","「確かに、ノイマンに罪はない。罪なき人間を殺めるのは
+大罪だ。だが…ふと考えてしまう。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我抬头看着她，她开始解释。,"[""我抬头看着她，她开始解释。""]","I looked up at her as she began to explain.
+","[""I looked up at her as she began to explain.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#85; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,57,stream=0x7A000;block=0xB0;text=57,"[""stream=0x7A000;block=0xB0;text=57""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","そう見上げる私に、彼女は諭すように続けた。
+","「確かに、ノイマンに罪はない。罪なき人間を殺めるのは
+大罪だ。だが…ふと考えてしまう。
+","もし私が任務に失敗しなかったら、この世界はどうなって
+いただろうか」。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“没错，冯·诺依曼是无辜的。
+杀害无辜者是重罪。","[""“没错，冯·诺依曼是无辜的。\n杀害无辜者是重罪。""]","""Yes, von Neumann was innocent. And killing the
+innocent is a grave crime.
+","[""\""Yes, von Neumann was innocent. And killing the\ninnocent is a grave crime.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#86; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,58,stream=0x7A000;block=0xB0;text=58,"[""stream=0x7A000;block=0xB0;text=58""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「確かに、ノイマンに罪はない。罪なき人間を殺めるのは
+大罪だ。だが…ふと考えてしまう。
+","もし私が任務に失敗しなかったら、この世界はどうなって
+いただろうか」。
+","ノイマンがいなくとも、爆縮レンズはいずれ開発されただ
+ろう。ノイマン型コンピュータにしても同様だ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但我不禁会想，如果当时我成功了，
+现在的世界会是什么样子？”","[""但我不禁会想，如果当时我成功了，\n现在的世界会是什么样子？”""]","But I can't help but wonder, had I succeeded, what
+would the world be like now?""
+","[""But I can't help but wonder, had I succeeded, what\nwould the world be like now?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#87; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,59,stream=0x7A000;block=0xB0;text=59,"[""stream=0x7A000;block=0xB0;text=59""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","もし私が任務に失敗しなかったら、この世界はどうなって
+いただろうか」。
+","ノイマンがいなくとも、爆縮レンズはいずれ開発されただ
+ろう。ノイマン型コンピュータにしても同様だ。
+","だが、もしわずかでも猶予期間があれば、東西が手を携え
+る機会があったのではないか…彼女はそう考えているよう
+だった。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"即使没有冯·诺依曼，
+爆炸透镜也终究会被研制出来，——冯·诺依曼体系结构也一样。","[""即使没有冯·诺依曼，\n爆炸透镜也终究会被研制出来，——冯·诺依曼体系结构也一样。""]","Even without von Neumann, the explosive lens
+would have eventually been developed
+- Von Neumann architecture, too.
+","[""Even without von Neumann, the explosive lens\nwould have eventually been developed\n- Von Neumann architecture, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#88,0x104860#89; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,60,stream=0x7A000;block=0xB0;text=60,"[""stream=0x7A000;block=0xB0;text=60""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","ノイマンがいなくとも、爆縮レンズはいずれ開発されただ
+ろう。ノイマン型コンピュータにしても同様だ。
+","だが、もしわずかでも猶予期間があれば、東西が手を携え
+る機会があったのではないか…彼女はそう考えているよう
+だった。
+","私にはそんな可能性があると思えなかったが、彼女の口調
+は断定的だった。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那么也许东西方就有机会携手合作了。,"[""那么也许东西方就有机会携手合作了。""]","then perhaps East and West would have had a
+chance to work hand in hand.
+","[""then perhaps East and West would have had a\nchance to work hand in hand.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#91; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,61,stream=0x7A000;block=0xB0;text=61,"[""stream=0x7A000;block=0xB0;text=61""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","だが、もしわずかでも猶予期間があれば、東西が手を携え
+る機会があったのではないか…彼女はそう考えているよう
+だった。
+","私にはそんな可能性があると思えなかったが、彼女の口調
+は断定的だった。
+","彼女自身が両陣営の手を握らせるつもりででもあったかの
+ように。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我从没想过这种可能。
+但她的语气自信而又坚定。","[""我从没想过这种可能。\n但她的语气自信而又坚定。""]","I'd never considered such a possibility. But her
+tone was confident, assertive.
+","[""I'd never considered such a possibility. But her\ntone was confident, assertive.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#92; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,62,stream=0x7A000;block=0xB0;text=62,"[""stream=0x7A000;block=0xB0;text=62""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","私にはそんな可能性があると思えなかったが、彼女の口調
+は断定的だった。
+","彼女自身が両陣営の手を握らせるつもりででもあったかの
+ように。
+","「早すぎた爆縮レンズの実用化が、冷戦を生み、果てなき
+核軍拡の端緒となった。偽りとはいえ、あの任務は天の配
+剤だったのかも知れない」。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就好像她打算亲手让两个
+超级大国握手言和。","[""就好像她打算亲手让两个\n超级大国握手言和。""]","It was as if she intended to make the two
+superpowers shake hands herself.
+","[""It was as if she intended to make the two\nsuperpowers shake hands herself.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#93; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,63,stream=0x7A000;block=0xB0;text=63,"[""stream=0x7A000;block=0xB0;text=63""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼女自身が両陣営の手を握らせるつもりででもあったかの
+ように。
+","「早すぎた爆縮レンズの実用化が、冷戦を生み、果てなき
+核軍拡の端緒となった。偽りとはいえ、あの任務は天の配
+剤だったのかも知れない」。
+","我が子に語りかけるかのように、彼女は続けた。
+",[],,,NOT_CHECKED,198,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"由此引发了冷战和无休止的
+核军备竞赛，”她继续说道。“那次任务源于欺骗，
+但也许也是天意。”","[""由此引发了冷战和无休止的\n核军备竞赛，”她继续说道。“那次任务源于欺骗，\n但也许也是天意。”""]","spawning a Cold War and an endless nuclear arms
+race,"" she continued.
+""That mission sprung from deceit, but maybe it was
+divine providence, too.""
+","[""spawning a Cold War and an endless nuclear arms\nrace,\"" she continued.\n\""That mission sprung from deceit, but maybe it was\ndivine providence, too.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#95,0x104860#96; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,64,stream=0x7A000;block=0xB0;text=64,"[""stream=0x7A000;block=0xB0;text=64""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「早すぎた爆縮レンズの実用化が、冷戦を生み、果てなき
+核軍拡の端緒となった。偽りとはいえ、あの任務は天の配
+剤だったのかも知れない」。
+","我が子に語りかけるかのように、彼女は続けた。
+","私の頭に、大きく、暖かい手が置かれていた。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那语气就像在对自己的孩子说话。,"[""那语气就像在对自己的孩子说话。""]","It was like she was speaking to her own child.
+","[""It was like she was speaking to her own child.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#97; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,65,stream=0x7A000;block=0xB0;text=65,"[""stream=0x7A000;block=0xB0;text=65""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","我が子に語りかけるかのように、彼女は続けた。
+","私の頭に、大きく、暖かい手が置かれていた。
+","「あの時私は、母性を優先して、任務の遂行に失敗した。
+たとえ大罪を背負ってでも、私は彼を殺すべきだった」。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,她那只温暖的大手放在我的头上。,"[""她那只温暖的大手放在我的头上。""]","Her large, warm hand was on my head.
+","[""Her large, warm hand was on my head.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#98; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,66,stream=0x7A000;block=0xB0;text=66,"[""stream=0x7A000;block=0xB0;text=66""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","私の頭に、大きく、暖かい手が置かれていた。
+","「あの時私は、母性を優先して、任務の遂行に失敗した。
+たとえ大罪を背負ってでも、私は彼を殺すべきだった」。
+","「そうすれば、ヒロシマは無理でも、ナガサキの人達は犠
+牲にならなかったかも知れない…」。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“我任务失败，是因为我
+让内心的母性占了上风。","[""“我任务失败，是因为我\n让内心的母性占了上风。""]","""I failed the mission because I let the mother in me
+take over.
+","[""\""I failed the mission because I let the mother in me\ntake over.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#99; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,67,stream=0x7A000;block=0xB0;text=67,"[""stream=0x7A000;block=0xB0;text=67""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「あの時私は、母性を優先して、任務の遂行に失敗した。
+たとえ大罪を背負ってでも、私は彼を殺すべきだった」。
+","「そうすれば、ヒロシマは無理でも、ナガサキの人達は犠
+牲にならなかったかも知れない…」。
+","私は彼女を見上げた。彼女もまた星空を見上げていた。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我本该杀了他的，
+不管那会让我多么愧疚。”“如果我杀了他，
+也许我无法阻止广岛，","[""我本该杀了他的，\n不管那会让我多么愧疚。”“如果我杀了他，\n也许我无法阻止广岛，""]","I should have killed him, no matter how great the
+guilt.""
+""If I'd killed him, I might not have prevented
+Hiroshima,
+","[""I should have killed him, no matter how great the\nguilt.\""\n\""If I'd killed him, I might not have prevented\nHiroshima,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x7A0B0; ENG blocks=0x104860,0x104860; ENG source rows=0x104860#100,0x104860#101; block_semantic_score=0.234679."
+BRIEFING_FILES_BLOCK_07A0B0,68,stream=0x7A000;block=0xB0;text=68,"[""stream=0x7A000;block=0xB0;text=68""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「そうすれば、ヒロシマは無理でも、ナガサキの人達は犠
+牲にならなかったかも知れない…」。
+","私は彼女を見上げた。彼女もまた星空を見上げていた。
+","彼女の表情からは、自責の念が溢れていた。今のいびつな
+世界を作り出したのは自分なのだ…そう思い詰めているか
+のように。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我抬头看她，发现她也在仰望…
+仰望着满天星空。","[""我抬头看她，发现她也在仰望…\n仰望着满天星空。""]","I looked up at her and saw her looking up, too... up
+at the starry sky.
+","[""I looked up at her and saw her looking up, too... up\nat the starry sky.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#103; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,69,stream=0x7A000;block=0xB0;text=69,"[""stream=0x7A000;block=0xB0;text=69""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","私は彼女を見上げた。彼女もまた星空を見上げていた。
+","彼女の表情からは、自責の念が溢れていた。今のいびつな
+世界を作り出したのは自分なのだ…そう思い詰めているか
+のように。
+","「でもそれが、あなたが実験の犠牲となる理由にはならな
+い」。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就好像她已说服自己，
+这个扭曲的世界正是她一人造成的…","[""就好像她已说服自己，\n这个扭曲的世界正是她一人造成的…""]","It was as if she'd convinced herself that she alone
+was responsible for creating this twisted world...
+","[""It was as if she'd convinced herself that she alone\nwas responsible for creating this twisted world...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#105; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,70,stream=0x7A000;block=0xB0;text=70,"[""stream=0x7A000;block=0xB0;text=70""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼女の表情からは、自責の念が溢れていた。今のいびつな
+世界を作り出したのは自分なのだ…そう思い詰めているか
+のように。
+","「でもそれが、あなたが実験の犠牲となる理由にはならな
+い」。
+","彼女の決意を翻すことはできまい。そう思いながらも、私
+は食い下がった。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“但这不能成为你为此牺牲的理由。”,"[""“但这不能成为你为此牺牲的理由。”""]","""But that's no reason for you to sacrifice yourself
+for this.""
+","[""\""But that's no reason for you to sacrifice yourself\nfor this.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#106; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,71,stream=0x7A000;block=0xB0;text=71,"[""stream=0x7A000;block=0xB0;text=71""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「でもそれが、あなたが実験の犠牲となる理由にはならな
+い」。
+","彼女の決意を翻すことはできまい。そう思いながらも、私
+は食い下がった。
+","「ありがとう。心配してくれるのね。でも、私は忠を尽く
+さなければ」。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我知道我永远无法说服她，
+但我仍然抱着一丝希望。","[""我知道我永远无法说服她，\n但我仍然抱着一丝希望。""]","I knew I'd never dissuade her. And yet I still clung
+to hope.
+","[""I knew I'd never dissuade her. And yet I still clung\nto hope.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#107; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,72,stream=0x7A000;block=0xB0;text=72,"[""stream=0x7A000;block=0xB0;text=72""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","彼女の決意を翻すことはできまい。そう思いながらも、私
+は食い下がった。
+","「ありがとう。心配してくれるのね。でも、私は忠を尽く
+さなければ」。
+","そう言って彼女は微笑んだ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"“我知道你担心我，也谢谢你。
+但我必须忠诚到底。”","[""“我知道你担心我，也谢谢你。\n但我必须忠诚到底。”""]","""I know you're concerned, and I thank you. But I
+have to be loyal to the end.""
+","[""\""I know you're concerned, and I thank you. But I\nhave to be loyal to the end.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#108; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,73,stream=0x7A000;block=0xB0;text=73,"[""stream=0x7A000;block=0xB0;text=73""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","「ありがとう。心配してくれるのね。でも、私は忠を尽く
+さなければ」。
+","そう言って彼女は微笑んだ。
+","忠を尽くす…「何に？」という私の問いに、彼女は答えな
+かった。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,然后，她对我微微一笑。,"[""然后，她对我微微一笑。""]","And then she smiled at me.
+","[""And then she smiled at me.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#109; block_semantic_score=0.234679.
+BRIEFING_FILES_BLOCK_07A0B0,74,stream=0x7A000;block=0xB0;text=74,"[""stream=0x7A000;block=0xB0;text=74""]",1,BRIEFING FILES,"[""stream=0x7A000;block=0xB0;block_file=0x7A0B0;text_base=0x7A1FC;capacity=8024""]","そう言って彼女は微笑んだ。
+","忠を尽くす…「何に？」という私の問いに、彼女は答えな
+かった。
+",,[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"忠诚到底…“忠诚于什么？”
+我问道。但她没有回答。","[""忠诚到底…“忠诚于什么？”\n我问道。但她没有回答。""]","Loyal to the end... ""Loyal to what?"" I asked. But she
+didn't answer.
+","[""Loyal to the end... \""Loyal to what?\"" I asked. But she\ndidn't answer.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x7A0B0; ENG blocks=0x104860; ENG source rows=0x104860#110; block_semantic_score=0.234679.

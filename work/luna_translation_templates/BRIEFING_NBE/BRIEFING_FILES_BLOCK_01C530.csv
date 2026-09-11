@@ -1,0 +1,28 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01C530,0,stream=0x1C000;block=0x530;text=0,"[""stream=0x1C000;block=0x530;text=0""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]",,"そこにいた敵兵はすでに排除されている。今は誰もいない
+はずだ。
+","あんたはただ、的を撃つことだけに集中すればいい。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,里面的敌方士兵我们已经处理干净。,"[""里面的敌方士兵我们已经处理干净。""]","We've already taken care of the enemy soldiers in
+there.
+","[""We've already taken care of the enemy soldiers in\nthere.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1C530; ENG blocks=0xAD710; ENG source rows=0xAD710#0; block_semantic_score=0.119379.
+BRIEFING_FILES_BLOCK_01C530,1,stream=0x1C000;block=0x530;text=1,"[""stream=0x1C000;block=0x530;text=1""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]","そこにいた敵兵はすでに排除されている。今は誰もいない
+はずだ。
+","あんたはただ、的を撃つことだけに集中すればいい。
+","そこは遠距離射撃の練習に向いている。スナイパーライフ
+ルなんかを持っていくといいかもしれないな。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你只需要专心命中标靶。,"[""你只需要专心命中标靶。""]","All you need to do is focus on hitting those targets.
+","[""All you need to do is focus on hitting those targets.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1C530; ENG blocks=0xAD710; ENG source rows=0xAD710#2; block_semantic_score=0.119379.
+BRIEFING_FILES_BLOCK_01C530,2,stream=0x1C000;block=0x530;text=2,"[""stream=0x1C000;block=0x530;text=2""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]","あんたはただ、的を撃つことだけに集中すればいい。
+","そこは遠距離射撃の練習に向いている。スナイパーライフ
+ルなんかを持っていくといいかもしれないな。
+","もちろん、あえてハンドガンの腕を磨くなんてのもありだ。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这里适合远距离射击训练。,"[""这里适合远距离射击训练。""]","It's geared toward long-range target practice.
+","[""It's geared toward long-range target practice.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1C530; ENG blocks=0xAD710; ENG source rows=0xAD710#3; block_semantic_score=0.119379.
+BRIEFING_FILES_BLOCK_01C530,3,stream=0x1C000;block=0x530;text=3,"[""stream=0x1C000;block=0x530;text=3""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]","そこは遠距離射撃の練習に向いている。スナイパーライフ
+ルなんかを持っていくといいかもしれないな。
+","もちろん、あえてハンドガンの腕を磨くなんてのもありだ。
+",,[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你该考虑带把狙击步枪之类的。不过嘛，拿手枪来试试手也没人拦着。,"[""你该考虑带把狙击步枪之类的。不过嘛，拿手枪来试试手也没人拦着。""]","You should think about bringing something like a
+sniper rifle.
+Then again, nothing's stopping you from giving it a
+shot with a handgun, either.
+","[""You should think about bringing something like a\nsniper rifle.\nThen again, nothing's stopping you from giving it a\nshot with a handgun, either.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x1C530; ENG blocks=0xAD710,0xAD710; ENG source rows=0xAD710#4,0xAD710#5; block_semantic_score=0.119379."

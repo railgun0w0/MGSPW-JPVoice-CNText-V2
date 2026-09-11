@@ -1,0 +1,358 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_3705D0,0,stream=0x370000;block=0x5D0;text=0,"[""stream=0x370000;block=0x5D0;text=0""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]",,"スネーク、チコが到着した。
+","スネーク！
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，Chico过来了。,"[""Snake，Chico过来了。""]","Snake, Chico made it over.
+","[""Snake, Chico made it over.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#0; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,1,stream=0x370000;block=0x5D0;text=1,"[""stream=0x370000;block=0x5D0;text=1""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","スネーク、チコが到着した。
+","スネーク！
+","チコ、着いたか。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake！,"[""Snake！""]","Snake!
+","[""Snake!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,2,stream=0x370000;block=0x5D0;text=2,"[""stream=0x370000;block=0x5D0;text=2""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","スネーク！
+","チコ、着いたか。
+","「着いたか」じゃねえよ。
+なんだいこれっ？
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico，你做到了。,"[""Chico，你做到了。""]","Chico, you made it.
+","[""Chico, you made it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#2; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,3,stream=0x370000;block=0x5D0;text=3,"[""stream=0x370000;block=0x5D0;text=3""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","チコ、着いたか。
+","「着いたか」じゃねえよ。
+なんだいこれっ？
+","「新しい命を俺にくれ」って言いながら、
+殺す気かよ！？
+",[],,,NOT_CHECKED,62,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,做到了？！少来这套！,"[""做到了？！少来这套！""]","Made it?! Don't give me that!
+","[""Made it?! Don't give me that!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#3; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,4,stream=0x370000;block=0x5D0;text=4,"[""stream=0x370000;block=0x5D0;text=4""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","「着いたか」じゃねえよ。
+なんだいこれっ？
+","「新しい命を俺にくれ」って言いながら、
+殺す気かよ！？
+","お気に召さなかったか？
+",[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你说要给我一个新的人生，
+结果却差点害死我？！","[""你说要给我一个新的人生，\n结果却差点害死我？！""]","You say you're gonna give me a new life,
+and then you nearly kill me?!
+","[""You say you're gonna give me a new life,\nand then you nearly kill me?!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#4; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,5,stream=0x370000;block=0x5D0;text=5,"[""stream=0x370000;block=0x5D0;text=5""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","「新しい命を俺にくれ」って言いながら、
+殺す気かよ！？
+","お気に召さなかったか？
+","なんだよ、あの人さらい風船！
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看来你不太享受这趟旅程？,"[""看来你不太享受这趟旅程？""]","I take it you didn't enjoy the trip?
+","[""I take it you didn't enjoy the trip?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#5; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,6,stream=0x370000;block=0x5D0;text=6,"[""stream=0x370000;block=0x5D0;text=6""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","お気に召さなかったか？
+","なんだよ、あの人さらい風船！
+","これじゃコリブリと変わんねぇじゃねえか！
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你搞什么名堂，用…气球把我拖走！,"[""你搞什么名堂，用…气球把我拖走！""]","What's the big idea, dragging me off in a...
+balloon!
+","[""What's the big idea, dragging me off in a...\nballoon!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#6; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,7,stream=0x370000;block=0x5D0;text=7,"[""stream=0x370000;block=0x5D0;text=7""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","なんだよ、あの人さらい風船！
+","これじゃコリブリと変わんねぇじゃねえか！
+","いい眺めだったろう、チコ。
+それとも高いところは駄目か。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我还不如坐colibri来呢！,"[""我还不如坐colibri来呢！""]","I might as well have taken a colibri!
+","[""I might as well have taken a colibri!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#7; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,8,stream=0x370000;block=0x5D0;text=8,"[""stream=0x370000;block=0x5D0;text=8""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","これじゃコリブリと変わんねぇじゃねえか！
+","いい眺めだったろう、チコ。
+それとも高いところは駄目か。
+","そうじゃなくて、事前に説明くらいして欲しかった。
+",[],,,NOT_CHECKED,83,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,至少你欣赏了美景。还是说你恐高？,"[""至少你欣赏了美景。还是说你恐高？""]","At least you got a nice view. Or are you
+afraid of heights?
+","[""At least you got a nice view. Or are you\nafraid of heights?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#8; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,9,stream=0x370000;block=0x5D0;text=9,"[""stream=0x370000;block=0x5D0;text=9""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","いい眺めだったろう、チコ。
+それとも高いところは駄目か。
+","そうじゃなくて、事前に説明くらいして欲しかった。
+","説明したら、自分から進んで飛んだか？
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"算了。我只是希望你
+事先跟我解释清楚。","[""算了。我只是希望你\n事先跟我解释清楚。""]","Whatever. I just wish you'd explained it to
+me first.
+","[""Whatever. I just wish you'd explained it to\nme first.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#9; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,10,stream=0x370000;block=0x5D0;text=10,"[""stream=0x370000;block=0x5D0;text=10""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","そうじゃなくて、事前に説明くらいして欲しかった。
+","説明したら、自分から進んで飛んだか？
+","……！
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我要是解释了，你会同意来吗？,"[""我要是解释了，你会同意来吗？""]","Would you have agreed to go if I did?
+","[""Would you have agreed to go if I did?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#10; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,11,stream=0x370000;block=0x5D0;text=11,"[""stream=0x370000;block=0x5D0;text=11""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","説明したら、自分から進んで飛んだか？
+","……！
+","スネーク。
+あたし達を助けてくれて、ありがとう。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谢谢你救了我们，Snake。,"[""谢谢你救了我们，Snake。""]","Thank you for saving us, Snake.
+","[""Thank you for saving us, Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#11; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,12,stream=0x370000;block=0x5D0;text=12,"[""stream=0x370000;block=0x5D0;text=12""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","……！
+","スネーク。
+あたし達を助けてくれて、ありがとう。
+","ひとつ進言したいんだが、アマンダ。
+",[],,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_3705D0,13,stream=0x370000;block=0x5D0;text=13,"[""stream=0x370000;block=0x5D0;text=13""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","スネーク。
+あたし達を助けてくれて、ありがとう。
+","ひとつ進言したいんだが、アマンダ。
+","何？
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Amanda，给你一句忠告。,"[""Amanda，给你一句忠告。""]","Amanda, a word of advice.
+","[""Amanda, a word of advice.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#12; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,14,stream=0x370000;block=0x5D0;text=14,"[""stream=0x370000;block=0x5D0;text=14""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","ひとつ進言したいんだが、アマンダ。
+","何？
+","チコをもう子供扱いするな。
+",[],,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,什么？,"[""什么？""]","What?
+","[""What?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#13; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,15,stream=0x370000;block=0x5D0;text=15,"[""stream=0x370000;block=0x5D0;text=15""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","何？
+","チコをもう子供扱いするな。
+","ええ、そうね…。
+わかってるわ。わかってるつもり。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别再把他当小孩子看了。,"[""别再把他当小孩子看了。""]","Stop treating him like a child.
+","[""Stop treating him like a child.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#14; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,16,stream=0x370000;block=0x5D0;text=16,"[""stream=0x370000;block=0x5D0;text=16""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","チコをもう子供扱いするな。
+","ええ、そうね…。
+わかってるわ。わかってるつもり。
+","アマンダ、脚が治れば戻るんだろう？
+",[],,,NOT_CHECKED,74,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是…是，我知道。
+你说得对。我不该那样。","[""是…是，我知道。\n你说得对。我不该那样。""]","Yes... yes, I know. You're right. I shouldn't.
+","[""Yes... yes, I know. You're right. I shouldn't.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#15; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,17,stream=0x370000;block=0x5D0;text=17,"[""stream=0x370000;block=0x5D0;text=17""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","ええ、そうね…。
+わかってるわ。わかってるつもり。
+","アマンダ、脚が治れば戻るんだろう？
+","勿論よ…。
+あたし達にはやることがある。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_MISSION_BLOCK_3705D0,18,stream=0x370000;block=0x5D0;text=18,"[""stream=0x370000;block=0x5D0;text=18""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","アマンダ、脚が治れば戻るんだろう？
+","勿論よ…。
+あたし達にはやることがある。
+","「あたし達」か…。
+",[],,,NOT_CHECKED,59,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Amanda，你腿好了之后
+会回来的，对吧？","[""Amanda，你腿好了之后\n会回来的，对吧？""]","Amanda, you're coming back after your
+leg heals, right?
+","[""Amanda, you're coming back after your\nleg heals, right?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#16; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,19,stream=0x370000;block=0x5D0;text=19,"[""stream=0x370000;block=0x5D0;text=19""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","勿論よ…。
+あたし達にはやることがある。
+","「あたし達」か…。
+","それは、チコの将来をちゃんと考えた上で
+言っているんだな？
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然。我们还有事要做。,"[""当然。我们还有事要做。""]","Of course. We still have work to do.
+","[""Of course. We still have work to do.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#17; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,20,stream=0x370000;block=0x5D0;text=20,"[""stream=0x370000;block=0x5D0;text=20""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","「あたし達」か…。
+","それは、チコの将来をちゃんと考えた上で
+言っているんだな？
+","どういう事？
+あたし達は父の遺志を継いで革命を成功させる。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"「我们」？哼…你这么说的时候，
+确定把Chico的未来考虑在内了吗？","[""「我们」？哼…你这么说的时候，\n确定把Chico的未来考虑在内了吗？""]","""We,"" huh... Are you sure you've got
+Chico's future in mind when you say that?
+","[""\""We,\"" huh... Are you sure you've got\nChico's future in mind when you say that?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#18; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,21,stream=0x370000;block=0x5D0;text=21,"[""stream=0x370000;block=0x5D0;text=21""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","それは、チコの将来をちゃんと考えた上で
+言っているんだな？
+","どういう事？
+あたし達は父の遺志を継いで革命を成功させる。
+","革命だろうが、何だろうが、
+銃を手にひとたび暴力に訴えれば、
+いずれは皆地獄に堕ちる。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你什么意思？我们发誓继承
+父亲的事业，帮助革命成功。","[""你什么意思？我们发誓继承\n父亲的事业，帮助革命成功。""]","What do you mean? We're sworn to our
+father's cause, to helping the revolution
+succeed.
+","[""What do you mean? We're sworn to our\nfather's cause, to helping the revolution\nsucceed.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#19; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,22,stream=0x370000;block=0x5D0;text=22,"[""stream=0x370000;block=0x5D0;text=22""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","どういう事？
+あたし達は父の遺志を継いで革命を成功させる。
+","革命だろうが、何だろうが、
+銃を手にひとたび暴力に訴えれば、
+いずれは皆地獄に堕ちる。
+","その覚悟はあるのか？
+",[],,,NOT_CHECKED,126,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管有没有革命，
+你拿起枪，迟早会下地狱。","[""不管有没有革命，\n你拿起枪，迟早会下地狱。""]","Revolution or no revolution, you pick up a
+gun, and sooner or later you're going to
+hell.
+","[""Revolution or no revolution, you pick up a\ngun, and sooner or later you're going to\nhell.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#20; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,23,stream=0x370000;block=0x5D0;text=23,"[""stream=0x370000;block=0x5D0;text=23""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","革命だろうが、何だろうが、
+銃を手にひとたび暴力に訴えれば、
+いずれは皆地獄に堕ちる。
+","その覚悟はあるのか？
+","覚悟ならある。
+<R=祖国,ニカ>を捨てるくらいなら、
+地獄に堕ちた方がいい。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你准备好了吗？,"[""你准备好了吗？""]","Are you prepared for that?
+","[""Are you prepared for that?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#21; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,24,stream=0x370000;block=0x5D0;text=24,"[""stream=0x370000;block=0x5D0;text=24""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","その覚悟はあるのか？
+","覚悟ならある。
+<R=祖国,ニカ>を捨てるくらいなら、
+地獄に堕ちた方がいい。
+","そうか…。
+なら、チコを弟としてではなく、
+ひとりの戦士として扱うことだ。
+","[""<R=祖国,ニカ>""]",,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我准备好了。如果另一条路是放弃
+我热爱的国家，我宁愿下地狱。","[""我准备好了。如果另一条路是放弃\n我热爱的国家，我宁愿下地狱。""]","I am. If the alternative is giving up the
+country I love, I'll take hell.
+","[""I am. If the alternative is giving up the\ncountry I love, I'll take hell.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#22; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,25,stream=0x370000;block=0x5D0;text=25,"[""stream=0x370000;block=0x5D0;text=25""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","覚悟ならある。
+<R=祖国,ニカ>を捨てるくらいなら、
+地獄に堕ちた方がいい。
+","そうか…。
+なら、チコを弟としてではなく、
+ひとりの戦士として扱うことだ。
+","ええ、そうね…。
+",[],,,NOT_CHECKED,108,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是吗…那你得停止把Chico当兄弟看待，并且开始把他当士兵看待。,"[""是吗…那你得停止把Chico当兄弟看待，并且开始把他当士兵看待。""]","Really... Well then, you're going to have to
+stop treating Chico like a brother
+and start treating him like a soldier.
+","[""Really... Well then, you're going to have to\nstop treating Chico like a brother\nand start treating him like a soldier.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3705D0; ENG blocks=0x388570,0x388570; ENG source rows=0x388570#23,0x388570#24; block_semantic_score=1.000000."
+BRIEFING_MISSION_BLOCK_3705D0,26,stream=0x370000;block=0x5D0;text=26,"[""stream=0x370000;block=0x5D0;text=26""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","そうか…。
+なら、チコを弟としてではなく、
+ひとりの戦士として扱うことだ。
+","ええ、そうね…。
+","ようこそ、<R= 地　獄 ,アウター・ヘブン>へ。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我…你说得对。,"[""我…你说得对。""]","I ...You're right.
+","[""I ...You're right.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#25; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,27,stream=0x370000;block=0x5D0;text=27,"[""stream=0x370000;block=0x5D0;text=27""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","ええ、そうね…。
+","ようこそ、<R= 地　獄 ,アウター・ヘブン>へ。
+","スネーク、ちょっと頼みがあるんだ。
+","[""<R= 地　獄 ,アウター・ヘブン>""]",,,NOT_CHECKED,62,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…欢迎来到地狱。,"[""…欢迎来到地狱。""]","...Welcome to hell.
+","[""...Welcome to hell.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#26; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,28,stream=0x370000;block=0x5D0;text=28,"[""stream=0x370000;block=0x5D0;text=28""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","ようこそ、<R= 地　獄 ,アウター・ヘブン>へ。
+","スネーク、ちょっと頼みがあるんだ。
+","何だ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Snake，我能请你帮个忙吗？,"[""Snake，我能请你帮个忙吗？""]","Snake, can I ask you a favor?
+","[""Snake, can I ask you a favor?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#27; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,29,stream=0x370000;block=0x5D0;text=29,"[""stream=0x370000;block=0x5D0;text=29""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","スネーク、ちょっと頼みがあるんだ。
+","何だ。
+","捕まった<R=FSLN,フレンテ>がいたら、助けて欲しいんだ。
+その…。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,说吧。,"[""说吧。""]","Shoot.
+","[""Shoot.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#28; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,30,stream=0x370000;block=0x5D0;text=30,"[""stream=0x370000;block=0x5D0;text=30""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","何だ。
+","捕まった<R=FSLN,フレンテ>がいたら、助けて欲しいんだ。
+その…。
+","喋ってしまった罪滅ぼしか？
+","[""<R=FSLN,フレンテ>""]",,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你要是找到任何阵线的俘虏，
+就把他们活着带回来。因为…","[""你要是找到任何阵线的俘虏，\n就把他们活着带回来。因为…""]","You find any prisoners from el Frente,
+you bring 'em back alive. 'Cause...
+","[""You find any prisoners from el Frente,\nyou bring 'em back alive. 'Cause...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#29; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,31,stream=0x370000;block=0x5D0;text=31,"[""stream=0x370000;block=0x5D0;text=31""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","捕まった<R=FSLN,フレンテ>がいたら、助けて欲しいんだ。
+その…。
+","喋ってしまった罪滅ぼしか？
+","それだけじゃない。
+<R=同志,コンパ>なんだ。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你是想为招供的事赎罪吗？,"[""你是想为招供的事赎罪吗？""]","You trying to make amends for talking?
+","[""You trying to make amends for talking?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#30; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,32,stream=0x370000;block=0x5D0;text=32,"[""stream=0x370000;block=0x5D0;text=32""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","喋ってしまった罪滅ぼしか？
+","それだけじゃない。
+<R=同志,コンパ>なんだ。
+","わかった。
+だが、奴らの積み荷を追うのが先決だ。
+","[""<R=同志,コンパ>""]",,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不只是因为那个。因为他们是同志…,"[""不只是因为那个。因为他们是同志…""]","Not just that. Because they're compas...
+","[""Not just that. Because they're compas...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#31; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,33,stream=0x370000;block=0x5D0;text=33,"[""stream=0x370000;block=0x5D0;text=33""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","それだけじゃない。
+<R=同志,コンパ>なんだ。
+","わかった。
+だが、奴らの積み荷を追うのが先決だ。
+","何でも協力するよ。
+",[],,,NOT_CHECKED,71,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好吧。但我得先追上那批货物。,"[""好吧。但我得先追上那批货物。""]","All right. But first I've gotta catch up to
+that cargo.
+","[""All right. But first I've gotta catch up to\nthat cargo.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#32; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,34,stream=0x370000;block=0x5D0;text=34,"[""stream=0x370000;block=0x5D0;text=34""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","わかった。
+だが、奴らの積み荷を追うのが先決だ。
+","何でも協力するよ。
+","そのあたりのことでわからないことがあったら、
+無線で呼んで。それから…。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会尽全力帮忙。,"[""我会尽全力帮忙。""]","I'll do whatever I can to help.
+","[""I'll do whatever I can to help.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#33; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,35,stream=0x370000;block=0x5D0;text=35,"[""stream=0x370000;block=0x5D0;text=35""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","何でも協力するよ。
+","そのあたりのことでわからないことがあったら、
+無線で呼んで。それから…。
+","ん？
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你需要了解这片地区的
+什么情况，就联系我。还有…","[""如果你需要了解这片地区的\n什么情况，就联系我。还有…""]","Call me if there's anything you need to
+know about the area. And...
+","[""Call me if there's anything you need to\nknow about the area. And...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#34; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,36,stream=0x370000;block=0x5D0;text=36,"[""stream=0x370000;block=0x5D0;text=36""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","そのあたりのことでわからないことがあったら、
+無線で呼んで。それから…。
+","ん？
+","見たことない生き物がいたら、知らせてくれよ。
+",[],,,NOT_CHECKED,7,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有什么？,"[""还有什么？""]","And what?
+","[""And what?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#35; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,37,stream=0x370000;block=0x5D0;text=37,"[""stream=0x370000;block=0x5D0;text=37""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","ん？
+","見たことない生き物がいたら、知らせてくれよ。
+","見たことない？
+お前が言っていた“バシリスコ”か？
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你遇到以前从没见过的
+野生动物，告诉我。","[""如果你遇到以前从没见过的\n野生动物，告诉我。""]","Let me know if you encounter any wildlife
+you've never seen before.
+","[""Let me know if you encounter any wildlife\nyou've never seen before.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#36; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,38,stream=0x370000;block=0x5D0;text=38,"[""stream=0x370000;block=0x5D0;text=38""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","見たことない生き物がいたら、知らせてくれよ。
+","見たことない？
+お前が言っていた“バシリスコ”か？
+","<R=『UMA』,ユーマ>だよ。
+",[],,,NOT_CHECKED,74,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"从没见过？什么，
+比如你说的那种basilisco？","[""从没见过？什么，\n比如你说的那种basilisco？""]","Never seen before? What, like that
+basilisco you were talking about?
+","[""Never seen before? What, like that\nbasilisco you were talking about?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#37; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,39,stream=0x370000;block=0x5D0;text=39,"[""stream=0x370000;block=0x5D0;text=39""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","見たことない？
+お前が言っていた“バシリスコ”か？
+","<R=『UMA』,ユーマ>だよ。
+","<R=『UMA』,ユーマ>？
+","[""<R=『UMA』,ユーマ>""]",,,NOT_CHECKED,33,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我说的是未知生物。,"[""我说的是未知生物。""]","I'm talking about UMAs.
+","[""I'm talking about UMAs.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#38; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,40,stream=0x370000;block=0x5D0;text=40,"[""stream=0x370000;block=0x5D0;text=40""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","<R=『UMA』,ユーマ>だよ。
+","<R=『UMA』,ユーマ>？
+","生き残りの恐竜とか、珍しい<R=怪物,モンスター>のことさ。
+いつか俺、<R=狩人,ハンター>になりたいんだ。
+","[""<R=『UMA』,ユーマ>""]",,,NOT_CHECKED,27,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,U…M…A？,"[""U…M…A？""]","U... M... As?
+","[""U... M... As?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#39; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,41,stream=0x370000;block=0x5D0;text=41,"[""stream=0x370000;block=0x5D0;text=41""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","<R=『UMA』,ユーマ>？
+","生き残りの恐竜とか、珍しい<R=怪物,モンスター>のことさ。
+いつか俺、<R=狩人,ハンター>になりたいんだ。
+","そうか。わかった。
+","[""<R=怪物,モンスター>"", ""<R=狩人,ハンター>""]",,,NOT_CHECKED,144,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你知道，就像远古恐龙
+或传说中的怪物。","[""你知道，就像远古恐龙\n或传说中的怪物。""]","Y'know, like ancient dinosaurs or
+legendary monsters.
+","[""Y'know, like ancient dinosaurs or\nlegendary monsters.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#40; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,42,stream=0x370000;block=0x5D0;text=42,"[""stream=0x370000;block=0x5D0;text=42""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","生き残りの恐竜とか、珍しい<R=怪物,モンスター>のことさ。
+いつか俺、<R=狩人,ハンター>になりたいんだ。
+","そうか。わかった。
+","詳しく聞きたかったら、また教えるよ。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是吗。好啊，没问题。,"[""是吗。好啊，没问题。""]","Is that right. OK, sure.
+","[""Is that right. OK, sure.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#42; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,43,stream=0x370000;block=0x5D0;text=43,"[""stream=0x370000;block=0x5D0;text=43""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","そうか。わかった。
+","詳しく聞きたかったら、また教えるよ。
+","ああ。
+よろしくな、チコ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,如果你想了解更多，我很乐意告诉你！,"[""如果你想了解更多，我很乐意告诉你！""]","If you wanna know more, I'm happy to tell
+you!
+","[""If you wanna know more, I'm happy to tell\nyou!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#43; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,44,stream=0x370000;block=0x5D0;text=44,"[""stream=0x370000;block=0x5D0;text=44""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","詳しく聞きたかったら、また教えるよ。
+","ああ。
+よろしくな、チコ。
+","よし、スネーク。
+敵の資材は次の拠点、<R=列車車庫,ターミナル>に向かっている。
+",[],,,NOT_CHECKED,38,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好。我会跟你联系的，Chico。,"[""好。我会跟你联系的，Chico。""]","Right. I'll be in touch, Chico.
+","[""Right. I'll be in touch, Chico.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#44; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,45,stream=0x370000;block=0x5D0;text=45,"[""stream=0x370000;block=0x5D0;text=45""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","ああ。
+よろしくな、チコ。
+","よし、スネーク。
+敵の資材は次の拠点、<R=列車車庫,ターミナル>に向かっている。
+","チコはその先には誰も踏み込んだことがないと。
+","[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,112,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"好的，Snake。敌人的货物正运往
+下一个前哨站，一个铁路终点站。","[""好的，Snake。敌人的货物正运往\n下一个前哨站，一个铁路终点站。""]","OK, Snake. The enemy's cargo is headed
+for the next outpost, a rail terminal.
+","[""OK, Snake. The enemy's cargo is headed\nfor the next outpost, a rail terminal.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#45; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,46,stream=0x370000;block=0x5D0;text=46,"[""stream=0x370000;block=0x5D0;text=46""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","よし、スネーク。
+敵の資材は次の拠点、<R=列車車庫,ターミナル>に向かっている。
+","チコはその先には誰も踏み込んだことがないと。
+","トンネルの向こうは恐らく奴らの本拠地だ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico说从来没人能越过那里。,"[""Chico说从来没人能越过那里。""]","Chico says no one's ever set foot past
+there.
+","[""Chico says no one's ever set foot past\nthere.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#46; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,47,stream=0x370000;block=0x5D0;text=47,"[""stream=0x370000;block=0x5D0;text=47""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","チコはその先には誰も踏み込んだことがないと。
+","トンネルの向こうは恐らく奴らの本拠地だ。
+","トンネルの手前で食い止めないと
+<R=“槍”,スピア>は敵の手に落ちる。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们的主基地很可能就
+在那条隧道的另一边。","[""他们的主基地很可能就\n在那条隧道的另一边。""]","Their main base is probably on the other
+side of that tunnel.
+","[""Their main base is probably on the other\nside of that tunnel.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#47; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,48,stream=0x370000;block=0x5D0;text=48,"[""stream=0x370000;block=0x5D0;text=48""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","トンネルの向こうは恐らく奴らの本拠地だ。
+","トンネルの手前で食い止めないと
+<R=“槍”,スピア>は敵の手に落ちる。
+","なんとしてもここで阻止するんだ。
+先を急ごう。
+","[""<R=“槍”,スピア>""]",,,NOT_CHECKED,97,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"除非我们在它们到达那里之前截住
+那些长矛，否则它们就会落入敌手。","[""除非我们在它们到达那里之前截住\n那些长矛，否则它们就会落入敌手。""]","Unless we catch those spears before
+reaching it, they'll be in enemy hands.
+","[""Unless we catch those spears before\nreaching it, they'll be in enemy hands.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#48; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_3705D0,49,stream=0x370000;block=0x5D0;text=49,"[""stream=0x370000;block=0x5D0;text=49""]",1,d2040_m0080_mrd,"[""stream=0x370000;block=0x5D0;block_file=0x3705D0;text_base=0x3706B8;capacity=2980""]","トンネルの手前で食い止めないと
+<R=“槍”,スピア>は敵の手に落ちる。
+","なんとしてもここで阻止するんだ。
+先を急ごう。
+",,[],,,NOT_CHECKED,68,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你必须截住它们。快，Snake。,"[""你必须截住它们。快，Snake。""]","You've got to stop them. Hurry, Snake.
+","[""You've got to stop them. Hurry, Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3705D0; ENG blocks=0x388570; ENG source rows=0x388570#49; block_semantic_score=1.000000.

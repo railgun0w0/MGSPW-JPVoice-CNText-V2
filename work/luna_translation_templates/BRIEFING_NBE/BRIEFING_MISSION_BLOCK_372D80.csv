@@ -1,0 +1,19 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_372D80,0,stream=0x372000;block=0xD80;text=0,"[""stream=0x372000;block=0xD80;text=0""]",1,d2180_m0160_mrd,"[""stream=0x372000;block=0xD80;block_file=0x372D80;text_base=0x372DA8;capacity=220""]",,"気をつけろスネーク！
+あんな兵器は見たことがない。
+","対抗手段はわからないが、その博士が
+何か知っているかもしれない。
+とにかく、そいつを排除するんだ！
+",[],,,NOT_CHECKED,74,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我从没见过那种东西，
+也不知道该怎么把它干掉。","[""我从没见过那种东西，\n也不知道该怎么把它干掉。""]","I've never seen anything like that, and I've
+got no idea how to bring it down.
+","[""I've never seen anything like that, and I've\ngot no idea how to bring it down.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x372D80; ENG blocks=0x38A500; ENG source rows=0x38A500#1; block_semantic_score=1.000000.
+BRIEFING_MISSION_BLOCK_372D80,1,stream=0x372000;block=0xD80;text=1,"[""stream=0x372000;block=0xD80;text=1""]",1,d2180_m0160_mrd,"[""stream=0x372000;block=0xD80;block_file=0x372D80;text_base=0x372DA8;capacity=220""]","気をつけろスネーク！
+あんな兵器は見たことがない。
+","対抗手段はわからないが、その博士が
+何か知っているかもしれない。
+とにかく、そいつを排除するんだ！
+",,[],,,NOT_CHECKED,144,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"也许那个科学家知道。
+不管用什么方法，把那东西干掉！","[""也许那个科学家知道。\n不管用什么方法，把那东西干掉！""]","Maybe the scientist knows. However you
+do it, take that thing out!
+","[""Maybe the scientist knows. However you\ndo it, take that thing out!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x372D80; ENG blocks=0x38A500; ENG source rows=0x38A500#2; block_semantic_score=1.000000.

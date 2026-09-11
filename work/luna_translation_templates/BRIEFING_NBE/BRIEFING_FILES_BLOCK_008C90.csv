@@ -1,0 +1,83 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_008C90,0,stream=0x8000;block=0xC90;text=0,"[""stream=0x8000;block=0xC90;text=0""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]",,"カズ、どうした。声に元気がないぞ。
+","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么了，Kaz？你听起来很疲惫。,"[""怎么了，Kaz？你听起来很疲惫。""]","What's wrong, Kaz? You sound beat.
+","[""What's wrong, Kaz? You sound beat.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#0; block_semantic_score=0.072149.
+BRIEFING_FILES_BLOCK_008C90,1,stream=0x8000;block=0xC90;text=1,"[""stream=0x8000;block=0xC90;text=1""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","カズ、どうした。声に元気がないぞ。
+","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
+","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
+すれば、コミュニケーションにもなる。
+","[""<R=こっち,マザーベース>""]",,,NOT_CHECKED,87,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，这里的麻烦事
+似乎永远没完没了…","[""是啊，这里的麻烦事\n似乎永远没完没了…""]","Yeah, the problems never seem to end around
+here...
+","[""Yeah, the problems never seem to end around\nhere...\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#1; block_semantic_score=0.072149.
+BRIEFING_FILES_BLOCK_008C90,2,stream=0x8000;block=0xC90;text=2,"[""stream=0x8000;block=0xC90;text=2""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
+","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
+すれば、コミュニケーションにもなる。
+","ゲバラ達も、そうやってマテ茶を回し飲みしたのかな。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你该休息一下了。
+跟其他弟兄们分享一杯马黛茶吧。","[""你该休息一下了。\n跟其他弟兄们分享一杯马黛茶吧。""]","You should take a break. Share a cup of mate with
+the other guys.
+","[""You should take a break. Share a cup of mate with\nthe other guys.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#2; block_semantic_score=0.072149.
+BRIEFING_FILES_BLOCK_008C90,3,stream=0x8000;block=0xC90;text=3,"[""stream=0x8000;block=0xC90;text=3""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
+すれば、コミュニケーションにもなる。
+","ゲバラ達も、そうやってマテ茶を回し飲みしたのかな。
+","そうだろうな。彼のマテ茶好きは有名だ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不知道切和他的手下有没有
+围坐在一起喝过马黛茶。","[""不知道切和他的手下有没有\n围坐在一起喝过马黛茶。""]","I wonder if Che and his men ever sat around drank
+mate.
+","[""I wonder if Che and his men ever sat around drank\nmate.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#4; block_semantic_score=0.072149.
+BRIEFING_FILES_BLOCK_008C90,4,stream=0x8000;block=0xC90;text=4,"[""stream=0x8000;block=0xC90;text=4""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","ゲバラ達も、そうやってマテ茶を回し飲みしたのかな。
+","そうだろうな。彼のマテ茶好きは有名だ。
+","しかし、よく考えたもんだ。ヒョウタンに入れて携帯でき
+るし、ストローに漉し器が付いているから、すぐ飲める。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我猜他们肯定喝过。
+切最出名的就是爱喝这个。","[""我猜他们肯定喝过。\n切最出名的就是爱喝这个。""]","I bet they did. Che was famous for his love of the
+stuff.
+","[""I bet they did. Che was famous for his love of the\nstuff.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#5; block_semantic_score=0.072149.
+BRIEFING_FILES_BLOCK_008C90,5,stream=0x8000;block=0xC90;text=5,"[""stream=0x8000;block=0xC90;text=5""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","そうだろうな。彼のマテ茶好きは有名だ。
+","しかし、よく考えたもんだ。ヒョウタンに入れて携帯でき
+るし、ストローに漉し器が付いているから、すぐ飲める。
+","それだけじゃない。食料が不足しがちなゲリラ戦において、
+ビタミンやミネラルの補給にもなる。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"天啊，想出这招的人真是个天才。
+你可以把它装进葫芦里随身携带，而且还配有特制的过滤
+吸管，随时都能喝。","[""天啊，想出这招的人真是个天才。\n你可以把它装进葫芦里随身携带，而且还配有特制的过滤\n吸管，随时都能喝。""]","Man, whoever thought of this was a genius. You
+can put it in a gourd and carry it around,
+and there's a special straw with a filter attached
+so you can drink it anytime.
+","[""Man, whoever thought of this was a genius. You\ncan put it in a gourd and carry it around,\nand there's a special straw with a filter attached\nso you can drink it anytime.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x8C90; ENG blocks=0x9D0B0,0x9D0B0; ENG source rows=0x9D0B0#6,0x9D0B0#7; block_semantic_score=0.072149."
+BRIEFING_FILES_BLOCK_008C90,6,stream=0x8000;block=0xC90;text=6,"[""stream=0x8000;block=0xC90;text=6""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","しかし、よく考えたもんだ。ヒョウタンに入れて携帯でき
+るし、ストローに漉し器が付いているから、すぐ飲める。
+","それだけじゃない。食料が不足しがちなゲリラ戦において、
+ビタミンやミネラルの補給にもなる。
+","俺もハイキングの最中に、金髪のパリジェンヌと回し飲み
+できれば最高なんだが。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不只如此，它还富含各种
+必需维生素和矿物质。打游击战的时候食物短缺，
+有这个真是帮大忙了。","[""不只如此，它还富含各种\n必需维生素和矿物质。打游击战的时候食物短缺，\n有这个真是帮大忙了。""]","That's not all. It's full of essential vitamins and
+minerals, too.
+Nice to have in a guerrilla war when food is short.
+","[""That's not all. It's full of essential vitamins and\nminerals, too.\nNice to have in a guerrilla war when food is short.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x8C90; ENG blocks=0x9D0B0,0x9D0B0; ENG source rows=0x9D0B0#8,0x9D0B0#9; block_semantic_score=0.072149."
+BRIEFING_FILES_BLOCK_008C90,7,stream=0x8000;block=0xC90;text=7,"[""stream=0x8000;block=0xC90;text=7""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","それだけじゃない。食料が不足しがちなゲリラ戦において、
+ビタミンやミネラルの補給にもなる。
+","俺もハイキングの最中に、金髪のパリジェンヌと回し飲み
+できれば最高なんだが。
+","…何で知ってるんだ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，我出去徒步的时候，
+真希望能有机会跟一位金发的
+巴黎女郎一起分享一杯。","[""是啊，我出去徒步的时候，\n真希望能有机会跟一位金发的\n巴黎女郎一起分享一杯。""]","Yeah, I wish I had a chance to share some with a
+blonde Parisienne when I was out hiking.
+","[""Yeah, I wish I had a chance to share some with a\nblonde Parisienne when I was out hiking.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#10; block_semantic_score=0.072149.
+BRIEFING_FILES_BLOCK_008C90,8,stream=0x8000;block=0xC90;text=8,"[""stream=0x8000;block=0xC90;text=8""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","俺もハイキングの最中に、金髪のパリジェンヌと回し飲み
+できれば最高なんだが。
+","…何で知ってるんだ。
+","蛇の道は蛇だよ、スネーク。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你怎么知道这事的？,"[""…你怎么知道这事的？""]","...How do you know about that?
+","[""...How do you know about that?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#11; block_semantic_score=0.072149.
+BRIEFING_FILES_BLOCK_008C90,9,stream=0x8000;block=0xC90;text=9,"[""stream=0x8000;block=0xC90;text=9""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","…何で知ってるんだ。
+","蛇の道は蛇だよ、スネーク。
+",,[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这叫做贼喊捉贼——不对，
+应该说是蛇喊捉蛇，Snake。","[""这叫做贼喊捉贼——不对，\n应该说是蛇喊捉蛇，Snake。""]","It takes a thief - or should I say it takes a snake -
+to know one, Snake.
+","[""It takes a thief - or should I say it takes a snake -\nto know one, Snake.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x8C90; ENG blocks=0x9D0B0; ENG source rows=0x9D0B0#12; block_semantic_score=0.072149.

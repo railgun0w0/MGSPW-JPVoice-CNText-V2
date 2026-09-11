@@ -1,0 +1,114 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_005520,0,stream=0x5000;block=0x520;text=0,"[""stream=0x5000;block=0x520;text=0""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]",,"コスタリカが軍隊を廃止したのは、1949年だったか？
+当時の中米で、よくそんな決断ができたもんだ。
+","内戦が終わったばかりだったからな。パスが言うように、
+その悲劇を繰り返すまい、という気持ちがあったのは確か
+だろう。
+",[],,,NOT_CHECKED,138,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哥斯达黎加是哪年废除
+军队的来着，1949年？对当时的中美洲国家来说，
+这真是相当有胆识的举动。","[""哥斯达黎加是哪年废除\n军队的来着，1949年？对当时的中美洲国家来说，\n这真是相当有胆识的举动。""]","So Costa Rica abolished its army back in, what,
+1949?
+Pretty gutsy move for a Central American nation
+at the time.
+","[""So Costa Rica abolished its army back in, what,\n1949?\nPretty gutsy move for a Central American nation\nat the time.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5520; ENG blocks=0x99B80,0x99B80; ENG source rows=0x99B80#0,0x99B80#1; block_semantic_score=0.196978."
+BRIEFING_FILES_BLOCK_005520,1,stream=0x5000;block=0x520;text=1,"[""stream=0x5000;block=0x520;text=1""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","コスタリカが軍隊を廃止したのは、1949年だったか？
+当時の中米で、よくそんな決断ができたもんだ。
+","内戦が終わったばかりだったからな。パスが言うように、
+その悲劇を繰り返すまい、という気持ちがあったのは確か
+だろう。
+","ただ、もっと切実な理由もあったはずだ。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，而且他们当时刚打完内战。我相信他们是出于避免重蹈悲剧
+覆辙的愿望，就像Paz说的那样。","[""是啊，而且他们当时刚打完内战。我相信他们是出于避免重蹈悲剧\n覆辙的愿望，就像Paz说的那样。""]","Yeah, well, they'd just come out of a civil war.
+I'm sure they were driven by a desire to avoid
+another tragedy, like Paz said.
+","[""Yeah, well, they'd just come out of a civil war.\nI'm sure they were driven by a desire to avoid\nanother tragedy, like Paz said.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5520; ENG blocks=0x99B80,0x99B80; ENG source rows=0x99B80#2,0x99B80#3; block_semantic_score=0.196978."
+BRIEFING_FILES_BLOCK_005520,2,stream=0x5000;block=0x520;text=2,"[""stream=0x5000;block=0x520;text=2""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","内戦が終わったばかりだったからな。パスが言うように、
+その悲劇を繰り返すまい、という気持ちがあったのは確か
+だろう。
+","ただ、もっと切実な理由もあったはずだ。
+","中南米では、軍部がクーデターを繰り返す国が珍しくない。
+それを間近で見ていれば…。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,不过我觉得他们有更有说服力的理由。,"[""不过我觉得他们有更有说服力的理由。""]","But I think they had a more compelling reason.
+","[""But I think they had a more compelling reason.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5520; ENG blocks=0x99B80; ENG source rows=0x99B80#4; block_semantic_score=0.196978.
+BRIEFING_FILES_BLOCK_005520,3,stream=0x5000;block=0x520;text=3,"[""stream=0x5000;block=0x520;text=3""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","ただ、もっと切実な理由もあったはずだ。
+","中南米では、軍部がクーデターを繰り返す国が珍しくない。
+それを間近で見ていれば…。
+","軍隊がなければ、軍部によるクーデターもない…道理だな。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"军事政变在很多拉美国家
+都是家常便饭。真难以想象亲眼目睹
+那种场面是什么感觉…","[""军事政变在很多拉美国家\n都是家常便饭。真难以想象亲眼目睹\n那种场面是什么感觉…""]","Army coups d'état are a way of life in so many
+Latin American countries.
+Imagine seeing that up close...
+","[""Army coups d'état are a way of life in so many\nLatin American countries.\nImagine seeing that up close...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5520; ENG blocks=0x99B80,0x99B80; ENG source rows=0x99B80#5,0x99B80#6; block_semantic_score=0.196978."
+BRIEFING_FILES_BLOCK_005520,4,stream=0x5000;block=0x520;text=4,"[""stream=0x5000;block=0x520;text=4""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","中南米では、軍部がクーデターを繰り返す国が珍しくない。
+それを間近で見ていれば…。
+","軍隊がなければ、軍部によるクーデターもない…道理だな。
+","それに経済が疲弊していて、軍隊に回す金がなかった、と
+いうのも正直なところだろう。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没有军队，就没有政变…有道理。,"[""没有军队，就没有政变…有道理。""]","No army, no coups... Makes sense.
+","[""No army, no coups... Makes sense.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5520; ENG blocks=0x99B80; ENG source rows=0x99B80#7; block_semantic_score=0.196978.
+BRIEFING_FILES_BLOCK_005520,5,stream=0x5000;block=0x520;text=5,"[""stream=0x5000;block=0x520;text=5""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","軍隊がなければ、軍部によるクーデターもない…道理だな。
+","それに経済が疲弊していて、軍隊に回す金がなかった、と
+いうのも正直なところだろう。
+","だが当時のニカラグアとは、決して友好的な関係ではなか
+ったはずだ。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,再加上他们经济一片废墟，所以他们说实话根本没钱花在军队上。,"[""再加上他们经济一片废墟，所以他们说实话根本没钱花在军队上。""]","Plus their economy was in ruins,
+so they honestly didn't have any money to spend
+on an army anyway.
+","[""Plus their economy was in ruins,\nso they honestly didn't have any money to spend\non an army anyway.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5520; ENG blocks=0x99B80,0x99B80; ENG source rows=0x99B80#8,0x99B80#9; block_semantic_score=0.196978."
+BRIEFING_FILES_BLOCK_005520,6,stream=0x5000;block=0x520;text=6,"[""stream=0x5000;block=0x520;text=6""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","それに経済が疲弊していて、軍隊に回す金がなかった、と
+いうのも正直なところだろう。
+","だが当時のニカラグアとは、決して友好的な関係ではなか
+ったはずだ。
+","ああ。実際に侵攻されたこともある。だが、市民警備隊の
+反撃や、<R=米州機構,OAS>の仲介によって停戦となった。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，可他们跟尼加拉瓜
+关系不是不怎么好吗？","[""是啊，可他们跟尼加拉瓜\n关系不是不怎么好吗？""]","Yeah, but weren't they on less-than-friendly terms
+with Nicaragua?
+","[""Yeah, but weren't they on less-than-friendly terms\nwith Nicaragua?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5520; ENG blocks=0x99B80; ENG source rows=0x99B80#10; block_semantic_score=0.196978.
+BRIEFING_FILES_BLOCK_005520,7,stream=0x5000;block=0x520;text=7,"[""stream=0x5000;block=0x520;text=7""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","だが当時のニカラグアとは、決して友好的な関係ではなか
+ったはずだ。
+","ああ。実際に侵攻されたこともある。だが、市民警備隊の
+反撃や、<R=米州機構,OAS>の仲介によって停戦となった。
+","アメリカを始めとした、<R=米州機構,OAS>の後ろ盾を十分に活用し
+たわけだ。
+","[""<R=米州機構,OAS>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，事实上尼加拉瓜后来确实
+入侵了。但民防军奋起反击，然后美洲国家组织(OAS)
+出面斡旋促成了停火。","[""是啊，事实上尼加拉瓜后来确实\n入侵了。但民防军奋起反击，然后美洲国家组织(OAS)\n出面斡旋促成了停火。""]","Yeah, and in fact Nicaragua did end up invading.
+But the Civil Guard fought back,
+and the OAS (Organization of American States)
+brokered a cease-fire.
+","[""Yeah, and in fact Nicaragua did end up invading.\nBut the Civil Guard fought back,\nand the OAS (Organization of American States)\nbrokered a cease-fire.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5520; ENG blocks=0x99B80,0x99B80; ENG source rows=0x99B80#11,0x99B80#12; block_semantic_score=0.196978."
+BRIEFING_FILES_BLOCK_005520,8,stream=0x5000;block=0x520;text=8,"[""stream=0x5000;block=0x520;text=8""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","ああ。実際に侵攻されたこともある。だが、市民警備隊の
+反撃や、<R=米州機構,OAS>の仲介によって停戦となった。
+","アメリカを始めとした、<R=米州機構,OAS>の後ろ盾を十分に活用し
+たわけだ。
+","火種だらけの中米で、四半世紀も軍隊なしでやってきたん
+だ。外交努力は必須ってところだろう。
+","[""<R=米州機構,OAS>""]",,,NOT_CHECKED,103,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"美国和美洲国家组织(OAS)
+其他成员都在背后撑腰，
+他们也充分利用了这一点。","[""美国和美洲国家组织(OAS)\n其他成员都在背后撑腰，\n他们也充分利用了这一点。""]","The U.S. and the rest of OAS had their back, and
+they used it to full advantage.
+","[""The U.S. and the rest of OAS had their back, and\nthey used it to full advantage.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5520; ENG blocks=0x99B80; ENG source rows=0x99B80#13; block_semantic_score=0.196978.
+BRIEFING_FILES_BLOCK_005520,9,stream=0x5000;block=0x520;text=9,"[""stream=0x5000;block=0x520;text=9""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","アメリカを始めとした、<R=米州機構,OAS>の後ろ盾を十分に活用し
+たわけだ。
+","火種だらけの中米で、四半世紀も軍隊なしでやってきたん
+だ。外交努力は必須ってところだろう。
+","市民警備隊の装備も警察にしては豪華だが。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"四分之一个世纪以来，他们在中美洲
+这个火药桶里一直生存了下来。那肯定需要相当高超的外交手腕。","[""四分之一个世纪以来，他们在中美洲\n这个火药桶里一直生存了下来。那肯定需要相当高超的外交手腕。""]","For a quarter century, they've survived in the
+powder keg of Central America.
+That must've taken some serious diplomacy.
+","[""For a quarter century, they've survived in the\npowder keg of Central America.\nThat must've taken some serious diplomacy.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5520; ENG blocks=0x99B80,0x99B80; ENG source rows=0x99B80#14,0x99B80#15; block_semantic_score=0.196978."
+BRIEFING_FILES_BLOCK_005520,10,stream=0x5000;block=0x520;text=10,"[""stream=0x5000;block=0x520;text=10""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","火種だらけの中米で、四半世紀も軍隊なしでやってきたん
+だ。外交努力は必須ってところだろう。
+","市民警備隊の装備も警察にしては豪華だが。
+","『軍隊のない国』も大変だな。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"尽管民防军的装备对一支
+警察部队来说相当豪华。","[""尽管民防军的装备对一支\n警察部队来说相当豪华。""]","Even if the Civil Guard is pretty decked out for a
+police force.
+","[""Even if the Civil Guard is pretty decked out for a\npolice force.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5520; ENG blocks=0x99B80; ENG source rows=0x99B80#16; block_semantic_score=0.196978.
+BRIEFING_FILES_BLOCK_005520,11,stream=0x5000;block=0x520;text=11,"[""stream=0x5000;block=0x520;text=11""]",1,BRIEFING FILES,"[""stream=0x5000;block=0x520;block_file=0x5520;text_base=0x5570;capacity=1300""]","市民警備隊の装備も警察にしては豪華だが。
+","『軍隊のない国』も大変だな。
+",,[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,没有军队的国家，日子肯定不好过吧。,"[""没有军队的国家，日子肯定不好过吧。""]","Must be tough to be a country without an army.
+","[""Must be tough to be a country without an army.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5520; ENG blocks=0x99B80; ENG source rows=0x99B80#17; block_semantic_score=0.196978.

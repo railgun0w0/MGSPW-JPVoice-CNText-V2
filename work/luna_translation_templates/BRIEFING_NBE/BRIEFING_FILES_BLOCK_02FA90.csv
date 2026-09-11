@@ -1,0 +1,55 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02FA90,0,stream=0x2F000;block=0xA90;text=0,"[""stream=0x2F000;block=0xA90;text=0""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]",,"サンディーノ将軍は海兵隊にゲリラ戦を挑み、ついには追
+い出した。
+","まさに英雄。あたし達<R= FSLN ,サンディニスタ>の父と言っていい。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Sandino将军对海军陆战队
+发动了游击战，","[""Sandino将军对海军陆战队\n发动了游击战，""]","General Sandino waged a guerrilla war against the
+Marines,
+","[""General Sandino waged a guerrilla war against the\nMarines,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FA90; ENG blocks=0xC0B40; ENG source rows=0xC0B40#0; block_semantic_score=0.161023.
+BRIEFING_FILES_BLOCK_02FA90,1,stream=0x2F000;block=0xA90;text=1,"[""stream=0x2F000;block=0xA90;text=1""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]","サンディーノ将軍は海兵隊にゲリラ戦を挑み、ついには追
+い出した。
+","まさに英雄。あたし達<R= FSLN ,サンディニスタ>の父と言っていい。
+","だけど、アメリカは手を引く代わりに、置き土産を残した。
+","[""<R= FSLN ,サンディニスタ>""]",,,NOT_CHECKED,90,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"最终将他们赶了出去。
+他是真正的英雄，对我们桑地诺
+主义者来说——就像父亲一样。","[""最终将他们赶了出去。\n他是真正的英雄，对我们桑地诺\n主义者来说——就像父亲一样。""]","at last driving them out. He was a true hero, and -
+to us Sandinistas - like a father.
+","[""at last driving them out. He was a true hero, and -\nto us Sandinistas - like a father.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FA90; ENG blocks=0xC0B40; ENG source rows=0xC0B40#1; block_semantic_score=0.161023.
+BRIEFING_FILES_BLOCK_02FA90,2,stream=0x2F000;block=0xA90;text=2,"[""stream=0x2F000;block=0xA90;text=2""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]","まさに英雄。あたし達<R= FSLN ,サンディニスタ>の父と言っていい。
+","だけど、アメリカは手を引く代わりに、置き土産を残した。
+","<R=国家警備隊,グァルディア>だな。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但美国人撤走时，
+给我们留下了点纪念品。","[""但美国人撤走时，\n给我们留下了点纪念品。""]","But when they pulled out, the Americans left us
+something to remember them by.
+","[""But when they pulled out, the Americans left us\nsomething to remember them by.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FA90; ENG blocks=0xC0B40; ENG source rows=0xC0B40#2; block_semantic_score=0.161023.
+BRIEFING_FILES_BLOCK_02FA90,3,stream=0x2F000;block=0xA90;text=3,"[""stream=0x2F000;block=0xA90;text=3""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]","だけど、アメリカは手を引く代わりに、置き土産を残した。
+","<R=国家警備隊,グァルディア>だな。
+","そう。名目は治安維持だけど、実態は隊長ソモサの私兵だ
+った。やりたい放題。
+","[""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,国民警卫队。,"[""国民警卫队。""]","The National Guard.
+","[""The National Guard.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FA90; ENG blocks=0xC0B40; ENG source rows=0xC0B40#3; block_semantic_score=0.161023.
+BRIEFING_FILES_BLOCK_02FA90,4,stream=0x2F000;block=0xA90;text=4,"[""stream=0x2F000;block=0xA90;text=4""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]","<R=国家警備隊,グァルディア>だな。
+","そう。名目は治安維持だけど、実態は隊長ソモサの私兵だ
+った。やりたい放題。
+","耐えかねたサンディーノ将軍は、抗議に行った…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是的，国民警卫队。
+名义上是维和部队。","[""是的，国民警卫队。\n名义上是维和部队。""]","Yes, la Guardia. In name, a peacekeeping force.
+","[""Yes, la Guardia. In name, a peacekeeping force.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FA90; ENG blocks=0xC0B40; ENG source rows=0xC0B40#4; block_semantic_score=0.161023.
+BRIEFING_FILES_BLOCK_02FA90,5,stream=0x2F000;block=0xA90;text=5,"[""stream=0x2F000;block=0xA90;text=5""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]","そう。名目は治安維持だけど、実態は隊長ソモサの私兵だ
+った。やりたい放題。
+","耐えかねたサンディーノ将軍は、抗議に行った…。
+","そしてその帰りに、ソモサに暗殺されたの。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Sandino将军无法保持沉默，前去抗议…,"[""Sandino将军无法保持沉默，前去抗议…""]","Unable to stay silent, General Sandino went to
+protest...
+","[""Unable to stay silent, General Sandino went to\nprotest...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FA90; ENG blocks=0xC0B40; ENG source rows=0xC0B40#6; block_semantic_score=0.161023.
+BRIEFING_FILES_BLOCK_02FA90,6,stream=0x2F000;block=0xA90;text=6,"[""stream=0x2F000;block=0xA90;text=6""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]","耐えかねたサンディーノ将軍は、抗議に行った…。
+","そしてその帰りに、ソモサに暗殺されたの。
+","それからよ、<R=蛙,ソモサ>が祖国を食い物にし出したのは。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,却在回家的路上被索摩查暗杀。,"[""却在回家的路上被索摩查暗杀。""]","and was assassinated by Somoza as he made his
+way home.
+","[""and was assassinated by Somoza as he made his\nway home.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2FA90; ENG blocks=0xC0B40; ENG source rows=0xC0B40#7; block_semantic_score=0.161023.
+BRIEFING_FILES_BLOCK_02FA90,7,stream=0x2F000;block=0xA90;text=7,"[""stream=0x2F000;block=0xA90;text=7""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xA90;block_file=0x2FA90;text_base=0x2FAD0;capacity=648""]","そしてその帰りに、ソモサに暗殺されたの。
+","それからよ、<R=蛙,ソモサ>が祖国を食い物にし出したのは。
+",,"[""<R=蛙,ソモサ>""]",,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,从那时起，索摩查和那些败类开始从内部活生生地吞噬我们的国家。,"[""从那时起，索摩查和那些败类开始从内部活生生地吞噬我们的国家。""]","It was then that Somoza and los sapos
+began to eat our country alive, from the inside.
+","[""It was then that Somoza and los sapos\nbegan to eat our country alive, from the inside.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2FA90; ENG blocks=0xC0B40,0xC0B40; ENG source rows=0xC0B40#8,0xC0B40#9; block_semantic_score=0.161023."

@@ -1,0 +1,100 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0091A0,0,stream=0x9000;block=0x1A0;text=0,"[""stream=0x9000;block=0x1A0;text=0""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]",,"キューバ革命が成功した年、ゲバラは経済使節団の代表と
+して訪日した。そこで彼は、広島を訪れている。
+","ヒロシマか…。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"切是作为经济代表团的
+一员访问日本的。","[""切是作为经济代表团的\n一员访问日本的。""]","Che visited Japan as a member of an economic
+delegation.
+","[""Che visited Japan as a member of an economic\ndelegation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#1; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,1,stream=0x9000;block=0x1A0;text=1,"[""stream=0x9000;block=0x1A0;text=1""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","キューバ革命が成功した年、ゲバラは経済使節団の代表と
+して訪日した。そこで彼は、広島を訪れている。
+","ヒロシマか…。
+","経済使節と言うこともあって、広島訪問はもともとの予定
+になかった。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,广岛…,"[""广岛…""]","Hiroshima...
+","[""Hiroshima...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#3; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,2,stream=0x9000;block=0x1A0;text=2,"[""stream=0x9000;block=0x1A0;text=2""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","ヒロシマか…。
+","経済使節と言うこともあって、広島訪問はもともとの予定
+になかった。
+","外務省が行かせたがらなかった、という話もある。だが彼
+は広島へ向かった。突然の訪問だったそうだ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,因为他是去那里商讨经济问题的，广岛原本并不在既定行程之内。,"[""因为他是去那里商讨经济问题的，广岛原本并不在既定行程之内。""]","Since he was there to discuss economic issues,
+Hiroshima wasn't part of the original itinerary.
+","[""Since he was there to discuss economic issues,\nHiroshima wasn't part of the original itinerary.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x91A0; ENG blocks=0x9D5C0,0x9D5C0; ENG source rows=0x9D5C0#4,0x9D5C0#5; block_semantic_score=0.190992."
+BRIEFING_FILES_BLOCK_0091A0,3,stream=0x9000;block=0x1A0;text=3,"[""stream=0x9000;block=0x1A0;text=3""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","経済使節と言うこともあって、広島訪問はもともとの予定
+になかった。
+","外務省が行かせたがらなかった、という話もある。だが彼
+は広島へ向かった。突然の訪問だったそうだ。
+","まさにゲリラ訪問だな。ゲバラらしい。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"有人说外务省当时并不想
+放他去。但他还是去了。","[""有人说外务省当时并不想\n放他去。但他还是去了。""]","Some said the Ministry of Foreign Affairs didn't
+want to let him go. But he went anyway.
+","[""Some said the Ministry of Foreign Affairs didn't\nwant to let him go. But he went anyway.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#6; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,4,stream=0x9000;block=0x1A0;text=4,"[""stream=0x9000;block=0x1A0;text=4""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","外務省が行かせたがらなかった、という話もある。だが彼
+は広島へ向かった。突然の訪問だったそうだ。
+","まさにゲリラ訪問だな。ゲバラらしい。
+","原爆資料館と原爆病院を見学したゲバラは、相当ショック
+を受けたらしい。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他偷偷溜出酒店，
+搭上了一趟夜间火车。","[""他偷偷溜出酒店，\n搭上了一趟夜间火车。""]","He snuck out of his hotel and took an overnight
+train.
+","[""He snuck out of his hotel and took an overnight\ntrain.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#7; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,5,stream=0x9000;block=0x1A0;text=5,"[""stream=0x9000;block=0x1A0;text=5""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","まさにゲリラ訪問だな。ゲバラらしい。
+","原爆資料館と原爆病院を見学したゲバラは、相当ショック
+を受けたらしい。
+","彼は医者だ。被爆者の苦しみは痛いほどわかったろう。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他参观了和平纪念馆和
+原子弹爆炸受害者医院。","[""他参观了和平纪念馆和\n原子弹爆炸受害者医院。""]","He visited the Peace Memorial Museum and the
+Atomic Bomb Survivors Hospital.
+","[""He visited the Peace Memorial Museum and the\nAtomic Bomb Survivors Hospital.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#9; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,6,stream=0x9000;block=0x1A0;text=6,"[""stream=0x9000;block=0x1A0;text=6""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","原爆資料館と原爆病院を見学したゲバラは、相当ショック
+を受けたらしい。
+","彼は医者だ。被爆者の苦しみは痛いほどわかったろう。
+","核はすべてを破壊する…。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"作为一名医生，看到受害者遭受的
+苦难，对他来说想必很痛苦。","[""作为一名医生，看到受害者遭受的\n苦难，对他来说想必很痛苦。""]","As a doctor, it must have been painful for him to
+see how the victims suffered.
+","[""As a doctor, it must have been painful for him to\nsee how the victims suffered.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#11; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,7,stream=0x9000;block=0x1A0;text=7,"[""stream=0x9000;block=0x1A0;text=7""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","彼は医者だ。被爆者の苦しみは痛いほどわかったろう。
+","核はすべてを破壊する…。
+","ゲバラはこう言ったそうだ。「こんなにされてなお、あな
+た達はアメリカの言いなりになるのか」と。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,核武器摧毁一切…,"[""核武器摧毁一切…""]","Nukes destroy everything...
+","[""Nukes destroy everything...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#12; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,8,stream=0x9000;block=0x1A0;text=8,"[""stream=0x9000;block=0x1A0;text=8""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","核はすべてを破壊する…。
+","ゲバラはこう言ったそうだ。「こんなにされてなお、あな
+た達はアメリカの言いなりになるのか」と。
+","…俺にとっても重い言葉だ。お袋のことを考えるとな。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"据传他曾说过这样一句话，「他们这样对你，
+你居然还对美国唯命是从？」","[""据传他曾说过这样一句话，「他们这样对你，\n你居然还对美国唯命是从？」""]","He was quoted as saying,
+""They put you through this, and still you do
+whatever America says?""
+","[""He was quoted as saying,\n\""They put you through this, and still you do\nwhatever America says?\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x91A0; ENG blocks=0x9D5C0,0x9D5C0; ENG source rows=0x9D5C0#13,0x9D5C0#14; block_semantic_score=0.190992."
+BRIEFING_FILES_BLOCK_0091A0,9,stream=0x9000;block=0x1A0;text=9,"[""stream=0x9000;block=0x1A0;text=9""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","ゲバラはこう言ったそうだ。「こんなにされてなお、あな
+た達はアメリカの言いなりになるのか」と。
+","…俺にとっても重い言葉だ。お袋のことを考えるとな。
+","彼はこうも言った。「これからは広島を、広島の人々を愛
+していこう」。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…这句话真的深深打动了我。
+尤其是想起我母亲的时候。","[""…这句话真的深深打动了我。\n尤其是想起我母亲的时候。""]","...Those words really hit me hard. Especially when I
+think of my mom.
+","[""...Those words really hit me hard. Especially when I\nthink of my mom.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#15; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,10,stream=0x9000;block=0x1A0;text=10,"[""stream=0x9000;block=0x1A0;text=10""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","…俺にとっても重い言葉だ。お袋のことを考えるとな。
+","彼はこうも言った。「これからは広島を、広島の人々を愛
+していこう」。
+","彼らしい話だ。ゲバラは他人の痛みに鈍感になれなかった
+男だ。それゆえ愛され、そして死んだ。
+",[],,,NOT_CHECKED,101,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他还说过这样一句话：「让我们都
+来热爱广岛，热爱那里的人民。」","[""他还说过这样一句话：「让我们都\n来热爱广岛，热爱那里的人民。」""]","He said something else, too: ""Let us all love
+Hiroshima, and its people.""
+","[""He said something else, too: \""Let us all love\nHiroshima, and its people.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x91A0; ENG blocks=0x9D5C0; ENG source rows=0x9D5C0#16; block_semantic_score=0.190992.
+BRIEFING_FILES_BLOCK_0091A0,11,stream=0x9000;block=0x1A0;text=11,"[""stream=0x9000;block=0x1A0;text=11""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","彼はこうも言った。「これからは広島を、広島の人々を愛
+していこう」。
+","彼らしい話だ。ゲバラは他人の痛みに鈍感になれなかった
+男だ。それゆえ愛され、そして死んだ。
+",,[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这我信。切从来没能让自己
+对别人的痛苦麻木不仁。这就是人们爱戴他的原因，
+也是他因此丧命的原因。","[""这我信。切从来没能让自己\n对别人的痛苦麻木不仁。这就是人们爱戴他的原因，\n也是他因此丧命的原因。""]","I can believe it. Che never managed to numb
+himself to other people's pain.
+That's why people loved him. And why he died.
+","[""I can believe it. Che never managed to numb\nhimself to other people's pain.\nThat's why people loved him. And why he died.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x91A0; ENG blocks=0x9D5C0,0x9D5C0; ENG source rows=0x9D5C0#17,0x9D5C0#18; block_semantic_score=0.190992."

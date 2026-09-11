@@ -1,0 +1,83 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_001B50,0,stream=0x1000;block=0xB50;text=0,"[""stream=0x1000;block=0xB50;text=0""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]",,"カズ、お前はどうなんだ？　MSFを拡大したいのか？
+","もちろんだ。あんたの言うとおり、MSFをどこの国の干渉
+も受けないような組織にしていきたい。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"那你呢，Kaz？有没有
+兴趣扩大MSF的规模？","[""那你呢，Kaz？有没有\n兴趣扩大MSF的规模？""]","What about you, Kaz? Any interest in expanding
+MSF?
+","[""What about you, Kaz? Any interest in expanding\nMSF?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#0; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,1,stream=0x1000;block=0xB50;text=1,"[""stream=0x1000;block=0xB50;text=1""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","カズ、お前はどうなんだ？　MSFを拡大したいのか？
+","もちろんだ。あんたの言うとおり、MSFをどこの国の干渉
+も受けないような組織にしていきたい。
+","自分たちを守るためにも相応の力が必要だ。
+",[],,,NOT_CHECKED,131,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我想把我们打造成一个不
+听命于任何国家的组织","[""我想把我们打造成一个不\n听命于任何国家的组织""]","I want to make us into an organization that doesn't
+take orders from any country
+","[""I want to make us into an organization that doesn't\ntake orders from any country\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#2; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,2,stream=0x1000;block=0xB50;text=2,"[""stream=0x1000;block=0xB50;text=2""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","もちろんだ。あんたの言うとおり、MSFをどこの国の干渉
+も受けないような組織にしていきたい。
+","自分たちを守るためにも相応の力が必要だ。
+","多くの兵力を養うにも金が要る。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们必须变强，
+强大到足以自卫的地步。","[""我们必须变强，\n强大到足以自卫的地步。""]","We have to be strong, strong enough to defend
+ourselves.
+","[""We have to be strong, strong enough to defend\nourselves.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#4; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,3,stream=0x1000;block=0xB50;text=3,"[""stream=0x1000;block=0xB50;text=3""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","自分たちを守るためにも相応の力が必要だ。
+","多くの兵力を養うにも金が要る。
+","そのためにもMSFをもっと新しいビジネスにしたいんだ。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我们也需要钱——
+用来训练士兵作战的钱。","[""我们也需要钱——\n用来训练士兵作战的钱。""]","We need money, too - money to train soldiers to
+fight.
+","[""We need money, too - money to train soldiers to\nfight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#5; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,4,stream=0x1000;block=0xB50;text=4,"[""stream=0x1000;block=0xB50;text=4""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","多くの兵力を養うにも金が要る。
+","そのためにもMSFをもっと新しいビジネスにしたいんだ。
+","直接的な戦闘だけじゃなく、兵站、訓練、武器の整備や開
+発、軍事に関するあらゆることを請け負うような組織だ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"依我看，我们可以把MSF打
+造成一种全新形式的业务。","[""依我看，我们可以把MSF打\n造成一种全新形式的业务。""]","The way I see it, we make MSF into something
+along the lines of a new kind of business.
+","[""The way I see it, we make MSF into something\nalong the lines of a new kind of business.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#6; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,5,stream=0x1000;block=0xB50;text=5,"[""stream=0x1000;block=0xB50;text=5""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","そのためにもMSFをもっと新しいビジネスにしたいんだ。
+","直接的な戦闘だけじゃなく、兵站、訓練、武器の整備や開
+発、軍事に関するあらゆることを請け負うような組織だ。
+","特殊部隊のような少数精鋭の行動力と正規軍にも対抗でき
+る軍事力。
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还有后勤、训练、武器、装备和研发…,"[""还有后勤、训练、武器、装备和研发…""]","but logistics, training, weapons, outfitting and R&D...
+","[""but logistics, training, weapons, outfitting and R&D...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#8; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,6,stream=0x1000;block=0xB50;text=6,"[""stream=0x1000;block=0xB50;text=6""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","直接的な戦闘だけじゃなく、兵站、訓練、武器の整備や開
+発、軍事に関するあらゆることを請け負うような組織だ。
+","特殊部隊のような少数精鋭の行動力と正規軍にも対抗でき
+る軍事力。
+","それだけの力があってこそ、国家の干渉から逃れることが
+できる。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,将特种部队规模精简、能力卓越的优势与正规部队的纯粹军事实力相结合。,"[""将特种部队规模精简、能力卓越的优势与正规部队的纯粹军事实力相结合。""]","Combining the small footprint and exceptional
+performance of Special Forces
+with the raw military might of a full regular army.
+","[""Combining the small footprint and exceptional\nperformance of Special Forces\nwith the raw military might of a full regular army.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1B50; ENG blocks=0x96040,0x96040; ENG source rows=0x96040#9,0x96040#10; block_semantic_score=0.154549."
+BRIEFING_FILES_BLOCK_001B50,7,stream=0x1000;block=0xB50;text=7,"[""stream=0x1000;block=0xB50;text=7""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","特殊部隊のような少数精鋭の行動力と正規軍にも対抗でき
+る軍事力。
+","それだけの力があってこそ、国家の干渉から逃れることが
+できる。
+","とにかくボスはフルトン回収で使えそうな奴を集めてくれ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"只有拥有那样的力量，
+我们才能摆脱主权国家的束缚。","[""只有拥有那样的力量，\n我们才能摆脱主权国家的束缚。""]","Only with that kind of power can we break free of
+nation-states.
+","[""Only with that kind of power can we break free of\nnation-states.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#11; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,8,stream=0x1000;block=0xB50;text=8,"[""stream=0x1000;block=0xB50;text=8""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","それだけの力があってこそ、国家の干渉から逃れることが
+できる。
+","とにかくボスはフルトン回収で使えそうな奴を集めてくれ。
+","それから、人員配置の指示を頼む。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我需要你做的，Boss，,"[""我需要你做的，Boss，""]","What I need from you, Boss,
+","[""What I need from you, Boss,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#12; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,9,stream=0x1000;block=0xB50;text=9,"[""stream=0x1000;block=0xB50;text=9""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","とにかくボスはフルトン回収で使えそうな奴を集めてくれ。
+","それから、人員配置の指示を頼む。
+","あとの細かいことは俺に任せてくれ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"就是出去寻找可以用
+富尔顿回收带回来的人。","[""就是出去寻找可以用\n富尔顿回收带回来的人。""]","is to go out and find guys we can bring back here
+using Fulton recovery.
+","[""is to go out and find guys we can bring back here\nusing Fulton recovery.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#13; block_semantic_score=0.154549.
+BRIEFING_FILES_BLOCK_001B50,10,stream=0x1000;block=0xB50;text=10,"[""stream=0x1000;block=0xB50;text=10""]",1,BRIEFING FILES,"[""stream=0x1000;block=0xB50;block_file=0x1B50;text_base=0x1B9C;capacity=924""]","それから、人員配置の指示を頼む。
+","あとの細かいことは俺に任せてくれ。
+",,[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"然后告诉我们该派他们
+去执行什么任务。","[""然后告诉我们该派他们\n去执行什么任务。""]","Then tell us what assignment to use them for.
+","[""Then tell us what assignment to use them for.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1B50; ENG blocks=0x96040; ENG source rows=0x96040#14; block_semantic_score=0.154549.

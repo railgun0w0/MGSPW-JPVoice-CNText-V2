@@ -1,0 +1,72 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0224E0,0,stream=0x22000;block=0x4E0;text=0,"[""stream=0x22000;block=0x4E0;text=0""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]",,"コスタリカは、中米で最も早くから、民主主義が根付いた
+国よ。
+","クーデターや独裁もあったけど、大混乱にまでは至らなか
+った。それが、26年前…。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,民主在中美洲最早在哥斯达黎加扎根。,"[""民主在中美洲最早在哥斯达黎加扎根。""]","Democracy took root in Costa Rica before
+anywhere else in Central America.
+","[""Democracy took root in Costa Rica before\nanywhere else in Central America.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#0; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,1,stream=0x22000;block=0x4E0;text=1,"[""stream=0x22000;block=0x4E0;text=1""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","コスタリカは、中米で最も早くから、民主主義が根付いた
+国よ。
+","クーデターや独裁もあったけど、大混乱にまでは至らなか
+った。それが、26年前…。
+","内戦だな。君の祖父母もそれで亡くなったと。
+",[],,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,直到26年前…,"[""直到26年前…""]","That is, until 26 years ago...
+","[""That is, until 26 years ago...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#2; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,2,stream=0x22000;block=0x4E0;text=2,"[""stream=0x22000;block=0x4E0;text=2""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","クーデターや独裁もあったけど、大混乱にまでは至らなか
+った。それが、26年前…。
+","内戦だな。君の祖父母もそれで亡くなったと。
+","大統領選に不正があったかどうかで揉めたのが原因だって。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,内战。是啊，我知道你失去了祖父母。,"[""内战。是啊，我知道你失去了祖父母。""]","The civil war. Yeah, I understand you lost your
+grandparents.
+","[""The civil war. Yeah, I understand you lost your\ngrandparents.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#3; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,3,stream=0x22000;block=0x4E0;text=3,"[""stream=0x22000;block=0x4E0;text=3""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","内戦だな。君の祖父母もそれで亡くなったと。
+","大統領選に不正があったかどうかで揉めたのが原因だって。
+","どうしてそれだけのことで、仲間同士が争わなきゃいけな
+いのかな。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"起因是一场关于总统
+选举舞弊指控的争端。","[""起因是一场关于总统\n选举舞弊指控的争端。""]","It started with a dispute over alleged fraud in the
+presidential election.
+","[""It started with a dispute over alleged fraud in the\npresidential election.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#4; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,4,stream=0x22000;block=0x4E0;text=4,"[""stream=0x22000;block=0x4E0;text=4""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","大統領選に不正があったかどうかで揉めたのが原因だって。
+","どうしてそれだけのことで、仲間同士が争わなきゃいけな
+いのかな。
+","話し合えば済むことなのに。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不明白的是，
+为什么朋友们会反目成仇，","[""我不明白的是，\n为什么朋友们会反目成仇，""]","What I don't understand is why friend turned
+against friend
+","[""What I don't understand is why friend turned\nagainst friend\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#5; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,5,stream=0x22000;block=0x4E0;text=5,"[""stream=0x22000;block=0x4E0;text=5""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","どうしてそれだけのことで、仲間同士が争わなきゃいけな
+いのかな。
+","話し合えば済むことなのに。
+","そう…できればよかったのにな。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明明可以通过对话解决的。,"[""明明可以通过对话解决的。""]","when they could have talked it out instead.
+","[""when they could have talked it out instead.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#6; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,6,stream=0x22000;block=0x4E0;text=6,"[""stream=0x22000;block=0x4E0;text=6""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","話し合えば済むことなのに。
+","そう…できればよかったのにな。
+","今でも、内戦の時の弾痕が残っている建物がある。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是啊，那样…就好了。,"[""是啊，那样…就好了。""]","Yeah, that... would have been nice.
+","[""Yeah, that... would have been nice.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#7; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,7,stream=0x22000;block=0x4E0;text=7,"[""stream=0x22000;block=0x4E0;text=7""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","そう…できればよかったのにな。
+","今でも、内戦の時の弾痕が残っている建物がある。
+","四半世紀経っても、<R=コスタリカ人,ティコ>にとっては忘れられない
+…いえ、忘れちゃいけない出来事なの。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"直到今天，有些建筑上还
+留着内战时留下的弹孔。","[""直到今天，有些建筑上还\n留着内战时留下的弹孔。""]","Even today, some buildings still have bullet holes
+from the civil war.
+","[""Even today, some buildings still have bullet holes\nfrom the civil war.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#8; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,8,stream=0x22000;block=0x4E0;text=8,"[""stream=0x22000;block=0x4E0;text=8""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","今でも、内戦の時の弾痕が残っている建物がある。
+","四半世紀経っても、<R=コスタリカ人,ティコ>にとっては忘れられない
+…いえ、忘れちゃいけない出来事なの。
+","軍隊が憲法で廃止されたのは、内戦の翌年よ。
+","[""<R=コスタリカ人,ティコ>""]",,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"四分之一个世纪过去了，这场悲剧我们
+哥斯达黎加人不能忘记…绝不该忘记。","[""四分之一个世纪过去了，这场悲剧我们\n哥斯达黎加人不能忘记…绝不该忘记。""]","A quarter century later, and it is a tragedy we
+ticos cannot forget... Must not forget.
+","[""A quarter century later, and it is a tragedy we\nticos cannot forget... Must not forget.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#9; block_semantic_score=0.224971.
+BRIEFING_FILES_BLOCK_0224E0,9,stream=0x22000;block=0x4E0;text=9,"[""stream=0x22000;block=0x4E0;text=9""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x4E0;block_file=0x224E0;text_base=0x22528;capacity=824""]","四半世紀経っても、<R=コスタリカ人,ティコ>にとっては忘れられない
+…いえ、忘れちゃいけない出来事なの。
+","軍隊が憲法で廃止されたのは、内戦の翌年よ。
+",,[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"内战结束后的一年，
+军队被宪法正式废除。","[""内战结束后的一年，\n军队被宪法正式废除。""]","It was the year after the civil war that the army
+was constitutionally abolished.
+","[""It was the year after the civil war that the army\nwas constitutionally abolished.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x224E0; ENG blocks=0xB3BE0; ENG source rows=0xB3BE0#10; block_semantic_score=0.224971.

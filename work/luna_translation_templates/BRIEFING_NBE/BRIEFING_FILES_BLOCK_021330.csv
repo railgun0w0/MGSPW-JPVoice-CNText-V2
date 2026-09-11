@@ -1,0 +1,37 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_021330,0,stream=0x21000;block=0x330;text=0,"[""stream=0x21000;block=0x330;text=0""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x330;block_file=0x21330;text_base=0x21360;capacity=504""]",,"盾を装備した敵兵も面倒な相手だ。
+","盾に隠れながらピストルで攻撃してくる連中の相手をする
+のは、アマンダ曰く「かなり！　ストレスフルよ」だそう
+だ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,持盾的敌人真的很烦人。,"[""持盾的敌人真的很烦人。""]","Enemies carrying shields can be a real pain in the
+ass.
+","[""Enemies carrying shields can be a real pain in the\nass.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x21330; ENG blocks=0xB25A0; ENG source rows=0xB25A0#0; block_semantic_score=0.145694.
+BRIEFING_FILES_BLOCK_021330,1,stream=0x21000;block=0x330;text=1,"[""stream=0x21000;block=0x330;text=1""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x330;block_file=0x21330;text_base=0x21360;capacity=504""]","盾を装備した敵兵も面倒な相手だ。
+","盾に隠れながらピストルで攻撃してくる連中の相手をする
+のは、アマンダ曰く「かなり！　ストレスフルよ」だそう
+だ。
+","なるべく側面に回り込むこと。スモークやスタングレネー
+ドで目眩ましするなんてのもいいだろう。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听Amanda说，跟那些混蛋交手，他们躲在盾牌后面朝你开枪，能把人气得想扯光自己的头发。,"[""听Amanda说，跟那些混蛋交手，他们躲在盾牌后面朝你开枪，能把人气得想扯光自己的头发。""]","To hear Amanda tell it, trying to fight those
+bastards
+while they sit behind their shields taking pistol
+shots at you
+is enough to make you want to rip your hair out.
+","[""To hear Amanda tell it, trying to fight those\nbastards\nwhile they sit behind their shields taking pistol\nshots at you\nis enough to make you want to rip your hair out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x21330; ENG blocks=0xB25A0,0xB25A0,0xB25A0; ENG source rows=0xB25A0#1,0xB25A0#2,0xB25A0#3; block_semantic_score=0.145694."
+BRIEFING_FILES_BLOCK_021330,2,stream=0x21000;block=0x330;text=2,"[""stream=0x21000;block=0x330;text=2""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x330;block_file=0x21330;text_base=0x21360;capacity=504""]","盾に隠れながらピストルで攻撃してくる連中の相手をする
+のは、アマンダ曰く「かなり！　ストレスフルよ」だそう
+だ。
+","なるべく側面に回り込むこと。スモークやスタングレネー
+ドで目眩ましするなんてのもいいだろう。
+","それと徹甲弾を使えば、比較的容易に盾を無力化できるは
+ずだ。徹甲弾を手に入れたら有効に活用してくれ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,尽量绕到侧面攻击他们。,"[""尽量绕到侧面攻击他们。""]","Get around and flank them if you can.
+","[""Get around and flank them if you can.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x21330; ENG blocks=0xB25A0; ENG source rows=0xB25A0#4; block_semantic_score=0.145694.
+BRIEFING_FILES_BLOCK_021330,3,stream=0x21000;block=0x330;text=3,"[""stream=0x21000;block=0x330;text=3""]",1,BRIEFING FILES,"[""stream=0x21000;block=0x330;block_file=0x21330;text_base=0x21360;capacity=504""]","なるべく側面に回り込むこと。スモークやスタングレネー
+ドで目眩ましするなんてのもいいだろう。
+","それと徹甲弾を使えば、比較的容易に盾を無力化できるは
+ずだ。徹甲弾を手に入れたら有効に活用してくれ。
+",,[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另外，穿甲弹应该能更
+容易穿透他们的盾牌。","[""另外，穿甲弹应该能更\n容易穿透他们的盾牌。""]","Also, armor-piercing rounds should make it a little
+easier to punch through their shields.
+","[""Also, armor-piercing rounds should make it a little\neasier to punch through their shields.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x21330; ENG blocks=0xB25A0; ENG source rows=0xB25A0#6; block_semantic_score=0.145694.

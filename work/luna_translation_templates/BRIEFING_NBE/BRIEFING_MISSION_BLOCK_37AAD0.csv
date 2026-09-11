@@ -1,0 +1,7 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_37AAD0,0,stream=0x37A000;block=0xAD0;text=0,"[""stream=0x37A000;block=0xAD0;text=0""]",1,d6069_m0438_mrd,"[""stream=0x37A000;block=0xAD0;block_file=0x37AAD0;text_base=0x37AAF4;capacity=84""]",,"スネーク、ザドルノフが逃げ出した。
+見つけ出してくれ！
+",,[],,,NOT_CHECKED,80,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Kaz，你确定不是有人…
+怎么说呢，故意放他出来的？","[""Kaz，你确定不是有人…\n怎么说呢，故意放他出来的？""]","Kaz, are you sure somebody's not... I don't
+know, letting him out on purpose?
+","[""Kaz, are you sure somebody's not... I don't\nknow, letting him out on purpose?\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_EXACT_BRIEFING_ID_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37AAD0; ENG blocks=0x391BB0; ENG source rows=0x391BB0#3; block_semantic_score=1.000000.

@@ -1,0 +1,31 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0125D0,0,stream=0x12000;block=0x5D0;text=0,"[""stream=0x12000;block=0x5D0;text=0""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x5D0;block_file=0x125D0;text_base=0x12604;capacity=400""]",,"武器や装備品は、必要なものだけを持っていってくれよ。
+","何でもかんでもバックパックに詰め込んだら、重過ぎて動
+きが遅くなる。苦労するのはあんただからな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别带超过你需要的装备。如果你想把整个武器库塞进背包，,"[""别带超过你需要的装备。如果你想把整个武器库塞进背包，""]","Don't carry any more gear than you need.
+If you try and stuff your entire arsenal into your
+backpack,
+","[""Don't carry any more gear than you need.\nIf you try and stuff your entire arsenal into your\nbackpack,\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x125D0; ENG blocks=0xA5290,0xA5290; ENG source rows=0xA5290#0,0xA5290#1; block_semantic_score=0.131196."
+BRIEFING_FILES_BLOCK_0125D0,1,stream=0x12000;block=0x5D0;text=1,"[""stream=0x12000;block=0x5D0;text=1""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x5D0;block_file=0x125D0;text_base=0x12604;capacity=400""]","武器や装備品は、必要なものだけを持っていってくれよ。
+","何でもかんでもバックパックに詰め込んだら、重過ぎて動
+きが遅くなる。苦労するのはあんただからな。
+","わかってる。携行品は必要な分だけ。基本中の基本だ。
+",[],,,NOT_CHECKED,143,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那就太重了，你的机动性会大受影响。,"[""那就太重了，你的机动性会大受影响。""]","it'll be too heavy and your mobility will be impaired.
+","[""it'll be too heavy and your mobility will be impaired.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x125D0; ENG blocks=0xA5290; ENG source rows=0xA5290#2; block_semantic_score=0.131196.
+BRIEFING_FILES_BLOCK_0125D0,2,stream=0x12000;block=0x5D0;text=2,"[""stream=0x12000;block=0x5D0;text=2""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x5D0;block_file=0x125D0;text_base=0x12604;capacity=400""]","何でもかんでもバックパックに詰め込んだら、重過ぎて動
+きが遅くなる。苦労するのはあんただからな。
+","わかってる。携行品は必要な分だけ。基本中の基本だ。
+","携行品の総重量は、出撃前に確認できる。参考にしてくれ。
+",[],,,NOT_CHECKED,76,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我知道。只带必需品。每个新兵都懂。,"[""我知道。只带必需品。每个新兵都懂。""]","I know. Take only what you need. Every rookie
+knows that.
+","[""I know. Take only what you need. Every rookie\nknows that.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x125D0; ENG blocks=0xA5290; ENG source rows=0xA5290#4; block_semantic_score=0.131196.
+BRIEFING_FILES_BLOCK_0125D0,3,stream=0x12000;block=0x5D0;text=3,"[""stream=0x12000;block=0x5D0;text=3""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x5D0;block_file=0x125D0;text_base=0x12604;capacity=400""]","わかってる。携行品は必要な分だけ。基本中の基本だ。
+","携行品の総重量は、出撃前に確認できる。参考にしてくれ。
+","了解だ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你可以在出发前检查装备重量。,"[""你可以在出发前检查装备重量。""]","You can check the weight of your gear before
+heading out.
+","[""You can check the weight of your gear before\nheading out.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x125D0; ENG blocks=0xA5290; ENG source rows=0xA5290#5; block_semantic_score=0.131196.
+BRIEFING_FILES_BLOCK_0125D0,4,stream=0x12000;block=0x5D0;text=4,"[""stream=0x12000;block=0x5D0;text=4""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x5D0;block_file=0x125D0;text_base=0x12604;capacity=400""]","携行品の総重量は、出撃前に確認できる。参考にしてくれ。
+","了解だ。
+",,[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了。,"[""明白了。""]","Got it.
+","[""Got it.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x125D0; ENG blocks=0xA5290; ENG source rows=0xA5290#7; block_semantic_score=0.131196.

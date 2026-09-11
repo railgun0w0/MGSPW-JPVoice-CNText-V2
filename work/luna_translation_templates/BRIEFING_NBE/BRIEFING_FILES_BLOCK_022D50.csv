@@ -1,0 +1,71 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_022D50,0,stream=0x22000;block=0xD50;text=0,"[""stream=0x22000;block=0xD50;text=0""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]",,"パス、君は国連平和大学の学生なのか？
+","ううん、まだ高校生だもの。だけど、ガルベス先生の研究
+室にちょくちょくお邪魔して、勉強させてもらってる。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Paz，那你是和平大学的学生吗？,"[""Paz，那你是和平大学的学生吗？""]","So are you a student at the University for Peace,
+Paz?
+","[""So are you a student at the University for Peace,\nPaz?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#0; block_semantic_score=0.161992.
+BRIEFING_FILES_BLOCK_022D50,1,stream=0x22000;block=0xD50;text=1,"[""stream=0x22000;block=0xD50;text=1""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","パス、君は国連平和大学の学生なのか？
+","ううん、まだ高校生だもの。だけど、ガルベス先生の研究
+室にちょくちょくお邪魔して、勉強させてもらってる。
+","国際法・安全保障・紛争調停・人権…そういったものを研
+究して、平和構築に役立てようとしてるの。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，我还在上高中。但是Gálvez教授让我时不时去
+他的办公室，跟他一起学习。","[""不，我还在上高中。但是Gálvez教授让我时不时去\n他的办公室，跟他一起学习。""]","No, I am still in high school.
+But Professor Gálvez lets me visit his office and
+study with him every now and then.
+","[""No, I am still in high school.\nBut Professor Gálvez lets me visit his office and\nstudy with him every now and then.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x22D50; ENG blocks=0xB43C0,0xB43C0; ENG source rows=0xB43C0#1,0xB43C0#2; block_semantic_score=0.161992."
+BRIEFING_FILES_BLOCK_022D50,2,stream=0x22000;block=0xD50;text=2,"[""stream=0x22000;block=0xD50;text=2""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","ううん、まだ高校生だもの。だけど、ガルベス先生の研究
+室にちょくちょくお邪魔して、勉強させてもらってる。
+","国際法・安全保障・紛争調停・人権…そういったものを研
+究して、平和構築に役立てようとしてるの。
+","いや、それもそうなんだが…国連に平和大学があるなんて、
+聞いたことがなくてな。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,国际法、安全、冲突解决、人权…,"[""国际法、安全、冲突解决、人权…""]","International law, security, conflict resolution,
+human rights...
+","[""International law, security, conflict resolution,\nhuman rights...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#3; block_semantic_score=0.161992.
+BRIEFING_FILES_BLOCK_022D50,3,stream=0x22000;block=0xD50;text=3,"[""stream=0x22000;block=0xD50;text=3""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","国際法・安全保障・紛争調停・人権…そういったものを研
+究して、平和構築に役立てようとしてるの。
+","いや、それもそうなんだが…国連に平和大学があるなんて、
+聞いたことがなくてな。
+","ああ、そのこと？　正確には、まだ設立準備の段階なの。
+研究自体は始めてるけど、国連の決議はまだ出ていなくて。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"嗯，我明白了…我只是以前
+没听说过联合国还有个和平大学。","[""嗯，我明白了…我只是以前\n没听说过联合国还有个和平大学。""]","Yeah, I get it... I'd just never heard the UN had a
+University for Peace before.
+","[""Yeah, I get it... I'd just never heard the UN had a\nUniversity for Peace before.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#5; block_semantic_score=0.161992.
+BRIEFING_FILES_BLOCK_022D50,4,stream=0x22000;block=0xD50;text=4,"[""stream=0x22000;block=0xD50;text=4""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","いや、それもそうなんだが…国連に平和大学があるなんて、
+聞いたことがなくてな。
+","ああ、そのこと？　正確には、まだ設立準備の段階なの。
+研究自体は始めてるけど、国連の決議はまだ出ていなくて。
+","ガルベス先生、気が早いから…。
+",[],,,NOT_CHECKED,161,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"哦，那个啊。呃，准确地说，它还在
+筹建中。他们已经开始了研究，但","[""哦，那个啊。呃，准确地说，它还在\n筹建中。他们已经开始了研究，但""]","Oh, that. Well, to be precise, it is still being set up.
+They have started conducting research, but
+","[""Oh, that. Well, to be precise, it is still being set up.\nThey have started conducting research, but\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#6; block_semantic_score=0.161992.
+BRIEFING_FILES_BLOCK_022D50,5,stream=0x22000;block=0xD50;text=5,"[""stream=0x22000;block=0xD50;text=5""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","ああ、そのこと？　正確には、まだ設立準備の段階なの。
+研究自体は始めてるけど、国連の決議はまだ出ていなくて。
+","ガルベス先生、気が早いから…。
+","あ、ああ。そうか。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Gálvez教授等不了那么久…,"[""Gálvez教授等不了那么久…""]","Professor Gálvez couldn't wait that long...
+","[""Professor Gálvez couldn't wait that long...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#8; block_semantic_score=0.161992.
+BRIEFING_FILES_BLOCK_022D50,6,stream=0x22000;block=0xD50;text=6,"[""stream=0x22000;block=0xD50;text=6""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","ガルベス先生、気が早いから…。
+","あ、ああ。そうか。
+","コスタリカは軍隊を廃止しているし、中米司法裁判所を主
+催していたこともあった。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哦，呃，好吧。,"[""哦，呃，好吧。""]","Oh, uh, right.
+","[""Oh, uh, right.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#9; block_semantic_score=0.161992.
+BRIEFING_FILES_BLOCK_022D50,7,stream=0x22000;block=0xD50;text=7,"[""stream=0x22000;block=0xD50;text=7""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","あ、ああ。そうか。
+","コスタリカは軍隊を廃止しているし、中米司法裁判所を主
+催していたこともあった。
+","平和大学を置く場所として、ふさわしいと思うな。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,还主办过中美洲法院。,"[""还主办过中美洲法院。""]","and has also hosted the Central American Court of
+Justice.
+","[""and has also hosted the Central American Court of\nJustice.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#11; block_semantic_score=0.161992.
+BRIEFING_FILES_BLOCK_022D50,8,stream=0x22000;block=0xD50;text=8,"[""stream=0x22000;block=0xD50;text=8""]",1,BRIEFING FILES,"[""stream=0x22000;block=0xD50;block_file=0x22D50;text_base=0x22D94;capacity=896""]","コスタリカは軍隊を廃止しているし、中米司法裁判所を主
+催していたこともあった。
+","平和大学を置く場所として、ふさわしいと思うな。
+",,[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这里是建立我们这样的大学的
+理想之地，你不觉得吗？","[""这里是建立我们这样的大学的\n理想之地，你不觉得吗？""]","It is the perfect place to build a university like
+ours, don't you think?
+","[""It is the perfect place to build a university like\nours, don't you think?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x22D50; ENG blocks=0xB43C0; ENG source rows=0xB43C0#12; block_semantic_score=0.161992.

@@ -1,0 +1,128 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0084F0,0,stream=0x8000;block=0x4F0;text=0,"[""stream=0x8000;block=0x4F0;text=0""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]",,"ボス、ゲバラが書いた「ゲリラ戦争」は読んだか。
+","いや…どうだったかな。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Boss，你看过切·格瓦拉的
+《游击战》那本书吗？","[""Boss，你看过切·格瓦拉的\n《游击战》那本书吗？""]","Boss, did you ever read Che Guevara's book
+""Guerrilla Warfare""?
+","[""Boss, did you ever read Che Guevara's book\n\""Guerrilla Warfare\""?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#0; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,1,stream=0x8000;block=0x4F0;text=1,"[""stream=0x8000;block=0x4F0;text=1""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","ボス、ゲバラが書いた「ゲリラ戦争」は読んだか。
+","いや…どうだったかな。
+","せっかく貸してやったのに。この本に書いてあるゲリラの
+戦術は、潜入ミッションと共通する部分があるんだ。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,呃…我不记得看没看过那本。,"[""呃…我不记得看没看过那本。""]","I, uh... can't remember if I got to that one or not.
+","[""I, uh... can't remember if I got to that one or not.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#1; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,2,stream=0x8000;block=0x4F0;text=2,"[""stream=0x8000;block=0x4F0;text=2""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","いや…どうだったかな。
+","せっかく貸してやったのに。この本に書いてあるゲリラの
+戦術は、潜入ミッションと共通する部分があるんだ。
+","ゲバラは、ゲリラ戦法を理論化した一人だからな。
+",[],,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"里面讲的很多游击战术，
+用在潜入任务上也一样适用。","[""里面讲的很多游击战术，\n用在潜入任务上也一样适用。""]","A lot of the guerrilla tactics it covers apply to
+sneaking missions, too.
+","[""A lot of the guerrilla tactics it covers apply to\nsneaking missions, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#3; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,3,stream=0x8000;block=0x4F0;text=3,"[""stream=0x8000;block=0x4F0;text=3""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","せっかく貸してやったのに。この本に書いてあるゲリラの
+戦術は、潜入ミッションと共通する部分があるんだ。
+","ゲバラは、ゲリラ戦法を理論化した一人だからな。
+","他には“アラビアのロレンス”ことT．E．ロレンス少佐。
+「遊撃戦」を著した毛沢東…。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"切·格瓦拉是最早系统阐述
+游击战理论的人之一。","[""切·格瓦拉是最早系统阐述\n游击战理论的人之一。""]","Che was one of the first people to articulate the
+theory of guerrilla warfare.
+","[""Che was one of the first people to articulate the\ntheory of guerrilla warfare.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#4; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,4,stream=0x8000;block=0x4F0;text=4,"[""stream=0x8000;block=0x4F0;text=4""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","ゲバラは、ゲリラ戦法を理論化した一人だからな。
+","他には“アラビアのロレンス”ことT．E．ロレンス少佐。
+「遊撃戦」を著した毛沢東…。
+","理論化はともかく、ニカラグアのサンディーノ将軍も、ゲ
+リラ戦法を取り入れた一人だ。
+",[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"T.E.劳伦斯——“阿拉伯的
+劳伦斯”——也是其中一个。还有毛泽东，他写过《论持久战》…","[""T.E.劳伦斯——“阿拉伯的\n劳伦斯”——也是其中一个。还有毛泽东，他写过《论持久战》…""]","T.E. Lawrence - ""Lawrence of Arabia"" - was another
+one.
+And Mao Zedong and his ""On Protracted War""...
+","[""T.E. Lawrence - \""Lawrence of Arabia\"" - was another\none.\nAnd Mao Zedong and his \""On Protracted War\""...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84F0; ENG blocks=0x9C850,0x9C850; ENG source rows=0x9C850#5,0x9C850#6; block_semantic_score=0.184173."
+BRIEFING_FILES_BLOCK_0084F0,5,stream=0x8000;block=0x4F0;text=5,"[""stream=0x8000;block=0x4F0;text=5""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","他には“アラビアのロレンス”ことT．E．ロレンス少佐。
+「遊撃戦」を著した毛沢東…。
+","理論化はともかく、ニカラグアのサンディーノ将軍も、ゲ
+リラ戦法を取り入れた一人だ。
+","<R=FSLN,サンディニスタ>がその名に掲げるだけのことはある。
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,理论先放一边，尼加拉瓜的桑地诺将军,"[""理论先放一边，尼加拉瓜的桑地诺将军""]","Theory aside, Nicaragua's General Sandino
+","[""Theory aside, Nicaragua's General Sandino\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#7; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,6,stream=0x8000;block=0x4F0;text=6,"[""stream=0x8000;block=0x4F0;text=6""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","理論化はともかく、ニカラグアのサンディーノ将軍も、ゲ
+リラ戦法を取り入れた一人だ。
+","<R=FSLN,サンディニスタ>がその名に掲げるだけのことはある。
+","もっとも、遙か昔からゲリラ戦法自体は存在した。少人数
+で大軍を攪乱する手段は限られるからな。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这也是桑地诺游击队以
+他的名字命名的原因。","[""这也是桑地诺游击队以\n他的名字命名的原因。""]","Which explains why the Sandinistas named
+themselves after him.
+","[""Which explains why the Sandinistas named\nthemselves after him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#9; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,7,stream=0x8000;block=0x4F0;text=7,"[""stream=0x8000;block=0x4F0;text=7""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","<R=FSLN,サンディニスタ>がその名に掲げるだけのことはある。
+","もっとも、遙か昔からゲリラ戦法自体は存在した。少人数
+で大軍を攪乱する手段は限られるからな。
+","日本にも、ゲリラ戦法に長けたサムライがいたぞ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"仔细想想，游击战这种
+打法自古就有了。小股部队想要撼动大军，
+说到底也就那么几种办法。","[""仔细想想，游击战这种\n打法自古就有了。小股部队想要撼动大军，\n说到底也就那么几种办法。""]","If you think about it, guerrilla warfare itself has
+been around since ancient times.
+There's only so many ways a small group can
+upset a large army.
+","[""If you think about it, guerrilla warfare itself has\nbeen around since ancient times.\nThere's only so many ways a small group can\nupset a large army.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84F0; ENG blocks=0x9C850,0x9C850; ENG source rows=0x9C850#10,0x9C850#11; block_semantic_score=0.184173."
+BRIEFING_FILES_BLOCK_0084F0,8,stream=0x8000;block=0x4F0;text=8,"[""stream=0x8000;block=0x4F0;text=8""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","もっとも、遙か昔からゲリラ戦法自体は存在した。少人数
+で大軍を攪乱する手段は限られるからな。
+","日本にも、ゲリラ戦法に長けたサムライがいたぞ。
+","ほう。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,日本有位武士，就是游击战的高手。,"[""日本有位武士，就是游击战的高手。""]","There was a samurai in Japan who excelled in
+guerrilla warfare.
+","[""There was a samurai in Japan who excelled in\nguerrilla warfare.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#12; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,9,stream=0x8000;block=0x4F0;text=9,"[""stream=0x8000;block=0x4F0;text=9""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","日本にも、ゲリラ戦法に長けたサムライがいたぞ。
+","ほう。
+","楠木正成。中世の武士だ。奇襲攻撃を駆使して、鎌倉幕府
+の転覆に一役買った。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,真的假的？,"[""真的假的？""]","No kidding?
+","[""No kidding?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#13; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,10,stream=0x8000;block=0x4F0;text=10,"[""stream=0x8000;block=0x4F0;text=10""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","ほう。
+","楠木正成。中世の武士だ。奇襲攻撃を駆使して、鎌倉幕府
+の転覆に一役買った。
+","例えばどんな？
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"楠木正成。他是活跃在
+中世纪的一名武将。","[""楠木正成。他是活跃在\n中世纪的一名武将。""]","Kusunoki Masashige. He was a warrior who lived in
+the medieval era.
+","[""Kusunoki Masashige. He was a warrior who lived in\nthe medieval era.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#14; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,11,stream=0x8000;block=0x4F0;text=11,"[""stream=0x8000;block=0x4F0;text=11""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","楠木正成。中世の武士だ。奇襲攻撃を駆使して、鎌倉幕府
+の転覆に一役買った。
+","例えばどんな？
+","トロイの木馬戦法での潜入、<R=藁人形,デコイ>での攪乱…。極めつき
+は城壁を登ってくる敵に、熱湯や糞尿を…。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,比如说？,"[""比如说？""]","Like what?
+","[""Like what?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#16; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,12,stream=0x8000;block=0x4F0;text=12,"[""stream=0x8000;block=0x4F0;text=12""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","例えばどんな？
+","トロイの木馬戦法での潜入、<R=藁人形,デコイ>での攪乱…。極めつき
+は城壁を登ってくる敵に、熱湯や糞尿を…。
+","そいつはいい。早速MSFでも取り入れよう。
+","[""<R=藁人形,デコイ>""]",,,NOT_CHECKED,154,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"特洛伊木马式的佯攻，
+还有各种迷惑敌人的诱敌之计…最绝的一次，是敌人
+正在攀爬他的城墙时——","[""特洛伊木马式的佯攻，\n还有各种迷惑敌人的诱敌之计…最绝的一次，是敌人\n正在攀爬他的城墙时——""]","Trojan Horse-style maneuvers and decoys to
+confuse the enemy...
+The best one was when the enemy was climbing
+his castle walls
+","[""Trojan Horse-style maneuvers and decoys to\nconfuse the enemy...\nThe best one was when the enemy was climbing\nhis castle walls\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x84F0; ENG blocks=0x9C850,0x9C850; ENG source rows=0x9C850#17,0x9C850#18; block_semantic_score=0.184173."
+BRIEFING_FILES_BLOCK_0084F0,13,stream=0x8000;block=0x4F0;text=13,"[""stream=0x8000;block=0x4F0;text=13""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","トロイの木馬戦法での潜入、<R=藁人形,デコイ>での攪乱…。極めつき
+は城壁を登ってくる敵に、熱湯や糞尿を…。
+","そいつはいい。早速MSFでも取り入れよう。
+","…本気か？　ボス。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听起来不错。把这招写
+进MSF的战术手册里吧。","[""听起来不错。把这招写\n进MSF的战术手册里吧。""]","Sounds great. Let's put it in the MSF playbook.
+","[""Sounds great. Let's put it in the MSF playbook.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#20; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,14,stream=0x8000;block=0x4F0;text=14,"[""stream=0x8000;block=0x4F0;text=14""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","そいつはいい。早速MSFでも取り入れよう。
+","…本気か？　ボス。
+","材料には事欠かないからな。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…Boss，你不是认真的吧？,"[""…Boss，你不是认真的吧？""]","...You're not serious, are you, Boss?
+","[""...You're not serious, are you, Boss?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#21; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,15,stream=0x8000;block=0x4F0;text=15,"[""stream=0x8000;block=0x4F0;text=15""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","…本気か？　ボス。
+","材料には事欠かないからな。
+","あー、まあしばらく考えておこう。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为什么不呢？我们
+有的是屎可以往下倒。","[""为什么不呢？我们\n有的是屎可以往下倒。""]","Why not? We've got plenty of crap to unload.
+","[""Why not? We've got plenty of crap to unload.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#22; block_semantic_score=0.184173.
+BRIEFING_FILES_BLOCK_0084F0,16,stream=0x8000;block=0x4F0;text=16,"[""stream=0x8000;block=0x4F0;text=16""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","材料には事欠かないからな。
+","あー、まあしばらく考えておこう。
+",,[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,呃…好吧，我会考虑的。,"[""呃…好吧，我会考虑的。""]","Uh.... yeah. I'll think about it.
+","[""Uh.... yeah. I'll think about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x84F0; ENG blocks=0x9C850; ENG source rows=0x9C850#23; block_semantic_score=0.184173.

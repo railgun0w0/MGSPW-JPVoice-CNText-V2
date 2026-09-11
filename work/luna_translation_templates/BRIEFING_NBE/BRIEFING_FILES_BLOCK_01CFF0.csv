@@ -1,0 +1,31 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01CFF0,0,stream=0x1C000;block=0xFF0;text=0,"[""stream=0x1C000;block=0xFF0;text=0""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]",,"これは殲滅ミッションだ。潜入ミッションではない。
+","戦闘は避けられない。隠れて済まそうなんて考えは無駄だ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这是清剿任务，不是潜入任务。,"[""这是清剿任务，不是潜入任务。""]","This is a sweep-and-destroy mission, not a
+sneaking mission.
+","[""This is a sweep-and-destroy mission, not a\nsneaking mission.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1CFF0; ENG blocks=0xAE250; ENG source rows=0xAE250#0; block_semantic_score=0.081447.
+BRIEFING_FILES_BLOCK_01CFF0,1,stream=0x1C000;block=0xFF0;text=1,"[""stream=0x1C000;block=0xFF0;text=1""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","これは殲滅ミッションだ。潜入ミッションではない。
+","戦闘は避けられない。隠れて済まそうなんて考えは無駄だ。
+","カムフラ率の高い装備より、防御力を優先するんだ。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别想着神不知鬼不觉地
+溜过去。你必须战斗。别管迷彩指数了。","[""别想着神不知鬼不觉地\n溜过去。你必须战斗。别管迷彩指数了。""]","Don't think you're going to slip through this one
+unnoticed. You will fight.
+Forget about your camo index.
+","[""Don't think you're going to slip through this one\nunnoticed. You will fight.\nForget about your camo index.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,"JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:2; JPN blocks=0x1CFF0; ENG blocks=0xAE250,0xAE250; ENG source rows=0xAE250#1,0xAE250#2; block_semantic_score=0.081447."
+BRIEFING_FILES_BLOCK_01CFF0,2,stream=0x1C000;block=0xFF0;text=2,"[""stream=0x1C000;block=0xFF0;text=2""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","戦闘は避けられない。隠れて済まそうなんて考えは無駄だ。
+","カムフラ率の高い装備より、防御力を優先するんだ。
+","もちろん武器も十分に携行する必要がある。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"更重要的是选择能提供
+物理防护的装备。","[""更重要的是选择能提供\n物理防护的装备。""]","What's more important is choosing gear that offers
+physical protection.
+","[""What's more important is choosing gear that offers\nphysical protection.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1CFF0; ENG blocks=0xAE250; ENG source rows=0xAE250#3; block_semantic_score=0.081447.
+BRIEFING_FILES_BLOCK_01CFF0,3,stream=0x1C000;block=0xFF0;text=3,"[""stream=0x1C000;block=0xFF0;text=3""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","カムフラ率の高い装備より、防御力を優先するんだ。
+","もちろん武器も十分に携行する必要がある。
+","回復用のアイテムも忘れないでくれよ！
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然，也得带足弹药才能摆平局面。,"[""当然，也得带足弹药才能摆平局面。""]","And of course you'll need a big enough arsenal to
+take care of business.
+","[""And of course you'll need a big enough arsenal to\ntake care of business.\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1CFF0; ENG blocks=0xAE250; ENG source rows=0xAE250#4; block_semantic_score=0.081447.
+BRIEFING_FILES_BLOCK_01CFF0,4,stream=0x1C000;block=0xFF0;text=4,"[""stream=0x1C000;block=0xFF0;text=4""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","もちろん武器も十分に携行する必要がある。
+","回復用のアイテムも忘れないでくれよ！
+",,[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,噢，还有，别忘了补齐用品！,"[""噢，还有，别忘了补齐用品！""]","Oh, and don't forget your recovery items, either!
+","[""Oh, and don't forget your recovery items, either!\n""]",AUX_REFERENCE_CONTEXT_ALIGNED,FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP,JPN is authoritative; auxiliary alignment=FILES_BRACKETED_LOCAL_CONTEXT_PLUS_ROW_DP; shape=1:1; JPN blocks=0x1CFF0; ENG blocks=0xAE250; ENG source rows=0xAE250#5; block_semantic_score=0.081447.

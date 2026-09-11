@@ -1,0 +1,42 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_0176F0,0,stream=0x17000;block=0x6F0;text=0,"[""stream=0x17000;block=0x6F0;text=0""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]",,"ダンボールには二人まで入れる。CO-OPS相手と入れるっ
+てことだな。
+","どうやるんだ！？
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_0176F0,1,stream=0x17000;block=0x6F0;text=1,"[""stream=0x17000;block=0x6F0;text=1""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]","ダンボールには二人まで入れる。CO-OPS相手と入れるっ
+てことだな。
+","どうやるんだ！？
+","仲間が入っているダンボールに、アイコンが出るまで近づ
+くんだ。そこで<I=ACT>を押せばいい。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_0176F0,2,stream=0x17000;block=0x6F0;text=2,"[""stream=0x17000;block=0x6F0;text=2""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]","どうやるんだ！？
+","仲間が入っているダンボールに、アイコンが出るまで近づ
+くんだ。そこで<I=ACT>を押せばいい。
+","<I=ACT>を押している間は、外へ出ない。
+","[""<I=ACT>""]",,,NOT_CHECKED,129,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_0176F0,3,stream=0x17000;block=0x6F0;text=3,"[""stream=0x17000;block=0x6F0;text=3""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]","仲間が入っているダンボールに、アイコンが出るまで近づ
+くんだ。そこで<I=ACT>を押せばいい。
+","<I=ACT>を押している間は、外へ出ない。
+","スネークフォーメーションと同じだな。
+","[""<I=ACT>""]",,,NOT_CHECKED,53,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_0176F0,4,stream=0x17000;block=0x6F0;text=4,"[""stream=0x17000;block=0x6F0;text=4""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]","<I=ACT>を押している間は、外へ出ない。
+","スネークフォーメーションと同じだな。
+","ああ。スネーク・イン中にダンボールを被っても、そのま
+ま二人とも同じダンボールに入ることが出来る。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_0176F0,5,stream=0x17000;block=0x6F0;text=5,"[""stream=0x17000;block=0x6F0;text=5""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]","スネークフォーメーションと同じだな。
+","ああ。スネーク・イン中にダンボールを被っても、そのま
+ま二人とも同じダンボールに入ることが出来る。
+","信頼できる仲間とダンボールを被れる…いい時代になった
+もんだ。なあ、カズ。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_0176F0,6,stream=0x17000;block=0x6F0;text=6,"[""stream=0x17000;block=0x6F0;text=6""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]","ああ。スネーク・イン中にダンボールを被っても、そのま
+ま二人とも同じダンボールに入ることが出来る。
+","信頼できる仲間とダンボールを被れる…いい時代になった
+もんだ。なあ、カズ。
+","あ、ああ。そうだな…。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_0176F0,7,stream=0x17000;block=0x6F0;text=7,"[""stream=0x17000;block=0x6F0;text=7""]",1,BRIEFING FILES,"[""stream=0x17000;block=0x6F0;block_file=0x176F0;text_base=0x17730;capacity=652""]","信頼できる仲間とダンボールを被れる…いい時代になった
+もんだ。なあ、カズ。
+","あ、ああ。そうだな…。
+",,[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.

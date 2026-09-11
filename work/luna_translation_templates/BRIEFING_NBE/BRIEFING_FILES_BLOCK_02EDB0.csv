@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02EDB0,0,stream=0x2E000;block=0xDB0;text=0,"[""stream=0x2E000;block=0xDB0;text=0""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]",,"鉱山を開くには、随分森が切り拓かれたんだと思う。
+","だろうな。こちらとしても、隠れる場所がなくて一苦労だ。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们为了开辟那个矿场，
+一定砍伐了大片森林。","[""他们为了开辟那个矿场，\n一定砍伐了大片森林。""]","They must have had to clear a considerable
+amount of forest to open up that mine.
+","[""They must have had to clear a considerable\namount of forest to open up that mine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#0; block_semantic_score=0.109493.
+BRIEFING_FILES_BLOCK_02EDB0,1,stream=0x2E000;block=0xDB0;text=1,"[""stream=0x2E000;block=0xDB0;text=1""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","鉱山を開くには、随分森が切り拓かれたんだと思う。
+","だろうな。こちらとしても、隠れる場所がなくて一苦労だ。
+","森だけじゃない。きちんと処理されていなければ、廃水が
+地下水を汚染する可能性もある。
+",[],,,NOT_CHECKED,82,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且不止是森林。
+如果没有适当的预防措施，","[""而且不止是森林。\n如果没有适当的预防措施，""]","And it is not just the forest. Without the proper
+precautions,
+","[""And it is not just the forest. Without the proper\nprecautions,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#2; block_semantic_score=0.109493.
+BRIEFING_FILES_BLOCK_02EDB0,2,stream=0x2E000;block=0xDB0;text=2,"[""stream=0x2E000;block=0xDB0;text=2""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","だろうな。こちらとしても、隠れる場所がなくて一苦労だ。
+","森だけじゃない。きちんと処理されていなければ、廃水が
+地下水を汚染する可能性もある。
+","おまけに、こんな場所で核兵器開発に協力している人達も
+いる…どうしてみんな、自分達の国を大切にしないの？
+",[],,,NOT_CHECKED,125,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,矿场的废水可能会污染地下水。,"[""矿场的废水可能会污染地下水。""]","the mine's waste water could pollute the
+groundwater.
+","[""the mine's waste water could pollute the\ngroundwater.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#3; block_semantic_score=0.109493.
+BRIEFING_FILES_BLOCK_02EDB0,3,stream=0x2E000;block=0xDB0;text=3,"[""stream=0x2E000;block=0xDB0;text=3""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","森だけじゃない。きちんと処理されていなければ、廃水が
+地下水を汚染する可能性もある。
+","おまけに、こんな場所で核兵器開発に協力している人達も
+いる…どうしてみんな、自分達の国を大切にしないの？
+","…国を捨てた身としては、耳が痛い。
+",[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"更糟糕的是，他们还
+在那里研制核武器。","[""更糟糕的是，他们还\n在那里研制核武器。""]","And to top it all off, they're developing nuclear
+weapons there, too.
+","[""And to top it all off, they're developing nuclear\nweapons there, too.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#4; block_semantic_score=0.109493.
+BRIEFING_FILES_BLOCK_02EDB0,4,stream=0x2E000;block=0xDB0;text=4,"[""stream=0x2E000;block=0xDB0;text=4""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","おまけに、こんな場所で核兵器開発に協力している人達も
+いる…どうしてみんな、自分達の国を大切にしないの？
+","…国を捨てた身としては、耳が痛い。
+","ううん、スネークは国を捨てたかも知れないけど、でも祖
+国を大事に思っているはずよ。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,人们怎么能如此不在乎自己的国家？,"[""人们怎么能如此不在乎自己的国家？""]","How can people care so little about their own
+country?
+","[""How can people care so little about their own\ncountry?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#5; block_semantic_score=0.109493.
+BRIEFING_FILES_BLOCK_02EDB0,5,stream=0x2E000;block=0xDB0;text=5,"[""stream=0x2E000;block=0xDB0;text=5""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","…国を捨てた身としては、耳が痛い。
+","ううん、スネークは国を捨てたかも知れないけど、でも祖
+国を大事に思っているはずよ。
+","俺が祖国を…？
+",[],,,NOT_CHECKED,122,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,好吧，你可能抛弃了自己的国家，但你仍然珍视自己的故乡。,"[""好吧，你可能抛弃了自己的国家，但你仍然珍视自己的故乡。""]","Well, you may have abandoned your country,
+but you still treasure where you came from.
+","[""Well, you may have abandoned your country,\nbut you still treasure where you came from.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2EDB0; ENG blocks=0xC00B0,0xC00B0; ENG source rows=0xC00B0#7,0xC00B0#8; block_semantic_score=0.109493."
+BRIEFING_FILES_BLOCK_02EDB0,6,stream=0x2E000;block=0xDB0;text=6,"[""stream=0x2E000;block=0xDB0;text=6""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","ううん、スネークは国を捨てたかも知れないけど、でも祖
+国を大事に思っているはずよ。
+","俺が祖国を…？
+","ええ。それくらい、私にだってわかる。
+",[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你这么认为？,"[""你这么认为？""]","You think so?
+","[""You think so?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#9; block_semantic_score=0.109493.
+BRIEFING_FILES_BLOCK_02EDB0,7,stream=0x2E000;block=0xDB0;text=7,"[""stream=0x2E000;block=0xDB0;text=7""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","俺が祖国を…？
+","ええ。それくらい、私にだってわかる。
+","パス、君は…いや、その自分の国を愛する気持ちを大事に
+してくれ。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,当然。我知道你会的。,"[""当然。我知道你会的。""]","Sure. I know you do.
+","[""Sure. I know you do.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#10; block_semantic_score=0.109493.
+BRIEFING_FILES_BLOCK_02EDB0,8,stream=0x2E000;block=0xDB0;text=8,"[""stream=0x2E000;block=0xDB0;text=8""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","ええ。それくらい、私にだってわかる。
+","パス、君は…いや、その自分の国を愛する気持ちを大事に
+してくれ。
+",,[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Paz，你…我…无论你做什么，
+永远不要停止爱你的国家。","[""Paz，你…我…无论你做什么，\n永远不要停止爱你的国家。""]","Paz, you... I... Whatever you do, never stop loving
+your country.
+","[""Paz, you... I... Whatever you do, never stop loving\nyour country.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2EDB0; ENG blocks=0xC00B0; ENG source rows=0xC00B0#11; block_semantic_score=0.109493.

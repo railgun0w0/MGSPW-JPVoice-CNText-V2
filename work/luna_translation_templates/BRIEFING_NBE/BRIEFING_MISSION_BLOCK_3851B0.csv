@@ -1,0 +1,45 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_3851B0,0,stream=0x385000;block=0x1B0;text=0,"[""stream=0x385000;block=0x1B0;text=0""]",1,BRIEFING MISSION,"[""stream=0x385000;block=0x1B0;block_file=0x3851B0;text_base=0x3851E0;capacity=468""]",,"俺達の噂を聞きつけ、様々な場所から
+入隊を希望する猛者が、集まってきている。
+","だが奴らは「まずボスの実力を見せてほしい」って
+話だ。身の程知らずな連中に、
+あんたの力を思い知らせてやってくれ。
+",[],,,NOT_CHECKED,113,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"看来我们的名声已经传开了。有来自各地的身经百战的
+老兵想要加入我们的军队！","[""看来我们的名声已经传开了。有来自各地的身经百战的\n老兵想要加入我们的军队！""]","Looks like our reputation is spreading.
+We've got battle-hardened veterans from
+all kinds of places trying to join our army!
+","[""Looks like our reputation is spreading.\nWe've got battle-hardened veterans from\nall kinds of places trying to join our army!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3851B0; ENG blocks=0x39A4D0,0x39A4D0; ENG source rows=0x39A4D0#0,0x39A4D0#1; block_semantic_score=0.135718."
+BRIEFING_MISSION_BLOCK_3851B0,1,stream=0x385000;block=0x1B0;text=1,"[""stream=0x385000;block=0x1B0;text=1""]",1,BRIEFING MISSION,"[""stream=0x385000;block=0x1B0;block_file=0x3851B0;text_base=0x3851E0;capacity=468""]","俺達の噂を聞きつけ、様々な場所から
+入隊を希望する猛者が、集まってきている。
+","だが奴らは「まずボスの実力を見せてほしい」って
+話だ。身の程知らずな連中に、
+あんたの力を思い知らせてやってくれ。
+","打撃攻撃かCQCで、全員を時間内に気絶させれば、
+俺達の強力な仲間になってくれる。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但是，他们坚持要先考验你的本领，
+看看你是不是""货真价实""，才肯加入。教训教训这些不知天高地厚的家伙！","[""但是，他们坚持要先考验你的本领，\n看看你是不是\""货真价实\""，才肯加入。教训教训这些不知天高地厚的家伙！""]","But, they insist on testing your skills to
+see if you're the ""real deal"" before they'll
+join.
+Lets put these arrogant upstarts in their
+place!
+","[""But, they insist on testing your skills to\nsee if you're the \""real deal\"" before they'll\njoin.\nLets put these arrogant upstarts in their\nplace!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3851B0; ENG blocks=0x39A4D0,0x39A4D0; ENG source rows=0x39A4D0#2,0x39A4D0#3; block_semantic_score=0.135718."
+BRIEFING_MISSION_BLOCK_3851B0,2,stream=0x385000;block=0x1B0;text=2,"[""stream=0x385000;block=0x1B0;text=2""]",1,BRIEFING MISSION,"[""stream=0x385000;block=0x1B0;block_file=0x3851B0;text_base=0x3851E0;capacity=468""]","だが奴らは「まずボスの実力を見せてほしい」って
+話だ。身の程知らずな連中に、
+あんたの力を思い知らせてやってくれ。
+","打撃攻撃かCQCで、全員を時間内に気絶させれば、
+俺達の強力な仲間になってくれる。
+","彼らを失望させないでくれよ。
+頼むぞ、ボス！
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"用徒手攻击或CQC撂倒他们。如果能在时限内把他们全部打晕，
+他们就会加入我们，","[""用徒手攻击或CQC撂倒他们。如果能在时限内把他们全部打晕，\n他们就会加入我们，""]","Take them down using hand-to-hand
+strikes or CQC.
+If you can knock 'em all out within the
+time limit, they'll join us,
+","[""Take them down using hand-to-hand\nstrikes or CQC.\nIf you can knock 'em all out within the\ntime limit, they'll join us,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3851B0; ENG blocks=0x39A4D0,0x39A4D0; ENG source rows=0x39A4D0#4,0x39A4D0#5; block_semantic_score=0.135718."
+BRIEFING_MISSION_BLOCK_3851B0,3,stream=0x385000;block=0x1B0;text=3,"[""stream=0x385000;block=0x1B0;text=3""]",1,BRIEFING MISSION,"[""stream=0x385000;block=0x1B0;block_file=0x3851B0;text_base=0x3851E0;capacity=468""]","打撃攻撃かCQCで、全員を時間内に気絶させれば、
+俺達の強力な仲間になってくれる。
+","彼らを失望させないでくれよ。
+頼むぞ、ボス！
+",,[],,,NOT_CHECKED,65,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,别让他们失望，Boss。给他们露一手！,"[""别让他们失望，Boss。给他们露一手！""]","Don't disappoint 'em, Boss. Show 'em
+what you got!
+","[""Don't disappoint 'em, Boss. Show 'em\nwhat you got!\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3851B0; ENG blocks=0x39A4D0; ENG source rows=0x39A4D0#7; block_semantic_score=0.135718.

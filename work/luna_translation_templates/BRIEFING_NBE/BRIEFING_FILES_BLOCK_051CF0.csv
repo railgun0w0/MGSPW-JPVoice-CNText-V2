@@ -1,0 +1,60 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_051CF0,0,stream=0x51000;block=0xCF0;text=0,"[""stream=0x51000;block=0xCF0;text=0""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]",,"以前、あんたはママルポッドの事を“蝶”と言ったな。蛹、
+ピューパでも繭、コクーンでもない、“成虫”、イメイゴ
+だと。
+","ええ。ママルポッド以前のAIは、未完成品だったから。
+",[],,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"之前你把哺乳舱称为蝴蝶。
+不是蛹也不是茧，而是成虫。","[""之前你把哺乳舱称为蝴蝶。\n不是蛹也不是茧，而是成虫。""]","Earlier, you called the Mammal Pod a butterfly. Not
+a pupa or a cocoon, but an imago.
+","[""Earlier, you called the Mammal Pod a butterfly. Not\na pupa or a cocoon, but an imago.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51CF0; ENG blocks=0xDF880; ENG source rows=0xDF880#0; block_semantic_score=0.295298.
+BRIEFING_FILES_BLOCK_051CF0,1,stream=0x51000;block=0xCF0;text=1,"[""stream=0x51000;block=0xCF0;text=1""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]","以前、あんたはママルポッドの事を“蝶”と言ったな。蛹、
+ピューパでも繭、コクーンでもない、“成虫”、イメイゴ
+だと。
+","ええ。ママルポッド以前のAIは、未完成品だったから。
+","未完成？
+",[],,,NOT_CHECKED,75,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是的。在哺乳舱之前的AI都是半成品。,"[""是的。在哺乳舱之前的AI都是半成品。""]","Yes. The AI that came before the Mammal Pod
+were works in progress.
+","[""Yes. The AI that came before the Mammal Pod\nwere works in progress.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51CF0; ENG blocks=0xDF880; ENG source rows=0xDF880#1; block_semantic_score=0.295298.
+BRIEFING_FILES_BLOCK_051CF0,2,stream=0x51000;block=0xCF0;text=2,"[""stream=0x51000;block=0xCF0;text=2""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]","ええ。ママルポッド以前のAIは、未完成品だったから。
+","未完成？
+","機体を動かすには十分だけど、核報復のような高度の判断
+はできない。完成まで今一歩。だから蛹。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,半成品？,"[""半成品？""]","Works in progress?
+","[""Works in progress?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51CF0; ENG blocks=0xDF880; ENG source rows=0xDF880#2; block_semantic_score=0.295298.
+BRIEFING_FILES_BLOCK_051CF0,3,stream=0x51000;block=0xCF0;text=3,"[""stream=0x51000;block=0xCF0;text=3""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]","未完成？
+","機体を動かすには十分だけど、核報復のような高度の判断
+はできない。完成まで今一歩。だから蛹。
+","ザ・ボスのデータを入力することで、初めてAIは本来の姿
+を得た。蝶になって羽ばたいたんだ。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但不足以做出核报复的决定。,"[""但不足以做出核报复的决定。""]","But not enough to make decisions about nuclear
+retaliation.
+","[""But not enough to make decisions about nuclear\nretaliation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51CF0; ENG blocks=0xDF880; ENG source rows=0xDF880#4; block_semantic_score=0.295298.
+BRIEFING_FILES_BLOCK_051CF0,4,stream=0x51000;block=0xCF0;text=4,"[""stream=0x51000;block=0xCF0;text=4""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]","機体を動かすには十分だけど、核報復のような高度の判断
+はできない。完成まで今一歩。だから蛹。
+","ザ・ボスのデータを入力することで、初めてAIは本来の姿
+を得た。蝶になって羽ばたいたんだ。
+","それで、ピースウォーカーのノーズアートに蝶を…。
+",[],,,NOT_CHECKED,130,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"直到我加入了The Boss的数据，
+AI才呈现出真正的形态，","[""直到我加入了The Boss的数据，\nAI才呈现出真正的形态，""]","Only when I added The Boss' data did the AI take
+on its true form,
+","[""Only when I added The Boss' data did the AI take\non its true form,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51CF0; ENG blocks=0xDF880; ENG source rows=0xDF880#6; block_semantic_score=0.295298.
+BRIEFING_FILES_BLOCK_051CF0,5,stream=0x51000;block=0xCF0;text=5,"[""stream=0x51000;block=0xCF0;text=5""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]","ザ・ボスのデータを入力することで、初めてAIは本来の姿
+を得た。蝶になって羽ばたいたんだ。
+","それで、ピースウォーカーのノーズアートに蝶を…。
+","私は、ママルのAIに“BS-imago”というコードネームを
+与えた。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,化为蝴蝶，展翅飞翔。所以和平行者上的机头涂装才是蝴蝶…,"[""化为蝴蝶，展翅飞翔。所以和平行者上的机头涂装才是蝴蝶…""]","becoming a butterfly and taking flight.
+And that's why the nose art on Peace Walker was
+a butterfly...
+","[""becoming a butterfly and taking flight.\nAnd that's why the nose art on Peace Walker was\na butterfly...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x51CF0; ENG blocks=0xDF880,0xDF880; ENG source rows=0xDF880#7,0xDF880#8; block_semantic_score=0.295298."
+BRIEFING_FILES_BLOCK_051CF0,6,stream=0x51000;block=0xCF0;text=6,"[""stream=0x51000;block=0xCF0;text=6""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]","それで、ピースウォーカーのノーズアートに蝶を…。
+","私は、ママルのAIに“BS-imago”というコードネームを
+与えた。
+","“BS”はボスの略だ。
+",[],,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我给哺乳舱AI起代号“BS-Imago”。,"[""我给哺乳舱AI起代号“BS-Imago”。""]","I gave the Mammal AI the code name ""BS-Imago.""
+","[""I gave the Mammal AI the code name \""BS-Imago.\""\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51CF0; ENG blocks=0xDF880; ENG source rows=0xDF880#9; block_semantic_score=0.295298.
+BRIEFING_FILES_BLOCK_051CF0,7,stream=0x51000;block=0xCF0;text=7,"[""stream=0x51000;block=0xCF0;text=7""]",1,BRIEFING FILES,"[""stream=0x51000;block=0xCF0;block_file=0x51CF0;text_base=0x51D30;capacity=724""]","私は、ママルのAIに“BS-imago”というコードネームを
+与えた。
+","“BS”はボスの略だ。
+",,[],,,NOT_CHECKED,30,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,“BS”是Boss的缩写。,"[""“BS”是Boss的缩写。""]","""BS"" is short for Boss.
+","[""\""BS\"" is short for Boss.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x51CF0; ENG blocks=0xDF880; ENG source rows=0xDF880#10; block_semantic_score=0.295298.

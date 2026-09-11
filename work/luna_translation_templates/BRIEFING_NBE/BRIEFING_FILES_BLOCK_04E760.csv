@@ -1,0 +1,110 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_04E760,0,stream=0x4E000;block=0x760;text=0,"[""stream=0x4E000;block=0x760;text=0""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]",,"アラン・チューリング博士は、コンピュータ科学の父とも
+言われている。AIの基礎理論は、彼が築いたと言っていい。
+","博士は大戦中、GC&CSで働いていた。
+",[],,,NOT_CHECKED,160,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"艾伦·图灵博士被誉为
+计算机科学之父。","[""艾伦·图灵博士被誉为\n计算机科学之父。""]","Dr. Alan Turing is known as the father of computer
+science.
+","[""Dr. Alan Turing is known as the father of computer\nscience.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#0; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,1,stream=0x4E000;block=0x760;text=1,"[""stream=0x4E000;block=0x760;text=1""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","アラン・チューリング博士は、コンピュータ科学の父とも
+言われている。AIの基礎理論は、彼が築いたと言っていい。
+","博士は大戦中、GC&CSで働いていた。
+","政府暗号学校…エニグマ解読か。
+",[],,,NOT_CHECKED,48,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,战争期间，他在GC&CS工作。,"[""战争期间，他在GC&CS工作。""]","During the war, he worked for GC&CS.
+","[""During the war, he worked for GC&CS.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#2; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,2,stream=0x4E000;block=0x760;text=2,"[""stream=0x4E000;block=0x760;text=2""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","博士は大戦中、GC&CSで働いていた。
+","政府暗号学校…エニグマ解読か。
+","そうだ。彼がいなければ、ドイツ軍のエニグマ暗号は解読
+できなかったかも知れない。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"政府的密码学校…
+就是破译了恩尼格玛密码的那个。","[""政府的密码学校…\n就是破译了恩尼格玛密码的那个。""]","The government's cryptology school... the one that
+broke Enigma.
+","[""The government's cryptology school... the one that\nbroke Enigma.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#3; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,3,stream=0x4E000;block=0x760;text=3,"[""stream=0x4E000;block=0x760;text=3""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","政府暗号学校…エニグマ解読か。
+","そうだ。彼がいなければ、ドイツ軍のエニグマ暗号は解読
+できなかったかも知れない。
+","…だが、その後、彼は逮捕された。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没有他，他们可能永远
+无法破译德军的密码。","[""没有他，他们可能永远\n无法破译德军的密码。""]","Without him, they might never have been able to
+decipher the Germans' code.
+","[""Without him, they might never have been able to\ndecipher the Germans' code.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#5; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,4,stream=0x4E000;block=0x760;text=4,"[""stream=0x4E000;block=0x760;text=4""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","そうだ。彼がいなければ、ドイツ軍のエニグマ暗号は解読
+できなかったかも知れない。
+","…だが、その後、彼は逮捕された。
+","なぜだ。大戦を終わらせた功労者じゃないか。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…但后来他们逮捕了他。,"[""…但后来他们逮捕了他。""]","...But then they arrested him.
+","[""...But then they arrested him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#6; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,5,stream=0x4E000;block=0x760;text=5,"[""stream=0x4E000;block=0x760;text=5""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","…だが、その後、彼は逮捕された。
+","なぜだ。大戦を終わらせた功労者じゃないか。
+","当時のイギリスでは、同性愛は犯罪だった。彼はゲイだっ
+たんだ。
+",[],,,NOT_CHECKED,64,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"为什么？他的贡献难道不是
+赢得战争的最大功劳之一吗？","[""为什么？他的贡献难道不是\n赢得战争的最大功劳之一吗？""]","Why? Weren't his some of the greatest
+contributions to winning the war?
+","[""Why? Weren't his some of the greatest\ncontributions to winning the war?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#7; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,6,stream=0x4E000;block=0x760;text=6,"[""stream=0x4E000;block=0x760;text=6""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","なぜだ。大戦を終わらせた功労者じゃないか。
+","当時のイギリスでは、同性愛は犯罪だった。彼はゲイだっ
+たんだ。
+","私には、彼の無念がよくわかる。彼の分までAI研究を発展
+させる義務が、私にはある…。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"当时在英国，同性恋是
+犯罪。而他是同性恋。","[""当时在英国，同性恋是\n犯罪。而他是同性恋。""]","Homosexuality was a crime in Britain back then.
+And he was gay.
+","[""Homosexuality was a crime in Britain back then.\nAnd he was gay.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#8; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,7,stream=0x4E000;block=0x760;text=7,"[""stream=0x4E000;block=0x760;text=7""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","当時のイギリスでは、同性愛は犯罪だった。彼はゲイだっ
+たんだ。
+","私には、彼の無念がよくわかる。彼の分までAI研究を発展
+させる義務が、私にはある…。
+","男女の違いこそあれ、か。
+",[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我完全理解他有多绝望。
+我觉得继续他的AI研究是我的责任…","[""我完全理解他有多绝望。\n我觉得继续他的AI研究是我的责任…""]","I know exactly how crushed he was. I feel it's my
+duty to further his AI research...
+","[""I know exactly how crushed he was. I feel it's my\nduty to further his AI research...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#9; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,8,stream=0x4E000;block=0x760;text=8,"[""stream=0x4E000;block=0x760;text=8""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","私には、彼の無念がよくわかる。彼の分までAI研究を発展
+させる義務が、私にはある…。
+","男女の違いこそあれ、か。
+","そうだ。知っているか？　チューリング・テストのヒント
+になったのは、他愛もないパーティゲームなんだ。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,就像“模仿游戏”那样，是吧？,"[""就像“模仿游戏”那样，是吧？""]","Like ""The Imitation Game,"" huh?
+","[""Like \""The Imitation Game,\"" huh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#10; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,9,stream=0x4E000;block=0x760;text=9,"[""stream=0x4E000;block=0x760;text=9""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","男女の違いこそあれ、か。
+","そうだ。知っているか？　チューリング・テストのヒント
+になったのは、他愛もないパーティゲームなんだ。
+","ついたてをはさんだ相手と筆談して、性別を当てる。それ
+が女なのか、女の振りをした男なのか…。
+",[],,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"啊，你知道啊？图灵测试的灵感，
+来自一个微不足道的小派对游戏。你和另一个人隔着屏风交换纸条，","[""啊，你知道啊？图灵测试的灵感，\n来自一个微不足道的小派对游戏。你和另一个人隔着屏风交换纸条，""]","Ah, you know it, then?
+The clue that inspired the Turing Test came from
+a trifling little party game.
+You exchange written notes with another person
+behind a screen,
+","[""Ah, you know it, then?\nThe clue that inspired the Turing Test came from\na trifling little party game.\nYou exchange written notes with another person\nbehind a screen,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x4E760; ENG blocks=0xDC290,0xDC290,0xDC290; ENG source rows=0xDC290#11,0xDC290#12,0xDC290#13; block_semantic_score=0.213718."
+BRIEFING_FILES_BLOCK_04E760,10,stream=0x4E000;block=0x760;text=10,"[""stream=0x4E000;block=0x760;text=10""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","そうだ。知っているか？　チューリング・テストのヒント
+になったのは、他愛もないパーティゲームなんだ。
+","ついたてをはさんだ相手と筆談して、性別を当てる。それ
+が女なのか、女の振りをした男なのか…。
+","これを見極めるのは意外と難しい。男か、女か。機械か、
+人間か。その差が意味するものは何か。
+",[],,,NOT_CHECKED,137,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,然后猜测对方的性别——是女人，,"[""然后猜测对方的性别——是女人，""]","and try to guess their gender whether they're a
+woman,
+","[""and try to guess their gender whether they're a\nwoman,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x4E760; ENG blocks=0xDC290; ENG source rows=0xDC290#14; block_semantic_score=0.213718.
+BRIEFING_FILES_BLOCK_04E760,11,stream=0x4E000;block=0x760;text=11,"[""stream=0x4E000;block=0x760;text=11""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","ついたてをはさんだ相手と筆談して、性別を当てる。それ
+が女なのか、女の振りをした男なのか…。
+","これを見極めるのは意外と難しい。男か、女か。機械か、
+人間か。その差が意味するものは何か。
+","彼は、男女の違いについて考え続けた。それがチューリン
+グ・テストという発想につながったのかも知れないな。
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"要分辨出来出奇地困难。
+男人还是女人，人类还是机器…这些差异到底意味着什么？","[""要分辨出来出奇地困难。\n男人还是女人，人类还是机器…这些差异到底意味着什么？""]","It's surprisingly difficult to tell the difference. Man
+or woman, human or machine...
+What do the differences even mean?
+","[""It's surprisingly difficult to tell the difference. Man\nor woman, human or machine...\nWhat do the differences even mean?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4E760; ENG blocks=0xDC290,0xDC290; ENG source rows=0xDC290#16,0xDC290#17; block_semantic_score=0.213718."
+BRIEFING_FILES_BLOCK_04E760,12,stream=0x4E000;block=0x760;text=12,"[""stream=0x4E000;block=0x760;text=12""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0x760;block_file=0x4E760;text_base=0x4E7B4;capacity=1324""]","これを見極めるのは意外と難しい。男か、女か。機械か、
+人間か。その差が意味するものは何か。
+","彼は、男女の違いについて考え続けた。それがチューリン
+グ・テストという発想につながったのかも知れないな。
+",,[],,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"图灵博士对男女之间的差异深深着迷。也许正是这一点促使
+他提出了他的测试。","[""图灵博士对男女之间的差异深深着迷。也许正是这一点促使\n他提出了他的测试。""]","Dr. Turing was fascinated by the differences
+between men and women.
+Perhaps that's what led him to formulate his test.
+","[""Dr. Turing was fascinated by the differences\nbetween men and women.\nPerhaps that's what led him to formulate his test.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x4E760; ENG blocks=0xDC290,0xDC290; ENG source rows=0xDC290#18,0xDC290#19; block_semantic_score=0.213718."

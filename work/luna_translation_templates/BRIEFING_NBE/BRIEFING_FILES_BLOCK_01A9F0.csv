@@ -1,0 +1,86 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_01A9F0,0,stream=0x1A000;block=0x9F0;text=0,"[""stream=0x1A000;block=0x9F0;text=0""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]",,"次の目的地までは、途中までは来た道を逆に辿ることにな
+る。
+","地形を把握しているからと言って油断はするなよ。敵はあ
+んたの存在を知った。これまで以上に警戒を強めているだ
+ろう。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,要抵达下一个目标，你需要沿来路稍微往回走一段。,"[""要抵达下一个目标，你需要沿来路稍微往回走一段。""]","To get to your next objective,
+you'll need to backtrack along the way you came
+for a bit.
+","[""To get to your next objective,\nyou'll need to backtrack along the way you came\nfor a bit.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1A9F0; ENG blocks=0xABF10,0xABF10; ENG source rows=0xABF10#0,0xABF10#1; block_semantic_score=0.159596."
+BRIEFING_FILES_BLOCK_01A9F0,1,stream=0x1A000;block=0x9F0;text=1,"[""stream=0x1A000;block=0x9F0;text=1""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","次の目的地までは、途中までは来た道を逆に辿ることにな
+る。
+","地形を把握しているからと言って油断はするなよ。敵はあ
+んたの存在を知った。これまで以上に警戒を強めているだ
+ろう。
+","慎重に進むんだ。必要があれば火器の使用もためらうな。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"别因为熟悉地形就太松懈。敌人现在知道你来了，
+他们会派出比之前更多的人手。","[""别因为熟悉地形就太松懈。敌人现在知道你来了，\n他们会派出比之前更多的人手。""]","Don't get too comfortable just because you know
+the terrain.
+The enemy knows you're out there now. They'll be
+out in greater force than before.
+","[""Don't get too comfortable just because you know\nthe terrain.\nThe enemy knows you're out there now. They'll be\nout in greater force than before.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1A9F0; ENG blocks=0xABF10,0xABF10; ENG source rows=0xABF10#2,0xABF10#3; block_semantic_score=0.159596."
+BRIEFING_FILES_BLOCK_01A9F0,2,stream=0x1A000;block=0x9F0;text=2,"[""stream=0x1A000;block=0x9F0;text=2""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","地形を把握しているからと言って油断はするなよ。敵はあ
+んたの存在を知った。これまで以上に警戒を強めているだ
+ろう。
+","慎重に進むんだ。必要があれば火器の使用もためらうな。
+","川を渡る必要があるな。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,除非万不得已，不要使用火器。,"[""除非万不得已，不要使用火器。""]","Refrain from using firearms unless absolutely
+necessary.
+","[""Refrain from using firearms unless absolutely\nnecessary.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A9F0; ENG blocks=0xABF10; ENG source rows=0xABF10#5; block_semantic_score=0.159596.
+BRIEFING_FILES_BLOCK_01A9F0,3,stream=0x1A000;block=0x9F0;text=3,"[""stream=0x1A000;block=0x9F0;text=3""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","慎重に進むんだ。必要があれば火器の使用もためらうな。
+","川を渡る必要があるな。
+","ああ。吊り橋がかかってる。ここは一本道だ。敵の目を避
+けるには工夫が要るだろう。
+",[],,,NOT_CHECKED,34,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看来我必须过河。,"[""看来我必须过河。""]","Looks like I'll have to cross the river.
+","[""Looks like I'll have to cross the river.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A9F0; ENG blocks=0xABF10; ENG source rows=0xABF10#6; block_semantic_score=0.159596.
+BRIEFING_FILES_BLOCK_01A9F0,4,stream=0x1A000;block=0x9F0;text=4,"[""stream=0x1A000;block=0x9F0;text=4""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","川を渡る必要があるな。
+","ああ。吊り橋がかかってる。ここは一本道だ。敵の目を避
+けるには工夫が要るだろう。
+","吊り橋を抜けた沼地の先には…バナナ園か。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对，有座吊桥能过去。那是唯一的过河路径。
+你得想点办法别被发现。","[""对，有座吊桥能过去。那是唯一的过河路径。\n你得想点办法别被发现。""]","Yeah, there's a suspension bridge you can use.
+It's the only way across. You'll have to be a little
+creative to keep from being spotted.
+","[""Yeah, there's a suspension bridge you can use.\nIt's the only way across. You'll have to be a little\ncreative to keep from being spotted.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1A9F0; ENG blocks=0xABF10,0xABF10; ENG source rows=0xABF10#7,0xABF10#8; block_semantic_score=0.159596."
+BRIEFING_FILES_BLOCK_01A9F0,5,stream=0x1A000;block=0x9F0;text=5,"[""stream=0x1A000;block=0x9F0;text=5""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","ああ。吊り橋がかかってる。ここは一本道だ。敵の目を避
+けるには工夫が要るだろう。
+","吊り橋を抜けた沼地の先には…バナナ園か。
+","工場設備が併設されてるようだな。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,过桥，穿过沼泽…然后来到一片香蕉种植园。,"[""过桥，穿过沼泽…然后来到一片香蕉种植园。""]","So I cross the bridge, go through the swamp....
+and come to a banana plantation.
+","[""So I cross the bridge, go through the swamp....\nand come to a banana plantation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x1A9F0; ENG blocks=0xABF10,0xABF10; ENG source rows=0xABF10#9,0xABF10#10; block_semantic_score=0.159596."
+BRIEFING_FILES_BLOCK_01A9F0,6,stream=0x1A000;block=0x9F0;text=6,"[""stream=0x1A000;block=0x9F0;text=6""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","吊り橋を抜けた沼地の先には…バナナ園か。
+","工場設備が併設されてるようだな。
+","同じ移動するにしても森の中とは勝手が違うだろう、気を
+つけろよ。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,看起来还配有自带的加工厂。,"[""看起来还配有自带的加工厂。""]","Complete with its own factory, by the looks of it.
+","[""Complete with its own factory, by the looks of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A9F0; ENG blocks=0xABF10; ENG source rows=0xABF10#11; block_semantic_score=0.159596.
+BRIEFING_FILES_BLOCK_01A9F0,7,stream=0x1A000;block=0x9F0;text=7,"[""stream=0x1A000;block=0x9F0;text=7""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","工場設備が併設されてるようだな。
+","同じ移動するにしても森の中とは勝手が違うだろう、気を
+つけろよ。
+","了解だ。
+",[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"和森林相比，穿过那片
+区域的感觉会大不相同。","[""和森林相比，穿过那片\n区域的感觉会大不相同。""]","It's going to feel a lot different moving through
+that area compared to the forest.
+","[""It's going to feel a lot different moving through\nthat area compared to the forest.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A9F0; ENG blocks=0xABF10; ENG source rows=0xABF10#12; block_semantic_score=0.159596.
+BRIEFING_FILES_BLOCK_01A9F0,8,stream=0x1A000;block=0x9F0;text=8,"[""stream=0x1A000;block=0x9F0;text=8""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","同じ移動するにしても森の中とは勝手が違うだろう、気を
+つけろよ。
+","了解だ。
+","それと、途中<R=FSLN,サンディニスタ>の捕虜を見つける可能性もある。でき
+るだけフルトンで回収してやってくれ。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,明白了。,"[""明白了。""]","Got it.
+","[""Got it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A9F0; ENG blocks=0xABF10; ENG source rows=0xABF10#14; block_semantic_score=0.159596.
+BRIEFING_FILES_BLOCK_01A9F0,9,stream=0x1A000;block=0x9F0;text=9,"[""stream=0x1A000;block=0x9F0;text=9""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","了解だ。
+","それと、途中<R=FSLN,サンディニスタ>の捕虜を見つける可能性もある。でき
+るだけフルトンで回収してやってくれ。
+","覚えておこう。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,155,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另外，一路上可能会
+遇到桑地诺的俘虏。","[""另外，一路上可能会\n遇到桑地诺的俘虏。""]","Also, you may encounter Sandinista prisoners along
+the way.
+","[""Also, you may encounter Sandinista prisoners along\nthe way.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A9F0; ENG blocks=0xABF10; ENG source rows=0xABF10#15; block_semantic_score=0.159596.
+BRIEFING_FILES_BLOCK_01A9F0,10,stream=0x1A000;block=0x9F0;text=10,"[""stream=0x1A000;block=0x9F0;text=10""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","それと、途中<R=FSLN,サンディニスタ>の捕虜を見つける可能性もある。でき
+るだけフルトンで回収してやってくれ。
+","覚えておこう。
+",,[],,,NOT_CHECKED,22,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我会留意的。,"[""我会留意的。""]","I'll keep an eye out.
+","[""I'll keep an eye out.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x1A9F0; ENG blocks=0xABF10; ENG source rows=0xABF10#17; block_semantic_score=0.159596.

@@ -1,0 +1,125 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_070EF0,0,stream=0x70000;block=0xEF0;text=0,"[""stream=0x70000;block=0xEF0;text=0""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]",,"さて、スネークボーイ。君も知っての通り、NORADには
+サンタクロース追跡という重大な任務が課されている。
+","はぁ…。
+",[],,,NOT_CHECKED,148,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"好啦，Snakey。所有乖小孩都知道，密切留意圣诞老人是北美防空
+司令部一项非常重要的工作。","[""好啦，Snakey。所有乖小孩都知道，密切留意圣诞老人是北美防空\n司令部一项非常重要的工作。""]","OK, Snakey. As all good little boys know,
+keeping tabs on Santa Claus is a very important
+job for NORAD.
+","[""OK, Snakey. As all good little boys know,\nkeeping tabs on Santa Claus is a very important\njob for NORAD.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x70EF0; ENG blocks=0xFD370,0xFD370; ENG source rows=0xFD370#0,0xFD370#1; block_semantic_score=0.196548."
+BRIEFING_FILES_BLOCK_070EF0,1,stream=0x70000;block=0xEF0;text=1,"[""stream=0x70000;block=0xEF0;text=1""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","さて、スネークボーイ。君も知っての通り、NORADには
+サンタクロース追跡という重大な任務が課されている。
+","はぁ…。
+","だが彼らにはその他に、本来の、創設以来の任務がある。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,呃…,"[""呃…""]","Ugh...
+","[""Ugh...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#2; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,2,stream=0x70000;block=0xEF0;text=2,"[""stream=0x70000;block=0xEF0;text=2""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","はぁ…。
+","だが彼らにはその他に、本来の、創設以来の任務がある。
+","その為の機構が…今回コールドマンに利用された。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但他们还有另一项使命——
+他们成立的目的。","[""但他们还有另一项使命——\n他们成立的目的。""]","But they also have another mission - the one they
+were created for.
+","[""But they also have another mission - the one they\nwere created for.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#3; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,3,stream=0x70000;block=0xEF0;text=3,"[""stream=0x70000;block=0xEF0;text=3""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","だが彼らにはその他に、本来の、創設以来の任務がある。
+","その為の機構が…今回コールドマンに利用された。
+","…ピースウォーカーからの偽装データ送信のことか？
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,而他们为此建立的系统…已经被Coldman劫持了。,"[""而他们为此建立的系统…已经被Coldman劫持了。""]","And the system they set up for that...
+Has been hijacked by Coldman.
+","[""And the system they set up for that...\nHas been hijacked by Coldman.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x70EF0; ENG blocks=0xFD370,0xFD370; ENG source rows=0xFD370#4,0xFD370#5; block_semantic_score=0.196548."
+BRIEFING_FILES_BLOCK_070EF0,4,stream=0x70000;block=0xEF0;text=4,"[""stream=0x70000;block=0xEF0;text=4""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","その為の機構が…今回コールドマンに利用された。
+","…ピースウォーカーからの偽装データ送信のことか？
+","NORADの早期警戒システムはDSP衛星に搭載された赤
+外線センサーと、北米大陸の各地に設置された監視レーダ
+ー群から構成されている。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,…你是说和平行者的伪造数据传输？,"[""…你是说和平行者的伪造数据传输？""]","...You mean Peace Walker's fake data
+transmissions?
+","[""...You mean Peace Walker's fake data\ntransmissions?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#6; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,5,stream=0x70000;block=0xEF0;text=5,"[""stream=0x70000;block=0xEF0;text=5""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","…ピースウォーカーからの偽装データ送信のことか？
+","NORADの早期警戒システムはDSP衛星に搭載された赤
+外線センサーと、北米大陸の各地に設置された監視レーダ
+ー群から構成されている。
+","警戒網から発されるワーニングは<R= NORAD ,シャイアン・マウンテン>へ送られ、人
+間による情報評価が行われる。
+",[],,,NOT_CHECKED,182,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"北美防空司令部的早期预警系统
+由DSP卫星搭载的红外传感器，","[""北美防空司令部的早期预警系统\n由DSP卫星搭载的红外传感器，""]","NORAD's early warning system is composed of DSP
+satellite-mounted infrared sensors,
+","[""NORAD's early warning system is composed of DSP\nsatellite-mounted infrared sensors,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#7; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,6,stream=0x70000;block=0xEF0;text=6,"[""stream=0x70000;block=0xEF0;text=6""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","NORADの早期警戒システムはDSP衛星に搭載された赤
+外線センサーと、北米大陸の各地に設置された監視レーダ
+ー群から構成されている。
+","警戒網から発されるワーニングは<R= NORAD ,シャイアン・マウンテン>へ送られ、人
+間による情報評価が行われる。
+","一方ピースウォーカーは自律的に報復行動を決断しなけれ
+ばならない。
+","[""<R= NORAD ,シャイアン・マウンテン>""]",,,NOT_CHECKED,152,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"以及遍布北美的一系列
+监视雷达站组成。这个网络会把警报发送到位于
+夏延山的北美防空司令部，在那里，数据会经过人工评估。","[""以及遍布北美的一系列\n监视雷达站组成。这个网络会把警报发送到位于\n夏延山的北美防空司令部，在那里，数据会经过人工评估。""]","and an array of surveillance radar stations across
+North America.
+The network sends out warnings to NORAD at
+Cheyenne Mountain,
+where the data undergoes human evaluation.
+","[""and an array of surveillance radar stations across\nNorth America.\nThe network sends out warnings to NORAD at\nCheyenne Mountain,\nwhere the data undergoes human evaluation.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:3; JPN blocks=0x70EF0; ENG blocks=0xFD370,0xFD370,0xFD370; ENG source rows=0xFD370#8,0xFD370#9,0xFD370#10; block_semantic_score=0.196548."
+BRIEFING_FILES_BLOCK_070EF0,7,stream=0x70000;block=0xEF0;text=7,"[""stream=0x70000;block=0xEF0;text=7""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","警戒網から発されるワーニングは<R= NORAD ,シャイアン・マウンテン>へ送られ、人
+間による情報評価が行われる。
+","一方ピースウォーカーは自律的に報復行動を決断しなけれ
+ばならない。
+","そこでNORADと同じ情報が秘匿回線を通じて自動的に供
+給される仕組みになっている。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"另一方面，和平行者必须
+自主做出报复反击的决定。","[""另一方面，和平行者必须\n自主做出报复反击的决定。""]","Peace Walker, on the other hand, has to make its
+retaliation decisions autonomously.
+","[""Peace Walker, on the other hand, has to make its\nretaliation decisions autonomously.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#11; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,8,stream=0x70000;block=0xEF0;text=8,"[""stream=0x70000;block=0xEF0;text=8""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","一方ピースウォーカーは自律的に報復行動を決断しなけれ
+ばならない。
+","そこでNORADと同じ情報が秘匿回線を通じて自動的に供
+給される仕組みになっている。
+","その回線は、実験機のAIが下す報復判断を<R=遠隔測定,テレメタリング>する目
+的にも使われていた。
+",[],,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"所以它被设置成通过隐蔽信道自动
+接收与北美防空司令部相同的数据。","[""所以它被设置成通过隐蔽信道自动\n接收与北美防空司令部相同的数据。""]","So it's set up to automatically receive the same
+data as NORAD through covert channels.
+","[""So it's set up to automatically receive the same\ndata as NORAD through covert channels.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#12; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,9,stream=0x70000;block=0xEF0;text=9,"[""stream=0x70000;block=0xEF0;text=9""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","そこでNORADと同じ情報が秘匿回線を通じて自動的に供
+給される仕組みになっている。
+","その回線は、実験機のAIが下す報復判断を<R=遠隔測定,テレメタリング>する目
+的にも使われていた。
+","ピースウォーカーはこの仕組みを逆用して、演習スケジュ
+ールには無いタイミングで核ミサイル来襲の偽警報をNO
+RADに送り込んだんだ。
+","[""<R=遠隔測定,テレメタリング>""]",,,NOT_CHECKED,135,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"在测试平台上，这些信道也
+被用来遥测AI的决策过程。和平行者把系统反转过来，
+发出了一条虚假警报","[""在测试平台上，这些信道也\n被用来遥测AI的决策过程。和平行者把系统反转过来，\n发出了一条虚假警报""]","Those channels were also used on the test
+platform to telemeter the AI's decision-making.
+Peace Walker reversed the system to transmit a
+fake warning
+","[""Those channels were also used on the test\nplatform to telemeter the AI's decision-making.\nPeace Walker reversed the system to transmit a\nfake warning\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x70EF0; ENG blocks=0xFD370,0xFD370; ENG source rows=0xFD370#13,0xFD370#14; block_semantic_score=0.196548."
+BRIEFING_FILES_BLOCK_070EF0,10,stream=0x70000;block=0xEF0;text=10,"[""stream=0x70000;block=0xEF0;text=10""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","その回線は、実験機のAIが下す報復判断を<R=遠隔測定,テレメタリング>する目
+的にも使われていた。
+","ピースウォーカーはこの仕組みを逆用して、演習スケジュ
+ールには無いタイミングで核ミサイル来襲の偽警報をNO
+RADに送り込んだんだ。
+","システムの脆弱性対策に問題があったといわれれば反論の
+余地はない。
+",[],,,NOT_CHECKED,185,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"内容是核导弹来袭，而且
+不在常规演习计划之内。","[""内容是核导弹来袭，而且\n不在常规演习计划之内。""]","about incoming nuclear missiles outside the usual
+exercise schedule.
+","[""about incoming nuclear missiles outside the usual\nexercise schedule.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#15; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,11,stream=0x70000;block=0xEF0;text=11,"[""stream=0x70000;block=0xEF0;text=11""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","ピースウォーカーはこの仕組みを逆用して、演習スケジュ
+ールには無いタイミングで核ミサイル来襲の偽警報をNO
+RADに送り込んだんだ。
+","システムの脆弱性対策に問題があったといわれれば反論の
+余地はない。
+","でもAIにクラッキングさせるなんて全くの想定外だったか
+らね。結果はご存じの通りだ。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我是说，这套系统本可以有更好的
+防护措施，这点没人会否认。","[""我是说，这套系统本可以有更好的\n防护措施，这点没人会否认。""]","I mean, the system could have used better
+safeguarding, nobody's going to argue with that.
+","[""I mean, the system could have used better\nsafeguarding, nobody's going to argue with that.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#16; block_semantic_score=0.196548.
+BRIEFING_FILES_BLOCK_070EF0,12,stream=0x70000;block=0xEF0;text=12,"[""stream=0x70000;block=0xEF0;text=12""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","システムの脆弱性対策に問題があったといわれれば反論の
+余地はない。
+","でもAIにクラッキングさせるなんて全くの想定外だったか
+らね。結果はご存じの通りだ。
+",,[],,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但破解AI——那在当时看来简直
+难以想象。结果你也看到了。","[""但破解AI——那在当时看来简直\n难以想象。结果你也看到了。""]","But cracking the AI - that seemed unimaginable.
+And you can see what happened.
+","[""But cracking the AI - that seemed unimaginable.\nAnd you can see what happened.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x70EF0; ENG blocks=0xFD370; ENG source rows=0xFD370#17; block_semantic_score=0.196548.

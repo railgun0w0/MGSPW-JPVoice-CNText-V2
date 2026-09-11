@@ -1,0 +1,96 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_05ED20,0,stream=0x5E000;block=0xD20;text=0,"[""stream=0x5E000;block=0xD20;text=0""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]",,"ここに来る前は、ずっとパリだったのか？
+","ええ。パリは私の大好きな街なの。
+",[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你来这里之前，是一直住在巴黎吗？,"[""你来这里之前，是一直住在巴黎吗？""]","Did you live in Paris your whole life before coming
+here?
+","[""Did you live in Paris your whole life before coming\nhere?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#0; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,1,stream=0x5E000;block=0xD20;text=1,"[""stream=0x5E000;block=0xD20;text=1""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","ここに来る前は、ずっとパリだったのか？
+","ええ。パリは私の大好きな街なの。
+","最先端のモード、世界最高の食事、優れた感性の人々が集
+う、文化と芸術の都。
+",[],,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是的，巴黎是我最喜欢的城市。,"[""是的，巴黎是我最喜欢的城市。""]","Yes. It is my favorite city.
+","[""Yes. It is my favorite city.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#1; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,2,stream=0x5E000;block=0xD20;text=2,"[""stream=0x5E000;block=0xD20;text=2""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","ええ。パリは私の大好きな街なの。
+","最先端のモード、世界最高の食事、優れた感性の人々が集
+う、文化と芸術の都。
+","夜のシャンゼリゼ通りの美しさは、現実とは思えないほど
+よ。
+",[],,,NOT_CHECKED,110,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"巴黎是世界的艺术与文化之都。那里有最前沿的时尚、最好的美食，
+还有最优雅、最有教养的人。","[""巴黎是世界的艺术与文化之都。那里有最前沿的时尚、最好的美食，\n还有最优雅、最有教养的人。""]","Paris is the world capital of art and culture.
+It has the latest fashion, the best cuisine, and the
+most elegant, refined people.
+","[""Paris is the world capital of art and culture.\nIt has the latest fashion, the best cuisine, and the\nmost elegant, refined people.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x5ED20; ENG blocks=0xEC6F0,0xEC6F0; ENG source rows=0xEC6F0#2,0xEC6F0#3; block_semantic_score=0.188286."
+BRIEFING_FILES_BLOCK_05ED20,3,stream=0x5E000;block=0xD20;text=3,"[""stream=0x5E000;block=0xD20;text=3""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","最先端のモード、世界最高の食事、優れた感性の人々が集
+う、文化と芸術の都。
+","夜のシャンゼリゼ通りの美しさは、現実とは思えないほど
+よ。
+","シャンゼリゼっていうのは、ギリシャ神話に出てくる<R=楽園,エリュシオン>、
+つまり<R=天国,ヘブン>なの。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"香榭丽舍大街的夜景
+美得几乎不像人间。","[""香榭丽舍大街的夜景\n美得几乎不像人间。""]","The beauty of the Champs-Élysées at night is
+almost unearthly.
+","[""The beauty of the Champs-Élysées at night is\nalmost unearthly.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#4; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,4,stream=0x5E000;block=0xD20;text=4,"[""stream=0x5E000;block=0xD20;text=4""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","夜のシャンゼリゼ通りの美しさは、現実とは思えないほど
+よ。
+","シャンゼリゼっていうのは、ギリシャ神話に出てくる<R=楽園,エリュシオン>、
+つまり<R=天国,ヘブン>なの。
+","俺には縁のなさそうな話だ。
+","[""<R=楽園,エリュシオン>"", ""<R=天国,ヘブン>""]",,,NOT_CHECKED,144,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"这个名字来自希腊神话中
+天堂的名字——极乐世界。","[""这个名字来自希腊神话中\n天堂的名字——极乐世界。""]","The name comes from Elysium, the name of
+Paradise in Greek mythology.
+","[""The name comes from Elysium, the name of\nParadise in Greek mythology.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#5; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,5,stream=0x5E000;block=0xD20;text=5,"[""stream=0x5E000;block=0xD20;text=5""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","シャンゼリゼっていうのは、ギリシャ神話に出てくる<R=楽園,エリュシオン>、
+つまり<R=天国,ヘブン>なの。
+","俺には縁のなさそうな話だ。
+","文化的な生活に興味はないの？
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,换句话说，就是天堂。,"[""换句话说，就是天堂。""]","Heaven, in other words.
+","[""Heaven, in other words.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#6; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,6,stream=0x5E000;block=0xD20;text=6,"[""stream=0x5E000;block=0xD20;text=6""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","俺には縁のなさそうな話だ。
+","文化的な生活に興味はないの？
+","縁がなかったというだけだ。興味を持ったこともないが。
+",[],,,NOT_CHECKED,43,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你是说那种有文化的生活吸引不了你？,"[""你是说那种有文化的生活吸引不了你？""]","Are you saying the cultured life does not appeal to
+you?
+","[""Are you saying the cultured life does not appeal to\nyou?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#8; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,7,stream=0x5E000;block=0xD20;text=7,"[""stream=0x5E000;block=0xD20;text=7""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","文化的な生活に興味はないの？
+","縁がなかったというだけだ。興味を持ったこともないが。
+","戦争が好きなの？
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我是说我从来没机会过上那种生活。
+反正我也没兴趣。","[""我是说我从来没机会过上那种生活。\n反正我也没兴趣。""]","I'm saying I never had a chance to lead one. Not
+that it appealed to me anyway.
+","[""I'm saying I never had a chance to lead one. Not\nthat it appealed to me anyway.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#9; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,8,stream=0x5E000;block=0xD20;text=8,"[""stream=0x5E000;block=0xD20;text=8""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","縁がなかったというだけだ。興味を持ったこともないが。
+","戦争が好きなの？
+","そんなことはない。だが、天国の外、アウター・ヘブンの
+ほうが性に合う。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你更喜欢战争？,"[""你更喜欢战争？""]","You prefer war?
+","[""You prefer war?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#10; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,9,stream=0x5E000;block=0xD20;text=9,"[""stream=0x5E000;block=0xD20;text=9""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","戦争が好きなの？
+","そんなことはない。だが、天国の外、アウター・ヘブンの
+ほうが性に合う。
+","ハードな生き方ね…。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我不…喜欢战争。
+只是天堂之外的生活更适合我。","[""我不…喜欢战争。\n只是天堂之外的生活更适合我。""]","I don't... Like war. Life outside heaven just suits me
+better.
+","[""I don't... Like war. Life outside heaven just suits me\nbetter.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#11; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,10,stream=0x5E000;block=0xD20;text=10,"[""stream=0x5E000;block=0xD20;text=10""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","そんなことはない。だが、天国の外、アウター・ヘブンの
+ほうが性に合う。
+","ハードな生き方ね…。
+","…でも、いつかフランスに来ることがあれば、パリの街を
+案内してあげる。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,那是一种艰难的生活方式…,"[""那是一种艰难的生活方式…""]","That is a hard way to live...
+","[""That is a hard way to live...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#12; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,11,stream=0x5E000;block=0xD20;text=11,"[""stream=0x5E000;block=0xD20;text=11""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","ハードな生き方ね…。
+","…でも、いつかフランスに来ることがあれば、パリの街を
+案内してあげる。
+","この世の天国、ヘブンを教えてあげるわ。
+",[],,,NOT_CHECKED,104,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…不过如果你真有机会来法国，
+我一定带你逛逛巴黎。","[""…不过如果你真有机会来法国，\n我一定带你逛逛巴黎。""]","...But if you do ever come to France, I will show
+you around Paris.
+","[""...But if you do ever come to France, I will show\nyou around Paris.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#13; block_semantic_score=0.188286.
+BRIEFING_FILES_BLOCK_05ED20,12,stream=0x5E000;block=0xD20;text=12,"[""stream=0x5E000;block=0xD20;text=12""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","…でも、いつかフランスに来ることがあれば、パリの街を
+案内してあげる。
+","この世の天国、ヘブンを教えてあげるわ。
+",,[],,,NOT_CHECKED,58,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"到时候你就会知道什么
+是真正的人间天堂。","[""到时候你就会知道什么\n是真正的人间天堂。""]","Then you will see what heaven on earth is really
+like.
+","[""Then you will see what heaven on earth is really\nlike.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x5ED20; ENG blocks=0xEC6F0; ENG source rows=0xEC6F0#14; block_semantic_score=0.188286.

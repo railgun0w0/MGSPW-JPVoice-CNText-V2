@@ -1,0 +1,84 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_037D80,0,stream=0x37000;block=0xD80;text=0,"[""stream=0x37000;block=0xD80;text=0""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]",,"親父さん、残念だったな。
+","ありがと…。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听说你父亲的事，我很遗憾。,"[""听说你父亲的事，我很遗憾。""]","I'm sorry to hear about your dad.
+","[""I'm sorry to hear about your dad.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#0; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,1,stream=0x37000;block=0xD80;text=1,"[""stream=0x37000;block=0xD80;text=1""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","親父さん、残念だったな。
+","ありがと…。
+","<R=父さん,ミ・ビエホ>は、ずっとあたし達の<R=部隊,フレンテ>のリーダーだった。サン
+ディーノ将軍の時代を知る最後の世代…。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,谢谢你这么说…我老爹是阵线的领袖。,"[""谢谢你这么说…我老爹是阵线的领袖。""]","Thank you for saying that... Mi viejo was the leader
+of the frente.
+","[""Thank you for saying that... Mi viejo was the leader\nof the frente.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#1; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,2,stream=0x37000;block=0xD80;text=2,"[""stream=0x37000;block=0xD80;text=2""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","ありがと…。
+","<R=父さん,ミ・ビエホ>は、ずっとあたし達の<R=部隊,フレンテ>のリーダーだった。サン
+ディーノ将軍の時代を知る最後の世代…。
+","<R=父さん,ミ・ビエホ>は少年兵として、将軍の活躍を見ていたそうよ。よ
+く話を聞かされた…その後、将軍が暗殺された時のことも
+ね。
+","[""<R=父さん,ミ・ビエホ>"", ""<R=部隊,フレンテ>""]",,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,他是最后一代认识桑地诺将军的人…,"[""他是最后一代认识桑地诺将军的人…""]","He was the last of the generation that knew
+General Sandino...
+","[""He was the last of the generation that knew\nGeneral Sandino...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#2; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,3,stream=0x37000;block=0xD80;text=3,"[""stream=0x37000;block=0xD80;text=3""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","<R=父さん,ミ・ビエホ>は、ずっとあたし達の<R=部隊,フレンテ>のリーダーだった。サン
+ディーノ将軍の時代を知る最後の世代…。
+","<R=父さん,ミ・ビエホ>は少年兵として、将軍の活躍を見ていたそうよ。よ
+く話を聞かされた…その後、将軍が暗殺された時のことも
+ね。
+","親父さんがKGBから資金援助を受けていたことは、知って
+たのか？
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,185,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他小时候亲眼见过将军的光辉战绩。他总给我们讲这些故事…
+还讲将军是怎么被暗杀的。","[""他小时候亲眼见过将军的光辉战绩。他总给我们讲这些故事…\n还讲将军是怎么被暗杀的。""]","He saw the General's exploits first-hand as a boy.
+He would tell us stories about it all the time... and
+about how the General was assassinated.
+","[""He saw the General's exploits first-hand as a boy.\nHe would tell us stories about it all the time... and\nabout how the General was assassinated.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x37D80; ENG blocks=0xC86C0,0xC86C0; ENG source rows=0xC86C0#3,0xC86C0#4; block_semantic_score=0.154816."
+BRIEFING_FILES_BLOCK_037D80,4,stream=0x37000;block=0xD80;text=4,"[""stream=0x37000;block=0xD80;text=4""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","<R=父さん,ミ・ビエホ>は少年兵として、将軍の活躍を見ていたそうよ。よ
+く話を聞かされた…その後、将軍が暗殺された時のことも
+ね。
+","親父さんがKGBから資金援助を受けていたことは、知って
+たのか？
+","薄々はね…でも、<R=父さん,ミ・ビエホ>に問いただす勇気は、あたしには
+なかった。<R=父さん,ミ・ビエホ>にとってもそれは、苦渋の決断だったん
+だと思う。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你知道他收过克格勃(KGB)的钱吗？,"[""你知道他收过克格勃(KGB)的钱吗？""]","Did you know he was getting money from the KGB?
+","[""Did you know he was getting money from the KGB?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#5; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,5,stream=0x37000;block=0xD80;text=5,"[""stream=0x37000;block=0xD80;text=5""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","親父さんがKGBから資金援助を受けていたことは、知って
+たのか？
+","薄々はね…でも、<R=父さん,ミ・ビエホ>に問いただす勇気は、あたしには
+なかった。<R=父さん,ミ・ビエホ>にとってもそれは、苦渋の決断だったん
+だと思う。
+","だろうな。
+","[""<R=父さん,ミ・ビエホ>"", ""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,214,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我大概知道…但我
+没有勇气当面质问他。","[""我大概知道…但我\n没有勇气当面质问他。""]","I had some idea... But I did not have the courage to
+confront him about it.
+","[""I had some idea... But I did not have the courage to\nconfront him about it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#6; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,6,stream=0x37000;block=0xD80;text=6,"[""stream=0x37000;block=0xD80;text=6""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","薄々はね…でも、<R=父さん,ミ・ビエホ>に問いただす勇気は、あたしには
+なかった。<R=父さん,ミ・ビエホ>にとってもそれは、苦渋の決断だったん
+だと思う。
+","だろうな。
+","そう、<R=父さん,ミ・ビエホ>は立派な人だった。娘のあたしから見てもね。
+仲間からの信頼も厚かった。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,能想象得到。,"[""能想象得到。""]","I can imagine.
+","[""I can imagine.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#8; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,7,stream=0x37000;block=0xD80;text=7,"[""stream=0x37000;block=0xD80;text=7""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","だろうな。
+","そう、<R=父さん,ミ・ビエホ>は立派な人だった。娘のあたしから見てもね。
+仲間からの信頼も厚かった。
+","<R=父さん,ミ・ビエホ>がいたから、苦しい中でも<R=部隊,フレンテ>がばらばらにならな
+かったのよ。
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,142,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，我父亲是个好人。身为女儿，
+我爱他。他的部下也都信任他。","[""是啊，我父亲是个好人。身为女儿，\n我爱他。他的部下也都信任他。""]","Yes, my father was a good man. I loved him as a
+daughter. And his soldiers believed in him.
+","[""Yes, my father was a good man. I loved him as a\ndaughter. And his soldiers believed in him.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#9; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,8,stream=0x37000;block=0xD80;text=8,"[""stream=0x37000;block=0xD80;text=8""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","そう、<R=父さん,ミ・ビエホ>は立派な人だった。娘のあたしから見てもね。
+仲間からの信頼も厚かった。
+","<R=父さん,ミ・ビエホ>がいたから、苦しい中でも<R=部隊,フレンテ>がばらばらにならな
+かったのよ。
+","<R=父さん,ミ・ビエホ>の代わりが、あたしに務まるのかな…。
+","[""<R=父さん,ミ・ビエホ>"", ""<R=部隊,フレンテ>""]",,,NOT_CHECKED,135,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"多亏有他，阵线即使在最艰难的
+时刻也始终团结在一起。","[""多亏有他，阵线即使在最艰难的\n时刻也始终团结在一起。""]","Thanks to him, la Frente held together even in the
+worst of times.
+","[""Thanks to him, la Frente held together even in the\nworst of times.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#10; block_semantic_score=0.154816.
+BRIEFING_FILES_BLOCK_037D80,9,stream=0x37000;block=0xD80;text=9,"[""stream=0x37000;block=0xD80;text=9""]",1,BRIEFING FILES,"[""stream=0x37000;block=0xD80;block_file=0x37D80;text_base=0x37DC8;capacity=1108""]","<R=父さん,ミ・ビエホ>がいたから、苦しい中でも<R=部隊,フレンテ>がばらばらにならな
+かったのよ。
+","<R=父さん,ミ・ビエホ>の代わりが、あたしに務まるのかな…。
+",,"[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我不知道我能不能接好他的班…,"[""我不知道我能不能接好他的班…""]","I don't know if I can ever fill his shoes...
+","[""I don't know if I can ever fill his shoes...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x37D80; ENG blocks=0xC86C0; ENG source rows=0xC86C0#11; block_semantic_score=0.154816.

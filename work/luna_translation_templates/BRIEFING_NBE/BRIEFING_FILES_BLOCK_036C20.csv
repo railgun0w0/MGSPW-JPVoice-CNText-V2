@@ -1,0 +1,184 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_036C20,0,stream=0x36000;block=0xC20;text=0,"[""stream=0x36000;block=0xC20;text=0""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]",,"いつから<R=FSLN,サンディニスタ>に？
+","1年くらい前。<R=父さん,ミ・ビエホ>達と一緒に、山に入った。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,49,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Amanda！你是什么时候
+加入桑地诺阵线的？","[""Amanda！你是什么时候\n加入桑地诺阵线的？""]","Amanda! When did you join up with the Sandinistas?
+","[""Amanda! When did you join up with the Sandinistas?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#0; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,1,stream=0x36000;block=0xC20;text=1,"[""stream=0x36000;block=0xC20;text=1""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","いつから<R=FSLN,サンディニスタ>に？
+","1年くらい前。<R=父さん,ミ・ビエホ>達と一緒に、山に入った。
+","親父さんは、もとから<R=FSLN,サンディニスタ>じゃなかったのか。
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,85,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大约一年前，我跟我老爹
+和他的队伍进山的时候。","[""大约一年前，我跟我老爹\n和他的队伍进山的时候。""]","About a year ago, when I went into the mountains
+with mi viejo and his group.
+","[""About a year ago, when I went into the mountains\nwith mi viejo and his group.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#1; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,2,stream=0x36000;block=0xC20;text=2,"[""stream=0x36000;block=0xC20;text=2""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","1年くらい前。<R=父さん,ミ・ビエホ>達と一緒に、山に入った。
+","親父さんは、もとから<R=FSLN,サンディニスタ>じゃなかったのか。
+","違う。確かに<R=父さん,ミ・ビエホ>はサンディーノ将軍と一緒に戦ってた
+けど、一旦引退したの。
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,88,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我以为你爸从一开始就加入桑地诺
+民族解放阵线（FSLN）了。","[""我以为你爸从一开始就加入桑地诺\n民族解放阵线（FSLN）了。""]","I thought your dad was with the FSLN from the
+start.
+","[""I thought your dad was with the FSLN from the\nstart.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#2; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,3,stream=0x36000;block=0xC20;text=3,"[""stream=0x36000;block=0xC20;text=3""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","親父さんは、もとから<R=FSLN,サンディニスタ>じゃなかったのか。
+","違う。確かに<R=父さん,ミ・ビエホ>はサンディーノ将軍と一緒に戦ってた
+けど、一旦引退したの。
+","仕事に就いて、家庭を持って、あたし達も生まれた。でも、
+ある時<R=FSLN,サンディニスタ>の学生達が来て…。
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，他以前和桑地诺将军并肩战斗过，
+但之后他隐退了一段时间。","[""不，他以前和桑地诺将军并肩战斗过，\n但之后他隐退了一段时间。""]","No. He fought alongside General Sandino, but after
+that he retired for a while.
+","[""No. He fought alongside General Sandino, but after\nthat he retired for a while.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#3; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,4,stream=0x36000;block=0xC20;text=4,"[""stream=0x36000;block=0xC20;text=4""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","違う。確かに<R=父さん,ミ・ビエホ>はサンディーノ将軍と一緒に戦ってた
+けど、一旦引退したの。
+","仕事に就いて、家庭を持って、あたし達も生まれた。でも、
+ある時<R=FSLN,サンディニスタ>の学生達が来て…。
+","昔の血が騒いだ？
+","[""<R=FSLN,サンディニスタ>""]",,,NOT_CHECKED,149,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他找了份工作，娶了妻子，安了家，
+把我们这些孩子抚养长大。后来有一天，几个
+桑地诺的学生找上门来…","[""他找了份工作，娶了妻子，安了家，\n把我们这些孩子抚养长大。后来有一天，几个\n桑地诺的学生找上门来…""]","He found a job, got a wife and a house, and raised
+us kids.
+Then one day some Sandinista students came by...
+","[""He found a job, got a wife and a house, and raised\nus kids.\nThen one day some Sandinista students came by...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36C20; ENG blocks=0xC76F0,0xC76F0; ENG source rows=0xC76F0#4,0xC76F0#5; block_semantic_score=0.130938."
+BRIEFING_FILES_BLOCK_036C20,5,stream=0x36000;block=0xC20;text=5,"[""stream=0x36000;block=0xC20;text=5""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","仕事に就いて、家庭を持って、あたし達も生まれた。でも、
+ある時<R=FSLN,サンディニスタ>の学生達が来て…。
+","昔の血が騒いだ？
+","そんなところね。とは言っても、<R=国家警備隊,グァルディア>に追われてた
+彼らを逃がしてあげただけ。
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,然后他心中的旧火又被点燃了？,"[""然后他心中的旧火又被点燃了？""]","And he felt the old fire in his belly?
+","[""And he felt the old fire in his belly?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#6; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,6,stream=0x36000;block=0xC20;text=6,"[""stream=0x36000;block=0xC20;text=6""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","昔の血が騒いだ？
+","そんなところね。とは言っても、<R=国家警備隊,グァルディア>に追われてた
+彼らを逃がしてあげただけ。
+","だけど、そこに<R=警備隊,グァルディア>の連中が来た。いきなり家に入って
+きて、偉そうに<R=父さん,ミ・ビエホ>を尋問した。
+","[""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,142,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"差不多吧。但他所做的只是帮
+他们躲避国民警卫队的追捕。","[""差不多吧。但他所做的只是帮\n他们躲避国民警卫队的追捕。""]","Something like that. All he did was help them
+escape from la Guardia, though.
+","[""Something like that. All he did was help them\nescape from la Guardia, though.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#7; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,7,stream=0x36000;block=0xC20;text=7,"[""stream=0x36000;block=0xC20;text=7""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","そんなところね。とは言っても、<R=国家警備隊,グァルディア>に追われてた
+彼らを逃がしてあげただけ。
+","だけど、そこに<R=警備隊,グァルディア>の連中が来た。いきなり家に入って
+きて、偉そうに<R=父さん,ミ・ビエホ>を尋問した。
+","親父さんはもちろん、喋らなかった。
+","[""<R=警備隊,グァルディア>"", ""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,171,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,可后来国民警卫队还是找上门了。,"[""可后来国民警卫队还是找上门了。""]","But then la Guardia showed up.
+","[""But then la Guardia showed up.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#8; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,8,stream=0x36000;block=0xC20;text=8,"[""stream=0x36000;block=0xC20;text=8""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","だけど、そこに<R=警備隊,グァルディア>の連中が来た。いきなり家に入って
+きて、偉そうに<R=父さん,ミ・ビエホ>を尋問した。
+","親父さんはもちろん、喋らなかった。
+","こっぴどく殴られたけどね。家の中もめちゃめちゃ。それ
+から連中に目をつけられて、何かにつけて嫌がらせを受け
+た。
+",[],,,NOT_CHECKED,52,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他们闯进我们家，
+开始推搡他，大声盘问。","[""他们闯进我们家，\n开始推搡他，大声盘问。""]","They broke into our house and began pushing him
+around, shouting questions.
+","[""They broke into our house and began pushing him\naround, shouting questions.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#9; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,9,stream=0x36000;block=0xC20;text=9,"[""stream=0x36000;block=0xC20;text=9""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","親父さんはもちろん、喋らなかった。
+","こっぴどく殴られたけどね。家の中もめちゃめちゃ。それ
+から連中に目をつけられて、何かにつけて嫌がらせを受け
+た。
+","それからよ、<R=父さん,ミ・ビエホ>が<R= FSLN ,サンディニスタ>に身を投じるようになった
+のは。
+",[],,,NOT_CHECKED,165,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不管他们怎么打他，他都没开口。
+我们家被砸得稀巴烂。那之后，他就上了他们的名单——
+没日没夜地骚扰他。","[""不管他们怎么打他，他都没开口。\n我们家被砸得稀巴烂。那之后，他就上了他们的名单——\n没日没夜地骚扰他。""]","No matter how hard they hit him. Our house was
+trashed.
+After that, he was on their list - they harassed him
+day and night.
+","[""No matter how hard they hit him. Our house was\ntrashed.\nAfter that, he was on their list - they harassed him\nday and night.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36C20; ENG blocks=0xC76F0,0xC76F0; ENG source rows=0xC76F0#11,0xC76F0#12; block_semantic_score=0.130938."
+BRIEFING_FILES_BLOCK_036C20,10,stream=0x36000;block=0xC20;text=10,"[""stream=0x36000;block=0xC20;text=10""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","こっぴどく殴られたけどね。家の中もめちゃめちゃ。それ
+から連中に目をつけられて、何かにつけて嫌がらせを受け
+た。
+","それからよ、<R=父さん,ミ・ビエホ>が<R= FSLN ,サンディニスタ>に身を投じるようになった
+のは。
+","それでもあたし達には隠してた。危険が及ばないようにっ
+て。
+","[""<R=父さん,ミ・ビエホ>"", ""<R= FSLN ,サンディニスタ>""]",,,NOT_CHECKED,129,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,直到那时，他才彻底投身桑地诺阵线。,"[""直到那时，他才彻底投身桑地诺阵线。""]","It was only then that he gave himself over to the
+Sandinistas.
+","[""It was only then that he gave himself over to the\nSandinistas.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#13; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,11,stream=0x36000;block=0xC20;text=11,"[""stream=0x36000;block=0xC20;text=11""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","それからよ、<R=父さん,ミ・ビエホ>が<R= FSLN ,サンディニスタ>に身を投じるようになった
+のは。
+","それでもあたし達には隠してた。危険が及ばないようにっ
+て。
+","いい親父さんじゃないか。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,起初他瞒着我们，免得牵连我们受伤。,"[""起初他瞒着我们，免得牵连我们受伤。""]","He kept it hidden from us at first, so we would not
+get hurt.
+","[""He kept it hidden from us at first, so we would not\nget hurt.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#14; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,12,stream=0x36000;block=0xC20;text=12,"[""stream=0x36000;block=0xC20;text=12""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","それでもあたし達には隠してた。危険が及ばないようにっ
+て。
+","いい親父さんじゃないか。
+","ええ…でも、母さんが先に参っちゃって。家を出てった。
+無理もないけどね。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,听起来他是个好父亲。,"[""听起来他是个好父亲。""]","He sounds like a good father.
+","[""He sounds like a good father.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#15; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,13,stream=0x36000;block=0xC20;text=13,"[""stream=0x36000;block=0xC20;text=13""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","いい親父さんじゃないか。
+","ええ…でも、母さんが先に参っちゃって。家を出てった。
+無理もないけどね。
+","母親についていかなかったのか。
+",[],,,NOT_CHECKED,107,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,,[],,[],NO_RELIABLE_AUX_REFERENCE,UNMAPPED_JPN_ONLY_OR_LOW_CONFIDENCE,JPN is authoritative; no ENG/MLG-CN auxiliary reference passed the semantic/context alignment threshold.
+BRIEFING_FILES_BLOCK_036C20,14,stream=0x36000;block=0xC20;text=14,"[""stream=0x36000;block=0xC20;text=14""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","ええ…でも、母さんが先に参っちゃって。家を出てった。
+無理もないけどね。
+","母親についていかなかったのか。
+","もちろん迷った。でもあたしは<R=父さん,ミ・ビエホ>の事を尊敬してたし、
+ソモサのやり方も許せなかった。それに…。
+",[],,,NOT_CHECKED,46,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他确实是…但我母亲受够了。
+她离开了我们。我不怪她。","[""他确实是…但我母亲受够了。\n她离开了我们。我不怪她。""]","He was... But my mother got fed up with it. She left
+us. I don't blame her.
+","[""He was... But my mother got fed up with it. She left\nus. I don't blame her.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#16; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,15,stream=0x36000;block=0xC20;text=15,"[""stream=0x36000;block=0xC20;text=15""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","母親についていかなかったのか。
+","もちろん迷った。でもあたしは<R=父さん,ミ・ビエホ>の事を尊敬してたし、
+ソモサのやり方も許せなかった。それに…。
+","チコか。
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,163,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"但和我父亲一样，我不能眼看着
+索摩查逍遥法外。但最重要的是…","[""但和我父亲一样，我不能眼看着\n索摩查逍遥法外。但最重要的是…""]","But like my father, I couldn't let Somoza get away
+with his crimes. But most of all...
+","[""But like my father, I couldn't let Somoza get away\nwith his crimes. But most of all...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#19; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,16,stream=0x36000;block=0xC20;text=16,"[""stream=0x36000;block=0xC20;text=16""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","もちろん迷った。でもあたしは<R=父さん,ミ・ビエホ>の事を尊敬してたし、
+ソモサのやり方も許せなかった。それに…。
+","チコか。
+","…あの子は<R=父さん,ミ・ビエホ>っ子だったからね。家に残るって聞かな
+くて。置いてくわけにもいかないし。
+",[],,,NOT_CHECKED,13,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico。,"[""Chico。""]","Chico.
+","[""Chico.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#20; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,17,stream=0x36000;block=0xC20;text=17,"[""stream=0x36000;block=0xC20;text=17""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","チコか。
+","…あの子は<R=父さん,ミ・ビエホ>っ子だったからね。家に残るって聞かな
+くて。置いてくわけにもいかないし。
+","そのうち<R=国家警備隊,グァルディア>に追われて、山に入った…って感じ。
+半分は成り行きね。
+","[""<R=父さん,ミ・ビエホ>""]",,,NOT_CHECKED,151,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…他太像他爸爸了。
+无论如何，他都会留下来。而我不能抛下他不管。","[""…他太像他爸爸了。\n无论如何，他都会留下来。而我不能抛下他不管。""]","...He is too much like his papá. One way or the
+other he was going to stay.
+And I could not leave him behind.
+","[""...He is too much like his papá. One way or the\nother he was going to stay.\nAnd I could not leave him behind.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36C20; ENG blocks=0xC76F0,0xC76F0; ENG source rows=0xC76F0#21,0xC76F0#22; block_semantic_score=0.130938."
+BRIEFING_FILES_BLOCK_036C20,18,stream=0x36000;block=0xC20;text=18,"[""stream=0x36000;block=0xC20;text=18""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","…あの子は<R=父さん,ミ・ビエホ>っ子だったからね。家に残るって聞かな
+くて。置いてくわけにもいかないし。
+","そのうち<R=国家警備隊,グァルディア>に追われて、山に入った…って感じ。
+半分は成り行きね。
+","その割には、堂々たる戦いっぷりだったぞ。
+","[""<R=国家警備隊,グァルディア>""]",,,NOT_CHECKED,130,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没过多久，国民警卫队就把我们
+赶出了家门，我们只好躲进了山里…","[""没过多久，国民警卫队就把我们\n赶出了家门，我们只好躲进了山里…""]","Soon enough la Guardia drove us out, and we
+found ourselves in the mountains...
+","[""Soon enough la Guardia drove us out, and we\nfound ourselves in the mountains...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#23; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,19,stream=0x36000;block=0xC20;text=19,"[""stream=0x36000;block=0xC20;text=19""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","そのうち<R=国家警備隊,グァルディア>に追われて、山に入った…って感じ。
+半分は成り行きね。
+","その割には、堂々たる戦いっぷりだったぞ。
+","山は戦士を鍛えてくれる。訓練は厳しい分、<R=新しい人間,オンブレ・ヌエボ>に
+してくれるのよ。
+",[],,,NOT_CHECKED,61,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"作为一个误打误撞的革命者，
+你可真能打啊。","[""作为一个误打误撞的革命者，\n你可真能打啊。""]","For an accidental revolutionary, you sure put up a
+hell of a fight.
+","[""For an accidental revolutionary, you sure put up a\nhell of a fight.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#25; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,20,stream=0x36000;block=0xC20;text=20,"[""stream=0x36000;block=0xC20;text=20""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","その割には、堂々たる戦いっぷりだったぞ。
+","山は戦士を鍛えてくれる。訓練は厳しい分、<R=新しい人間,オンブレ・ヌエボ>に
+してくれるのよ。
+","やっぱり、大した姉ちゃんだ。<R=司令官,コマンダンテ>に推薦されるだけの
+ことはある。
+","[""<R=新しい人間,オンブレ・ヌエボ>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,大山能把人变成战士。训练很严酷，,"[""大山能把人变成战士。训练很严酷，""]","The mountains make men into warriors. The
+training is harsh,
+","[""The mountains make men into warriors. The\ntraining is harsh,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x36C20; ENG blocks=0xC76F0; ENG source rows=0xC76F0#26; block_semantic_score=0.130938.
+BRIEFING_FILES_BLOCK_036C20,21,stream=0x36000;block=0xC20;text=21,"[""stream=0x36000;block=0xC20;text=21""]",1,BRIEFING FILES,"[""stream=0x36000;block=0xC20;block_file=0x36C20;text_base=0x36C98;capacity=2260""]","山は戦士を鍛えてくれる。訓練は厳しい分、<R=新しい人間,オンブレ・ヌエボ>に
+してくれるのよ。
+","やっぱり、大した姉ちゃんだ。<R=司令官,コマンダンテ>に推薦されるだけの
+ことはある。
+",,"[""<R=司令官,コマンダンテ>""]",,,NOT_CHECKED,121,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Chico能有你这样的姐姐，真幸运。我明白他们为什么选你当指挥官了。,"[""Chico能有你这样的姐姐，真幸运。我明白他们为什么选你当指挥官了。""]","Chico couldn't ask for a better sister.
+I can see why they picked you to be comandante.
+","[""Chico couldn't ask for a better sister.\nI can see why they picked you to be comandante.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x36C20; ENG blocks=0xC76F0,0xC76F0; ENG source rows=0xC76F0#28,0xC76F0#29; block_semantic_score=0.130938."

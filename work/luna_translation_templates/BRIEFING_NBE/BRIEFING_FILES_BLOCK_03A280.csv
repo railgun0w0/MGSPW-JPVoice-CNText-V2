@@ -1,0 +1,164 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_03A280,0,stream=0x3A000;block=0x280;text=0,"[""stream=0x3A000;block=0x280;text=0""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]",,"アマンダ、<R=列車車庫,ターミナル>への行き方はわかるか。
+","村の手前の三叉路に、機関車があったのは覚えてる？
+","[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,81,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,Amanda，去货运站怎么走？,"[""Amanda，去货运站怎么走？""]","Amanda, do you know the way to the rail terminal?
+","[""Amanda, do you know the way to the rail terminal?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#0; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,1,stream=0x3A000;block=0x280;text=1,"[""stream=0x3A000;block=0x280;text=1""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","アマンダ、<R=列車車庫,ターミナル>への行き方はわかるか。
+","村の手前の三叉路に、機関車があったのは覚えてる？
+","ああ。ジャングルの中か。
+",[],,,NOT_CHECKED,73,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"记得那辆火车头吗？
+村子前头那个岔路口旁边？","[""记得那辆火车头吗？\n村子前头那个岔路口旁边？""]","Remember the locomotive? By the fork in the road
+before the village?
+","[""Remember the locomotive? By the fork in the road\nbefore the village?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#1; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,2,stream=0x3A000;block=0x280;text=2,"[""stream=0x3A000;block=0x280;text=2""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","村の手前の三叉路に、機関車があったのは覚えてる？
+","ああ。ジャングルの中か。
+","そこから線路沿いに進めば<R=列車車庫,ターミナル>へ行ける。ただ、途中
+に工場が。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,嗯，在丛林那边。,"[""嗯，在丛林那边。""]","Yeah, back in the jungle.
+","[""Yeah, back in the jungle.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#2; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,3,stream=0x3A000;block=0x280;text=3,"[""stream=0x3A000;block=0x280;text=3""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","ああ。ジャングルの中か。
+","そこから線路沿いに進めば<R=列車車庫,ターミナル>へ行ける。ただ、途中
+に工場が。
+","コーヒー工場に偽装した…。
+","[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,115,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,从那儿沿着铁轨走，就能到货运站。不过路上有个工厂。,"[""从那儿沿着铁轨走，就能到货运站。不过路上有个工厂。""]","Follow the train tracks from there and you'll come
+to the terminal.
+But there's a plant along the way.
+","[""Follow the train tracks from there and you'll come\nto the terminal.\nBut there's a plant along the way.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3A280; ENG blocks=0xCA770,0xCA770; ENG source rows=0xCA770#3,0xCA770#4; block_semantic_score=0.119264."
+BRIEFING_FILES_BLOCK_03A280,4,stream=0x3A000;block=0x280;text=4,"[""stream=0x3A000;block=0x280;text=4""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","そこから線路沿いに進めば<R=列車車庫,ターミナル>へ行ける。ただ、途中
+に工場が。
+","コーヒー工場に偽装した…。
+","…麻薬精製工場。そう。今は<R=CIA,ラ・シーア>が占拠してる。
+",[],,,NOT_CHECKED,40,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,伪装成咖啡工厂的那个？,"[""伪装成咖啡工厂的那个？""]","Disguised as a coffee factory?
+","[""Disguised as a coffee factory?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#5; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,5,stream=0x3A000;block=0x280;text=5,"[""stream=0x3A000;block=0x280;text=5""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","コーヒー工場に偽装した…。
+","…麻薬精製工場。そう。今は<R=CIA,ラ・シーア>が占拠してる。
+","ここを突っ切るのが最短距離だけど敵も多い。迂回するな
+ら…。
+","[""<R=CIA,ラ・シーア>""]",,,NOT_CHECKED,84,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"…对，那就是他们的毒品精炼平台。
+现在归中情局(CIA)管。","[""…对，那就是他们的毒品精炼平台。\n现在归中情局(CIA)管。""]","...Yes, it is their drug refining plant. La CIA controls
+it now.
+","[""...Yes, it is their drug refining plant. La CIA controls\nit now.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#6; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,6,stream=0x3A000;block=0x280;text=6,"[""stream=0x3A000;block=0x280;text=6""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","…麻薬精製工場。そう。今は<R=CIA,ラ・シーア>が占拠してる。
+","ここを突っ切るのが最短距離だけど敵も多い。迂回するな
+ら…。
+","いや。それが近道ならちょうどいい。工場も奴らの拠点だ。
+把握しておく必要がある。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"穿过那儿是最近的路，
+但里面肯定挤满了士兵。","[""穿过那儿是最近的路，\n但里面肯定挤满了士兵。""]","Cutting through there is the shortest way, but it'll
+be crawling with soldiers.
+","[""Cutting through there is the shortest way, but it'll\nbe crawling with soldiers.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#7; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,7,stream=0x3A000;block=0x280;text=7,"[""stream=0x3A000;block=0x280;text=7""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","ここを突っ切るのが最短距離だけど敵も多い。迂回するな
+ら…。
+","いや。それが近道ならちょうどいい。工場も奴らの拠点だ。
+把握しておく必要がある。
+","頼もしい。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，算了。既然那是
+最近的路，我就走那条。","[""不，算了。既然那是\n最近的路，我就走那条。""]","No, forget it. If that's the shortest way, that's the
+way I'll take.
+","[""No, forget it. If that's the shortest way, that's the\nway I'll take.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#9; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,8,stream=0x3A000;block=0x280;text=8,"[""stream=0x3A000;block=0x280;text=8""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","いや。それが近道ならちょうどいい。工場も奴らの拠点だ。
+把握しておく必要がある。
+","頼もしい。
+","工場の見張りは、高い通路をうろうろしてることが多いの。
+見つからないためには、敵の動きをよく見て。
+",[],,,NOT_CHECKED,16,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"再说那也是他们的基地之一，
+能搞到一些情报。","[""再说那也是他们的基地之一，\n能搞到一些情报。""]","Besides, it's one of their bases. It'll be good intel.
+","[""Besides, it's one of their bases. It'll be good intel.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#10; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,9,stream=0x3A000;block=0x280;text=9,"[""stream=0x3A000;block=0x280;text=9""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","頼もしい。
+","工場の見張りは、高い通路をうろうろしてることが多いの。
+見つからないためには、敵の動きをよく見て。
+","あるいは先に<R=狙い撃つ,スナイプ>か…。
+",[],,,NOT_CHECKED,146,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"很好。工厂有不少卫兵
+驻守在高处的通道上。前进之前，一定要先
+摸清他们的行动规律。","[""很好。工厂有不少卫兵\n驻守在高处的通道上。前进之前，一定要先\n摸清他们的行动规律。""]","Very good. A number of the guards at the plant
+are positioned on high walkways.
+Be sure to study their movements before you
+advance.
+","[""Very good. A number of the guards at the plant\nare positioned on high walkways.\nBe sure to study their movements before you\nadvance.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3A280; ENG blocks=0xCA770,0xCA770; ENG source rows=0xCA770#11,0xCA770#12; block_semantic_score=0.119264."
+BRIEFING_FILES_BLOCK_03A280,10,stream=0x3A000;block=0x280;text=10,"[""stream=0x3A000;block=0x280;text=10""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","工場の見張りは、高い通路をうろうろしてることが多いの。
+見つからないためには、敵の動きをよく見て。
+","あるいは先に<R=狙い撃つ,スナイプ>か…。
+","工場の中も入り組んでる。慌てずに進んで。裏手から<R=列車車庫,ターミナル>
+へ出られる。
+","[""<R=狙い撃つ,スナイプ>""]",,,NOT_CHECKED,57,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,或者我先狙掉他们…,"[""或者我先狙掉他们…""]","Or I could just snipe them first...
+","[""Or I could just snipe them first...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#13; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,11,stream=0x3A000;block=0x280;text=11,"[""stream=0x3A000;block=0x280;text=11""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","あるいは先に<R=狙い撃つ,スナイプ>か…。
+","工場の中も入り組んでる。慌てずに進んで。裏手から<R=列車車庫,ターミナル>
+へ出られる。
+","さすが、詳しいな。
+","[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,124,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"工厂的内部布局恐怕也
+是个迷宫。保持冷静。离开工厂之后，就到货运站了。","[""工厂的内部布局恐怕也\n是个迷宫。保持冷静。离开工厂之后，就到货运站了。""]","The plant's layout is another maze, I'm afraid. Stay
+cool.
+Make your way out of the plant and you'll arrive at
+the terminal.
+","[""The plant's layout is another maze, I'm afraid. Stay\ncool.\nMake your way out of the plant and you'll arrive at\nthe terminal.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x3A280; ENG blocks=0xCA770,0xCA770; ENG source rows=0xCA770#14,0xCA770#15; block_semantic_score=0.119264."
+BRIEFING_FILES_BLOCK_03A280,12,stream=0x3A000;block=0x280;text=12,"[""stream=0x3A000;block=0x280;text=12""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","工場の中も入り組んでる。慌てずに進んで。裏手から<R=列車車庫,ターミナル>
+へ出られる。
+","さすが、詳しいな。
+","それ嫌味？　KGBが使っていたときだってあたしは別に…。
+",[],,,NOT_CHECKED,28,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,你对这地方知道得真多…,"[""你对这地方知道得真多…""]","You know a lot about this place...
+","[""You know a lot about this place...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#16; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,13,stream=0x3A000;block=0x280;text=13,"[""stream=0x3A000;block=0x280;text=13""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","さすが、詳しいな。
+","それ嫌味？　KGBが使っていたときだってあたしは別に…。
+","いや。敵の動きをよくつかんでると思っただけだ。
+",[],,,NOT_CHECKED,79,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"你这话什么意思？我以前来过——
+那时候还是克格勃(KGB)在管——没错，","[""你这话什么意思？我以前来过——\n那时候还是克格勃(KGB)在管——没错，""]","What are you saying? I've been there before -
+when the KGB ran it - yes,
+","[""What are you saying? I've been there before -\nwhen the KGB ran it - yes,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#17; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,14,stream=0x3A000;block=0x280;text=14,"[""stream=0x3A000;block=0x280;text=14""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","それ嫌味？　KGBが使っていたときだってあたしは別に…。
+","いや。敵の動きをよくつかんでると思っただけだ。
+","ならいいけど…。
+",[],,,NOT_CHECKED,70,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"不，我只是说你对敌人的
+运作方式很了解。","[""不，我只是说你对敌人的\n运作方式很了解。""]","No, I just meant you know a lot about how the
+enemy works.
+","[""No, I just meant you know a lot about how the\nenemy works.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#19; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,15,stream=0x3A000;block=0x280;text=15,"[""stream=0x3A000;block=0x280;text=15""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","いや。敵の動きをよくつかんでると思っただけだ。
+","ならいいけど…。
+","その先、<R=列車車庫,ターミナル>のことはチコに聞いた？
+",[],,,NOT_CHECKED,25,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,但愿吧。,"[""但愿吧。""]","I hope so.
+","[""I hope so.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#20; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,16,stream=0x3A000;block=0x280;text=16,"[""stream=0x3A000;block=0x280;text=16""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","ならいいけど…。
+","その先、<R=列車車庫,ターミナル>のことはチコに聞いた？
+","積み荷をトラックに乗せ換えていると。
+","[""<R=列車車庫,ターミナル>""]",,,NOT_CHECKED,78,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"对了，你跟Chico
+打听过货运站的事吗？","[""对了，你跟Chico\n打听过货运站的事吗？""]","Anyway, did you talk to Chico about the terminal?
+","[""Anyway, did you talk to Chico about the terminal?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#21; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,17,stream=0x3A000;block=0x280;text=17,"[""stream=0x3A000;block=0x280;text=17""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","その先、<R=列車車庫,ターミナル>のことはチコに聞いた？
+","積み荷をトラックに乗せ換えていると。
+","つまり敵にとってはかなり重要な拠点みたい。油断しない
+で。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"他说那里是把货物转装
+到卡车上的地方。","[""他说那里是把货物转装\n到卡车上的地方。""]","He said it's where they transfer the cargo onto
+trucks.
+","[""He said it's where they transfer the cargo onto\ntrucks.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#22; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,18,stream=0x3A000;block=0x280;text=18,"[""stream=0x3A000;block=0x280;text=18""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","積み荷をトラックに乗せ換えていると。
+","つまり敵にとってはかなり重要な拠点みたい。油断しない
+で。
+","ああ。
+",[],,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"说明那个设施对他们
+相当重要。别大意。","[""说明那个设施对他们\n相当重要。别大意。""]","Meaning the facility is of considerable importance
+to them. Don't get careless.
+","[""Meaning the facility is of considerable importance\nto them. Don't get careless.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#23; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,19,stream=0x3A000;block=0x280;text=19,"[""stream=0x3A000;block=0x280;text=19""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","つまり敵にとってはかなり重要な拠点みたい。油断しない
+で。
+","ああ。
+","そうだ。あと、村の東からは直接コーヒー工場へ行く近道
+があるって聞いた。詳しく知らないんだけど、必要なら探
+してみて。
+",[],,,NOT_CHECKED,10,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,放心。,"[""放心。""]","I won't.
+","[""I won't.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#24; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,20,stream=0x3A000;block=0x280;text=20,"[""stream=0x3A000;block=0x280;text=20""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","ああ。
+","そうだ。あと、村の東からは直接コーヒー工場へ行く近道
+があるって聞いた。詳しく知らないんだけど、必要なら探
+してみて。
+","わかった。覚えておこう。
+",[],,,NOT_CHECKED,174,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"我听说有一条近路，
+可以直接通往村子东边那个咖啡工厂，","[""我听说有一条近路，\n可以直接通往村子东边那个咖啡工厂，""]","I've heard of a shortcut that cuts straight to the
+coffee factory to the east of the village,
+","[""I've heard of a shortcut that cuts straight to the\ncoffee factory to the east of the village,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#26; block_semantic_score=0.119264.
+BRIEFING_FILES_BLOCK_03A280,21,stream=0x3A000;block=0x280;text=21,"[""stream=0x3A000;block=0x280;text=21""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","そうだ。あと、村の東からは直接コーヒー工場へ行く近道
+があるって聞いた。詳しく知らないんだけど、必要なら探
+してみて。
+","わかった。覚えておこう。
+",,[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,多谢提醒。,"[""多谢提醒。""]","Thanks for the tip.
+","[""Thanks for the tip.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x3A280; ENG blocks=0xCA770; ENG source rows=0xCA770#28; block_semantic_score=0.119264.

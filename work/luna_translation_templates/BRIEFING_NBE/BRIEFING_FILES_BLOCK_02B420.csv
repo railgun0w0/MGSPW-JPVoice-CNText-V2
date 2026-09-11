@@ -1,0 +1,79 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_02B420,0,stream=0x2B000;block=0x420;text=0,"[""stream=0x2B000;block=0x420;text=0""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]",,"ここのコーヒー工場も、<R=CIA,ラ・シーア>に占拠されてるのね…。それ
+も、麻薬工場にだなんて。
+","いい豆を作ることで有名だったのに…。
+","[""<R=CIA,ラ・シーア>""]",,,NOT_CHECKED,133,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"中情局(CIA)也控制了这座咖啡工厂，
+全用来生产他们的毒品…","[""中情局(CIA)也控制了这座咖啡工厂，\n全用来生产他们的毒品…""]","La CIA has taken control of this coffee factory,
+too. All to produce its drugs...
+","[""La CIA has taken control of this coffee factory,\ntoo. All to produce its drugs...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B420; ENG blocks=0xBC730; ENG source rows=0xBC730#0; block_semantic_score=0.124475.
+BRIEFING_FILES_BLOCK_02B420,1,stream=0x2B000;block=0x420;text=1,"[""stream=0x2B000;block=0x420;text=1""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","ここのコーヒー工場も、<R=CIA,ラ・シーア>に占拠されてるのね…。それ
+も、麻薬工場にだなんて。
+","いい豆を作ることで有名だったのに…。
+","カフェタル・アロマ・エンカンタド…「魅惑の香り」コー
+ヒー園、と言ったところか。
+",[],,,NOT_CHECKED,55,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这里曾以优质咖啡豆闻名。,"[""这里曾以优质咖啡豆闻名。""]","It was famous once, for its fine beans.
+","[""It was famous once, for its fine beans.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B420; ENG blocks=0xBC730; ENG source rows=0xBC730#1; block_semantic_score=0.124475.
+BRIEFING_FILES_BLOCK_02B420,2,stream=0x2B000;block=0x420;text=2,"[""stream=0x2B000;block=0x420;text=2""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","いい豆を作ることで有名だったのに…。
+","カフェタル・アロマ・エンカンタド…「魅惑の香り」コー
+ヒー園、と言ったところか。
+","ええ。傭兵達をコスタリカから追い出したら、きっとまた
+コーヒーが作れる時が来ると思う。
+",[],,,NOT_CHECKED,119,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"Cafetal Aroma Encantado…
+“迷人香气”，对吗？","[""Cafetal Aroma Encantado…\n“迷人香气”，对吗？""]","Cafetal Aroma Encantado... ""Enchanting Aroma,""
+huh?
+","[""Cafetal Aroma Encantado... \""Enchanting Aroma,\""\nhuh?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B420; ENG blocks=0xBC730; ENG source rows=0xBC730#2; block_semantic_score=0.124475.
+BRIEFING_FILES_BLOCK_02B420,3,stream=0x2B000;block=0x420;text=3,"[""stream=0x2B000;block=0x420;text=3""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","カフェタル・アロマ・エンカンタド…「魅惑の香り」コー
+ヒー園、と言ったところか。
+","ええ。傭兵達をコスタリカから追い出したら、きっとまた
+コーヒーが作れる時が来ると思う。
+","そうしたらスネークにも、ここで作ったコーヒーを淹れて
+あげたいな。
+",[],,,NOT_CHECKED,128,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,是。等我们把雇佣兵赶出哥斯达黎加，,"[""是。等我们把雇佣兵赶出哥斯达黎加，""]","Si. Once we've thrown the mercenaries out of
+Costa Rica,
+","[""Si. Once we've thrown the mercenaries out of\nCosta Rica,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B420; ENG blocks=0xBC730; ENG source rows=0xBC730#3; block_semantic_score=0.124475.
+BRIEFING_FILES_BLOCK_02B420,4,stream=0x2B000;block=0x420;text=4,"[""stream=0x2B000;block=0x420;text=4""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","ええ。傭兵達をコスタリカから追い出したら、きっとまた
+コーヒーが作れる時が来ると思う。
+","そうしたらスネークにも、ここで作ったコーヒーを淹れて
+あげたいな。
+","楽しみだ。作戦を終えて熱い一杯を啜る…悪くない。…お
+っと。
+",[],,,NOT_CHECKED,98,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,我相信它会再次产出美妙的咖啡。到那时候，你一定要来尝尝，Snake。,"[""我相信它会再次产出美妙的咖啡。到那时候，你一定要来尝尝，Snake。""]","I know it will make wonderful coffee again.
+And then you must come and try some, Snake.
+","[""I know it will make wonderful coffee again.\nAnd then you must come and try some, Snake.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2B420; ENG blocks=0xBC730,0xBC730; ENG source rows=0xBC730#4,0xBC730#5; block_semantic_score=0.124475."
+BRIEFING_FILES_BLOCK_02B420,5,stream=0x2B000;block=0x420;text=5,"[""stream=0x2B000;block=0x420;text=5""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","そうしたらスネークにも、ここで作ったコーヒーを淹れて
+あげたいな。
+","楽しみだ。作戦を終えて熱い一杯を啜る…悪くない。…お
+っと。
+","どうしたの？
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"听起来不错。等一切结束，
+我不介意来杯咖啡。哦等等…","[""听起来不错。等一切结束，\n我不介意来杯咖啡。哦等等…""]","Sounds great. I wouldn't mind a cuppa joe after all
+this is over. Oh, wait...
+","[""Sounds great. I wouldn't mind a cuppa joe after all\nthis is over. Oh, wait...\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B420; ENG blocks=0xBC730; ENG source rows=0xBC730#6; block_semantic_score=0.124475.
+BRIEFING_FILES_BLOCK_02B420,6,stream=0x2B000;block=0x420;text=6,"[""stream=0x2B000;block=0x420;text=6""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","楽しみだ。作戦を終えて熱い一杯を啜る…悪くない。…お
+っと。
+","どうしたの？
+","いや…昔、コーヒー嫌いの知人がいたのを思い出してな。
+イギリス人だった。あんな泥水を飲むな。紅茶を飲め、だ
+とさ。
+",[],,,NOT_CHECKED,19,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,怎么了？,"[""怎么了？""]","What is wrong?
+","[""What is wrong?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B420; ENG blocks=0xBC730; ENG source rows=0xBC730#7; block_semantic_score=0.124475.
+BRIEFING_FILES_BLOCK_02B420,7,stream=0x2B000;block=0x420;text=7,"[""stream=0x2B000;block=0x420;text=7""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","どうしたの？
+","いや…昔、コーヒー嫌いの知人がいたのを思い出してな。
+イギリス人だった。あんな泥水を飲むな。紅茶を飲め、だ
+とさ。
+","まあ！　あのおいしさがわからないなんて…かわいそうね、
+その人。
+",[],,,NOT_CHECKED,168,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没，只是…想起一个认识的人，
+他不怎么喝咖啡。英国人。他总说：“把那浑水倒了，
+给我灌杯红茶。”","[""没，只是…想起一个认识的人，\n他不怎么喝咖啡。英国人。他总说：“把那浑水倒了，\n给我灌杯红茶。”""]","No, I... just remembered this guy I knew who wasn't
+big on coffee. English.
+""Get rid of that muddy water and get a cup of
+black tea down your gob,"" he'd say.
+","[""No, I... just remembered this guy I knew who wasn't\nbig on coffee. English.\n\""Get rid of that muddy water and get a cup of\nblack tea down your gob,\"" he'd say.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x2B420; ENG blocks=0xBC730,0xBC730; ENG source rows=0xBC730#8,0xBC730#9; block_semantic_score=0.124475."
+BRIEFING_FILES_BLOCK_02B420,8,stream=0x2B000;block=0x420;text=8,"[""stream=0x2B000;block=0x420;text=8""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","いや…昔、コーヒー嫌いの知人がいたのを思い出してな。
+イギリス人だった。あんな泥水を飲むな。紅茶を飲め、だ
+とさ。
+","まあ！　あのおいしさがわからないなんて…かわいそうね、
+その人。
+",,[],,,NOT_CHECKED,95,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哈！他没口福——这明明很好喝。,"[""哈！他没口福——这明明很好喝。""]","Ha! That's too bad for him - it is delicious.
+","[""Ha! That's too bad for him - it is delicious.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x2B420; ENG blocks=0xBC730; ENG source rows=0xBC730#10; block_semantic_score=0.124475.

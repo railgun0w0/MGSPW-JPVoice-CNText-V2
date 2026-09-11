@@ -1,0 +1,19 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_MISSION_BLOCK_382D90,0,stream=0x382000;block=0xD90;text=0,"[""stream=0x382000;block=0xD90;text=0""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0xD90;block_file=0x382D90;text_base=0x382DB8;capacity=272""]",,"進行ルートを確保するため、障害物となっている
+<R=熱帯雲霧林,クラウド・フォレスト>の瓦礫を破壊するんだ。
+爆破にはC4を使う。
+","これが成功すれば、この区域での活動は、
+遙かに楽になるだろう。
+","[""<R=熱帯雲霧林,クラウド・フォレスト>""]",,,NOT_CHECKED,178,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,清除云雾森林里阻碍我们前进的瓦砾。用C4很快就能解决。,"[""清除云雾森林里阻碍我们前进的瓦砾。用C4很快就能解决。""]","Clear the rubble in the Cloud Forest
+that's blocking our advance.
+Some C4 could make short work of it.
+","[""Clear the rubble in the Cloud Forest\nthat's blocking our advance.\nSome C4 could make short work of it.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x382D90; ENG blocks=0x3982B0,0x3982B0; ENG source rows=0x3982B0#0,0x3982B0#1; block_semantic_score=0.291290."
+BRIEFING_MISSION_BLOCK_382D90,1,stream=0x382000;block=0xD90;text=1,"[""stream=0x382000;block=0xD90;text=1""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0xD90;block_file=0x382D90;text_base=0x382DB8;capacity=272""]","進行ルートを確保するため、障害物となっている
+<R=熱帯雲霧林,クラウド・フォレスト>の瓦礫を破壊するんだ。
+爆破にはC4を使う。
+","これが成功すれば、この区域での活動は、
+遙かに楽になるだろう。
+",,[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"如果你成功了，我们在这个
+区域的行动就会轻松得多。","[""如果你成功了，我们在这个\n区域的行动就会轻松得多。""]","If you succeed, our efforts in this area
+will be made that much easier.
+","[""If you succeed, our efforts in this area\nwill be made that much easier.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=MISSION_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x382D90; ENG blocks=0x3982B0; ENG source rows=0x3982B0#2; block_semantic_score=0.291290.

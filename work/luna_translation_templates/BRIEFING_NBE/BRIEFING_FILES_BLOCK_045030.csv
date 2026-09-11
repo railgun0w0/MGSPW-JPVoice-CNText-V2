@@ -1,0 +1,96 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes,mlg_cn_reference,mlg_cn_reference_variants,eng_reference,eng_reference_variants,reference_status,reference_method,reference_reason
+BRIEFING_FILES_BLOCK_045030,0,stream=0x45000;block=0x30;text=0,"[""stream=0x45000;block=0x30;text=0""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]",,"ビッグフットってのは、ロッキー山脈に生息する猿人なん
+だ。インディオの言葉ではサスクァッチとも言われてる。
+","身長はなんと<R=3バーラ,2.5m>以上もあるんだぜ！　すげえよな！
+",[],,,NOT_CHECKED,158,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,大脚怪是一种住在落基山脉的猿人。,"[""大脚怪是一种住在落基山脉的猿人。""]","Bigfoot is an ape man that lives in the Rocky
+Mountains.
+","[""Bigfoot is an ape man that lives in the Rocky\nMountains.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#0; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,1,stream=0x45000;block=0x30;text=1,"[""stream=0x45000;block=0x30;text=1""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","ビッグフットってのは、ロッキー山脈に生息する猿人なん
+だ。インディオの言葉ではサスクァッチとも言われてる。
+","身長はなんと<R=3バーラ,2.5m>以上もあるんだぜ！　すげえよな！
+","ゴリラとは違うのか？
+","[""<R=3バーラ,2.5m>""]",,,NOT_CHECKED,86,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且你听好：他身高超过三
+瓦拉（8英尺）！你敢信吗？","[""而且你听好：他身高超过三\n瓦拉（8英尺）！你敢信吗？""]","And get this: he's over three vara (8 ft)! Can you
+believe that?
+","[""And get this: he's over three vara (8 ft)! Can you\nbelieve that?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#2; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,2,stream=0x45000;block=0x30;text=2,"[""stream=0x45000;block=0x30;text=2""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","身長はなんと<R=3バーラ,2.5m>以上もあるんだぜ！　すげえよな！
+","ゴリラとは違うのか？
+","全然違うよ！　ゴリラは大きくても<R=2バーラ,約1.6m>ちょっとだし、
+こぶしを地面につけて歩くんだ。
+",[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以他算是有点像大猩猩？,"[""所以他算是有点像大猩猩？""]","So he's kind've like a gorilla?
+","[""So he's kind've like a gorilla?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#3; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,3,stream=0x45000;block=0x30;text=3,"[""stream=0x45000;block=0x30;text=3""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","ゴリラとは違うのか？
+","全然違うよ！　ゴリラは大きくても<R=2バーラ,約1.6m>ちょっとだし、
+こぶしを地面につけて歩くんだ。
+","ビッグフットはもっと大きいし、人間と同じで二足歩行な
+んだ。
+","[""<R=2バーラ,約1.6m>""]",,,NOT_CHECKED,138,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"完全不一样！就算最大的大猩猩，
+也只有两瓦拉（5.5英尺）左右。","[""完全不一样！就算最大的大猩猩，\n也只有两瓦拉（5.5英尺）左右。""]","Completely different! Even the biggest gorillas only
+get to about two vara (5.5 ft).
+","[""Completely different! Even the biggest gorillas only\nget to about two vara (5.5 ft).\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#4; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,4,stream=0x45000;block=0x30;text=4,"[""stream=0x45000;block=0x30;text=4""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","全然違うよ！　ゴリラは大きくても<R=2バーラ,約1.6m>ちょっとだし、
+こぶしを地面につけて歩くんだ。
+","ビッグフットはもっと大きいし、人間と同じで二足歩行な
+んだ。
+","猿より人間に近いわけか。
+",[],,,NOT_CHECKED,89,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"大脚怪…很大。而且他像
+人一样用两条腿走路。","[""大脚怪…很大。而且他像\n人一样用两条腿走路。""]","Bigfoot's... big. And he walks on two feet like people.
+","[""Bigfoot's... big. And he walks on two feet like people.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#6; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,5,stream=0x45000;block=0x30;text=5,"[""stream=0x45000;block=0x30;text=5""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","ビッグフットはもっと大きいし、人間と同じで二足歩行な
+んだ。
+","猿より人間に近いわけか。
+","たぶん、進化のどこかで人間から枝分かれしたんだろうな。
+人間が道具を使い始めたりする前に。
+",[],,,NOT_CHECKED,37,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,这么说他更像人，而不是猿？,"[""这么说他更像人，而不是猿？""]","So he's more man than ape?
+","[""So he's more man than ape?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#7; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,6,stream=0x45000;block=0x30;text=6,"[""stream=0x45000;block=0x30;text=6""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","猿より人間に近いわけか。
+","たぶん、進化のどこかで人間から枝分かれしたんだろうな。
+人間が道具を使い始めたりする前に。
+","だが、同じ山地とはいえロッキー山脈は遠いぞ？
+",[],,,NOT_CHECKED,134,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"很可能。他的祖先一定是在某个
+时间点和人类分道扬镳的，比如说在人类开始使用
+工具之类的东西之前。","[""很可能。他的祖先一定是在某个\n时间点和人类分道扬镳的，比如说在人类开始使用\n工具之类的东西之前。""]","Probably. His ancestors must have split off from
+humans at some point,
+like before they started using tools and stuff.
+","[""Probably. His ancestors must have split off from\nhumans at some point,\nlike before they started using tools and stuff.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,"JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:2; JPN blocks=0x45030; ENG blocks=0xD2D60,0xD2D60; ENG source rows=0xD2D60#8,0xD2D60#9; block_semantic_score=0.167254."
+BRIEFING_FILES_BLOCK_045030,7,stream=0x45000;block=0x30;text=7,"[""stream=0x45000;block=0x30;text=7""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","たぶん、進化のどこかで人間から枝分かれしたんだろうな。
+人間が道具を使い始めたりする前に。
+","だが、同じ山地とはいえロッキー山脈は遠いぞ？
+","遠くないさ。ダーウィンの説だと人間だって、アフリカか
+らここまではるばる旅をしてきたんだしさ。
+",[],,,NOT_CHECKED,67,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"是啊，可落基山脉离
+这儿不是挺远的吗？","[""是啊，可落基山脉离\n这儿不是挺远的吗？""]","Yeah, but aren't the Rockies kind of far away from
+here?
+","[""Yeah, but aren't the Rockies kind of far away from\nhere?\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#10; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,8,stream=0x45000;block=0x30;text=8,"[""stream=0x45000;block=0x30;text=8""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","だが、同じ山地とはいえロッキー山脈は遠いぞ？
+","遠くないさ。ダーウィンの説だと人間だって、アフリカか
+らここまではるばる旅をしてきたんだしさ。
+","それに、ベネズエラでもモノスっていう猿人が目撃されて
+るんだ。
+",[],,,NOT_CHECKED,140,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"没那么远。根据达尔文的说法，
+人类可是从非洲一路来到这里的。","[""没那么远。根据达尔文的说法，\n人类可是从非洲一路来到这里的。""]","Not that far. According to Darwin, humans came all
+the way over here from Africa.
+","[""Not that far. According to Darwin, humans came all\nthe way over here from Africa.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#11; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,9,stream=0x45000;block=0x30;text=9,"[""stream=0x45000;block=0x30;text=9""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","遠くないさ。ダーウィンの説だと人間だって、アフリカか
+らここまではるばる旅をしてきたんだしさ。
+","それに、ベネズエラでもモノスっていう猿人が目撃されて
+るんだ。
+","コスタリカは生き物の種類が豊富だから、猿人ぐらいいて
+も不思議じゃないはずだ。
+",[],,,NOT_CHECKED,92,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,"而且委内瑞拉也有人目击过
+一种叫Mono Grande的猿人。","[""而且委内瑞拉也有人目击过\n一种叫Mono Grande的猿人。""]","Plus there've been sightings in Venezuela of an
+ape-man called Mono Grande.
+","[""Plus there've been sightings in Venezuela of an\nape-man called Mono Grande.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#12; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,10,stream=0x45000;block=0x30;text=10,"[""stream=0x45000;block=0x30;text=10""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","それに、ベネズエラでもモノスっていう猿人が目撃されて
+るんだ。
+","コスタリカは生き物の種類が豊富だから、猿人ぐらいいて
+も不思議じゃないはずだ。
+","猿人“ぐらい”か…。
+",[],,,NOT_CHECKED,116,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,哥斯达黎加的动植物种类多得不得了，,"[""哥斯达黎加的动植物种类多得不得了，""]","Costa Rica has tons of plant and animal species,
+","[""Costa Rica has tons of plant and animal species,\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#13; block_semantic_score=0.167254.
+BRIEFING_FILES_BLOCK_045030,11,stream=0x45000;block=0x30;text=11,"[""stream=0x45000;block=0x30;text=11""]",1,BRIEFING FILES,"[""stream=0x45000;block=0x30;block_file=0x45030;text_base=0x45080;capacity=1132""]","コスタリカは生き物の種類が豊富だから、猿人ぐらいいて
+も不思議じゃないはずだ。
+","猿人“ぐらい”か…。
+",,[],,,NOT_CHECKED,31,,NOT_STARTED,NOT_BUILT,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES,所以我觉得至少该有一种猿人。,"[""所以我觉得至少该有一种猿人。""]","so I'd expect there to be at least one kind of
+apeman.
+","[""so I'd expect there to be at least one kind of\napeman.\n""]",AUX_REFERENCE_SEMANTIC_ALIGNED,FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP,JPN is authoritative; auxiliary alignment=FILES_RECIPROCAL_BLOCK_SEMANTIC_PLUS_CONTEXT_DP; shape=1:1; JPN blocks=0x45030; ENG blocks=0xD2D60; ENG source rows=0xD2D60#14; block_semantic_score=0.167254.
