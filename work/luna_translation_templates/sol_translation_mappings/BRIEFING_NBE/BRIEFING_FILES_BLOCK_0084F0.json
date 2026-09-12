@@ -1,0 +1,126 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_0084F0",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "Boss，你读过格瓦拉写的《游击战》吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 52,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "不……我也记不清了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "难得我还特意借给你。这本书里写的游击战术，和潜入任务有不少共通之处。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 102,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_LENDING_CLAUSE"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "格瓦拉也是把游击战法理论化的人之一。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 54,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_ADDS_FIRST_IGNORED"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "还有人称“阿拉伯的劳伦斯”的T．E．劳伦斯少校。以及写过《游击战》的毛泽东……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 113,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_TITLE_CONFLICT_JPN_USED"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "先不谈理论，尼加拉瓜的桑地诺将军也是采用游击战法的人之一。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 87,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "难怪<R=FSLN,サンディニスタ>会以他命名。",
+      "cn_control_tokens": "<R=FSLN,サンディニスタ>",
+      "cn_utf8_bytes": 54,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_PRESERVED"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "不过，游击战本身自古就存在。毕竟少数人要扰乱大军，能用的手段就那么几种。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 108,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "日本也有过擅长游击战的武士。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "哦？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 6,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "楠木正成。中世纪的武士。他善用奇袭，为推翻镰仓幕府出过一份力。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 93,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_KAMAKURA_CLAUSE"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "比如？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 9,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "用特洛伊木马战法潜入，用<R=稻草人,デコイ>扰乱敌人……最绝的是，对着攀爬城墙的敌人泼滚水和粪尿……",
+      "cn_control_tokens": "<R=稻草人,デコイ>",
+      "cn_utf8_bytes": 143,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_REFERENCE_CLIPPED"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "这个不错。马上让MSF也用起来吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_ADDS_PLAYBOOK_IGNORED"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "……你是认真的？　Boss。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 34,
+      "review_flag": "JPN_DIRECT_TRANSLATION;SOURCE_IDEOGRAPHIC_SPACE_PRESERVED"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "反正材料不愁。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_EXPLICIT_CRAP_IGNORED"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "呃……这个嘛，先考虑考虑吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    }
+  ]
+}
