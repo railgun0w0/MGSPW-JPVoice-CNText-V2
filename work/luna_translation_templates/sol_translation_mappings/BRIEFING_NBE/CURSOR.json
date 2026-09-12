@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "resource_class": "BRIEFING_NBE",
+  "queue_file": "work/luna_translation_templates/sol_translation_mappings/BRIEFING_NBE/QUEUE.json",
+  "status": "READY",
+  "last_contiguous_completed": "BRIEFING_FILES_BLOCK_0346C0",
+  "next_file_id": "BRIEFING_FILES_BLOCK_034F50",
+  "next_template": "BRIEFING_FILES_BLOCK_034F50.csv",
+  "mapping_truth_is_authoritative": true,
+  "recovery": "If next_file_id already has a mapping, advance through QUEUE canonical order to the first missing mapping and update this cursor before translating."
+}
