@@ -30,6 +30,7 @@ RESOURCE_CLASSES = (
     "LOOSE_OLANG",
     "STAGEDAT_OLANG",
     "SLOT_OLANG",
+    "BRIEFING_NBE",
 )
 GENERATED_LEDGER_BEGIN = "<!-- BEGIN GENERATED COMPLETED LEDGER -->"
 GENERATED_LEDGER_END = "<!-- END GENERATED COMPLETED LEDGER -->"
@@ -940,6 +941,51 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
             f"{item['completed_rows']} / {item['total_rows']} | "
             f"{item['remaining_file_ids']} | {item['partial_file_ids']} |"
         )
+    briefing_audits = [
+        audit for audit in audits if audit.template.resource_class == "BRIEFING_NBE"
+    ]
+    briefing_files = [
+        audit
+        for audit in briefing_audits
+        if audit.template.file_id.startswith("BRIEFING_FILES_BLOCK_")
+    ]
+    briefing_mission = [
+        audit
+        for audit in briefing_audits
+        if audit.template.file_id.startswith("BRIEFING_MISSION_BLOCK_")
+    ]
+    briefing_rows = [
+        row for audit in briefing_audits for row in audit.template.rows
+    ]
+    briefing_eng_refs = sum(bool(row.get("eng_reference")) for row in briefing_rows)
+    briefing_old_cn_refs = sum(
+        bool(row.get("mlg_cn_reference")) for row in briefing_rows
+    )
+    lines.extend(
+        (
+            "",
+            "## Newly added BRIEFING translation work",
+            "",
+            "The frozen B81 JPN BRIEFING corpus is now connected to the Luna template system as a sixth resource class.",
+            "",
+            f"- New translation templates: **{len(briefing_audits)} CSV files / {len(briefing_rows)} JPN rows** under `BRIEFING_NBE/`.",
+            f"- BRIEFING FILES: **{len(briefing_files)} blocks / {sum(len(audit.template.rows) for audit in briefing_files)} rows**.",
+            f"- BRIEFING MISSION: **{len(briefing_mission)} blocks / {sum(len(audit.template.rows) for audit in briefing_mission)} rows**.",
+            f"- Auxiliary coverage: ENG reference on **{briefing_eng_refs} rows**; old MLG-CN reference on **{briefing_old_cn_refs} rows**. These are references only, not translation authority.",
+            "- Translate every JPN-authoritative row by filling `cn_text`; preserve markup/control tokens and update the normal translation/control statuses.",
+            "- Do not translate or copy `eng_reference` / `mlg_cn_reference` mechanically. Rows marked `NO_RELIABLE_AUX_REFERENCE` must be translated from JPN plus local context.",
+            "- The templates are translation input only: do not edit JPN fields or structural indices, and do not treat them as a DAT/build artifact.",
+            "",
+            "New support files:",
+            "",
+            "- `BRIEFING_NBE/README.md`",
+            "- `reference_masters/jpn_briefing_master.csv`",
+            "- `tools/Align-JpnBriefingReferences.py`",
+            "- `tools/Prepare-JpnBriefingTemplates.py`",
+            "- `tools/Prepare-JpnBriefingTemplates.mjs`",
+            "- `sol_translation_mappings/BRIEFING_NBE/README.md` (empty mapping intake; no BRIEFING translation is claimed complete yet)",
+        )
+    )
     lines.extend(("", "## Complete completed file_id list", ""))
     for resource in RESOURCE_CLASSES:
         lines.append(

@@ -112,11 +112,11 @@ The pre-fix rolling state remains preserved above and in Git commit `f03a7b2868b
 
 This complete ledger is regenerated from committed mappings. It is exhaustive, not a rolling recent-items list.
 
-- Complete file_ids: **241 / 241**
-- Complete rows: **21041 / 21041**
-- Mapping-backed persisted rows: **21041 / 21041**
+- Complete file_ids: **241 / 710**
+- Complete rows: **21041 / 26686**
+- Mapping-backed persisted rows: **21041 / 26686**
 - Latest validated mapping checkpoint: `dc6eae42416e79a95ff38c4a05bd2e3d408c6d65`
-- NEXT_FILE_ID: **`NONE`**
+- NEXT_FILE_ID: **`BRIEFING_FILES_BLOCK_000000`**
 - Tracker reconciliation: legacy tracker persisted rows=11778, facts=21041 (legacy delta -9263)
 - Tracker reconciliation: legacy tracker completed file_ids=208, facts=241 (legacy delta -33)
 - Tracker reconciliation: legacy tracker SLOT_OLANG completed=111, facts=144 (legacy delta -33)

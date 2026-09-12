@@ -13,19 +13,22 @@ luna_translation_templates/
 ├── STAGEDAT_OLANG/
 ├── SLOT_OLANG/
 ├── YPK_GTT/
+├── BRIEFING_NBE/
 ├── reference_masters/
+├── TRANSLATION_STATE.md
 └── TRANSLATION_GUIDE.md
 ```
 
 ### `reference_masters/`
 
-这里保存五类 JPN master 的副本。每个 master 都是从 JPN 原始 DAT 解包得到的结构主表，并保留已有的辅助参考字段：
+这里保存六类 JPN master 的副本。每个 master 都保留 JPN 结构主表和已有的辅助参考字段：
 
 - `jpn_ohd_master.csv`
 - `jpn_loose_olang_master.csv`
 - `jpn_stagedat_text_master.csv`
 - `jpn_slot_olang_master.csv`
 - `jpn_gtt_master.csv`
+- `jpn_briefing_master.csv`
 
 这些表中的重要字段包括：
 
@@ -45,9 +48,19 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 - `STAGEDAT_OLANG`：46 个 file_id；
 - `YPK_GTT`：36 个 file_id；
 - `LOOSE_OLANG`：14 个 file_id；
-- `OHD`：1 个 file_id。
+- `OHD`：1 个 file_id；
+- `BRIEFING_NBE`：469 个 file_id（FILES 363 + MISSION 106）。
 
-合计 241 个 file_id，来源对象 91,609 个，file_id 内精确去重后 21,041 行。
+现共有 710 个 file_id / 26,686 条 translation rows。前五类 241 个 file_id / 21,041 行已有完整译文；新增 `BRIEFING_NBE` 469 个 file_id / 5,645 行是当前待汉化范围。精确进度以 `TRANSLATION_STATE.md` 为准。
+
+### `BRIEFING_NBE` 待汉化内容
+
+- `BRIEFING_FILES_BLOCK_*.csv`：363 blocks / 4,810 JPN rows，主要是任务前后可查阅的 BRIEFING FILES 对话与资料。
+- `BRIEFING_MISSION_BLOCK_*.csv`：106 blocks / 835 JPN rows，是 Mission BRIEFING 内容。
+- 每行只翻译 JPN 权威文本 `jpn_text`，将中文写入 `cn_text`。
+- `eng_reference` 只用于辅助理解；`mlg_cn_reference` 只用于参考旧汉化措辞，两者都不是结构或语义权威。
+- 当 `reference_status=NO_RELIABLE_AUX_REFERENCE` 时，必须根据 JPN 和本 block 前后文独立翻译，不能按 ENG/MLG 的 block/index 顺序硬套。
+- 保留 JPN 换行、markup 和 control token；不修改 `jpn_text`、结构字段、地址或索引。
 
 ## file_id CSV 格式
 
@@ -95,7 +108,8 @@ reference_reason
 ### 去重规则
 
 - JPN master 保留全部真实对象，不去重；
-- file_id CSV 只在同一个 file_id 内对完全相同的 `jpn_text` 精确去重；
+- OLANG/OHD/YPK 的 file_id CSV 在同一个 file_id 内对完全相同的 `jpn_text` 精确去重；
+- `BRIEFING_NBE` 是冻结的物理 JPN row corpus，不做文本去重；469 个 block 内的 5,645 行必须全部保留且只出现一次；
 - 空格、换行、markup、控制符和全角字符都参与比较；
 - 不进行语义去重，不把相似句子合并；
 - `reference_indices` 和 `reference_count` 用于保留同一译文对应的全部真实 reference；
@@ -104,7 +118,7 @@ reference_reason
 
 ### 当前状态
 
-所有机械模板都保持：
+前五类资源已完成 241 file_ids / 21,041 rows。新增的 `BRIEFING_NBE` 469 file_ids / 5,645 rows 仍全部保持：
 
 ```text
 cn_text = 空
