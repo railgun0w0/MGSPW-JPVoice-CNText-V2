@@ -1,0 +1,77 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_0020A0",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "听说你的导师The Boss在西方也被称为「特种部队之母」。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 74,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "不过是宣传。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 18,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "但也不算假话吧。听说最近KGB成立了一个反破坏工作部门。好像叫<R=A,アルファ>小组。",
+      "cn_control_tokens": "<R=A,アルファ>",
+      "cn_utf8_bytes": 114,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_PRESERVED"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "听说德国在慕尼黑奥运会事件之后，也在边境警备队中成立了一支反恐部队。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 102,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_MUNICH_CONTEXT"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "至于我们美国，有声名显赫的绿色贝雷帽、SEAL小队，还有你创建的FOXHOUND……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 102,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "The Boss播下的种子，已经开始发芽了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 50,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "MSF也是如此，对吧？　是你创建了它，继承了The Boss的遗志。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 80,
+      "review_flag": "JPN_DIRECT_TRANSLATION;SOURCE_IDEOGRAPHIC_SPACE_PRESERVED"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "The Boss把战斗的方法硬生生教给了我。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 50,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "多亏了她，我们也能执行常规战斗之外的任务。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 63,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "毕竟，我们和正规军的特种部队有着同一个「母亲」。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 72,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_NARROWS_TO_ARMY_IGNORED"
+    }
+  ]
+}
