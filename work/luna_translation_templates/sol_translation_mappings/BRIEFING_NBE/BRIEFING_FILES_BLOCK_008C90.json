@@ -1,0 +1,77 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_008C90",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "Kaz，怎么了？听你的声音没什么精神。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "没什么，只是<R=这边,マザーベース>也堆着一大堆问题……",
+      "cn_control_tokens": "<R=这边,マザーベース>",
+      "cn_utf8_bytes": 77,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "喝点马黛茶歇一会儿吧。和队里的弟兄们轮着喝，也能增进交流。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 87,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_COMMUNICATION_CLAUSE"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "不知道格瓦拉他们是不是也这样轮着喝马黛茶。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 63,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "大概吧。他爱喝马黛茶可是出了名的。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "不过这东西设计得真周到。装在葫芦里就能随身带，吸管上还带过滤器，随时都能喝。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 114,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_ADDS_GENIUS_IGNORED"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "不止如此。游击战经常缺粮，它还能补充维生素和矿物质。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 78,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "要是我徒步时也能和金发巴黎女郎轮着喝，那就太棒了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 75,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "……你怎么会知道？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "蛇有蛇道嘛，Snake。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 26,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_IDIOM_MISTRANSLATION_CORRECTED"
+    }
+  ]
+}
