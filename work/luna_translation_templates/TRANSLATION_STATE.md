@@ -3,7 +3,7 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-12T04:45:28+08:00`
+Updated: `2026-09-12T13:07:41+08:00`
 Branch: `sol-translation`
 Latest validated checkpoint commit: `dc6eae42416e79a95ff38c4a05bd2e3d408c6d65`
 Total rows / persisted rows: **26686 / 21041**
@@ -22,19 +22,21 @@ NEXT_FILE_ID: **`BRIEFING_FILES_BLOCK_000000`**
 | SLOT_OLANG | 144 / 144 | 11329 / 11329 | 0 | 0 |
 | BRIEFING_NBE | 0 / 469 | 0 / 5645 | 469 | 0 |
 
-## Newly added BRIEFING translation work
+## 当前 BRIEFING 翻译范围（仅 JPN lane）
 
-The frozen B81 JPN BRIEFING corpus is now connected to the Luna template system as a sixth resource class.
+这里的“仅 JPN lane”是 translation-unit corpus 与 topology 的范围声明，不是说 CSV 中完全不能出现英文或旧中文参考。
 
-- New translation templates: **469 CSV files / 5645 JPN rows** under `BRIEFING_NBE/`.
-- BRIEFING FILES: **363 blocks / 4810 rows**.
-- BRIEFING MISSION: **106 blocks / 835 rows**.
-- Auxiliary coverage: ENG reference on **5095 rows**; old MLG-CN reference on **5085 rows**. These are references only, not translation authority.
-- Translate every JPN-authoritative row by filling `cn_text`; preserve markup/control tokens and update the normal translation/control statuses.
-- Do not translate or copy `eng_reference` / `mlg_cn_reference` mechanically. Rows marked `NO_RELIABLE_AUX_REFERENCE` must be translated from JPN plus local context.
-- The templates are translation input only: do not edit JPN fields or structural indices, and do not treat them as a DAT/build artifact.
+- `BRIEFING_NBE/`：**469 个 JPN block CSV / 5645 条 JPN translation rows**。
+- BRIEFING FILES：**363 blocks / 4810 JPN rows**。
+- BRIEFING MISSION：**106 blocks / 835 JPN rows**。
+- 源文状态：非空 `jpn_text` **5645/5645**；非空 `cn_text` **0/5645**，因此 BRIEFING 目前尚未开始正式翻译。
+- 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。
+- 辅助覆盖：`eng_reference` **5095 rows**；旧 `mlg_cn_reference` **5085 rows**。它们只用于理解和措辞参考，不是待翻译源文或翻译权威。
+- 每行只把 JPN 权威源文 `jpn_text` 翻译到 `cn_text`；保留 markup/control tokens，并按正常流程更新翻译和控制结构状态。
+- 不得机械复制 `eng_reference` / `mlg_cn_reference`。`NO_RELIABLE_AUX_REFERENCE` 行必须依据 JPN 与本 block 上下文翻译。
+- 这些模板只是翻译输入：不得修改 JPN 字段或结构索引，也不得把它们视为 DAT/build 产物。
 
-New support files:
+相关文件：
 
 - `BRIEFING_NBE/README.md`
 - `reference_masters/jpn_briefing_master.csv`

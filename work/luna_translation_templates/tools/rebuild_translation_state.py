@@ -961,22 +961,26 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
     briefing_old_cn_refs = sum(
         bool(row.get("mlg_cn_reference")) for row in briefing_rows
     )
+    briefing_jpn_rows = sum(bool(row.get("jpn_text")) for row in briefing_rows)
+    briefing_cn_rows = sum(bool(row.get("cn_text")) for row in briefing_rows)
     lines.extend(
         (
             "",
-            "## Newly added BRIEFING translation work",
+            "## 当前 BRIEFING 翻译范围（仅 JPN lane）",
             "",
-            "The frozen B81 JPN BRIEFING corpus is now connected to the Luna template system as a sixth resource class.",
+            "这里的“仅 JPN lane”是 translation-unit corpus 与 topology 的范围声明，不是说 CSV 中完全不能出现英文或旧中文参考。",
             "",
-            f"- New translation templates: **{len(briefing_audits)} CSV files / {len(briefing_rows)} JPN rows** under `BRIEFING_NBE/`.",
-            f"- BRIEFING FILES: **{len(briefing_files)} blocks / {sum(len(audit.template.rows) for audit in briefing_files)} rows**.",
-            f"- BRIEFING MISSION: **{len(briefing_mission)} blocks / {sum(len(audit.template.rows) for audit in briefing_mission)} rows**.",
-            f"- Auxiliary coverage: ENG reference on **{briefing_eng_refs} rows**; old MLG-CN reference on **{briefing_old_cn_refs} rows**. These are references only, not translation authority.",
-            "- Translate every JPN-authoritative row by filling `cn_text`; preserve markup/control tokens and update the normal translation/control statuses.",
-            "- Do not translate or copy `eng_reference` / `mlg_cn_reference` mechanically. Rows marked `NO_RELIABLE_AUX_REFERENCE` must be translated from JPN plus local context.",
-            "- The templates are translation input only: do not edit JPN fields or structural indices, and do not treat them as a DAT/build artifact.",
+            f"- `BRIEFING_NBE/`：**{len(briefing_audits)} 个 JPN block CSV / {len(briefing_rows)} 条 JPN translation rows**。",
+            f"- BRIEFING FILES：**{len(briefing_files)} blocks / {sum(len(audit.template.rows) for audit in briefing_files)} JPN rows**。",
+            f"- BRIEFING MISSION：**{len(briefing_mission)} blocks / {sum(len(audit.template.rows) for audit in briefing_mission)} JPN rows**。",
+            f"- 源文状态：非空 `jpn_text` **{briefing_jpn_rows}/{len(briefing_rows)}**；非空 `cn_text` **{briefing_cn_rows}/{len(briefing_rows)}**，因此 BRIEFING 目前尚未开始正式翻译。",
+            "- 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。",
+            f"- 辅助覆盖：`eng_reference` **{briefing_eng_refs} rows**；旧 `mlg_cn_reference` **{briefing_old_cn_refs} rows**。它们只用于理解和措辞参考，不是待翻译源文或翻译权威。",
+            "- 每行只把 JPN 权威源文 `jpn_text` 翻译到 `cn_text`；保留 markup/control tokens，并按正常流程更新翻译和控制结构状态。",
+            "- 不得机械复制 `eng_reference` / `mlg_cn_reference`。`NO_RELIABLE_AUX_REFERENCE` 行必须依据 JPN 与本 block 上下文翻译。",
+            "- 这些模板只是翻译输入：不得修改 JPN 字段或结构索引，也不得把它们视为 DAT/build 产物。",
             "",
-            "New support files:",
+            "相关文件：",
             "",
             "- `BRIEFING_NBE/README.md`",
             "- `reference_masters/jpn_briefing_master.csv`",

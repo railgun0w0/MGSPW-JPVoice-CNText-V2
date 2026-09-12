@@ -1,12 +1,16 @@
-# BRIEFING_NBE JPN-only Luna templates
+# BRIEFING_NBE（仅 JPN lane）Luna 翻译模板
 
-本目录是已冻结 B81 corpus 的 JPN-only 翻译模板：
+本目录是已冻结 B81 corpus 中 **JPN lane 的待汉化翻译单元**：
 
 - BRIEFING FILES：363 blocks / 4,810 JPN rows
 - BRIEFING MISSION：106 blocks / 835 JPN rows
 - 合计：469 blocks / 5,645 JPN rows
 
-`jpn_text` 是唯一结构和语义权威。`eng_reference` 与 `mlg_cn_reference` 来自 ENG-topology 资源，只按已确认的 scene id、语义和上下文对齐；未通过可靠性门槛的辅助参考保持空白，不按 block/index ordinal 硬套。
+这里的“仅 JPN lane”是语料范围和结构范围声明：469 个 CSV 全部对应 JPN BRIEFING block，5,645 个 translation rows 全部以非空 `jpn_text` 为源文。目录中没有把 ENG/FRA/DEU/ITA/ESP lane 的 block 建成独立翻译单元，也没有 FRA/DEU/ITA/ESP 文本列；它不是 B79 六语言 oEbN census 的模板化副本。
+
+CSV 中仍保留 `eng_reference` 和 `mlg_cn_reference`：前者是英文理解辅助，后者是旧汉化措辞参考。这些字段会出现英文或旧中文，因此“仅 JPN lane”不等于 CSV 内只能出现日文字符；它表示 **只有 `jpn_text` 是待翻译源文和结构/语义权威**。当前辅助覆盖为 ENG 5,095 rows、旧 MLG-CN 5,085 rows，其余未可靠对齐的 reference 留空。
+
+当前 5,645 个 `cn_text` 均为空，全部尚待正式汉化。不得把 reference 当成已完成译文，也不得按 ENG/MLG block/index 顺序硬套。
 
 这批模板尚未翻译、未构建、未进入 DAT。
 

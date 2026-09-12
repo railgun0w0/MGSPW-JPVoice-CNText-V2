@@ -57,6 +57,8 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 
 - `BRIEFING_FILES_BLOCK_*.csv`：363 blocks / 4,810 JPN rows，主要是任务前后可查阅的 BRIEFING FILES 对话与资料。
 - `BRIEFING_MISSION_BLOCK_*.csv`：106 blocks / 835 JPN rows，是 Mission BRIEFING 内容。
+- 合计仅有上述 JPN lane 的 469 blocks / 5,645 JPN rows；没有把 ENG/FRA/DEU/ITA/ESP lane 的 block 建成独立翻译单元，也不是全语言 census 的副本。
+- “JPN-only”指 translation-unit corpus 和 topology 仅以 JPN lane 为准。CSV 中出现的英文或旧中文只存在于 `eng_reference` / `mlg_cn_reference` 辅助列，不属于额外语言的待翻译 rows。
 - 每行只翻译 JPN 权威文本 `jpn_text`，将中文写入 `cn_text`。
 - `eng_reference` 只用于辅助理解；`mlg_cn_reference` 只用于参考旧汉化措辞，两者都不是结构或语义权威。
 - 当 `reference_status=NO_RELIABLE_AUX_REFERENCE` 时，必须根据 JPN 和本 block 前后文独立翻译，不能按 ENG/MLG 的 block/index 顺序硬套。
@@ -118,7 +120,7 @@ reference_reason
 
 ### 当前状态
 
-前五类资源已完成 241 file_ids / 21,041 rows。新增的 `BRIEFING_NBE` 469 file_ids / 5,645 rows 仍全部保持：
+前五类资源已完成 241 file_ids / 21,041 rows。当前 `BRIEFING_NBE` 只包含 JPN lane 的 469 file_ids / 5,645 rows，且仍全部保持：
 
 ```text
 cn_text = 空
