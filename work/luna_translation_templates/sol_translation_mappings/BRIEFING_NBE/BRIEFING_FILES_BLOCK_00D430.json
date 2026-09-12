@@ -1,0 +1,63 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_00D430",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "「不拥有、不制造、不引进核武器」……这就是日本政府提出的『无核三原则』。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 108,
+      "review_flag": ""
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "“不引进”……？　奇怪。停靠日本港口的美军舰艇里，也有搭载核武器的吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 105,
+      "review_flag": ""
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "还是说，每次都要在海上把核武器转装到别的船上吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 72,
+      "review_flag": ""
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "你说得对，Snake。不过，至少日本政府并不承认。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 65,
+      "review_flag": ""
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "核武器的引进属于事先协商事项。美方没有提出事先协商。因此，没有核武器被引进……这就是官方答复。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 141,
+      "review_flag": "AUX_PARTIAL_JPN_LOGIC_RESTORED"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "这……算是回答吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "AUX_MEANING_DRIFT_IGNORED"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "谁知道。不过，日本是核爆受害国。对核武器的排斥，比你想象的还要强烈。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 102,
+      "review_flag": ""
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "政府大概也很难承认吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": ""
+    }
+  ]
+}
