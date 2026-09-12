@@ -1,0 +1,63 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_004A90",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "古巴导弹危机已经过去十多年了啊。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 48,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "但那是绝不可能忘记的事件。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "是啊。从1962年10月15日开始的13天，可以说是全世界最接近全面核战争的日子。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 103,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "苏联在古巴部署核导弹。美国为此实施海上封锁，接着美军侦察机又被击落……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 105,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "当时我还只是十几岁，但那种离核战争只差一步的气氛，我记得很清楚。大人们都乱成了一团。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 126,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_TEENAGE_CONTEXT"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "如果没有古巴导弹危机，也许就不会有食蛇者行动。还有……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 81,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "怎么了，Snake。居然谈起假设，这可不像你。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 59,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "……也是。正是对古巴导弹危机的反思，让美苏之间建立了热线，<R=紧张缓和,デタント>也随之推进。真是讽刺。",
+      "cn_control_tokens": "<R=紧张缓和,デタント>",
+      "cn_utf8_bytes": 149,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
+    }
+  ]
+}
