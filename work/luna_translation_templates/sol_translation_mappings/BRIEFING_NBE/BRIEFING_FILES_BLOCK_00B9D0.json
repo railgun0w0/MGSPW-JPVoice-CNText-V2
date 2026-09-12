@@ -1,0 +1,98 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_00B9D0",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "你之前说过「日本也有和平宪法」吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "对。就是宣告放弃战争的宪法第9条。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 49,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "1、日本国民诚实希求以正义与秩序为基础的国际和平……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 76,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "作为国权发动的战争，以及以武力威胁或行使武力作为解决国际争端的手段，永久予以放弃。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 123,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "2、为达到前项之目的，不保持陆海空军及其他战争力量。不承认国家的交战权。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 106,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "……你背得还真顺。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_MISALIGNED"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "以前练过的本事。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_PARAPHRASE_CORRECTED"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "厉害。不过有点难懂啊。比如「作为解决……的手段」这种说法。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 87,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "对，这正是争论所在。问题在于，它是否否定了一切武力行使。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 84,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "现行宪法本来就是在盟军占领下制定的。草案也是当时盟军司令部提出的。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 99,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_DRAFTING_NUANCE_CORRECTED"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "所以也有人认为，这部宪法是外国强加的。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "看来每个国家都有复杂的内情……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "不过，可以肯定的是，正因为没有「军队」，战后的日本才能优先恢复经济。这一点和哥斯达黎加一样。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 138,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_COSTA_RICA_CLAUSE"
+    }
+  ]
+}
