@@ -1,0 +1,105 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_00CDC0",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "现在日本处在美国的核保护伞之下……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "是啊。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 9,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "美国宣称，如果盟国遭到核攻击，就会对攻击方发动核打击……以此威慑针对盟国的核攻击。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 123,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "这就是核保护伞。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_ADDS_TERM_ORIGIN_IGNORED"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "可是，如果苏联真的对东京发射核弹，美国真会对莫斯科发射核弹吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 93,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "一旦对莫斯科发动核打击，苏联肯定会报复美国。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 66,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_MERGED"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "美国真会为了日本，冒着华盛顿D．C．遭到核打击的风险进行反击吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 92,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "……我不知道。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "怎么了？事到如今，你还在担心日本吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 54,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_ADDS_AFTER_ALL_THESE_YEARS_IGNORED"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "倒也不是那个意思……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "……说实话，我自己也不知道。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_MEANING_SHIFT_CORRECTED"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "但对苏联来说也是一样。美国也许不会为了日本报复，但也可能会报复。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 96,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "也就是说，苏联也不会愿意冒遭到报复的风险……是吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 75,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "说到底，核威慑本身就是建立在假设之上的。终究只是一种幻想。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 87,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_ILLUSION_CLAUSE"
+    }
+  ]
+}
