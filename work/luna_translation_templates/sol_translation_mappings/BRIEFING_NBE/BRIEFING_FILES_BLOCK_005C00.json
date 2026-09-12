@@ -1,0 +1,105 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_005C00",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "Snake，如果不介意的话，我想问你件事。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 53,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "怎么了，像平时那样厚着脸皮问不就行了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_PARAPHRASE_IGNORED"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "……啊——你以前待过CIA的<R=准军事部队,パラミリタリー>吧。",
+      "cn_control_tokens": "<R=准军事部队,パラミリタリー>",
+      "cn_utf8_bytes": 83,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "对。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 6,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "也在中美洲执行过任务？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "不，那倒没有。不过其他部队似乎干过不少事。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 63,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "61年的猪湾事件我也记得很清楚。报纸当时可是大肆报道。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 77,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_PARTIAL"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "『扎帕塔行动』。最后落得了惨痛的结果。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_SHIFTED_REFERENCE_IGNORED;JAPANESE_DOUBLE_CORNER_QUOTES_PRESERVED"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "还有在玻利维亚对格瓦拉的<R=追捕,ハントダウン>。据说CIA也参与了……",
+      "cn_control_tokens": "<R=追捕,ハントダウン>",
+      "cn_utf8_bytes": 95,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_SEGMENTATION_IGNORED"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "听说还有MSP、SOG之类的名字。有好几个性质和我原来的部队FOX相似的下属组织。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 105,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "他们把特种部队出身的人员训练成情报特工，让其从事“<R=可否认的,ディナイアブルな>”秘密准军事行动。",
+      "cn_control_tokens": "<R=可否认的,ディナイアブルな>",
+      "cn_utf8_bytes": 143,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "就是那些人教了玻利维亚政府军反游击战术……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 63,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "……再让他们杀掉了格瓦拉。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "应该是吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 15,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_HEARSAY_NUANCE_IGNORED"
+    }
+  ]
+}
