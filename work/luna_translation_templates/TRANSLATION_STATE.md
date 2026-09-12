@@ -3,7 +3,7 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-12T13:07:41+08:00`
+Updated: `2026-09-12T13:18:33+08:00`
 Branch: `sol-translation`
 Latest validated checkpoint commit: `dc6eae42416e79a95ff38c4a05bd2e3d408c6d65`
 Total rows / persisted rows: **26686 / 21041**
@@ -31,6 +31,7 @@ NEXT_FILE_ID: **`BRIEFING_FILES_BLOCK_000000`**
 - BRIEFING MISSION：**106 blocks / 835 JPN rows**。
 - 源文状态：非空 `jpn_text` **5645/5645**；非空 `cn_text` **0/5645**，因此 BRIEFING 目前尚未开始正式翻译。
 - 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。
+- 旧初版统计（2,461 translation units / 42,079 全语言物理文本对象 / 42,002 rows）来自错误的六语言聚合，现已废弃，不代表当前模板。
 - 辅助覆盖：`eng_reference` **5095 rows**；旧 `mlg_cn_reference` **5085 rows**。它们只用于理解和措辞参考，不是待翻译源文或翻译权威。
 - 每行只把 JPN 权威源文 `jpn_text` 翻译到 `cn_text`；保留 markup/control tokens，并按正常流程更新翻译和控制结构状态。
 - 不得机械复制 `eng_reference` / `mlg_cn_reference`。`NO_RELIABLE_AUX_REFERENCE` 行必须依据 JPN 与本 block 上下文翻译。

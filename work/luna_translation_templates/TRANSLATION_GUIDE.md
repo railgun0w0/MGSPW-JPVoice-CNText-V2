@@ -48,10 +48,19 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 - `STAGEDAT_OLANG`：46 个 file_id；
 - `YPK_GTT`：36 个 file_id；
 - `LOOSE_OLANG`：14 个 file_id；
-- `OHD`：1 个 file_id；
-- `BRIEFING_NBE`：469 个 file_id（FILES 363 + MISSION 106）。
+- `OHD`：1 个 file_id。
 
-现共有 710 个 file_id / 26,686 条 translation rows。前五类 241 个 file_id / 21,041 行已有完整译文；新增 `BRIEFING_NBE` 469 个 file_id / 5,645 行是当前待汉化范围。精确进度以 `TRANSLATION_STATE.md` 为准。
+前五类合计 241 个 file_id，来源对象 91,609 个，file_id 内精确去重后为 21,041 条 translation rows；当前均已有完整译文。
+
+`BRIEFING_NBE` 另有 469 个 file_id，全部来自已冻结的 JPN BRIEFING lane，不是全语言聚合：
+
+- BRIEFING FILES：363 blocks / 4,810 JPN rows；
+- BRIEFING MISSION：106 blocks / 835 JPN rows；
+- 合计：469 blocks / 5,645 JPN rows。
+
+旧初版统计“2,461 个 translation unit CSV / 42,079 个全语言物理文本对象 / 42,002 行”来自尚未分离 language lane 的错误分组，现已废弃并由上述 B81 JPN-only corpus 完全替换，不得再用于翻译、进度或 production 判断。
+
+因此整个 Luna 目录当前共有 710 个 file_id / 26,686 条 translation rows，其中前五类 241 / 21,041 已完成，`BRIEFING_NBE` 469 / 5,645 待汉化。精确进度以 `TRANSLATION_STATE.md` 为准。
 
 ### `BRIEFING_NBE` 待汉化内容
 
