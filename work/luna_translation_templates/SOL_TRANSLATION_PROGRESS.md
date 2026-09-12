@@ -112,13 +112,13 @@ The pre-fix rolling state remains preserved above and in Git commit `f03a7b2868b
 
 This complete ledger is regenerated from committed mappings. It is exhaustive, not a rolling recent-items list.
 
-- Complete file_ids: **241 / 710**
-- Complete rows: **21041 / 26686**
-- Mapping-backed persisted rows: **21041 / 26686**
-- Latest validated mapping checkpoint: `dc6eae42416e79a95ff38c4a05bd2e3d408c6d65`
-- NEXT_FILE_ID: **`BRIEFING_FILES_BLOCK_000000`**
-- Tracker reconciliation: legacy tracker persisted rows=11778, facts=21041 (legacy delta -9263)
-- Tracker reconciliation: legacy tracker completed file_ids=208, facts=241 (legacy delta -33)
+- Complete file_ids: **244 / 710**
+- Complete rows: **21066 / 26686**
+- Mapping-backed persisted rows: **21066 / 26686**
+- Latest validated mapping checkpoint: `c2ecd073b3c20b77faaf13e6e6d0d4b01192c19f`
+- NEXT_FILE_ID: **`BRIEFING_FILES_BLOCK_000D00`**
+- Tracker reconciliation: legacy tracker persisted rows=11778, facts=21066 (legacy delta -9288)
+- Tracker reconciliation: legacy tracker completed file_ids=208, facts=244 (legacy delta -36)
 - Tracker reconciliation: legacy tracker SLOT_OLANG completed=111, facts=144 (legacy delta -33)
 
 | Resource class | file_id | Rows | Mapping / manifest / translated CSV | Commit | Review / risk evidence |
@@ -364,5 +364,8 @@ This complete ledger is regenerated from committed mappings. It is exhaustive, n
 | SLOT_OLANG | `5DEEEA4A` | 85 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5DEEEA4A.json` | `41b8c0fda09cb32e0697fef558690f1e04c61b5f` | JPN is authoritative; short online communication lines translated naturally and concisely. |
 | SLOT_OLANG | `5DEFED13` | 23 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5DEFED13.json` | `1928f71be0943f7e83dcddf731f90126ecca47df` | 23/23 rows carry review_flag; auxiliary mismatch/shift flags; control-token flags. |
 | SLOT_OLANG | `5DF1B9C2` | 27 | `work/luna_translation_templates/sol_translation_mappings/SLOT_OLANG/5DF1B9C2.json` | `6865a14492da464a7cdaa41244866ca115607df8` | 27/27 rows carry review_flag; auxiliary mismatch/shift flags; control-token flags; whitespace flags; newline flags. |
+| BRIEFING_NBE | `BRIEFING_FILES_BLOCK_000000` | 13 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING_NBE/BRIEFING_FILES_BLOCK_000000.json` | `c2ecd073b3c20b77faaf13e6e6d0d4b01192c19f` | 13/13 rows carry review_flag; auxiliary mismatch/shift flags; ruby flags. |
+| BRIEFING_NBE | `BRIEFING_FILES_BLOCK_000790` | 5 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING_NBE/BRIEFING_FILES_BLOCK_000790.json` | `c2ecd073b3c20b77faaf13e6e6d0d4b01192c19f` | 5/5 rows carry review_flag; auxiliary mismatch/shift flags; ruby flags. |
+| BRIEFING_NBE | `BRIEFING_FILES_BLOCK_000A80` | 7 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING_NBE/BRIEFING_FILES_BLOCK_000A80.json` | `c2ecd073b3c20b77faaf13e6e6d0d4b01192c19f` | 7/7 rows carry review_flag; auxiliary mismatch/shift flags. |
 
 <!-- END GENERATED COMPLETED LEDGER -->
