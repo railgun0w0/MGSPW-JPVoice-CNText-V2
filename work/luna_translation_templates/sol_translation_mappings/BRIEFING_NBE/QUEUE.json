@@ -2,8 +2,8 @@
   "schema_version": 2,
   "resource_class": "BRIEFING_NBE",
   "total": 469,
-  "remaining_count": 164,
-  "completed_count": 305,
+  "remaining_count": 159,
+  "completed_count": 310,
   "translation_guide": "work/luna_translation_templates/TRANSLATION_GUIDE.md",
   "rules": {
     "order_is_fixed": true,
@@ -12,11 +12,6 @@
     "mapping_truth_is_authoritative": true
   },
   "remaining": [
-    [306, "BRIEFING_FILES_BLOCK_066B30"],
-    [307, "BRIEFING_FILES_BLOCK_0672B0"],
-    [308, "BRIEFING_FILES_BLOCK_067F40"],
-    [309, "BRIEFING_FILES_BLOCK_068550"],
-    [310, "BRIEFING_FILES_BLOCK_069580"],
     [311, "BRIEFING_FILES_BLOCK_069E20"],
     [312, "BRIEFING_FILES_BLOCK_06A170"],
     [313, "BRIEFING_FILES_BLOCK_06A5D0"],
@@ -482,6 +477,11 @@
     [302, "BRIEFING_FILES_BLOCK_064AE0"],
     [303, "BRIEFING_FILES_BLOCK_0652F0"],
     [304, "BRIEFING_FILES_BLOCK_065C70"],
-    [305, "BRIEFING_FILES_BLOCK_0661F0"]
+    [305, "BRIEFING_FILES_BLOCK_0661F0"],
+    [306, "BRIEFING_FILES_BLOCK_066B30"],
+    [307, "BRIEFING_FILES_BLOCK_0672B0"],
+    [308, "BRIEFING_FILES_BLOCK_067F40"],
+    [309, "BRIEFING_FILES_BLOCK_068550"],
+    [310, "BRIEFING_FILES_BLOCK_069580"]
   ]
 }
