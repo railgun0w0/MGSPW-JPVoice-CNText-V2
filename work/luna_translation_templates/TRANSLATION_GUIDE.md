@@ -60,7 +60,7 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 
 旧初版统计“2,461 个 translation unit CSV / 42,079 个全语言物理文本对象 / 42,002 行”来自尚未分离 language lane 的错误分组，现已废弃并由上述 B81 JPN-only corpus 完全替换，不得再用于翻译、进度或 production 判断。
 
-因此整个 Luna 目录当前共有 710 个 file_id / 26,686 条 translation rows，其中前五类 241 / 21,041 已完成，`BRIEFING_NBE` 469 / 5,645 待汉化。精确进度以 `TRANSLATION_STATE.md` 为准。
+因此整个 Luna 目录当前共有 710 个 file_id / 26,686 条 translation rows。截至 `2026-09-12`，前五类 241 / 21,041 已完成，`BRIEFING_NBE` 已完成 3 / 469 个 file_id、25 / 5,645 rows；剩余 466 个 file_id / 5,620 rows，续作从 `BRIEFING_FILES_BLOCK_000D00` 开始。精确进度以 `TRANSLATION_STATE.md` 为准。
 
 ### `BRIEFING_NBE` 待汉化内容
 
@@ -129,7 +129,7 @@ reference_reason
 
 ### 当前状态
 
-前五类资源已完成 241 file_ids / 21,041 rows。当前 `BRIEFING_NBE` 只包含 JPN lane 的 469 file_ids / 5,645 rows，且仍全部保持：
+前五类资源已完成 241 file_ids / 21,041 rows。当前 `BRIEFING_NBE` 只包含 JPN lane 的 469 file_ids / 5,645 rows。模板 CSV 仍全部保持以下只读输入状态；正式进度来自 `sol_translation_mappings/BRIEFING_NBE/<file_id>.json`，当前已完成 3 file_ids / 25 rows：
 
 ```text
 cn_text = 空
