@@ -1,0 +1,133 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_00B0B0",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "Kaz。以你过去当游骑兵的经验，说说你的看法。发动游击战时，要注意哪些方面？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 108,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "游击队无论规模、火力还是持续作战能力，通常都远逊于敌方正规军。战斗拖得越久越不利。基本原则就是速战速决。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 156,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "战术层面确实如此。那么战略层面呢？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "兵力和后勤基础薄弱的游击队，总会受到一些限制。比如物资补给不得不依赖就地筹措。没有农民的援助，恐怕很难把游击战坚持到底。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 180,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "另外，想占据地利，也少不了熟悉当地情况的居民配合。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 75,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "因此，争取民心是必不可少的。为了赢得信任，游击战士必须保持高尚的操守。对指挥官来说，维持部队纪律是一项直接关系胜负的重要任务。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 189,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "简直就像“<R=争取民心行动,Hearts and Minds>”啊。",
+      "cn_control_tokens": "<R=争取民心行动,Hearts and Minds>",
+      "cn_utf8_bytes": 63,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;RUBY_LOCALIZED"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "绿扁帽的？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 15,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "马来亚的<R=英国人,SAS>也是如此。",
+      "cn_control_tokens": "<R=英国人,SAS>",
+      "cn_utf8_bytes": 44,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;RUBY_LOCALIZED"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "思路应该一样。把民众变成敌人的军队，从来没有赢过。“阿拉伯的劳伦斯”也是如此。他赢得当地贝都因人的支持并击败德国军队，这件事很有名。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 198,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;JPN_HISTORICAL_CLAIM_PRESERVED"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "对了……说起来，你们国家的孙子不也说过类似的话吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 75,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "诶？不，孙子不是日本的，是中国的……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 54,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "不愧是被称为第五文明圈的国家。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "第五？……你说的是汤因比之类的理论吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "没错。你懂得还挺多。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "那样的话，不是五个，而是26个……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 47,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "那是个尚武的国家，孕育了老子、孔明，还有许多优秀的武士。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 84,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;CHARACTER_MISTAKE_PRESERVED"
+    },
+    {
+      "unique_index": 17,
+      "cn_text": "啊……呃……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 18,
+      "review_flag": "JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE"
+    }
+  ]
+}
