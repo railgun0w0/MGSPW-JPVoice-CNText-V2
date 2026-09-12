@@ -1,0 +1,140 @@
+{
+  "file_id": "BRIEFING_FILES_BLOCK_000D00",
+  "resource_class": "BRIEFING_NBE",
+  "status": "TRANSLATED_PENDING_CSV_MERGE",
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "Snake，要把在现场发现的俘虏和被打昏的佣兵回收到母基地，就得使用富尔顿回收系统。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 116,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_FULTON_SYSTEM"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "你说自己已经体验过了，不过为了我，再确认一下步骤吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 78,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "明白。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 9,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "首先，给你打昏的敌人或被拘束的俘虏装上气球。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 66,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "对。把钢索固定在要回收对象的腰上。钢索另一头连着一个充满氦气的气球。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 102,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "然后我们乘直升机接近，用回收钩勾住浮在空中的气球，把人吊到上空，再收进货舱。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 114,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "这样就行。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 15,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "完美。回收用直升机<R=HU-1,ヒューイ>的挂钩也已经装好了……",
+      "cn_control_tokens": "<R=HU-1,ヒューイ>",
+      "cn_utf8_bytes": 81,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_PRESERVED"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "不过Kaz，我总觉得这种做法有点矛盾。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "怎么，又是这事？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "通常富尔顿回收是用固定翼飞机进行的。既然有直升机，直接降落把人接上去不是更稳妥吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 123,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "听着，Snake。任务中会反复进行回收，我们得尽量降低遭到敌方火力攻击的风险。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 107,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "所以，能高速<R=掠过,フライパスし>的同时完成回收的富尔顿回收系统最合适。",
+      "cn_control_tokens": "<R=掠过,フライパスし>",
+      "cn_utf8_bytes": 104,
+      "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "……说实话呢？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_SHIFTED_REFERENCE_IGNORED"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "直升机更便宜。要是挨了枪子儿，维修费也会越堆越高。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 75,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_PARTIAL"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "就是这个，Kaz。控制成本是没错，不过……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "Boss，你也该把当年在军队里的那套做派丢掉了。我们可不是能拿公款挥霍的那帮人。还是说……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 127,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_EXPANSION_IGNORED"
+    },
+    {
+      "unique_index": 17,
+      "cn_text": "知道了知道了。我只是对你选它的理由有点介意。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 66,
+      "review_flag": "JPN_DIRECT_TRANSLATION;AUX_SEMANTIC_DRIFT_IGNORED"
+    },
+    {
+      "unique_index": 18,
+      "cn_text": "而且直升机的快速反应能力更强。的确可能有点另类，但你应该不会觉得不便。很快就会习惯的。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 129,
+      "review_flag": "JPN_DIRECT_TRANSLATION"
+    }
+  ]
+}
