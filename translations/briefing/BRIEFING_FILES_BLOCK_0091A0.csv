@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0091A0,0,stream=0x9000;block=0x1A0;text=0,"[""stream=0x9000;block=0x1A0;text=0""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]",,"キューバ革命が成功した年、ゲバラは経済使節団の代表と
+して訪日した。そこで彼は、広島を訪れている。
+","ヒロシマか…。
+",[],古巴革命成功那年，格瓦拉以经济使节团代表身份访问日本。期间，他去了广岛。,,MATCH,146,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED
+BRIEFING_FILES_BLOCK_0091A0,1,stream=0x9000;block=0x1A0;text=1,"[""stream=0x9000;block=0x1A0;text=1""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","キューバ革命が成功した年、ゲバラは経済使節団の代表と
+して訪日した。そこで彼は、広島を訪れている。
+","ヒロシマか…。
+","経済使節と言うこともあって、広島訪問はもともとの予定
+になかった。
+",[],广岛啊……,,MATCH,22,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0091A0,2,stream=0x9000;block=0x1A0;text=2,"[""stream=0x9000;block=0x1A0;text=2""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","ヒロシマか…。
+","経済使節と言うこともあって、広島訪問はもともとの予定
+になかった。
+","外務省が行かせたがらなかった、という話もある。だが彼
+は広島へ向かった。突然の訪問だったそうだ。
+",[],因为是经济使节，广岛原本不在行程之中。,,MATCH,98,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0091A0,3,stream=0x9000;block=0x1A0;text=3,"[""stream=0x9000;block=0x1A0;text=3""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","経済使節と言うこともあって、広島訪問はもともとの予定
+になかった。
+","外務省が行かせたがらなかった、という話もある。だが彼
+は広島へ向かった。突然の訪問だったそうだ。
+","まさにゲリラ訪問だな。ゲバラらしい。
+",[],也有说法称外务省不愿让他去。但他还是去了广岛。据说是一次突然造访。,,MATCH,143,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_SUDDEN_VISIT
+BRIEFING_FILES_BLOCK_0091A0,4,stream=0x9000;block=0x1A0;text=4,"[""stream=0x9000;block=0x1A0;text=4""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","外務省が行かせたがらなかった、という話もある。だが彼
+は広島へ向かった。突然の訪問だったそうだ。
+","まさにゲリラ訪問だな。ゲバラらしい。
+","原爆資料館と原爆病院を見学したゲバラは、相当ショック
+を受けたらしい。
+",[],简直就是一次游击式访问。很像格瓦拉的作风。,,MATCH,55,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_MISALIGNED
+BRIEFING_FILES_BLOCK_0091A0,5,stream=0x9000;block=0x1A0;text=5,"[""stream=0x9000;block=0x1A0;text=5""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","まさにゲリラ訪問だな。ゲバラらしい。
+","原爆資料館と原爆病院を見学したゲバラは、相当ショック
+を受けたらしい。
+","彼は医者だ。被爆者の苦しみは痛いほどわかったろう。
+",[],参观原爆资料馆和原爆医院后，格瓦拉似乎受到了相当大的冲击。,,MATCH,104,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_SHOCK
+BRIEFING_FILES_BLOCK_0091A0,6,stream=0x9000;block=0x1A0;text=6,"[""stream=0x9000;block=0x1A0;text=6""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","原爆資料館と原爆病院を見学したゲバラは、相当ショック
+を受けたらしい。
+","彼は医者だ。被爆者の苦しみは痛いほどわかったろう。
+","核はすべてを破壊する…。
+",[],他是医生。核爆受害者的痛苦，他一定感同身受。,,MATCH,76,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0091A0,7,stream=0x9000;block=0x1A0;text=7,"[""stream=0x9000;block=0x1A0;text=7""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","彼は医者だ。被爆者の苦しみは痛いほどわかったろう。
+","核はすべてを破壊する…。
+","ゲバラはこう言ったそうだ。「こんなにされてなお、あな
+た達はアメリカの言いなりになるのか」と。
+",[],核会毁掉一切……,,MATCH,37,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0091A0,8,stream=0x9000;block=0x1A0;text=8,"[""stream=0x9000;block=0x1A0;text=8""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","核はすべてを破壊する…。
+","ゲバラはこう言ったそうだ。「こんなにされてなお、あな
+た達はアメリカの言いなりになるのか」と。
+","…俺にとっても重い言葉だ。お袋のことを考えるとな。
+",[],据说格瓦拉当时说：「都被这样对待了，你们还要对美国言听计从吗？」,,MATCH,140,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0091A0,9,stream=0x9000;block=0x1A0;text=9,"[""stream=0x9000;block=0x1A0;text=9""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","ゲバラはこう言ったそうだ。「こんなにされてなお、あな
+た達はアメリカの言いなりになるのか」と。
+","…俺にとっても重い言葉だ。お袋のことを考えるとな。
+","彼はこうも言った。「これからは広島を、広島の人々を愛
+していこう」。
+",[],……这话对我来说也很沉重。尤其想到我母亲的时候。,,MATCH,76,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0091A0,10,stream=0x9000;block=0x1A0;text=10,"[""stream=0x9000;block=0x1A0;text=10""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","…俺にとっても重い言葉だ。お袋のことを考えるとな。
+","彼はこうも言った。「これからは広島を、広島の人々を愛
+していこう」。
+","彼らしい話だ。ゲバラは他人の痛みに鈍感になれなかった
+男だ。それゆえ愛され、そして死んだ。
+",[],他还说过：「从今往后，让我们爱广岛，也爱广岛的人们。」,,MATCH,101,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0091A0,11,stream=0x9000;block=0x1A0;text=11,"[""stream=0x9000;block=0x1A0;text=11""]",1,BRIEFING FILES,"[""stream=0x9000;block=0x1A0;block_file=0x91A0;text_base=0x91F0;capacity=1144""]","彼はこうも言った。「これからは広島を、広島の人々を愛
+していこう」。
+","彼らしい話だ。ゲバラは他人の痛みに鈍感になれなかった
+男だ。それゆえ愛され、そして死んだ。
+",,[],很像他会说的话。格瓦拉是个无法对他人的痛苦麻木的人。也正因如此，他受到爱戴，也因此而死。,,MATCH,134,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION

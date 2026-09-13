@@ -1,0 +1,69 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02C9B0,0,stream=0x2C000;block=0x9B0;text=0,"[""stream=0x2C000;block=0x9B0;text=0""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]",,"パス、コスタリカ政府は山のてっぺんに発電所なんか造っ
+て、どうするつもりだったんだ？
+","川がないんじゃ、すぐ湖が干上がるだろう。
+",[],Paz，哥斯达黎加政府把发电站建在山顶上，到底是怎么想的？,,MATCH,125,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02C9B0,1,stream=0x2C000;block=0x9B0;text=1,"[""stream=0x2C000;block=0x9B0;text=1""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","パス、コスタリカ政府は山のてっぺんに発電所なんか造っ
+て、どうするつもりだったんだ？
+","川がないんじゃ、すぐ湖が干上がるだろう。
+","普通の発電所ならね。でも、計画では揚水発電所だったみ
+たいだから。
+",[],这里又没有河，湖水很快就会干涸吧。,,MATCH,61,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02C9B0,2,stream=0x2C000;block=0x9B0;text=2,"[""stream=0x2C000;block=0x9B0;text=2""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","川がないんじゃ、すぐ湖が干上がるだろう。
+","普通の発電所ならね。でも、計画では揚水発電所だったみ
+たいだから。
+","揚水発電所？　カズも言ってたが、そりゃ何だ。
+",[],普通发电站的话确实如此。不过计划中的好像是抽水蓄能电站。,,MATCH,98,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02C9B0,3,stream=0x2C000;block=0x9B0;text=3,"[""stream=0x2C000;block=0x9B0;text=3""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","普通の発電所ならね。でも、計画では揚水発電所だったみ
+たいだから。
+","揚水発電所？　カズも言ってたが、そりゃ何だ。
+","ポンプで水を湖にくみ上げて、その水を落として発電する
+施設よ。
+",[],抽水蓄能电站？Kaz也提过，那到底是什么？,,MATCH,67,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02C9B0,4,stream=0x2C000;block=0x9B0;text=4,"[""stream=0x2C000;block=0x9B0;text=4""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","揚水発電所？　カズも言ってたが、そりゃ何だ。
+","ポンプで水を湖にくみ上げて、その水を落として発電する
+施設よ。
+","ちょっと待て。そりゃ賽の河原とどう違うんだ？　単に無
+駄なことをしているだけだと思うが。
+",[],就是用水泵把水抽到湖里，再让水落下来发电的设施。,,MATCH,92,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FIRST_HALF_RESTORED
+BRIEFING_FILES_BLOCK_02C9B0,5,stream=0x2C000;block=0x9B0;text=5,"[""stream=0x2C000;block=0x9B0;text=5""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","ポンプで水を湖にくみ上げて、その水を落として発電する
+施設よ。
+","ちょっと待て。そりゃ賽の河原とどう違うんだ？　単に無
+駄なことをしているだけだと思うが。
+","汲み上げてすぐ発電に使うならね。でも、揚水発電所は一
+種の電池なの。
+",[],等一下。这不就是没完没了地白费力气吗？我看只是在做无用功。,,MATCH,131,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_SAI_NO_KAWARA_IDIOM_NATURALIZED
+BRIEFING_FILES_BLOCK_02C9B0,6,stream=0x2C000;block=0x9B0;text=6,"[""stream=0x2C000;block=0x9B0;text=6""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","ちょっと待て。そりゃ賽の河原とどう違うんだ？　単に無
+駄なことをしているだけだと思うが。
+","汲み上げてすぐ発電に使うならね。でも、揚水発電所は一
+種の電池なの。
+","電池？
+",[],如果抽上来马上就拿去发电，确实如此。不过抽水蓄能电站其实是一种电池。,,MATCH,101,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_SPLIT_REJOINED_PER_JPN
+BRIEFING_FILES_BLOCK_02C9B0,7,stream=0x2C000;block=0x9B0;text=7,"[""stream=0x2C000;block=0x9B0;text=7""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","汲み上げてすぐ発電に使うならね。でも、揚水発電所は一
+種の電池なの。
+","電池？
+","例えば、電力が余っている夜の間に水を汲み上げておくと
+か。昼に不足してきたら、その水で発電すればいい。
+",[],电池？,,MATCH,10,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02C9B0,8,stream=0x2C000;block=0x9B0;text=8,"[""stream=0x2C000;block=0x9B0;text=8""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","電池？
+","例えば、電力が余っている夜の間に水を汲み上げておくと
+か。昼に不足してきたら、その水で発電すればいい。
+","なるほど、火力発電や原子力発電は、出力の調整が難しい
+からな。
+",[],比如在电力有富余的夜里先把水抽上去。白天电力不足时，再用这些水发电就行。,,MATCH,152,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_NIGHT_DAY_STORAGE_LOGIC_RESTORED
+BRIEFING_FILES_BLOCK_02C9B0,9,stream=0x2C000;block=0x9B0;text=9,"[""stream=0x2C000;block=0x9B0;text=9""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","例えば、電力が余っている夜の間に水を汲み上げておくと
+か。昼に不足してきたら、その水で発電すればいい。
+","なるほど、火力発電や原子力発電は、出力の調整が難しい
+からな。
+","でも、今のコスタリカに余っている電気なんかないはずよ。
+",[],原来如此，因为火力发电和核电站很难调节输出功率。,,MATCH,92,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02C9B0,10,stream=0x2C000;block=0x9B0;text=10,"[""stream=0x2C000;block=0x9B0;text=10""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","なるほど、火力発電や原子力発電は、出力の調整が難しい
+からな。
+","でも、今のコスタリカに余っている電気なんかないはずよ。
+","だから計画が中止されたんだろう。CIAの連中は、それを
+利用したってわけだ。
+",[],但现在的哥斯达黎加应该根本没有多余的电力。,,MATCH,82,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PROJECT_CANCELLATION_MOVED_TO_NEXT_ROW_PER_JPN
+BRIEFING_FILES_BLOCK_02C9B0,11,stream=0x2C000;block=0x9B0;text=11,"[""stream=0x2C000;block=0x9B0;text=11""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0x9B0;block_file=0x2C9B0;text_base=0x2CA00;capacity=1132""]","でも、今のコスタリカに余っている電気なんかないはずよ。
+","だから計画が中止されたんだろう。CIAの連中は、それを
+利用したってわけだ。
+",,[],所以计划才会被取消吧。CIA那些家伙正好利用了这一点。,,MATCH,107,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_CIA_UTILIZATION_PRIMARY

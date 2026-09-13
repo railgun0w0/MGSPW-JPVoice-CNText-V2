@@ -1,0 +1,44 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_031190,0,stream=0x31000;block=0x190;text=0,"[""stream=0x31000;block=0x190;text=0""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]",,"コスタリカとニカラグアの国境に流れているのが、<R=サン・ファン河,リオ・サン・ファン>。
+<R=ニカラグア湖,ラゴ・コシボルカ>からカリブ海までつないでる。
+","穏やかな河よ。小さなボートでも問題ない。ただ、サメが
+棲んでるから気をつけて。
+","[""<R=サン・ファン河,リオ・サン・ファン>"", ""<R=ニカラグア湖,ラゴ・コシボルカ>""]","流经哥斯达黎加和尼加拉瓜国境的是<R=圣胡安河,Río San Juan>。它从<R=尼加拉瓜湖,Lago Cocibolca>一直通向加勒比海。","<R=圣胡安河,Río San Juan> | <R=尼加拉瓜湖,Lago Cocibolca>",MATCH,216,148,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS
+BRIEFING_FILES_BLOCK_031190,1,stream=0x31000;block=0x190;text=1,"[""stream=0x31000;block=0x190;text=1""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","コスタリカとニカラグアの国境に流れているのが、<R=サン・ファン河,リオ・サン・ファン>。
+<R=ニカラグア湖,ラゴ・コシボルカ>からカリブ海までつないでる。
+","穏やかな河よ。小さなボートでも問題ない。ただ、サメが
+棲んでるから気をつけて。
+","河じゃなかったのか。
+",[],河水很平缓，小船也没问题。不过这里有鲨鱼栖息，要小心。,,MATCH,116,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031190,2,stream=0x31000;block=0x190;text=2,"[""stream=0x31000;block=0x190;text=2""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","穏やかな河よ。小さなボートでも問題ない。ただ、サメが
+棲んでるから気をつけて。
+","河じゃなかったのか。
+","<R=オオメジロザメ,チブロントロ>は、河でも生きられるの。でも大丈夫かも。
+きっと<R=聖ヨハネ,サン・ファン>のご加護がある。
+",[],这里不是河吗？,,MATCH,31,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SHARK_EXPLICITATION_REMOVED_PER_JPN
+BRIEFING_FILES_BLOCK_031190,3,stream=0x31000;block=0x190;text=3,"[""stream=0x31000;block=0x190;text=3""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","河じゃなかったのか。
+","<R=オオメジロザメ,チブロントロ>は、河でも生きられるの。でも大丈夫かも。
+きっと<R=聖ヨハネ,サン・ファン>のご加護がある。
+","ヨハネ？
+","[""<R=オオメジロザメ,チブロントロ>"", ""<R=聖ヨハネ,サン・ファン>""]","<R=公牛鲨,tiburón toro>在河里也能生存。不过也许不用担心，一定会有<R=圣约翰,San Juan>保佑你。","<R=公牛鲨,tiburón toro> | <R=圣约翰,San Juan>",MATCH,174,124,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS
+BRIEFING_FILES_BLOCK_031190,4,stream=0x31000;block=0x190;text=4,"[""stream=0x31000;block=0x190;text=4""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","<R=オオメジロザメ,チブロントロ>は、河でも生きられるの。でも大丈夫かも。
+きっと<R=聖ヨハネ,サン・ファン>のご加護がある。
+","ヨハネ？
+","<R=サン・ファン河,リオ・サン・ファン>という名前は、<R=イエス,ヘスス>様に洗礼を施した、<R=聖ヨハネ,サン・ファン>
+から来ているの。
+",[],约翰？,,MATCH,13,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031190,5,stream=0x31000;block=0x190;text=5,"[""stream=0x31000;block=0x190;text=5""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","ヨハネ？
+","<R=サン・ファン河,リオ・サン・ファン>という名前は、<R=イエス,ヘスス>様に洗礼を施した、<R=聖ヨハネ,サン・ファン>
+から来ているの。
+","あなたの国の言葉で言うなら、ジョンよ。
+","[""<R=サン・ファン河,リオ・サン・ファン>"", ""<R=イエス,ヘスス>"", ""<R=聖ヨハネ,サン・ファン>""]","<R=圣胡安河,Río San Juan>这个名字来自给<R=耶稣,Jesús>施洗的<R=圣约翰,San Juan>。","<R=圣胡安河,Río San Juan> | <R=耶稣,Jesús> | <R=圣约翰,San Juan>",MATCH,185,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS
+BRIEFING_FILES_BLOCK_031190,6,stream=0x31000;block=0x190;text=6,"[""stream=0x31000;block=0x190;text=6""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","<R=サン・ファン河,リオ・サン・ファン>という名前は、<R=イエス,ヘスス>様に洗礼を施した、<R=聖ヨハネ,サン・ファン>
+から来ているの。
+","あなたの国の言葉で言うなら、ジョンよ。
+","ジョン、ね…。溺れ死んでジョン・ドゥにならないよう、
+せいぜい気をつけるさ。
+",[],按你们国家的叫法，就是John。,,MATCH,58,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_BAPTIST_ADDITION_REMOVED_PER_JPN
+BRIEFING_FILES_BLOCK_031190,7,stream=0x31000;block=0x190;text=7,"[""stream=0x31000;block=0x190;text=7""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x190;block_file=0x31190;text_base=0x311D0;capacity=916""]","あなたの国の言葉で言うなら、ジョンよ。
+","ジョン、ね…。溺れ死んでジョン・ドゥにならないよう、
+せいぜい気をつけるさ。
+",,[],John啊……我会尽量小心，免得淹死以后成了John Doe。,,MATCH,113,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_JOHN_DOE_WORDPLAY_PRESERVED

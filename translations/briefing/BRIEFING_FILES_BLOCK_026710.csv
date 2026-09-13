@@ -1,0 +1,81 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_026710,0,stream=0x26000;block=0x710;text=0,"[""stream=0x26000;block=0x710;text=0""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]",,"ピースウォーカーに描かれている蝶…何だかわかるか？
+","…モルフォ蝶ね。それも、ペレイデスモルフォじゃないか
+な。
+",[],和平行者上画着的那只蝴蝶……你知道是什么吗？,,MATCH,76,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,1,stream=0x26000;block=0x710;text=1,"[""stream=0x26000;block=0x710;text=1""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","ピースウォーカーに描かれている蝶…何だかわかるか？
+","…モルフォ蝶ね。それも、ペレイデスモルフォじゃないか
+な。
+","ペレイデスモルフォ？
+",[],……是闪蝶。而且，我想应该是蓝闪蝶。,,MATCH,86,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=TERM_PELEIDES_MORPHO_AS_BLUE_MORPHO
+BRIEFING_FILES_BLOCK_026710,2,stream=0x26000;block=0x710;text=2,"[""stream=0x26000;block=0x710;text=2""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","…モルフォ蝶ね。それも、ペレイデスモルフォじゃないか
+な。
+","ペレイデスモルフォ？
+","うん。モルフォ蝶の中でも、コスタリカに多い種類よ。
+",[],蓝闪蝶？,,MATCH,31,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=TERM_PELEIDES_MORPHO_AS_BLUE_MORPHO
+BRIEFING_FILES_BLOCK_026710,3,stream=0x26000;block=0x710;text=3,"[""stream=0x26000;block=0x710;text=3""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","ペレイデスモルフォ？
+","うん。モルフォ蝶の中でも、コスタリカに多い種類よ。
+","そうか。
+",[],嗯。是闪蝶里在哥斯达黎加很常见的一种。,,MATCH,76,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SUPERLATIVE_REMOVED_PER_JPN
+BRIEFING_FILES_BLOCK_026710,4,stream=0x26000;block=0x710;text=4,"[""stream=0x26000;block=0x710;text=4""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","うん。モルフォ蝶の中でも、コスタリカに多い種類よ。
+","そうか。
+","メタリックブルーの羽根がとても綺麗なの。きらきら光っ
+て、遠くからでもわかるくらい。
+",[],这样啊。,,MATCH,13,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,5,stream=0x26000;block=0x710;text=5,"[""stream=0x26000;block=0x710;text=5""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","そうか。
+","メタリックブルーの羽根がとても綺麗なの。きらきら光っ
+て、遠くからでもわかるくらい。
+","光を反射するってことか？
+",[],它那金属蓝色的翅膀非常漂亮。闪闪发亮，远远就能看见。,,MATCH,125,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,6,stream=0x26000;block=0x710;text=6,"[""stream=0x26000;block=0x710;text=6""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","メタリックブルーの羽根がとても綺麗なの。きらきら光っ
+て、遠くからでもわかるくらい。
+","光を反射するってことか？
+","そう。構造色って言ってね。モルフォの鱗粉には細かい凹
+凸があって、そこで光が干渉して青く見える。
+",[],也就是说，它会反射光？,,MATCH,37,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,7,stream=0x26000;block=0x710;text=7,"[""stream=0x26000;block=0x710;text=7""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","光を反射するってことか？
+","そう。構造色って言ってね。モルフォの鱗粉には細かい凹
+凸があって、そこで光が干渉して青く見える。
+","凹凸の間隔が、青い光の波長と同期していて…。
+",[],对。这叫结构色。闪蝶的鳞粉表面有细微的凹凸，光线在那里发生干涉，所以看起来是蓝色的。,,MATCH,143,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_SURFACE_STRUCTURE_PRIMARY
+BRIEFING_FILES_BLOCK_026710,8,stream=0x26000;block=0x710;text=8,"[""stream=0x26000;block=0x710;text=8""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","そう。構造色って言ってね。モルフォの鱗粉には細かい凹
+凸があって、そこで光が干渉して青く見える。
+","凹凸の間隔が、青い光の波長と同期していて…。
+","よくわからんが、もしその間隔を変えられるとしたら、見
+た目の色も変わるってことか？
+",[],那些凹凸的间距与蓝光的波长相吻合……,,MATCH,67,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,9,stream=0x26000;block=0x710;text=9,"[""stream=0x26000;block=0x710;text=9""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","凹凸の間隔が、青い光の波長と同期していて…。
+","よくわからんが、もしその間隔を変えられるとしたら、見
+た目の色も変わるってことか？
+","原理的にはそう。その応用で、布を染めずに色をつける研
+究もされているって聞いたことがある。
+",[],虽然我没太明白，不过如果能改变那个间距，看起来的颜色也会跟着变？,,MATCH,122,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_LEADIN_RESTORED
+BRIEFING_FILES_BLOCK_026710,10,stream=0x26000;block=0x710;text=10,"[""stream=0x26000;block=0x710;text=10""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","よくわからんが、もしその間隔を変えられるとしたら、見
+た目の色も変わるってことか？
+","原理的にはそう。その応用で、布を染めずに色をつける研
+究もされているって聞いたことがある。
+","カムフラージュに利用できるかも知れんな…。
+",[],原理上是这样。我听说还有人把它应用在研究中，不用染料也能给布料着色。,,MATCH,134,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,11,stream=0x26000;block=0x710;text=11,"[""stream=0x26000;block=0x710;text=11""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","原理的にはそう。その応用で、布を染めずに色をつける研
+究もされているって聞いたことがある。
+","カムフラージュに利用できるかも知れんな…。
+","そんな話？
+",[],也许能用来做迷彩……,,MATCH,64,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,12,stream=0x26000;block=0x710;text=12,"[""stream=0x26000;block=0x710;text=12""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","カムフラージュに利用できるかも知れんな…。
+","そんな話？
+","俺達には重要なんだ。しかし、なぜピースウォーカーにそ
+んな蝶を…。
+",[],你想到的就是这个？,,MATCH,16,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_026710,13,stream=0x26000;block=0x710;text=13,"[""stream=0x26000;block=0x710;text=13""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","そんな話？
+","俺達には重要なんだ。しかし、なぜピースウォーカーにそ
+んな蝶を…。
+","綺麗だからじゃないかな。
+",[],这对我们很重要。不过，为什么要在和平行者上画那种蝴蝶……,,MATCH,98,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,14,stream=0x26000;block=0x710;text=14,"[""stream=0x26000;block=0x710;text=14""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","俺達には重要なんだ。しかし、なぜピースウォーカーにそ
+んな蝶を…。
+","綺麗だからじゃないかな。
+","それだけならいいが…。
+",[],也许只是因为漂亮吧。,,MATCH,37,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_026710,15,stream=0x26000;block=0x710;text=15,"[""stream=0x26000;block=0x710;text=15""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x710;block_file=0x26710;text_base=0x26770;capacity=1176""]","綺麗だからじゃないかな。
+","それだけならいいが…。
+",,[],但愿只是这样……,,MATCH,34,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

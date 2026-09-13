@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02E610,0,stream=0x2E000;block=0x610;text=0,"[""stream=0x2E000;block=0x610;text=0""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]",,"そのあたりに、巨大な遺跡なんてあったかな…。
+","言ってたな。コスタリカの古代文明については、わかって
+いないことも多いと。
+",[],那一带有那么巨大的遗迹吗……,,MATCH,67,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_QUESTIONING_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_02E610,1,stream=0x2E000;block=0x610;text=1,"[""stream=0x2E000;block=0x610;text=1""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","そのあたりに、巨大な遺跡なんてあったかな…。
+","言ってたな。コスタリカの古代文明については、わかって
+いないことも多いと。
+","大きな石の球が転がってるって話もしてたな。何のことだ？
+",[],你说过吧，关于哥斯达黎加的古代文明，还有很多不为人知的事。,,MATCH,110,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02E610,2,stream=0x2E000;block=0x610;text=2,"[""stream=0x2E000;block=0x610;text=2""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","言ってたな。コスタリカの古代文明については、わかって
+いないことも多いと。
+","大きな石の球が転がってるって話もしてたな。何のことだ？
+","『コスタリカの石球』のことね。50年くらい前に、コスタ
+リカのジャングルで見つかった、巨大な石の球のことよ。
+それもたくさん。
+",[],你还说过那里滚着巨大的石球。那是什么？,,MATCH,82,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_NEXT_ROW_CONTENT_REMOVED_PER_JPN
+BRIEFING_FILES_BLOCK_02E610,3,stream=0x2E000;block=0x610;text=3,"[""stream=0x2E000;block=0x610;text=3""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","大きな石の球が転がってるって話もしてたな。何のことだ？
+","『コスタリカの石球』のことね。50年くらい前に、コスタ
+リカのジャングルで見つかった、巨大な石の球のことよ。
+それもたくさん。
+","石くらい、珍しくもないだろう。
+",[],就是“哥斯达黎加石球”。大约50年前在哥斯达黎加丛林里发现了许多巨大的石球。,,MATCH,182,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MANY_SPHERES_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_02E610,4,stream=0x2E000;block=0x610;text=4,"[""stream=0x2E000;block=0x610;text=4""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","『コスタリカの石球』のことね。50年くらい前に、コスタ
+リカのジャングルで見つかった、巨大な石の球のことよ。
+それもたくさん。
+","石くらい、珍しくもないだろう。
+","それが、ほぼ完全な球体だとしても？　それも、球は花崗
+岩なの。かなり固い岩石よ。
+",[],不过是石头，没什么稀奇的吧。,,MATCH,46,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_02E610,5,stream=0x2E000;block=0x610;text=5,"[""stream=0x2E000;block=0x610;text=5""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","石くらい、珍しくもないだろう。
+","それが、ほぼ完全な球体だとしても？　それも、球は花崗
+岩なの。かなり固い岩石よ。
+","なら、トラップに使えるかも知れんな。真円なら転がりや
+すいだろうし…。
+",[],就算它们几乎是完美的球体也一样？而且那些石球是花岗岩，硬度相当高。,,MATCH,119,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_GRANITE_DETAIL_REJOINED_PER_JPN
+BRIEFING_FILES_BLOCK_02E610,6,stream=0x2E000;block=0x610;text=6,"[""stream=0x2E000;block=0x610;text=6""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","それが、ほぼ完全な球体だとしても？　それも、球は花崗
+岩なの。かなり固い岩石よ。
+","なら、トラップに使えるかも知れんな。真円なら転がりや
+すいだろうし…。
+","スネーク…。
+",[],那或许能拿来设陷阱。既然这么圆，应该也很容易滚动……,,MATCH,104,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02E610,7,stream=0x2E000;block=0x610;text=7,"[""stream=0x2E000;block=0x610;text=7""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0x610;block_file=0x2E610;text_base=0x2E650;capacity=740""]","なら、トラップに使えるかも知れんな。真円なら転がりや
+すいだろうし…。
+","スネーク…。
+",,[],Snake……,,MATCH,19,11,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

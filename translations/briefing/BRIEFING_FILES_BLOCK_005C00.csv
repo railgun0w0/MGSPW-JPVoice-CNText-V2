@@ -1,0 +1,70 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_005C00,0,stream=0x5000;block=0xC00;text=0,"[""stream=0x5000;block=0xC00;text=0""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]",,"スネーク、差し支えなければ訊きたいんだが。
+","なんだ、いつものように図々しくしたらどうだ。
+",[],Snake，如果不介意的话，我想问你件事。,,MATCH,64,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_005C00,1,stream=0x5000;block=0xC00;text=1,"[""stream=0x5000;block=0xC00;text=1""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","スネーク、差し支えなければ訊きたいんだが。
+","なんだ、いつものように図々しくしたらどうだ。
+","…あー、CIAの<R=準軍事部隊,パラミリタリー>に所属していたことがあるんだ
+よな。
+",[],怎么了，像平时那样厚着脸皮问不就行了。,,MATCH,67,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_PARAPHRASE_IGNORED
+BRIEFING_FILES_BLOCK_005C00,2,stream=0x5000;block=0xC00;text=2,"[""stream=0x5000;block=0xC00;text=2""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","なんだ、いつものように図々しくしたらどうだ。
+","…あー、CIAの<R=準軍事部隊,パラミリタリー>に所属していたことがあるんだ
+よな。
+","そうだ。
+","[""<R=準軍事部隊,パラミリタリー>""]","……啊——你以前待过CIA的<R=准军事部队,パラミリタリー>吧。","<R=准军事部队,パラミリタリー>",MATCH,112,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_005C00,3,stream=0x5000;block=0xC00;text=3,"[""stream=0x5000;block=0xC00;text=3""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","…あー、CIAの<R=準軍事部隊,パラミリタリー>に所属していたことがあるんだ
+よな。
+","そうだ。
+","中米でも作戦を？
+",[],对。,,MATCH,13,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_005C00,4,stream=0x5000;block=0xC00;text=4,"[""stream=0x5000;block=0xC00;text=4""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","そうだ。
+","中米でも作戦を？
+","いや、それはない。だが、別の部隊は色々やってたようだ。
+",[],也在中美洲执行过任务？,,MATCH,25,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_005C00,5,stream=0x5000;block=0xC00;text=5,"[""stream=0x5000;block=0xC00;text=5""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","中米でも作戦を？
+","いや、それはない。だが、別の部隊は色々やってたようだ。
+","61年のピッグス湾事件は俺もよく覚えている。新聞が派手
+に書き立てたからな。
+",[],不，那倒没有。不过其他部队似乎干过不少事。,,MATCH,82,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_005C00,6,stream=0x5000;block=0xC00;text=6,"[""stream=0x5000;block=0xC00;text=6""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","いや、それはない。だが、別の部隊は色々やってたようだ。
+","61年のピッグス湾事件は俺もよく覚えている。新聞が派手
+に書き立てたからな。
+","『ザパタ作戦』。手ひどい結果に終わった。
+",[],61年的猪湾事件我也记得很清楚。报纸当时可是大肆报道。,,MATCH,109,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_PARTIAL
+BRIEFING_FILES_BLOCK_005C00,7,stream=0x5000;block=0xC00;text=7,"[""stream=0x5000;block=0xC00;text=7""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","61年のピッグス湾事件は俺もよく覚えている。新聞が派手
+に書き立てたからな。
+","『ザパタ作戦』。手ひどい結果に終わった。
+","それにボリビアでのゲバラ<R=追討,ハントダウン>。これもCIAが関与したと
+言われてるが…。
+",[],『扎帕塔行动』。最后落得了惨痛的结果。,,MATCH,61,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_SHIFTED_REFERENCE_IGNORED;JAPANESE_DOUBLE_CORNER_QUOTES_PRESERVED
+BRIEFING_FILES_BLOCK_005C00,8,stream=0x5000;block=0xC00;text=8,"[""stream=0x5000;block=0xC00;text=8""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","『ザパタ作戦』。手ひどい結果に終わった。
+","それにボリビアでのゲバラ<R=追討,ハントダウン>。これもCIAが関与したと
+言われてるが…。
+","MSPだとかSOGだとかいった名前も聞くが、俺の原隊、
+FOXと似た性格の下部組織がいくつかある。
+","[""<R=追討,ハントダウン>""]","还有在玻利维亚对格瓦拉的<R=追捕,ハントダウン>。据说CIA也参与了……","<R=追捕,ハントダウン>",MATCH,124,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_SEGMENTATION_IGNORED
+BRIEFING_FILES_BLOCK_005C00,9,stream=0x5000;block=0xC00;text=9,"[""stream=0x5000;block=0xC00;text=9""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","それにボリビアでのゲバラ<R=追討,ハントダウン>。これもCIAが関与したと
+言われてるが…。
+","MSPだとかSOGだとかいった名前も聞くが、俺の原隊、
+FOXと似た性格の下部組織がいくつかある。
+","特殊部隊出身の要員に諜報員としての訓練を施し、“<R=否定できる,ディナイアブルな>”
+秘密の準軍事作戦に従事させるんだ。
+",[],听说还有MSP、SOG之类的名字。有好几个性质和我原来的部队FOX相似的下属组织。,,MATCH,128,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_005C00,10,stream=0x5000;block=0xC00;text=10,"[""stream=0x5000;block=0xC00;text=10""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","MSPだとかSOGだとかいった名前も聞くが、俺の原隊、
+FOXと似た性格の下部組織がいくつかある。
+","特殊部隊出身の要員に諜報員としての訓練を施し、“<R=否定できる,ディナイアブルな>”
+秘密の準軍事作戦に従事させるんだ。
+","その連中がボリビア政府軍に対ゲリラ戦術を教え…。
+","[""<R=否定できる,ディナイアブルな>""]","他们把特种部队出身的人员训练成情报特工，让其从事“<R=可否认的,ディナイアブルな>”秘密准军事行动。","<R=可否认的,ディナイアブルな>",MATCH,172,143,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_005C00,11,stream=0x5000;block=0xC00;text=11,"[""stream=0x5000;block=0xC00;text=11""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","特殊部隊出身の要員に諜報員としての訓練を施し、“<R=否定できる,ディナイアブルな>”
+秘密の準軍事作戦に従事させるんだ。
+","その連中がボリビア政府軍に対ゲリラ戦術を教え…。
+","…ゲバラを討たせた。
+",[],就是那些人教了玻利维亚政府军反游击战术……,,MATCH,73,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_005C00,12,stream=0x5000;block=0xC00;text=12,"[""stream=0x5000;block=0xC00;text=12""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","その連中がボリビア政府軍に対ゲリラ戦術を教え…。
+","…ゲバラを討たせた。
+","だろうな。
+",[],……再让他们杀掉了格瓦拉。,,MATCH,31,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_005C00,13,stream=0x5000;block=0xC00;text=13,"[""stream=0x5000;block=0xC00;text=13""]",1,BRIEFING FILES,"[""stream=0x5000;block=0xC00;block_file=0x5C00;text_base=0x5C58;capacity=1092""]","…ゲバラを討たせた。
+","だろうな。
+",,[],应该是吧。,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_HEARSAY_NUANCE_IGNORED

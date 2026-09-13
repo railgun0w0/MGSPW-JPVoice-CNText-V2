@@ -1,0 +1,84 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_380E80,0,stream=0x380000;block=0xE80;text=0,"[""stream=0x380000;block=0xE80;text=0""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]",,"ボス、もう一点報告させてくれ。
+","まだ何かあるのか…。
+",[],"Boss，再让我报告一件事。
+",,MATCH,46,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,1,stream=0x380000;block=0xE80;text=1,"[""stream=0x380000;block=0xE80;text=1""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","ボス、もう一点報告させてくれ。
+","まだ何かあるのか…。
+","アマンダの居る『診療所』だが、
+他にも怪我人や病人が出たら、収容する予定だ。
+",[],"还有事吗……。
+",,MATCH,31,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,2,stream=0x380000;block=0xE80;text=2,"[""stream=0x380000;block=0xE80;text=2""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","まだ何かあるのか…。
+","アマンダの居る『診療所』だが、
+他にも怪我人や病人が出たら、収容する予定だ。
+","とはいえ、適切な処置をしなければ、
+治る怪我も治らない。
+",[],"Amanda所在的“医务室”，
+如果再出现伤员或病人，也打算收治他们。
+",,MATCH,113,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,3,stream=0x380000;block=0xE80;text=3,"[""stream=0x380000;block=0xE80;text=3""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","アマンダの居る『診療所』だが、
+他にも怪我人や病人が出たら、収容する予定だ。
+","とはいえ、適切な処置をしなければ、
+治る怪我も治らない。
+","ああ。
+",[],"不过，要是不进行适当治疗，
+本来能治好的伤也治不好。
+",,MATCH,83,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,4,stream=0x380000;block=0xE80;text=4,"[""stream=0x380000;block=0xE80;text=4""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","とはいえ、適切な処置をしなければ、
+治る怪我も治らない。
+","ああ。
+","そこで怪我人や病人の手当のため、
+『医療班』を作ろうと思う。
+",[],"嗯。
+",,MATCH,10,7,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,5,stream=0x380000;block=0xE80;text=5,"[""stream=0x380000;block=0xE80;text=5""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","ああ。
+","そこで怪我人や病人の手当のため、
+『医療班』を作ろうと思う。
+","医療班の人数と能力次第で、
+怪我や病気の回復を早めることもできる。
+",[],"所以为了照顾伤员和病人，
+我打算成立“医疗班”。
+",,MATCH,89,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,6,stream=0x380000;block=0xE80;text=6,"[""stream=0x380000;block=0xE80;text=6""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","そこで怪我人や病人の手当のため、
+『医療班』を作ろうと思う。
+","医療班の人数と能力次第で、
+怪我や病気の回復を早めることもできる。
+","彼らには、日頃から兵士達の健康管理も
+担当してもらう予定だ。
+",[],"医疗班的人数和能力够高的话，
+也能加快伤病的恢复。
+",,MATCH,98,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,7,stream=0x380000;block=0xE80;text=7,"[""stream=0x380000;block=0xE80;text=7""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","医療班の人数と能力次第で、
+怪我や病気の回復を早めることもできる。
+","彼らには、日頃から兵士達の健康管理も
+担当してもらう予定だ。
+","そうだな。
+病気になってから困るより、予防が大切だ。
+",[],"平时也打算让他们负责士兵们的健康管理。
+",,MATCH,89,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,8,stream=0x380000;block=0xE80;text=8,"[""stream=0x380000;block=0xE80;text=8""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","彼らには、日頃から兵士達の健康管理も
+担当してもらう予定だ。
+","そうだな。
+病気になってから困るより、予防が大切だ。
+","その通りだ。
+ボス、あんたも“手洗い・うがい”を
+忘れないでくれよ。
+",[],"是啊。与其等生病了再头疼，
+预防更重要。
+",,MATCH,77,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,9,stream=0x380000;block=0xE80;text=9,"[""stream=0x380000;block=0xE80;text=9""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","そうだな。
+病気になってから困るより、予防が大切だ。
+","その通りだ。
+ボス、あんたも“手洗い・うがい”を
+忘れないでくれよ。
+","そんな余裕がありゃいいんだがな…。
+",[],"没错。
+Boss，你也别忘了“洗手、漱口”。
+",,MATCH,99,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_380E80,10,stream=0x380000;block=0xE80;text=10,"[""stream=0x380000;block=0xE80;text=10""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0xE80;block_file=0x380E80;text_base=0x380ECC;capacity=800""]","その通りだ。
+ボス、あんたも“手洗い・うがい”を
+忘れないでくれよ。
+","そんな余裕がありゃいいんだがな…。
+",,[],"要是有那种闲工夫就好了……。
+",,MATCH,52,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

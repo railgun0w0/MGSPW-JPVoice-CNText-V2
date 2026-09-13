@@ -1,0 +1,78 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_073C10,0,stream=0x73000;block=0xC10;text=0,"[""stream=0x73000;block=0xC10;text=0""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]",,"ピューパは圧搾空気を噴射することで機体後部を浮かせ、
+機動力を高めているんだ。
+","推進にはキャタピラとブースターを組み合わせている。
+",[],Pupa通过喷射压缩空气让机体后部浮起，以提高机动性。,,MATCH,116,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,1,stream=0x73000;block=0xC10;text=1,"[""stream=0x73000;block=0xC10;text=1""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ピューパは圧搾空気を噴射することで機体後部を浮かせ、
+機動力を高めているんだ。
+","推進にはキャタピラとブースターを組み合わせている。
+","高速で突進するような動きは、ブースターによるものだ。
+",[],推进时则把履带和助推器结合使用。,,MATCH,76,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,2,stream=0x73000;block=0xC10;text=2,"[""stream=0x73000;block=0xC10;text=2""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","推進にはキャタピラとブースターを組み合わせている。
+","高速で突進するような動きは、ブースターによるものだ。
+","ブースターを破壊すれば突進は防げる？
+",[],那种高速突进的动作，就是靠助推器完成的。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,3,stream=0x73000;block=0xC10;text=3,"[""stream=0x73000;block=0xC10;text=3""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","高速で突進するような動きは、ブースターによるものだ。
+","ブースターを破壊すれば突進は防げる？
+","その通りだ。
+",[],破坏助推器，就能阻止它突进？,,MATCH,55,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,4,stream=0x73000;block=0xC10;text=4,"[""stream=0x73000;block=0xC10;text=4""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ブースターを破壊すれば突進は防げる？
+","その通りだ。
+","まあ、突進はホフクでピューパの下に潜り込めばかわせる
+だろうけど…。
+",[],没错。,,MATCH,19,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,5,stream=0x73000;block=0xC10;text=5,"[""stream=0x73000;block=0xC10;text=5""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","その通りだ。
+","まあ、突進はホフクでピューパの下に潜り込めばかわせる
+だろうけど…。
+","あ、それから、ピューパには電撃ユニットが装備されてい
+る。
+",[],不过，突进时只要匍匐钻到Pupa下面，应该也能躲开……,,MATCH,101,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,6,stream=0x73000;block=0xC10;text=6,"[""stream=0x73000;block=0xC10;text=6""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","まあ、突進はホフクでピューパの下に潜り込めばかわせる
+だろうけど…。
+","あ、それから、ピューパには電撃ユニットが装備されてい
+る。
+","電撃を誘導するための、避雷針のようなものも搭載してい
+る。
+",[],啊，还有，Pupa装备了电击装置。,,MATCH,86,43,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,7,stream=0x73000;block=0xC10;text=7,"[""stream=0x73000;block=0xC10;text=7""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","あ、それから、ピューパには電撃ユニットが装備されてい
+る。
+","電撃を誘導するための、避雷針のようなものも搭載してい
+る。
+","それは電撃を撃たれる前に壊してしまいたいところだな。
+",[],它还装有类似避雷针的东西，用来引导电击。,,MATCH,86,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,8,stream=0x73000;block=0xC10;text=8,"[""stream=0x73000;block=0xC10;text=8""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","電撃を誘導するための、避雷針のようなものも搭載してい
+る。
+","それは電撃を撃たれる前に壊してしまいたいところだな。
+","ああ。あとは…AIで動いているメカの共通点だけど、AIを
+破壊すれば行動不能になる。
+",[],那最好在它放电之前就先破坏掉。,,MATCH,79,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,9,stream=0x73000;block=0xC10;text=9,"[""stream=0x73000;block=0xC10;text=9""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","それは電撃を撃たれる前に壊してしまいたいところだな。
+","ああ。あとは…AIで動いているメカの共通点だけど、AIを
+破壊すれば行動不能になる。
+","ハッチをこじ開けて乗り込めば、AIの記憶板を抜き取れる。
+そうなったらこっちのもんだ。
+",[],对。还有一点是AI驱动机械的共同弱点：只要破坏AI，它就无法行动。,,MATCH,117,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,10,stream=0x73000;block=0xC10;text=10,"[""stream=0x73000;block=0xC10;text=10""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ああ。あとは…AIで動いているメカの共通点だけど、AIを
+破壊すれば行動不能になる。
+","ハッチをこじ開けて乗り込めば、AIの記憶板を抜き取れる。
+そうなったらこっちのもんだ。
+","記憶板は何かに再利用できるかもしれない。できそうなら
+AIポッドへの乗り込みを試してみてくれ。
+",[],只要撬开舱门进入内部，就能拔掉AI的记忆板。那样就好办了。,,MATCH,124,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,11,stream=0x73000;block=0xC10;text=11,"[""stream=0x73000;block=0xC10;text=11""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","ハッチをこじ開けて乗り込めば、AIの記憶板を抜き取れる。
+そうなったらこっちのもんだ。
+","記憶板は何かに再利用できるかもしれない。できそうなら
+AIポッドへの乗り込みを試してみてくれ。
+","とはいえ、まずはある程度ダメージを与えて動きを止めな
+いと、乗り込むこともできない。
+",[],那些记忆板说不定还能再利用。如果有机会，就试着进入AI Pod。,,MATCH,136,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,12,stream=0x73000;block=0xC10;text=12,"[""stream=0x73000;block=0xC10;text=12""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","記憶板は何かに再利用できるかもしれない。できそうなら
+AIポッドへの乗り込みを試してみてくれ。
+","とはいえ、まずはある程度ダメージを与えて動きを止めな
+いと、乗り込むこともできない。
+","わかった。まずは正攻法で攻めてみよう。
+",[],不过，首先得造成一定伤害让它停下来，否则连进去都做不到。,,MATCH,125,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_073C10,13,stream=0x73000;block=0xC10;text=13,"[""stream=0x73000;block=0xC10;text=13""]",1,BRIEFING FILES,"[""stream=0x73000;block=0xC10;block_file=0x73C10;text_base=0x73C68;capacity=1272""]","とはいえ、まずはある程度ダメージを与えて動きを止めな
+いと、乗り込むこともできない。
+","わかった。まずは正攻法で攻めてみよう。
+",,[],明白。先按正面打法来吧。,,MATCH,58,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

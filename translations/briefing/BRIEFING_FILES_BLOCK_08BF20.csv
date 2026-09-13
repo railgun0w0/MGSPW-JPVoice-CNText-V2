@@ -1,0 +1,311 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_08BF20,0,stream=0x8B000;block=0xF20;text=0,"[""stream=0x8B000;block=0xF20;text=0""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]",,"『賢者達』…20世紀初頭に結ばれた米中露の秘密協定、そ
+れを支えた実力者達…。
+","もちろん、その頃既に米ソの『賢者達』は袂を分かってい
+た。
+",[],“贤者们”……那是20世纪初美国、中国、俄国缔结的秘密协定，以及支撑它的那些权势人物……。,,MATCH,112,131,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,1,stream=0x8B000;block=0xF20;text=1,"[""stream=0x8B000;block=0xF20;text=1""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","『賢者達』…20世紀初頭に結ばれた米中露の秘密協定、そ
+れを支えた実力者達…。
+","もちろん、その頃既に米ソの『賢者達』は袂を分かってい
+た。
+","でも、ソ連側の残留『賢者達』の中にも、共産党の一党独
+裁を快く思わない勢力があったの。
+",[],当然，到那时美苏两国的“贤者”早已分道扬镳。,,MATCH,86,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,2,stream=0x8B000;block=0xF20;text=2,"[""stream=0x8B000;block=0xF20;text=2""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","もちろん、その頃既に米ソの『賢者達』は袂を分かってい
+た。
+","でも、ソ連側の残留『賢者達』の中にも、共産党の一党独
+裁を快く思わない勢力があったの。
+","ザ・ボスは彼らと連絡を取った。
+",[],不过，留在苏联一方的“贤者”中，也有势力对共产党的一党独裁心怀不满。,,MATCH,128,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,3,stream=0x8B000;block=0xF20;text=3,"[""stream=0x8B000;block=0xF20;text=3""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","でも、ソ連側の残留『賢者達』の中にも、共産党の一党独
+裁を快く思わない勢力があったの。
+","ザ・ボスは彼らと連絡を取った。
+","秘密裡にベルリンで接触し、<R=ソ連第一設計局,OKB-1>へのつてを探
+った。
+",[],The Boss与他们取得了联系。,,MATCH,46,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,4,stream=0x8B000;block=0xF20;text=4,"[""stream=0x8B000;block=0xF20;text=4""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ザ・ボスは彼らと連絡を取った。
+","秘密裡にベルリンで接触し、<R=ソ連第一設計局,OKB-1>へのつてを探
+った。
+","ある時は大金を握らせ、ある時は亡命の手助けをすること
+で、シンパを懐柔したの。
+","[""<R=ソ連第一設計局,OKB-1>""]","她在柏林秘密接触这些人，寻找通往<R=苏联第一设计局,OKB-1>的门路。","<R=苏联第一设计局,OKB-1>",MATCH,99,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,5,stream=0x8B000;block=0xF20;text=5,"[""stream=0x8B000;block=0xF20;text=5""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","秘密裡にベルリンで接触し、<R=ソ連第一設計局,OKB-1>へのつてを探
+った。
+","ある時は大金を握らせ、ある時は亡命の手助けをすること
+で、シンパを懐柔したの。
+","それは彼女にとって、大きな危険を伴うものだった。
+",[],她有时塞给对方大笔金钱，有时协助他们叛逃，以此拉拢亲美者。,,MATCH,116,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,6,stream=0x8B000;block=0xF20;text=6,"[""stream=0x8B000;block=0xF20;text=6""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ある時は大金を握らせ、ある時は亡命の手助けをすること
+で、シンパを懐柔したの。
+","それは彼女にとって、大きな危険を伴うものだった。
+","『賢者達』はザ・ボスに関する情報全てを握っている。い
+え、情報だけじゃない。
+",[],对她来说，这伴随着巨大的风险。,,MATCH,73,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,7,stream=0x8B000;block=0xF20;text=7,"[""stream=0x8B000;block=0xF20;text=7""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","それは彼女にとって、大きな危険を伴うものだった。
+","『賢者達』はザ・ボスに関する情報全てを握っている。い
+え、情報だけじゃない。
+","戦場で生んだ彼女の子供も、生まれてすぐ『賢者達』に奪
+われていたの。あなたも聞いたはず。
+",[],“贤者们”掌握着The Boss的一切情报。不，还不只是情报。,,MATCH,113,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,8,stream=0x8B000;block=0xF20;text=8,"[""stream=0x8B000;block=0xF20;text=8""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","『賢者達』はザ・ボスに関する情報全てを握っている。い
+え、情報だけじゃない。
+","戦場で生んだ彼女の子供も、生まれてすぐ『賢者達』に奪
+われていたの。あなたも聞いたはず。
+","その子がもしソ連側『賢者達』の元にいたら…身の危険が
+及ぶのは彼女だけでは済まないかも知れない。
+",[],她在战场上生下的孩子，也在出生后立刻被“贤者们”夺走。这件事你应该也听说过。,,MATCH,131,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,9,stream=0x8B000;block=0xF20;text=9,"[""stream=0x8B000;block=0xF20;text=9""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","戦場で生んだ彼女の子供も、生まれてすぐ『賢者達』に奪
+われていたの。あなたも聞いたはず。
+","その子がもしソ連側『賢者達』の元にいたら…身の危険が
+及ぶのは彼女だけでは済まないかも知れない。
+","それでも彼女はそうするしかなかった。
+",[],如果那个孩子落在苏联一方“贤者”的手中……遭遇危险的也许就不只是她一个人。,,MATCH,143,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,10,stream=0x8B000;block=0xF20;text=10,"[""stream=0x8B000;block=0xF20;text=10""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","その子がもしソ連側『賢者達』の元にいたら…身の危険が
+及ぶのは彼女だけでは済まないかも知れない。
+","それでも彼女はそうするしかなかった。
+","当時、ソ連のミサイル配備はアメリカの遙か上を行ってい
+ると思われていた。
+",[],即便如此，她也别无选择。,,MATCH,55,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,11,stream=0x8B000;block=0xF20;text=11,"[""stream=0x8B000;block=0xF20;text=11""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","それでも彼女はそうするしかなかった。
+","当時、ソ連のミサイル配備はアメリカの遙か上を行ってい
+ると思われていた。
+","もしそれが本当なら、ソ連からは核抑止の軛が外れている
+ことになる。
+",[],当时，人们认为苏联部署的导弹数量远远超过美国。,,MATCH,107,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,12,stream=0x8B000;block=0xF20;text=12,"[""stream=0x8B000;block=0xF20;text=12""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","当時、ソ連のミサイル配備はアメリカの遙か上を行ってい
+ると思われていた。
+","もしそれが本当なら、ソ連からは核抑止の軛が外れている
+ことになる。
+","ひとたび何かあれば、ソ連は核を撃つかも知れない…。
+",[],如果这是真的，就意味着苏联已经摆脱了核威慑的枷锁。,,MATCH,98,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,13,stream=0x8B000;block=0xF20;text=13,"[""stream=0x8B000;block=0xF20;text=13""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","もしそれが本当なら、ソ連からは核抑止の軛が外れている
+ことになる。
+","ひとたび何かあれば、ソ連は核を撃つかも知れない…。
+","あなたも知っている通り、ミサイル・ギャップはソ連のは
+ったりだった。
+",[],一旦发生什么，苏联甚至可能真的发射核武器……。,,MATCH,76,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,14,stream=0x8B000;block=0xF20;text=14,"[""stream=0x8B000;block=0xF20;text=14""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ひとたび何かあれば、ソ連は核を撃つかも知れない…。
+","あなたも知っている通り、ミサイル・ギャップはソ連のは
+ったりだった。
+","ソ連はその情報を信じ込ませるために全精力を注いでいた
+し、結局は宇宙開発ですらその一環だったとも言える。
+",[],但你也知道，所谓“导弹差距”其实只是苏联的虚张声势。,,MATCH,101,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,15,stream=0x8B000;block=0xF20;text=15,"[""stream=0x8B000;block=0xF20;text=15""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","あなたも知っている通り、ミサイル・ギャップはソ連のは
+ったりだった。
+","ソ連はその情報を信じ込ませるために全精力を注いでいた
+し、結局は宇宙開発ですらその一環だったとも言える。
+","でも、当時はそれがわからなかった。
+",[],苏联倾尽全力让外界相信这个假象，甚至可以说，他们的太空开发本身也是这场骗局的一部分。,,MATCH,155,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,16,stream=0x8B000;block=0xF20;text=16,"[""stream=0x8B000;block=0xF20;text=16""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ソ連はその情報を信じ込ませるために全精力を注いでいた
+し、結局は宇宙開発ですらその一環だったとも言える。
+","でも、当時はそれがわからなかった。
+","彼女は自嘲気味にこう言っていた。「私も、ミサイル・ギ
+ャップという情報に踊らされたひとりだ」って。
+",[],可在当时，谁也不知道这一点。,,MATCH,52,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,17,stream=0x8B000;block=0xF20;text=17,"[""stream=0x8B000;block=0xF20;text=17""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","でも、当時はそれがわからなかった。
+","彼女は自嘲気味にこう言っていた。「私も、ミサイル・ギ
+ャップという情報に踊らされたひとりだ」って。
+","彼女は<R=祖国,アメリカ>のため、そして核戦争回避のために、火中の栗
+を拾いに行ったのよ。
+",[],她曾带着自嘲说：“我也是被‘导弹差距’这条情报耍得团团转的人之一。”,,MATCH,146,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,18,stream=0x8B000;block=0xF20;text=18,"[""stream=0x8B000;block=0xF20;text=18""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","彼女は自嘲気味にこう言っていた。「私も、ミサイル・ギ
+ャップという情報に踊らされたひとりだ」って。
+","彼女は<R=祖国,アメリカ>のため、そして核戦争回避のために、火中の栗
+を拾いに行ったのよ。
+","彼女の身を挺した努力によって、何とか<R=設計局,OKB-1>内にスリー
+パーが確保できた。
+","[""<R=祖国,アメリカ>""]","为了<R=祖国,AMERICA>，也为了避免核战争，她主动踏进了险境。","<R=祖国,AMERICA>",MATCH,127,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,19,stream=0x8B000;block=0xF20;text=19,"[""stream=0x8B000;block=0xF20;text=19""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","彼女は<R=祖国,アメリカ>のため、そして核戦争回避のために、火中の栗
+を拾いに行ったのよ。
+","彼女の身を挺した努力によって、何とか<R=設計局,OKB-1>内にスリー
+パーが確保できた。
+","<R=アメリカ航空宇宙局,NASA>は、東側の膨大な技術情報を手に入れ
+られるようになった。
+","[""<R=設計局,OKB-1>""]","在她不惜性命的努力下，总算在<R=设计局,OKB-1>内部安插了一名潜伏特工。","<R=设计局,OKB-1>",MATCH,117,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,20,stream=0x8B000;block=0xF20;text=20,"[""stream=0x8B000;block=0xF20;text=20""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","彼女の身を挺した努力によって、何とか<R=設計局,OKB-1>内にスリー
+パーが確保できた。
+","<R=アメリカ航空宇宙局,NASA>は、東側の膨大な技術情報を手に入れ
+られるようになった。
+","59年の末には、チンパンジーの「サム」を乗せたロケット
+が弾道飛行に成功。
+","[""<R=アメリカ航空宇宙局,NASA>""]","<R=美国国家航空航天局,NASA>也因此开始获得东方阵营的大量技术情报。","<R=美国国家航空航天局,NASA>",MATCH,119,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,21,stream=0x8B000;block=0xF20;text=21,"[""stream=0x8B000;block=0xF20;text=21""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","<R=アメリカ航空宇宙局,NASA>は、東側の膨大な技術情報を手に入れ
+られるようになった。
+","59年の末には、チンパンジーの「サム」を乗せたロケット
+が弾道飛行に成功。
+","あくまで大気圏内の弾道飛行だけど、この成功はNASAに
+強い技術的な確信を与えたの。
+",[],到1959年底，搭载黑猩猩“Sam”的火箭成功完成了弹道飞行。,,MATCH,106,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,22,stream=0x8B000;block=0xF20;text=22,"[""stream=0x8B000;block=0xF20;text=22""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","59年の末には、チンパンジーの「サム」を乗せたロケット
+が弾道飛行に成功。
+","あくまで大気圏内の弾道飛行だけど、この成功はNASAに
+強い技術的な確信を与えたの。
+","そうやって活動が軌道に乗った頃になって、CIAが声をか
+けてきた。
+",[],虽然只是大气层内的弹道飞行，但这次成功让NASA对自己的技术充满信心。,,MATCH,117,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,23,stream=0x8B000;block=0xF20;text=23,"[""stream=0x8B000;block=0xF20;text=23""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","あくまで大気圏内の弾道飛行だけど、この成功はNASAに
+強い技術的な確信を与えたの。
+","そうやって活動が軌道に乗った頃になって、CIAが声をか
+けてきた。
+","「大戦の英雄であるあなたが、いつまでも<R=汚れ仕事,BLACK OPS>を続け
+ることはない。後は我々が引き継ごう」って。
+",[],就在行动逐渐步入正轨时，CIA找上了门。,,MATCH,92,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,24,stream=0x8B000;block=0xF20;text=24,"[""stream=0x8B000;block=0xF20;text=24""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","そうやって活動が軌道に乗った頃になって、CIAが声をか
+けてきた。
+","「大戦の英雄であるあなたが、いつまでも<R=汚れ仕事,BLACK OPS>を続け
+ることはない。後は我々が引き継ごう」って。
+","要は成果を横取りしようということよ。
+","[""<R=汚れ仕事,BLACK OPS>""]","他们说：“你是大战英雄，没必要一直做这种<R=脏活,BLACK OPS>。剩下的就交给我们吧。”","<R=脏活,BLACK OPS>",MATCH,157,116,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,25,stream=0x8B000;block=0xF20;text=25,"[""stream=0x8B000;block=0xF20;text=25""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","「大戦の英雄であるあなたが、いつまでも<R=汚れ仕事,BLACK OPS>を続け
+ることはない。後は我々が引き継ごう」って。
+","要は成果を横取りしようということよ。
+","でも、ザ・ボスは素直に譲った。「私が必要とされる<R=局面,フェイズ>
+は終わった。その後の評価に興味はない」って。
+",[],说穿了，他们只是想把成果据为己有。,,MATCH,55,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,26,stream=0x8B000;block=0xF20;text=26,"[""stream=0x8B000;block=0xF20;text=26""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","要は成果を横取りしようということよ。
+","でも、ザ・ボスは素直に譲った。「私が必要とされる<R=局面,フェイズ>
+は終わった。その後の評価に興味はない」って。
+","NASAが成果を上げる一方で、ソ連の有人飛行計画は進展
+していないように見えた。
+","[""<R=局面,フェイズ>""]","但The Boss干脆地让了出去。她说：“需要我的<R=阶段,PHASE>已经结束了。之后别人怎么评价，我不感兴趣。”","<R=阶段,PHASE>",MATCH,163,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,27,stream=0x8B000;block=0xF20;text=27,"[""stream=0x8B000;block=0xF20;text=27""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","でも、ザ・ボスは素直に譲った。「私が必要とされる<R=局面,フェイズ>
+は終わった。その後の評価に興味はない」って。
+","NASAが成果を上げる一方で、ソ連の有人飛行計画は進展
+していないように見えた。
+","「東側の技術者達は、サムの生還にうろたえている」。
+",[],NASA不断取得成果，而苏联的载人航天计划看起来却没有进展。,,MATCH,111,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,28,stream=0x8B000;block=0xF20;text=28,"[""stream=0x8B000;block=0xF20;text=28""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","NASAが成果を上げる一方で、ソ連の有人飛行計画は進展
+していないように見えた。
+","「東側の技術者達は、サムの生還にうろたえている」。
+","潜入中のスリーパーは、そう報告してきた。
+",[],“东方的技术人员正因为Sam平安归来而慌了手脚。”,,MATCH,76,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,29,stream=0x8B000;block=0xF20;text=29,"[""stream=0x8B000;block=0xF20;text=29""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","「東側の技術者達は、サムの生還にうろたえている」。
+","潜入中のスリーパーは、そう報告してきた。
+","ソ連はスプートニク2号で、早々に宇宙へ生物を打ち上げ
+ていた。「クドリャフカ」…そう、あのライカ犬よ。
+",[],潜伏其中的特工如此报告。,,MATCH,61,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,30,stream=0x8B000;block=0xF20;text=30,"[""stream=0x8B000;block=0xF20;text=30""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","潜入中のスリーパーは、そう報告してきた。
+","ソ連はスプートニク2号で、早々に宇宙へ生物を打ち上げ
+ていた。「クドリャフカ」…そう、あのライカ犬よ。
+","でも、<R=彼女,クドリャフカ>は地球に戻れなかった。
+",[],苏联早就用斯普特尼克2号把生物送上了太空。“Kudryavka”……没错，就是那只莱卡犬。,,MATCH,150,115,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,31,stream=0x8B000;block=0xF20;text=31,"[""stream=0x8B000;block=0xF20;text=31""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ソ連はスプートニク2号で、早々に宇宙へ生物を打ち上げ
+ていた。「クドリャフカ」…そう、あのライカ犬よ。
+","でも、<R=彼女,クドリャフカ>は地球に戻れなかった。
+","アメリカは、帰還する宇宙船を海で回収出来る。
+","[""<R=彼女,クドリャフカ>""]","可是，<R=她,KUDRYAVKA>没能回到地球。","<R=她,KUDRYAVKA>",MATCH,72,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,32,stream=0x8B000;block=0xF20;text=32,"[""stream=0x8B000;block=0xF20;text=32""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","でも、<R=彼女,クドリャフカ>は地球に戻れなかった。
+","アメリカは、帰還する宇宙船を海で回収出来る。
+","でも、ソ連が面しているのは氷に覆われた北極海。彼らは
+宇宙船を陸上に降ろすしかない。
+",[],美国可以让返回的航天器落入海中，再进行回收。,,MATCH,67,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,33,stream=0x8B000;block=0xF20;text=33,"[""stream=0x8B000;block=0xF20;text=33""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","アメリカは、帰還する宇宙船を海で回収出来る。
+","でも、ソ連が面しているのは氷に覆われた北極海。彼らは
+宇宙船を陸上に降ろすしかない。
+","そのために、どうやって着陸の衝撃を和らげるのか？
+",[],可苏联面向的是冰封的北冰洋。他们只能让航天器在陆地上着陆。,,MATCH,125,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,34,stream=0x8B000;block=0xF20;text=34,"[""stream=0x8B000;block=0xF20;text=34""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","でも、ソ連が面しているのは氷に覆われた北極海。彼らは
+宇宙船を陸上に降ろすしかない。
+","そのために、どうやって着陸の衝撃を和らげるのか？
+","スリーパーは「ソ連はその打開策を見つけられていない」
+そう告げていた。
+",[],那么，他们要怎样缓解着陆时的冲击？,,MATCH,73,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,35,stream=0x8B000;block=0xF20;text=35,"[""stream=0x8B000;block=0xF20;text=35""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","そのために、どうやって着陸の衝撃を和らげるのか？
+","スリーパーは「ソ連はその打開策を見つけられていない」
+そう告げていた。
+","ソ連に対する妨害も順調に見えた。
+",[],潜伏特工报告说：“苏联还没有找到解决这个问题的方法。”,,MATCH,104,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,36,stream=0x8B000;block=0xF20;text=36,"[""stream=0x8B000;block=0xF20;text=36""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","スリーパーは「ソ連はその打開策を見つけられていない」
+そう告げていた。
+","ソ連に対する妨害も順調に見えた。
+","スプートニク4号は大気圏への再突入に失敗。
+",[],对苏联太空计划的妨碍看起来也进展顺利。,,MATCH,49,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,37,stream=0x8B000;block=0xF20;text=37,"[""stream=0x8B000;block=0xF20;text=37""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ソ連に対する妨害も順調に見えた。
+","スプートニク4号は大気圏への再突入に失敗。
+","その二月後の打ち上げでは、ロケットが台座で爆発した。
+",[],斯普特尼克4号的重返大气层失败了。,,MATCH,62,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,38,stream=0x8B000;block=0xF20;text=38,"[""stream=0x8B000;block=0xF20;text=38""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","スプートニク4号は大気圏への再突入に失敗。
+","その二月後の打ち上げでは、ロケットが台座で爆発した。
+","スプートニク5号は2匹の犬を周回軌道に乗せて無事帰還し
+たけど、スリーパーからは偶然の成功と報告されていた。
+",[],两个月后的另一次发射中，火箭又在发射台上爆炸。,,MATCH,79,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,39,stream=0x8B000;block=0xF20;text=39,"[""stream=0x8B000;block=0xF20;text=39""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","その二月後の打ち上げでは、ロケットが台座で爆発した。
+","スプートニク5号は2匹の犬を周回軌道に乗せて無事帰還し
+たけど、スリーパーからは偶然の成功と報告されていた。
+","犬ならともかく、人間を安全に帰還させる技術はソ連にな
+い…。
+",[],斯普特尼克5号虽然把两只狗送入轨道并安全带回，但潜伏特工报告说，那只不过是偶然成功。,,MATCH,157,124,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,40,stream=0x8B000;block=0xF20;text=40,"[""stream=0x8B000;block=0xF20;text=40""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","スプートニク5号は2匹の犬を周回軌道に乗せて無事帰還し
+たけど、スリーパーからは偶然の成功と報告されていた。
+","犬ならともかく、人間を安全に帰還させる技術はソ連にな
+い…。
+","皆その情報を信じて、安心しきっていた。ただ一人、ザ・
+ボスその人を除いて。
+",[],狗也就罢了，苏联还没有让人类安全返回的技术……。,,MATCH,89,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,41,stream=0x8B000;block=0xF20;text=41,"[""stream=0x8B000;block=0xF20;text=41""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","犬ならともかく、人間を安全に帰還させる技術はソ連にな
+い…。
+","皆その情報を信じて、安心しきっていた。ただ一人、ザ・
+ボスその人を除いて。
+","ザ・ボスは送られてきたスプートニク5号の見取り図に疑
+問を持った。
+",[],所有人都相信了这份情报，彻底放下了戒心。只有一个人例外——The Boss本人。,,MATCH,110,104,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,42,stream=0x8B000;block=0xF20;text=42,"[""stream=0x8B000;block=0xF20;text=42""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","皆その情報を信じて、安心しきっていた。ただ一人、ザ・
+ボスその人を除いて。
+","ザ・ボスは送られてきたスプートニク5号の見取り図に疑
+問を持った。
+","そのカプセルには、不自然な射出装置が付いていたの。
+",[],The Boss对送来的斯普特尼克5号结构图产生了疑问。,,MATCH,96,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,43,stream=0x8B000;block=0xF20;text=43,"[""stream=0x8B000;block=0xF20;text=43""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ザ・ボスは送られてきたスプートニク5号の見取り図に疑
+問を持った。
+","そのカプセルには、不自然な射出装置が付いていたの。
+","「普通に考えれば、必要のない装置だ。一体何を打ち出す
+と言うのか…？」。
+",[],那个太空舱上，装着一个不自然的弹射装置。,,MATCH,76,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,44,stream=0x8B000;block=0xF20;text=44,"[""stream=0x8B000;block=0xF20;text=44""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","そのカプセルには、不自然な射出装置が付いていたの。
+","「普通に考えれば、必要のない装置だ。一体何を打ち出す
+と言うのか…？」。
+","彼女の疑問を、NASAは一蹴した。
+",[],她说：“按常理来说，根本不需要这种装置。它到底是要弹射什么……？”,,MATCH,107,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,45,stream=0x8B000;block=0xF20;text=45,"[""stream=0x8B000;block=0xF20;text=45""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","「普通に考えれば、必要のない装置だ。一体何を打ち出す
+と言うのか…？」。
+","彼女の疑問を、NASAは一蹴した。
+","「事故の際、フライトレコーダーを射出するためだろう」
+ってね。
+",[],NASA对她的疑问一笑置之。,,MATCH,44,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,46,stream=0x8B000;block=0xF20;text=46,"[""stream=0x8B000;block=0xF20;text=46""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","彼女の疑問を、NASAは一蹴した。
+","「事故の際、フライトレコーダーを射出するためだろう」
+ってね。
+","ザ・ボスは調査の必要性を主張したけれど、CIAは取り合
+わなかった。
+",[],他们说：“大概是事故时用来弹射飞行记录仪的吧。”,,MATCH,92,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,47,stream=0x8B000;block=0xF20;text=47,"[""stream=0x8B000;block=0xF20;text=47""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","「事故の際、フライトレコーダーを射出するためだろう」
+ってね。
+","ザ・ボスは調査の必要性を主張したけれど、CIAは取り合
+わなかった。
+","成果を再び自分のものにしたくて言っている。そう思われ
+たんでしょうね。
+",[],The Boss坚持有必要调查，但CIA根本不理会。,,MATCH,95,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,48,stream=0x8B000;block=0xF20;text=48,"[""stream=0x8B000;block=0xF20;text=48""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","ザ・ボスは調査の必要性を主張したけれど、CIAは取り合
+わなかった。
+","成果を再び自分のものにしたくて言っている。そう思われ
+たんでしょうね。
+","納得できない彼女は、単身ソ連へ乗り込んだ。CIAからは
+何のバックアップもなかったそうよ。
+",[],他们大概觉得，她只是想把成果重新抢回自己手里。,,MATCH,104,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,49,stream=0x8B000;block=0xF20;text=49,"[""stream=0x8B000;block=0xF20;text=49""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","成果を再び自分のものにしたくて言っている。そう思われ
+たんでしょうね。
+","納得できない彼女は、単身ソ連へ乗り込んだ。CIAからは
+何のバックアップもなかったそうよ。
+","そして年が明け、1961年になった頃、ついに自らソ連の
+<R=第一設計局,OKB-1>へと潜入を果たした。
+",[],无法接受这一点的她独自前往苏联。据说CIA没有提供任何支援。,,MATCH,128,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_08BF20,50,stream=0x8B000;block=0xF20;text=50,"[""stream=0x8B000;block=0xF20;text=50""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","納得できない彼女は、単身ソ連へ乗り込んだ。CIAからは
+何のバックアップもなかったそうよ。
+","そして年が明け、1961年になった頃、ついに自らソ連の
+<R=第一設計局,OKB-1>へと潜入を果たした。
+","そこで彼女は真実を目にすることになったの。
+","[""<R=第一設計局,OKB-1>""]","就这样跨过新年，到1961年时，她终于亲自潜入了苏联的<R=第一设计局,OKB-1>。","<R=第一设计局,OKB-1>",MATCH,130,101,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_08BF20,51,stream=0x8B000;block=0xF20;text=51,"[""stream=0x8B000;block=0xF20;text=51""]",1,BRIEFING FILES,"[""stream=0x8B000;block=0xF20;block_file=0x8BF20;text_base=0x8C010;capacity=5264""]","そして年が明け、1961年になった頃、ついに自らソ連の
+<R=第一設計局,OKB-1>へと潜入を果たした。
+","そこで彼女は真実を目にすることになったの。
+",,[],在那里，她亲眼看到了真相。,,MATCH,64,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

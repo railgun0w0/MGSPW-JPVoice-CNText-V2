@@ -1,0 +1,8 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_379BF0,0,stream=0x379000;block=0xBF0;text=0,"[""stream=0x379000;block=0xBF0;text=0""]",1,d5060_m0360_mrd,"[""stream=0x379000;block=0xBF0;block_file=0x379BF0;text_base=0x379C14;capacity=172""]",,"スネーク！　ピースウォーカーを制御しているのは
+管制塔だ！　北東の管制塔へ向かってくれ！
+俺達もすぐ援護に向かう！
+",,[],"Snake！　控制Peace Walker的是
+控制塔！　快去东北方的控制塔！
+我们也马上去支援！
+",,MATCH,168,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

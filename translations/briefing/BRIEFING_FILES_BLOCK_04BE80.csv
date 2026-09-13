@@ -1,0 +1,94 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_04BE80,0,stream=0x4B000;block=0xE80;text=0,"[""stream=0x4B000;block=0xE80;text=0""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]",,"恐竜がゾンビになって人を襲ったという伝説もあるんだ。
+","ゾンビ？　<R=生きる屍,リビング・デッド>か！？
+",[],还有恐龙变成僵尸袭击人类的传说。,,MATCH,79,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,1,stream=0x4B000;block=0xE80;text=1,"[""stream=0x4B000;block=0xE80;text=1""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","恐竜がゾンビになって人を襲ったという伝説もあるんだ。
+","ゾンビ？　<R=生きる屍,リビング・デッド>か！？
+","ああ。恐竜が絶滅しても、ゾンビとして生き返ったという
+のはあり得る話だ。
+","[""<R=生きる屍,リビング・デッド>""]","僵尸？你是说<R=活死人,LIVING DEAD>！？","<R=活死人,LIVING DEAD>",MATCH,66,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_04BE80,2,stream=0x4B000;block=0xE80;text=2,"[""stream=0x4B000;block=0xE80;text=2""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","ゾンビ？　<R=生きる屍,リビング・デッド>か！？
+","ああ。恐竜が絶滅しても、ゾンビとして生き返ったという
+のはあり得る話だ。
+","待て。恐竜かどうか以前に、そもそもゾンビ自体が現実に
+は存在しない。
+",[],嗯。就算恐龙灭绝了，也可能作为僵尸复活。,,MATCH,107,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,3,stream=0x4B000;block=0xE80;text=3,"[""stream=0x4B000;block=0xE80;text=3""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","ああ。恐竜が絶滅しても、ゾンビとして生き返ったという
+のはあり得る話だ。
+","待て。恐竜かどうか以前に、そもそもゾンビ自体が現実に
+は存在しない。
+","しっかりしてくれよボス！　ハイチの農園じゃ長いことゾ
+ンビに仕事をさせてたんだぞ。
+",[],等等。先不说是不是恐龙，僵尸这种东西本来就不存在于现实。,,MATCH,101,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,4,stream=0x4B000;block=0xE80;text=4,"[""stream=0x4B000;block=0xE80;text=4""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","待て。恐竜かどうか以前に、そもそもゾンビ自体が現実に
+は存在しない。
+","しっかりしてくれよボス！　ハイチの農園じゃ長いことゾ
+ンビに仕事をさせてたんだぞ。
+","古来、ハイチにはゾンビパウダーという秘薬が伝わってる
+んだ。
+",[],清醒点啊，Boss！海地的种植园很早以前就让僵尸干活了。,,MATCH,122,76,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,5,stream=0x4B000;block=0xE80;text=5,"[""stream=0x4B000;block=0xE80;text=5""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","しっかりしてくれよボス！　ハイチの農園じゃ長いことゾ
+ンビに仕事をさせてたんだぞ。
+","古来、ハイチにはゾンビパウダーという秘薬が伝わってる
+んだ。
+","…そうなのか？
+",[],海地自古就流传着一种叫“僵尸粉”的秘药。,,MATCH,89,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,6,stream=0x4B000;block=0xE80;text=6,"[""stream=0x4B000;block=0xE80;text=6""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","古来、ハイチにはゾンビパウダーという秘薬が伝わってる
+んだ。
+","…そうなのか？
+","きっと古代人がゾンビパウダーを使って、恐竜をゾンビに
+したんだろうな。
+",[],……是吗？,,MATCH,22,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,7,stream=0x4B000;block=0xE80;text=7,"[""stream=0x4B000;block=0xE80;text=7""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","…そうなのか？
+","きっと古代人がゾンビパウダーを使って、恐竜をゾンビに
+したんだろうな。
+","いや、人類が誕生したときにはすでに恐竜は…。
+",[],肯定是古代人用僵尸粉把恐龙变成了僵尸。,,MATCH,104,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,8,stream=0x4B000;block=0xE80;text=8,"[""stream=0x4B000;block=0xE80;text=8""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","きっと古代人がゾンビパウダーを使って、恐竜をゾンビに
+したんだろうな。
+","いや、人類が誕生したときにはすでに恐竜は…。
+","その前提が間違ってたんだよ、きっと。
+",[],不，人类诞生的时候，恐龙早就已经……。,,MATCH,67,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,9,stream=0x4B000;block=0xE80;text=9,"[""stream=0x4B000;block=0xE80;text=9""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","いや、人類が誕生したときにはすでに恐竜は…。
+","その前提が間違ってたんだよ、きっと。
+","…まあとにかく、その恐竜はすごく強かったらしい。そい
+つの名はギアレックス。殺しても死なないと言われている。
+",[],那肯定是这个前提本身就错了。,,MATCH,55,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,10,stream=0x4B000;block=0xE80;text=10,"[""stream=0x4B000;block=0xE80;text=10""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","その前提が間違ってたんだよ、きっと。
+","…まあとにかく、その恐竜はすごく強かったらしい。そい
+つの名はギアレックス。殺しても死なないと言われている。
+","体液を浴びた者は火傷したようになったという説もある。
+",[],……总之，那只恐龙似乎强得惊人。它叫Gear REX，据说怎么杀都杀不死。,,MATCH,161,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,11,stream=0x4B000;block=0xE80;text=11,"[""stream=0x4B000;block=0xE80;text=11""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","…まあとにかく、その恐竜はすごく強かったらしい。そい
+つの名はギアレックス。殺しても死なないと言われている。
+","体液を浴びた者は火傷したようになったという説もある。
+","あとは、背中から落ちた棘は、咆吼に共鳴して人々を苦し
+めたと…。
+",[],还有说法称，被它的体液溅到的人会像被烧伤一样。,,MATCH,79,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,12,stream=0x4B000;block=0xE80;text=12,"[""stream=0x4B000;block=0xE80;text=12""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","体液を浴びた者は火傷したようになったという説もある。
+","あとは、背中から落ちた棘は、咆吼に共鳴して人々を苦し
+めたと…。
+","…ただ強い怪物だっただけじゃないのか？　恐竜の生命力
+など人間には想像できない。
+",[],还有，从它背上掉下来的棘刺会与咆哮共鸣，让人痛苦不堪……。,,MATCH,95,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,13,stream=0x4B000;block=0xE80;text=13,"[""stream=0x4B000;block=0xE80;text=13""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","あとは、背中から落ちた棘は、咆吼に共鳴して人々を苦し
+めたと…。
+","…ただ強い怪物だっただけじゃないのか？　恐竜の生命力
+など人間には想像できない。
+","小銃程度の武器で少しばかり撃ったとしても死にはしない
+だろう…。
+",[],……它会不会只是一只特别强大的怪物？恐龙的生命力，本来就不是人类能够想象的。,,MATCH,119,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,14,stream=0x4B000;block=0xE80;text=14,"[""stream=0x4B000;block=0xE80;text=14""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","…ただ強い怪物だっただけじゃないのか？　恐竜の生命力
+など人間には想像できない。
+","小銃程度の武器で少しばかり撃ったとしても死にはしない
+だろう…。
+","ゾンビが怖いのか、ボス？
+",[],就算用步枪之类的武器打上几枪，也未必会死……。,,MATCH,95,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,15,stream=0x4B000;block=0xE80;text=15,"[""stream=0x4B000;block=0xE80;text=15""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","小銃程度の武器で少しばかり撃ったとしても死にはしない
+だろう…。
+","ゾンビが怖いのか、ボス？
+","…そんなことはない。信じられないだけだ。
+",[],你怕僵尸吗，Boss？,,MATCH,37,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04BE80,16,stream=0x4B000;block=0xE80;text=16,"[""stream=0x4B000;block=0xE80;text=16""]",1,BRIEFING FILES,"[""stream=0x4B000;block=0xE80;block_file=0x4BE80;text_base=0x4BEE4;capacity=1476""]","ゾンビが怖いのか、ボス？
+","…そんなことはない。信じられないだけだ。
+",,[],……没那回事。我只是不相信而已。,,MATCH,61,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

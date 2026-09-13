@@ -1,0 +1,19 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01CFF0,0,stream=0x1C000;block=0xFF0;text=0,"[""stream=0x1C000;block=0xFF0;text=0""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]",,"これは殲滅ミッションだ。潜入ミッションではない。
+","戦闘は避けられない。隠れて済まそうなんて考えは無駄だ。
+",[],这是歼灭任务，不是潜入任务。,,MATCH,73,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01CFF0,1,stream=0x1C000;block=0xFF0;text=1,"[""stream=0x1C000;block=0xFF0;text=1""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","これは殲滅ミッションだ。潜入ミッションではない。
+","戦闘は避けられない。隠れて済まそうなんて考えは無駄だ。
+","カムフラ率の高い装備より、防御力を優先するんだ。
+",[],战斗无可避免。想靠躲藏蒙混过去是没用的。,,MATCH,82,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_IGNORED
+BRIEFING_FILES_BLOCK_01CFF0,2,stream=0x1C000;block=0xFF0;text=2,"[""stream=0x1C000;block=0xFF0;text=2""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","戦闘は避けられない。隠れて済まそうなんて考えは無駄だ。
+","カムフラ率の高い装備より、防御力を優先するんだ。
+","もちろん武器も十分に携行する必要がある。
+",[],比起高迷彩率的装备，优先选择防御力更强的。,,MATCH,73,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+BRIEFING_FILES_BLOCK_01CFF0,3,stream=0x1C000;block=0xFF0;text=3,"[""stream=0x1C000;block=0xFF0;text=3""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","カムフラ率の高い装備より、防御力を優先するんだ。
+","もちろん武器も十分に携行する必要がある。
+","回復用のアイテムも忘れないでくれよ！
+",[],当然，武器也必须带足。,,MATCH,61,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_WEAPONS_NOT_AMMO_JPN_USED
+BRIEFING_FILES_BLOCK_01CFF0,4,stream=0x1C000;block=0xFF0;text=4,"[""stream=0x1C000;block=0xFF0;text=4""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0xFF0;block_file=0x1CFF0;text_base=0x1D024;capacity=352""]","もちろん武器も十分に携行する必要がある。
+","回復用のアイテムも忘れないでくれよ！
+",,[],别忘了带恢复用道具！,,MATCH,55,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

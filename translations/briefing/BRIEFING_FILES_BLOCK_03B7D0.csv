@@ -1,0 +1,36 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_03B7D0,0,stream=0x3B000;block=0x7D0;text=0,"[""stream=0x3B000;block=0x7D0;text=0""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]",,"<R=CIA,ラ・シーア>の傭兵は、内戦当時の砦を自分達の陣地にしてるらし
+い。
+","厄介だな。
+","[""<R=CIA,ラ・シーア>""]","<R=CIA,LA CIA>的雇佣兵似乎把内战时期留下的堡垒当成了自己的阵地。","<R=CIA,LA CIA>",MATCH,103,89,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_03B7D0,1,stream=0x3B000;block=0x7D0;text=1,"[""stream=0x3B000;block=0x7D0;text=1""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]","<R=CIA,ラ・シーア>の傭兵は、内戦当時の砦を自分達の陣地にしてるらし
+い。
+","厄介だな。
+","銃座も備え付けてあるみたい。目立つところを進んだら、
+蜂の巣にされるかも。
+",[],麻烦了。,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B7D0,2,stream=0x3B000;block=0x7D0;text=2,"[""stream=0x3B000;block=0x7D0;text=2""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]","厄介だな。
+","銃座も備え付けてあるみたい。目立つところを進んだら、
+蜂の巣にされるかも。
+","迂回路を探してみるか…。
+",[],看样子还架设了机枪座。要是从显眼的地方通过，恐怕会被打成蜂窝。,,MATCH,110,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B7D0,3,stream=0x3B000;block=0x7D0;text=3,"[""stream=0x3B000;block=0x7D0;text=3""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]","銃座も備え付けてあるみたい。目立つところを進んだら、
+蜂の巣にされるかも。
+","迂回路を探してみるか…。
+","逆に銃座を奪えれば、有利になるんじゃない？
+",[],找找有没有绕路的办法吧……。,,MATCH,37,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B7D0,4,stream=0x3B000;block=0x7D0;text=4,"[""stream=0x3B000;block=0x7D0;text=4""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]","迂回路を探してみるか…。
+","逆に銃座を奪えれば、有利になるんじゃない？
+","クラスノゴリエを思い出すな…。
+",[],反过来说，要是能抢下机枪座，不就对我们有利了吗？,,MATCH,64,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B7D0,5,stream=0x3B000;block=0x7D0;text=5,"[""stream=0x3B000;block=0x7D0;text=5""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]","逆に銃座を奪えれば、有利になるんじゃない？
+","クラスノゴリエを思い出すな…。
+","クラスノ…何？
+",[],让我想起克拉斯诺戈里耶了……。,,MATCH,46,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B7D0,6,stream=0x3B000;block=0x7D0;text=6,"[""stream=0x3B000;block=0x7D0;text=6""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]","クラスノゴリエを思い出すな…。
+","クラスノ…何？
+","すまん、こっちの話だ。
+",[],克拉斯诺……什么？,,MATCH,22,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B7D0,7,stream=0x3B000;block=0x7D0;text=7,"[""stream=0x3B000;block=0x7D0;text=7""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x7D0;block_file=0x3B7D0;text_base=0x3B810;capacity=440""]","クラスノ…何？
+","すまん、こっちの話だ。
+",,[],抱歉，别在意。,,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

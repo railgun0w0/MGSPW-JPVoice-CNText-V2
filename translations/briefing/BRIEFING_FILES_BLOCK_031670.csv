@@ -1,0 +1,44 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_031670,0,stream=0x31000;block=0x670;text=0,"[""stream=0x31000;block=0x670;text=0""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]",,"<R=ニカラグア湖,ラゴ・コシボルカ>に浮かぶ火山島が、オメテペ島よ。二つの火
+山がつながって、<R=ヒョウタン,ポロンゴ>のような形になっている。
+","噴煙を上げているのがそれか。
+","[""<R=ニカラグア湖,ラゴ・コシボルカ>"", ""<R=ヒョウタン,ポロンゴ>""]","浮在<R=尼加拉瓜湖,Lago Cocibolca>上的火山岛就是奥梅特佩岛。两座火山连在一起，形状像<R=葫芦,porongo>。","<R=尼加拉瓜湖,Lago Cocibolca> | <R=葫芦,porongo>",MATCH,201,136,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS
+BRIEFING_FILES_BLOCK_031670,1,stream=0x31000;block=0x670;text=1,"[""stream=0x31000;block=0x670;text=1""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","<R=ニカラグア湖,ラゴ・コシボルカ>に浮かぶ火山島が、オメテペ島よ。二つの火
+山がつながって、<R=ヒョウタン,ポロンゴ>のような形になっている。
+","噴煙を上げているのがそれか。
+","ええ。煙が出ているのがコンセプシオン山。時々噴火して
+いる。
+",[],那个冒着烟的就是它吗？,,MATCH,43,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031670,2,stream=0x31000;block=0x670;text=2,"[""stream=0x31000;block=0x670;text=2""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","噴煙を上げているのがそれか。
+","ええ。煙が出ているのがコンセプシオン山。時々噴火して
+いる。
+","もう一方のマデラス山には、噴火の記録がない。頂上はカ
+ルデラ湖になっているの。
+",[],对。冒烟的是康塞普西翁火山，偶尔会喷发。,,MATCH,89,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031670,3,stream=0x31000;block=0x670;text=3,"[""stream=0x31000;block=0x670;text=3""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","ええ。煙が出ているのがコンセプシオン山。時々噴火して
+いる。
+","もう一方のマデラス山には、噴火の記録がない。頂上はカ
+ルデラ湖になっているの。
+","カルデラ湖か…また地下に工場でもなければいいんだがな。
+",[],另一座马德拉斯火山没有喷发记录，山顶是一座破火山口湖。,,MATCH,116,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MADERAS_SUBJECT_RESTORED
+BRIEFING_FILES_BLOCK_031670,4,stream=0x31000;block=0x670;text=4,"[""stream=0x31000;block=0x670;text=4""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","もう一方のマデラス山には、噴火の記録がない。頂上はカ
+ルデラ湖になっているの。
+","カルデラ湖か…また地下に工場でもなければいいんだがな。
+","何言ってるの！
+",[],破火山口湖吗……只希望地下别又藏着什么工厂。,,MATCH,82,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031670,5,stream=0x31000;block=0x670;text=5,"[""stream=0x31000;block=0x670;text=5""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","カルデラ湖か…また地下に工場でもなければいいんだがな。
+","何言ってるの！
+","もしピースウォーカーの核がここで爆発したら、地下のマ
+グマにも影響して、火山がまた噴火するかも知れない。
+",[],你在说什么啊！,,MATCH,22,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_EXASPERATED_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_031670,6,stream=0x31000;block=0x670;text=6,"[""stream=0x31000;block=0x670;text=6""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","何言ってるの！
+","もしピースウォーカーの核がここで爆発したら、地下のマ
+グマにも影響して、火山がまた噴火するかも知れない。
+","そんなことになったら、<R=祖国,ニカラグア>はおしまいよ。絶対にピース
+ウォーカーを止めて、スネーク！
+",[],如果和平行者的核武器在这里爆炸，可能会影响地下岩浆，让火山再次喷发。,,MATCH,155,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ERUPTION_CONSEQUENCE_RESTORED
+BRIEFING_FILES_BLOCK_031670,7,stream=0x31000;block=0x670;text=7,"[""stream=0x31000;block=0x670;text=7""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","もしピースウォーカーの核がここで爆発したら、地下のマ
+グマにも影響して、火山がまた噴火するかも知れない。
+","そんなことになったら、<R=祖国,ニカラグア>はおしまいよ。絶対にピース
+ウォーカーを止めて、スネーク！
+",,"[""<R=祖国,ニカラグア>""]","真变成那样，<R=祖国,尼加拉瓜>就完了。一定要阻止和平行者，Snake！","<R=祖国,尼加拉瓜>",MATCH,145,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_PROPER_NAME

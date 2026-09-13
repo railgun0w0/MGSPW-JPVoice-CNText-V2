@@ -1,0 +1,57 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02B420,0,stream=0x2B000;block=0x420;text=0,"[""stream=0x2B000;block=0x420;text=0""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]",,"ここのコーヒー工場も、<R=CIA,ラ・シーア>に占拠されてるのね…。それ
+も、麻薬工場にだなんて。
+","いい豆を作ることで有名だったのに…。
+","[""<R=CIA,ラ・シーア>""]","这里的咖啡工厂也被<R=CIA,la CIA>占领了……居然还被改成了毒品工厂。","<R=CIA,la CIA>",MATCH,133,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING;JPN_DRUG_FACTORY_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_02B420,1,stream=0x2B000;block=0x420;text=1,"[""stream=0x2B000;block=0x420;text=1""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","ここのコーヒー工場も、<R=CIA,ラ・シーア>に占拠されてるのね…。それ
+も、麻薬工場にだなんて。
+","いい豆を作ることで有名だったのに…。
+","カフェタル・アロマ・エンカンタド…「魅惑の香り」コー
+ヒー園、と言ったところか。
+",[],明明以前还以出产优质咖啡豆闻名……,,MATCH,55,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02B420,2,stream=0x2B000;block=0x420;text=2,"[""stream=0x2B000;block=0x420;text=2""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","いい豆を作ることで有名だったのに…。
+","カフェタル・アロマ・エンカンタド…「魅惑の香り」コー
+ヒー園、と言ったところか。
+","ええ。傭兵達をコスタリカから追い出したら、きっとまた
+コーヒーが作れる時が来ると思う。
+",[],Cafetal Aroma Encantado……大概就是“迷人香气”咖啡园吧。,,MATCH,119,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_COFFEE_PLANTATION_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_02B420,3,stream=0x2B000;block=0x420;text=3,"[""stream=0x2B000;block=0x420;text=3""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","カフェタル・アロマ・エンカンタド…「魅惑の香り」コー
+ヒー園、と言ったところか。
+","ええ。傭兵達をコスタリカから追い出したら、きっとまた
+コーヒーが作れる時が来ると思う。
+","そうしたらスネークにも、ここで作ったコーヒーを淹れて
+あげたいな。
+",[],嗯。只要把雇佣兵赶出哥斯达黎加，我想总有一天这里还能重新生产咖啡。,,MATCH,128,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SENTENCE_COMPLETED_PER_JPN
+BRIEFING_FILES_BLOCK_02B420,4,stream=0x2B000;block=0x420;text=4,"[""stream=0x2B000;block=0x420;text=4""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","ええ。傭兵達をコスタリカから追い出したら、きっとまた
+コーヒーが作れる時が来ると思う。
+","そうしたらスネークにも、ここで作ったコーヒーを淹れて
+あげたいな。
+","楽しみだ。作戦を終えて熱い一杯を啜る…悪くない。…お
+っと。
+",[],到那时候，我还想给Snake泡一杯这里产的咖啡。,,MATCH,98,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_BREW_FOR_SNAKE_PRIMARY
+BRIEFING_FILES_BLOCK_02B420,5,stream=0x2B000;block=0x420;text=5,"[""stream=0x2B000;block=0x420;text=5""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","そうしたらスネークにも、ここで作ったコーヒーを淹れて
+あげたいな。
+","楽しみだ。作戦を終えて熱い一杯を啜る…悪くない。…お
+っと。
+","どうしたの？
+",[],我很期待。作战结束后啜一口热咖啡……不错。……哦。,,MATCH,89,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_OPERATION_AND_HOT_CUP_DETAILS_RESTORED
+BRIEFING_FILES_BLOCK_02B420,6,stream=0x2B000;block=0x420;text=6,"[""stream=0x2B000;block=0x420;text=6""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","楽しみだ。作戦を終えて熱い一杯を啜る…悪くない。…お
+っと。
+","どうしたの？
+","いや…昔、コーヒー嫌いの知人がいたのを思い出してな。
+イギリス人だった。あんな泥水を飲むな。紅茶を飲め、だ
+とさ。
+",[],怎么了？,,MATCH,19,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02B420,7,stream=0x2B000;block=0x420;text=7,"[""stream=0x2B000;block=0x420;text=7""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","どうしたの？
+","いや…昔、コーヒー嫌いの知人がいたのを思い出してな。
+イギリス人だった。あんな泥水を飲むな。紅茶を飲め、だ
+とさ。
+","まあ！　あのおいしさがわからないなんて…かわいそうね、
+その人。
+",[],没什么……只是想起以前有个讨厌咖啡的熟人。是个英国人。他总说：“别喝那种泥水，喝红茶。”,,MATCH,168,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_ACQUAINTANCE_AND_QUOTE_PRIMARY
+BRIEFING_FILES_BLOCK_02B420,8,stream=0x2B000;block=0x420;text=8,"[""stream=0x2B000;block=0x420;text=8""]",1,BRIEFING FILES,"[""stream=0x2B000;block=0x420;block_file=0x2B420;text_base=0x2B464;capacity=916""]","いや…昔、コーヒー嫌いの知人がいたのを思い出してな。
+イギリス人だった。あんな泥水を飲むな。紅茶を飲め、だ
+とさ。
+","まあ！　あのおいしさがわからないなんて…かわいそうね、
+その人。
+",,[],天啊！居然不懂咖啡有多好喝……那个人真可怜。,,MATCH,95,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_PITY_TONE_PRIMARY

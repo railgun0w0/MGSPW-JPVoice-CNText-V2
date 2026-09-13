@@ -1,0 +1,112 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_00B0B0,0,stream=0xB000;block=0xB0;text=0,"[""stream=0xB000;block=0xB0;text=0""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]",,"カズ。元レンジャーとしてのお前の経験から意見をくれ。
+ゲリラ戦を仕掛ける時、どういった点に注意する。
+","ゲリラ部隊は通常、規模、火力、継戦能力のいずれも敵正
+規軍に対して大きく劣る。戦闘が長引くほど不利だ。戦闘
+は短期決戦、これが基本だ。
+",[],Kaz。以你过去当游骑兵的经验，说说你的看法。发动游击战时，要注意哪些方面？,,MATCH,149,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,1,stream=0xB000;block=0xB0;text=1,"[""stream=0xB000;block=0xB0;text=1""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","カズ。元レンジャーとしてのお前の経験から意見をくれ。
+ゲリラ戦を仕掛ける時、どういった点に注意する。
+","ゲリラ部隊は通常、規模、火力、継戦能力のいずれも敵正
+規軍に対して大きく劣る。戦闘が長引くほど不利だ。戦闘
+は短期決戦、これが基本だ。
+","戦術的にはそうだな。では戦略面は。
+",[],游击队无论规模、火力还是持续作战能力，通常都远逊于敌方正规军。战斗拖得越久越不利。基本原则就是速战速决。,,MATCH,198,156,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,2,stream=0xB000;block=0xB0;text=2,"[""stream=0xB000;block=0xB0;text=2""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","ゲリラ部隊は通常、規模、火力、継戦能力のいずれも敵正
+規軍に対して大きく劣る。戦闘が長引くほど不利だ。戦闘
+は短期決戦、これが基本だ。
+","戦術的にはそうだな。では戦略面は。
+","兵力・兵站の基盤が脆弱なゲリラ部隊には、いくつかの制
+約がついて回る。例えば物資補給は現地調達に頼らざるを
+得ない。農民達の援助無しにゲリラ戦を戦い抜くことは難
+しいだろう。
+",[],战术层面确实如此。那么战略层面呢？,,MATCH,52,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,3,stream=0xB000;block=0xB0;text=3,"[""stream=0xB000;block=0xB0;text=3""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","戦術的にはそうだな。では戦略面は。
+","兵力・兵站の基盤が脆弱なゲリラ部隊には、いくつかの制
+約がついて回る。例えば物資補給は現地調達に頼らざるを
+得ない。農民達の援助無しにゲリラ戦を戦い抜くことは難
+しいだろう。
+","また地の利を得るには、土地鑑を持つ地域住民の協力が欠
+かせない。
+",[],兵力和后勤基础薄弱的游击队，总会受到一些限制。比如物资补给不得不依赖就地筹措。没有农民的援助，恐怕很难把游击战坚持到底。,,MATCH,256,180,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,4,stream=0xB000;block=0xB0;text=4,"[""stream=0xB000;block=0xB0;text=4""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","兵力・兵站の基盤が脆弱なゲリラ部隊には、いくつかの制
+約がついて回る。例えば物資補給は現地調達に頼らざるを
+得ない。農民達の援助無しにゲリラ戦を戦い抜くことは難
+しいだろう。
+","また地の利を得るには、土地鑑を持つ地域住民の協力が欠
+かせない。
+","ゆえに、民衆の人心掌握は必須だ。信頼を勝ち取るために
+ゲリラ戦士のモラルは高潔に保たれなければならん。指揮
+官にとって、部隊の規律維持は勝敗に直結する重要任務と
+心得るべきだろう。
+",[],另外，想占据地利，也少不了熟悉当地情况的居民配合。,,MATCH,95,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,5,stream=0xB000;block=0xB0;text=5,"[""stream=0xB000;block=0xB0;text=5""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","また地の利を得るには、土地鑑を持つ地域住民の協力が欠
+かせない。
+","ゆえに、民衆の人心掌握は必須だ。信頼を勝ち取るために
+ゲリラ戦士のモラルは高潔に保たれなければならん。指揮
+官にとって、部隊の規律維持は勝敗に直結する重要任務と
+心得るべきだろう。
+","まるで“<R=民心獲得作戦,ハーツアンドマインド>”だな。
+",[],因此，争取民心是必不可少的。为了赢得信任，游击战士必须保持高尚的操守。对指挥官来说，维持部队纪律是一项直接关系胜负的重要任务。,,MATCH,265,189,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,6,stream=0xB000;block=0xB0;text=6,"[""stream=0xB000;block=0xB0;text=6""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","ゆえに、民衆の人心掌握は必須だ。信頼を勝ち取るために
+ゲリラ戦士のモラルは高潔に保たれなければならん。指揮
+官にとって、部隊の規律維持は勝敗に直結する重要任務と
+心得るべきだろう。
+","まるで“<R=民心獲得作戦,ハーツアンドマインド>”だな。
+","グリーンベレーの？
+","[""<R=民心獲得作戦,ハーツアンドマインド>""]","简直就像“<R=争取民心行动,Hearts and Minds>”啊。","<R=争取民心行动,Hearts and Minds>",MATCH,78,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_00B0B0,7,stream=0xB000;block=0xB0;text=7,"[""stream=0xB000;block=0xB0;text=7""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","まるで“<R=民心獲得作戦,ハーツアンドマインド>”だな。
+","グリーンベレーの？
+","マラヤでの<R=イギリス人,SAS>もそうだ。
+",[],绿扁帽的？,,MATCH,28,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,8,stream=0xB000;block=0xB0;text=8,"[""stream=0xB000;block=0xB0;text=8""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","グリーンベレーの？
+","マラヤでの<R=イギリス人,SAS>もそうだ。
+","発想は同じだろうな。民衆を敵に回して勝てた軍隊はいな
+いよ。“アラビアのロレンス”もそうだったな。地元ベド
+ウィンの心を掴み、ドイツ軍を撃破したのは有名だ。
+","[""<R=イギリス人,SAS>""]","马来亚的<R=英国人,SAS>也是如此。","<R=英国人,SAS>",MATCH,54,44,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_00B0B0,9,stream=0xB000;block=0xB0;text=9,"[""stream=0xB000;block=0xB0;text=9""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","マラヤでの<R=イギリス人,SAS>もそうだ。
+","発想は同じだろうな。民衆を敵に回して勝てた軍隊はいな
+いよ。“アラビアのロレンス”もそうだったな。地元ベド
+ウィンの心を掴み、ドイツ軍を撃破したのは有名だ。
+","ああ。…そういえば、お前の国の孫子もそんなことを言っ
+ていなかったか？
+",[],思路应该一样。把民众变成敌人的军队，从来没有赢过。“阿拉伯的劳伦斯”也是如此。他赢得当地贝都因人的支持并击败德国军队，这件事很有名。,,MATCH,231,198,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;JPN_HISTORICAL_CLAIM_PRESERVED
+BRIEFING_FILES_BLOCK_00B0B0,10,stream=0xB000;block=0xB0;text=10,"[""stream=0xB000;block=0xB0;text=10""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","発想は同じだろうな。民衆を敵に回して勝てた軍隊はいな
+いよ。“アラビアのロレンス”もそうだったな。地元ベド
+ウィンの心を掴み、ドイツ軍を撃破したのは有名だ。
+","ああ。…そういえば、お前の国の孫子もそんなことを言っ
+ていなかったか？
+","え？　いや、孫子は日本じゃなくて中国の…。
+",[],对了……说起来，你们国家的孙子不也说过类似的话吗？,,MATCH,104,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,11,stream=0xB000;block=0xB0;text=11,"[""stream=0xB000;block=0xB0;text=11""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","ああ。…そういえば、お前の国の孫子もそんなことを言っ
+ていなかったか？
+","え？　いや、孫子は日本じゃなくて中国の…。
+","さすが、第五の文明圏と言われるだけはある。
+",[],诶？不，孙子不是日本的，是中国的……,,MATCH,64,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,12,stream=0xB000;block=0xB0;text=12,"[""stream=0xB000;block=0xB0;text=12""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","え？　いや、孫子は日本じゃなくて中国の…。
+","さすが、第五の文明圏と言われるだけはある。
+","第五？　…トインビーか何かのことを言ってのるか？
+",[],不愧是被称为第五文明圈的国家。,,MATCH,64,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,13,stream=0xB000;block=0xB0;text=13,"[""stream=0xB000;block=0xB0;text=13""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","さすが、第五の文明圏と言われるだけはある。
+","第五？　…トインビーか何かのことを言ってのるか？
+","そうだ。よく知ってるな。
+",[],第五？……你说的是汤因比之类的理论吗？,,MATCH,73,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,14,stream=0xB000;block=0xB0;text=14,"[""stream=0xB000;block=0xB0;text=14""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","第五？　…トインビーか何かのことを言ってのるか？
+","そうだ。よく知ってるな。
+","それなら五つじゃなくて26の…。
+",[],没错。你懂得还挺多。,,MATCH,37,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,15,stream=0xB000;block=0xB0;text=15,"[""stream=0xB000;block=0xB0;text=15""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","そうだ。よく知ってるな。
+","それなら五つじゃなくて26の…。
+","老子とか、孔明とか、優れたサムライを数多く産み出した、
+尚武の国だ。
+",[],那样的话，不是五个，而是26个……,,MATCH,45,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+BRIEFING_FILES_BLOCK_00B0B0,16,stream=0xB000;block=0xB0;text=16,"[""stream=0xB000;block=0xB0;text=16""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","それなら五つじゃなくて26の…。
+","老子とか、孔明とか、優れたサムライを数多く産み出した、
+尚武の国だ。
+","ああ…ええっと…。
+",[],那是个尚武的国家，孕育了老子、孔明，还有许多优秀的武士。,,MATCH,101,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;CHARACTER_MISTAKE_PRESERVED
+BRIEFING_FILES_BLOCK_00B0B0,17,stream=0xB000;block=0xB0;text=17,"[""stream=0xB000;block=0xB0;text=17""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","老子とか、孔明とか、優れたサムライを数多く産み出した、
+尚武の国だ。
+","ああ…ええっと…。
+",,[],啊……呃……,,MATCH,28,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE

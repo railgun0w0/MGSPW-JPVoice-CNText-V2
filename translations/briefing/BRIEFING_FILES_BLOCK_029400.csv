@@ -1,0 +1,26 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_029400,0,stream=0x29000;block=0x400;text=0,"[""stream=0x29000;block=0x400;text=0""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]",,"ここもボスケ・デル・アルバと同じ熱帯雨林。高温多湿の
+森林帯よ。エル・セナガルは「泥」の意味。
+","泥か。足を取られないようにしないとな。
+",[],这里也和Bosque del Alba一样，是高温多湿的热带雨林。El Cenegal意为“泥”。,,MATCH,140,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MUD_MEANING_AND_CLIMATE_DRIFT_CORRECTED
+BRIEFING_FILES_BLOCK_029400,1,stream=0x29000;block=0x400;text=1,"[""stream=0x29000;block=0x400;text=1""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","ここもボスケ・デル・アルバと同じ熱帯雨林。高温多湿の
+森林帯よ。エル・セナガルは「泥」の意味。
+","泥か。足を取られないようにしないとな。
+","このあたりでは、よく川が氾濫するの。その時溢れた水が
+地表を削って作った溝が、あちこちにある。
+",[],泥吗。得小心别陷住脚。,,MATCH,58,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_STUCK_FEET_PRIMARY
+BRIEFING_FILES_BLOCK_029400,2,stream=0x29000;block=0x400;text=2,"[""stream=0x29000;block=0x400;text=2""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","泥か。足を取られないようにしないとな。
+","このあたりでは、よく川が氾濫するの。その時溢れた水が
+地表を削って作った溝が、あちこちにある。
+","隠れて進むにはよさそうだ。
+",[],这一带的河流经常泛滥。洪水溢出时会冲刷地表，到处都留下这样的沟槽。,,MATCH,140,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FLOOD_CAUSE_RESTORED
+BRIEFING_FILES_BLOCK_029400,3,stream=0x29000;block=0x400;text=3,"[""stream=0x29000;block=0x400;text=3""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","このあたりでは、よく川が氾濫するの。その時溢れた水が
+地表を削って作った溝が、あちこちにある。
+","隠れて進むにはよさそうだ。
+","こっちからの見通しが悪いってことでもある。気をつけて
+ね、スネーク。
+",[],看起来很适合隐蔽前进。,,MATCH,40,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_MOVEMENT_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_029400,4,stream=0x29000;block=0x400;text=4,"[""stream=0x29000;block=0x400;text=4""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x400;block_file=0x29400;text_base=0x29434;capacity=484""]","隠れて進むにはよさそうだ。
+","こっちからの見通しが悪いってことでもある。気をつけて
+ね、スネーク。
+",,[],这也意味着我们这边的视野会很差。小心，Snake。,,MATCH,101,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

@@ -1,0 +1,79 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_04EE70,0,stream=0x4E000;block=0xE70;text=0,"[""stream=0x4E000;block=0xE70;text=0""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]",,"もし、AIのモデルがボスじゃなかったら？
+","どういうことだ。
+",[],如果AI的模型不是The Boss呢？,,MATCH,57,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,1,stream=0x4E000;block=0xE70;text=1,"[""stream=0x4E000;block=0xE70;text=1""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","もし、AIのモデルがボスじゃなかったら？
+","どういうことだ。
+","<R=相互確証破壊,MAD>を目的とするなら、もっとふさわしいモデル
+がいるだろう。軍の参謀、核技術者…それこそ大統領でも
+いいはずだ。
+",[],什么意思。,,MATCH,25,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,2,stream=0x4E000;block=0xE70;text=2,"[""stream=0x4E000;block=0xE70;text=2""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","どういうことだ。
+","<R=相互確証破壊,MAD>を目的とするなら、もっとふさわしいモデル
+がいるだろう。軍の参謀、核技術者…それこそ大統領でも
+いいはずだ。
+","そんなことか…私に言わせれば、ザ・ボスこそが20世紀で
+最も完璧な人間だ。お前も異論はないだろう。
+","[""<R=相互確証破壊,MAD>""]","如果目的是<R=相互确保摧毁,MAD>，应该还有更合适的模型吧。军方参谋、核技术专家……甚至总统都可以。","<R=相互确保摧毁,MAD>",MATCH,185,140,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_04EE70,3,stream=0x4E000;block=0xE70;text=3,"[""stream=0x4E000;block=0xE70;text=3""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","<R=相互確証破壊,MAD>を目的とするなら、もっとふさわしいモデル
+がいるだろう。軍の参謀、核技術者…それこそ大統領でも
+いいはずだ。
+","そんなことか…私に言わせれば、ザ・ボスこそが20世紀で
+最も完璧な人間だ。お前も異論はないだろう。
+","愛国心、統率力、判断力…彼女には全てが揃っていた。ど
+れも、核発射の判断に必要なもの。
+",[],原来你说这个……要我说，The Boss才是20世纪最完美的人。你也不会有异议吧。,,MATCH,142,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,4,stream=0x4E000;block=0xE70;text=4,"[""stream=0x4E000;block=0xE70;text=4""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","そんなことか…私に言わせれば、ザ・ボスこそが20世紀で
+最も完璧な人間だ。お前も異論はないだろう。
+","愛国心、統率力、判断力…彼女には全てが揃っていた。ど
+れも、核発射の判断に必要なもの。
+","それならば、大統領でも。
+",[],爱国心、统率力、判断力……她全都具备。这些都是决定是否发射核武器所必需的。,,MATCH,128,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,5,stream=0x4E000;block=0xE70;text=5,"[""stream=0x4E000;block=0xE70;text=5""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","愛国心、統率力、判断力…彼女には全てが揃っていた。ど
+れも、核発射の判断に必要なもの。
+","それならば、大統領でも。
+","それだけじゃない。彼女には、意志があった。
+",[],那总统也可以吧。,,MATCH,37,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,6,stream=0x4E000;block=0xE70;text=6,"[""stream=0x4E000;block=0xE70;text=6""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","それならば、大統領でも。
+","それだけじゃない。彼女には、意志があった。
+","意志？
+",[],不只如此。她还有意志。,,MATCH,64,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,7,stream=0x4E000;block=0xE70;text=7,"[""stream=0x4E000;block=0xE70;text=7""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","それだけじゃない。彼女には、意志があった。
+","意志？
+","いいかスネーク。ピースウォーカーはスタンドアローンな
+兵器だ。
+",[],意志？,,MATCH,10,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,8,stream=0x4E000;block=0xE70;text=8,"[""stream=0x4E000;block=0xE70;text=8""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","意志？
+","いいかスネーク。ピースウォーカーはスタンドアローンな
+兵器だ。
+","核を発射すべきかどうか、自分一人で判断しなくてはなら
+ない。誰にも相談できない。
+",[],听好了，Snake。Peace Walker是一件独立运作的武器。,,MATCH,92,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,9,stream=0x4E000;block=0xE70;text=9,"[""stream=0x4E000;block=0xE70;text=9""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","いいかスネーク。ピースウォーカーはスタンドアローンな
+兵器だ。
+","核を発射すべきかどうか、自分一人で判断しなくてはなら
+ない。誰にも相談できない。
+","世界の運命を、たった一人で背負う覚悟がなければ、務ま
+らない。それができる人間を、私は彼女以外に知らない。
+",[],是否发射核武器，必须由它独自判断，不能跟任何人商量。,,MATCH,119,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,10,stream=0x4E000;block=0xE70;text=10,"[""stream=0x4E000;block=0xE70;text=10""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","核を発射すべきかどうか、自分一人で判断しなくてはなら
+ない。誰にも相談できない。
+","世界の運命を、たった一人で背負う覚悟がなければ、務ま
+らない。それができる人間を、私は彼女以外に知らない。
+","…それだけか？
+",[],如果没有独自背负世界命运的觉悟，就无法胜任。我不知道除了她之外，还有谁能做到这一点。,,MATCH,158,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,11,stream=0x4E000;block=0xE70;text=11,"[""stream=0x4E000;block=0xE70;text=11""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","世界の運命を、たった一人で背負う覚悟がなければ、務ま
+らない。それができる人間を、私は彼女以外に知らない。
+","…それだけか？
+","もちろん、技術的な問題もある。AIがモデルにすべきなの
+は、そもそも女性の脳なんだ。
+",[],……就这些？,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,12,stream=0x4E000;block=0xE70;text=12,"[""stream=0x4E000;block=0xE70;text=12""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","…それだけか？
+","もちろん、技術的な問題もある。AIがモデルにすべきなの
+は、そもそも女性の脳なんだ。
+","女性の脳？
+",[],当然，也有技术上的问题。AI本来就应该以女性的大脑为模型。,,MATCH,121,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04EE70,13,stream=0x4E000;block=0xE70;text=13,"[""stream=0x4E000;block=0xE70;text=13""]",1,BRIEFING FILES,"[""stream=0x4E000;block=0xE70;block_file=0x4EE70;text_base=0x4EEC8;capacity=1192""]","もちろん、技術的な問題もある。AIがモデルにすべきなの
+は、そもそも女性の脳なんだ。
+","女性の脳？
+",,[],女性的大脑？,,MATCH,16,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

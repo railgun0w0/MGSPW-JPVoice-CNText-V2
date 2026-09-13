@@ -1,0 +1,62 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_004F80,0,stream=0x4000;block=0xF80;text=0,"[""stream=0x4000;block=0xF80;text=0""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]",,"トラテロルコ条約は、中南米の非核化を目指した条約だ。
+","核兵器の実験・使用・製造・生産・取得・貯蔵・配備を禁
+止している。
+",[],《特拉特洛尔科条约》是一项旨在实现中南美洲无核化的条约。,,MATCH,79,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_004F80,1,stream=0x4000;block=0xF80;text=1,"[""stream=0x4000;block=0xF80;text=1""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","トラテロルコ条約は、中南米の非核化を目指した条約だ。
+","核兵器の実験・使用・製造・生産・取得・貯蔵・配備を禁
+止している。
+","キューバの核配備に始まった一連の危機が、条約締結の契
+機となったようだ。
+",[],条约禁止核武器的试验、使用、制造、生产、取得、储存和部署。,,MATCH,98,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_DEPLOYMENT
+BRIEFING_FILES_BLOCK_004F80,2,stream=0x4000;block=0xF80;text=2,"[""stream=0x4000;block=0xF80;text=2""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","核兵器の実験・使用・製造・生産・取得・貯蔵・配備を禁
+止している。
+","キューバの核配備に始まった一連の危機が、条約締結の契
+機となったようだ。
+","そうだろうな。あの13日間は、全世界が核戦争勃発の恐怖
+に凍りついた。
+",[],看来，由苏联在古巴部署核武器所引发的一连串危机，正是促成条约签订的契机。,,MATCH,107,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_TREATY_CAUSATION
+BRIEFING_FILES_BLOCK_004F80,3,stream=0x4000;block=0xF80;text=3,"[""stream=0x4000;block=0xF80;text=3""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","キューバの核配備に始まった一連の危機が、条約締結の契
+機となったようだ。
+","そうだろうな。あの13日間は、全世界が核戦争勃発の恐怖
+に凍りついた。
+","現時点では、その肝心のキューバが未参加だが。
+",[],也是。那13天里，全世界都因核战争可能爆发的恐惧而冻结。,,MATCH,100,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_004F80,4,stream=0x4000;block=0xF80;text=4,"[""stream=0x4000;block=0xF80;text=4""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","そうだろうな。あの13日間は、全世界が核戦争勃発の恐怖
+に凍りついた。
+","現時点では、その肝心のキューバが未参加だが。
+","とは言え、20ヶ国以上が批准している条約だ。踏みにじれ
+ば国際的に糾弾される。
+",[],不过到目前为止，最关键的古巴还没有加入。,,MATCH,67,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_RATIFICATION_SPECIFICITY_IGNORED
+BRIEFING_FILES_BLOCK_004F80,5,stream=0x4000;block=0xF80;text=5,"[""stream=0x4000;block=0xF80;text=5""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","現時点では、その肝心のキューバが未参加だが。
+","とは言え、20ヶ国以上が批准している条約だ。踏みにじれ
+ば国際的に糾弾される。
+","そうだな。<R=ラテンアメリカ核兵器禁止機構,OPANAL>も調査に入るだ
+ろう。
+",[],话虽如此，这项条约已经有20多个国家批准。要是公然践踏，必然会遭到国际社会谴责。,,MATCH,112,116,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_INTERNATIONAL_CONDEMNATION
+BRIEFING_FILES_BLOCK_004F80,6,stream=0x4000;block=0xF80;text=6,"[""stream=0x4000;block=0xF80;text=6""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","とは言え、20ヶ国以上が批准している条約だ。踏みにじれ
+ば国際的に糾弾される。
+","そうだな。<R=ラテンアメリカ核兵器禁止機構,OPANAL>も調査に入るだ
+ろう。
+","条約作成にあたっては、日本の非核三原則の概念を参考に
+したそうだ。
+","[""<R=ラテンアメリカ核兵器禁止機構,OPANAL>""]","是啊。<R=拉丁美洲禁止核武器组织,OPANAL>也会介入调查吧。","<R=拉丁美洲禁止核武器组织,OPANAL>",MATCH,100,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_004F80,7,stream=0x4000;block=0xF80;text=7,"[""stream=0x4000;block=0xF80;text=7""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","そうだな。<R=ラテンアメリカ核兵器禁止機構,OPANAL>も調査に入るだ
+ろう。
+","条約作成にあたっては、日本の非核三原則の概念を参考に
+したそうだ。
+","もっとも、トラテロルコ条約は「加盟国に対して核兵器を
+使わない」ことを核兵器保有国に求めている。
+",[],听说制定这项条约时，参考了日本“无核三原则”的概念。,,MATCH,98,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_004F80,8,stream=0x4000;block=0xF80;text=8,"[""stream=0x4000;block=0xF80;text=8""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","条約作成にあたっては、日本の非核三原則の概念を参考に
+したそうだ。
+","もっとも、トラテロルコ条約は「加盟国に対して核兵器を
+使わない」ことを核兵器保有国に求めている。
+","ここが非核三原則と大きく異なるところだ。つまり、4番
+目の原則があるということだな。
+",[],不过，《特拉特洛尔科条约》还要求拥核国家「不得对成员国使用核武器」。,,MATCH,143,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_PARAPHRASE_IGNORED
+BRIEFING_FILES_BLOCK_004F80,9,stream=0x4000;block=0xF80;text=9,"[""stream=0x4000;block=0xF80;text=9""]",1,BRIEFING FILES,"[""stream=0x4000;block=0xF80;block_file=0x4F80;text_base=0x4FC8;capacity=1040""]","もっとも、トラテロルコ条約は「加盟国に対して核兵器を
+使わない」ことを核兵器保有国に求めている。
+","ここが非核三原則と大きく異なるところだ。つまり、4番
+目の原則があるということだな。
+",,[],这正是它与无核三原则大不相同的地方。也就是说，它还有第4项原则。,,MATCH,123,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_FOURTH_PRINCIPLE

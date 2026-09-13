@@ -1,0 +1,93 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_36F890,0,stream=0x36F000;block=0x890;text=0,"[""stream=0x36F000;block=0x890;text=0""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]",,"スネーク、アマンダが<R=マザーベース,プラント>に到着した。
+","スネーク。
+","[""<R=マザーベース,プラント>""]","Snake，Amanda已经抵达<R=母基地,PLANT>。","<R=母基地,PLANT>",MATCH,84,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_36F890,1,stream=0x36F000;block=0x890;text=1,"[""stream=0x36F000;block=0x890;text=1""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","スネーク、アマンダが<R=マザーベース,プラント>に到着した。
+","スネーク。
+","アマンダ、具合はどうだ？
+",[],Snake……。,,MATCH,16,14,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,2,stream=0x36F000;block=0x890;text=2,"[""stream=0x36F000;block=0x890;text=2""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","スネーク。
+","アマンダ、具合はどうだ？
+","生まれて初めてヘリに乗ったけど、
+おかげで大嫌いになれそう。
+",[],Amanda，感觉怎么样？,,MATCH,37,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,3,stream=0x36F000;block=0x890;text=3,"[""stream=0x36F000;block=0x890;text=3""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","アマンダ、具合はどうだ？
+","生まれて初めてヘリに乗ったけど、
+おかげで大嫌いになれそう。
+","聞いての通り元気だ。
+",[],这辈子第一次坐直升机，拜它所赐，我感觉以后能彻底讨厌直升机了。,,MATCH,89,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,4,stream=0x36F000;block=0x890;text=4,"[""stream=0x36F000;block=0x890;text=4""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","生まれて初めてヘリに乗ったけど、
+おかげで大嫌いになれそう。
+","聞いての通り元気だ。
+","アマンダ専用の周波数を用意した。
+必要なときは、彼女に<R=無線,CALL>するんだ。
+",[],听这语气就知道，她精神得很。,,MATCH,31,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,5,stream=0x36F000;block=0x890;text=5,"[""stream=0x36F000;block=0x890;text=5""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","聞いての通り元気だ。
+","アマンダ専用の周波数を用意した。
+必要なときは、彼女に<R=無線,CALL>するんだ。
+","米拠点と傭兵部隊、それから<R=FSLN,フレンテ>のことなら
+何だって聞いて。
+","[""<R=無線,CALL>""]","我给Amanda准备了专用频率。需要的时候就<R=呼叫,CALL>她。","<R=呼叫,CALL>",MATCH,110,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_36F890,6,stream=0x36F000;block=0x890;text=6,"[""stream=0x36F000;block=0x890;text=6""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","アマンダ専用の周波数を用意した。
+必要なときは、彼女に<R=無線,CALL>するんだ。
+","米拠点と傭兵部隊、それから<R=FSLN,フレンテ>のことなら
+何だって聞いて。
+","お願い。<R=同志,コンパ>とチコを。
+","[""<R=FSLN,フレンテ>""]","关于美军据点、佣兵部队，还有<R=FSLN,FRENTE>的事，什么都可以问我。","<R=FSLN,FRENTE>",MATCH,101,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_36F890,7,stream=0x36F000;block=0x890;text=7,"[""stream=0x36F000;block=0x890;text=7""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","米拠点と傭兵部隊、それから<R=FSLN,フレンテ>のことなら
+何だって聞いて。
+","お願い。<R=同志,コンパ>とチコを。
+","わかった。
+","[""<R=同志,コンパ>""]","拜托了。我的<R=同志,COMPA>们，还有Chico。","<R=同志,COMPA>",MATCH,48,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_36F890,8,stream=0x36F000;block=0x890;text=8,"[""stream=0x36F000;block=0x890;text=8""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","お願い。<R=同志,コンパ>とチコを。
+","わかった。
+","よろしく、<R=あんた,VOS>。
+",[],知道了。,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,9,stream=0x36F000;block=0x890;text=9,"[""stream=0x36F000;block=0x890;text=9""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","よろしく、<R=あんた,VOS>。
+","スネーク。
+","[""<R=あんた,VOS>""]","拜托你了，<R=你,VOS>。","<R=你,VOS>",MATCH,36,29,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_36F890,10,stream=0x36F000;block=0x890;text=10,"[""stream=0x36F000;block=0x890;text=10""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","よろしく、<R=あんた,VOS>。
+","スネーク。
+","アマンダの容体はマザーベースの『診療所』で
+確認出来る。
+",[],Snake。,,MATCH,16,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,11,stream=0x36F000;block=0x890;text=11,"[""stream=0x36F000;block=0x890;text=11""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","スネーク。
+","アマンダの容体はマザーベースの『診療所』で
+確認出来る。
+","わかった。
+",[],Amanda的身体状况，可以在Mother Base的“医务室”确认。,,MATCH,83,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,12,stream=0x36F000;block=0x890;text=12,"[""stream=0x36F000;block=0x890;text=12""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","アマンダの容体はマザーベースの『診療所』で
+確認出来る。
+","わかった。
+","それから、回収した戦闘捕虜を、
+人員配置することを忘れないでくれ。
+",[],知道了。,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,13,stream=0x36F000;block=0x890;text=13,"[""stream=0x36F000;block=0x890;text=13""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","それから、回収した戦闘捕虜を、
+人員配置することを忘れないでくれ。
+","わかった。
+",[],还有，别忘了给回收来的战俘安排人员岗位。,,MATCH,98,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,14,stream=0x36F000;block=0x890;text=14,"[""stream=0x36F000;block=0x890;text=14""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","それから、回収した戦闘捕虜を、
+人員配置することを忘れないでくれ。
+","わかった。
+","組織を創るのは『誰に何をさせるか』。
+これがマザーの成長方針を決める。
+",[],知道了。,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,15,stream=0x36F000;block=0x890;text=15,"[""stream=0x36F000;block=0x890;text=15""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","組織を創るのは『誰に何をさせるか』。
+これがマザーの成長方針を決める。
+","わかった。
+",[],打造组织，关键就在“让谁做什么”。这会决定Mother Base今后的发展方向。,,MATCH,104,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,16,stream=0x36F000;block=0x890;text=16,"[""stream=0x36F000;block=0x890;text=16""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","組織を創るのは『誰に何をさせるか』。
+これがマザーの成長方針を決める。
+","わかった。
+","ボスの重要な務めの一つだ。
+",[],知道了。,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,17,stream=0x36F000;block=0x890;text=17,"[""stream=0x36F000;block=0x890;text=17""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","わかった。
+","ボスの重要な務めの一つだ。
+","わかってる。
+",[],这是Boss的重要职责之一。,,MATCH,40,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_36F890,18,stream=0x36F000;block=0x890;text=18,"[""stream=0x36F000;block=0x890;text=18""]",1,d1130_m0060_mrd,"[""stream=0x36F000;block=0x890;block_file=0x36F890;text_base=0x36F8FC;capacity=996""]","ボスの重要な務めの一つだ。
+","わかってる。
+",,[],我知道。,,MATCH,19,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

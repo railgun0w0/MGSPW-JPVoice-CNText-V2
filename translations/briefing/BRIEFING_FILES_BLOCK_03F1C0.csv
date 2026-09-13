@@ -1,0 +1,44 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_03F1C0,0,stream=0x3F000;block=0x1C0;text=0,"[""stream=0x3F000;block=0x1C0;text=0""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]",,"クレイモア地雷は指向性の対人地雷よ。
+","加害半径は約<R=70バーラ,50m>、前方60°に700個の鉄球をまき
+散らす。
+",[],阔剑地雷是一种定向反步兵地雷。,,MATCH,55,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,1,stream=0x3F000;block=0x1C0;text=1,"[""stream=0x3F000;block=0x1C0;text=1""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","クレイモア地雷は指向性の対人地雷よ。
+","加害半径は約<R=70バーラ,50m>、前方60°に700個の鉄球をまき
+散らす。
+","でも、指向性だけに後方から近づけば安全だわ。
+","[""<R=70バーラ,50m>""]","杀伤半径约<R=70瓦拉,50m>，会向前方60°散布700颗钢珠。","<R=70瓦拉,50m>",MATCH,91,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,2,stream=0x3F000;block=0x1C0;text=2,"[""stream=0x3F000;block=0x1C0;text=2""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","加害半径は約<R=70バーラ,50m>、前方60°に700個の鉄球をまき
+散らす。
+","でも、指向性だけに後方から近づけば安全だわ。
+","姿勢を低くして後ろから近づけば解除・回収できる。
+",[],不过，正因为它有方向性，从后方接近就是安全的。,,MATCH,67,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,3,stream=0x3F000;block=0x1C0;text=3,"[""stream=0x3F000;block=0x1C0;text=3""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","でも、指向性だけに後方から近づけば安全だわ。
+","姿勢を低くして後ろから近づけば解除・回収できる。
+","アイコンが出たら<I=ACT>を押して。
+",[],压低身体从后方靠近，就能解除并回收。,,MATCH,73,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,4,stream=0x3F000;block=0x1C0;text=4,"[""stream=0x3F000;block=0x1C0;text=4""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","姿勢を低くして後ろから近づけば解除・回収できる。
+","アイコンが出たら<I=ACT>を押して。
+","未使用のクレイモアを回収すれば、自分たちの武器として
+使うこともできるわ。
+","[""<I=ACT>""]",出现图标后，按<I=ACT>。,<I=ACT>,MATCH,47,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,5,stream=0x3F000;block=0x1C0;text=5,"[""stream=0x3F000;block=0x1C0;text=5""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","アイコンが出たら<I=ACT>を押して。
+","未使用のクレイモアを回収すれば、自分たちの武器として
+使うこともできるわ。
+","あとは、遠くから銃撃して破壊することもできる。
+",[],回收未使用的阔剑地雷后，也能把它当作自己的武器使用。,,MATCH,110,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,6,stream=0x3F000;block=0x1C0;text=6,"[""stream=0x3F000;block=0x1C0;text=6""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","未使用のクレイモアを回収すれば、自分たちの武器として
+使うこともできるわ。
+","あとは、遠くから銃撃して破壊することもできる。
+","もちろん、近くから撃ってしまうと巻き添えを食らうわ。
+狙撃銃なんかを使った方がいい。
+",[],另外，也可以从远处开枪把它破坏掉。,,MATCH,70,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,7,stream=0x3F000;block=0x1C0;text=7,"[""stream=0x3F000;block=0x1C0;text=7""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","あとは、遠くから銃撃して破壊することもできる。
+","もちろん、近くから撃ってしまうと巻き添えを食らうわ。
+狙撃銃なんかを使った方がいい。
+","ただ、破壊しちゃうと回収はできないけどね。
+",[],当然，如果在近处开枪，自己也会被波及。最好使用狙击步枪之类的武器。,,MATCH,125,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03F1C0,8,stream=0x3F000;block=0x1C0;text=8,"[""stream=0x3F000;block=0x1C0;text=8""]",1,BRIEFING FILES,"[""stream=0x3F000;block=0x1C0;block_file=0x3F1C0;text_base=0x3F204;capacity=712""]","もちろん、近くから撃ってしまうと巻き添えを食らうわ。
+狙撃銃なんかを使った方がいい。
+","ただ、破壊しちゃうと回収はできないけどね。
+",,[],不过，一旦破坏掉就没法回收了。,,MATCH,64,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

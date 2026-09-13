@@ -1,0 +1,41 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02F3A0,0,stream=0x2F000;block=0x3A0;text=0,"[""stream=0x2F000;block=0x3A0;text=0""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]",,"建国以来、<R=祖国,ニカラグア>が自分達の意志で行く先を決められたこと
+など一度もない。
+","スペイン、アメリカ。もう100年以上も。
+","[""<R=祖国,ニカラグア>""]","自建国以来，<R=祖国,尼加拉瓜>从未能按自己的意志决定前进的方向。","<R=祖国,尼加拉瓜>",MATCH,124,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_PROPER_NAME
+BRIEFING_FILES_BLOCK_02F3A0,1,stream=0x2F000;block=0x3A0;text=1,"[""stream=0x2F000;block=0x3A0;text=1""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]","建国以来、<R=祖国,ニカラグア>が自分達の意志で行く先を決められたこと
+など一度もない。
+","スペイン、アメリカ。もう100年以上も。
+","そうだな。
+",[],西班牙、美国。已经一百多年了。,,MATCH,55,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02F3A0,2,stream=0x2F000;block=0x3A0;text=2,"[""stream=0x2F000;block=0x3A0;text=2""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]","スペイン、アメリカ。もう100年以上も。
+","そうだな。
+","19世紀には、アメリカ人傭兵ウィリアム・ウォーカーが、
+ニカラグアの政権を乗っ取った。
+",[],是啊。,,MATCH,16,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_KNOW_PARAPHRASE_REPLACED_BY_JPN
+BRIEFING_FILES_BLOCK_02F3A0,3,stream=0x2F000;block=0x3A0;text=3,"[""stream=0x2F000;block=0x3A0;text=3""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]","そうだな。
+","19世紀には、アメリカ人傭兵ウィリアム・ウォーカーが、
+ニカラグアの政権を乗っ取った。
+","政党間の対立をうまく利用したと。
+",[],19世纪时，美国雇佣兵威廉·沃克夺取了尼加拉瓜政权。,,MATCH,124,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_FRAGMENT_COMPLETED_PER_JPN
+BRIEFING_FILES_BLOCK_02F3A0,4,stream=0x2F000;block=0x3A0;text=4,"[""stream=0x2F000;block=0x3A0;text=4""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]","19世紀には、アメリカ人傭兵ウィリアム・ウォーカーが、
+ニカラグアの政権を乗っ取った。
+","政党間の対立をうまく利用したと。
+","ウォーカーが追放された後も、アメリカは海兵隊を送り込
+んでいる。これも、政党間の対立を抑えるためって名目で。
+",[],听说他巧妙利用了政党之间的对立。,,MATCH,49,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02F3A0,5,stream=0x2F000;block=0x3A0;text=5,"[""stream=0x2F000;block=0x3A0;text=5""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]","政党間の対立をうまく利用したと。
+","ウォーカーが追放された後も、アメリカは海兵隊を送り込
+んでいる。これも、政党間の対立を抑えるためって名目で。
+","実際は。
+",[],沃克被驱逐以后，美国仍然派来了海军陆战队。名义上也是为了压制政党之间的对立。,,MATCH,161,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_POST_WALKER_CONTEXT_RESTORED
+BRIEFING_FILES_BLOCK_02F3A0,6,stream=0x2F000;block=0x3A0;text=6,"[""stream=0x2F000;block=0x3A0;text=6""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]","ウォーカーが追放された後も、アメリカは海兵隊を送り込
+んでいる。これも、政党間の対立を抑えるためって名目で。
+","実際は。
+","政府に睨みを利かせて、ニカラグア運河の建設を邪魔する
+ためよ。
+",[],实际上……,,MATCH,13,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_QUESTION_FORM_REPLACED_BY_JPN_FRAGMENT
+BRIEFING_FILES_BLOCK_02F3A0,7,stream=0x2F000;block=0x3A0;text=7,"[""stream=0x2F000;block=0x3A0;text=7""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0x3A0;block_file=0x2F3A0;text_base=0x2F3E0;capacity=644""]","実際は。
+","政府に睨みを利かせて、ニカラグア運河の建設を邪魔する
+ためよ。
+",,[],真正目的是向政府施压，阻挠尼加拉瓜运河的建设。,,MATCH,92,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_PRESSURE_NUANCE_PRIMARY

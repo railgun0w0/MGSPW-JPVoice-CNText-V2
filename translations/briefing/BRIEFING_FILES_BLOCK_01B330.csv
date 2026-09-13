@@ -1,0 +1,56 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01B330,0,stream=0x1B000;block=0x330;text=0,"[""stream=0x1B000;block=0x330;text=0""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]",,"C4爆弾の開発が完了した。ENTRY GATEで装備すれば、
+ミッションに持って行ける。
+","ありがたい。
+",[],C4炸药已经开发完成。在ENTRY GATE装备后，就能带进任务。,,MATCH,107,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,1,stream=0x1B000;block=0x330;text=1,"[""stream=0x1B000;block=0x330;text=1""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","C4爆弾の開発が完了した。ENTRY GATEで装備すれば、
+ミッションに持って行ける。
+","ありがたい。
+","C4爆弾を設置するには、まず装備する必要がある。武器選
+択メニューから、C4を選んでくれ。
+",[],那可帮大忙了。,,MATCH,19,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,2,stream=0x1B000;block=0x330;text=2,"[""stream=0x1B000;block=0x330;text=2""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","ありがたい。
+","C4爆弾を設置するには、まず装備する必要がある。武器選
+択メニューから、C4を選んでくれ。
+","装備後は、<I=AIM>を押しながら<I=ATK>を押してくれ。これでC4が設
+置できる。
+",[],要放置C4，首先得先装备它。从武器选择菜单里选择C4。,,MATCH,126,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,3,stream=0x1B000;block=0x330;text=3,"[""stream=0x1B000;block=0x330;text=3""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","C4爆弾を設置するには、まず装備する必要がある。武器選
+択メニューから、C4を選んでくれ。
+","装備後は、<I=AIM>を押しながら<I=ATK>を押してくれ。これでC4が設
+置できる。
+","起爆方法は？
+","[""<I=AIM>"", ""<I=ATK>""]",装备后，按住<I=AIM>再按<I=ATK>。这样就能放置C4。,<I=AIM> | <I=ATK>,MATCH,102,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,4,stream=0x1B000;block=0x330;text=4,"[""stream=0x1B000;block=0x330;text=4""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","装備後は、<I=AIM>を押しながら<I=ATK>を押してくれ。これでC4が設
+置できる。
+","起爆方法は？
+","<I=AIM>を押さずに<I=ATK>だ。いいか、<I=AIM>を押さずにだぞ。もちろん、
+C4は装備したままでだ。
+",[],怎么引爆？,,MATCH,19,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,5,stream=0x1B000;block=0x330;text=5,"[""stream=0x1B000;block=0x330;text=5""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","起爆方法は？
+","<I=AIM>を押さずに<I=ATK>だ。いいか、<I=AIM>を押さずにだぞ。もちろん、
+C4は装備したままでだ。
+","<I=AIM>を押しながらだと、その場にもう一つC4を設置すること
+になるからな。
+","[""<I=AIM>"", ""<I=ATK>"", ""<I=AIM>""]",不要按<I=AIM>，直接按<I=ATK>。听好了，是不要按<I=AIM>。当然，C4必须保持装备状态。,<I=AIM> | <I=ATK> | <I=AIM>,MATCH,127,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,6,stream=0x1B000;block=0x330;text=6,"[""stream=0x1B000;block=0x330;text=6""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","<I=AIM>を押さずに<I=ATK>だ。いいか、<I=AIM>を押さずにだぞ。もちろん、
+C4は装備したままでだ。
+","<I=AIM>を押しながらだと、その場にもう一つC4を設置すること
+になるからな。
+","気をつけよう。
+","[""<I=AIM>""]",如果按着<I=AIM>，就会在原地再放置一个C4。,<I=AIM>,MATCH,104,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,7,stream=0x1B000;block=0x330;text=7,"[""stream=0x1B000;block=0x330;text=7""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","<I=AIM>を押しながらだと、その場にもう一つC4を設置すること
+になるからな。
+","気をつけよう。
+","逆に言うと、C4は複数設置できるってことだ。設置した順
+番に起爆させられるから、うまく活用してくれ。
+",[],我会注意。,,MATCH,22,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,8,stream=0x1B000;block=0x330;text=8,"[""stream=0x1B000;block=0x330;text=8""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","気をつけよう。
+","逆に言うと、C4は複数設置できるってことだ。設置した順
+番に起爆させられるから、うまく活用してくれ。
+","了解だ。
+",[],换句话说，C4可以放置多个。而且会按放置顺序依次引爆，好好利用这一点。,,MATCH,145,101,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY
+BRIEFING_FILES_BLOCK_01B330,9,stream=0x1B000;block=0x330;text=9,"[""stream=0x1B000;block=0x330;text=9""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x330;block_file=0x1B330;text_base=0x1B378;capacity=796""]","逆に言うと、C4は複数設置できるってことだ。設置した順
+番に起爆させられるから、うまく活用してくれ。
+","了解だ。
+",,[],明白。,,MATCH,13,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE; JPN_ONLY

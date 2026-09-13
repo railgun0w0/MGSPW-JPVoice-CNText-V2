@@ -1,0 +1,15 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01ECA0,0,stream=0x1E000;block=0xCA0;text=0,"[""stream=0x1E000;block=0xCA0;text=0""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xCA0;block_file=0x1ECA0;text_base=0x1ECCC;capacity=336""]",,"ミサイル一発でマザーベースが沈むことはないが、着弾す
+れば当然修理に時間と人手、それに資材が必要になる。
+","なんとか俺たちのマザーベースを守ってくれ。
+",[],一发导弹还不至于让母基地沉没，但只要命中，修理当然就需要时间、人手和物资。,,MATCH,155,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FIRST_CLAUSE_OMITTED_RESTORED
+BRIEFING_FILES_BLOCK_01ECA0,1,stream=0x1E000;block=0xCA0;text=1,"[""stream=0x1E000;block=0xCA0;text=1""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xCA0;block_file=0x1ECA0;text_base=0x1ECCC;capacity=336""]","ミサイル一発でマザーベースが沈むことはないが、着弾す
+れば当然修理に時間と人手、それに資材が必要になる。
+","なんとか俺たちのマザーベースを守ってくれ。
+","ちなみに、自分がミサイルに当たったりすればまず命はな
+いぞ。気をつけてくれ。
+",[],无论如何，保护好我们的母基地。,,MATCH,64,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01ECA0,2,stream=0x1E000;block=0xCA0;text=2,"[""stream=0x1E000;block=0xCA0;text=2""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0xCA0;block_file=0x1ECA0;text_base=0x1ECCC;capacity=336""]","なんとか俺たちのマザーベースを守ってくれ。
+","ちなみに、自分がミサイルに当たったりすればまず命はな
+いぞ。気をつけてくれ。
+",,[],顺便说一句，要是你自己被导弹打中，基本就没命了。小心点。,,MATCH,113,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_TOAST_PARAPHRASE_JPN_LITERALIZED

@@ -1,0 +1,27 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_384420,0,stream=0x384000;block=0x420;text=0,"[""stream=0x384000;block=0x420;text=0""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x420;block_file=0x384420;text_base=0x38444C;capacity=344""]",,"まさか、こんなことが…。
+突如マザーベースを襲撃したギアレックスが、
+甲板で大暴れしている。
+","ギアレックスの怒りに触れたのか…。
+これは、MSF史上最大の危機だ。
+",[],"怎么会发生这种事……。
+突然袭击Mother Base的Gear REX，
+正在甲板上大肆破坏。
+",,MATCH,135,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_384420,1,stream=0x384000;block=0x420;text=1,"[""stream=0x384000;block=0x420;text=1""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x420;block_file=0x384420;text_base=0x38444C;capacity=344""]","まさか、こんなことが…。
+突如マザーベースを襲撃したギアレックスが、
+甲板で大暴れしている。
+","ギアレックスの怒りに触れたのか…。
+これは、MSF史上最大の危機だ。
+","頼む。ギアレックスを<R=狩猟,ハント>し、俺達のアウターヘブン
+を救ってくれ！
+",[],"我们惹怒Gear REX了吗……。
+这是MSF史上最大的危机。
+",,MATCH,95,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_384420,2,stream=0x384000;block=0x420;text=2,"[""stream=0x384000;block=0x420;text=2""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x420;block_file=0x384420;text_base=0x38444C;capacity=344""]","ギアレックスの怒りに触れたのか…。
+これは、MSF史上最大の危機だ。
+","頼む。ギアレックスを<R=狩猟,ハント>し、俺達のアウターヘブン
+を救ってくれ！
+",,"[""<R=狩猟,ハント>""]","拜托了。<R=狩猎,HUNT>Gear REX，
+救救我们的Outer Heaven！
+","<R=狩猎,HUNT>",MATCH,109,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED

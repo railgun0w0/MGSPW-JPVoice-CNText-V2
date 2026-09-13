@@ -1,0 +1,59 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_039D80,0,stream=0x39000;block=0xD80;text=0,"[""stream=0x39000;block=0xD80;text=0""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]",,"捕虜収容所についてはわかるか。
+","奴らは村を接収して、収容所にしてる。路地が入り組んで
+るから、哨戒兵の動きに注意して。
+",[],你了解战俘收容所的情况吗？,,MATCH,46,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,1,stream=0x39000;block=0xD80;text=1,"[""stream=0x39000;block=0xD80;text=1""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","捕虜収容所についてはわかるか。
+","奴らは村を接収して、収容所にしてる。路地が入り組んで
+るから、哨戒兵の動きに注意して。
+","鉢合わせは勘弁願いたいからな。
+",[],他们征用了整个村子，把那里改成了收容所。巷子错综复杂，要留意巡逻兵的动向。,,MATCH,128,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,2,stream=0x39000;block=0xD80;text=2,"[""stream=0x39000;block=0xD80;text=2""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","奴らは村を接収して、収容所にしてる。路地が入り組んで
+るから、哨戒兵の動きに注意して。
+","鉢合わせは勘弁願いたいからな。
+","路地をうまく使えば、逆に敵の目から逃れることもできる
+はずよ。
+",[],我可不想和他们迎面撞上。,,MATCH,46,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,3,stream=0x39000;block=0xD80;text=3,"[""stream=0x39000;block=0xD80;text=3""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","鉢合わせは勘弁願いたいからな。
+","路地をうまく使えば、逆に敵の目から逃れることもできる
+はずよ。
+","で、チコはどこに？
+",[],不过如果善用那些巷子，反过来也能躲开敌人的视线。,,MATCH,92,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,4,stream=0x39000;block=0xD80;text=4,"[""stream=0x39000;block=0xD80;text=4""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","路地をうまく使えば、逆に敵の目から逃れることもできる
+はずよ。
+","で、チコはどこに？
+","どれかの家に捕まってるはず。戸口から覗いて中を確かめ
+て。アイコンが出たら、<I=ACT>を押せばいい。
+",[],那Chico在哪里？,,MATCH,28,20,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,5,stream=0x39000;block=0xD80;text=5,"[""stream=0x39000;block=0xD80;text=5""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","で、チコはどこに？
+","どれかの家に捕まってるはず。戸口から覗いて中を確かめ
+て。アイコンが出たら、<I=ACT>を押せばいい。
+","家の中の物音がヒントになるかも。耳を澄ましてみて。
+","[""<I=ACT>""]",应该被关在某间屋子里。从门口往里看，确认一下里面。出现图标后，按<I=ACT>就行。,<I=ACT>,MATCH,141,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,6,stream=0x39000;block=0xD80;text=6,"[""stream=0x39000;block=0xD80;text=6""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","どれかの家に捕まってるはず。戸口から覗いて中を確かめ
+て。アイコンが出たら、<I=ACT>を押せばいい。
+","家の中の物音がヒントになるかも。耳を澄ましてみて。
+","やってみよう。
+",[],屋里的动静也许能提供线索。仔细听听。,,MATCH,76,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,7,stream=0x39000;block=0xD80;text=7,"[""stream=0x39000;block=0xD80;text=7""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","家の中の物音がヒントになるかも。耳を澄ましてみて。
+","やってみよう。
+","覗いている間も周囲の巡回は続いている。敵に見つからな
+いようにね。
+",[],我试试。,,MATCH,22,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,8,stream=0x39000;block=0xD80;text=8,"[""stream=0x39000;block=0xD80;text=8""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","やってみよう。
+","覗いている間も周囲の巡回は続いている。敵に見つからな
+いようにね。
+","スネーク…。
+",[],你窥视屋内的时候，周围的巡逻也不会停。别被敌人发现。,,MATCH,98,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,9,stream=0x39000;block=0xD80;text=9,"[""stream=0x39000;block=0xD80;text=9""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","覗いている間も周囲の巡回は続いている。敵に見つからな
+いようにね。
+","スネーク…。
+","わかってる。チコを助け出せるように、最善を尽くす。
+",[],Snake……。,,MATCH,19,14,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,10,stream=0x39000;block=0xD80;text=10,"[""stream=0x39000;block=0xD80;text=10""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","スネーク…。
+","わかってる。チコを助け出せるように、最善を尽くす。
+","ありがとう。頼りにしてる。
+",[],我知道。我会尽全力把Chico救出来。,,MATCH,76,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_039D80,11,stream=0x39000;block=0xD80;text=11,"[""stream=0x39000;block=0xD80;text=11""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","わかってる。チコを助け出せるように、最善を尽くす。
+","ありがとう。頼りにしてる。
+",,[],谢谢。靠你了。,,MATCH,40,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

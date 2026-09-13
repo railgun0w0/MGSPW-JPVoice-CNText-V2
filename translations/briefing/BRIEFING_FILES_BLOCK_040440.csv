@@ -1,0 +1,52 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_040440,0,stream=0x40000;block=0x440;text=0,"[""stream=0x40000;block=0x440;text=0""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]",,"アマンダはうるさいんだよなぁ。後を付いてこいとか、自
+分から離れるなとか。
+","この間なんか、慌てて飯喰ってたら「<R= ご飯 ,ガジョピント>はよく噛んで
+食べなさい」だぜ？
+",[],Amanda真烦人。老是叫我跟紧她，不准离开她身边。,,MATCH,110,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_040440,1,stream=0x40000;block=0x440;text=1,"[""stream=0x40000;block=0x440;text=1""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","アマンダはうるさいんだよなぁ。後を付いてこいとか、自
+分から離れるなとか。
+","この間なんか、慌てて飯喰ってたら「<R= ご飯 ,ガジョピント>はよく噛んで
+食べなさい」だぜ？
+","アマンダなら言いそうだ。
+","[""<R= ご飯 ,ガジョピント>""]","前阵子我赶着吃饭，她居然还说“<R= 饭 ,GALLO PINTO>要好好嚼了再吃”，你敢信？","<R= 饭 ,GALLO PINTO>",MATCH,129,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_040440,2,stream=0x40000;block=0x440;text=2,"[""stream=0x40000;block=0x440;text=2""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","この間なんか、慌てて飯喰ってたら「<R= ご飯 ,ガジョピント>はよく噛んで
+食べなさい」だぜ？
+","アマンダなら言いそうだ。
+","敵がいつ来るかわからないのに、のんびり飯なんか食って
+られるか！
+",[],这话确实像Amanda会说的。,,MATCH,37,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_040440,3,stream=0x40000;block=0x440;text=3,"[""stream=0x40000;block=0x440;text=3""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","アマンダなら言いそうだ。
+","敵がいつ来るかわからないのに、のんびり飯なんか食って
+られるか！
+","俺だって一人前の<R=FSLN,サンディニスタ>なんだ。女にそんなこと言われた
+くない！！
+",[],谁知道敌人什么时候会来，哪有时间慢吞吞地吃饭！,,MATCH,95,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_040440,4,stream=0x40000;block=0x440;text=4,"[""stream=0x40000;block=0x440;text=4""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","敵がいつ来るかわからないのに、のんびり飯なんか食って
+られるか！
+","俺だって一人前の<R=FSLN,サンディニスタ>なんだ。女にそんなこと言われた
+くない！！
+","女だから、は関係ないだろう。お前の姉さんは頑張ってる
+と思うぞ。亡くなった親父さんの跡を継いで。
+","[""<R=FSLN,サンディニスタ>""]","我也是独当一面的<R=FSLN,SANDINISTA>了。我可不想被女人这么说！！","<R=FSLN,SANDINISTA>",MATCH,116,85,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_040440,5,stream=0x40000;block=0x440;text=5,"[""stream=0x40000;block=0x440;text=5""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","俺だって一人前の<R=FSLN,サンディニスタ>なんだ。女にそんなこと言われた
+くない！！
+","女だから、は関係ないだろう。お前の姉さんは頑張ってる
+と思うぞ。亡くなった親父さんの跡を継いで。
+","わかってるよ、それは…アマンダのやつ、最近元気ないも
+んな。
+",[],这跟她是女人没关系吧。你姐姐已经很努力了。她继承了你过世父亲的事业。,,MATCH,143,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_040440,6,stream=0x40000;block=0x440;text=6,"[""stream=0x40000;block=0x440;text=6""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","女だから、は関係ないだろう。お前の姉さんは頑張ってる
+と思うぞ。亡くなった親父さんの跡を継いで。
+","わかってるよ、それは…アマンダのやつ、最近元気ないも
+んな。
+","仕方ないけど…俺がしっかりしなきゃ。
+",[],我知道啦……Amanda最近确实没什么精神。,,MATCH,89,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_040440,7,stream=0x40000;block=0x440;text=7,"[""stream=0x40000;block=0x440;text=7""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","わかってるよ、それは…アマンダのやつ、最近元気ないも
+んな。
+","仕方ないけど…俺がしっかりしなきゃ。
+","その意気だ。
+",[],虽然也没办法……但我得振作起来才行。,,MATCH,55,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_040440,8,stream=0x40000;block=0x440;text=8,"[""stream=0x40000;block=0x440;text=8""]",1,BRIEFING FILES,"[""stream=0x40000;block=0x440;block_file=0x40440;text_base=0x40484;capacity=804""]","仕方ないけど…俺がしっかりしなきゃ。
+","その意気だ。
+",,[],就是这股劲。,,MATCH,19,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

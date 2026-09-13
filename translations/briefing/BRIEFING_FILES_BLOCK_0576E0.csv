@@ -1,0 +1,53 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0576E0,0,stream=0x57000;block=0x6E0;text=0,"[""stream=0x57000;block=0x6E0;text=0""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]",,"ヒューイからも聞いていると思うが、このマザーベースで
+生産できるパーツには限りがある。
+","だから<R=ZEKE,ジーク>のAIは、お前が引き抜いてきたAI兵器の記憶
+板を流用することにした。
+",[],Huey应该也跟你说过，在Mother Base能生产的零件是有限的。,,MATCH,128,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0576E0,1,stream=0x57000;block=0x6E0;text=1,"[""stream=0x57000;block=0x6E0;text=1""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","ヒューイからも聞いていると思うが、このマザーベースで
+生産できるパーツには限りがある。
+","だから<R=ZEKE,ジーク>のAIは、お前が引き抜いてきたAI兵器の記憶
+板を流用することにした。
+","それで上手くいくのか？
+","[""<R=ZEKE,ジーク>""]","所以<R=ZEKE,ZEKE>的AI决定沿用你从那些AI兵器上拔下来的记忆板。","<R=ZEKE,ZEKE>",MATCH,123,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_0576E0,2,stream=0x57000;block=0x6E0;text=2,"[""stream=0x57000;block=0x6E0;text=2""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","だから<R=ZEKE,ジーク>のAIは、お前が引き抜いてきたAI兵器の記憶
+板を流用することにした。
+","それで上手くいくのか？
+","人間の脳というのは、ひとつのパーツがひとつの機能を担
+当しているわけではない。
+",[],那样能行吗？,,MATCH,34,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0576E0,3,stream=0x57000;block=0x6E0;text=3,"[""stream=0x57000;block=0x6E0;text=3""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","それで上手くいくのか？
+","人間の脳というのは、ひとつのパーツがひとつの機能を担
+当しているわけではない。
+","私たちのAIも同じだ。ある機能を持った複数のパーツ同士
+が連携し合い、その機能を強化していく。
+",[],人类的大脑并不是一个部件只负责一种功能。,,MATCH,116,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0576E0,4,stream=0x57000;block=0x6E0;text=4,"[""stream=0x57000;block=0x6E0;text=4""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","人間の脳というのは、ひとつのパーツがひとつの機能を担
+当しているわけではない。
+","私たちのAIも同じだ。ある機能を持った複数のパーツ同士
+が連携し合い、その機能を強化していく。
+","例えば、センサーを制御する記憶板が多ければ索敵能力が
+上がる。機動を司る記憶板を多く搭載すれば機動力が上が
+る。
+",[],我们的AI也是一样。多个承担某种功能的部件彼此协作，从而强化那项功能。,,MATCH,136,101,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0576E0,5,stream=0x57000;block=0x6E0;text=5,"[""stream=0x57000;block=0x6E0;text=5""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","私たちのAIも同じだ。ある機能を持った複数のパーツ同士
+が連携し合い、その機能を強化していく。
+","例えば、センサーを制御する記憶板が多ければ索敵能力が
+上がる。機動を司る記憶板を多く搭載すれば機動力が上が
+る。
+","つまり、搭載する記憶板に応じて、AIの能力が変わってく
+るというわけか。
+",[],比如，控制传感器的记忆板越多，索敌能力就越强；搭载更多负责机动的记忆板，机动力就会提高。,,MATCH,165,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0576E0,6,stream=0x57000;block=0x6E0;text=6,"[""stream=0x57000;block=0x6E0;text=6""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","例えば、センサーを制御する記憶板が多ければ索敵能力が
+上がる。機動を司る記憶板を多く搭載すれば機動力が上が
+る。
+","つまり、搭載する記憶板に応じて、AIの能力が変わってく
+るというわけか。
+","そうだ。AIの機能を強化したければ、多くの記憶板を集め
+る必要がある。
+",[],也就是说，AI的能力会根据搭载的记忆板而改变？,,MATCH,103,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0576E0,7,stream=0x57000;block=0x6E0;text=7,"[""stream=0x57000;block=0x6E0;text=7""]",1,BRIEFING FILES,"[""stream=0x57000;block=0x6E0;block_file=0x576E0;text_base=0x57720;capacity=916""]","つまり、搭載する記憶板に応じて、AIの能力が変わってく
+るというわけか。
+","そうだ。AIの機能を強化したければ、多くの記憶板を集め
+る必要がある。
+",,[],没错。想强化AI的功能，就需要收集更多记忆板。,,MATCH,100,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

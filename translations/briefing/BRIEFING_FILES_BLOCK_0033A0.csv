@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0033A0,0,stream=0x3000;block=0x3A0;text=0,"[""stream=0x3000;block=0x3A0;text=0""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]",,"まさかパスが…バンドを組もうって言ってたのに。
+","彼女はKGBとも通じていた？
+",[],没想到Paz竟然……明明还说过要一起组乐队。,,MATCH,70,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0033A0,1,stream=0x3000;block=0x3A0;text=1,"[""stream=0x3000;block=0x3A0;text=1""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","まさかパスが…バンドを組もうって言ってたのに。
+","彼女はKGBとも通じていた？
+","素性を隠してガルベスに近づいたんだろう。コールドマン
+はどこまで知っていたのか…。
+",[],她也和KGB有联系？,,MATCH,37,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_SEMANTIC_DRIFT_IGNORED
+BRIEFING_FILES_BLOCK_0033A0,2,stream=0x3000;block=0x3A0;text=2,"[""stream=0x3000;block=0x3A0;text=2""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","彼女はKGBとも通じていた？
+","素性を隠してガルベスに近づいたんだろう。コールドマン
+はどこまで知っていたのか…。
+","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
+",[],她大概是隐瞒身份接近Gálvez的。Coldman到底知道多少……,,MATCH,122,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0033A0,3,stream=0x3000;block=0x3A0;text=3,"[""stream=0x3000;block=0x3A0;text=3""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","素性を隠してガルベスに近づいたんだろう。コールドマン
+はどこまで知っていたのか…。
+","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
+","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
+","[""<R=CIPHER,サイファー>""]","但那也只是为一个叫“<R=CIPHER,サイファー>”的组织进行的行动。","<R=CIPHER,サイファー>",MATCH,96,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
+BRIEFING_FILES_BLOCK_0033A0,4,stream=0x3000;block=0x3A0;text=4,"[""stream=0x3000;block=0x3A0;text=4""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
+","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
+","んー、サイファー…「暗号」、か。あるいは「アラビア数
+字」「0」…。
+","[""<R=CIPHER,サイファー>""]","“<R=CIPHER,サイファー>”……Kaz，你听说过吗？","<R=CIPHER,サイファー>",MATCH,75,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
+BRIEFING_FILES_BLOCK_0033A0,5,stream=0x3000;block=0x3A0;text=5,"[""stream=0x3000;block=0x3A0;text=5""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
+","んー、サイファー…「暗号」、か。あるいは「アラビア数
+字」「0」…。
+","ゼロ…。
+",[],嗯——Cipher……是「密码」吧。或者「阿拉伯数字」「0」……,,MATCH,99,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0033A0,6,stream=0x3000;block=0x3A0;text=6,"[""stream=0x3000;block=0x3A0;text=6""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","んー、サイファー…「暗号」、か。あるいは「アラビア数
+字」「0」…。
+","ゼロ…。
+","心当たりがあるのか？
+",[],Zero……,,MATCH,13,10,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;ZERO_PROPER_NAME_CONTEXT
+BRIEFING_FILES_BLOCK_0033A0,7,stream=0x3000;block=0x3A0;text=7,"[""stream=0x3000;block=0x3A0;text=7""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","ゼロ…。
+","心当たりがあるのか？
+","さあな。
+",[],你想到什么了吗？,,MATCH,31,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0033A0,8,stream=0x3000;block=0x3A0;text=8,"[""stream=0x3000;block=0x3A0;text=8""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","心当たりがあるのか？
+","さあな。
+","もともと<R=CIPHER,サイファー>とZEROは同じ言葉だったんだ。<R=二重語,doublet>
+だな。
+",[],不知道。,,MATCH,13,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0033A0,9,stream=0x3000;block=0x3A0;text=9,"[""stream=0x3000;block=0x3A0;text=9""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","さあな。
+","もともと<R=CIPHER,サイファー>とZEROは同じ言葉だったんだ。<R=二重語,doublet>
+だな。
+","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
+ころの「空」だ。
+","[""<R=CIPHER,サイファー>"", ""<R=二重語,doublet>""]","原本<R=CIPHER,サイファー>和ZERO就是同一个词。属于<R=同源异形词,doublet>。","<R=CIPHER,サイファー> | <R=同源异形词,doublet>",MATCH,110,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_0033A0,10,stream=0x3000;block=0x3A0;text=10,"[""stream=0x3000;block=0x3A0;text=10""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","もともと<R=CIPHER,サイファー>とZEROは同じ言葉だったんだ。<R=二重語,doublet>
+だな。
+","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
+ころの「空」だ。
+","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
+ることで、中身が空になった状態を指したらしい。
+",[],这个词的起源可以追溯到梵语sunya……也就是佛教所说的「空」。,,MATCH,100,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_PARTIAL
+BRIEFING_FILES_BLOCK_0033A0,11,stream=0x3000;block=0x3A0;text=11,"[""stream=0x3000;block=0x3A0;text=11""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
+ころの「空」だ。
+","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
+ることで、中身が空になった状態を指したらしい。
+","膨張してできた空か…まるで宇宙だな。
+",[],佛教所说的「空」有“空虚”之意。据说指的是膨胀之后，内部变得空无的状态。,,MATCH,149,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0033A0,12,stream=0x3000;block=0x3A0;text=12,"[""stream=0x3000;block=0x3A0;text=12""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
+ることで、中身が空になった状態を指したらしい。
+","膨張してできた空か…まるで宇宙だな。
+",,[],因膨胀而形成的空无吗……简直就像宇宙。,,MATCH,55,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION

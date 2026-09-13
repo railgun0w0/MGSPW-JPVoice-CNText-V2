@@ -1,0 +1,39 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_04D040,0,stream=0x4D000;block=0x40;text=0,"[""stream=0x4D000;block=0x40;text=0""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x40;block_file=0x4D040;text_base=0x4D07C;capacity=704""]",,"スネークのカメラはレンジファインダー型なんだよな。
+","レンジファインダーカメラは、小さいのにちゃんとピント
+合わせができるんだって、<R=父さん,ミ・ビエホ>が言ってた。
+",[],Snake的相机是旁轴式的吧。,,MATCH,76,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04D040,1,stream=0x4D000;block=0x40;text=1,"[""stream=0x4D000;block=0x40;text=1""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x40;block_file=0x4D040;text_base=0x4D07C;capacity=704""]","スネークのカメラはレンジファインダー型なんだよな。
+","レンジファインダーカメラは、小さいのにちゃんとピント
+合わせができるんだって、<R=父さん,ミ・ビエホ>が言ってた。
+","それにシャッターを切ったときのブレが少ないんだって。
+","[""<R=父さん,ミ・ビエホ>""]","<R=父亲,MI VIEJO>说过，旁轴相机虽然小，却能好好对焦。","<R=父亲,MI VIEJO>",MATCH,163,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_04D040,2,stream=0x4D000;block=0x40;text=2,"[""stream=0x4D000;block=0x40;text=2""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x40;block_file=0x4D040;text_base=0x4D07C;capacity=704""]","レンジファインダーカメラは、小さいのにちゃんとピント
+合わせができるんだって、<R=父さん,ミ・ビエホ>が言ってた。
+","それにシャッターを切ったときのブレが少ないんだって。
+","ピントを合わせるには、ファインダーの中で二重になった
+像が、ぴったり重なるようにすればいい。
+",[],而且听说按下快门时也不容易抖动。,,MATCH,79,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04D040,3,stream=0x4D000;block=0x40;text=3,"[""stream=0x4D000;block=0x40;text=3""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x40;block_file=0x4D040;text_base=0x4D07C;capacity=704""]","それにシャッターを切ったときのブレが少ないんだって。
+","ピントを合わせるには、ファインダーの中で二重になった
+像が、ぴったり重なるようにすればいい。
+","でも、あんたならピントを合わせるなんて手が勝手にやっ
+てくれるだろ？
+",[],要对焦的话，只要让取景器里重叠成两层的影像完全合在一起就行。,,MATCH,137,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04D040,4,stream=0x4D000;block=0x40;text=4,"[""stream=0x4D000;block=0x40;text=4""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x40;block_file=0x4D040;text_base=0x4D07C;capacity=704""]","ピントを合わせるには、ファインダーの中で二重になった
+像が、ぴったり重なるようにすればいい。
+","でも、あんたならピントを合わせるなんて手が勝手にやっ
+てくれるだろ？
+","だから、被写体をしっかり捉えることだけを考えればいい
+さ。
+",[],不过换成你的话，对焦这种事手自己就会完成吧？,,MATCH,101,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04D040,5,stream=0x4D000;block=0x40;text=5,"[""stream=0x4D000;block=0x40;text=5""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x40;block_file=0x4D040;text_base=0x4D07C;capacity=704""]","でも、あんたならピントを合わせるなんて手が勝手にやっ
+てくれるだろ？
+","だから、被写体をしっかり捉えることだけを考えればいい
+さ。
+","なにせ、写真はタイミングだからな。
+",[],所以你只需要想着牢牢抓住拍摄对象就行。,,MATCH,86,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_04D040,6,stream=0x4D000;block=0x40;text=6,"[""stream=0x4D000;block=0x40;text=6""]",1,BRIEFING FILES,"[""stream=0x4D000;block=0x40;block_file=0x4D040;text_base=0x4D07C;capacity=704""]","だから、被写体をしっかり捉えることだけを考えればいい
+さ。
+","なにせ、写真はタイミングだからな。
+",,[],毕竟，摄影最重要的就是时机。,,MATCH,52,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

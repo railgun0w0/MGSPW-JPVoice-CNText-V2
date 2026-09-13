@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_027FF0,0,stream=0x27000;block=0xFF0;text=0,"[""stream=0x27000;block=0xFF0;text=0""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]",,"今は一人で暮らしているのか？
+","ううん。中等学校に入学してからは、学校の寄宿舎に入っ
+てるの。
+",[],现在是一个人生活吗？,,MATCH,43,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,1,stream=0x27000;block=0xFF0;text=1,"[""stream=0x27000;block=0xFF0;text=1""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","今は一人で暮らしているのか？
+","ううん。中等学校に入学してからは、学校の寄宿舎に入っ
+てるの。
+","お母さんが死んでからは親戚の家に引き取られたんだけど
+…やっぱり、本当の家族じゃないから。
+",[],不。上了中学以后，我就住在学校宿舍。,,MATCH,92,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,2,stream=0x27000;block=0xFF0;text=2,"[""stream=0x27000;block=0xFF0;text=2""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","ううん。中等学校に入学してからは、学校の寄宿舎に入っ
+てるの。
+","お母さんが死んでからは親戚の家に引き取られたんだけど
+…やっぱり、本当の家族じゃないから。
+","居心地が悪かったか？
+",[],妈妈死后亲戚收留了我……但毕竟不是真正的家人。,,MATCH,134,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,3,stream=0x27000;block=0xFF0;text=3,"[""stream=0x27000;block=0xFF0;text=3""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","お母さんが死んでからは親戚の家に引き取られたんだけど
+…やっぱり、本当の家族じゃないから。
+","居心地が悪かったか？
+","そうね…。おばさんたちは私の前では優しかったけど…。
+",[],住得不自在吗？,,MATCH,31,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DISCOMFORT_PRIMARY
+BRIEFING_FILES_BLOCK_027FF0,4,stream=0x27000;block=0xFF0;text=4,"[""stream=0x27000;block=0xFF0;text=4""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","居心地が悪かったか？
+","そうね…。おばさんたちは私の前では優しかったけど…。
+","でも、急に子供を引き取ることになって、やっぱり困って
+たんだと思うの。
+",[],是啊……姨妈们在我面前都对我很好，可是……,,MATCH,79,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,5,stream=0x27000;block=0xFF0;text=5,"[""stream=0x27000;block=0xFF0;text=5""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","そうね…。おばさんたちは私の前では優しかったけど…。
+","でも、急に子供を引き取ることになって、やっぱり困って
+たんだと思うの。
+","一緒に暮らしてたら隠し事なんて出来ない。やっぱり私が
+迷惑をかけているというのはわかったから…。
+",[],不过，我想突然要收养一个孩子，她们肯定也很为难。,,MATCH,104,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,6,stream=0x27000;block=0xFF0;text=6,"[""stream=0x27000;block=0xFF0;text=6""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","でも、急に子供を引き取ることになって、やっぱり困って
+たんだと思うの。
+","一緒に暮らしてたら隠し事なんて出来ない。やっぱり私が
+迷惑をかけているというのはわかったから…。
+","苦労したようだな。
+",[],住在一起就没法隐瞒。我还是能感觉到，自己给她们添了麻烦……,,MATCH,143,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,7,stream=0x27000;block=0xFF0;text=7,"[""stream=0x27000;block=0xFF0;text=7""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","一緒に暮らしてたら隠し事なんて出来ない。やっぱり私が
+迷惑をかけているというのはわかったから…。
+","苦労したようだな。
+","ううん。引き取ってくれる人がいただけで有り難かった。
+",[],看来你吃了不少苦。,,MATCH,28,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,8,stream=0x27000;block=0xFF0;text=8,"[""stream=0x27000;block=0xFF0;text=8""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","苦労したようだな。
+","ううん。引き取ってくれる人がいただけで有り難かった。
+","<R=私生児,バスタード>の中には母親が死んでストリートチルドレンになる
+子もいるし、内戦が多い国はもっとひどい。
+",[],不。光是有人肯收留我，我就已经很感激了。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_GRATITUDE_NOT_LUCK_PRIMARY
+BRIEFING_FILES_BLOCK_027FF0,9,stream=0x27000;block=0xFF0;text=9,"[""stream=0x27000;block=0xFF0;text=9""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","ううん。引き取ってくれる人がいただけで有り難かった。
+","<R=私生児,バスタード>の中には母親が死んでストリートチルドレンになる
+子もいるし、内戦が多い国はもっとひどい。
+","この程度で不幸とは言えないわ。
+","[""<R=私生児,バスタード>""]","有些<R=私生子,Bastard>在母亲去世后会沦为街头儿童，内战频发的国家就更惨了。","<R=私生子,Bastard>",MATCH,160,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;AUX_ORPHAN_MISTRANSLATION_CORRECTED
+BRIEFING_FILES_BLOCK_027FF0,10,stream=0x27000;block=0xFF0;text=10,"[""stream=0x27000;block=0xFF0;text=10""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","<R=私生児,バスタード>の中には母親が死んでストリートチルドレンになる
+子もいるし、内戦が多い国はもっとひどい。
+","この程度で不幸とは言えないわ。
+","君は強いんだな。
+",[],我这点经历还算不上不幸。,,MATCH,46,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_LITERAL_PRIMARY
+BRIEFING_FILES_BLOCK_027FF0,11,stream=0x27000;block=0xFF0;text=11,"[""stream=0x27000;block=0xFF0;text=11""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","この程度で不幸とは言えないわ。
+","君は強いんだな。
+","…ううん。強くなんてない。
+",[],你很坚强啊。,,MATCH,25,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_027FF0,12,stream=0x27000;block=0xFF0;text=12,"[""stream=0x27000;block=0xFF0;text=12""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xFF0;block_file=0x27FF0;text_base=0x28044;capacity=1020""]","君は強いんだな。
+","…ううん。強くなんてない。
+",,[],……不。我一点也不坚强。,,MATCH,40,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

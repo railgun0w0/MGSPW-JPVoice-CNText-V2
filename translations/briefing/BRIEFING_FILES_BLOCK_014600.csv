@@ -1,0 +1,45 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_014600,0,stream=0x14000;block=0x600;text=0,"[""stream=0x14000;block=0x600;text=0""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]",,"そう言えば、作戦行動中に一列で進むことをスネークフォ
+ーメーションって呼ぶよな。
+","あんたのコードネームと同じだが、単独潜入が得意なあん
+たにとって、いままであまりなじみがなかったはずだ。
+",[],说起来，作战行动中排成一列前进，叫作Snake Formation吧。,,MATCH,119,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_014600,1,stream=0x14000;block=0x600;text=1,"[""stream=0x14000;block=0x600;text=1""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]","そう言えば、作戦行動中に一列で進むことをスネークフォ
+ーメーションって呼ぶよな。
+","あんたのコードネームと同じだが、単独潜入が得意なあん
+たにとって、いままであまりなじみがなかったはずだ。
+","ああ。蛇は一人でいい。
+",[],虽然和你的代号一样，但对擅长单独潜入的你来说，以前应该不怎么熟悉。,,MATCH,155,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_014600,2,stream=0x14000;block=0x600;text=2,"[""stream=0x14000;block=0x600;text=2""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]","あんたのコードネームと同じだが、単独潜入が得意なあん
+たにとって、いままであまりなじみがなかったはずだ。
+","ああ。蛇は一人でいい。
+","だがCO-OPSではこれも有効な隊形だ。相手の肩に手を置
+くのがスネークフォーメーションの合図になる。
+",[],是啊。Snake一个就够了。,,MATCH,34,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FORMATION_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_014600,3,stream=0x14000;block=0x600;text=3,"[""stream=0x14000;block=0x600;text=3""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]","ああ。蛇は一人でいい。
+","だがCO-OPSではこれも有効な隊形だ。相手の肩に手を置
+くのがスネークフォーメーションの合図になる。
+","まずは手が触れるぐらい近づかないことには、一列も何も
+ないからな。
+",[],不过在CO-OPS里，这也是有效的队形。把手搭在对方肩上，就是进入Snake Formation的信号。,,MATCH,140,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_014600,4,stream=0x14000;block=0x600;text=4,"[""stream=0x14000;block=0x600;text=4""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]","だがCO-OPSではこれも有効な隊形だ。相手の肩に手を置
+くのがスネークフォーメーションの合図になる。
+","まずは手が触れるぐらい近づかないことには、一列も何も
+ないからな。
+","スネークフォーメーションになることをスネーク・インと
+呼ぼう。
+",[],首先得靠近到手能碰到对方的距离，不然也谈不上排成一列。,,MATCH,98,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_014600,5,stream=0x14000;block=0x600;text=5,"[""stream=0x14000;block=0x600;text=5""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]","まずは手が触れるぐらい近づかないことには、一列も何も
+ないからな。
+","スネークフォーメーションになることをスネーク・インと
+呼ぼう。
+","スネーク・インしている間は、移動は前の兵士任せになる。
+",[],就把进入Snake Formation叫作Snake In吧。,,MATCH,92,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_014600,6,stream=0x14000;block=0x600;text=6,"[""stream=0x14000;block=0x600;text=6""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]","スネークフォーメーションになることをスネーク・インと
+呼ぼう。
+","スネーク・インしている間は、移動は前の兵士任せになる。
+","後ろの兵士はそのぶん索敵や攻撃に専念できるはずだ。
+",[],Snake In期间，移动就交给前面的士兵。,,MATCH,82,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_014600,7,stream=0x14000;block=0x600;text=7,"[""stream=0x14000;block=0x600;text=7""]",1,BRIEFING FILES,"[""stream=0x14000;block=0x600;block_file=0x14600;text_base=0x14640;capacity=804""]","スネーク・インしている間は、移動は前の兵士任せになる。
+","後ろの兵士はそのぶん索敵や攻撃に専念できるはずだ。
+",,[],这样一来，后面的士兵应该就能专心搜索敌人和攻击。,,MATCH,76,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

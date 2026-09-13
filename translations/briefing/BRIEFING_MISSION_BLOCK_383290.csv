@@ -1,0 +1,18 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_383290,0,stream=0x383000;block=0x290;text=0,"[""stream=0x383000;block=0x290;text=0""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x290;block_file=0x383290;text_base=0x3832B8;capacity=228""]",,"米軍ミサイル基地の地下通路に、
+敵増援部隊が送られた。
+","既に現地入りしているボスのために、
+何としてもこの拠点を防衛し、
+増援部隊の侵入を食い止めるんだ。
+",[],"敌军增援部队已被派往
+美军导弹基地的地下通道。
+",,MATCH,80,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_383290,1,stream=0x383000;block=0x290;text=1,"[""stream=0x383000;block=0x290;text=1""]",1,BRIEFING MISSION,"[""stream=0x383000;block=0x290;block_file=0x383290;text_base=0x3832B8;capacity=228""]","米軍ミサイル基地の地下通路に、
+敵増援部隊が送られた。
+","既に現地入りしているボスのために、
+何としてもこの拠点を防衛し、
+増援部隊の侵入を食い止めるんだ。
+",,[],"为了已经进入当地的Boss，
+无论如何都要守住这个据点，
+阻止增援部队进入。
+",,MATCH,144,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

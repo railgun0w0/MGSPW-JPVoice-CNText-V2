@@ -1,0 +1,29 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02AC70,0,stream=0x2A000;block=0xC70;text=0,"[""stream=0x2A000;block=0xC70;text=0""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]",,"コスタリカで本格的な鉄道が走り始めたのは、100年位前
+のことよ。
+","中央盆地で穫れるコーヒーを、カリブ海側から輸出したか
+ったのね。
+",[],哥斯达黎加真正的铁路开始运行，大约是在100年前。,,MATCH,92,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02AC70,1,stream=0x2A000;block=0xC70;text=1,"[""stream=0x2A000;block=0xC70;text=1""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","コスタリカで本格的な鉄道が走り始めたのは、100年位前
+のことよ。
+","中央盆地で穫れるコーヒーを、カリブ海側から輸出したか
+ったのね。
+","このジャングルだらけの地形を、100年も前にか！　ご苦
+労なことだ。
+",[],当时是为了把中央盆地出产的咖啡从加勒比海一侧出口。,,MATCH,95,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EXPORT_DESTINATION_RESTORED
+BRIEFING_FILES_BLOCK_02AC70,2,stream=0x2A000;block=0xC70;text=2,"[""stream=0x2A000;block=0xC70;text=2""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","中央盆地で穫れるコーヒーを、カリブ海側から輸出したか
+ったのね。
+","このジャングルだらけの地形を、100年も前にか！　ご苦
+労なことだ。
+","実際、かなりの難工事だったって話よ。
+",[],早在100年前，就要穿过这片尽是丛林的地形吗！真够辛苦的。,,MATCH,95,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_JUNGLE_TERRAIN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_02AC70,3,stream=0x2A000;block=0xC70;text=3,"[""stream=0x2A000;block=0xC70;text=3""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","このジャングルだらけの地形を、100年も前にか！　ご苦
+労なことだ。
+","実際、かなりの難工事だったって話よ。
+","その後、鉄道はバナナの輸送にも使われるようになったの。
+このあたりにも、支線が残っているかもね。
+",[],听说实际施工也确实相当艰难。,,MATCH,55,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02AC70,4,stream=0x2A000;block=0xC70;text=4,"[""stream=0x2A000;block=0xC70;text=4""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xC70;block_file=0x2AC70;text_base=0x2ACA4;capacity=488""]","実際、かなりの難工事だったって話よ。
+","その後、鉄道はバナナの輸送にも使われるようになったの。
+このあたりにも、支線が残っているかもね。
+",,[],后来铁路也被用来运输香蕉。这一带或许还留着支线。,,MATCH,143,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_BANANA_TRANSPORT_RESTORED

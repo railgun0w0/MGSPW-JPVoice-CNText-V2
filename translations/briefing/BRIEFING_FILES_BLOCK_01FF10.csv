@@ -1,0 +1,22 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01FF10,0,stream=0x1F000;block=0xF10;text=0,"[""stream=0x1F000;block=0xF10;text=0""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]",,"コマンド兵の中でもとくにショットガンを持った連中はや
+っかいだ。
+","奴らは多少被弾しても構わず突進してくる。
+",[],突击兵里，尤其是那些拿霰弹枪的家伙最难对付。,,MATCH,95,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01FF10,1,stream=0x1F000;block=0xF10;text=1,"[""stream=0x1F000;block=0xF10;text=1""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]","コマンド兵の中でもとくにショットガンを持った連中はや
+っかいだ。
+","奴らは多少被弾しても構わず突進してくる。
+","ショットガンの射程内に入ったらこっちもただじゃ済まな
+い。
+",[],他们挨上几枪也不在乎，照样会冲过来。,,MATCH,61,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01FF10,2,stream=0x1F000;block=0xF10;text=2,"[""stream=0x1F000;block=0xF10;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]","奴らは多少被弾しても構わず突進してくる。
+","ショットガンの射程内に入ったらこっちもただじゃ済まな
+い。
+","奴らの突撃は、威力の高い武器で早めに制止する必要があ
+る。
+",[],一旦进入霰弹枪的射程，你也绝不会全身而退。,,MATCH,86,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARAPHRASE_JPN_USED
+BRIEFING_FILES_BLOCK_01FF10,3,stream=0x1F000;block=0xF10;text=3,"[""stream=0x1F000;block=0xF10;text=3""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0xF10;block_file=0x1FF10;text_base=0x1FF40;capacity=332""]","ショットガンの射程内に入ったらこっちもただじゃ済まな
+い。
+","奴らの突撃は、威力の高い武器で早めに制止する必要があ
+る。
+",,[],他们一冲过来，就得尽早用威力强的武器把他们压住。,,MATCH,86,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

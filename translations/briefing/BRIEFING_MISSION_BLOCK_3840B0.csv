@@ -1,0 +1,14 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_3840B0,0,stream=0x384000;block=0xB0;text=0,"[""stream=0x384000;block=0xB0;text=0""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0xB0;block_file=0x3840B0;text_base=0x3840DC;capacity=96""]",,"ミッション開始だ。
+","激しい戦闘が予想される。
+",[],"任务开始。
+",,MATCH,28,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_3840B0,1,stream=0x384000;block=0xB0;text=1,"[""stream=0x384000;block=0xB0;text=1""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0xB0;block_file=0x3840B0;text_base=0x3840DC;capacity=96""]","ミッション開始だ。
+","激しい戦闘が予想される。
+","無事、帰ってくれ。
+",[],"预计会有一场激烈的战斗。
+",,MATCH,37,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_3840B0,2,stream=0x384000;block=0xB0;text=2,"[""stream=0x384000;block=0xB0;text=2""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0xB0;block_file=0x3840B0;text_base=0x3840DC;capacity=96""]","激しい戦闘が予想される。
+","無事、帰ってくれ。
+",,[],"一定要平安回来。
+",,MATCH,28,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

@@ -1,0 +1,21 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01E6E0,0,stream=0x1E000;block=0x6E0;text=0,"[""stream=0x1E000;block=0x6E0;text=0""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0x6E0;block_file=0x1E6E0;text_base=0x1E710;capacity=384""]",,"<R=装備品,アイテム>を奪った敵はエリアの外に逃げようとするはずだ。
+","そのまま逃げられることのないように、優先的に無力化し
+てくれ。
+","[""<R=装備品,アイテム>""]","偷走<R=装备,items>的敌人应该会试图逃出这个区域。","<R=装备,items>",MATCH,96,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_01E6E0,1,stream=0x1E000;block=0x6E0;text=1,"[""stream=0x1E000;block=0x6E0;text=1""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0x6E0;block_file=0x1E6E0;text_base=0x1E710;capacity=384""]","<R=装備品,アイテム>を奪った敵はエリアの外に逃げようとするはずだ。
+","そのまま逃げられることのないように、優先的に無力化し
+てくれ。
+","複数の敵兵が確認されている。一人で対応するのは難しい
+かもしれん。
+",[],优先制服他们，别让他们就这么逃掉。,,MATCH,92,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_TAKE_OUT_NONLETHALIZED_PER_JPN
+BRIEFING_FILES_BLOCK_01E6E0,2,stream=0x1E000;block=0x6E0;text=2,"[""stream=0x1E000;block=0x6E0;text=2""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0x6E0;block_file=0x1E6E0;text_base=0x1E710;capacity=384""]","そのまま逃げられることのないように、優先的に無力化し
+てくれ。
+","複数の敵兵が確認されている。一人で対応するのは難しい
+かもしれん。
+","CO-OPSとして<R=二人一組,ツーマンセル>で任務に当たるといいだろう。
+",[],已确认有多名敌兵。一个人应付可能有些困难。,,MATCH,98,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_IGNORED
+BRIEFING_FILES_BLOCK_01E6E0,3,stream=0x1E000;block=0x6E0;text=3,"[""stream=0x1E000;block=0x6E0;text=3""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0x6E0;block_file=0x1E6E0;text_base=0x1E710;capacity=384""]","複数の敵兵が確認されている。一人で対応するのは難しい
+かもしれん。
+","CO-OPSとして<R=二人一組,ツーマンセル>で任務に当たるといいだろう。
+",,"[""<R=二人一組,ツーマンセル>""]","最好用CO-OPS，以<R=两人一组,two-man cell>来执行任务。","<R=两人一组,two-man cell>",MATCH,93,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED

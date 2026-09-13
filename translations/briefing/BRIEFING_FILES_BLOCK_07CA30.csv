@@ -1,0 +1,336 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_07CA30,0,stream=0x7C000;block=0xA30;text=0,"[""stream=0x7C000;block=0xA30;text=0""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]",,"初の宇宙飛行へ向けて、訓練の日々が続いた。
+","ザ・ボスは過酷な訓練に耐え、私はそれをサポートした。
+幸せな日々だった。
+",[],为了首次宇宙飞行，我们开始了日复一日的训练。,,MATCH,64,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,1,stream=0x7C000;block=0xA30;text=1,"[""stream=0x7C000;block=0xA30;text=1""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","初の宇宙飛行へ向けて、訓練の日々が続いた。
+","ザ・ボスは過酷な訓練に耐え、私はそれをサポートした。
+幸せな日々だった。
+","そして4月12日。彼女の乗った飛行船は大気圏の外へ出た。
+",[],The Boss熬过了严酷的训练，而我一直从旁协助。那是一段幸福的日子。,,MATCH,107,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,2,stream=0x7C000;block=0xA30;text=2,"[""stream=0x7C000;block=0xA30;text=2""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","ザ・ボスは過酷な訓練に耐え、私はそれをサポートした。
+幸せな日々だった。
+","そして4月12日。彼女の乗った飛行船は大気圏の外へ出た。
+","わずか20分の弾道飛行とは言え、準備期間の短さから考え
+れば、奇跡と言ってよかった。人類初の宇宙飛行。我々は
+歓喜した。
+",[],然后到了4月12日。载着她的飞船飞出了大气层。,,MATCH,79,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,3,stream=0x7C000;block=0xA30;text=3,"[""stream=0x7C000;block=0xA30;text=3""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","そして4月12日。彼女の乗った飛行船は大気圏の外へ出た。
+","わずか20分の弾道飛行とは言え、準備期間の短さから考え
+れば、奇跡と言ってよかった。人類初の宇宙飛行。我々は
+歓喜した。
+","だが、帰途に悲劇は起きた。
+",[],虽然只是20分钟的弹道飞行，但考虑到准备时间如此短，已经可以称得上奇迹。人类首次宇宙飞行。我们欣喜若狂。,,MATCH,173,152,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,4,stream=0x7C000;block=0xA30;text=4,"[""stream=0x7C000;block=0xA30;text=4""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","わずか20分の弾道飛行とは言え、準備期間の短さから考え
+れば、奇跡と言ってよかった。人類初の宇宙飛行。我々は
+歓喜した。
+","だが、帰途に悲劇は起きた。
+","再突入時に外壁が変形。突入角が僅かにずれた。原因が、
+急ごしらえの窓にあることは明白だった。
+",[],然而，悲剧发生在返航途中。,,MATCH,40,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,5,stream=0x7C000;block=0xA30;text=5,"[""stream=0x7C000;block=0xA30;text=5""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","だが、帰途に悲劇は起きた。
+","再突入時に外壁が変形。突入角が僅かにずれた。原因が、
+急ごしらえの窓にあることは明白だった。
+","彼女の乗った宇宙船は、想定地点を大幅に外れて着水した。
+",[],再入时外壳发生变形，进入角度也出现了轻微偏差。原因显然就是那扇仓促加装的舷窗。,,MATCH,137,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,6,stream=0x7C000;block=0xA30;text=6,"[""stream=0x7C000;block=0xA30;text=6""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","再突入時に外壁が変形。突入角が僅かにずれた。原因が、
+急ごしらえの窓にあることは明白だった。
+","彼女の乗った宇宙船は、想定地点を大幅に外れて着水した。
+","祈るような気持ちで着水地点へ急行する我々の耳に、ラジ
+オのニュースが木霊していた。
+",[],载着她的飞船远远偏离预定地点，落入海中。,,MATCH,82,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,7,stream=0x7C000;block=0xA30;text=7,"[""stream=0x7C000;block=0xA30;text=7""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","彼女の乗った宇宙船は、想定地点を大幅に外れて着水した。
+","祈るような気持ちで着水地点へ急行する我々の耳に、ラジ
+オのニュースが木霊していた。
+","それはボストーク・ロケットの打ち上げ成功を告げるニュ
+ースだった。飛行士はユーリイ・ガガーリン。我々はタッ
+チの差で、ソ連に先を越されたのだ。
+",[],我们怀着祈祷般的心情赶往落水地点，耳边却一直回响着收音机里的新闻。,,MATCH,122,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,8,stream=0x7C000;block=0xA30;text=8,"[""stream=0x7C000;block=0xA30;text=8""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","祈るような気持ちで着水地点へ急行する我々の耳に、ラジ
+オのニュースが木霊していた。
+","それはボストーク・ロケットの打ち上げ成功を告げるニュ
+ースだった。飛行士はユーリイ・ガガーリン。我々はタッ
+チの差で、ソ連に先を越されたのだ。
+","到着したとき、既に宇宙船は海中に飲み込まれていた。ザ・
+ボスは海上に浮いていた。
+",[],那是Vostok火箭发射成功的消息。宇航员是Yuri Gagarin。我们只差一步，却还是被苏联抢先了。,,MATCH,210,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,9,stream=0x7C000;block=0xA30;text=9,"[""stream=0x7C000;block=0xA30;text=9""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","それはボストーク・ロケットの打ち上げ成功を告げるニュ
+ースだった。飛行士はユーリイ・ガガーリン。我々はタッ
+チの差で、ソ連に先を越されたのだ。
+","到着したとき、既に宇宙船は海中に飲み込まれていた。ザ・
+ボスは海上に浮いていた。
+","その後のことはよく覚えていない。
+",[],等我们赶到时，飞船已经沉入海中。The Boss漂浮在海面上。,,MATCH,119,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,10,stream=0x7C000;block=0xA30;text=10,"[""stream=0x7C000;block=0xA30;text=10""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","到着したとき、既に宇宙船は海中に飲み込まれていた。ザ・
+ボスは海上に浮いていた。
+","その後のことはよく覚えていない。
+","後で聞いたところによれば、私は奇妙な叫び声を上げなが
+ら、海へ飛び込んだのだと言う。肌が灼けるのも構わずに。
+",[],之后发生的事，我已经记不太清了。,,MATCH,49,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,11,stream=0x7C000;block=0xA30;text=11,"[""stream=0x7C000;block=0xA30;text=11""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","その後のことはよく覚えていない。
+","後で聞いたところによれば、私は奇妙な叫び声を上げなが
+ら、海へ飛び込んだのだと言う。肌が灼けるのも構わずに。
+","彼女は目を覚まさなかった。全身打撲。火傷。宇宙線被曝。
+生きているのが奇跡だった。
+",[],后来听说，我发出了一声奇怪的尖叫，随后跳进海里，甚至顾不上阳光会灼伤皮肤。,,MATCH,161,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,12,stream=0x7C000;block=0xA30;text=12,"[""stream=0x7C000;block=0xA30;text=12""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","後で聞いたところによれば、私は奇妙な叫び声を上げなが
+ら、海へ飛び込んだのだと言う。肌が灼けるのも構わずに。
+","彼女は目を覚まさなかった。全身打撲。火傷。宇宙線被曝。
+生きているのが奇跡だった。
+","ソ連からは連日、輝かしい成果を誇るプロパガンダが流れ
+てくる。
+",[],她一直没有醒来。全身挫伤、烧伤、宇宙射线辐射。她还能活着，本身就是奇迹。,,MATCH,122,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,13,stream=0x7C000;block=0xA30;text=13,"[""stream=0x7C000;block=0xA30;text=13""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","彼女は目を覚まさなかった。全身打撲。火傷。宇宙線被曝。
+生きているのが奇跡だった。
+","ソ連からは連日、輝かしい成果を誇るプロパガンダが流れ
+てくる。
+","なによりも我々が堪えたのは、翌朝の<R=政府機関紙,イズベチヤ>が伝えた
+ルポだった。
+",[],苏联每天都在不断播送炫耀这一辉煌成果的宣传。,,MATCH,92,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,14,stream=0x7C000;block=0xA30;text=14,"[""stream=0x7C000;block=0xA30;text=14""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","ソ連からは連日、輝かしい成果を誇るプロパガンダが流れ
+てくる。
+","なによりも我々が堪えたのは、翌朝の<R=政府機関紙,イズベチヤ>が伝えた
+ルポだった。
+","そこには後にガガーリン少佐が発したと言われる、あの言
+葉が書かれていた。「地球は青かった」と。
+","[""<R=政府機関紙,イズベチヤ>""]","最让我们难以忍受的，是第二天早上<R=政府机关报,IZVESTIA>刊登的报道。","<R=政府机关报,IZVESTIA>",MATCH,118,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_07CA30,15,stream=0x7C000;block=0xA30;text=15,"[""stream=0x7C000;block=0xA30;text=15""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","なによりも我々が堪えたのは、翌朝の<R=政府機関紙,イズベチヤ>が伝えた
+ルポだった。
+","そこには後にガガーリン少佐が発したと言われる、あの言
+葉が書かれていた。「地球は青かった」と。
+","その言葉を語るべきもう一人の人物は、今なお床にある…。
+",[],报道中写着后来据说由Gagarin少校说出的那句话：“地球是蓝色的。”,,MATCH,140,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,16,stream=0x7C000;block=0xA30;text=16,"[""stream=0x7C000;block=0xA30;text=16""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","そこには後にガガーリン少佐が発したと言われる、あの言
+葉が書かれていた。「地球は青かった」と。
+","その言葉を語るべきもう一人の人物は、今なお床にある…。
+","NASAは彼女のフライトを「なかったこと」にした。
+",[],而另一个本该说出这句话的人，此刻却仍躺在病床上……。,,MATCH,82,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,17,stream=0x7C000;block=0xA30;text=17,"[""stream=0x7C000;block=0xA30;text=17""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","その言葉を語るべきもう一人の人物は、今なお床にある…。
+","NASAは彼女のフライトを「なかったこと」にした。
+","片や衛星軌道に乗って地球を一周し、パイロットは無事帰
+還。
+",[],NASA把她的那次飞行彻底当成了“从未发生过”。,,MATCH,68,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,18,stream=0x7C000;block=0xA30;text=18,"[""stream=0x7C000;block=0xA30;text=18""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","NASAは彼女のフライトを「なかったこと」にした。
+","片や衛星軌道に乗って地球を一周し、パイロットは無事帰
+還。
+","片や単なる弾道軌道による大気圏離脱。しかもパイロット
+は満身創痍で、宇宙船すら回収不能…。
+",[],一边是进入卫星轨道、绕地球一周，飞行员还平安归来。,,MATCH,86,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,19,stream=0x7C000;block=0xA30;text=19,"[""stream=0x7C000;block=0xA30;text=19""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","片や衛星軌道に乗って地球を一周し、パイロットは無事帰
+還。
+","片や単なる弾道軌道による大気圏離脱。しかもパイロット
+は満身創痍で、宇宙船すら回収不能…。
+","下手に発表すれば、国家の威信に関わる。そう判断された
+のだ。
+",[],另一边却只是沿弹道轨迹飞出大气层，飞行员遍体鳞伤，连飞船都没能回收……。,,MATCH,134,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,20,stream=0x7C000;block=0xA30;text=20,"[""stream=0x7C000;block=0xA30;text=20""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","片や単なる弾道軌道による大気圏離脱。しかもパイロット
+は満身創痍で、宇宙船すら回収不能…。
+","下手に発表すれば、国家の威信に関わる。そう判断された
+のだ。
+","軍の記録では、この時期ザ・ボスはピッグス湾事件に参加
+していたことになっているようだ。
+",[],高层判断，一旦贸然公布，就会伤及国家威信。,,MATCH,89,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,21,stream=0x7C000;block=0xA30;text=21,"[""stream=0x7C000;block=0xA30;text=21""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","下手に発表すれば、国家の威信に関わる。そう判断された
+のだ。
+","軍の記録では、この時期ザ・ボスはピッグス湾事件に参加
+していたことになっているようだ。
+","そこまでして糊塗したい記録だったのだろう。
+",[],军方记录似乎把这段时期的The Boss写成了正在参加猪湾事件。,,MATCH,128,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,22,stream=0x7C000;block=0xA30;text=22,"[""stream=0x7C000;block=0xA30;text=22""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","軍の記録では、この時期ザ・ボスはピッグス湾事件に参加
+していたことになっているようだ。
+","そこまでして糊塗したい記録だったのだろう。
+","結局、1ヶ月後のアラン・シェパードによる弾道飛行が、
+アメリカ初の宇宙飛行とされた。
+",[],看来他们就是想把这段记录彻底掩盖过去。,,MATCH,64,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,23,stream=0x7C000;block=0xA30;text=23,"[""stream=0x7C000;block=0xA30;text=23""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","そこまでして糊塗したい記録だったのだろう。
+","結局、1ヶ月後のアラン・シェパードによる弾道飛行が、
+アメリカ初の宇宙飛行とされた。
+","ザ・ボスの犠牲で得られた知見が、シェパードの飛行船に
+活かされた。その成果だった。
+",[],最终，一个月后Alan Shepard的弹道飞行被认定为美国首次宇宙飞行。,,MATCH,123,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,24,stream=0x7C000;block=0xA30;text=24,"[""stream=0x7C000;block=0xA30;text=24""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","結局、1ヶ月後のアラン・シェパードによる弾道飛行が、
+アメリカ初の宇宙飛行とされた。
+","ザ・ボスの犠牲で得られた知見が、シェパードの飛行船に
+活かされた。その成果だった。
+","だが、そんなことはどうでもよかった。私はひたすら彼女
+の回復を祈った。片時も側を離れたくなかった。
+",[],The Boss用牺牲换来的经验被应用在Shepard的飞船上。这才有了那次成功。,,MATCH,122,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,25,stream=0x7C000;block=0xA30;text=25,"[""stream=0x7C000;block=0xA30;text=25""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","ザ・ボスの犠牲で得られた知見が、シェパードの飛行船に
+活かされた。その成果だった。
+","だが、そんなことはどうでもよかった。私はひたすら彼女
+の回復を祈った。片時も側を離れたくなかった。
+","「お水をちょうだい」。
+",[],可那些对我来说都无所谓。我只是一心祈祷她能够康复，一刻也不想离开她身边。,,MATCH,146,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,26,stream=0x7C000;block=0xA30;text=26,"[""stream=0x7C000;block=0xA30;text=26""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","だが、そんなことはどうでもよかった。私はひたすら彼女
+の回復を祈った。片時も側を離れたくなかった。
+","「お水をちょうだい」。
+","夏が終わり、冬にさしかかろうという頃、私は彼女の声を
+聞いた。
+",[],“给我水。”,,MATCH,34,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,27,stream=0x7C000;block=0xA30;text=27,"[""stream=0x7C000;block=0xA30;text=27""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","「お水をちょうだい」。
+","夏が終わり、冬にさしかかろうという頃、私は彼女の声を
+聞いた。
+","私は彼女の胸に飛び込んだ。彼女は私を受け入れてくれた。
+",[],夏天已经结束、冬天将至的时候，我终于再次听见了她的声音。,,MATCH,92,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,28,stream=0x7C000;block=0xA30;text=28,"[""stream=0x7C000;block=0xA30;text=28""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","夏が終わり、冬にさしかかろうという頃、私は彼女の声を
+聞いた。
+","私は彼女の胸に飛び込んだ。彼女は私を受け入れてくれた。
+","それで十分だった。
+",[],我扑进她怀里。她也接纳了我。,,MATCH,82,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,29,stream=0x7C000;block=0xA30;text=29,"[""stream=0x7C000;block=0xA30;text=29""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","私は彼女の胸に飛び込んだ。彼女は私を受け入れてくれた。
+","それで十分だった。
+","私は彼女から、宇宙について聞かせてもらえると思ってい
+た。星の瞬かない、本当の空について。
+",[],那样就足够了。,,MATCH,28,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,30,stream=0x7C000;block=0xA30;text=30,"[""stream=0x7C000;block=0xA30;text=30""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","それで十分だった。
+","私は彼女から、宇宙について聞かせてもらえると思ってい
+た。星の瞬かない、本当の空について。
+","だが、彼女の口から出たのは、地球のことだった。宇宙か
+ら見た地球。儚く、そしてかけがえのない大地のこと。
+",[],我原以为她会给我讲太空，讲那片星星不会闪烁的真正天空。,,MATCH,134,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,31,stream=0x7C000;block=0xA30;text=31,"[""stream=0x7C000;block=0xA30;text=31""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","私は彼女から、宇宙について聞かせてもらえると思ってい
+た。星の瞬かない、本当の空について。
+","だが、彼女の口から出たのは、地球のことだった。宇宙か
+ら見た地球。儚く、そしてかけがえのない大地のこと。
+","私は自分を恥じた。私は星空に憧れるあまり、足下を見よ
+うとしなかった。自分が拠って立つ、この大地について。
+",[],可她说出口的却全是地球。她从宇宙中看到的地球，那片脆弱却又无可替代的大地。,,MATCH,155,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,32,stream=0x7C000;block=0xA30;text=32,"[""stream=0x7C000;block=0xA30;text=32""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","だが、彼女の口から出たのは、地球のことだった。宇宙か
+ら見た地球。儚く、そしてかけがえのない大地のこと。
+","私は自分を恥じた。私は星空に憧れるあまり、足下を見よ
+うとしなかった。自分が拠って立つ、この大地について。
+","リハビリを終えると同時に、彼女は姿を消した。
+",[],我感到羞愧。我只顾憧憬星空，却从未想过低头看看脚下，看看支撑着自己的这片大地。,,MATCH,158,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,33,stream=0x7C000;block=0xA30;text=33,"[""stream=0x7C000;block=0xA30;text=33""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","私は自分を恥じた。私は星空に憧れるあまり、足下を見よ
+うとしなかった。自分が拠って立つ、この大地について。
+","リハビリを終えると同時に、彼女は姿を消した。
+","突然だった。私に連絡があったわけでもなく、上層部から
+も何一つ説明はなかった。
+",[],康复训练刚结束，她就消失了。,,MATCH,67,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,34,stream=0x7C000;block=0xA30;text=34,"[""stream=0x7C000;block=0xA30;text=34""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","リハビリを終えると同時に、彼女は姿を消した。
+","突然だった。私に連絡があったわけでもなく、上層部から
+も何一つ説明はなかった。
+","不思議と驚きはなかった。彼女は次の任務を果たしに行っ
+たのだろう。忠を尽くすために。そう思った。
+",[],一切来得突然。她没有联系我，高层也没有给出任何解释。,,MATCH,116,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,35,stream=0x7C000;block=0xA30;text=35,"[""stream=0x7C000;block=0xA30;text=35""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","突然だった。私に連絡があったわけでもなく、上層部から
+も何一つ説明はなかった。
+","不思議と驚きはなかった。彼女は次の任務を果たしに行っ
+たのだろう。忠を尽くすために。そう思った。
+","それから私は、<R=人工知能,AI>の研究に没頭した。二度と彼女の
+ような犠牲者を出さないために。
+",[],奇怪的是，我并不惊讶。我想，她大概是去完成下一个任务了。为了尽忠。,,MATCH,143,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,36,stream=0x7C000;block=0xA30;text=36,"[""stream=0x7C000;block=0xA30;text=36""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","不思議と驚きはなかった。彼女は次の任務を果たしに行っ
+たのだろう。忠を尽くすために。そう思った。
+","それから私は、<R=人工知能,AI>の研究に没頭した。二度と彼女の
+ような犠牲者を出さないために。
+","危険とわかっている任務を、わざわざ人間がこなすことは
+ない。
+","[""<R=人工知能,AI>""]","从那以后，我便埋头研究<R=人工智能,AI>。为了不再出现像她那样的牺牲者。","<R=人工智能,AI>",MATCH,132,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_07CA30,37,stream=0x7C000;block=0xA30;text=37,"[""stream=0x7C000;block=0xA30;text=37""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","それから私は、<R=人工知能,AI>の研究に没頭した。二度と彼女の
+ような犠牲者を出さないために。
+","危険とわかっている任務を、わざわざ人間がこなすことは
+ない。
+","今度は私が別の誰かを照らすのだ…と。
+",[],明知任务危险，就没必要非得让人类去完成。,,MATCH,89,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,38,stream=0x7C000;block=0xA30;text=38,"[""stream=0x7C000;block=0xA30;text=38""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","危険とわかっている任務を、わざわざ人間がこなすことは
+ない。
+","今度は私が別の誰かを照らすのだ…と。
+","あのフロリダでの夜、なぜ彼女は私に打ち明けたのだろう。
+過去のこととはいえ、極秘の作戦だったはずだ。
+",[],下一次，要由我去照亮另一个人……。,,MATCH,55,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,39,stream=0x7C000;block=0xA30;text=39,"[""stream=0x7C000;block=0xA30;text=39""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","今度は私が別の誰かを照らすのだ…と。
+","あのフロリダでの夜、なぜ彼女は私に打ち明けたのだろう。
+過去のこととはいえ、極秘の作戦だったはずだ。
+","私を信頼していたから…そう思いたいが、おそらく違う。
+",[],我至今仍在想，那个佛罗里达的夜晚，她为什么会对我说出那些事。即使已经过去，那也应该是绝密行动。,,MATCH,149,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,40,stream=0x7C000;block=0xA30;text=40,"[""stream=0x7C000;block=0xA30;text=40""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","あのフロリダでの夜、なぜ彼女は私に打ち明けたのだろう。
+過去のこととはいえ、極秘の作戦だったはずだ。
+","私を信頼していたから…そう思いたいが、おそらく違う。
+","彼女は聞いてほしかったのだ。それも、私ではない誰かに。
+",[],我愿意相信是因为她信任我……但恐怕并不是。,,MATCH,79,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,41,stream=0x7C000;block=0xA30;text=41,"[""stream=0x7C000;block=0xA30;text=41""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","私を信頼していたから…そう思いたいが、おそらく違う。
+","彼女は聞いてほしかったのだ。それも、私ではない誰かに。
+","我が子に語るような彼女の口調が、遠い目が、それを雄弁
+に語っていた。
+",[],她只是想让某个人听见。而那个人，并不是我。,,MATCH,82,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,42,stream=0x7C000;block=0xA30;text=42,"[""stream=0x7C000;block=0xA30;text=42""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","彼女は聞いてほしかったのだ。それも、私ではない誰かに。
+","我が子に語るような彼女の口調が、遠い目が、それを雄弁
+に語っていた。
+","私はその“誰か”に嫉妬した。
+",[],她那像在对自己孩子说话般的语气，还有遥望远方的目光，都清楚地说明了这一点。,,MATCH,101,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,43,stream=0x7C000;block=0xA30;text=43,"[""stream=0x7C000;block=0xA30;text=43""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","我が子に語るような彼女の口調が、遠い目が、それを雄弁
+に語っていた。
+","私はその“誰か”に嫉妬した。
+","4年の後、私は彼女の訃報に接した。それも、「売国奴の
+死」という形で。
+",[],我嫉妒起了那个“某个人”。,,MATCH,43,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,44,stream=0x7C000;block=0xA30;text=44,"[""stream=0x7C000;block=0xA30;text=44""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","私はその“誰か”に嫉妬した。
+","4年の後、私は彼女の訃報に接した。それも、「売国奴の
+死」という形で。
+","<R=祖国,アメリカ>から核を持ち出してソ連に亡命し、かつての弟子に殺
+された…そう聞かされた。
+",[],四年后，我得知了她的死讯，而且还是以“卖国贼之死”这样的形式。,,MATCH,102,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,45,stream=0x7C000;block=0xA30;text=45,"[""stream=0x7C000;block=0xA30;text=45""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","4年の後、私は彼女の訃報に接した。それも、「売国奴の
+死」という形で。
+","<R=祖国,アメリカ>から核を持ち出してソ連に亡命し、かつての弟子に殺
+された…そう聞かされた。
+","私には信じられない。彼女がそんなことをするはずがない。
+","[""<R=祖国,アメリカ>""]","听说她从<R=祖国,AMERICA>带走核武器，叛逃苏联，最后被昔日的弟子杀死……。","<R=祖国,AMERICA>",MATCH,133,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_07CA30,46,stream=0x7C000;block=0xA30;text=46,"[""stream=0x7C000;block=0xA30;text=46""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","<R=祖国,アメリカ>から核を持ち出してソ連に亡命し、かつての弟子に殺
+された…そう聞かされた。
+","私には信じられない。彼女がそんなことをするはずがない。
+","考えられるとすれば、本気で東西を融和させようと試みた
+か…あるいは、殺されること自体が望みだったか。
+",[],我无法相信。她绝不可能做出那种事。,,MATCH,82,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,47,stream=0x7C000;block=0xA30;text=47,"[""stream=0x7C000;block=0xA30;text=47""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","私には信じられない。彼女がそんなことをするはずがない。
+","考えられるとすれば、本気で東西を融和させようと試みた
+か…あるいは、殺されること自体が望みだったか。
+","彼女は、この世界が本来の姿ではないと考えていた。核抑
+止による仮初めの平和に支えられた、この世界を。
+",[],如果一定要解释，要么她是真的想促成东西方和解……要么，被杀本身就是她的愿望。,,MATCH,149,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,48,stream=0x7C000;block=0xA30;text=48,"[""stream=0x7C000;block=0xA30;text=48""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","考えられるとすれば、本気で東西を融和させようと試みた
+か…あるいは、殺されること自体が望みだったか。
+","彼女は、この世界が本来の姿ではないと考えていた。核抑
+止による仮初めの平和に支えられた、この世界を。
+","そして、その責任が自分にあるのだとも…。
+",[],她认为这个世界并非本来的模样——这个依靠核威慑维持虚假和平的世界。,,MATCH,149,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,49,stream=0x7C000;block=0xA30;text=49,"[""stream=0x7C000;block=0xA30;text=49""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","彼女は、この世界が本来の姿ではないと考えていた。核抑
+止による仮初めの平和に支えられた、この世界を。
+","そして、その責任が自分にあるのだとも…。
+","彼女は、死をもってそれを償おうとしたのかも知れない。
+",[],而且，她认为造成这一切的责任也在自己……。,,MATCH,61,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,50,stream=0x7C000;block=0xA30;text=50,"[""stream=0x7C000;block=0xA30;text=50""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","そして、その責任が自分にあるのだとも…。
+","彼女は、死をもってそれを償おうとしたのかも知れない。
+","彼女は、この世界への忠を尽くしたのだ。
+",[],也许她是想用死亡来赎罪。,,MATCH,79,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,51,stream=0x7C000;block=0xA30;text=51,"[""stream=0x7C000;block=0xA30;text=51""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","彼女は、死をもってそれを償おうとしたのかも知れない。
+","彼女は、この世界への忠を尽くしたのだ。
+","私の光は喪われた。
+",[],她尽到了对这个世界的忠诚。,,MATCH,58,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,52,stream=0x7C000;block=0xA30;text=52,"[""stream=0x7C000;block=0xA30;text=52""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","彼女は、この世界への忠を尽くしたのだ。
+","私の光は喪われた。
+","そして私は、とてつもなく不合理な、自分自身の感情に戸
+惑っている。
+",[],我的光消失了。,,MATCH,28,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,53,stream=0x7C000;block=0xA30;text=53,"[""stream=0x7C000;block=0xA30;text=53""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","私の光は喪われた。
+","そして私は、とてつもなく不合理な、自分自身の感情に戸
+惑っている。
+","彼女が、自分の罪を伝えたかった相手。
+",[],而现在，我却被自己这种极端不合逻辑的感情弄得不知所措。,,MATCH,98,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,54,stream=0x7C000;block=0xA30;text=54,"[""stream=0x7C000;block=0xA30;text=54""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","そして私は、とてつもなく不合理な、自分自身の感情に戸
+惑っている。
+","彼女が、自分の罪を伝えたかった相手。
+","それが、彼女を殺した弟子だったのでは？
+",[],那个她想倾诉自己罪孽的人。,,MATCH,55,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,55,stream=0x7C000;block=0xA30;text=55,"[""stream=0x7C000;block=0xA30;text=55""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","彼女が、自分の罪を伝えたかった相手。
+","それが、彼女を殺した弟子だったのでは？
+","その想像が、私を狂おしいまでの嫉妬に駆り立てる。
+",[],会不会，就是那个最终杀死她的弟子？,,MATCH,58,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,56,stream=0x7C000;block=0xA30;text=56,"[""stream=0x7C000;block=0xA30;text=56""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","それが、彼女を殺した弟子だったのでは？
+","その想像が、私を狂おしいまでの嫉妬に駆り立てる。
+","いずれ、確かめなければならない。
+",[],这个想法让我嫉妒得几乎发狂。,,MATCH,73,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_07CA30,57,stream=0x7C000;block=0xA30;text=57,"[""stream=0x7C000;block=0xA30;text=57""]",1,BRIEFING FILES,"[""stream=0x7C000;block=0xA30;block_file=0x7CA30;text_base=0x7CB38;capacity=5828""]","その想像が、私を狂おしいまでの嫉妬に駆り立てる。
+","いずれ、確かめなければならない。
+",,[],总有一天，我必须确认真相。,,MATCH,49,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

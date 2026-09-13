@@ -1,0 +1,50 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_3805D0,0,stream=0x380000;block=0x5D0;text=0,"[""stream=0x380000;block=0x5D0;text=0""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x5D0;block_file=0x3805D0;text_base=0x38060C;capacity=608""]",,"まさか、<R=あの子,パス>が工作員だったなんて…。
+","確かに意外だった。上手く演じたもんだ。
+MSFの全員が騙されていた。
+…俺も含めてな。
+","[""<R=あの子,パス>""]","没想到，<R=那孩子,PAZ>竟然是特工……。
+","<R=那孩子,PAZ>",MATCH,69,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_3805D0,1,stream=0x380000;block=0x5D0;text=1,"[""stream=0x380000;block=0x5D0;text=1""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x5D0;block_file=0x3805D0;text_base=0x38060C;capacity=608""]","まさか、<R=あの子,パス>が工作員だったなんて…。
+","確かに意外だった。上手く演じたもんだ。
+MSFの全員が騙されていた。
+…俺も含めてな。
+","今思えば疑うべきだったが…。
+",[],"确实让人意外。演得真像。
+MSF所有人都被她骗了。
+……包括我在内。
+",,MATCH,120,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_3805D0,2,stream=0x380000;block=0x5D0;text=2,"[""stream=0x380000;block=0x5D0;text=2""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x5D0;block_file=0x3805D0;text_base=0x38060C;capacity=608""]","確かに意外だった。上手く演じたもんだ。
+MSFの全員が騙されていた。
+…俺も含めてな。
+","今思えば疑うべきだったが…。
+","スネーク、過ぎたことを悔やんでも仕方ない。
+",[],"现在回想起来，本来应该怀疑她的……。
+",,MATCH,43,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_3805D0,3,stream=0x380000;block=0x5D0;text=3,"[""stream=0x380000;block=0x5D0;text=3""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x5D0;block_file=0x3805D0;text_base=0x38060C;capacity=608""]","今思えば疑うべきだったが…。
+","スネーク、過ぎたことを悔やんでも仕方ない。
+","それより、こんなことがあったときのために、
+今後は対<R=ZEKE,ジーク>戦の訓練もしておくのはどうかな？
+",[],"Snake，后悔已经发生的事也没用。
+",,MATCH,64,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_3805D0,4,stream=0x380000;block=0x5D0;text=4,"[""stream=0x380000;block=0x5D0;text=4""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x5D0;block_file=0x3805D0;text_base=0x38060C;capacity=608""]","スネーク、過ぎたことを悔やんでも仕方ない。
+","それより、こんなことがあったときのために、
+今後は対<R=ZEKE,ジーク>戦の訓練もしておくのはどうかな？
+","それじゃ、僕はこれからストレンジラブ博士と話が
+あるんだ。<R=ZEKE,ジーク>の整備も終わってないし。
+","[""<R=ZEKE,ジーク>""]","比起这个，为防再发生这种事，
+今后也做些对<R=ZEKE,ZEKE>战训练怎么样？
+","<R=ZEKE,ZEKE>",MATCH,143,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_3805D0,5,stream=0x380000;block=0x5D0;text=5,"[""stream=0x380000;block=0x5D0;text=5""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x5D0;block_file=0x3805D0;text_base=0x38060C;capacity=608""]","それより、こんなことがあったときのために、
+今後は対<R=ZEKE,ジーク>戦の訓練もしておくのはどうかな？
+","それじゃ、僕はこれからストレンジラブ博士と話が
+あるんだ。<R=ZEKE,ジーク>の整備も終わってないし。
+","ヒューイ…！
+","[""<R=ZEKE,ジーク>""]","那么，我接下来还有事要和Strangelove博士谈。
+<R=ZEKE,ZEKE>的整备也还没结束。
+","<R=ZEKE,ZEKE>",MATCH,140,101,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_3805D0,6,stream=0x380000;block=0x5D0;text=6,"[""stream=0x380000;block=0x5D0;text=6""]",1,BRIEFING MISSION,"[""stream=0x380000;block=0x5D0;block_file=0x3805D0;text_base=0x38060C;capacity=608""]","それじゃ、僕はこれからストレンジラブ博士と話が
+あるんだ。<R=ZEKE,ジーク>の整備も終わってないし。
+","ヒューイ…！
+",,[],"Huey……！
+",,MATCH,19,14,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

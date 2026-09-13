@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02EDB0,0,stream=0x2E000;block=0xDB0;text=0,"[""stream=0x2E000;block=0xDB0;text=0""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]",,"鉱山を開くには、随分森が切り拓かれたんだと思う。
+","だろうな。こちらとしても、隠れる場所がなくて一苦労だ。
+",[],我想，为了开矿，这里一定砍掉了大片森林。,,MATCH,73,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02EDB0,1,stream=0x2E000;block=0xDB0;text=1,"[""stream=0x2E000;block=0xDB0;text=1""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","鉱山を開くには、随分森が切り拓かれたんだと思う。
+","だろうな。こちらとしても、隠れる場所がなくて一苦労だ。
+","森だけじゃない。きちんと処理されていなければ、廃水が
+地下水を汚染する可能性もある。
+",[],大概吧。对我们来说，没地方藏身也够麻烦的。,,MATCH,82,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_02EDB0,2,stream=0x2E000;block=0xDB0;text=2,"[""stream=0x2E000;block=0xDB0;text=2""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","だろうな。こちらとしても、隠れる場所がなくて一苦労だ。
+","森だけじゃない。きちんと処理されていなければ、廃水が
+地下水を汚染する可能性もある。
+","おまけに、こんな場所で核兵器開発に協力している人達も
+いる…どうしてみんな、自分達の国を大切にしないの？
+",[],还不只是森林。如果废水没有妥善处理，也有可能污染地下水。,,MATCH,125,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_WASTEWATER_CLAUSE_RESTORED
+BRIEFING_FILES_BLOCK_02EDB0,3,stream=0x2E000;block=0xDB0;text=3,"[""stream=0x2E000;block=0xDB0;text=3""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","森だけじゃない。きちんと処理されていなければ、廃水が
+地下水を汚染する可能性もある。
+","おまけに、こんな場所で核兵器開発に協力している人達も
+いる…どうしてみんな、自分達の国を大切にしないの？
+","…国を捨てた身としては、耳が痛い。
+",[],更别说还有人在这种地方协助开发核武器……为什么大家都不珍惜自己的国家呢？,,MATCH,155,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_COOPERATION_AND_COUNTRY_CONCERN_PRIMARY
+BRIEFING_FILES_BLOCK_02EDB0,4,stream=0x2E000;block=0xDB0;text=4,"[""stream=0x2E000;block=0xDB0;text=4""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","おまけに、こんな場所で核兵器開発に協力している人達も
+いる…どうしてみんな、自分達の国を大切にしないの？
+","…国を捨てた身としては、耳が痛い。
+","ううん、スネークは国を捨てたかも知れないけど、でも祖
+国を大事に思っているはずよ。
+",[],……对我这个抛弃了国家的人来说，还真是刺耳。,,MATCH,52,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_SELF_REPROACH_PRIMARY
+BRIEFING_FILES_BLOCK_02EDB0,5,stream=0x2E000;block=0xDB0;text=5,"[""stream=0x2E000;block=0xDB0;text=5""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","…国を捨てた身としては、耳が痛い。
+","ううん、スネークは国を捨てたかも知れないけど、でも祖
+国を大事に思っているはずよ。
+","俺が祖国を…？
+",[],不是。Snake也许抛弃了自己的国家，但我想你心里一定还是珍惜祖国的。,,MATCH,122,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_HOMELAND_DISTINCTION_PRIMARY
+BRIEFING_FILES_BLOCK_02EDB0,6,stream=0x2E000;block=0xDB0;text=6,"[""stream=0x2E000;block=0xDB0;text=6""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","ううん、スネークは国を捨てたかも知れないけど、でも祖
+国を大事に思っているはずよ。
+","俺が祖国を…？
+","ええ。それくらい、私にだってわかる。
+",[],我珍惜祖国……？,,MATCH,22,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_GENERIC_REPLY_REPLACED_BY_JPN
+BRIEFING_FILES_BLOCK_02EDB0,7,stream=0x2E000;block=0xDB0;text=7,"[""stream=0x2E000;block=0xDB0;text=7""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","俺が祖国を…？
+","ええ。それくらい、私にだってわかる。
+","パス、君は…いや、その自分の国を愛する気持ちを大事に
+してくれ。
+",[],嗯。这点事，连我都看得出来。,,MATCH,55,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_EVEN_I_CAN_TELL_PRIMARY
+BRIEFING_FILES_BLOCK_02EDB0,8,stream=0x2E000;block=0xDB0;text=8,"[""stream=0x2E000;block=0xDB0;text=8""]",1,BRIEFING FILES,"[""stream=0x2E000;block=0xDB0;block_file=0x2EDB0;text_base=0x2EDF4;capacity=792""]","ええ。それくらい、私にだってわかる。
+","パス、君は…いや、その自分の国を愛する気持ちを大事に
+してくれ。
+",,[],Paz，你……不，珍惜你那份热爱自己国家的心吧。,,MATCH,95,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_HESITATION_AND_SENTIMENT_PRIMARY

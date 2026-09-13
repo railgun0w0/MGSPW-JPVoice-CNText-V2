@@ -1,0 +1,51 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02AF50,0,stream=0x2A000;block=0xF50;text=0,"[""stream=0x2A000;block=0xF50;text=0""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]",,"アルデア・ロス・デスピェルトスは「起きている奴らの村」
+という意味よ。
+","変わってるな。
+",[],Aldea de los Despiertos，意思是“醒着的人之村”。,,MATCH,104,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_COFFEE_PUN_PRESERVED
+BRIEFING_FILES_BLOCK_02AF50,1,stream=0x2A000;block=0xF50;text=1,"[""stream=0x2A000;block=0xF50;text=1""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","アルデア・ロス・デスピェルトスは「起きている奴らの村」
+という意味よ。
+","変わってるな。
+","このあたりはコーヒーの産地で、近くには工場もあるの。
+村の人もみんなコーヒー好きだから…。
+",[],名字真奇怪。,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02AF50,2,stream=0x2A000;block=0xF50;text=2,"[""stream=0x2A000;block=0xF50;text=2""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","変わってるな。
+","このあたりはコーヒーの産地で、近くには工場もあるの。
+村の人もみんなコーヒー好きだから…。
+","眠れない、ってわけか。洒落のわかる連中だ。
+",[],这一带是咖啡产区，附近还有工厂。村里的人也都喜欢咖啡，所以……,,MATCH,134,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_VILLAGER_COFFEE_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_02AF50,3,stream=0x2A000;block=0xF50;text=3,"[""stream=0x2A000;block=0xF50;text=3""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","このあたりはコーヒーの産地で、近くには工場もあるの。
+村の人もみんなコーヒー好きだから…。
+","眠れない、ってわけか。洒落のわかる連中だ。
+","そんな村を占拠して捕虜収容所に使うなんて…許せない。<R= CIA ,ラ・シーア>
+も、<R= CIA ,ラ・シーア>に雇われた人たちも！
+",[],也就是说，睡不着觉吗。还挺会开玩笑的。,,MATCH,64,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_COFFEE_PUN_RESTORED
+BRIEFING_FILES_BLOCK_02AF50,4,stream=0x2A000;block=0xF50;text=4,"[""stream=0x2A000;block=0xF50;text=4""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","眠れない、ってわけか。洒落のわかる連中だ。
+","そんな村を占拠して捕虜収容所に使うなんて…許せない。<R= CIA ,ラ・シーア>
+も、<R= CIA ,ラ・シーア>に雇われた人たちも！
+","この村の人たちは、平和に暮らしていたはずよ。それを踏
+みにじる権利がどこにあるの！？
+","[""<R= CIA ,ラ・シーア>"", ""<R= CIA ,ラ・シーア>""]","居然占领这样的村子，把它当成战俘营……不可原谅。无论是<R= CIA ,la CIA>，还是受<R= CIA ,la CIA>雇用的人！","<R= CIA ,la CIA> | <R= CIA ,la CIA>",MATCH,166,140,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING;JPN_PRISONER_CAMP_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_02AF50,5,stream=0x2A000;block=0xF50;text=5,"[""stream=0x2A000;block=0xF50;text=5""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","そんな村を占拠して捕虜収容所に使うなんて…許せない。<R= CIA ,ラ・シーア>
+も、<R= CIA ,ラ・シーア>に雇われた人たちも！
+","この村の人たちは、平和に暮らしていたはずよ。それを踏
+みにじる権利がどこにあるの！？
+","自分達の権利以外は、目に入らん連中だ。残念だが、そう
+いった種類の人間もいる。
+",[],这个村里的人本来应该过着和平的生活。他们有什么权利践踏这一切！？,,MATCH,125,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_RIGHTS_REFERENCE_PRIMARY
+BRIEFING_FILES_BLOCK_02AF50,6,stream=0x2A000;block=0xF50;text=6,"[""stream=0x2A000;block=0xF50;text=6""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","この村の人たちは、平和に暮らしていたはずよ。それを踏
+みにじる権利がどこにあるの！？
+","自分達の権利以外は、目に入らん連中だ。残念だが、そう
+いった種類の人間もいる。
+","そうなのかな…。
+",[],那些家伙眼里只有自己的权利。很遗憾，世上就是有这种人。,,MATCH,116,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SECOND_SENTENCE_RESTORED
+BRIEFING_FILES_BLOCK_02AF50,7,stream=0x2A000;block=0xF50;text=7,"[""stream=0x2A000;block=0xF50;text=7""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","自分達の権利以外は、目に入らん連中だ。残念だが、そう
+いった種類の人間もいる。
+","そうなのかな…。
+","任せておけ。そんな連中を相手にするのも、俺たちの仕事
+だ。
+",[],是这样吗……,,MATCH,25,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ASSERTIVENESS_REMOVED_PER_JPN
+BRIEFING_FILES_BLOCK_02AF50,8,stream=0x2A000;block=0xF50;text=8,"[""stream=0x2A000;block=0xF50;text=8""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0xF50;block_file=0x2AF50;text_base=0x2AF94;capacity=852""]","そうなのかな…。
+","任せておけ。そんな連中を相手にするのも、俺たちの仕事
+だ。
+",,[],交给我吧。对付这种人，也是我们的工作。,,MATCH,86,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PUNITIVE_PARAPHRASE_REPLACED_BY_JPN

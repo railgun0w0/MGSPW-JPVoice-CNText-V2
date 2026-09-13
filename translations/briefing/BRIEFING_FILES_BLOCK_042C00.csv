@@ -1,0 +1,78 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_042C00,0,stream=0x42000;block=0xC00;text=0,"[""stream=0x42000;block=0xC00;text=0""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]",,"イラスには複数の火口がある。何度も噴火してるからね。
+","火口の多くには雨水が溜まって湖になってるって話だ。
+",[],Irazú有多个火山口。毕竟它已经喷发过很多次了。,,MATCH,79,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,1,stream=0x42000;block=0xC00;text=1,"[""stream=0x42000;block=0xC00;text=1""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","イラスには複数の火口がある。何度も噴火してるからね。
+","火口の多くには雨水が溜まって湖になってるって話だ。
+","カルデラか。
+",[],听说很多火山口积满了雨水，变成了湖。,,MATCH,76,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,2,stream=0x42000;block=0xC00;text=2,"[""stream=0x42000;block=0xC00;text=2""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","火口の多くには雨水が溜まって湖になってるって話だ。
+","カルデラか。
+","<R=大鍋,カルデラ>？　まあ、そんな感じかな。
+",[],火山口湖吗。,,MATCH,19,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,3,stream=0x42000;block=0xC00;text=3,"[""stream=0x42000;block=0xC00;text=3""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","カルデラか。
+","<R=大鍋,カルデラ>？　まあ、そんな感じかな。
+","…そうだ。湖に着いたら、変わった生き物がいないか見て
+おいてくれないか？
+","[""<R=大鍋,カルデラ>""]","<R=大锅,CALDERA>？嗯，差不多吧。","<R=大锅,CALDERA>",MATCH,63,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_042C00,4,stream=0x42000;block=0xC00;text=4,"[""stream=0x42000;block=0xC00;text=4""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","<R=大鍋,カルデラ>？　まあ、そんな感じかな。
+","…そうだ。湖に着いたら、変わった生き物がいないか見て
+おいてくれないか？
+","湖に巨大な生き物が棲んでるっていう話は、世界中にある
+らしいんだ。
+",[],……对了。到了湖边以后，能不能帮我看看有没有什么奇怪的生物？,,MATCH,107,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,5,stream=0x42000;block=0xC00;text=5,"[""stream=0x42000;block=0xC00;text=5""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","…そうだ。湖に着いたら、変わった生き物がいないか見て
+おいてくれないか？
+","湖に巨大な生き物が棲んでるっていう話は、世界中にある
+らしいんだ。
+","ネス湖のネッシー、アルゼンチンのナウエリート、カナダ
+のオゴポゴ…数え上げればキリがない。
+",[],听说世界各地都有巨型生物栖息在湖里的传闻。,,MATCH,98,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,6,stream=0x42000;block=0xC00;text=6,"[""stream=0x42000;block=0xC00;text=6""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","湖に巨大な生き物が棲んでるっていう話は、世界中にある
+らしいんだ。
+","ネス湖のネッシー、アルゼンチンのナウエリート、カナダ
+のオゴポゴ…数え上げればキリがない。
+","そういう目撃談も、恐竜が生き残ってるって説を裏付けて
+るんだ。
+",[],尼斯湖的Nessie、阿根廷的Nahuelito、加拿大的Ogopogo……数都数不完。,,MATCH,134,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,7,stream=0x42000;block=0xC00;text=7,"[""stream=0x42000;block=0xC00;text=7""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","ネス湖のネッシー、アルゼンチンのナウエリート、カナダ
+のオゴポゴ…数え上げればキリがない。
+","そういう目撃談も、恐竜が生き残ってるって説を裏付けて
+るんだ。
+","しかし、カルデラ湖だとすると、川にも繋がっていない。
+",[],这些目击报告，也能佐证恐龙仍然存活的说法。,,MATCH,92,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,8,stream=0x42000;block=0xC00;text=8,"[""stream=0x42000;block=0xC00;text=8""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","そういう目撃談も、恐竜が生き残ってるって説を裏付けて
+るんだ。
+","しかし、カルデラ湖だとすると、川にも繋がっていない。
+","そうなんだけど…。でも、コンゴのモケーレ・ムベンベな
+んかだと、陸上も歩けるからな。移動してきて棲み着いて
+るかもしれない。
+",[],不过，如果是火山口湖，就不会和河流相连。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,9,stream=0x42000;block=0xC00;text=9,"[""stream=0x42000;block=0xC00;text=9""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","しかし、カルデラ湖だとすると、川にも繋がっていない。
+","そうなんだけど…。でも、コンゴのモケーレ・ムベンベな
+んかだと、陸上も歩けるからな。移動してきて棲み着いて
+るかもしれない。
+","<R=未確認動物,UMA>に詳しいんだな。
+",[],是这样没错……不过像刚果的Mokèlé-mbèmbé，它还能在陆地上行走。说不定是迁徙过来后住下的。,,MATCH,183,128,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,10,stream=0x42000;block=0xC00;text=10,"[""stream=0x42000;block=0xC00;text=10""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","そうなんだけど…。でも、コンゴのモケーレ・ムベンベな
+んかだと、陸上も歩けるからな。移動してきて棲み着いて
+るかもしれない。
+","<R=未確認動物,UMA>に詳しいんだな。
+","<R=FSLN,フレンテ>のメンバーに元<R=狩人,ハンター>がいたんだ。その人にいろんな
+ことを教わったよ。怪物の島にも行ったことがあるらしい。
+","[""<R=未確認動物,UMA>""]","你对<R=未确认动物,UMA>很了解嘛。","<R=未确认动物,UMA>",MATCH,48,44,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042C00,11,stream=0x42000;block=0xC00;text=11,"[""stream=0x42000;block=0xC00;text=11""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","<R=未確認動物,UMA>に詳しいんだな。
+","<R=FSLN,フレンテ>のメンバーに元<R=狩人,ハンター>がいたんだ。その人にいろんな
+ことを教わったよ。怪物の島にも行ったことがあるらしい。
+","怪物の島の<R=狩人,ハンター>…。
+","[""<R=FSLN,フレンテ>"", ""<R=狩人,ハンター>""]","<R=FSLN,FRENTE>里以前有个当过<R=猎人,HUNTER>的人。他教了我很多东西。听说他还去过怪物岛。","<R=FSLN,FRENTE> | <R=猎人,HUNTER>",MATCH,190,119,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_042C00,12,stream=0x42000;block=0xC00;text=12,"[""stream=0x42000;block=0xC00;text=12""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","<R=FSLN,フレンテ>のメンバーに元<R=狩人,ハンター>がいたんだ。その人にいろんな
+ことを教わったよ。怪物の島にも行ったことがあるらしい。
+","怪物の島の<R=狩人,ハンター>…。
+","俺もいつかは<R=狩人,ハンター>として珍しい生き物を捕まえたいんだ。
+もちろん、ニカラグアに平和を取り戻すのが先だけどね。
+","[""<R=狩人,ハンター>""]","怪物岛的<R=猎人,HUNTER>……。","<R=猎人,HUNTER>",MATCH,45,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_042C00,13,stream=0x42000;block=0xC00;text=13,"[""stream=0x42000;block=0xC00;text=13""]",1,BRIEFING FILES,"[""stream=0x42000;block=0xC00;block_file=0x42C00;text_base=0x42C58;capacity=1404""]","怪物の島の<R=狩人,ハンター>…。
+","俺もいつかは<R=狩人,ハンター>として珍しい生き物を捕まえたいんだ。
+もちろん、ニカラグアに平和を取り戻すのが先だけどね。
+",,"[""<R=狩人,ハンター>""]","总有一天，我也想成为<R=猎人,HUNTER>，去捕捉珍稀生物。当然，得先让尼加拉瓜重获和平。","<R=猎人,HUNTER>",MATCH,175,119,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED

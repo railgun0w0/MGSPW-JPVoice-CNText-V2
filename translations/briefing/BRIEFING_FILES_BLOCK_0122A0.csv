@@ -1,0 +1,29 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0122A0,0,stream=0x12000;block=0x2A0;text=0,"[""stream=0x12000;block=0x2A0;text=0""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]",,"兵士を眠らせるか気絶させればボディチェックでアイテム
+を奪うことができる。
+","倒れている兵士に近づき、アイコンが出たら<I=ACT>を押すんだ。
+",[],让士兵睡着或昏迷后，就可以通过搜身拿走他们身上的道具。,,MATCH,110,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0122A0,1,stream=0x12000;block=0x2A0;text=1,"[""stream=0x12000;block=0x2A0;text=1""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","兵士を眠らせるか気絶させればボディチェックでアイテム
+を奪うことができる。
+","倒れている兵士に近づき、アイコンが出たら<I=ACT>を押すんだ。
+","あるいは背後から近づいてホールドアップさせた兵士や、
+瀕死の状態で倒れている兵士にも有効だ。
+","[""<I=ACT>""]",靠近倒地的士兵，出现图标后按<I=ACT>。,<I=ACT>,MATCH,86,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_0122A0,2,stream=0x12000;block=0x2A0;text=2,"[""stream=0x12000;block=0x2A0;text=2""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","倒れている兵士に近づき、アイコンが出たら<I=ACT>を押すんだ。
+","あるいは背後から近づいてホールドアップさせた兵士や、
+瀕死の状態で倒れている兵士にも有効だ。
+","と言っても、瀕死の兵士は時間が経つと死んでしまうから
+注意が必要だ。
+",[],从背后接近并举枪控制住的士兵，以及濒死倒地的士兵，也都可以搜身。,,MATCH,137,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ACTION_STATE_NUANCE_RESTORED
+BRIEFING_FILES_BLOCK_0122A0,3,stream=0x12000;block=0x2A0;text=3,"[""stream=0x12000;block=0x2A0;text=3""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","あるいは背後から近づいてホールドアップさせた兵士や、
+瀕死の状態で倒れている兵士にも有効だ。
+","と言っても、瀕死の兵士は時間が経つと死んでしまうから
+注意が必要だ。
+","それと、フルトン回収装置を手に持ったままボディチェッ
+クはできない。気をつけてくれ。
+",[],不过要注意，濒死的士兵过一段时间就会死。,,MATCH,101,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_0122A0,4,stream=0x12000;block=0x2A0;text=4,"[""stream=0x12000;block=0x2A0;text=4""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x2A0;block_file=0x122A0;text_base=0x122D4;capacity=564""]","と言っても、瀕死の兵士は時間が経つと死んでしまうから
+注意が必要だ。
+","それと、フルトン回収装置を手に持ったままボディチェッ
+クはできない。気をつけてくれ。
+",,[],另外，手里拿着富尔顿回收装置时无法搜身。注意这一点。,,MATCH,125,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED

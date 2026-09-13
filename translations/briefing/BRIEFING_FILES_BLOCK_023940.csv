@@ -1,0 +1,65 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_023940,0,stream=0x23000;block=0x940;text=0,"[""stream=0x23000;block=0x940;text=0""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]",,"君達が持ってきてくれたコーヒー、うまかったよ。
+","でしょう？　コスタリカのコーヒーは美味しいんだから。
+",[],你们带来的咖啡，真好喝。,,MATCH,70,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_TONE_OVER_AUX_PROFANITY
+BRIEFING_FILES_BLOCK_023940,1,stream=0x23000;block=0x940;text=1,"[""stream=0x23000;block=0x940;text=1""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","君達が持ってきてくれたコーヒー、うまかったよ。
+","でしょう？　コスタリカのコーヒーは美味しいんだから。
+","中央盆地は、コーヒーの栽培に最適な条件が揃ってるの。
+",[],是吧？哥斯达黎加的咖啡很好喝的。,,MATCH,79,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,2,stream=0x23000;block=0x940;text=2,"[""stream=0x23000;block=0x940;text=2""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","でしょう？　コスタリカのコーヒーは美味しいんだから。
+","中央盆地は、コーヒーの栽培に最適な条件が揃ってるの。
+","標高があって、気温の変化が少ない。土が火山性だから、
+水はけもいいし。
+",[],中央盆地具备最适合种咖啡的各种条件。,,MATCH,79,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,3,stream=0x23000;block=0x940;text=3,"[""stream=0x23000;block=0x940;text=3""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","中央盆地は、コーヒーの栽培に最適な条件が揃ってるの。
+","標高があって、気温の変化が少ない。土が火山性だから、
+水はけもいいし。
+","“教授”も随分御執心だった。
+",[],海拔高，气温变化小。土壤又是火山土，排水也很好。,,MATCH,104,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,4,stream=0x23000;block=0x940;text=4,"[""stream=0x23000;block=0x940;text=4""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","標高があって、気温の変化が少ない。土が火山性だから、
+水はけもいいし。
+","“教授”も随分御執心だった。
+","行きの船で飲んだコーヒーが美味しくなくて。先生、ずっ
+とおかんむりだったのよ。
+",[],“教授”也相当着迷。,,MATCH,43,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,5,stream=0x23000;block=0x940;text=5,"[""stream=0x23000;block=0x940;text=5""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","“教授”も随分御執心だった。
+","行きの船で飲んだコーヒーが美味しくなくて。先生、ずっ
+とおかんむりだったのよ。
+","それにしては、コスタリカコーヒーって名前をあまり聞か
+ないな。
+",[],来时船上喝的咖啡不好喝，教授一路都在生闷气呢。,,MATCH,116,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,6,stream=0x23000;block=0x940;text=6,"[""stream=0x23000;block=0x940;text=6""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","行きの船で飲んだコーヒーが美味しくなくて。先生、ずっ
+とおかんむりだったのよ。
+","それにしては、コスタリカコーヒーって名前をあまり聞か
+ないな。
+","業者に買い上げられた後は、他の国の豆と混ぜられちゃう
+みたいだから…。
+",[],可既然这么好，我倒很少听到“哥斯达黎加咖啡”这个名字。,,MATCH,92,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,7,stream=0x23000;block=0x940;text=7,"[""stream=0x23000;block=0x940;text=7""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","それにしては、コスタリカコーヒーって名前をあまり聞か
+ないな。
+","業者に買い上げられた後は、他の国の豆と混ぜられちゃう
+みたいだから…。
+","せっかくいい豆が採れるのに、それがコスタリカのものっ
+てわかってもらえないのは、悔しいな。
+",[],好像是被商家收购以后，就会和其他国家的咖啡豆混在一起……,,MATCH,104,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,8,stream=0x23000;block=0x940;text=8,"[""stream=0x23000;block=0x940;text=8""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","業者に買い上げられた後は、他の国の豆と混ぜられちゃう
+みたいだから…。
+","せっかくいい豆が採れるのに、それがコスタリカのものっ
+てわかってもらえないのは、悔しいな。
+","ちゃんとアピールすればいい。
+",[],明明能产出这么好的豆子，却没人知道它们来自哥斯达黎加，真让人不甘心。,,MATCH,134,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,9,stream=0x23000;block=0x940;text=9,"[""stream=0x23000;block=0x940;text=9""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","せっかくいい豆が採れるのに、それがコスタリカのものっ
+てわかってもらえないのは、悔しいな。
+","ちゃんとアピールすればいい。
+","うん。将来、「コスタリカ・コーヒー」として、きちんと
+評価されるようになるといいな。
+",[],那就好好宣传一下。,,MATCH,43,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,10,stream=0x23000;block=0x940;text=10,"[""stream=0x23000;block=0x940;text=10""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","ちゃんとアピールすればいい。
+","うん。将来、「コスタリカ・コーヒー」として、きちんと
+評価されるようになるといいな。
+","そうだな。
+",[],嗯。希望将来“哥斯达黎加咖啡”这个名字能得到应有的评价。,,MATCH,125,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_023940,11,stream=0x23000;block=0x940;text=11,"[""stream=0x23000;block=0x940;text=11""]",1,BRIEFING FILES,"[""stream=0x23000;block=0x940;block_file=0x23940;text_base=0x23990;capacity=1020""]","うん。将来、「コスタリカ・コーヒー」として、きちんと
+評価されるようになるといいな。
+","そうだな。
+",,[],是啊。,,MATCH,16,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

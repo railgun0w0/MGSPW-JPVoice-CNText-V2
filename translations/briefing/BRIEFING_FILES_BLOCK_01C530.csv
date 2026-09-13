@@ -1,0 +1,20 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01C530,0,stream=0x1C000;block=0x530;text=0,"[""stream=0x1C000;block=0x530;text=0""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]",,"そこにいた敵兵はすでに排除されている。今は誰もいない
+はずだ。
+","あんたはただ、的を撃つことだけに集中すればいい。
+",[],那里的敌兵已经被清除了。现在应该一个人都没有。,,MATCH,92,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_01C530,1,stream=0x1C000;block=0x530;text=1,"[""stream=0x1C000;block=0x530;text=1""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]","そこにいた敵兵はすでに排除されている。今は誰もいない
+はずだ。
+","あんたはただ、的を撃つことだけに集中すればいい。
+","そこは遠距離射撃の練習に向いている。スナイパーライフ
+ルなんかを持っていくといいかもしれないな。
+",[],你只要专心射击标靶就行。,,MATCH,73,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01C530,2,stream=0x1C000;block=0x530;text=2,"[""stream=0x1C000;block=0x530;text=2""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]","あんたはただ、的を撃つことだけに集中すればいい。
+","そこは遠距離射撃の練習に向いている。スナイパーライフ
+ルなんかを持っていくといいかもしれないな。
+","もちろん、あえてハンドガンの腕を磨くなんてのもありだ。
+",[],那里很适合练习远距离射击。带把狙击步枪之类的也许不错。,,MATCH,143,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+BRIEFING_FILES_BLOCK_01C530,3,stream=0x1C000;block=0x530;text=3,"[""stream=0x1C000;block=0x530;text=3""]",1,BRIEFING FILES,"[""stream=0x1C000;block=0x530;block_file=0x1C530;text_base=0x1C560;capacity=396""]","そこは遠距離射撃の練習に向いている。スナイパーライフ
+ルなんかを持っていくといいかもしれないな。
+","もちろん、あえてハンドガンの腕を磨くなんてのもありだ。
+",,[],当然，也可以故意用手枪来磨练技术。,,MATCH,82,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED

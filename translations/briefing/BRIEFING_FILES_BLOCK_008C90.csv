@@ -1,0 +1,51 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_008C90,0,stream=0x8000;block=0xC90;text=0,"[""stream=0x8000;block=0xC90;text=0""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]",,"カズ、どうした。声に元気がないぞ。
+","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
+",[],Kaz，怎么了？听你的声音没什么精神。,,MATCH,52,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_008C90,1,stream=0x8000;block=0xC90;text=1,"[""stream=0x8000;block=0xC90;text=1""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","カズ、どうした。声に元気がないぞ。
+","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
+","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
+すれば、コミュニケーションにもなる。
+","[""<R=こっち,マザーベース>""]","没什么，只是<R=这边,マザーベース>也堆着一大堆问题……","<R=这边,マザーベース>",MATCH,87,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_008C90,2,stream=0x8000;block=0xC90;text=2,"[""stream=0x8000;block=0xC90;text=2""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
+","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
+すれば、コミュニケーションにもなる。
+","ゲバラ達も、そうやってマテ茶を回し飲みしたのかな。
+",[],喝点马黛茶歇一会儿吧。和队里的弟兄们轮着喝，也能增进交流。,,MATCH,134,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_COMMUNICATION_CLAUSE
+BRIEFING_FILES_BLOCK_008C90,3,stream=0x8000;block=0xC90;text=3,"[""stream=0x8000;block=0xC90;text=3""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
+すれば、コミュニケーションにもなる。
+","ゲバラ達も、そうやってマテ茶を回し飲みしたのかな。
+","そうだろうな。彼のマテ茶好きは有名だ。
+",[],不知道格瓦拉他们是不是也这样轮着喝马黛茶。,,MATCH,76,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_008C90,4,stream=0x8000;block=0xC90;text=4,"[""stream=0x8000;block=0xC90;text=4""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","ゲバラ達も、そうやってマテ茶を回し飲みしたのかな。
+","そうだろうな。彼のマテ茶好きは有名だ。
+","しかし、よく考えたもんだ。ヒョウタンに入れて携帯でき
+るし、ストローに漉し器が付いているから、すぐ飲める。
+",[],大概吧。他爱喝马黛茶可是出了名的。,,MATCH,58,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_008C90,5,stream=0x8000;block=0xC90;text=5,"[""stream=0x8000;block=0xC90;text=5""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","そうだろうな。彼のマテ茶好きは有名だ。
+","しかし、よく考えたもんだ。ヒョウタンに入れて携帯でき
+るし、ストローに漉し器が付いているから、すぐ飲める。
+","それだけじゃない。食料が不足しがちなゲリラ戦において、
+ビタミンやミネラルの補給にもなる。
+",[],不过这东西设计得真周到。装在葫芦里就能随身带，吸管上还带过滤器，随时都能喝。,,MATCH,158,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_ADDS_GENIUS_IGNORED
+BRIEFING_FILES_BLOCK_008C90,6,stream=0x8000;block=0xC90;text=6,"[""stream=0x8000;block=0xC90;text=6""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","しかし、よく考えたもんだ。ヒョウタンに入れて携帯でき
+るし、ストローに漉し器が付いているから、すぐ飲める。
+","それだけじゃない。食料が不足しがちなゲリラ戦において、
+ビタミンやミネラルの補給にもなる。
+","俺もハイキングの最中に、金髪のパリジェンヌと回し飲み
+できれば最高なんだが。
+",[],不止如此。游击战经常缺粮，它还能补充维生素和矿物质。,,MATCH,134,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_008C90,7,stream=0x8000;block=0xC90;text=7,"[""stream=0x8000;block=0xC90;text=7""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","それだけじゃない。食料が不足しがちなゲリラ戦において、
+ビタミンやミネラルの補給にもなる。
+","俺もハイキングの最中に、金髪のパリジェンヌと回し飲み
+できれば最高なんだが。
+","…何で知ってるんだ。
+",[],要是我徒步时也能和金发巴黎女郎轮着喝，那就太棒了。,,MATCH,113,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_008C90,8,stream=0x8000;block=0xC90;text=8,"[""stream=0x8000;block=0xC90;text=8""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","俺もハイキングの最中に、金髪のパリジェンヌと回し飲み
+できれば最高なんだが。
+","…何で知ってるんだ。
+","蛇の道は蛇だよ、スネーク。
+",[],……你怎么会知道？,,MATCH,31,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_008C90,9,stream=0x8000;block=0xC90;text=9,"[""stream=0x8000;block=0xC90;text=9""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","…何で知ってるんだ。
+","蛇の道は蛇だよ、スネーク。
+",,[],蛇有蛇道嘛，Snake。,,MATCH,40,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_IDIOM_MISTRANSLATION_CORRECTED

@@ -1,0 +1,36 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0296E0,0,stream=0x29000;block=0x6E0;text=0,"[""stream=0x29000;block=0x6E0;text=0""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]",,"そのあたりには吊り橋があるはずよ。
+","こんな低地に？
+",[],那附近应该有一座吊桥。,,MATCH,52,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0296E0,1,stream=0x29000;block=0x6E0;text=1,"[""stream=0x29000;block=0x6E0;text=1""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","そのあたりには吊り橋があるはずよ。
+","こんな低地に？
+","この近くは珍しく地盤が固くて、高台になっているの。そ
+こを川が浸食して、谷になった。
+",[],在这么低的地方？,,MATCH,22,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0296E0,2,stream=0x29000;block=0x6E0;text=2,"[""stream=0x29000;block=0x6E0;text=2""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","こんな低地に？
+","この近くは珍しく地盤が固くて、高台になっているの。そ
+こを川が浸食して、谷になった。
+","このあたりで、他に川を渡れるところはないんじゃないか
+な。
+",[],这附近的地面少见地很坚硬，形成了一处高地。河流侵蚀那里，才形成了山谷。,,MATCH,125,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_VALLEY_CAUSE_RESTORED
+BRIEFING_FILES_BLOCK_0296E0,3,stream=0x29000;block=0x6E0;text=3,"[""stream=0x29000;block=0x6E0;text=3""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","この近くは珍しく地盤が固くて、高台になっているの。そ
+こを川が浸食して、谷になった。
+","このあたりで、他に川を渡れるところはないんじゃないか
+な。
+","橋に敵兵がいたら、厄介だな。
+",[],这一带恐怕没有别的地方能过河了。,,MATCH,86,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=ENG_POLARITY_CONTRADICTION_CORRECTED
+BRIEFING_FILES_BLOCK_0296E0,4,stream=0x29000;block=0x6E0;text=4,"[""stream=0x29000;block=0x6E0;text=4""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","このあたりで、他に川を渡れるところはないんじゃないか
+な。
+","橋に敵兵がいたら、厄介だな。
+","谷に霧がかかっているから、水面までは見えないかも。で
+も、落ちたらただではすまないと思う。
+",[],要是桥上有敌兵，就麻烦了。,,MATCH,43,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ENEMY_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_0296E0,5,stream=0x29000;block=0x6E0;text=5,"[""stream=0x29000;block=0x6E0;text=5""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","橋に敵兵がいたら、厄介だな。
+","谷に霧がかかっているから、水面までは見えないかも。で
+も、落ちたらただではすまないと思う。
+","用心するとしよう。
+",[],山谷里有雾，可能连水面都看不见。但掉下去肯定不会安然无恙。,,MATCH,134,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FALL_DANGER_RESTORED
+BRIEFING_FILES_BLOCK_0296E0,6,stream=0x29000;block=0x6E0;text=6,"[""stream=0x29000;block=0x6E0;text=6""]",1,BRIEFING FILES,"[""stream=0x29000;block=0x6E0;block_file=0x296E0;text_base=0x2971C;capacity=500""]","谷に霧がかかっているから、水面までは見えないかも。で
+も、落ちたらただではすまないと思う。
+","用心するとしよう。
+",,[],那就多加小心吧。,,MATCH,28,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

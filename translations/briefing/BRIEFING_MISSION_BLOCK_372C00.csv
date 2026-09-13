@@ -1,0 +1,11 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_372C00,0,stream=0x372000;block=0xC00;text=0,"[""stream=0x372000;block=0xC00;text=0""]",1,d2140_m0150_mrd,"[""stream=0x372000;block=0xC00;block_file=0x372C00;text_base=0x372C28;capacity=228""]",,"スネーク、村の北に抜けたな？
+核を積んだトラックは、山の中へ入って行ったらしい。
+","おそらく積み荷の最終地点だ。
+そこから先の情報はない。十分注意してくれ。
+",[],Snake，你已经穿过村子北边了吧？那辆载着核武器的卡车似乎开进了山里。,,MATCH,119,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_372C00,1,stream=0x372000;block=0xC00;text=1,"[""stream=0x372000;block=0xC00;text=1""]",1,d2140_m0150_mrd,"[""stream=0x372000;block=0xC00;block_file=0x372C00;text_base=0x372C28;capacity=228""]","スネーク、村の北に抜けたな？
+核を積んだトラックは、山の中へ入って行ったらしい。
+","おそらく積み荷の最終地点だ。
+そこから先の情報はない。十分注意してくれ。
+",,[],那里恐怕就是货物的最终目的地。再往后的情况我们一无所知，小心行事。,,MATCH,107,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

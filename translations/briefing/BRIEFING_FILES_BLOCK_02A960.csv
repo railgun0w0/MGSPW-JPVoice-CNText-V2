@@ -1,0 +1,27 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02A960,0,stream=0x2A000;block=0x960;text=0,"[""stream=0x2A000;block=0x960;text=0""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]",,"コスタリカには活火山が多いの。イラス山もその一つ。
+","なるほど、それで『<R= 溶岩の道 ,カミーノ・デ・ラーバ>』か。
+",[],哥斯达黎加有很多活火山，伊拉苏火山也是其中之一。,,MATCH,76,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02A960,1,stream=0x2A000;block=0x960;text=1,"[""stream=0x2A000;block=0x960;text=1""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","コスタリカには活火山が多いの。イラス山もその一つ。
+","なるほど、それで『<R= 溶岩の道 ,カミーノ・デ・ラーバ>』か。
+","このあたりの熱帯乾燥林は、熱帯雨林とはかなり違う。乾
+期には葉を落としてしまうの。
+","[""<R= 溶岩の道 ,カミーノ・デ・ラーバ>""]","原来如此，所以才叫『<R= 熔岩之路 ,Camino de Lava>』啊。","<R= 熔岩之路 ,Camino de Lava>",MATCH,86,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING;SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_02A960,2,stream=0x2A000;block=0x960;text=2,"[""stream=0x2A000;block=0x960;text=2""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","なるほど、それで『<R= 溶岩の道 ,カミーノ・デ・ラーバ>』か。
+","このあたりの熱帯乾燥林は、熱帯雨林とはかなり違う。乾
+期には葉を落としてしまうの。
+","熱帯の森は、鬱蒼としたジャングルばかりでもない。場所
+によっては、サボテンだって生えてる。
+",[],这一带的热带干旱林和热带雨林很不一样，到了旱季树木会落叶。,,MATCH,122,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_DRY_SEASON_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_02A960,3,stream=0x2A000;block=0x960;text=3,"[""stream=0x2A000;block=0x960;text=3""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","このあたりの熱帯乾燥林は、熱帯雨林とはかなり違う。乾
+期には葉を落としてしまうの。
+","熱帯の森は、鬱蒼としたジャングルばかりでもない。場所
+によっては、サボテンだって生えてる。
+","いろんな森や自然が残っているところが、コスタリカのい
+いところよ。
+",[],热带森林也不全是茂密的丛林。有些地方甚至还长着仙人掌。,,MATCH,134,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02A960,4,stream=0x2A000;block=0x960;text=4,"[""stream=0x2A000;block=0x960;text=4""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x960;block_file=0x2A960;text_base=0x2A994;capacity=524""]","熱帯の森は、鬱蒼としたジャングルばかりでもない。場所
+によっては、サボテンだって生えてる。
+","いろんな森や自然が残っているところが、コスタリカのい
+いところよ。
+",,[],保留着各种各样的森林和自然环境，正是哥斯达黎加的魅力所在。,,MATCH,98,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ASSET_PARAPHRASE_REPLACED_BY_JPN

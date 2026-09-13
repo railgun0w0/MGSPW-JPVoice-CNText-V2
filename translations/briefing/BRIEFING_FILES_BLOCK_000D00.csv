@@ -1,0 +1,115 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_000D00,0,stream=0x0;block=0xD00;text=0,"[""stream=0x0;block=0xD00;text=0""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]",,"スネーク、現地で見つけた捕虜や気絶した傭兵をマザーベ
+ースに回収するには、フルトン回収システムを使うんだ。
+","あんたは体験済みだっていってたが、俺のために手順を確
+認させてくれ。
+",[],Snake，要把在现场发现的俘虏和被打昏的佣兵回收到母基地，就得使用富尔顿回收系统。,,MATCH,158,116,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_FULTON_SYSTEM
+BRIEFING_FILES_BLOCK_000D00,1,stream=0x0;block=0xD00;text=1,"[""stream=0x0;block=0xD00;text=1""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","スネーク、現地で見つけた捕虜や気絶した傭兵をマザーベ
+ースに回収するには、フルトン回収システムを使うんだ。
+","あんたは体験済みだっていってたが、俺のために手順を確
+認させてくれ。
+","わかった。
+",[],你说自己已经体验过了，不过为了我，再确认一下步骤吧。,,MATCH,101,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,2,stream=0x0;block=0xD00;text=2,"[""stream=0x0;block=0xD00;text=2""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","あんたは体験済みだっていってたが、俺のために手順を確
+認させてくれ。
+","わかった。
+","まずあんたが気絶させた敵や、拘束されている捕虜にバル
+ーンをセットする。
+",[],明白。,,MATCH,16,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,3,stream=0x0;block=0xD00;text=3,"[""stream=0x0;block=0xD00;text=3""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","わかった。
+","まずあんたが気絶させた敵や、拘束されている捕虜にバル
+ーンをセットする。
+","そうだ。回収したい相手の腰にワイヤーを固定する。この
+ワイヤーの先にはヘリウムの詰まったバルーンがついてい
+る。
+",[],首先，给你打昏的敌人或被拘束的俘虏装上气球。,,MATCH,107,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,4,stream=0x0;block=0xD00;text=4,"[""stream=0x0;block=0xD00;text=4""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","まずあんたが気絶させた敵や、拘束されている捕虜にバル
+ーンをセットする。
+","そうだ。回収したい相手の腰にワイヤーを固定する。この
+ワイヤーの先にはヘリウムの詰まったバルーンがついてい
+る。
+","で、こっちはヘリで接近、宙に浮いたバルーンをヘリの回
+収用フックに引っかけ、上空につり上げてカーゴに格納す
+る。
+",[],对。把钢索固定在要回收对象的腰上。钢索另一头连着一个充满氦气的气球。,,MATCH,165,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,5,stream=0x0;block=0xD00;text=5,"[""stream=0x0;block=0xD00;text=5""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","そうだ。回収したい相手の腰にワイヤーを固定する。この
+ワイヤーの先にはヘリウムの詰まったバルーンがついてい
+る。
+","で、こっちはヘリで接近、宙に浮いたバルーンをヘリの回
+収用フックに引っかけ、上空につり上げてカーゴに格納す
+る。
+","それでいい。
+",[],然后我们乘直升机接近，用回收钩勾住浮在空中的气球，把人吊到上空，再收进货舱。,,MATCH,165,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,6,stream=0x0;block=0xD00;text=6,"[""stream=0x0;block=0xD00;text=6""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","で、こっちはヘリで接近、宙に浮いたバルーンをヘリの回
+収用フックに引っかけ、上空につり上げてカーゴに格納す
+る。
+","それでいい。
+","バッチリだ。回収用のヘリ、<R=HU-1,ヒューイ>へのフック装着も完了
+したし…。
+",[],这样就行。,,MATCH,19,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,7,stream=0x0;block=0xD00;text=7,"[""stream=0x0;block=0xD00;text=7""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","それでいい。
+","バッチリだ。回収用のヘリ、<R=HU-1,ヒューイ>へのフック装着も完了
+したし…。
+","だがカズ、このやり方には矛盾を感じるんだが。
+","[""<R=HU-1,ヒューイ>""]","完美。回收用直升机<R=HU-1,ヒューイ>的挂钩也已经装好了……","<R=HU-1,ヒューイ>",MATCH,107,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
+BRIEFING_FILES_BLOCK_000D00,8,stream=0x0;block=0xD00;text=8,"[""stream=0x0;block=0xD00;text=8""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","バッチリだ。回収用のヘリ、<R=HU-1,ヒューイ>へのフック装着も完了
+したし…。
+","だがカズ、このやり方には矛盾を感じるんだが。
+","なんだ、またその話か？
+",[],不过Kaz，我总觉得这种做法有点矛盾。,,MATCH,67,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,9,stream=0x0;block=0xD00;text=9,"[""stream=0x0;block=0xD00;text=9""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","だがカズ、このやり方には矛盾を感じるんだが。
+","なんだ、またその話か？
+","ふつうフルトン回収は固定翼機で行うもんだ。ヘリがある
+なら着陸して直接乗せた方が確実だ。
+",[],怎么，又是这事？,,MATCH,34,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,10,stream=0x0;block=0xD00;text=10,"[""stream=0x0;block=0xD00;text=10""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","なんだ、またその話か？
+","ふつうフルトン回収は固定翼機で行うもんだ。ヘリがある
+なら着陸して直接乗せた方が確実だ。
+","いいかスネーク、回収は任務中何度も繰り返すことになる。
+敵の銃火を浴びる危険はなるべく少なくしたい。
+",[],通常富尔顿回收是用固定翼飞机进行的。既然有直升机，直接降落把人接上去不是更稳妥吗？,,MATCH,131,123,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,11,stream=0x0;block=0xD00;text=11,"[""stream=0x0;block=0xD00;text=11""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","ふつうフルトン回収は固定翼機で行うもんだ。ヘリがある
+なら着陸して直接乗せた方が確実だ。
+","いいかスネーク、回収は任務中何度も繰り返すことになる。
+敵の銃火を浴びる危険はなるべく少なくしたい。
+","それには高速で<R=飛び抜け,フライパスし>ながら回収できるフルトン回収シ
+ステムが一番なんだ。
+",[],听着，Snake。任务中会反复进行回收，我们得尽量降低遭到敌方火力攻击的风险。,,MATCH,149,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,12,stream=0x0;block=0xD00;text=12,"[""stream=0x0;block=0xD00;text=12""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","いいかスネーク、回収は任務中何度も繰り返すことになる。
+敵の銃火を浴びる危険はなるべく少なくしたい。
+","それには高速で<R=飛び抜け,フライパスし>ながら回収できるフルトン回収シ
+ステムが一番なんだ。
+","…本音は。
+","[""<R=飛び抜け,フライパスし>""]","所以，能高速<R=掠过,フライパスし>的同时完成回收的富尔顿回收系统最合适。","<R=掠过,フライパスし>",MATCH,133,104,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_000D00,13,stream=0x0;block=0xD00;text=13,"[""stream=0x0;block=0xD00;text=13""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","それには高速で<R=飛び抜け,フライパスし>ながら回収できるフルトン回収シ
+ステムが一番なんだ。
+","…本音は。
+","ヘリの方が安い。撃たれたら修理代もかさむし。
+",[],……说实话呢？,,MATCH,16,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_SHIFTED_REFERENCE_IGNORED
+BRIEFING_FILES_BLOCK_000D00,14,stream=0x0;block=0xD00;text=14,"[""stream=0x0;block=0xD00;text=14""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","…本音は。
+","ヘリの方が安い。撃たれたら修理代もかさむし。
+","それだカズ。コスト管理もいいが…。
+",[],直升机更便宜。要是挨了枪子儿，维修费也会越堆越高。,,MATCH,67,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_PARTIAL
+BRIEFING_FILES_BLOCK_000D00,15,stream=0x0;block=0xD00;text=15,"[""stream=0x0;block=0xD00;text=15""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","ヘリの方が安い。撃たれたら修理代もかさむし。
+","それだカズ。コスト管理もいいが…。
+","ボス、軍にいた頃の感覚はそろそろ捨ててもらわなきゃ困
+る。俺達は公費で贅沢出来る連中とは違うんだ。それとも
+…。
+",[],就是这个，Kaz。控制成本是没错，不过……,,MATCH,52,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_000D00,16,stream=0x0;block=0xD00;text=16,"[""stream=0x0;block=0xD00;text=16""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","それだカズ。コスト管理もいいが…。
+","ボス、軍にいた頃の感覚はそろそろ捨ててもらわなきゃ困
+る。俺達は公費で贅沢出来る連中とは違うんだ。それとも
+…。
+","わかったわかった。選んだ理由が引っかかるだけだ。
+",[],Boss，你也该把当年在军队里的那套做派丢掉了。我们可不是能拿公款挥霍的那帮人。还是说……,,MATCH,165,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_000D00,17,stream=0x0;block=0xD00;text=17,"[""stream=0x0;block=0xD00;text=17""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","ボス、軍にいた頃の感覚はそろそろ捨ててもらわなきゃ困
+る。俺達は公費で贅沢出来る連中とは違うんだ。それとも
+…。
+","わかったわかった。選んだ理由が引っかかるだけだ。
+","ヘリの方が即応性もある。確かに風変わりかも知れないが
+不自由は感じないはずだ。あんたもすぐに馴染むさ。
+",[],知道了知道了。我只是对你选它的理由有点介意。,,MATCH,73,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_SEMANTIC_DRIFT_IGNORED
+BRIEFING_FILES_BLOCK_000D00,18,stream=0x0;block=0xD00;text=18,"[""stream=0x0;block=0xD00;text=18""]",1,BRIEFING FILES,"[""stream=0x0;block=0xD00;block_file=0xD00;text_base=0xD6C;capacity=1896""]","わかったわかった。選んだ理由が引っかかるだけだ。
+","ヘリの方が即応性もある。確かに風変わりかも知れないが
+不自由は感じないはずだ。あんたもすぐに馴染むさ。
+",,[],而且直升机的快速反应能力更强。的确可能有点另类，但你应该不会觉得不便。很快就会习惯的。,,MATCH,152,129,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION

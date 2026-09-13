@@ -1,0 +1,35 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01DC10,0,stream=0x1D000;block=0xC10;text=0,"[""stream=0x1D000;block=0xC10;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]",,"今回のミッションでは、敵を一人も殺してはならない。
+","それから、一度でも敵に発見されたら任務は失敗となる。
+",[],这次任务中，一个敌人都不能杀。,,MATCH,76,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01DC10,1,stream=0x1D000;block=0xC10;text=1,"[""stream=0x1D000;block=0xC10;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","今回のミッションでは、敵を一人も殺してはならない。
+","それから、一度でも敵に発見されたら任務は失敗となる。
+","とにかく慎重に行動するようにしてくれ。
+",[],而且，只要被敌人发现一次，任务就会失败。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01DC10,2,stream=0x1D000;block=0xC10;text=2,"[""stream=0x1D000;block=0xC10;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","それから、一度でも敵に発見されたら任務は失敗となる。
+","とにかく慎重に行動するようにしてくれ。
+","姿勢を低く保つ、近くに敵兵がいるときは足音を立てずに
+ゆっくり歩く…。
+",[],总之，行动一定要谨慎。,,MATCH,58,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01DC10,3,stream=0x1D000;block=0xC10;text=3,"[""stream=0x1D000;block=0xC10;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","とにかく慎重に行動するようにしてくれ。
+","姿勢を低く保つ、近くに敵兵がいるときは足音を立てずに
+ゆっくり歩く…。
+","物陰に身を隠して、<I=ESEARCH>で相手の気配をうかがうのも有効だ。
+",[],保持低姿态，附近有敌兵时，要放轻脚步慢慢走……,,MATCH,104,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_01DC10,4,stream=0x1D000;block=0xC10;text=4,"[""stream=0x1D000;block=0xC10;text=4""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","姿勢を低く保つ、近くに敵兵がいるときは足音を立てずに
+ゆっくり歩く…。
+","物陰に身を隠して、<I=ESEARCH>で相手の気配をうかがうのも有効だ。
+","古典的だが、空になったマガジンを投げたりして敵を誘導
+するって手もある。
+","[""<I=ESEARCH>""]",躲在掩体后，用<I=ESEARCH>观察敌人的动静也很有效。,<I=ESEARCH>,MATCH,90,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED;CONTROL_TOKEN_PRESERVED
+BRIEFING_FILES_BLOCK_01DC10,5,stream=0x1D000;block=0xC10;text=5,"[""stream=0x1D000;block=0xC10;text=5""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","物陰に身を隠して、<I=ESEARCH>で相手の気配をうかがうのも有効だ。
+","古典的だが、空になったマガジンを投げたりして敵を誘導
+するって手もある。
+","音にも気を遣え。音を視覚化するサラウンドインジケータ
+ーも便利だ。
+",[],虽然是老办法，但也可以扔出空弹匣来诱导敌人。,,MATCH,107,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_01DC10,6,stream=0x1D000;block=0xC10;text=6,"[""stream=0x1D000;block=0xC10;text=6""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xC10;block_file=0x1DC10;text_base=0x1DC4C;capacity=620""]","古典的だが、空になったマガジンを投げたりして敵を誘導
+するって手もある。
+","音にも気を遣え。音を視覚化するサラウンドインジケータ
+ーも便利だ。
+",,[],也要注意声音。能把声音视觉化的周围感知指示器也很方便。,,MATCH,98,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED

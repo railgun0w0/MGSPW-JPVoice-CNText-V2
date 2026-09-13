@@ -1,0 +1,58 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0331A0,0,stream=0x33000;block=0x1A0;text=0,"[""stream=0x33000;block=0x1A0;text=0""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]",,"祖国の自由のための革命か。お互い平和とは縁遠いな。
+","不本意だけど仕方ないわ。無抵抗では搾取されるだけ。こ
+れまでの祖国の歴史がそれを証明してるの。
+",[],为了祖国自由而革命吗。看来我们两个都和和平无缘啊。,,MATCH,76,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PEACE_OBJECTIVE_MISREAD_CORRECTED
+BRIEFING_FILES_BLOCK_0331A0,1,stream=0x33000;block=0x1A0;text=1,"[""stream=0x33000;block=0x1A0;text=1""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","祖国の自由のための革命か。お互い平和とは縁遠いな。
+","不本意だけど仕方ないわ。無抵抗では搾取されるだけ。こ
+れまでの祖国の歴史がそれを証明してるの。
+","もちろん革命は手段であって目的じゃない。革命が成功し
+たら平和な国にしたいとは思う。
+",[],虽非我所愿，但也没办法。毫不反抗，只会任人剥削。祖国过去的历史已经证明了这一点。,,MATCH,140,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EXPLOITATION_AND_HISTORY_DETAILS_RESTORED
+BRIEFING_FILES_BLOCK_0331A0,2,stream=0x33000;block=0x1A0;text=2,"[""stream=0x33000;block=0x1A0;text=2""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","不本意だけど仕方ないわ。無抵抗では搾取されるだけ。こ
+れまでの祖国の歴史がそれを証明してるの。
+","もちろん革命は手段であって目的じゃない。革命が成功し
+たら平和な国にしたいとは思う。
+","けれど、平和をもたらすためにはまず売国奴を排除しなく
+ちゃならない。
+",[],当然，革命只是手段，不是目的。革命成功以后，我也想让国家变得和平。,,MATCH,125,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SECOND_SENTENCE_RESTORED
+BRIEFING_FILES_BLOCK_0331A0,3,stream=0x33000;block=0x1A0;text=3,"[""stream=0x33000;block=0x1A0;text=3""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","もちろん革命は手段であって目的じゃない。革命が成功し
+たら平和な国にしたいとは思う。
+","けれど、平和をもたらすためにはまず売国奴を排除しなく
+ちゃならない。
+","「我々は平和に暮らすために戦争をする」――昔から言わ
+れている話だ。
+",[],但要带来和平，首先就必须清除那些卖国贼。,,MATCH,101,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0331A0,4,stream=0x33000;block=0x1A0;text=4,"[""stream=0x33000;block=0x1A0;text=4""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","けれど、平和をもたらすためにはまず売国奴を排除しなく
+ちゃならない。
+","「我々は平和に暮らすために戦争をする」――昔から言わ
+れている話だ。
+","誰の言葉？
+",[],“我们发动战争，是为了生活在和平之中”——这话从很久以前就有人说了。,,MATCH,101,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0331A0,5,stream=0x33000;block=0x1A0;text=5,"[""stream=0x33000;block=0x1A0;text=5""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","「我々は平和に暮らすために戦争をする」――昔から言わ
+れている話だ。
+","誰の言葉？
+","アリストテレスだ。
+",[],谁说的？,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0331A0,6,stream=0x33000;block=0x1A0;text=6,"[""stream=0x33000;block=0x1A0;text=6""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","誰の言葉？
+","アリストテレスだ。
+","詳しいのね。
+",[],亚里士多德。,,MATCH,28,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0331A0,7,stream=0x33000;block=0x1A0;text=7,"[""stream=0x33000;block=0x1A0;text=7""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","アリストテレスだ。
+","詳しいのね。
+","ある人に教わった。
+",[],你懂得真多。,,MATCH,19,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0331A0,8,stream=0x33000;block=0x1A0;text=8,"[""stream=0x33000;block=0x1A0;text=8""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","詳しいのね。
+","ある人に教わった。
+","人間は昔から同じ事を繰り返してるってわけね。…それで
+も戦うしかない。
+",[],是某个人教我的。,,MATCH,28,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_GOOD_TEACHER_PARAPHRASE_REPLACED_BY_JPN
+BRIEFING_FILES_BLOCK_0331A0,9,stream=0x33000;block=0x1A0;text=9,"[""stream=0x33000;block=0x1A0;text=9""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","ある人に教わった。
+","人間は昔から同じ事を繰り返してるってわけね。…それで
+も戦うしかない。
+","そうだな。目的があるなら、前に進むしかない。
+",[],也就是说，人类从很久以前就在重复同样的事……即便如此，也只能战斗。,,MATCH,104,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0331A0,10,stream=0x33000;block=0x1A0;text=10,"[""stream=0x33000;block=0x1A0;text=10""]",1,BRIEFING FILES,"[""stream=0x33000;block=0x1A0;block_file=0x331A0;text_base=0x331EC;capacity=816""]","人間は昔から同じ事を繰り返してるってわけね。…それで
+も戦うしかない。
+","そうだな。目的があるなら、前に進むしかない。
+",,[],是啊。既然有目标，就只能继续向前。,,MATCH,67,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

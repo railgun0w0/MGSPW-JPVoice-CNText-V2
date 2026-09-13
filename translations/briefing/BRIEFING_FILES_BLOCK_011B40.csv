@@ -1,0 +1,34 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_011B40,0,stream=0x11000;block=0xB40;text=0,"[""stream=0x11000;block=0xB40;text=0""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]",,"わかっていると思うが、敵との戦闘は可能な限り避けてく
+れ、スネーク。
+","ああ。
+",[],我想你也明白，尽可能避免和敌人交战，Snake。,,MATCH,101,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_011B40,1,stream=0x11000;block=0xB40;text=1,"[""stream=0x11000;block=0xB40;text=1""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","わかっていると思うが、敵との戦闘は可能な限り避けてく
+れ、スネーク。
+","ああ。
+","こちらは少人数の上、土地鑑もない。本格的な戦闘になっ
+たら、いくらあんたでも苦戦は免れないだろう。
+",[],嗯。,,MATCH,10,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011B40,2,stream=0x11000;block=0xB40;text=2,"[""stream=0x11000;block=0xB40;text=2""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","ああ。
+","こちらは少人数の上、土地鑑もない。本格的な戦闘になっ
+たら、いくらあんたでも苦戦は免れないだろう。
+","わかってる。戦闘回避は、スニーキング・ミッションの基
+本だ。
+",[],我们人数少，又不熟悉地形。真要打起正面战，就算是你也免不了陷入苦战。,,MATCH,146,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SURVIVAL_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_011B40,3,stream=0x11000;block=0xB40;text=3,"[""stream=0x11000;block=0xB40;text=3""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","こちらは少人数の上、土地鑑もない。本格的な戦闘になっ
+たら、いくらあんたでも苦戦は免れないだろう。
+","わかってる。戦闘回避は、スニーキング・ミッションの基
+本だ。
+","そうだな。敵に居場所をつかませず、必要な時のみ一撃離
+脱で敵に痛撃を与える…。
+",[],我知道。避免战斗，是潜入任务的基本原则。,,MATCH,89,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011B40,4,stream=0x11000;block=0xB40;text=4,"[""stream=0x11000;block=0xB40;text=4""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","わかってる。戦闘回避は、スニーキング・ミッションの基
+本だ。
+","そうだな。敵に居場所をつかませず、必要な時のみ一撃離
+脱で敵に痛撃を与える…。
+","これは、ゲリラ戦の要点でもある。
+",[],没错。别让敌人掌握你的位置，只在必要时一击脱离，给敌人以重创……,,MATCH,116,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+BRIEFING_FILES_BLOCK_011B40,5,stream=0x11000;block=0xB40;text=5,"[""stream=0x11000;block=0xB40;text=5""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xB40;block_file=0x11B40;text_base=0x11B78;capacity=520""]","そうだな。敵に居場所をつかませず、必要な時のみ一撃離
+脱で敵に痛撃を与える…。
+","これは、ゲリラ戦の要点でもある。
+",,[],这也是游击战的要点。,,MATCH,49,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED

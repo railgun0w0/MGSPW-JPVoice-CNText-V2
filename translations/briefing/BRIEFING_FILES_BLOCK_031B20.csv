@@ -1,0 +1,91 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_031B20,0,stream=0x31000;block=0xB20;text=0,"[""stream=0x31000;block=0xB20;text=0""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]",,"あたし達はサンディニスタ。サンディーノ将軍の意志を継
+ぐものよ。
+","サンディーノ…近代ゲリラ戦の創始者だな。
+",[],我们是桑地诺主义者，是继承桑地诺将军意志的人。,,MATCH,95,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SANDINISTA_TERM_CORRECTED
+BRIEFING_FILES_BLOCK_031B20,1,stream=0x31000;block=0xB20;text=1,"[""stream=0x31000;block=0xB20;text=1""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","あたし達はサンディニスタ。サンディーノ将軍の意志を継
+ぐものよ。
+","サンディーノ…近代ゲリラ戦の創始者だな。
+","あなたにとってはそうでしょうね。あたし達にとっては、
+父と言ってもいい人だけど。
+",[],桑地诺……现代游击战的创始人。,,MATCH,61,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FATHER_PARAPHRASE_REPLACED_BY_JPN_FOUNDER
+BRIEFING_FILES_BLOCK_031B20,2,stream=0x31000;block=0xB20;text=2,"[""stream=0x31000;block=0xB20;text=2""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","サンディーノ…近代ゲリラ戦の創始者だな。
+","あなたにとってはそうでしょうね。あたし達にとっては、
+父と言ってもいい人だけど。
+","だから、組織の名に使った？
+",[],对你来说也许如此。但对我们来说，说他是父亲也不为过。,,MATCH,119,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_FATHER_NUANCE_PRIMARY
+BRIEFING_FILES_BLOCK_031B20,3,stream=0x31000;block=0xB20;text=3,"[""stream=0x31000;block=0xB20;text=3""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","あなたにとってはそうでしょうね。あたし達にとっては、
+父と言ってもいい人だけど。
+","だから、組織の名に使った？
+","ええ。Frente Sandinista de Liberación
+Nacional …。
+",[],所以才用他的名字给组织命名？,,MATCH,40,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031B20,4,stream=0x31000;block=0xB20;text=4,"[""stream=0x31000;block=0xB20;text=4""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","だから、組織の名に使った？
+","ええ。Frente Sandinista de Liberación
+Nacional …。
+","“サンディニスタ民族解放戦線”の名は、彼から取った。
+",[],对。Frente Sandinista de Liberación Nacional……,,MATCH,58,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_SPANISH_ORGANIZATION_NAME_PRESERVED
+BRIEFING_FILES_BLOCK_031B20,5,stream=0x31000;block=0xB20;text=5,"[""stream=0x31000;block=0xB20;text=5""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","ええ。Frente Sandinista de Liberación
+Nacional …。
+","“サンディニスタ民族解放戦線”の名は、彼から取った。
+","あたし達の目的は将軍と同じ。自由な祖国を取り戻すこと。
+",[],“桑地诺民族解放阵线”这个名字就取自他。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031B20,6,stream=0x31000;block=0xB20;text=6,"[""stream=0x31000;block=0xB20;text=6""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","“サンディニスタ民族解放戦線”の名は、彼から取った。
+","あたし達の目的は将軍と同じ。自由な祖国を取り戻すこと。
+","彼の場合はアメリカから。あたし達の場合はソモサの独裁
+から。
+",[],我们的目标和将军一样：夺回自由的祖国。,,MATCH,82,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_FREE_HOMELAND_PRIMARY
+BRIEFING_FILES_BLOCK_031B20,7,stream=0x31000;block=0xB20;text=7,"[""stream=0x31000;block=0xB20;text=7""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","あたし達の目的は将軍と同じ。自由な祖国を取り戻すこと。
+","彼の場合はアメリカから。あたし達の場合はソモサの独裁
+から。
+","時代は離れていても、思いは同じか。
+",[],他要从美国手中夺回，我们要从索摩查的独裁统治中夺回。,,MATCH,89,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031B20,8,stream=0x31000;block=0xB20;text=8,"[""stream=0x31000;block=0xB20;text=8""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","彼の場合はアメリカから。あたし達の場合はソモサの独裁
+から。
+","時代は離れていても、思いは同じか。
+","『<R=自由な祖国か死か,パトリア リブレ オ モリール>』…それがあたし達のスローガン。
+",[],虽然时代相隔很远，想法却一样吗。,,MATCH,52,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SONG_METAPHOR_REMOVED_PER_JPN
+BRIEFING_FILES_BLOCK_031B20,9,stream=0x31000;block=0xB20;text=9,"[""stream=0x31000;block=0xB20;text=9""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","時代は離れていても、思いは同じか。
+","『<R=自由な祖国か死か,パトリア リブレ オ モリール>』…それがあたし達のスローガン。
+","エル・チェも同じ事を言ってたでしょ？
+","[""<R=自由な祖国か死か,パトリア リブレ オ モリール>""]","『<R=祖国自由或死亡,Patria Libre o Morir>』……这就是我们的口号。","<R=祖国自由或死亡,Patria Libre o Morir>",MATCH,120,85,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_SPANISH_READING
+BRIEFING_FILES_BLOCK_031B20,10,stream=0x31000;block=0xB20;text=10,"[""stream=0x31000;block=0xB20;text=10""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","『<R=自由な祖国か死か,パトリア リブレ オ モリール>』…それがあたし達のスローガン。
+","エル・チェも同じ事を言ってたでしょ？
+","『<R=祖国か死か,パトリア オ ムエルテ>』…キューバ革命のスローガンだな。
+",[],El Che也说过一样的话吧？,,MATCH,55,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031B20,11,stream=0x31000;block=0xB20;text=11,"[""stream=0x31000;block=0xB20;text=11""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","エル・チェも同じ事を言ってたでしょ？
+","『<R=祖国か死か,パトリア オ ムエルテ>』…キューバ革命のスローガンだな。
+","すると君たちは、社会主義革命を目指している？
+","[""<R=祖国か死か,パトリア オ ムエルテ>""]","『<R=祖国或死亡,Patria o Muerte>』……古巴革命的口号。","<R=祖国或死亡,Patria o Muerte>",MATCH,104,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_SPANISH_READING
+BRIEFING_FILES_BLOCK_031B20,12,stream=0x31000;block=0xB20;text=12,"[""stream=0x31000;block=0xB20;text=12""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","『<R=祖国か死か,パトリア オ ムエルテ>』…キューバ革命のスローガンだな。
+","すると君たちは、社会主義革命を目指している？
+","違う。主義とか、そんなんじゃない。ただ…。
+",[],那么，你们的目标也是社会主义革命？,,MATCH,67,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031B20,13,stream=0x31000;block=0xB20;text=13,"[""stream=0x31000;block=0xB20;text=13""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","すると君たちは、社会主義革命を目指している？
+","違う。主義とか、そんなんじゃない。ただ…。
+","当たり前に暮らしたいだけ。
+",[],不，不是。和什么主义没关系。只是……,,MATCH,64,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_NEXT_ROW_CONTENT_MOVED_PER_JPN
+BRIEFING_FILES_BLOCK_031B20,14,stream=0x31000;block=0xB20;text=14,"[""stream=0x31000;block=0xB20;text=14""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","違う。主義とか、そんなんじゃない。ただ…。
+","当たり前に暮らしたいだけ。
+","道を歩いているだけで突然殴られたり、密告にびくびくし
+たり。そんな暮らしはもうたくさん。
+",[],只是想过普通的生活。,,MATCH,40,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_SEPARATE_EMPHASIS_PRIMARY
+BRIEFING_FILES_BLOCK_031B20,15,stream=0x31000;block=0xB20;text=15,"[""stream=0x31000;block=0xB20;text=15""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","当たり前に暮らしたいだけ。
+","道を歩いているだけで突然殴られたり、密告にびくびくし
+たり。そんな暮らしはもうたくさん。
+","祖国を国民に返す。それが目的よ。
+",[],走在路上都会突然挨打，还得时刻害怕有人告密。这样的日子我们已经受够了。,,MATCH,131,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_BEATING_AND_INFORMER_DETAILS_REJOINED_PER_JPN
+BRIEFING_FILES_BLOCK_031B20,16,stream=0x31000;block=0xB20;text=16,"[""stream=0x31000;block=0xB20;text=16""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","道を歩いているだけで突然殴られたり、密告にびくびくし
+たり。そんな暮らしはもうたくさん。
+","祖国を国民に返す。それが目的よ。
+","そうだな。キューバ革命も、はじめはそうだった。
+",[],把祖国还给人民，这就是我们的目标。,,MATCH,49,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031B20,17,stream=0x31000;block=0xB20;text=17,"[""stream=0x31000;block=0xB20;text=17""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","祖国を国民に返す。それが目的よ。
+","そうだな。キューバ革命も、はじめはそうだった。
+","あたし達の仲間は、まだ多いとは言えない。でも、必ず勝
+つ。<R=勝利か死か,ビクトリア オ ムエルテ>。革命家の宿命よ。
+",[],是啊。古巴革命一开始也是这样。,,MATCH,70,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_031B20,18,stream=0x31000;block=0xB20;text=18,"[""stream=0x31000;block=0xB20;text=18""]",1,BRIEFING FILES,"[""stream=0x31000;block=0xB20;block_file=0x31B20;text_base=0x31B8C;capacity=1560""]","そうだな。キューバ革命も、はじめはそうだった。
+","あたし達の仲間は、まだ多いとは言えない。でも、必ず勝
+つ。<R=勝利か死か,ビクトリア オ ムエルテ>。革命家の宿命よ。
+",,"[""<R=勝利か死か,ビクトリア オ ムエルテ>""]","我们的同伴现在还算不上多。但我们一定会赢。<R=胜利或死亡,Victoria o Muerte>。这是革命家的宿命。","<R=胜利或死亡,Victoria o Muerte>",MATCH,165,130,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_SPANISH_READING;AUX_COMPANION_COUNT_AND_RESOLVE_RESTORED

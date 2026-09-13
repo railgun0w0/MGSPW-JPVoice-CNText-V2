@@ -1,0 +1,24 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_028D50,0,stream=0x28000;block=0xD50;text=0,"[""stream=0x28000;block=0xD50;text=0""]",1,BRIEFING FILES,"[""stream=0x28000;block=0xD50;block_file=0x28D50;text_base=0x28D84;capacity=468""]",,"“ボスケ・デル・アルバ”は、「曙光の森」という意味。
+やっぱり、東海岸にあることから来ているの。
+","典型的な熱帯雨林よ。いわゆるジャングル。
+",[],“Bosque del Alba”意为“曙光之森”。这个名字果然是因为它位于东海岸。,,MATCH,143,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_NAME_ORIGIN_CAUSALITY_RESTORED
+BRIEFING_FILES_BLOCK_028D50,1,stream=0x28000;block=0xD50;text=1,"[""stream=0x28000;block=0xD50;text=1""]",1,BRIEFING FILES,"[""stream=0x28000;block=0xD50;block_file=0x28D50;text_base=0x28D84;capacity=468""]","“ボスケ・デル・アルバ”は、「曙光の森」という意味。
+やっぱり、東海岸にあることから来ているの。
+","典型的な熱帯雨林よ。いわゆるジャングル。
+","残念だが、朝日は拝めそうにないな。
+",[],典型的热带雨林，也就是所谓的丛林。,,MATCH,61,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_028D50,2,stream=0x28000;block=0xD50;text=2,"[""stream=0x28000;block=0xD50;text=2""]",1,BRIEFING FILES,"[""stream=0x28000;block=0xD50;block_file=0x28D50;text_base=0x28D84;capacity=468""]","典型的な熱帯雨林よ。いわゆるジャングル。
+","残念だが、朝日は拝めそうにないな。
+","そうね。生い茂った樹に遮られて、下まで直射日光が届か
+ないの。進みにくいかも知れないけど…。
+",[],可惜，看来是见不到朝阳了。,,MATCH,52,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_028D50,3,stream=0x28000;block=0xD50;text=3,"[""stream=0x28000;block=0xD50;text=3""]",1,BRIEFING FILES,"[""stream=0x28000;block=0xD50;block_file=0x28D50;text_base=0x28D84;capacity=468""]","残念だが、朝日は拝めそうにないな。
+","そうね。生い茂った樹に遮られて、下まで直射日光が届か
+ないの。進みにくいかも知れないけど…。
+","大丈夫だ。ジャングルなら、昔散々さまよった。
+",[],是啊。茂密的树木挡住阳光，直射光照不到下面。可能不太好走……,,MATCH,137,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_TRAVERSAL_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_028D50,4,stream=0x28000;block=0xD50;text=4,"[""stream=0x28000;block=0xD50;text=4""]",1,BRIEFING FILES,"[""stream=0x28000;block=0xD50;block_file=0x28D50;text_base=0x28D84;capacity=468""]","そうね。生い茂った樹に遮られて、下まで直射日光が届か
+ないの。進みにくいかも知れないけど…。
+","大丈夫だ。ジャングルなら、昔散々さまよった。
+",,[],没事。丛林的话，我以前可没少在里面转悠。,,MATCH,67,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_PAST_WANDERING_PRIMARY

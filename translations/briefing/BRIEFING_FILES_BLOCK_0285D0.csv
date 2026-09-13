@@ -1,0 +1,47 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0285D0,0,stream=0x28000;block=0x5D0;text=0,"[""stream=0x28000;block=0x5D0;text=0""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]",,"スネーク、一つお願いがあるの。
+","何だ。
+",[],Snake，有件事想拜托你。,,MATCH,46,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0285D0,1,stream=0x28000;block=0x5D0;text=1,"[""stream=0x28000;block=0x5D0;text=1""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","スネーク、一つお願いがあるの。
+","何だ。
+","私にも何か、マザーベースの仕事を手伝わせてほしい。み
+んなの役に立ちたい。
+",[],什么事。,,MATCH,10,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0285D0,2,stream=0x28000;block=0x5D0;text=2,"[""stream=0x28000;block=0x5D0;text=2""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","何だ。
+","私にも何か、マザーベースの仕事を手伝わせてほしい。み
+んなの役に立ちたい。
+","いいのか。あんなことがあった後だ。落ち着くまでは休ん
+だほうがいい。
+",[],我也想帮忙做些母基地的工作。我想帮上大家的忙。,,MATCH,110,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_MOTHER_BASE_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_0285D0,3,stream=0x28000;block=0x5D0;text=3,"[""stream=0x28000;block=0x5D0;text=3""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","私にも何か、マザーベースの仕事を手伝わせてほしい。み
+んなの役に立ちたい。
+","いいのか。あんなことがあった後だ。落ち着くまでは休ん
+だほうがいい。
+","ありがとう。でも私なりに、自分ができることをやりたい
+の。
+",[],可以吗？刚发生了那种事。你还是先休息，等心情平复下来再说吧。,,MATCH,101,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_0285D0,4,stream=0x28000;block=0x5D0;text=4,"[""stream=0x28000;block=0x5D0;text=4""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","いいのか。あんなことがあった後だ。落ち着くまでは休ん
+だほうがいい。
+","ありがとう。でも私なりに、自分ができることをやりたい
+の。
+","銃を持つのは無理かも知れないけど、料理なら得意よ。
+",[],谢谢。不过我想按自己的方式，做些力所能及的事。,,MATCH,86,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_GUN_CONTENT_MOVED_TO_NEXT_ROW_PER_JPN
+BRIEFING_FILES_BLOCK_0285D0,5,stream=0x28000;block=0x5D0;text=5,"[""stream=0x28000;block=0x5D0;text=5""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","ありがとう。でも私なりに、自分ができることをやりたい
+の。
+","銃を持つのは無理かも知れないけど、料理なら得意よ。
+","頼もしいじゃないか。
+",[],我可能没法拿枪，但做饭我很拿手。,,MATCH,76,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_GUN_AND_COOKING_STRUCTURE_RESTORED
+BRIEFING_FILES_BLOCK_0285D0,6,stream=0x28000;block=0x5D0;text=6,"[""stream=0x28000;block=0x5D0;text=6""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","銃を持つのは無理かも知れないけど、料理なら得意よ。
+","頼もしいじゃないか。
+","糧食班に配属してくれれば、頑張れると思う。慣れてきた
+ら、コスタリカ料理もレシピに加えたいな。
+",[],那可真让人放心。,,MATCH,31,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_REASSURING_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_0285D0,7,stream=0x28000;block=0x5D0;text=7,"[""stream=0x28000;block=0x5D0;text=7""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","頼もしいじゃないか。
+","糧食班に配属してくれれば、頑張れると思う。慣れてきた
+ら、コスタリカ料理もレシピに加えたいな。
+","よろしく頼む。
+",[],如果把我分到伙食班，我想我会努力的。等习惯以后，我还想把哥斯达黎加料理加进食谱里。,,MATCH,140,123,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SPLIT_REJOINED_PER_JPN
+BRIEFING_FILES_BLOCK_0285D0,8,stream=0x28000;block=0x5D0;text=8,"[""stream=0x28000;block=0x5D0;text=8""]",1,BRIEFING FILES,"[""stream=0x28000;block=0x5D0;block_file=0x285D0;text_base=0x28614;capacity=632""]","糧食班に配属してくれれば、頑張れると思う。慣れてきた
+ら、コスタリカ料理もレシピに加えたいな。
+","よろしく頼む。
+",,[],那就拜托你了。,,MATCH,22,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_REQUEST_PRIMARY

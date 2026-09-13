@@ -1,0 +1,85 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0084F0,0,stream=0x8000;block=0x4F0;text=0,"[""stream=0x8000;block=0x4F0;text=0""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]",,"ボス、ゲバラが書いた「ゲリラ戦争」は読んだか。
+","いや…どうだったかな。
+",[],Boss，你读过格瓦拉写的《游击战》吗？,,MATCH,70,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0084F0,1,stream=0x8000;block=0x4F0;text=1,"[""stream=0x8000;block=0x4F0;text=1""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","ボス、ゲバラが書いた「ゲリラ戦争」は読んだか。
+","いや…どうだったかな。
+","せっかく貸してやったのに。この本に書いてあるゲリラの
+戦術は、潜入ミッションと共通する部分があるんだ。
+",[],不……我也记不清了。,,MATCH,34,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0084F0,2,stream=0x8000;block=0x4F0;text=2,"[""stream=0x8000;block=0x4F0;text=2""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","いや…どうだったかな。
+","せっかく貸してやったのに。この本に書いてあるゲリラの
+戦術は、潜入ミッションと共通する部分があるんだ。
+","ゲバラは、ゲリラ戦法を理論化した一人だからな。
+",[],难得我还特意借给你。这本书里写的游击战术，和潜入任务有不少共通之处。,,MATCH,152,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_LENDING_CLAUSE
+BRIEFING_FILES_BLOCK_0084F0,3,stream=0x8000;block=0x4F0;text=3,"[""stream=0x8000;block=0x4F0;text=3""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","せっかく貸してやったのに。この本に書いてあるゲリラの
+戦術は、潜入ミッションと共通する部分があるんだ。
+","ゲバラは、ゲリラ戦法を理論化した一人だからな。
+","他には“アラビアのロレンス”ことT．E．ロレンス少佐。
+「遊撃戦」を著した毛沢東…。
+",[],格瓦拉也是把游击战法理论化的人之一。,,MATCH,70,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_ADDS_FIRST_IGNORED
+BRIEFING_FILES_BLOCK_0084F0,4,stream=0x8000;block=0x4F0;text=4,"[""stream=0x8000;block=0x4F0;text=4""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","ゲバラは、ゲリラ戦法を理論化した一人だからな。
+","他には“アラビアのロレンス”ことT．E．ロレンス少佐。
+「遊撃戦」を著した毛沢東…。
+","理論化はともかく、ニカラグアのサンディーノ将軍も、ゲ
+リラ戦法を取り入れた一人だ。
+",[],还有人称“阿拉伯的劳伦斯”的T．E．劳伦斯少校。以及写过《游击战》的毛泽东……,,MATCH,121,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_TITLE_CONFLICT_JPN_USED
+BRIEFING_FILES_BLOCK_0084F0,5,stream=0x8000;block=0x4F0;text=5,"[""stream=0x8000;block=0x4F0;text=5""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","他には“アラビアのロレンス”ことT．E．ロレンス少佐。
+「遊撃戦」を著した毛沢東…。
+","理論化はともかく、ニカラグアのサンディーノ将軍も、ゲ
+リラ戦法を取り入れた一人だ。
+","<R=FSLN,サンディニスタ>がその名に掲げるだけのことはある。
+",[],先不谈理论，尼加拉瓜的桑地诺将军也是采用游击战法的人之一。,,MATCH,122,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_CLIPPED
+BRIEFING_FILES_BLOCK_0084F0,6,stream=0x8000;block=0x4F0;text=6,"[""stream=0x8000;block=0x4F0;text=6""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","理論化はともかく、ニカラグアのサンディーノ将軍も、ゲ
+リラ戦法を取り入れた一人だ。
+","<R=FSLN,サンディニスタ>がその名に掲げるだけのことはある。
+","もっとも、遙か昔からゲリラ戦法自体は存在した。少人数
+で大軍を攪乱する手段は限られるからな。
+","[""<R=FSLN,サンディニスタ>""]","难怪<R=FSLN,サンディニスタ>会以他命名。","<R=FSLN,サンディニスタ>",MATCH,82,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
+BRIEFING_FILES_BLOCK_0084F0,7,stream=0x8000;block=0x4F0;text=7,"[""stream=0x8000;block=0x4F0;text=7""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","<R=FSLN,サンディニスタ>がその名に掲げるだけのことはある。
+","もっとも、遙か昔からゲリラ戦法自体は存在した。少人数
+で大軍を攪乱する手段は限られるからな。
+","日本にも、ゲリラ戦法に長けたサムライがいたぞ。
+",[],不过，游击战本身自古就存在。毕竟少数人要扰乱大军，能用的手段就那么几种。,,MATCH,137,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0084F0,8,stream=0x8000;block=0x4F0;text=8,"[""stream=0x8000;block=0x4F0;text=8""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","もっとも、遙か昔からゲリラ戦法自体は存在した。少人数
+で大軍を攪乱する手段は限られるからな。
+","日本にも、ゲリラ戦法に長けたサムライがいたぞ。
+","ほう。
+",[],日本也有过擅长游击战的武士。,,MATCH,70,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0084F0,9,stream=0x8000;block=0x4F0;text=9,"[""stream=0x8000;block=0x4F0;text=9""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","日本にも、ゲリラ戦法に長けたサムライがいたぞ。
+","ほう。
+","楠木正成。中世の武士だ。奇襲攻撃を駆使して、鎌倉幕府
+の転覆に一役買った。
+",[],哦？,,MATCH,10,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0084F0,10,stream=0x8000;block=0x4F0;text=10,"[""stream=0x8000;block=0x4F0;text=10""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","ほう。
+","楠木正成。中世の武士だ。奇襲攻撃を駆使して、鎌倉幕府
+の転覆に一役買った。
+","例えばどんな？
+",[],楠木正成。中世纪的武士。他善用奇袭，为推翻镰仓幕府出过一份力。,,MATCH,110,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_OMITS_KAMAKURA_CLAUSE
+BRIEFING_FILES_BLOCK_0084F0,11,stream=0x8000;block=0x4F0;text=11,"[""stream=0x8000;block=0x4F0;text=11""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","楠木正成。中世の武士だ。奇襲攻撃を駆使して、鎌倉幕府
+の転覆に一役買った。
+","例えばどんな？
+","トロイの木馬戦法での潜入、<R=藁人形,デコイ>での攪乱…。極めつき
+は城壁を登ってくる敵に、熱湯や糞尿を…。
+",[],比如？,,MATCH,22,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_0084F0,12,stream=0x8000;block=0x4F0;text=12,"[""stream=0x8000;block=0x4F0;text=12""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","例えばどんな？
+","トロイの木馬戦法での潜入、<R=藁人形,デコイ>での攪乱…。極めつき
+は城壁を登ってくる敵に、熱湯や糞尿を…。
+","そいつはいい。早速MSFでも取り入れよう。
+","[""<R=藁人形,デコイ>""]","用特洛伊木马战法潜入，用<R=稻草人,デコイ>扰乱敌人……最绝的是，对着攀爬城墙的敌人泼滚水和粪尿……","<R=稻草人,デコイ>",MATCH,154,143,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_REFERENCE_CLIPPED
+BRIEFING_FILES_BLOCK_0084F0,13,stream=0x8000;block=0x4F0;text=13,"[""stream=0x8000;block=0x4F0;text=13""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","トロイの木馬戦法での潜入、<R=藁人形,デコイ>での攪乱…。極めつき
+は城壁を登ってくる敵に、熱湯や糞尿を…。
+","そいつはいい。早速MSFでも取り入れよう。
+","…本気か？　ボス。
+",[],这个不错。马上让MSF也用起来吧。,,MATCH,58,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_ADDS_PLAYBOOK_IGNORED
+BRIEFING_FILES_BLOCK_0084F0,14,stream=0x8000;block=0x4F0;text=14,"[""stream=0x8000;block=0x4F0;text=14""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","そいつはいい。早速MSFでも取り入れよう。
+","…本気か？　ボス。
+","材料には事欠かないからな。
+",[],……你是认真的？　Boss。,,MATCH,28,34,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;SOURCE_IDEOGRAPHIC_SPACE_PRESERVED
+BRIEFING_FILES_BLOCK_0084F0,15,stream=0x8000;block=0x4F0;text=15,"[""stream=0x8000;block=0x4F0;text=15""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","…本気か？　ボス。
+","材料には事欠かないからな。
+","あー、まあしばらく考えておこう。
+",[],反正材料不愁。,,MATCH,40,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_EXPLICIT_CRAP_IGNORED
+BRIEFING_FILES_BLOCK_0084F0,16,stream=0x8000;block=0x4F0;text=16,"[""stream=0x8000;block=0x4F0;text=16""]",1,BRIEFING FILES,"[""stream=0x8000;block=0x4F0;block_file=0x84F0;text_base=0x8554;capacity=1348""]","材料には事欠かないからな。
+","あー、まあしばらく考えておこう。
+",,[],呃……这个嘛，先考虑考虑吧。,,MATCH,49,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION

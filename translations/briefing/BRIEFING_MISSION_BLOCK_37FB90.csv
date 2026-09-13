@@ -1,0 +1,170 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_37FB90,0,stream=0x37F000;block=0xB90;text=0,"[""stream=0x37F000;block=0xB90;text=0""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]",,"少し、相談したいことがあるんだが。
+…ボス？
+","どうした、改まって。
+",[],"有件事想和你商量一下……。
+……Boss？
+",,MATCH,65,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,1,stream=0x37F000;block=0xB90;text=1,"[""stream=0x37F000;block=0xB90;text=1""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","少し、相談したいことがあるんだが。
+…ボス？
+","どうした、改まって。
+","<R=ニカラグア湖,ラゴ・コシボルカ>から、ピースウォーカーに積まれていた
+核弾頭を引き上げた。
+",[],"怎么了，这么郑重其事的。
+",,MATCH,31,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,2,stream=0x37F000;block=0xB90;text=2,"[""stream=0x37F000;block=0xB90;text=2""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","どうした、改まって。
+","<R=ニカラグア湖,ラゴ・コシボルカ>から、ピースウォーカーに積まれていた
+核弾頭を引き上げた。
+","何だって？
+","[""<R=ニカラグア湖,ラゴ・コシボルカ>""]","我们从<R=尼加拉瓜湖,LAGO COCIBOLCA>里，打捞出了装在Peace Walker上的
+核弹头。
+","<R=尼加拉瓜湖,LAGO COCIBOLCA>",MATCH,133,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_37FB90,3,stream=0x37F000;block=0xB90;text=3,"[""stream=0x37F000;block=0xB90;text=3""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","<R=ニカラグア湖,ラゴ・コシボルカ>から、ピースウォーカーに積まれていた
+核弾頭を引き上げた。
+","何だって？
+","核弾頭は放射性物質の塊だ。
+比較的安定した状態にあるといってもな。
+",[],"你说什么？
+",,MATCH,16,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,4,stream=0x37F000;block=0xB90;text=4,"[""stream=0x37F000;block=0xB90;text=4""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","何だって？
+","核弾頭は放射性物質の塊だ。
+比較的安定した状態にあるといってもな。
+","いつまでも湖の底に放置しておけば、湖が汚染される。
+それに、テロリストの手に渡ったりしたら…。
+",[],"核弹头就是一大块放射性物质。
+就算它处于相对稳定的状态也是一样。
+",,MATCH,98,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,5,stream=0x37F000;block=0xB90;text=5,"[""stream=0x37F000;block=0xB90;text=5""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","核弾頭は放射性物質の塊だ。
+比較的安定した状態にあるといってもな。
+","いつまでも湖の底に放置しておけば、湖が汚染される。
+それに、テロリストの手に渡ったりしたら…。
+","新たな危機を生む…。
+",[],"要是一直把它扔在湖底，湖水会受到污染。
+而且，要是落到恐怖分子手里……。
+",,MATCH,140,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,6,stream=0x37F000;block=0xB90;text=6,"[""stream=0x37F000;block=0xB90;text=6""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","いつまでも湖の底に放置しておけば、湖が汚染される。
+それに、テロリストの手に渡ったりしたら…。
+","新たな危機を生む…。
+","ああ。
+だから、<R=米政府,ホワイトハウス>がどうケツ拭くか迷ってるうちに、
+俺の方で、手を打たせてもらった。
+",[],"会引发新的危机……。
+",,MATCH,31,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,7,stream=0x37F000;block=0xB90;text=7,"[""stream=0x37F000;block=0xB90;text=7""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","新たな危機を生む…。
+","ああ。
+だから、<R=米政府,ホワイトハウス>がどうケツ拭くか迷ってるうちに、
+俺の方で、手を打たせてもらった。
+","だが、回収した弾頭をどうするつもりだ？
+","[""<R=米政府,ホワイトハウス>""]","嗯。
+所以，趁<R=美国政府,WHITE HOUSE>还在为怎么收拾残局发愁，
+我先替他们采取行动了。
+","<R=美国政府,WHITE HOUSE>",MATCH,155,118,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_37FB90,8,stream=0x37F000;block=0xB90;text=8,"[""stream=0x37F000;block=0xB90;text=8""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","ああ。
+だから、<R=米政府,ホワイトハウス>がどうケツ拭くか迷ってるうちに、
+俺の方で、手を打たせてもらった。
+","だが、回収した弾頭をどうするつもりだ？
+","<R=ZEKE,ジーク>に搭載する。
+",[],"可是，你打算怎么处理回收的弹头？
+",,MATCH,58,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,9,stream=0x37F000;block=0xB90;text=9,"[""stream=0x37F000;block=0xB90;text=9""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","だが、回収した弾頭をどうするつもりだ？
+","<R=ZEKE,ジーク>に搭載する。
+","何だって…！
+","[""<R=ZEKE,ジーク>""]","装到<R=ZEKE,ZEKE>上。
+","<R=ZEKE,ZEKE>",MATCH,37,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_37FB90,10,stream=0x37F000;block=0xB90;text=10,"[""stream=0x37F000;block=0xB90;text=10""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","<R=ZEKE,ジーク>に搭載する。
+","何だって…！
+","当然だろう。
+<R=ZEKE,ジーク>は俺達が国家の干渉から逃れるための
+『抑止力』でなきゃならない。
+",[],"你说什么……！
+",,MATCH,19,22,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,11,stream=0x37F000;block=0xB90;text=11,"[""stream=0x37F000;block=0xB90;text=11""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","何だって…！
+","当然だろう。
+<R=ZEKE,ジーク>は俺達が国家の干渉から逃れるための
+『抑止力』でなきゃならない。
+","核による脅しに屈しないためには、
+俺達自身が、核を持つしかない。
+","[""<R=ZEKE,ジーク>""]","这不是理所当然的吗。
+<R=ZEKE,ZEKE>必须成为让我们摆脱国家干涉的
+“威慑力”。
+","<R=ZEKE,ZEKE>",MATCH,132,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_37FB90,12,stream=0x37F000;block=0xB90;text=12,"[""stream=0x37F000;block=0xB90;text=12""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","当然だろう。
+<R=ZEKE,ジーク>は俺達が国家の干渉から逃れるための
+『抑止力』でなきゃならない。
+","核による脅しに屈しないためには、
+俺達自身が、核を持つしかない。
+","もちろん、あんたが望まないなら、廃棄もできる。
+だがそうなったら、新たな核を手に入れるのは困難だ。
+これは俺達にとって、貴重なチャンスなんだ。
+",[],"要想不向核威胁屈服，
+我们自己就只能拥有核武器。
+",,MATCH,95,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,13,stream=0x37F000;block=0xB90;text=13,"[""stream=0x37F000;block=0xB90;text=13""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","核による脅しに屈しないためには、
+俺達自身が、核を持つしかない。
+","もちろん、あんたが望まないなら、廃棄もできる。
+だがそうなったら、新たな核を手に入れるのは困難だ。
+これは俺達にとって、貴重なチャンスなんだ。
+","…廃棄はいつだってできる。荒っぽくてもいいなら、
+漁船に乗せて、外海にでも放ってくればいいんだ。
+誰も気づきゃしない。
+",[],"当然，如果你不愿意，也可以把它销毁。
+但那样的话，再弄到新的核武器可就很难了。
+这对我们来说是个难得的机会。
+",,MATCH,210,159,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,14,stream=0x37F000;block=0xB90;text=14,"[""stream=0x37F000;block=0xB90;text=14""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","もちろん、あんたが望まないなら、廃棄もできる。
+だがそうなったら、新たな核を手に入れるのは困難だ。
+これは俺達にとって、貴重なチャンスなんだ。
+","…廃棄はいつだってできる。荒っぽくてもいいなら、
+漁船に乗せて、外海にでも放ってくればいいんだ。
+誰も気づきゃしない。
+","だが、それでも廃棄するというならボス、
+あんたの命令に従うよ。
+",[],"……要销毁，什么时候都可以。要是不在乎手段粗暴，
+装上渔船，扔到外海就行。
+谁也不会发现。
+",,MATCH,174,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,15,stream=0x37F000;block=0xB90;text=15,"[""stream=0x37F000;block=0xB90;text=15""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","…廃棄はいつだってできる。荒っぽくてもいいなら、
+漁船に乗せて、外海にでも放ってくればいいんだ。
+誰も気づきゃしない。
+","だが、それでも廃棄するというならボス、
+あんたの命令に従うよ。
+","いや、いい。
+核という力が世界に存在している限り、
+俺達が国家と対等であるために、こいつは必要だ。
+",[],"不过，如果你还是决定销毁它，Boss，
+我会服从你的命令。
+",,MATCH,92,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,16,stream=0x37F000;block=0xB90;text=16,"[""stream=0x37F000;block=0xB90;text=16""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","だが、それでも廃棄するというならボス、
+あんたの命令に従うよ。
+","いや、いい。
+核という力が世界に存在している限り、
+俺達が国家と対等であるために、こいつは必要だ。
+","そうさボス！　俺達は国家に属さないからこそ、
+国家と対等な存在でなくてはならないんだ。
+",[],"不，算了。
+只要核这种力量还存在于世界上，
+我们要与国家平起平坐，就需要它。
+",,MATCH,144,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,17,stream=0x37F000;block=0xB90;text=17,"[""stream=0x37F000;block=0xB90;text=17""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","いや、いい。
+核という力が世界に存在している限り、
+俺達が国家と対等であるために、こいつは必要だ。
+","そうさボス！　俺達は国家に属さないからこそ、
+国家と対等な存在でなくてはならないんだ。
+","つまり、MSFもある意味では“国”だ。
+そして俺達は、世界で第7の核保有国になった。
+",[],"没错，Boss！正因为我们不属于任何国家，
+才必须成为能与国家平起平坐的存在。
+",,MATCH,128,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,18,stream=0x37F000;block=0xB90;text=18,"[""stream=0x37F000;block=0xB90;text=18""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","そうさボス！　俺達は国家に属さないからこそ、
+国家と対等な存在でなくてはならないんだ。
+","つまり、MSFもある意味では“国”だ。
+そして俺達は、世界で第7の核保有国になった。
+","核保有国か…。
+",[],"也就是说，MSF在某种意义上也是一个“国家”。
+而我们已经成为世界上第7个拥核国家。
+",,MATCH,117,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37FB90,19,stream=0x37F000;block=0xB90;text=19,"[""stream=0x37F000;block=0xB90;text=19""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0xB90;block_file=0x37FB90;text_base=0x37FC00;capacity=1920""]","つまり、MSFもある意味では“国”だ。
+そして俺達は、世界で第7の核保有国になった。
+","核保有国か…。
+",,[],"拥核国家吗……。
+",,MATCH,22,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

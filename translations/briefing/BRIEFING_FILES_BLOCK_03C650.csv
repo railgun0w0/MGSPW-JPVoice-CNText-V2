@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_03C650,0,stream=0x3C000;block=0x650;text=0,"[""stream=0x3C000;block=0x650;text=0""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]",,"このあたりの道は、緑に埋もれてる。自然に同化して潜ま
+れてしまったら、見つけるのは困難よ。
+","ギリースーツか…。
+",[],这一带的道路都被绿色植被淹没了。要是有人融入自然潜伏起来，就很难发现。能藏身的地方很多，但敌人也一样。,,MATCH,134,153,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03C650,1,stream=0x3C000;block=0x650;text=1,"[""stream=0x3C000;block=0x650;text=1""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","このあたりの道は、緑に埋もれてる。自然に同化して潜ま
+れてしまったら、見つけるのは困難よ。
+","ギリースーツか…。
+","ともかく敵に見つからないように、慎重に進んで。目立つ
+服も着ていかないほうがいい。
+",[],吉利服吗……。,,MATCH,28,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03C650,2,stream=0x3C000;block=0x650;text=2,"[""stream=0x3C000;block=0x650;text=2""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","ギリースーツか…。
+","ともかく敵に見つからないように、慎重に進んで。目立つ
+服も着ていかないほうがいい。
+","遺跡は入り組んでいるから、迷わないようにね。
+",[],总之，小心前进，别被敌人发现。最好也别穿太显眼的衣服。,,MATCH,122,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03C650,3,stream=0x3C000;block=0x650;text=3,"[""stream=0x3C000;block=0x650;text=3""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","ともかく敵に見つからないように、慎重に進んで。目立つ
+服も着ていかないほうがいい。
+","遺跡は入り組んでいるから、迷わないようにね。
+","逆に壁に使えば、敵の目から逃れられそうだ。
+",[],遗迹内部错综复杂，别迷路了。,,MATCH,67,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03C650,4,stream=0x3C000;block=0x650;text=4,"[""stream=0x3C000;block=0x650;text=4""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","遺跡は入り組んでいるから、迷わないようにね。
+","逆に壁に使えば、敵の目から逃れられそうだ。
+","<R=狙撃兵,スナイパー>は一度見つかると、別の場所へ移動してしまう。あ
+まり一所にこだわらないで。
+",[],反过来，也能利用那些墙壁躲开敌人的视线。,,MATCH,64,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03C650,5,stream=0x3C000;block=0x650;text=5,"[""stream=0x3C000;block=0x650;text=5""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","逆に壁に使えば、敵の目から逃れられそうだ。
+","<R=狙撃兵,スナイパー>は一度見つかると、別の場所へ移動してしまう。あ
+まり一所にこだわらないで。
+","わかってる。ソ連でさんざん思い知らされた。
+","[""<R=狙撃兵,スナイパー>""]","<R=狙击兵,SNIPER>一旦被发现，就会转移到别的位置。别太执着于一个地方。","<R=狙击兵,SNIPER>",MATCH,139,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_03C650,6,stream=0x3C000;block=0x650;text=6,"[""stream=0x3C000;block=0x650;text=6""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","<R=狙撃兵,スナイパー>は一度見つかると、別の場所へ移動してしまう。あ
+まり一所にこだわらないで。
+","わかってる。ソ連でさんざん思い知らされた。
+","それと、<R=狙撃兵,スナイパー>だからって、接近戦に持ち込めば有利って
+わけでもない。姿を隠して背後から襲われたら…。
+",[],我知道。在苏联已经吃够苦头了。,,MATCH,64,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03C650,7,stream=0x3C000;block=0x650;text=7,"[""stream=0x3C000;block=0x650;text=7""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","わかってる。ソ連でさんざん思い知らされた。
+","それと、<R=狙撃兵,スナイパー>だからって、接近戦に持ち込めば有利って
+わけでもない。姿を隠して背後から襲われたら…。
+","気をつけよう。スニーキングで負けるわけにはいかない。
+","[""<R=狙撃兵,スナイパー>""]","还有，对手就算是<R=狙击兵,SNIPER>，把他拖进近身战也不代表你就有优势。要是他藏起身形，从背后袭击……。","<R=狙击兵,SNIPER>",MATCH,169,146,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_03C650,8,stream=0x3C000;block=0x650;text=8,"[""stream=0x3C000;block=0x650;text=8""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","それと、<R=狙撃兵,スナイパー>だからって、接近戦に持ち込めば有利って
+わけでもない。姿を隠して背後から襲われたら…。
+","気をつけよう。スニーキングで負けるわけにはいかない。
+",,[],我会小心。潜行方面可不能输给他们。,,MATCH,79,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

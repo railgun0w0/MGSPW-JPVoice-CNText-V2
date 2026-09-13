@@ -1,0 +1,33 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02CFF0,0,stream=0x2C000;block=0xFF0;text=0,"[""stream=0x2C000;block=0xFF0;text=0""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]",,"このあたりの森は、熱帯雲霧林よ。常に白く霧がかかって
+いて、とても神秘的なの。
+","それで『<R=乳の森,セルバ・デ・ラ・レチェ>』か…視界は悪そうだ。
+",[],这一带是热带云雾林。终年笼罩着白雾，非常神秘。,,MATCH,116,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02CFF0,1,stream=0x2C000;block=0xFF0;text=1,"[""stream=0x2C000;block=0xFF0;text=1""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","このあたりの森は、熱帯雲霧林よ。常に白く霧がかかって
+いて、とても神秘的なの。
+","それで『<R=乳の森,セルバ・デ・ラ・レチェ>』か…視界は悪そうだ。
+","またそれ？　森全体が雲の中にあるようなものだから、確
+かに視界はよくないけど…。
+","[""<R=乳の森,セルバ・デ・ラ・レチェ>""]","所以才叫『<R=乳之森,Selva de la Leche>』吗……看来视野会很差。","<R=乳之森,Selva de la Leche>",MATCH,93,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING
+BRIEFING_FILES_BLOCK_02CFF0,2,stream=0x2C000;block=0xFF0;text=2,"[""stream=0x2C000;block=0xFF0;text=2""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","それで『<R=乳の森,セルバ・デ・ラ・レチェ>』か…視界は悪そうだ。
+","またそれ？　森全体が雲の中にあるようなものだから、確
+かに視界はよくないけど…。
+","でも、雲霧林でしか見られない、珍しい生き物がいっぱい
+いるのよ。
+",[],又是这个？整片森林就像在云里一样，视野确实不好，不过……,,MATCH,119,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_VISIBILITY_CLAUSE_RESTORED
+BRIEFING_FILES_BLOCK_02CFF0,3,stream=0x2C000;block=0xFF0;text=3,"[""stream=0x2C000;block=0xFF0;text=3""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","またそれ？　森全体が雲の中にあるようなものだから、確
+かに視界はよくないけど…。
+","でも、雲霧林でしか見られない、珍しい生き物がいっぱい
+いるのよ。
+","まぁ、食えるもの以外は興味がない。
+",[],但这里有很多只有在云雾林里才能见到的珍稀生物。,,MATCH,95,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_SEE_ONLY_HERE_NOT_ONLY_LIVE_HERE
+BRIEFING_FILES_BLOCK_02CFF0,4,stream=0x2C000;block=0xFF0;text=4,"[""stream=0x2C000;block=0xFF0;text=4""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","でも、雲霧林でしか見られない、珍しい生き物がいっぱい
+いるのよ。
+","まぁ、食えるもの以外は興味がない。
+","もう！　わざわざ外国から、動物観察に来る人もいるって
+言うのに…。
+",[],不过，能吃的以外我都没兴趣。,,MATCH,52,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02CFF0,5,stream=0x2C000;block=0xFF0;text=5,"[""stream=0x2C000;block=0xFF0;text=5""]",1,BRIEFING FILES,"[""stream=0x2C000;block=0xFF0;block_file=0x2CFF0;text_base=0x2D028;capacity=580""]","まぁ、食えるもの以外は興味がない。
+","もう！　わざわざ外国から、動物観察に来る人もいるって
+言うのに…。
+",,[],真是的！明明还有人特地从国外跑来观察动物……,,MATCH,98,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_UNIQUE_FAUNA_ADDITION_REMOVED_PER_JPN

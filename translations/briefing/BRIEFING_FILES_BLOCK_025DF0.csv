@@ -1,0 +1,31 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_025DF0,0,stream=0x25000;block=0xDF0;text=0,"[""stream=0x25000;block=0xDF0;text=0""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xDF0;block_file=0x25DF0;text_base=0x25E28;capacity=552""]",,"カリブ海沿いの低地は、たいてい高温多湿の熱帯雨林。多
+くの人が想像する“ジャングル”のこと。
+","密生した木が日光を求めて、高いところで枝葉を繁らすの。
+地面の近くは薄暗いから、気をつけて。
+",[],加勒比海沿岸的低地大多是高温多湿的热带雨林，也就是大多数人想象中的“丛林”。,,MATCH,137,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_025DF0,1,stream=0x25000;block=0xDF0;text=1,"[""stream=0x25000;block=0xDF0;text=1""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xDF0;block_file=0x25DF0;text_base=0x25E28;capacity=552""]","カリブ海沿いの低地は、たいてい高温多湿の熱帯雨林。多
+くの人が想像する“ジャングル”のこと。
+","密生した木が日光を求めて、高いところで枝葉を繁らすの。
+地面の近くは薄暗いから、気をつけて。
+","もっとも日光が届かない分、あまり地表に植物が生えない
+から、歩きやすいかも知れない。
+",[],树木为了争夺阳光密集生长，在高处枝繁叶茂。地面附近很昏暗，要小心。,,MATCH,137,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_025DF0,2,stream=0x25000;block=0xDF0;text=2,"[""stream=0x25000;block=0xDF0;text=2""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xDF0;block_file=0x25DF0;text_base=0x25E28;capacity=552""]","密生した木が日光を求めて、高いところで枝葉を繁らすの。
+地面の近くは薄暗いから、気をつけて。
+","もっとも日光が届かない分、あまり地表に植物が生えない
+から、歩きやすいかも知れない。
+","光合成できても、役に立たないってわけだ。
+",[],不过，因为阳光照不到，地表反而很少长植物，也许会更好走一些。,,MATCH,125,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_WALKABILITY_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_025DF0,3,stream=0x25000;block=0xDF0;text=3,"[""stream=0x25000;block=0xDF0;text=3""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xDF0;block_file=0x25DF0;text_base=0x25E28;capacity=552""]","もっとも日光が届かない分、あまり地表に植物が生えない
+から、歩きやすいかも知れない。
+","光合成できても、役に立たないってわけだ。
+","光合成？　人間は光合成しないでしょ。
+",[],也就是说，就算能进行光合作用，也派不上用场。,,MATCH,61,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_025DF0,4,stream=0x25000;block=0xDF0;text=4,"[""stream=0x25000;block=0xDF0;text=4""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xDF0;block_file=0x25DF0;text_base=0x25E28;capacity=552""]","光合成できても、役に立たないってわけだ。
+","光合成？　人間は光合成しないでしょ。
+","普通の人間はな…。
+",[],光合作用？人类又不会光合作用。,,MATCH,55,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_025DF0,5,stream=0x25000;block=0xDF0;text=5,"[""stream=0x25000;block=0xDF0;text=5""]",1,BRIEFING FILES,"[""stream=0x25000;block=0xDF0;block_file=0x25DF0;text_base=0x25E28;capacity=552""]","光合成？　人間は光合成しないでしょ。
+","普通の人間はな…。
+",,[],普通人是不会……,,MATCH,28,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_ELLIPTICAL_TONE_PRIMARY

@@ -1,0 +1,8 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_382900,0,stream=0x382000;block=0x900;text=0,"[""stream=0x382000;block=0x900;text=0""]",1,BRIEFING MISSION,"[""stream=0x382000;block=0x900;block_file=0x382900;text_base=0x382924;capacity=156""]",,"スネーク。武器やアイテムの開発を進めるには、
+人手が不足している。
+『フルトン回収』で人員を集めてくれ。
+",,[],"Snake。要推进武器和道具的开发，
+我们人手不足。
+用“Fulton回收”多弄些人手吧。
+",,MATCH,153,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

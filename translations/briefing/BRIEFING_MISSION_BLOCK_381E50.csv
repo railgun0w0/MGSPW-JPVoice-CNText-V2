@@ -1,0 +1,57 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_381E50,0,stream=0x381000;block=0xE50;text=0,"[""stream=0x381000;block=0xE50;text=0""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]",,"ボス…。俺は思うんだが、フルトンで兵士を集めて
+回るのも、強引すぎやしないか？
+","今さら何を言い出すんだ。
+",[],"Boss……我在想，靠Fulton到处招兵，
+会不会也太强硬了？
+",,MATCH,116,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_381E50,1,stream=0x381000;block=0xE50;text=1,"[""stream=0x381000;block=0xE50;text=1""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","ボス…。俺は思うんだが、フルトンで兵士を集めて
+回るのも、強引すぎやしないか？
+","今さら何を言い出すんだ。
+","それよりも志願兵を募る方が現実的だ。
+俺達は会社組織じゃないが、規模的には、
+もう大企業と言っていい。
+",[],"事到如今你还说什么。
+",,MATCH,37,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_381E50,2,stream=0x381000;block=0xE50;text=2,"[""stream=0x381000;block=0xE50;text=2""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","今さら何を言い出すんだ。
+","それよりも志願兵を募る方が現実的だ。
+俺達は会社組織じゃないが、規模的には、
+もう大企業と言っていい。
+","いつまでもゲリラ的な方法で兵士を集め続けるわけに
+もいかないだろう。
+",[],"比起这样，招募志愿兵更现实。
+我们虽不是公司组织，但从规模来看，
+已经可以算是大企业了。
+",,MATCH,150,129,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_381E50,3,stream=0x381000;block=0xE50;text=3,"[""stream=0x381000;block=0xE50;text=3""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","それよりも志願兵を募る方が現実的だ。
+俺達は会社組織じゃないが、規模的には、
+もう大企業と言っていい。
+","いつまでもゲリラ的な方法で兵士を集め続けるわけに
+もいかないだろう。
+","志願兵を募るには、メニューから
+<R=『RECRUIT』,リクルート>を選んでみてくれ。
+",[],"总不能永远用游击式的方法
+继续招募士兵吧。
+",,MATCH,101,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_381E50,4,stream=0x381000;block=0xE50;text=4,"[""stream=0x381000;block=0xE50;text=4""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","いつまでもゲリラ的な方法で兵士を集め続けるわけに
+もいかないだろう。
+","志願兵を募るには、メニューから
+<R=『RECRUIT』,リクルート>を選んでみてくれ。
+","それから、<R=『TRADE』,トレード>を選べば、
+他の傭兵部隊などと、兵士を交換することもできる。
+","[""<R=『RECRUIT』,リクルート>""]","要招募志愿兵，就从菜单里
+选择<R=『RECRUIT』,RECRUIT>。
+","<R=『RECRUIT』,RECRUIT>",MATCH,107,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_381E50,5,stream=0x381000;block=0xE50;text=5,"[""stream=0x381000;block=0xE50;text=5""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","志願兵を募るには、メニューから
+<R=『RECRUIT』,リクルート>を選んでみてくれ。
+","それから、<R=『TRADE』,トレード>を選べば、
+他の傭兵部隊などと、兵士を交換することもできる。
+","そんな<R=“潜友”,トモダチ>がいれば、だな。
+","[""<R=『TRADE』,トレード>""]","另外，选择<R=『TRADE』,TRADE>的话，
+还可以和其他雇佣兵部队交换士兵。
+","<R=『TRADE』,TRADE>",MATCH,132,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_381E50,6,stream=0x381000;block=0xE50;text=6,"[""stream=0x381000;block=0xE50;text=6""]",1,BRIEFING MISSION,"[""stream=0x381000;block=0xE50;block_file=0x381E50;text_base=0x381E8C;capacity=716""]","それから、<R=『TRADE』,トレード>を選べば、
+他の傭兵部隊などと、兵士を交換することもできる。
+","そんな<R=“潜友”,トモダチ>がいれば、だな。
+",,"[""<R=“潜友”,トモダチ>""]","前提是你有那样的<R=“潜友”,FRIEND>啊。
+","<R=“潜友”,FRIEND>",MATCH,63,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED

@@ -1,0 +1,15 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_029A10,0,stream=0x29000;block=0xA10;text=0,"[""stream=0x29000;block=0xA10;text=0""]",1,BRIEFING FILES,"[""stream=0x29000;block=0xA10;block_file=0x29A10;text_base=0x29A3C;capacity=344""]",,"川が氾濫すると、岸が削れて沼地ができるの。このあたり
+ではよく見かける地形よ。
+","沼地か。下が<R=　 泥　 ,エル・セナガル>じゃ、足音に気をつけないとな。
+",[],河流泛滥时会侵蚀河岸，形成沼地。这一带经常能见到这种地形。,,MATCH,116,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_EROSION_NOT_COLLAPSE_PRIMARY
+BRIEFING_FILES_BLOCK_029A10,1,stream=0x29000;block=0xA10;text=1,"[""stream=0x29000;block=0xA10;text=1""]",1,BRIEFING FILES,"[""stream=0x29000;block=0xA10;block_file=0x29A10;text_base=0x29A3C;capacity=344""]","川が氾濫すると、岸が削れて沼地ができるの。このあたり
+ではよく見かける地形よ。
+","沼地か。下が<R=　 泥　 ,エル・セナガル>じゃ、足音に気をつけないとな。
+","川を挟んだ反対側にも、同じような沼地があるわ。吊り橋
+を渡れば、向こう岸へ行ける。
+","[""<R=　 泥　 ,エル・セナガル>""]","沼地吗。脚下是<R=　 泥　 ,El Cenegal>，得注意脚步声了。","<R=　 泥　 ,El Cenegal>",MATCH,101,74,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LATIN_READING;FULLWIDTH_SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_029A10,2,stream=0x29000;block=0xA10;text=2,"[""stream=0x29000;block=0xA10;text=2""]",1,BRIEFING FILES,"[""stream=0x29000;block=0xA10;block_file=0x29A10;text_base=0x29A3C;capacity=344""]","沼地か。下が<R=　 泥　 ,エル・セナガル>じゃ、足音に気をつけないとな。
+","川を挟んだ反対側にも、同じような沼地があるわ。吊り橋
+を渡れば、向こう岸へ行ける。
+",,[],河对岸也有同样的沼地。过了吊桥就能到对岸。,,MATCH,122,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FIRST_SENTENCE_RESTORED

@@ -1,0 +1,45 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01D7E0,0,stream=0x1D000;block=0x7E0;text=0,"[""stream=0x1D000;block=0x7E0;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]",,"これは<R= 狙撃 ,スナイピング>ミッションだ。スナイパーライフルを忘れず
+に持っていってくれよ。
+","スナイパーライフルを構えることでスコープをのぞき込め
+る。
+","[""<R= 狙撃 ,スナイピング>""]","这是<R= 狙击 ,sniping>任务。别忘了带上狙击步枪。","<R= 狙击 ,sniping>",MATCH,135,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_01D7E0,1,stream=0x1D000;block=0x7E0;text=1,"[""stream=0x1D000;block=0x7E0;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","これは<R= 狙撃 ,スナイピング>ミッションだ。スナイパーライフルを忘れず
+に持っていってくれよ。
+","スナイパーライフルを構えることでスコープをのぞき込め
+る。
+","スコープの倍率は<I=ZOOMIN>、<I=ZOOMOUT>で変更可能だ。
+",[],举起狙击步枪后，就能通过瞄准镜观察。,,MATCH,86,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01D7E0,2,stream=0x1D000;block=0x7E0;text=2,"[""stream=0x1D000;block=0x7E0;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","スナイパーライフルを構えることでスコープをのぞき込め
+る。
+","スコープの倍率は<I=ZOOMIN>、<I=ZOOMOUT>で変更可能だ。
+","ただし、スコープを使えば視界は狭くなる。
+","[""<I=ZOOMIN>"", ""<I=ZOOMOUT>""]",瞄准镜倍率可以用<I=ZOOMIN>、<I=ZOOMOUT>调整。,<I=ZOOMIN> | <I=ZOOMOUT>,MATCH,70,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=CONTROL_TOKENS_PRESERVED
+BRIEFING_FILES_BLOCK_01D7E0,3,stream=0x1D000;block=0x7E0;text=3,"[""stream=0x1D000;block=0x7E0;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","スコープの倍率は<I=ZOOMIN>、<I=ZOOMOUT>で変更可能だ。
+","ただし、スコープを使えば視界は狭くなる。
+","あらかじめある程度方向を合わせてから構えるといいだろ
+う。
+",[],不过，使用瞄准镜会让视野变窄。,,MATCH,61,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01D7E0,4,stream=0x1D000;block=0x7E0;text=4,"[""stream=0x1D000;block=0x7E0;text=4""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","ただし、スコープを使えば視界は狭くなる。
+","あらかじめある程度方向を合わせてから構えるといいだろ
+う。
+","遠距離を狙うときは、わずかな手ぶれでも大きく照準がず
+れる。
+",[],最好先大致对准方向，再举枪瞄准。,,MATCH,86,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01D7E0,5,stream=0x1D000;block=0x7E0;text=5,"[""stream=0x1D000;block=0x7E0;text=5""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","あらかじめある程度方向を合わせてから構えるといいだろ
+う。
+","遠距離を狙うときは、わずかな手ぶれでも大きく照準がず
+れる。
+","ただ、しばらくじっとして気持ちを落ち着ければ、自然と
+手ぶれは少なくなるはずだ。
+",[],瞄准远距离目标时，哪怕轻微的手抖也会让准星大幅偏移。,,MATCH,89,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01D7E0,6,stream=0x1D000;block=0x7E0;text=6,"[""stream=0x1D000;block=0x7E0;text=6""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","遠距離を狙うときは、わずかな手ぶれでも大きく照準がず
+れる。
+","ただ、しばらくじっとして気持ちを落ち着ければ、自然と
+手ぶれは少なくなるはずだ。
+","あとは姿勢を低くするのも有効だ。覚えておいてくれ。
+",[],不过，只要暂时保持不动、让自己冷静下来，手抖自然就会减轻。,,MATCH,119,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_01D7E0,7,stream=0x1D000;block=0x7E0;text=7,"[""stream=0x1D000;block=0x7E0;text=7""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x7E0;block_file=0x1D7E0;text_base=0x1D820;capacity=732""]","ただ、しばらくじっとして気持ちを落ち着ければ、自然と
+手ぶれは少なくなるはずだ。
+","あとは姿勢を低くするのも有効だ。覚えておいてくれ。
+",,[],另外，降低姿势也很有效。记住这点。,,MATCH,76,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FINAL_REMINDER_RESTORED

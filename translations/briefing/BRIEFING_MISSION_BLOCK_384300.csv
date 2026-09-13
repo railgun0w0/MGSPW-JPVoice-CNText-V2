@@ -1,0 +1,14 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_384300,0,stream=0x384000;block=0x300;text=0,"[""stream=0x384000;block=0x300;text=0""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x300;block_file=0x384300;text_base=0x38432C;capacity=100""]",,"ちょっと、頼みがある。
+","その…。
+",[],"有件事想拜托你。
+",,MATCH,34,25,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_384300,1,stream=0x384000;block=0x300;text=1,"[""stream=0x384000;block=0x300;text=1""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x300;block_file=0x384300;text_base=0x38432C;capacity=100""]","ちょっと、頼みがある。
+","その…。
+","これより、ミッションを開始する！
+",[],"那个……。
+",,MATCH,13,16,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_384300,2,stream=0x384000;block=0x300;text=2,"[""stream=0x384000;block=0x300;text=2""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x300;block_file=0x384300;text_base=0x38432C;capacity=100""]","その…。
+","これより、ミッションを開始する！
+",,[],"现在开始执行任务！
+",,MATCH,49,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

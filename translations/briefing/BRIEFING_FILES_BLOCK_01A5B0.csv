@@ -1,0 +1,43 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01A5B0,0,stream=0x1A000;block=0x5B0;text=0,"[""stream=0x1A000;block=0x5B0;text=0""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]",,"地図を見る限り、<R=FSLN,サンディニスタ>司令官が捕らえられている小屋ま
+での地形はバリエーションに富んでるな。
+","そのようだ。まずはジャングルか。
+","[""<R=FSLN,サンディニスタ>""]","从地图来看，到关押<R=FSLN,桑地诺民族解放阵线>司令官的小屋为止，沿途地形相当多变。","<R=FSLN,桑地诺民族解放阵线>",MATCH,158,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_01A5B0,1,stream=0x1A000;block=0x5B0;text=1,"[""stream=0x1A000;block=0x5B0;text=1""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","地図を見る限り、<R=FSLN,サンディニスタ>司令官が捕らえられている小屋ま
+での地形はバリエーションに富んでるな。
+","そのようだ。まずはジャングルか。
+","敵の目を盗んで進むにはいいだろうが、その分こちらも敵
+を発見しにくい。注意してくれ。
+",[],看来是这样。首先是丛林。,,MATCH,49,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01A5B0,2,stream=0x1A000;block=0x5B0;text=2,"[""stream=0x1A000;block=0x5B0;text=2""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","そのようだ。まずはジャングルか。
+","敵の目を盗んで進むにはいいだろうが、その分こちらも敵
+を発見しにくい。注意してくれ。
+","次は川沿いの沼地。どの程度監視態勢に厚みを持たせてい
+るか、よく見極めて進んでくれ。
+",[],这里适合避开敌人的视线前进，但相应地我们也更难发现敌人。小心点。,,MATCH,125,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A5B0,3,stream=0x1A000;block=0x5B0;text=3,"[""stream=0x1A000;block=0x5B0;text=3""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","敵の目を盗んで進むにはいいだろうが、その分こちらも敵
+を発見しにくい。注意してくれ。
+","次は川沿いの沼地。どの程度監視態勢に厚みを持たせてい
+るか、よく見極めて進んでくれ。
+","そうしよう。
+",[],接下来是沿河的沼泽地。先仔细判断敌人的监视部署有多严密，再继续前进。,,MATCH,125,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A5B0,4,stream=0x1A000;block=0x5B0;text=4,"[""stream=0x1A000;block=0x5B0;text=4""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","次は川沿いの沼地。どの程度監視態勢に厚みを持たせてい
+るか、よく見極めて進んでくれ。
+","そうしよう。
+","最後がボートの修理小屋。ここに司令官がいる。敵の重要
+拠点だ、警備は厳重だろう。腕力にモノを言わせる必要が
+あるかも知れん。
+",[],就这么办。,,MATCH,19,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A5B0,5,stream=0x1A000;block=0x5B0;text=5,"[""stream=0x1A000;block=0x5B0;text=5""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","そうしよう。
+","最後がボートの修理小屋。ここに司令官がいる。敵の重要
+拠点だ、警備は厳重だろう。腕力にモノを言わせる必要が
+あるかも知れん。
+","まだ先は長い、くれぐれも慎重に進んでくれ。あまり派手
+な音を立てるなよ。
+",[],最后是修船小屋。司令官就在这里。这里是敌人的重要据点，警备应该很严，也许得靠武力硬闯。,,MATCH,183,129,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_01A5B0,6,stream=0x1A000;block=0x5B0;text=6,"[""stream=0x1A000;block=0x5B0;text=6""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x5B0;block_file=0x1A5B0;text_base=0x1A5EC;capacity=776""]","最後がボートの修理小屋。ここに司令官がいる。敵の重要
+拠点だ、警備は厳重だろう。腕力にモノを言わせる必要が
+あるかも知れん。
+","まだ先は長い、くれぐれも慎重に進んでくれ。あまり派手
+な音を立てるなよ。
+",,[],前面还有很长的路，一定要谨慎前进。别弄出太大的动静。,,MATCH,107,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EXPANSION_IGNORED

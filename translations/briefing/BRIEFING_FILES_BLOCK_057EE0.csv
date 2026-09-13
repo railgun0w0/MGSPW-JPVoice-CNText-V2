@@ -1,0 +1,89 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_057EE0,0,stream=0x57000;block=0xEE0;text=0,"[""stream=0x57000;block=0xEE0;text=0""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]",,"メタルギア<R=ZEKE,ジーク>の音声合成システムについて説明してお
+きたい。
+","音声合成システム？
+","[""<R=ZEKE,ジーク>""]","我先说明一下Metal Gear <R=ZEKE,ZEKE>的语音合成系统。","<R=ZEKE,ZEKE>",MATCH,101,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_057EE0,1,stream=0x57000;block=0xEE0;text=1,"[""stream=0x57000;block=0xEE0;text=1""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","メタルギア<R=ZEKE,ジーク>の音声合成システムについて説明してお
+きたい。
+","音声合成システム？
+","通常の兵器なら操縦者が話をすればいいが、自律行動する
+AI兵器には操縦者がいない。
+",[],语音合成系统？,,MATCH,28,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,2,stream=0x57000;block=0xEE0;text=2,"[""stream=0x57000;block=0xEE0;text=2""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","音声合成システム？
+","通常の兵器なら操縦者が話をすればいいが、自律行動する
+AI兵器には操縦者がいない。
+","AI兵器自身が状況を周囲に伝えないと、周囲の歩兵と連携
+した行動ができない。
+",[],普通兵器由驾驶员开口说话就行，但自主行动的AI兵器没有驾驶员。,,MATCH,118,89,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,3,stream=0x57000;block=0xEE0;text=3,"[""stream=0x57000;block=0xEE0;text=3""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","通常の兵器なら操縦者が話をすればいいが、自律行動する
+AI兵器には操縦者がいない。
+","AI兵器自身が状況を周囲に伝えないと、周囲の歩兵と連携
+した行動ができない。
+","確かに。戦場でも言葉でのコミュニケーションは重要だ。
+",[],如果AI兵器自己不把状况传达给周围，就无法和附近的步兵协同行动。,,MATCH,109,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,4,stream=0x57000;block=0xEE0;text=4,"[""stream=0x57000;block=0xEE0;text=4""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","AI兵器自身が状況を周囲に伝えないと、周囲の歩兵と連携
+した行動ができない。
+","確かに。戦場でも言葉でのコミュニケーションは重要だ。
+","だからAI兵器には音声合成システムが搭載されている。
+",[],确实。即使在战场上，语言交流也很重要。,,MATCH,79,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,5,stream=0x57000;block=0xEE0;text=5,"[""stream=0x57000;block=0xEE0;text=5""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","確かに。戦場でも言葉でのコミュニケーションは重要だ。
+","だからAI兵器には音声合成システムが搭載されている。
+","とはいえ、自らの意志で会話ができたのはピースウォーカ
+ーだけだ。
+",[],所以AI兵器都会搭载语音合成系统。,,MATCH,75,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,6,stream=0x57000;block=0xEE0;text=6,"[""stream=0x57000;block=0xEE0;text=6""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","だからAI兵器には音声合成システムが搭載されている。
+","とはいえ、自らの意志で会話ができたのはピースウォーカ
+ーだけだ。
+","他のAIは、プリセットされた言葉を状況に応じて発声して
+いる。
+",[],不过，能凭自己的意志进行对话的，只有Peace Walker。,,MATCH,95,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,7,stream=0x57000;block=0xEE0;text=7,"[""stream=0x57000;block=0xEE0;text=7""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","とはいえ、自らの意志で会話ができたのはピースウォーカ
+ーだけだ。
+","他のAIは、プリセットされた言葉を状況に応じて発声して
+いる。
+","<R=ZEKE,ジーク>に関しても同じだが、お前があらかじめ音声を用意
+しておけば、好きなときにそれを使うこともできる。
+",[],其他AI只是根据状况说出预先设定好的话。,,MATCH,88,56,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,8,stream=0x57000;block=0xEE0;text=8,"[""stream=0x57000;block=0xEE0;text=8""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","他のAIは、プリセットされた言葉を状況に応じて発声して
+いる。
+","<R=ZEKE,ジーク>に関しても同じだが、お前があらかじめ音声を用意
+しておけば、好きなときにそれを使うこともできる。
+","音声を用意したければ<R=エクストラ,EXTRAS>メニューからEDITモード
+に入ればいい。
+","[""<R=ZEKE,ジーク>""]","<R=ZEKE,ZEKE>也是一样，不过只要你事先准备好语音，就能在想用的时候调用。","<R=ZEKE,ZEKE>",MATCH,161,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_057EE0,9,stream=0x57000;block=0xEE0;text=9,"[""stream=0x57000;block=0xEE0;text=9""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","<R=ZEKE,ジーク>に関しても同じだが、お前があらかじめ音声を用意
+しておけば、好きなときにそれを使うこともできる。
+","音声を用意したければ<R=エクストラ,EXTRAS>メニューからEDITモード
+に入ればいい。
+","用意周到だな。
+","[""<R=エクストラ,EXTRAS>""]","想准备语音的话，从<R=附加内容,EXTRAS>菜单进入EDIT模式就行。","<R=附加内容,EXTRAS>",MATCH,110,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_057EE0,10,stream=0x57000;block=0xEE0;text=10,"[""stream=0x57000;block=0xEE0;text=10""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","音声を用意したければ<R=エクストラ,EXTRAS>メニューからEDITモード
+に入ればいい。
+","用意周到だな。
+","歌を歌わせることもできるぞ。
+",[],准备得还真周到。,,MATCH,22,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,11,stream=0x57000;block=0xEE0;text=11,"[""stream=0x57000;block=0xEE0;text=11""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","用意周到だな。
+","歌を歌わせることもできるぞ。
+","歌？
+",[],还可以让它唱歌。,,MATCH,43,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,12,stream=0x57000;block=0xEE0;text=12,"[""stream=0x57000;block=0xEE0;text=12""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","歌を歌わせることもできるぞ。
+","歌？
+","歌は大切だ。私はあのとき、歌の力を思い知らされた。
+",[],唱歌？,,MATCH,7,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,13,stream=0x57000;block=0xEE0;text=13,"[""stream=0x57000;block=0xEE0;text=13""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","歌？
+","歌は大切だ。私はあのとき、歌の力を思い知らされた。
+","もっとも、<R=ZEKE,ジーク>のAIが自分の意志で歌うことはない。
+",[],歌很重要。那时我切身体会到了歌的力量。,,MATCH,76,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,14,stream=0x57000;block=0xEE0;text=14,"[""stream=0x57000;block=0xEE0;text=14""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","歌は大切だ。私はあのとき、歌の力を思い知らされた。
+","もっとも、<R=ZEKE,ジーク>のAIが自分の意志で歌うことはない。
+","あくまで、用意された歌を再生するだけだ。
+","[""<R=ZEKE,ジーク>""]","不过，<R=ZEKE,ZEKE>的AI不会凭自己的意志唱歌。","<R=ZEKE,ZEKE>",MATCH,84,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_057EE0,15,stream=0x57000;block=0xEE0;text=15,"[""stream=0x57000;block=0xEE0;text=15""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","もっとも、<R=ZEKE,ジーク>のAIが自分の意志で歌うことはない。
+","あくまで、用意された歌を再生するだけだ。
+","スネーク、お前には作曲は無理だろうが…歌詞は好きなよ
+うに変えてみるといい。
+",[],它终究只会播放预先准备好的歌曲。,,MATCH,61,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_057EE0,16,stream=0x57000;block=0xEE0;text=16,"[""stream=0x57000;block=0xEE0;text=16""]",1,BRIEFING FILES,"[""stream=0x57000;block=0xEE0;block_file=0x57EE0;text_base=0x57F44;capacity=1388""]","あくまで、用意された歌を再生するだけだ。
+","スネーク、お前には作曲は無理だろうが…歌詞は好きなよ
+うに変えてみるといい。
+",,[],Snake，作曲对你来说大概太难了……不过歌词倒可以随你喜欢地改。,,MATCH,113,89,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

@@ -1,0 +1,22 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01F030,0,stream=0x1F000;block=0x30;text=0,"[""stream=0x1F000;block=0x30;text=0""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]",,"ボスの装備がどこに隠されているかは不明だ。
+","もしかしたら敵兵士が持っている可能性もある。
+",[],Boss的装备藏在哪里还不清楚。,,MATCH,64,40,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01F030,1,stream=0x1F000;block=0x30;text=1,"[""stream=0x1F000;block=0x30;text=1""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","ボスの装備がどこに隠されているかは不明だ。
+","もしかしたら敵兵士が持っている可能性もある。
+","ホールドアップや、無力化後のボディチェックも活用して
+みるといい。
+",[],也有可能是敌兵带在身上。,,MATCH,67,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_JPN_ONLY
+BRIEFING_FILES_BLOCK_01F030,2,stream=0x1F000;block=0x30;text=2,"[""stream=0x1F000;block=0x30;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","もしかしたら敵兵士が持っている可能性もある。
+","ホールドアップや、無力化後のボディチェックも活用して
+みるといい。
+","ボディチェックには、倒れている兵士の近くで<I=ACT>だ。
+",[],可以试试活用Hold Up，或者在制服敌人后进行身体搜查。,,MATCH,98,73,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_JPN_ONLY
+BRIEFING_FILES_BLOCK_01F030,3,stream=0x1F000;block=0x30;text=3,"[""stream=0x1F000;block=0x30;text=3""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","ホールドアップや、無力化後のボディチェックも活用して
+みるといい。
+","ボディチェックには、倒れている兵士の近くで<I=ACT>だ。
+","できないときはアイコンが出るまで十分に近づいてくれ。
+","[""<I=ACT>""]",身体搜查时，在倒下的士兵附近按<I=ACT>。,<I=ACT>,MATCH,77,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_JPN_ONLY;CONTROL_TOKEN_PRESERVED
+BRIEFING_FILES_BLOCK_01F030,4,stream=0x1F000;block=0x30;text=4,"[""stream=0x1F000;block=0x30;text=4""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x30;block_file=0x1F030;text_base=0x1F064;capacity=392""]","ボディチェックには、倒れている兵士の近くで<I=ACT>だ。
+","できないときはアイコンが出るまで十分に近づいてくれ。
+",,[],如果无法执行，就再靠近些，直到图标出现。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_JPN_ONLY

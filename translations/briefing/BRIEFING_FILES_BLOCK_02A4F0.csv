@@ -1,0 +1,44 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02A4F0,0,stream=0x2A000;block=0x4F0;text=0,"[""stream=0x2A000;block=0x4F0;text=0""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]",,"20年くらい前に、パナマ病が大流行したの。そのせいで、
+つぶれてしまったバナナ農園もあるみたい。
+","パナマ病？
+",[],大约20年前，巴拿马病曾大规模流行。听说有些香蕉园也因此倒闭了。,,MATCH,139,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_BANANA_FARM_FAILURE_RESTORED
+BRIEFING_FILES_BLOCK_02A4F0,1,stream=0x2A000;block=0x4F0;text=1,"[""stream=0x2A000;block=0x4F0;text=1""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","20年くらい前に、パナマ病が大流行したの。そのせいで、
+つぶれてしまったバナナ農園もあるみたい。
+","パナマ病？
+","カビの一種よ。パナマ病のせいで、それまで栽培されてい
+た種類のバナナは、ほぼ全滅してしまったそうなの。
+",[],巴拿马病？,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02A4F0,2,stream=0x2A000;block=0x4F0;text=2,"[""stream=0x2A000;block=0x4F0;text=2""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","パナマ病？
+","カビの一種よ。パナマ病のせいで、それまで栽培されてい
+た種類のバナナは、ほぼ全滅してしまったそうなの。
+","全滅なんてことがあるのか？
+",[],是一种霉菌。听说因为巴拿马病，此前种植的香蕉品种几乎全灭了。,,MATCH,152,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MISALIGNED_REFERENCE_IGNORED
+BRIEFING_FILES_BLOCK_02A4F0,3,stream=0x2A000;block=0x4F0;text=3,"[""stream=0x2A000;block=0x4F0;text=3""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","カビの一種よ。パナマ病のせいで、それまで栽培されてい
+た種類のバナナは、ほぼ全滅してしまったそうなの。
+","全滅なんてことがあるのか？
+","食用のバナナは種をつけないから、芽を分けて育てるの。
+それを次々と畑に植えていくから…。
+",[],竟然会全灭吗？,,MATCH,40,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MISALIGNED_REFERENCE_IGNORED
+BRIEFING_FILES_BLOCK_02A4F0,4,stream=0x2A000;block=0x4F0;text=4,"[""stream=0x2A000;block=0x4F0;text=4""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","全滅なんてことがあるのか？
+","食用のバナナは種をつけないから、芽を分けて育てるの。
+それを次々と畑に植えていくから…。
+","畑に大量の複製が並んでいるようなものか。
+",[],食用香蕉不会结籽，所以是分株育苗，再把这些苗一株株种到田里……,,MATCH,131,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=NO_RELIABLE_AUX_REFERENCE;JPN_DIRECT_TRANSLATION
+BRIEFING_FILES_BLOCK_02A4F0,5,stream=0x2A000;block=0x4F0;text=5,"[""stream=0x2A000;block=0x4F0;text=5""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","食用のバナナは種をつけないから、芽を分けて育てるの。
+それを次々と畑に植えていくから…。
+","畑に大量の複製が並んでいるようなものか。
+","うん。一つの株が病気になれば、すぐ広がってしまう。遺
+伝的に多様性のない種は、弱いのよ。
+",[],就像田里排着大量复制品一样吗？,,MATCH,61,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_CLONE_ANALOGY_PRIMARY
+BRIEFING_FILES_BLOCK_02A4F0,6,stream=0x2A000;block=0x4F0;text=6,"[""stream=0x2A000;block=0x4F0;text=6""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","畑に大量の複製が並んでいるようなものか。
+","うん。一つの株が病気になれば、すぐ広がってしまう。遺
+伝的に多様性のない種は、弱いのよ。
+","今栽培されているのは、別の種類のバナナなの。パナマ病
+に耐性があるんだって。
+",[],嗯。一株得病，很快就会蔓延。没有遗传多样性的品种很脆弱。,,MATCH,131,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FIRST_SENTENCE_AND_GENETIC_DIVERSITY_REJOINED
+BRIEFING_FILES_BLOCK_02A4F0,7,stream=0x2A000;block=0x4F0;text=7,"[""stream=0x2A000;block=0x4F0;text=7""]",1,BRIEFING FILES,"[""stream=0x2A000;block=0x4F0;block_file=0x2A4F0;text_base=0x2A530;capacity=792""]","うん。一つの株が病気になれば、すぐ広がってしまう。遺
+伝的に多様性のない種は、弱いのよ。
+","今栽培されているのは、別の種類のバナナなの。パナマ病
+に耐性があるんだって。
+",,[],现在种的是另一种香蕉。听说它能抵抗巴拿马病。,,MATCH,113,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

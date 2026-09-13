@@ -1,0 +1,12 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_385040,0,stream=0x385000;block=0x40;text=0,"[""stream=0x385000;block=0x40;text=0""]",1,BRIEFING MISSION,"[""stream=0x385000;block=0x40;block_file=0x385040;text_base=0x385068;capacity=200""]",,"これより、射撃訓練を行う。
+マザーベース射撃訓練場の、全<R=標的,ターゲット>を撃ち抜くんだ。
+","残り時間が<R=0,ゼロ>になったら、訓練終了だ。
+","[""<R=標的,ターゲット>""]","现在开始射击训练。
+击穿Mother Base射击训练场里的所有<R=靶标,TARGET>。
+","<R=靶标,TARGET>",MATCH,133,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_385040,1,stream=0x385000;block=0x40;text=1,"[""stream=0x385000;block=0x40;text=1""]",1,BRIEFING MISSION,"[""stream=0x385000;block=0x40;block_file=0x385040;text_base=0x385068;capacity=200""]","これより、射撃訓練を行う。
+マザーベース射撃訓練場の、全<R=標的,ターゲット>を撃ち抜くんだ。
+","残り時間が<R=0,ゼロ>になったら、訓練終了だ。
+",,"[""<R=0,ゼロ>""]","剩余时间变成<R=0,ZERO>时，训练结束。
+","<R=0,ZERO>",MATCH,64,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED

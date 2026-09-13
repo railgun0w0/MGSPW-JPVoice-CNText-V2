@@ -1,0 +1,84 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_00DDC0,0,stream=0xD000;block=0xDC0;text=0,"[""stream=0xD000;block=0xDC0;text=0""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]",,"なぜ自衛隊を辞めた？
+","日本にいる理由がなくなったからだ。
+",[],为什么离开自卫队？,,MATCH,31,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,1,stream=0xD000;block=0xDC0;text=1,"[""stream=0xD000;block=0xDC0;text=1""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","なぜ自衛隊を辞めた？
+","日本にいる理由がなくなったからだ。
+","理由？
+",[],因为我已经没有继续留在日本的理由了。,,MATCH,52,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,2,stream=0xD000;block=0xDC0;text=2,"[""stream=0xD000;block=0xDC0;text=2""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","日本にいる理由がなくなったからだ。
+","理由？
+","3年前にお袋が死んで、面倒を見る必要がなくなった。な
+ら何も、日本に燻っていることはない。
+",[],理由？,,MATCH,10,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,3,stream=0xD000;block=0xDC0;text=3,"[""stream=0xD000;block=0xDC0;text=3""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","理由？
+","3年前にお袋が死んで、面倒を見る必要がなくなった。な
+ら何も、日本に燻っていることはない。
+","だがお前の腕なら、上官の期待も高かったんじゃないのか。
+",[],我母亲三年前去世了，也就不需要再照顾她。既然这样，我也没必要继续窝在日本。,,MATCH,132,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,4,stream=0xD000;block=0xDC0;text=4,"[""stream=0xD000;block=0xDC0;text=4""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","3年前にお袋が死んで、面倒を見る必要がなくなった。な
+ら何も、日本に燻っていることはない。
+","だがお前の腕なら、上官の期待も高かったんじゃないのか。
+","俺への評価がどうだったかはわからん。むしろ跳ねっ返り
+として、疎んじられていたのかも知れん。
+",[],不过以你的本事，上级应该对你寄予厚望吧。,,MATCH,82,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,5,stream=0xD000;block=0xDC0;text=5,"[""stream=0xD000;block=0xDC0;text=5""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","だがお前の腕なら、上官の期待も高かったんじゃないのか。
+","俺への評価がどうだったかはわからん。むしろ跳ねっ返り
+として、疎んじられていたのかも知れん。
+","俺自身、専守防衛に馴染めなかったしな。
+",[],我不知道他们怎么评价我。说不定反倒把我当成刺头，挺不待见我的。,,MATCH,137,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_REBEL_NUANCE_RESTORED
+BRIEFING_FILES_BLOCK_00DDC0,6,stream=0xD000;block=0xDC0;text=6,"[""stream=0xD000;block=0xDC0;text=6""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","俺への評価がどうだったかはわからん。むしろ跳ねっ返り
+として、疎んじられていたのかも知れん。
+","俺自身、専守防衛に馴染めなかったしな。
+","と言うと？
+",[],而且我自己也一直不适应专守防卫。,,MATCH,58,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,7,stream=0xD000;block=0xDC0;text=7,"[""stream=0xD000;block=0xDC0;text=7""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","俺自身、専守防衛に馴染めなかったしな。
+","と言うと？
+","自衛隊の専守防衛は、国の戦略の形としては、“あり”な
+のかも知れん。それに従う同僚を悪く言うつもりもない。
+",[],怎么说？,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,8,stream=0xD000;block=0xDC0;text=8,"[""stream=0xD000;block=0xDC0;text=8""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","と言うと？
+","自衛隊の専守防衛は、国の戦略の形としては、“あり”な
+のかも知れん。それに従う同僚を悪く言うつもりもない。
+","だが戦術レベルで考えると、どうにも俺の性に合わなかっ
+た。
+",[],自卫队的专守防卫，作为国家战略的一种形式，也许是可行的。我也无意贬低遵从它的同僚。,,MATCH,158,123,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_00DDC0,9,stream=0xD000;block=0xDC0;text=9,"[""stream=0xD000;block=0xDC0;text=9""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","自衛隊の専守防衛は、国の戦略の形としては、“あり”な
+のかも知れん。それに従う同僚を悪く言うつもりもない。
+","だが戦術レベルで考えると、どうにも俺の性に合わなかっ
+た。
+","簡単に言えば、きちんと殴り合いをしたかったんだよ。
+",[],但从战术层面来看，这套东西实在不合我的性子。,,MATCH,86,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,10,stream=0xD000;block=0xDC0;text=10,"[""stream=0xD000;block=0xDC0;text=10""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","だが戦術レベルで考えると、どうにも俺の性に合わなかっ
+た。
+","簡単に言えば、きちんと殴り合いをしたかったんだよ。
+","お前らしいな。
+",[],说白了，我就是想好好狠狠干上一架。,,MATCH,76,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,11,stream=0xD000;block=0xDC0;text=11,"[""stream=0xD000;block=0xDC0;text=11""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","簡単に言えば、きちんと殴り合いをしたかったんだよ。
+","お前らしいな。
+","自衛隊にいる限り、親父のいた米軍と肩を並べることはで
+きない、という思いもあった。
+",[],很像你。,,MATCH,22,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_00DDC0,12,stream=0xD000;block=0xDC0;text=12,"[""stream=0xD000;block=0xDC0;text=12""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","お前らしいな。
+","自衛隊にいる限り、親父のいた米軍と肩を並べることはで
+きない、という思いもあった。
+","それに、三島由紀夫の自決を見たってのもある。
+",[],我也觉得，只要还待在自卫队，就永远没法和父亲待过的美军并肩而立。,,MATCH,122,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_US_ARMY_NARROWING_IGNORED
+BRIEFING_FILES_BLOCK_00DDC0,13,stream=0xD000;block=0xDC0;text=13,"[""stream=0xD000;block=0xDC0;text=13""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","自衛隊にいる限り、親父のいた米軍と肩を並べることはで
+きない、という思いもあった。
+","それに、三島由紀夫の自決を見たってのもある。
+","三島由紀夫…「金閣寺」を書いた？
+",[],而且，还有三岛由纪夫的自决。我亲眼看到了那一幕。,,MATCH,67,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CAUSAL_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_00DDC0,14,stream=0xD000;block=0xDC0;text=14,"[""stream=0xD000;block=0xDC0;text=14""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","それに、三島由紀夫の自決を見たってのもある。
+","三島由紀夫…「金閣寺」を書いた？
+","三島の問いかけは、俺にとっても重かった。
+",[],三岛由纪夫……写《金阁寺》的那个？,,MATCH,49,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,15,stream=0xD000;block=0xDC0;text=15,"[""stream=0xD000;block=0xDC0;text=15""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","三島由紀夫…「金閣寺」を書いた？
+","三島の問いかけは、俺にとっても重かった。
+","彼の思想に傾倒しているわけではない。だが、考えるきっ
+かけになったのは確かだ。
+",[],三岛提出的那个问题，对我来说也很沉重。,,MATCH,61,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00DDC0,16,stream=0xD000;block=0xDC0;text=16,"[""stream=0xD000;block=0xDC0;text=16""]",1,BRIEFING FILES,"[""stream=0xD000;block=0xDC0;block_file=0xDDC0;text_base=0xDE24;capacity=1292""]","三島の問いかけは、俺にとっても重かった。
+","彼の思想に傾倒しているわけではない。だが、考えるきっ
+かけになったのは確かだ。
+",,[],我并不是他的思想追随者。不过，那件事确实成了促使我思考的契机。,,MATCH,116,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

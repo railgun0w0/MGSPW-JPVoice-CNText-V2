@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_043380,0,stream=0x43000;block=0x380;text=0,"[""stream=0x43000;block=0x380;text=0""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]",,"ネッシーのことは知ってるか？
+","一応はな。あれだけ有名だと知らない方が珍しい。
+",[],你知道Nessie吗？,,MATCH,43,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,1,stream=0x43000;block=0x380;text=1,"[""stream=0x43000;block=0x380;text=1""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","ネッシーのことは知ってるか？
+","一応はな。あれだけ有名だと知らない方が珍しい。
+","だったら話が早い。スネークもあれは恐竜の生き残りだと
+思うだろ？
+",[],姑且知道。那么有名，不知道才少见。,,MATCH,70,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,2,stream=0x43000;block=0x380;text=2,"[""stream=0x43000;block=0x380;text=2""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","一応はな。あれだけ有名だと知らない方が珍しい。
+","だったら話が早い。スネークもあれは恐竜の生き残りだと
+思うだろ？
+","そうかもな。
+",[],那就好说了。Snake也觉得那是存活下来的恐龙吧？,,MATCH,95,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,3,stream=0x43000;block=0x380;text=3,"[""stream=0x43000;block=0x380;text=3""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","だったら話が早い。スネークもあれは恐竜の生き残りだと
+思うだろ？
+","そうかもな。
+","<R=同志,コンパ>にもらった本に写真が載ってたんだ。首長竜の復元図
+にそっくりだった。
+",[],也许吧。,,MATCH,19,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,4,stream=0x43000;block=0x380;text=4,"[""stream=0x43000;block=0x380;text=4""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","そうかもな。
+","<R=同志,コンパ>にもらった本に写真が載ってたんだ。首長竜の復元図
+にそっくりだった。
+","…どうしてネス湖だけに生き残った？
+","[""<R=同志,コンパ>""]","一本<R=同志,COMPA>送我的书里有照片。和蛇颈龙的复原图简直一模一样。","<R=同志,COMPA>",MATCH,121,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_043380,5,stream=0x43000;block=0x380;text=5,"[""stream=0x43000;block=0x380;text=5""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","<R=同志,コンパ>にもらった本に写真が載ってたんだ。首長竜の復元図
+にそっくりだった。
+","…どうしてネス湖だけに生き残った？
+","海から切り離されたからだって言われてる。ネス湖が海と
+繋がってたときに首長竜がそこに入りこんで、気候の変動
+とかで湖に閉じ込められたんだ。
+",[],……为什么只有尼斯湖里有幸存下来的？,,MATCH,52,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,6,stream=0x43000;block=0x380;text=6,"[""stream=0x43000;block=0x380;text=6""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","…どうしてネス湖だけに生き残った？
+","海から切り離されたからだって言われてる。ネス湖が海と
+繋がってたときに首長竜がそこに入りこんで、気候の変動
+とかで湖に閉じ込められたんだ。
+","そこには天敵となる<R=哺乳類,ママル>もいなかったから、世代交代し
+ながら今まで生き残ってこれたんだね。
+",[],据说是因为那里后来与海洋隔绝了。尼斯湖还和海相连时，有蛇颈龙游了进去，之后因为气候变化之类的原因被困在湖里。,,MATCH,204,162,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,7,stream=0x43000;block=0x380;text=7,"[""stream=0x43000;block=0x380;text=7""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","海から切り離されたからだって言われてる。ネス湖が海と
+繋がってたときに首長竜がそこに入りこんで、気候の変動
+とかで湖に閉じ込められたんだ。
+","そこには天敵となる<R=哺乳類,ママル>もいなかったから、世代交代し
+ながら今まで生き残ってこれたんだね。
+","それなら他の湖にいてもおかしくない。似た環境の湖があ
+れば。
+","[""<R=哺乳類,ママル>""]","那里又没有作为天敌的<R=哺乳动物,MAMMAL>，所以它们才一代代繁衍，一直活到了现在。","<R=哺乳动物,MAMMAL>",MATCH,148,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_043380,8,stream=0x43000;block=0x380;text=8,"[""stream=0x43000;block=0x380;text=8""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","そこには天敵となる<R=哺乳類,ママル>もいなかったから、世代交代し
+ながら今まで生き残ってこれたんだね。
+","それなら他の湖にいてもおかしくない。似た環境の湖があ
+れば。
+","そうさ。だからナウエリートとかオゴポゴとか、いろんな
+湖で巨大生物が目撃されてるんだ。
+",[],那其他湖里有也不奇怪。只要环境相似。,,MATCH,89,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,9,stream=0x43000;block=0x380;text=9,"[""stream=0x43000;block=0x380;text=9""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","それなら他の湖にいてもおかしくない。似た環境の湖があ
+れば。
+","そうさ。だからナウエリートとかオゴポゴとか、いろんな
+湖で巨大生物が目撃されてるんだ。
+","イラスにいるかどうかはわからないけど…<R=ニカラグア湖,ラゴ・コシボルカ>に
+は間違いなく何かがいるだろうね。
+",[],没错。所以Nahuelito、Ogopogo之类的巨型生物，才会在各个湖里被目击到。,,MATCH,128,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_043380,10,stream=0x43000;block=0x380;text=10,"[""stream=0x43000;block=0x380;text=10""]",1,BRIEFING FILES,"[""stream=0x43000;block=0x380;block_file=0x43380;text_base=0x433CC;capacity=1140""]","そうさ。だからナウエリートとかオゴポゴとか、いろんな
+湖で巨大生物が目撃されてるんだ。
+","イラスにいるかどうかはわからないけど…<R=ニカラグア湖,ラゴ・コシボルカ>に
+は間違いなく何かがいるだろうね。
+",,"[""<R=ニカラグア湖,ラゴ・コシボルカ>""]","我不知道Irazú有没有……但<R=尼加拉瓜湖,LAGO COCIBOLCA>里肯定有什么东西。","<R=尼加拉瓜湖,LAGO COCIBOLCA>",MATCH,157,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED

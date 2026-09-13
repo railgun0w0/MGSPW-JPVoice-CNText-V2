@@ -1,0 +1,40 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_070430,0,stream=0x70000;block=0x430;text=0,"[""stream=0x70000;block=0x430;text=0""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]",,"“レプタイル”は「爬虫類」って意味だ。
+","脳の中で生命維持や反射を司る部分は、人間が遙か昔、<R=爬虫類,レプタイル>
+だった頃に発達したものなんだ。
+",[],“Reptile”就是“爬虫类”的意思。,,MATCH,58,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_070430,1,stream=0x70000;block=0x430;text=1,"[""stream=0x70000;block=0x430;text=1""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","“レプタイル”は「爬虫類」って意味だ。
+","脳の中で生命維持や反射を司る部分は、人間が遙か昔、<R=爬虫類,レプタイル>
+だった頃に発達したものなんだ。
+","<R=爬虫類,レプタイル>だった…？
+","[""<R=爬虫類,レプタイル>""]","大脑中负责维持生命和反射的部分，是人类在很久以前还是<R=爬虫类,REPTILE>的阶段发展出来的。","<R=爬虫类,REPTILE>",MATCH,151,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_070430,2,stream=0x70000;block=0x430;text=2,"[""stream=0x70000;block=0x430;text=2""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","脳の中で生命維持や反射を司る部分は、人間が遙か昔、<R=爬虫類,レプタイル>
+だった頃に発達したものなんだ。
+","<R=爬虫類,レプタイル>だった…？
+","進化の段階の話さ。ポール・マクリーンという神経生化学
+者が唱えた説なんだ。
+","[""<R=爬虫類,レプタイル>""]","曾经是<R=爬虫类,REPTILE>……？","<R=爬虫类,REPTILE>",MATCH,45,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_070430,3,stream=0x70000;block=0x430;text=3,"[""stream=0x70000;block=0x430;text=3""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","<R=爬虫類,レプタイル>だった…？
+","進化の段階の話さ。ポール・マクリーンという神経生化学
+者が唱えた説なんだ。
+","はあ。
+",[],说的是进化阶段。这是一个叫Paul MacLean的神经生化学家提出的理论。,,MATCH,110,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_070430,4,stream=0x70000;block=0x430;text=4,"[""stream=0x70000;block=0x430;text=4""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","進化の段階の話さ。ポール・マクリーンという神経生化学
+者が唱えた説なんだ。
+","はあ。
+","<R=爬虫類,レプタイル>脳は、脳幹と大脳基底核に相当する。実際のレプタ
+イルポッドは、小脳の機能までカバーしているけどね。
+",[],哦。,,MATCH,10,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_070430,5,stream=0x70000;block=0x430;text=5,"[""stream=0x70000;block=0x430;text=5""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","はあ。
+","<R=爬虫類,レプタイル>脳は、脳幹と大脳基底核に相当する。実際のレプタ
+イルポッドは、小脳の機能までカバーしているけどね。
+","要するに、脳の奥深くってことだな。
+","[""<R=爬虫類,レプタイル>""]","<R=爬虫类,REPTILE>脑相当于脑干和大脑基底核。不过实际的Reptile Pod还覆盖了小脑的功能。","<R=爬虫类,REPTILE>",MATCH,175,116,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_070430,6,stream=0x70000;block=0x430;text=6,"[""stream=0x70000;block=0x430;text=6""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","<R=爬虫類,レプタイル>脳は、脳幹と大脳基底核に相当する。実際のレプタ
+イルポッドは、小脳の機能までカバーしているけどね。
+","要するに、脳の奥深くってことだな。
+","これは、ストレンジラブの命名なんだ。
+",[],简单说，就是大脑深处的部分。,,MATCH,52,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_070430,7,stream=0x70000;block=0x430;text=7,"[""stream=0x70000;block=0x430;text=7""]",1,BRIEFING FILES,"[""stream=0x70000;block=0x430;block_file=0x70430;text_base=0x70470;capacity=664""]","要するに、脳の奥深くってことだな。
+","これは、ストレンジラブの命名なんだ。
+",,[],这个名字是Strangelove起的。,,MATCH,55,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

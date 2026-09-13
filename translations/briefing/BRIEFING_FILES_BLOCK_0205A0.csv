@@ -1,0 +1,77 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0205A0,0,stream=0x20000;block=0x5A0;text=0,"[""stream=0x20000;block=0x5A0;text=0""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]",,"<R=偵察,スカウト>兵は潜伏用の偽装を施している。中でも異様なのが全
+身に海草を生やしたような姿をした奴だ。
+","ギリースーツか。
+","[""<R=偵察,スカウト>""]","<R=侦察,scout>兵会做适合潜伏的伪装。其中最怪的，是那种全身像长满海藻一样的家伙。","<R=侦察,scout>",MATCH,154,115,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_0205A0,1,stream=0x20000;block=0x5A0;text=1,"[""stream=0x20000;block=0x5A0;text=1""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","<R=偵察,スカウト>兵は潜伏用の偽装を施している。中でも異様なのが全
+身に海草を生やしたような姿をした奴だ。
+","ギリースーツか。
+","戦闘能力は他の<R=偵察,スカウト>兵と大差ないようだが、とにかく見つ
+けにくいらしい。
+",[],吉利服吗。,,MATCH,25,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0205A0,2,stream=0x20000;block=0x5A0;text=2,"[""stream=0x20000;block=0x5A0;text=2""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","ギリースーツか。
+","戦闘能力は他の<R=偵察,スカウト>兵と大差ないようだが、とにかく見つ
+けにくいらしい。
+","ああ、そうだろう。
+","[""<R=偵察,スカウト>""]","战斗能力似乎和其他<R=侦察,scout>兵没多大区别，但据说特别难发现。","<R=侦察,scout>",MATCH,121,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;AUX_SECOND_CLAUSE_RESTORED
+BRIEFING_FILES_BLOCK_0205A0,3,stream=0x20000;block=0x5A0;text=3,"[""stream=0x20000;block=0x5A0;text=3""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","戦闘能力は他の<R=偵察,スカウト>兵と大差ないようだが、とにかく見つ
+けにくいらしい。
+","ああ、そうだろう。
+","以前にも？
+",[],嗯，那是当然。,,MATCH,28,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0205A0,4,stream=0x20000;block=0x5A0;text=4,"[""stream=0x20000;block=0x5A0;text=4""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","ああ、そうだろう。
+","以前にも？
+","ソ連でな。初めての時は倒すのに1時間もかかった。…カ
+ズ、そいつらは光るのか？
+",[],以前也遇到过？,,MATCH,16,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0205A0,5,stream=0x20000;block=0x5A0;text=5,"[""stream=0x20000;block=0x5A0;text=5""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","以前にも？
+","ソ連でな。初めての時は倒すのに1時間もかかった。…カ
+ズ、そいつらは光るのか？
+","光る？　何が？
+",[],在苏联。第一次时，我花了整整一小时才干掉他。……Kaz，那些家伙会发光吗？,,MATCH,114,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_LOCATION_OMISSION_RESTORED
+BRIEFING_FILES_BLOCK_0205A0,6,stream=0x20000;block=0x5A0;text=6,"[""stream=0x20000;block=0x5A0;text=6""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","ソ連でな。初めての時は倒すのに1時間もかかった。…カ
+ズ、そいつらは光るのか？
+","光る？　何が？
+","頭だ。
+",[],发光？什么会发光？,,MATCH,22,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0205A0,7,stream=0x20000;block=0x5A0;text=7,"[""stream=0x20000;block=0x5A0;text=7""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","光る？　何が？
+","頭だ。
+","頭？
+",[],头。,,MATCH,10,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0205A0,8,stream=0x20000;block=0x5A0;text=8,"[""stream=0x20000;block=0x5A0;text=8""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","頭だ。
+","頭？
+","そいつらの髪はどうなってる。フサフサなのか。
+",[],头？,,MATCH,7,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0205A0,9,stream=0x20000;block=0x5A0;text=9,"[""stream=0x20000;block=0x5A0;text=9""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","頭？
+","そいつらの髪はどうなってる。フサフサなのか。
+","何を言ってるんだ？　そんなこと判るわけないじゃないか。
+",[],那些家伙的头发怎么样？很茂密吗？,,MATCH,67,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0205A0,10,stream=0x20000;block=0x5A0;text=10,"[""stream=0x20000;block=0x5A0;text=10""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","そいつらの髪はどうなってる。フサフサなのか。
+","何を言ってるんだ？　そんなこと判るわけないじゃないか。
+","オウムは。オウムの鳴き声はするのか。
+",[],你在说什么？这种事我怎么可能知道。,,MATCH,82,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PROFANITY_NOT_IN_JPN_IGNORED
+BRIEFING_FILES_BLOCK_0205A0,11,stream=0x20000;block=0x5A0;text=11,"[""stream=0x20000;block=0x5A0;text=11""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","何を言ってるんだ？　そんなこと判るわけないじゃないか。
+","オウムは。オウムの鳴き声はするのか。
+","オウム？　おい、話す相手間違ってるぞ、鳥のことならセ
+シールだろ…じゃなくて、さっきから何の話をしてるんだ？
+",[],鹦鹉呢？会听到鹦鹉的叫声吗？,,MATCH,55,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0205A0,12,stream=0x20000;block=0x5A0;text=12,"[""stream=0x20000;block=0x5A0;text=12""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","オウムは。オウムの鳴き声はするのか。
+","オウム？　おい、話す相手間違ってるぞ、鳥のことならセ
+シールだろ…じゃなくて、さっきから何の話をしてるんだ？
+","いや、判らなければいい、別の方法を考える。気にするな。
+",[],鹦鹉？喂，你问错人了吧。鸟的事该问Cécile才对……不对，你从刚才开始到底在说什么？,,MATCH,161,118,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_0205A0,13,stream=0x20000;block=0x5A0;text=13,"[""stream=0x20000;block=0x5A0;text=13""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","オウム？　おい、話す相手間違ってるぞ、鳥のことならセ
+シールだろ…じゃなくて、さっきから何の話をしてるんだ？
+","いや、判らなければいい、別の方法を考える。気にするな。
+","…？　まあいい。ともかく、こいつらのアンブッシュには
+何人も味方がやられてる。
+",[],不知道就算了，我会想别的办法。别在意。,,MATCH,82,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0205A0,14,stream=0x20000;block=0x5A0;text=14,"[""stream=0x20000;block=0x5A0;text=14""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","いや、判らなければいい、別の方法を考える。気にするな。
+","…？　まあいい。ともかく、こいつらのアンブッシュには
+何人も味方がやられてる。
+","十分に気をつけるんだ。
+",[],……？算了。总之，已经有不少自己人栽在他们的伏击下了。,,MATCH,116,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_0205A0,15,stream=0x20000;block=0x5A0;text=15,"[""stream=0x20000;block=0x5A0;text=15""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x5A0;block_file=0x205A0;text_base=0x20600;capacity=1112""]","…？　まあいい。ともかく、こいつらのアンブッシュには
+何人も味方がやられてる。
+","十分に気をつけるんだ。
+",,[],一定要多加小心。,,MATCH,34,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARAPHRASE_JPN_USED

@@ -1,0 +1,30 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0263F0,0,stream=0x26000;block=0x3F0;text=0,"[""stream=0x26000;block=0x3F0;text=0""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]",,"雲霧林は、中央の山岳地帯に広がる森よ。常に霧がかかっ
+ていて、そこに立っているだけで体が濡れてしまうくらい。
+","森全体が雲の中にある、って感じかな。
+",[],云雾林分布在中部山区。那里常年雾气笼罩，光是站在那里，身体都会被打湿。,,MATCH,161,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_OMISSION_RESTORED
+BRIEFING_FILES_BLOCK_0263F0,1,stream=0x26000;block=0x3F0;text=1,"[""stream=0x26000;block=0x3F0;text=1""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","雲霧林は、中央の山岳地帯に広がる森よ。常に霧がかかっ
+ていて、そこに立っているだけで体が濡れてしまうくらい。
+","森全体が雲の中にある、って感じかな。
+","視界が悪そうだ。
+",[],整片森林都像在云里一样。,,MATCH,55,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0263F0,2,stream=0x26000;block=0x3F0;text=2,"[""stream=0x26000;block=0x3F0;text=2""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","森全体が雲の中にある、って感じかな。
+","視界が悪そうだ。
+","うん。でも、とても綺麗な森よ。神秘的で、緑の迷宮に迷
+い込んだみたい。
+",[],看来视野会很差。,,MATCH,25,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0263F0,3,stream=0x26000;block=0x3F0;text=3,"[""stream=0x26000;block=0x3F0;text=3""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","視界が悪そうだ。
+","うん。でも、とても綺麗な森よ。神秘的で、緑の迷宮に迷
+い込んだみたい。
+","…本当に迷わないように気を付けよう。
+",[],嗯。不过那片森林非常漂亮。神秘得像误入了一座绿色迷宫。,,MATCH,104,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0263F0,4,stream=0x26000;block=0x3F0;text=4,"[""stream=0x26000;block=0x3F0;text=4""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","うん。でも、とても綺麗な森よ。神秘的で、緑の迷宮に迷
+い込んだみたい。
+","…本当に迷わないように気を付けよう。
+","珍しい動物も沢山棲んでる。特に綺麗なカエルがいっぱい。
+湿気が多いからかな。
+",[],……还是小心点，别真的迷路了。,,MATCH,55,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_CAUTION_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_0263F0,5,stream=0x26000;block=0x3F0;text=5,"[""stream=0x26000;block=0x3F0;text=5""]",1,BRIEFING FILES,"[""stream=0x26000;block=0x3F0;block_file=0x263F0;text_base=0x26428;capacity=520""]","…本当に迷わないように気を付けよう。
+","珍しい動物も沢山棲んでる。特に綺麗なカエルがいっぱい。
+湿気が多いからかな。
+",,[],那里还栖息着许多珍稀动物，尤其有很多漂亮的青蛙。也许是因为湿气重吧。,,MATCH,113,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FROG_AND_HUMIDITY_DETAIL_RESTORED

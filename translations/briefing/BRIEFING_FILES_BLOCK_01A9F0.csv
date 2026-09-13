@@ -1,0 +1,60 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01A9F0,0,stream=0x1A000;block=0x9F0;text=0,"[""stream=0x1A000;block=0x9F0;text=0""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]",,"次の目的地までは、途中までは来た道を逆に辿ることにな
+る。
+","地形を把握しているからと言って油断はするなよ。敵はあ
+んたの存在を知った。これまで以上に警戒を強めているだ
+ろう。
+",[],前往下一个目的地时，途中有一段要沿原路折返。,,MATCH,86,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A9F0,1,stream=0x1A000;block=0x9F0;text=1,"[""stream=0x1A000;block=0x9F0;text=1""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","次の目的地までは、途中までは来た道を逆に辿ることにな
+る。
+","地形を把握しているからと言って油断はするなよ。敵はあ
+んたの存在を知った。これまで以上に警戒を強めているだ
+ろう。
+","慎重に進むんだ。必要があれば火器の使用もためらうな。
+",[],别因为已经熟悉地形就大意。敌人已经知道你的存在，警戒应该比之前更严了。,,MATCH,168,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FORCE_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_01A9F0,2,stream=0x1A000;block=0x9F0;text=2,"[""stream=0x1A000;block=0x9F0;text=2""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","地形を把握しているからと言って油断はするなよ。敵はあ
+んたの存在を知った。これまで以上に警戒を強めているだ
+ろう。
+","慎重に進むんだ。必要があれば火器の使用もためらうな。
+","川を渡る必要があるな。
+",[],谨慎前进。有必要的话，也别犹豫使用火器。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_POLARITY_NUANCE_RESTORED
+BRIEFING_FILES_BLOCK_01A9F0,3,stream=0x1A000;block=0x9F0;text=3,"[""stream=0x1A000;block=0x9F0;text=3""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","慎重に進むんだ。必要があれば火器の使用もためらうな。
+","川を渡る必要があるな。
+","ああ。吊り橋がかかってる。ここは一本道だ。敵の目を避
+けるには工夫が要るだろう。
+",[],看来得过河了。,,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A9F0,4,stream=0x1A000;block=0x9F0;text=4,"[""stream=0x1A000;block=0x9F0;text=4""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","川を渡る必要があるな。
+","ああ。吊り橋がかかってる。ここは一本道だ。敵の目を避
+けるには工夫が要るだろう。
+","吊り橋を抜けた沼地の先には…バナナ園か。
+",[],对。有一座吊桥。这里就这一条路，要避开敌人的视线恐怕得动点脑筋。,,MATCH,119,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A9F0,5,stream=0x1A000;block=0x9F0;text=5,"[""stream=0x1A000;block=0x9F0;text=5""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","ああ。吊り橋がかかってる。ここは一本道だ。敵の目を避
+けるには工夫が要るだろう。
+","吊り橋を抜けた沼地の先には…バナナ園か。
+","工場設備が併設されてるようだな。
+",[],过了吊桥，再穿过沼泽……前面是香蕉种植园吗。,,MATCH,61,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A9F0,6,stream=0x1A000;block=0x9F0;text=6,"[""stream=0x1A000;block=0x9F0;text=6""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","吊り橋を抜けた沼地の先には…バナナ園か。
+","工場設備が併設されてるようだな。
+","同じ移動するにしても森の中とは勝手が違うだろう、気を
+つけろよ。
+",[],看起来还附带有工厂设施。,,MATCH,49,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A9F0,7,stream=0x1A000;block=0x9F0;text=7,"[""stream=0x1A000;block=0x9F0;text=7""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","工場設備が併設されてるようだな。
+","同じ移動するにしても森の中とは勝手が違うだろう、気を
+つけろよ。
+","了解だ。
+",[],这里和森林里走起来应该很不一样，小心点。,,MATCH,95,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_01A9F0,8,stream=0x1A000;block=0x9F0;text=8,"[""stream=0x1A000;block=0x9F0;text=8""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","同じ移動するにしても森の中とは勝手が違うだろう、気を
+つけろよ。
+","了解だ。
+","それと、途中<R=FSLN,サンディニスタ>の捕虜を見つける可能性もある。でき
+るだけフルトンで回収してやってくれ。
+",[],明白。,,MATCH,13,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01A9F0,9,stream=0x1A000;block=0x9F0;text=9,"[""stream=0x1A000;block=0x9F0;text=9""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","了解だ。
+","それと、途中<R=FSLN,サンディニスタ>の捕虜を見つける可能性もある。でき
+るだけフルトンで回収してやってくれ。
+","覚えておこう。
+","[""<R=FSLN,サンディニスタ>""]","另外，途中也可能发现<R=FSLN,桑地诺民族解放阵线>的俘虏。尽可能用富尔顿把他们回收回来。","<R=FSLN,桑地诺民族解放阵线>",MATCH,155,123,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED; RUBY_LOCALIZED
+BRIEFING_FILES_BLOCK_01A9F0,10,stream=0x1A000;block=0x9F0;text=10,"[""stream=0x1A000;block=0x9F0;text=10""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0x9F0;block_file=0x1A9F0;text_base=0x1AA3C;capacity=892""]","それと、途中<R=FSLN,サンディニスタ>の捕虜を見つける可能性もある。でき
+るだけフルトンで回収してやってくれ。
+","覚えておこう。
+",,[],我会记住。,,MATCH,22,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

@@ -1,0 +1,90 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01DFB0,0,stream=0x1D000;block=0xFB0;text=0,"[""stream=0x1D000;block=0xFB0;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]",,"フルトン回収のバルーンを撃てばいいんだな？
+","ああ、そうだ。間違って吊られてる兵士を撃たないでくれ
+よ。
+",[],就是要射富尔顿回收的气球，对吧？,,MATCH,64,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01DFB0,1,stream=0x1D000;block=0xFB0;text=1,"[""stream=0x1D000;block=0xFB0;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","フルトン回収のバルーンを撃てばいいんだな？
+","ああ、そうだ。間違って吊られてる兵士を撃たないでくれ
+よ。
+","撃つか。
+",[],对。可别误射吊在下面的士兵。,,MATCH,86,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01DFB0,2,stream=0x1D000;block=0xFB0;text=2,"[""stream=0x1D000;block=0xFB0;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","ああ、そうだ。間違って吊られてる兵士を撃たないでくれ
+よ。
+","撃つか。
+","スナイパーライフルとか、まあ他の武器でもいいが、きち
+んと狙いをつけて撃つんだ。
+",[],开枪啊。,,MATCH,13,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,3,stream=0x1D000;block=0xFB0;text=3,"[""stream=0x1D000;block=0xFB0;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","撃つか。
+","スナイパーライフルとか、まあ他の武器でもいいが、きち
+んと狙いをつけて撃つんだ。
+","風船撃ちか…。
+",[],狙击步枪之类的，当然别的武器也行，总之要瞄准了再打。,,MATCH,119,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+BRIEFING_FILES_BLOCK_01DFB0,4,stream=0x1D000;block=0xFB0;text=4,"[""stream=0x1D000;block=0xFB0;text=4""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","スナイパーライフルとか、まあ他の武器でもいいが、きち
+んと狙いをつけて撃つんだ。
+","風船撃ちか…。
+","大空は広い。多くの風船を撃つには、CO-OPSで挑んでみ
+るのがいいかもしれないな。
+",[],打气球吗……,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01DFB0,5,stream=0x1D000;block=0xFB0;text=5,"[""stream=0x1D000;block=0xFB0;text=5""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","風船撃ちか…。
+","大空は広い。多くの風船を撃つには、CO-OPSで挑んでみ
+るのがいいかもしれないな。
+","まあ、あまり殺伐としたミッションばかりで気が滅入るだ
+ろう。たまにはこんなのどかなミッションがあってもいい
+んじゃないか？
+",[],天空这么宽，要想多打些气球，也许用CO-OPS来挑战比较好。,,MATCH,113,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_INVENTED_SKY_PUN_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,6,stream=0x1D000;block=0xFB0;text=6,"[""stream=0x1D000;block=0xFB0;text=6""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","大空は広い。多くの風船を撃つには、CO-OPSで挑んでみ
+るのがいいかもしれないな。
+","まあ、あまり殺伐としたミッションばかりで気が滅入るだ
+ろう。たまにはこんなのどかなミッションがあってもいい
+んじゃないか？
+","フルトン回収のバルーンは豚みたいで美味そうだしな…。
+",[],老是做那么杀气腾腾的任务也会让人心情低落吧。偶尔来个这么悠闲的任务不是也挺好吗？,,MATCH,180,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_01DFB0,7,stream=0x1D000;block=0xFB0;text=7,"[""stream=0x1D000;block=0xFB0;text=7""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","まあ、あまり殺伐としたミッションばかりで気が滅入るだ
+ろう。たまにはこんなのどかなミッションがあってもいい
+んじゃないか？
+","フルトン回収のバルーンは豚みたいで美味そうだしな…。
+","…それはいいが、さっき言ってた“プーヤン・ミッション”
+とはどういう意味だ？
+",[],而且富尔顿回收的气球看起来就像猪，好像还挺好吃的……,,MATCH,79,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,8,stream=0x1D000;block=0xFB0;text=8,"[""stream=0x1D000;block=0xFB0;text=8""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","フルトン回収のバルーンは豚みたいで美味そうだしな…。
+","…それはいいが、さっき言ってた“プーヤン・ミッション”
+とはどういう意味だ？
+","子供の頃、近所に豚を飼っている家があってな、その豚の
+名前が“プーヤン”だったんだ。
+",[],……先不说这个，你刚才说的“Pooyan任务”是什么意思？,,MATCH,113,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,9,stream=0x1D000;block=0xFB0;text=9,"[""stream=0x1D000;block=0xFB0;text=9""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","…それはいいが、さっき言ってた“プーヤン・ミッション”
+とはどういう意味だ？
+","子供の頃、近所に豚を飼っている家があってな、その豚の
+名前が“プーヤン”だったんだ。
+","フルトン回収のバルーンを見るたび、そのことを思い出し
+てな。
+",[],我小时候，附近有户人家养猪，那头猪就叫“Pooyan”。,,MATCH,125,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,10,stream=0x1D000;block=0xFB0;text=10,"[""stream=0x1D000;block=0xFB0;text=10""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","子供の頃、近所に豚を飼っている家があってな、その豚の
+名前が“プーヤン”だったんだ。
+","フルトン回収のバルーンを見るたび、そのことを思い出し
+てな。
+","だが、俺たちの目的はバルーンを撃つことだ。バルーンに
+感情移入するわけにはいかない。
+",[],每次看到富尔顿回收的气球，我都会想起它。,,MATCH,89,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,11,stream=0x1D000;block=0xFB0;text=11,"[""stream=0x1D000;block=0xFB0;text=11""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","フルトン回収のバルーンを見るたび、そのことを思い出し
+てな。
+","だが、俺たちの目的はバルーンを撃つことだ。バルーンに
+感情移入するわけにはいかない。
+","ああ。バルーンに豚がぶら下がってればいいんだがな…。
+",[],可我们的目标是射气球。不能对气球产生感情。,,MATCH,125,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,12,stream=0x1D000;block=0xFB0;text=12,"[""stream=0x1D000;block=0xFB0;text=12""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","だが、俺たちの目的はバルーンを撃つことだ。バルーンに
+感情移入するわけにはいかない。
+","ああ。バルーンに豚がぶら下がってればいいんだがな…。
+","……おい。
+",[],是啊。要是气球下面吊着的是猪就好了……,,MATCH,79,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,13,stream=0x1D000;block=0xFB0;text=13,"[""stream=0x1D000;block=0xFB0;text=13""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","ああ。バルーンに豚がぶら下がってればいいんだがな…。
+","……おい。
+","ん？
+",[],……喂。,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,14,stream=0x1D000;block=0xFB0;text=14,"[""stream=0x1D000;block=0xFB0;text=14""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","……おい。
+","ん？
+","いや…。
+",[],嗯？,,MATCH,7,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+BRIEFING_FILES_BLOCK_01DFB0,15,stream=0x1D000;block=0xFB0;text=15,"[""stream=0x1D000;block=0xFB0;text=15""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0xFB0;block_file=0x1DFB0;text_base=0x1E010;capacity=1260""]","ん？
+","いや…。
+",,[],没什么……,,MATCH,13,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED

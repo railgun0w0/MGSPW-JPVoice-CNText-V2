@@ -1,0 +1,84 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0716A0,0,stream=0x71000;block=0x6A0;text=0,"[""stream=0x71000;block=0x6A0;text=0""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]",,"博士、あんたが研究室で吸っていたのはなんだ？　<R=煙草,シガレット>の
+ようだが火を使ってなかったな。
+","ああ、あれは僕が作った電気式の煙草だ。電子タバコとで
+もいうのかな。
+","[""<R=煙草,シガレット>""]","博士，你在研究室里抽的是什么？看起来像<R=香烟,CIGARETTE>，但没点火。","<R=香烟,CIGARETTE>",MATCH,145,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_0716A0,1,stream=0x71000;block=0x6A0;text=1,"[""stream=0x71000;block=0x6A0;text=1""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","博士、あんたが研究室で吸っていたのはなんだ？　<R=煙草,シガレット>の
+ようだが火を使ってなかったな。
+","ああ、あれは僕が作った電気式の煙草だ。電子タバコとで
+もいうのかな。
+","電子タバコ？
+",[],啊，那是我做的电气式香烟。也可以叫电子烟吧。,,MATCH,101,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,2,stream=0x71000;block=0x6A0;text=2,"[""stream=0x71000;block=0x6A0;text=2""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","ああ、あれは僕が作った電気式の煙草だ。電子タバコとで
+もいうのかな。
+","電子タバコ？
+","そう。フィルタの中の液体を霧状にして、その微粒子を吸
+っていたんだ。
+",[],电子烟？,,MATCH,19,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,3,stream=0x71000;block=0x6A0;text=3,"[""stream=0x71000;block=0x6A0;text=3""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","電子タバコ？
+","そう。フィルタの中の液体を霧状にして、その微粒子を吸
+っていたんだ。
+","あれは霧だったのか。
+",[],对。把滤嘴里的液体雾化，再吸入那些微粒。,,MATCH,101,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,4,stream=0x71000;block=0x6A0;text=4,"[""stream=0x71000;block=0x6A0;text=4""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","そう。フィルタの中の液体を霧状にして、その微粒子を吸
+っていたんだ。
+","あれは霧だったのか。
+","本当は普通の煙草を吸いたいんだけどあの部屋じゃね…。
+",[],原来那是雾。,,MATCH,31,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,5,stream=0x71000;block=0x6A0;text=5,"[""stream=0x71000;block=0x6A0;text=5""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","あれは霧だったのか。
+","本当は普通の煙草を吸いたいんだけどあの部屋じゃね…。
+","煙草の煙は精密機器にとって毒なんだ。回路の接触を邪魔
+したりするんだよ。
+",[],其实我想抽普通香烟，不过在那个房间里不行……,,MATCH,79,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,6,stream=0x71000;block=0x6A0;text=6,"[""stream=0x71000;block=0x6A0;text=6""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","本当は普通の煙草を吸いたいんだけどあの部屋じゃね…。
+","煙草の煙は精密機器にとって毒なんだ。回路の接触を邪魔
+したりするんだよ。
+","でもあの霧ならただの水蒸気だから、タールのような物質
+を含まない。
+",[],香烟的烟雾对精密设备来说可是毒物，会妨碍电路接触。,,MATCH,107,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,7,stream=0x71000;block=0x6A0;text=7,"[""stream=0x71000;block=0x6A0;text=7""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","煙草の煙は精密機器にとって毒なんだ。回路の接触を邪魔
+したりするんだよ。
+","でもあの霧ならただの水蒸気だから、タールのような物質
+を含まない。
+","研究室で吸っても安心ってわけ。
+",[],但那种雾只是水蒸气，不含焦油之类的物质。,,MATCH,98,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,8,stream=0x71000;block=0x6A0;text=8,"[""stream=0x71000;block=0x6A0;text=8""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","でもあの霧ならただの水蒸気だから、タールのような物質
+を含まない。
+","研究室で吸っても安心ってわけ。
+","へえ。
+",[],所以在研究室里抽也没问题。,,MATCH,46,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,9,stream=0x71000;block=0x6A0;text=9,"[""stream=0x71000;block=0x6A0;text=9""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","研究室で吸っても安心ってわけ。
+","へえ。
+","試してみる？
+",[],哦。,,MATCH,10,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,10,stream=0x71000;block=0x6A0;text=10,"[""stream=0x71000;block=0x6A0;text=10""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","へえ。
+","試してみる？
+","いや、俺は<R=葉巻,シガー>でいい。
+",[],要试试吗？,,MATCH,19,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,11,stream=0x71000;block=0x6A0;text=11,"[""stream=0x71000;block=0x6A0;text=11""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","試してみる？
+","いや、俺は<R=葉巻,シガー>でいい。
+","でも…。
+","[""<R=葉巻,シガー>""]","不，我抽<R=雪茄,CIGAR>就行。","<R=雪茄,CIGAR>",MATCH,48,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_0716A0,12,stream=0x71000;block=0x6A0;text=12,"[""stream=0x71000;block=0x6A0;text=12""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","いや、俺は<R=葉巻,シガー>でいい。
+","でも…。
+","代用品でごまかすのは好きじゃない。
+",[],不过……,,MATCH,13,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,13,stream=0x71000;block=0x6A0;text=13,"[""stream=0x71000;block=0x6A0;text=13""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","でも…。
+","代用品でごまかすのは好きじゃない。
+","そう。でも喫煙は遅かれ早かれ世界的に非難されるように
+なる。自分にも他人にも害があるからね。
+",[],我不喜欢用替代品糊弄自己。,,MATCH,52,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,14,stream=0x71000;block=0x6A0;text=14,"[""stream=0x71000;block=0x6A0;text=14""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","代用品でごまかすのは好きじゃない。
+","そう。でも喫煙は遅かれ早かれ世界的に非難されるように
+なる。自分にも他人にも害があるからね。
+","電子タバコも悪くないと思うよ。
+",[],是啊。不过吸烟迟早会在全世界受到谴责，因为既伤害自己，也伤害别人。,,MATCH,137,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,15,stream=0x71000;block=0x6A0;text=15,"[""stream=0x71000;block=0x6A0;text=15""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","そう。でも喫煙は遅かれ早かれ世界的に非難されるように
+なる。自分にも他人にも害があるからね。
+","電子タバコも悪くないと思うよ。
+","ああ、その時になったら考えよう。
+",[],我觉得电子烟也不错。,,MATCH,46,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0716A0,16,stream=0x71000;block=0x6A0;text=16,"[""stream=0x71000;block=0x6A0;text=16""]",1,BRIEFING FILES,"[""stream=0x71000;block=0x6A0;block_file=0x716A0;text_base=0x71704;capacity=1120""]","電子タバコも悪くないと思うよ。
+","ああ、その時になったら考えよう。
+",,[],嗯，等真到了那时候再考虑吧。,,MATCH,49,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

@@ -1,0 +1,47 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_03B000,0,stream=0x3B000;block=0x0;text=0,"[""stream=0x3B000;block=0x0;text=0""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]",,"アマンダ、村へ戻るには三叉路を経由するしかないか？
+","抜け道があるみたい。コーヒー工場の入り口まで戻ったら、
+右側の道の方よ。直接村に戻れる。
+",[],Amanda，回村子只能经过那个三岔路口吗？,,MATCH,76,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B000,1,stream=0x3B000;block=0x0;text=1,"[""stream=0x3B000;block=0x0;text=1""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","アマンダ、村へ戻るには三叉路を経由するしかないか？
+","抜け道があるみたい。コーヒー工場の入り口まで戻ったら、
+右側の道の方よ。直接村に戻れる。
+","それから、そのあたりは警備が強化されているかも。
+",[],好像有条近路。回到咖啡工厂入口后，走右边那条路。可以直接回村子。,,MATCH,131,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B000,2,stream=0x3B000;block=0x0;text=2,"[""stream=0x3B000;block=0x0;text=2""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","抜け道があるみたい。コーヒー工場の入り口まで戻ったら、
+右側の道の方よ。直接村に戻れる。
+","それから、そのあたりは警備が強化されているかも。
+","戦車相手に、派手にやったからな。それで、村に戻ったら
+どうすればいい。
+",[],另外，那一带的警戒可能已经加强了。,,MATCH,73,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B000,3,stream=0x3B000;block=0x0;text=3,"[""stream=0x3B000;block=0x0;text=3""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","それから、そのあたりは警備が強化されているかも。
+","戦車相手に、派手にやったからな。それで、村に戻ったら
+どうすればいい。
+","村の北側にあるバリケードを爆破して。その先から奴らの
+搬送ルートに合流できる。
+",[],毕竟刚才对付坦克闹得挺大。那么，回到村子后该怎么办？,,MATCH,104,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B000,4,stream=0x3B000;block=0x0;text=4,"[""stream=0x3B000;block=0x0;text=4""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","戦車相手に、派手にやったからな。それで、村に戻ったら
+どうすればいい。
+","村の北側にあるバリケードを爆破して。その先から奴らの
+搬送ルートに合流できる。
+","バリケードを破壊…C4が必要だな…。
+",[],把村子北侧的路障炸掉。从那里就能接上他们的运输路线。,,MATCH,116,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B000,5,stream=0x3B000;block=0x0;text=5,"[""stream=0x3B000;block=0x0;text=5""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","村の北側にあるバリケードを爆破して。その先から奴らの
+搬送ルートに合流できる。
+","バリケードを破壊…C4が必要だな…。
+","爆破すれば敵も黙っちゃいない。警戒は避けられないだろ
+う。
+",[],炸掉路障……得用C4……。,,MATCH,51,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B000,6,stream=0x3B000;block=0x0;text=6,"[""stream=0x3B000;block=0x0;text=6""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","バリケードを破壊…C4が必要だな…。
+","爆破すれば敵も黙っちゃいない。警戒は避けられないだろ
+う。
+","細い路地裏なら、連中の目も届かないかも知れない。垣根
+が乗り越えられればいいんだけど。バリケードを破った後
+も油断しないで。
+",[],一旦爆破，敌人肯定不会坐视不管。警戒是躲不过了。,,MATCH,86,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_03B000,7,stream=0x3B000;block=0x0;text=7,"[""stream=0x3B000;block=0x0;text=7""]",1,BRIEFING FILES,"[""stream=0x3B000;block=0x0;block_file=0x3B000;text_base=0x3B040;capacity=828""]","爆破すれば敵も黙っちゃいない。警戒は避けられないだろ
+う。
+","細い路地裏なら、連中の目も届かないかも知れない。垣根
+が乗り越えられればいいんだけど。バリケードを破った後
+も油断しないで。
+",,[],走狭窄的小巷，也许能避开他们的视线。要是能翻过围栏就好了。炸掉路障以后也别大意。,,MATCH,183,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

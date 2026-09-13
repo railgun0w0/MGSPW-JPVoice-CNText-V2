@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_053820,0,stream=0x53000;block=0x820;text=0,"[""stream=0x53000;block=0x820;text=0""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]",,"コスタリカの基地では、随分と丁寧にもてなしてくれたな。
+","…済まなかった。だが、私はどうしても知りたかったんだ。
+",[],哥斯达黎加基地那次，你们可真是“盛情款待”啊。,,MATCH,82,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,1,stream=0x53000;block=0x820;text=1,"[""stream=0x53000;block=0x820;text=1""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","コスタリカの基地では、随分と丁寧にもてなしてくれたな。
+","…済まなかった。だが、私はどうしても知りたかったんだ。
+","ボスの最後の行動をか？
+",[],……抱歉。但我无论如何都想知道。,,MATCH,82,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,2,stream=0x53000;block=0x820;text=2,"[""stream=0x53000;block=0x820;text=2""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","…済まなかった。だが、私はどうしても知りたかったんだ。
+","ボスの最後の行動をか？
+","ああ。私は彼女の思考と行動を入力することで、AIに精神
+を宿らせようとした。
+",[],The Boss最后的行动？,,MATCH,34,26,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,3,stream=0x53000;block=0x820;text=3,"[""stream=0x53000;block=0x820;text=3""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","ボスの最後の行動をか？
+","ああ。私は彼女の思考と行動を入力することで、AIに精神
+を宿らせようとした。
+","だが、彼女の最後の行動だけが理解できなかった。
+",[],嗯。我想通过输入她的思考和行动，让AI中寄宿她的精神。,,MATCH,109,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,4,stream=0x53000;block=0x820;text=4,"[""stream=0x53000;block=0x820;text=4""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","ああ。私は彼女の思考と行動を入力することで、AIに精神
+を宿らせようとした。
+","だが、彼女の最後の行動だけが理解できなかった。
+","スネークイーター作戦のことだな。
+",[],可是，只有她最后的行动我无法理解。,,MATCH,70,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,5,stream=0x53000;block=0x820;text=5,"[""stream=0x53000;block=0x820;text=5""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","だが、彼女の最後の行動だけが理解できなかった。
+","スネークイーター作戦のことだな。
+","公式には、彼女は祖国アメリカを裏切って亡命したことに
+なっている。そしておまえに殺されたと。
+",[],你说的是“食蛇者行动”吧。,,MATCH,49,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,6,stream=0x53000;block=0x820;text=6,"[""stream=0x53000;block=0x820;text=6""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","スネークイーター作戦のことだな。
+","公式には、彼女は祖国アメリカを裏切って亡命したことに
+なっている。そしておまえに殺されたと。
+","…そんなはずがない。ザ・ボスほど、裏切りなどという行
+為から縁遠い人はいない。それは論理的な矛盾だ。
+",[],官方说法是，她背叛祖国美国并叛逃，最后被你杀死。,,MATCH,137,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,7,stream=0x53000;block=0x820;text=7,"[""stream=0x53000;block=0x820;text=7""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","公式には、彼女は祖国アメリカを裏切って亡命したことに
+なっている。そしておまえに殺されたと。
+","…そんなはずがない。ザ・ボスほど、裏切りなどという行
+為から縁遠い人はいない。それは論理的な矛盾だ。
+","…そうだな。
+",[],……不可能。没有人比The Boss离“背叛”这种行为更遥远。这在逻辑上自相矛盾。,,MATCH,149,107,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,8,stream=0x53000;block=0x820;text=8,"[""stream=0x53000;block=0x820;text=8""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","…そんなはずがない。ザ・ボスほど、裏切りなどという行
+為から縁遠い人はいない。それは論理的な矛盾だ。
+","…そうだな。
+","矛盾を内包したAIは、うまく起動しなかった…映画の中で、
+HALが動作不良を起こしたように。
+",[],……是啊。,,MATCH,19,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,9,stream=0x53000;block=0x820;text=9,"[""stream=0x53000;block=0x820;text=9""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","…そうだな。
+","矛盾を内包したAIは、うまく起動しなかった…映画の中で、
+HALが動作不良を起こしたように。
+","論理的にはわかっていた。だが、私は裏付けが欲しかった。
+ザ・ボスの最後の行動を。本当の意図を。どうしても！
+",[],包含这种矛盾的AI无法正常启动……就像电影里的HAL发生故障一样。,,MATCH,127,89,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,10,stream=0x53000;block=0x820;text=10,"[""stream=0x53000;block=0x820;text=10""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","矛盾を内包したAIは、うまく起動しなかった…映画の中で、
+HALが動作不良を起こしたように。
+","論理的にはわかっていた。だが、私は裏付けが欲しかった。
+ザ・ボスの最後の行動を。本当の意図を。どうしても！
+","それを俺から聞き出そうと？
+",[],逻辑上我早就明白。可我需要佐证。The Boss最后的行动，她真正的意图。无论如何都要！,,MATCH,158,116,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,11,stream=0x53000;block=0x820;text=11,"[""stream=0x53000;block=0x820;text=11""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","論理的にはわかっていた。だが、私は裏付けが欲しかった。
+ザ・ボスの最後の行動を。本当の意図を。どうしても！
+","それを俺から聞き出そうと？
+","そうだ。おまえの沈黙が、答えだったということだ。
+",[],所以你想从我这里问出来？,,MATCH,40,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_053820,12,stream=0x53000;block=0x820;text=12,"[""stream=0x53000;block=0x820;text=12""]",1,BRIEFING FILES,"[""stream=0x53000;block=0x820;block_file=0x53820;text_base=0x53874;capacity=1144""]","それを俺から聞き出そうと？
+","そうだ。おまえの沈黙が、答えだったということだ。
+",,[],没错。你的沉默，就是答案。,,MATCH,73,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

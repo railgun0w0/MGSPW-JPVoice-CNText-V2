@@ -1,0 +1,82 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_06D7C0,0,stream=0x6D000;block=0x7C0;text=0,"[""stream=0x6D000;block=0x7C0;text=0""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]",,"ピースウォーカーに使われている二足歩行技術は、東側の
+研究を参考にしている。
+","…いや、正直に言おう。基礎アイデアの大半は盗用なんだ。
+",[],Peace Walker采用的双足步行技术，参考了东方阵营的研究。,,MATCH,113,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,1,stream=0x6D000;block=0x7C0;text=1,"[""stream=0x6D000;block=0x7C0;text=1""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","ピースウォーカーに使われている二足歩行技術は、東側の
+研究を参考にしている。
+","…いや、正直に言おう。基礎アイデアの大半は盗用なんだ。
+","東側…二足歩行…もしや、グラーニン？
+",[],……不，还是说实话吧。基础构想大半都是我盗用来的。,,MATCH,82,75,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,2,stream=0x6D000;block=0x7C0;text=2,"[""stream=0x6D000;block=0x7C0;text=2""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","…いや、正直に言おう。基礎アイデアの大半は盗用なんだ。
+","東側…二足歩行…もしや、グラーニン？
+","彼を知っているのか？
+",[],东方阵营……双足步行……难道是Granin？,,MATCH,55,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,3,stream=0x6D000;block=0x7C0;text=3,"[""stream=0x6D000;block=0x7C0;text=3""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","東側…二足歩行…もしや、グラーニン？
+","彼を知っているのか？
+","ああ。ソ連の研究所で会った。ちょっとした世話にもなっ
+た。
+",[],你认识他？,,MATCH,31,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,4,stream=0x6D000;block=0x7C0;text=4,"[""stream=0x6D000;block=0x7C0;text=4""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","彼を知っているのか？
+","ああ。ソ連の研究所で会った。ちょっとした世話にもなっ
+た。
+","会ったって、君は一体…？
+",[],嗯。我在苏联的研究所见过他，也受过他一点照顾。,,MATCH,86,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,5,stream=0x6D000;block=0x7C0;text=5,"[""stream=0x6D000;block=0x7C0;text=5""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","ああ。ソ連の研究所で会った。ちょっとした世話にもなっ
+た。
+","会ったって、君は一体…？
+","ソ連の兵器を数多く生み出した、グラーニン設計局の局長
+…奴の研究なら、合点がいく。
+",[],见过？你到底……？,,MATCH,37,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,6,stream=0x6D000;block=0x7C0;text=6,"[""stream=0x6D000;block=0x7C0;text=6""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","会ったって、君は一体…？
+","ソ連の兵器を数多く生み出した、グラーニン設計局の局長
+…奴の研究なら、合点がいく。
+","当時僕の研究は、壁にぶつかっていてね…グラーニンのア
+イデアは、そのほとんどを解決してくれたんだ。
+",[],他是Granin设计局的局长，设计过许多苏联武器……如果是他的研究，那就说得通了。,,MATCH,122,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,7,stream=0x6D000;block=0x7C0;text=7,"[""stream=0x6D000;block=0x7C0;text=7""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","ソ連の兵器を数多く生み出した、グラーニン設計局の局長
+…奴の研究なら、合点がいく。
+","当時僕の研究は、壁にぶつかっていてね…グラーニンのア
+イデアは、そのほとんどを解決してくれたんだ。
+","他人の研究結果を参考に自分の研究を発展させるのは、お
+かしくはないんじゃないのか？
+",[],当时我的研究正碰上瓶颈……Granin的构想几乎把那些问题全解决了。,,MATCH,146,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,8,stream=0x6D000;block=0x7C0;text=8,"[""stream=0x6D000;block=0x7C0;text=8""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","当時僕の研究は、壁にぶつかっていてね…グラーニンのア
+イデアは、そのほとんどを解決してくれたんだ。
+","他人の研究結果を参考に自分の研究を発展させるのは、お
+かしくはないんじゃないのか？
+","出典を明らかにすればね。だが、それはできない相談だっ
+た。
+",[],参考别人的研究成果，再发展自己的研究，这并不奇怪吧？,,MATCH,122,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,9,stream=0x6D000;block=0x7C0;text=9,"[""stream=0x6D000;block=0x7C0;text=9""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","他人の研究結果を参考に自分の研究を発展させるのは、お
+かしくはないんじゃないのか？
+","出典を明らかにすればね。だが、それはできない相談だっ
+た。
+","彼の研究は、最高レベルの軍事機密だ。それも敵国の。
+",[],只要注明出处就没问题。但我当时根本不可能这么做。,,MATCH,86,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,10,stream=0x6D000;block=0x7C0;text=10,"[""stream=0x6D000;block=0x7C0;text=10""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","出典を明らかにすればね。だが、それはできない相談だっ
+た。
+","彼の研究は、最高レベルの軍事機密だ。それも敵国の。
+","だから、黙って使ったのか。
+",[],他的研究属于最高级别的军事机密，而且还是敌国的。,,MATCH,76,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,11,stream=0x6D000;block=0x7C0;text=11,"[""stream=0x6D000;block=0x7C0;text=11""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","彼の研究は、最高レベルの軍事機密だ。それも敵国の。
+","だから、黙って使ったのか。
+","僕は学会の連中を見返してやりたかったんだ！　…僕を馬
+鹿にした、あの連中を。
+",[],所以你就瞒着所有人用了？,,MATCH,40,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,12,stream=0x6D000;block=0x7C0;text=12,"[""stream=0x6D000;block=0x7C0;text=12""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","だから、黙って使ったのか。
+","僕は学会の連中を見返してやりたかったんだ！　…僕を馬
+鹿にした、あの連中を。
+","でも、自業自得だね。その弱みをコールドマンに握られた。
+ピースウォーカーの研究をやめるなら、盗用をバラすって。
+",[],我只是想让学界那帮人看看我的本事！……那些一直嘲笑我的家伙。,,MATCH,113,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,13,stream=0x6D000;block=0x7C0;text=13,"[""stream=0x6D000;block=0x7C0;text=13""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","僕は学会の連中を見返してやりたかったんだ！　…僕を馬
+鹿にした、あの連中を。
+","でも、自業自得だね。その弱みをコールドマンに握られた。
+ピースウォーカーの研究をやめるなら、盗用をバラすって。
+","はめられたな、博士。
+",[],不过，也是我自作自受。Coldman抓住了这个把柄，说如果我退出Peace Walker研究，就把盗用的事抖出来。,,MATCH,164,133,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_06D7C0,14,stream=0x6D000;block=0x7C0;text=14,"[""stream=0x6D000;block=0x7C0;text=14""]",1,BRIEFING FILES,"[""stream=0x6D000;block=0x7C0;block_file=0x6D7C0;text_base=0x6D81C;capacity=1320""]","でも、自業自得だね。その弱みをコールドマンに握られた。
+ピースウォーカーの研究をやめるなら、盗用をバラすって。
+","はめられたな、博士。
+",,[],你被他套住了啊，博士。,,MATCH,31,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

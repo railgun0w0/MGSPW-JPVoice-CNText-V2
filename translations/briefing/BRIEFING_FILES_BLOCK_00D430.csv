@@ -1,0 +1,51 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_00D430,0,stream=0xD000;block=0x430;text=0,"[""stream=0xD000;block=0x430;text=0""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]",,"「核兵器を持たず、作らず、持ち込ませず」…これが、日
+本政府が示した『非核三原則』だ。
+","“持ち込ませず”…？　妙だな。日本に寄港する米軍艦の
+中には、核を積んでいるのもあるだろう。
+",[],「不拥有、不制造、不引进核武器」……这就是日本政府提出的『无核三原则』。,,MATCH,128,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00D430,1,stream=0xD000;block=0x430;text=1,"[""stream=0xD000;block=0x430;text=1""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","「核兵器を持たず、作らず、持ち込ませず」…これが、日
+本政府が示した『非核三原則』だ。
+","“持ち込ませず”…？　妙だな。日本に寄港する米軍艦の
+中には、核を積んでいるのもあるだろう。
+","それとも、いちいち海の上で積み替えているとでも言うの
+か？
+",[],“不引进”……？　奇怪。停靠日本港口的美军舰艇里，也有搭载核武器的吧。,,MATCH,137,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00D430,2,stream=0xD000;block=0x430;text=2,"[""stream=0xD000;block=0x430;text=2""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","“持ち込ませず”…？　妙だな。日本に寄港する米軍艦の
+中には、核を積んでいるのもあるだろう。
+","それとも、いちいち海の上で積み替えているとでも言うの
+か？
+","あんたの言うとおりだ、スネーク。だが、少なくとも日本
+政府は認めていない。
+",[],还是说，每次都要在海上把核武器转装到别的船上吗？,,MATCH,86,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00D430,3,stream=0xD000;block=0x430;text=3,"[""stream=0xD000;block=0x430;text=3""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","それとも、いちいち海の上で積み替えているとでも言うの
+か？
+","あんたの言うとおりだ、スネーク。だが、少なくとも日本
+政府は認めていない。
+","核の持ち込みは事前協議の対象だ。アメリカ側から事前協
+議はない。従って、核は持ち込まれていない…それが答弁
+だ。
+",[],你说得对，Snake。不过，至少日本政府并不承认。,,MATCH,110,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00D430,4,stream=0xD000;block=0x430;text=4,"[""stream=0xD000;block=0x430;text=4""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","あんたの言うとおりだ、スネーク。だが、少なくとも日本
+政府は認めていない。
+","核の持ち込みは事前協議の対象だ。アメリカ側から事前協
+議はない。従って、核は持ち込まれていない…それが答弁
+だ。
+","それは…答えになってんのか？
+",[],核武器的引进属于事先协商事项。美方没有提出事先协商。因此，没有核武器被引进……这就是官方答复。,,MATCH,165,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_LOGIC_RESTORED
+BRIEFING_FILES_BLOCK_00D430,5,stream=0xD000;block=0x430;text=5,"[""stream=0xD000;block=0x430;text=5""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","核の持ち込みは事前協議の対象だ。アメリカ側から事前協
+議はない。従って、核は持ち込まれていない…それが答弁
+だ。
+","それは…答えになってんのか？
+","さあな。ただ、日本は核被爆国だ。核に対する拒否反応は、
+あんたが考えている以上に強い。
+",[],这……算是回答吗？,,MATCH,43,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MEANING_DRIFT_IGNORED
+BRIEFING_FILES_BLOCK_00D430,6,stream=0xD000;block=0x430;text=6,"[""stream=0xD000;block=0x430;text=6""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","それは…答えになってんのか？
+","さあな。ただ、日本は核被爆国だ。核に対する拒否反応は、
+あんたが考えている以上に強い。
+","政府もなかなか認めるわけにいかないんだろう。
+",[],谁知道。不过，日本是核爆受害国。对核武器的排斥，比你想象的还要强烈。,,MATCH,128,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_00D430,7,stream=0xD000;block=0x430;text=7,"[""stream=0xD000;block=0x430;text=7""]",1,BRIEFING FILES,"[""stream=0xD000;block=0x430;block_file=0xD430;text_base=0xD470;capacity=872""]","さあな。ただ、日本は核被爆国だ。核に対する拒否反応は、
+あんたが考えている以上に強い。
+","政府もなかなか認めるわけにいかないんだろう。
+",,[],政府大概也很难承认吧。,,MATCH,67,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

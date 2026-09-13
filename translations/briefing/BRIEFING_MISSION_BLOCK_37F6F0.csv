@@ -1,0 +1,67 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_37F6F0,0,stream=0x37F000;block=0x6F0;text=0,"[""stream=0x37F000;block=0x6F0;text=0""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]",,"スネーク、メタルギア<R=ZEKE,ジーク>の調整が完了した。
+これでいつでも出撃可能だ。
+","そうか、ありがとう。
+","[""<R=ZEKE,ジーク>""]","Snake，Metal Gear<R=ZEKE,ZEKE>的调整已经完成。
+现在随时都能出击。
+","<R=ZEKE,ZEKE>",MATCH,116,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_37F6F0,1,stream=0x37F000;block=0x6F0;text=1,"[""stream=0x37F000;block=0x6F0;text=1""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","スネーク、メタルギア<R=ZEKE,ジーク>の調整が完了した。
+これでいつでも出撃可能だ。
+","そうか、ありがとう。
+","礼には及ばない。これでやっと、本当に君の手助けが
+出来るようになったよ。
+",[],"是吗，谢谢。
+",,MATCH,31,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37F6F0,2,stream=0x37F000;block=0x6F0;text=2,"[""stream=0x37F000;block=0x6F0;text=2""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","そうか、ありがとう。
+","礼には及ばない。これでやっと、本当に君の手助けが
+出来るようになったよ。
+","<R=『OUTER OPS』,アウター オプス>に出撃させることもできる。
+",[],"不用谢。这样总算真的能帮上你的忙了。
+",,MATCH,107,55,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37F6F0,3,stream=0x37F000;block=0x6F0;text=3,"[""stream=0x37F000;block=0x6F0;text=3""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","礼には及ばない。これでやっと、本当に君の手助けが
+出来るようになったよ。
+","<R=『OUTER OPS』,アウター オプス>に出撃させることもできる。
+","その場合は、部隊編成の時に
+<R=ZEKE,ジーク>を選んでやればいい。
+","[""<R=『OUTER OPS』,アウター オプス>""]","也可以让它出击<R=『OUTER OPS』,OUTER OPS>。
+","<R=『OUTER OPS』,OUTER OPS>",MATCH,82,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_37F6F0,4,stream=0x37F000;block=0x6F0;text=4,"[""stream=0x37F000;block=0x6F0;text=4""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","<R=『OUTER OPS』,アウター オプス>に出撃させることもできる。
+","その場合は、部隊編成の時に
+<R=ZEKE,ジーク>を選んでやればいい。
+","実地試験のためにも、ぜひとも使ってみてくれ。
+","[""<R=ZEKE,ジーク>""]","这种情况下，只要在编组部队时
+选择<R=ZEKE,ZEKE>就行。
+","<R=ZEKE,ZEKE>",MATCH,89,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_37F6F0,5,stream=0x37F000;block=0x6F0;text=5,"[""stream=0x37F000;block=0x6F0;text=5""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","その場合は、部隊編成の時に
+<R=ZEKE,ジーク>を選んでやればいい。
+","実地試験のためにも、ぜひとも使ってみてくれ。
+","わかった。覚えておこう。
+",[],"也为了进行实地测试，一定要试着用用它。
+",,MATCH,67,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37F6F0,6,stream=0x37F000;block=0x6F0;text=6,"[""stream=0x37F000;block=0x6F0;text=6""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","実地試験のためにも、ぜひとも使ってみてくれ。
+","わかった。覚えておこう。
+","それと、今までどおり、武器の換装や
+記憶板の確認なども可能だ。
+",[],"知道了。我会记住的。
+",,MATCH,37,31,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37F6F0,7,stream=0x37F000;block=0x6F0;text=7,"[""stream=0x37F000;block=0x6F0;text=7""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","わかった。覚えておこう。
+","それと、今までどおり、武器の換装や
+記憶板の確認なども可能だ。
+","実地試験の様子を見て、
+必要に応じて調整してみてくれ。
+",[],"另外，和之前一样，也可以更换武器、
+查看记忆板之类的东西。
+",,MATCH,92,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37F6F0,8,stream=0x37F000;block=0x6F0;text=8,"[""stream=0x37F000;block=0x6F0;text=8""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","それと、今までどおり、武器の換装や
+記憶板の確認なども可能だ。
+","実地試験の様子を見て、
+必要に応じて調整してみてくれ。
+","そうだな。これで全てが終わったわけじゃない。
+",[],"看看实地测试的情况，
+再根据需要进行调整吧。
+",,MATCH,80,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_37F6F0,9,stream=0x37F000;block=0x6F0;text=9,"[""stream=0x37F000;block=0x6F0;text=9""]",1,BRIEFING MISSION,"[""stream=0x37F000;block=0x6F0;block_file=0x37F6F0;text_base=0x37F738;capacity=780""]","実地試験の様子を見て、
+必要に応じて調整してみてくれ。
+","そうだな。これで全てが終わったわけじゃない。
+",,[],"是啊。这还不代表一切都结束了。
+",,MATCH,67,46,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

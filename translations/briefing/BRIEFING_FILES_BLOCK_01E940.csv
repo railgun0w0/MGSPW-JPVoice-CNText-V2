@@ -1,0 +1,9 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_01E940,0,stream=0x1E000;block=0x940;text=0,"[""stream=0x1E000;block=0x940;text=0""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0x940;block_file=0x1E940;text_base=0x1E968;capacity=164""]",,"敵の通り道にクレイモアを仕掛けるのも手だ。
+","核発射を阻止するためにも、どんな手を使ってもボスを守
+りきるんだ！
+",[],在敌人的必经之路上布置阔剑地雷也是个办法。,,MATCH,64,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_01E940,1,stream=0x1E000;block=0x940;text=1,"[""stream=0x1E000;block=0x940;text=1""]",1,BRIEFING FILES,"[""stream=0x1E000;block=0x940;block_file=0x1E940;text_base=0x1E968;capacity=164""]","敵の通り道にクレイモアを仕掛けるのも手だ。
+","核発射を阻止するためにも、どんな手を使ってもボスを守
+りきるんだ！
+",,[],为了阻止核弹发射，不管用什么手段都要保护好Boss！,,MATCH,98,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROLE_REVERSAL_JPN_USED

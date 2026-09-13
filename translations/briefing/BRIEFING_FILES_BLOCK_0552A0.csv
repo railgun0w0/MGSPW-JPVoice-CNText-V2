@@ -1,0 +1,103 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0552A0,0,stream=0x55000;block=0x2A0;text=0,"[""stream=0x55000;block=0x2A0;text=0""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]",,"ここに来る前は<R=高等研究企画局,ARPA>にいたのか。
+","ああ。当時仕事としてAIの研究ができそうなのはあそこぐ
+らいだったから。
+","[""<R=高等研究企画局,ARPA>""]","来这里之前，你在<R=高级研究计划局,ARPA>吗？","<R=高级研究计划局,ARPA>",MATCH,70,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_0552A0,1,stream=0x55000;block=0x2A0;text=1,"[""stream=0x55000;block=0x2A0;text=1""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","ここに来る前は<R=高等研究企画局,ARPA>にいたのか。
+","ああ。当時仕事としてAIの研究ができそうなのはあそこぐ
+らいだったから。
+","その前は？
+",[],嗯。当时能把AI研究当作工作来做的地方，大概也只有那里。,,MATCH,103,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,2,stream=0x55000;block=0x2A0;text=2,"[""stream=0x55000;block=0x2A0;text=2""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","ああ。当時仕事としてAIの研究ができそうなのはあそこぐ
+らいだったから。
+","その前は？
+","私は元々、<R=アメリカ航空宇宙局,NASA>にいた。そこで彼女と知り
+合った。
+",[],那之前呢？,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,3,stream=0x55000;block=0x2A0;text=3,"[""stream=0x55000;block=0x2A0;text=3""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","その前は？
+","私は元々、<R=アメリカ航空宇宙局,NASA>にいた。そこで彼女と知り
+合った。
+","そしてボスを宇宙に…。
+","[""<R=アメリカ航空宇宙局,NASA>""]","我原本在<R=美国国家航空航天局,NASA>。我就是在那里认识她的。","<R=美国国家航空航天局,NASA>",MATCH,101,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_0552A0,4,stream=0x55000;block=0x2A0;text=4,"[""stream=0x55000;block=0x2A0;text=4""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","私は元々、<R=アメリカ航空宇宙局,NASA>にいた。そこで彼女と知り
+合った。
+","そしてボスを宇宙に…。
+","…そう。あの事件がきっかけで、私は航空宇宙工学から離
+れた。
+",[],然后把The Boss送上宇宙……。,,MATCH,34,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,5,stream=0x55000;block=0x2A0;text=5,"[""stream=0x55000;block=0x2A0;text=5""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","そしてボスを宇宙に…。
+","…そう。あの事件がきっかけで、私は航空宇宙工学から離
+れた。
+","生身の人間にとって、宇宙はあまりに危険な場所。だから
+私は、AIの早急な開発が必要だと感じた。
+",[],……是啊。正是那件事让我离开了航空航天工程。,,MATCH,89,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,6,stream=0x55000;block=0x2A0;text=6,"[""stream=0x55000;block=0x2A0;text=6""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","…そう。あの事件がきっかけで、私は航空宇宙工学から離
+れた。
+","生身の人間にとって、宇宙はあまりに危険な場所。だから
+私は、AIの早急な開発が必要だと感じた。
+","結局、その後はロケットの安全性も向上し、人類も月面ま
+で行ってしまったけど…。
+",[],对活生生的人类来说，宇宙实在太危险了。所以我觉得必须尽快开发AI。,,MATCH,136,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,7,stream=0x55000;block=0x2A0;text=7,"[""stream=0x55000;block=0x2A0;text=7""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","生身の人間にとって、宇宙はあまりに危険な場所。だから
+私は、AIの早急な開発が必要だと感じた。
+","結局、その後はロケットの安全性も向上し、人類も月面ま
+で行ってしまったけど…。
+","いずれにしても冷戦の徒花だ。早い話、ロケットに核弾頭
+を積めば核ミサイルだから。
+",[],不过后来火箭的安全性也提高了，人类甚至登上了月球……。,,MATCH,116,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,8,stream=0x55000;block=0x2A0;text=8,"[""stream=0x55000;block=0x2A0;text=8""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","結局、その後はロケットの安全性も向上し、人類も月面ま
+で行ってしまったけど…。
+","いずれにしても冷戦の徒花だ。早い話、ロケットに核弾頭
+を積めば核ミサイルだから。
+","ゆえに宇宙開発でイニシアチブを取ることは、軍事的な示
+威行為でもあった。
+",[],不管怎样，那都是冷战催生的虚花。说到底，只要给火箭装上核弹头，它就成了核导弹。,,MATCH,119,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,9,stream=0x55000;block=0x2A0;text=9,"[""stream=0x55000;block=0x2A0;text=9""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","いずれにしても冷戦の徒花だ。早い話、ロケットに核弾頭
+を積めば核ミサイルだから。
+","ゆえに宇宙開発でイニシアチブを取ることは、軍事的な示
+威行為でもあった。
+","その膨大な予算負担に米ソ両国は耐えられなかった。
+",[],所以，在航天开发上取得主导权，同时也是一种军事示威。,,MATCH,107,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,10,stream=0x55000;block=0x2A0;text=10,"[""stream=0x55000;block=0x2A0;text=10""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","ゆえに宇宙開発でイニシアチブを取ることは、軍事的な示
+威行為でもあった。
+","その膨大な予算負担に米ソ両国は耐えられなかった。
+","そう。キューバ危機の衝撃やベトナム問題もあった。そし
+て<R=緊張緩和,デタント>…。
+",[],美苏两国都承受不住那种庞大的预算负担。,,MATCH,73,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,11,stream=0x55000;block=0x2A0;text=11,"[""stream=0x55000;block=0x2A0;text=11""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","その膨大な予算負担に米ソ両国は耐えられなかった。
+","そう。キューバ危機の衝撃やベトナム問題もあった。そし
+て<R=緊張緩和,デタント>…。
+","月面着陸でソ連を大きく引き離したアメリカは、72年でア
+ポロ計画を終了させる。
+","[""<R=緊張緩和,デタント>""]","没错。还有古巴危机的冲击和越南问题。然后是<R=紧张缓和,DÉTENTE>……。","<R=紧张缓和,DÉTENTE>",MATCH,118,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_0552A0,12,stream=0x55000;block=0x2A0;text=12,"[""stream=0x55000;block=0x2A0;text=12""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","そう。キューバ危機の衝撃やベトナム問題もあった。そし
+て<R=緊張緩和,デタント>…。
+","月面着陸でソ連を大きく引き離したアメリカは、72年でア
+ポロ計画を終了させる。
+","同時期に<R=高等研究企画局,ARPA>は<R=国防高等研究企画局,DARPA>に改称され、
+組織も縮小した。
+",[],美国通过登月大幅甩开苏联后，在1972年结束了阿波罗计划。,,MATCH,112,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,13,stream=0x55000;block=0x2A0;text=13,"[""stream=0x55000;block=0x2A0;text=13""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","月面着陸でソ連を大きく引き離したアメリカは、72年でア
+ポロ計画を終了させる。
+","同時期に<R=高等研究企画局,ARPA>は<R=国防高等研究企画局,DARPA>に改称され、
+組織も縮小した。
+","AI研究の続行も困難になった。私にとってコールドマンの
+誘いは渡りに船だった。彼女のデータを集めさせることも
+できた。
+","[""<R=高等研究企画局,ARPA>"", ""<R=国防高等研究企画局,DARPA>""]","同一时期，<R=高级研究计划局,ARPA>更名为<R=国防高级研究计划局,DARPA>，组织规模也被缩小。","<R=高级研究计划局,ARPA> | <R=国防高级研究计划局,DARPA>",MATCH,126,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_0552A0,14,stream=0x55000;block=0x2A0;text=14,"[""stream=0x55000;block=0x2A0;text=14""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","同時期に<R=高等研究企画局,ARPA>は<R=国防高等研究企画局,DARPA>に改称され、
+組織も縮小した。
+","AI研究の続行も困難になった。私にとってコールドマンの
+誘いは渡りに船だった。彼女のデータを集めさせることも
+できた。
+","その結果が今回の事件か。
+",[],AI研究也变得难以继续。对我来说，Coldman的邀请正是及时雨，也能让他们替我收集她的数据。,,MATCH,170,123,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,15,stream=0x55000;block=0x2A0;text=15,"[""stream=0x55000;block=0x2A0;text=15""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","AI研究の続行も困難になった。私にとってコールドマンの
+誘いは渡りに船だった。彼女のデータを集めさせることも
+できた。
+","その結果が今回の事件か。
+","だが私達は、彼女に平和の尊さを教えられた。
+",[],结果就变成了这次事件。,,MATCH,37,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0552A0,16,stream=0x55000;block=0x2A0;text=16,"[""stream=0x55000;block=0x2A0;text=16""]",1,BRIEFING FILES,"[""stream=0x55000;block=0x2A0;block_file=0x552A0;text_base=0x55304;capacity=1608""]","その結果が今回の事件か。
+","だが私達は、彼女に平和の尊さを教えられた。
+",,[],但我们也从她那里学到了和平的可贵。,,MATCH,64,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

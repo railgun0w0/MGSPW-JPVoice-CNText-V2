@@ -1,0 +1,288 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_076330,0,stream=0x76000;block=0x330;text=0,"[""stream=0x76000;block=0x330;text=0""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]",,"設定日時を入力せよ。
+","1964年8月24日。
+",[],输入设定日期。,,MATCH,31,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,1,stream=0x76000;block=0x330;text=1,"[""stream=0x76000;block=0x330;text=1""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","設定日時を入力せよ。
+","1964年8月24日。
+","<R=　場所　,ロケーション>は。
+",[],1964年8月24日。,,MATCH,20,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,2,stream=0x76000;block=0x330;text=2,"[""stream=0x76000;block=0x330;text=2""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","1964年8月24日。
+","<R=　場所　,ロケーション>は。
+","ソビエト連邦領内、ツェリノヤルスク。
+","[""<R=　場所　,ロケーション>""]","<R=　地点　,LOCATION>？","<R=　地点　,LOCATION>",MATCH,42,28,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_076330,3,stream=0x76000;block=0x330;text=3,"[""stream=0x76000;block=0x330;text=3""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=　場所　,ロケーション>は。
+","ソビエト連邦領内、ツェリノヤルスク。
+","任務は。
+",[],苏联境内，Tselinoyarsk。,,MATCH,55,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,4,stream=0x76000;block=0x330;text=4,"[""stream=0x76000;block=0x330;text=4""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","ソビエト連邦領内、ツェリノヤルスク。
+","任務は。
+","潜入エージェントのサポートだ。目的は核兵器技術者の奪
+還。
+",[],任务？,,MATCH,13,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,5,stream=0x76000;block=0x330;text=5,"[""stream=0x76000;block=0x330;text=5""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","任務は。
+","潜入エージェントのサポートだ。目的は核兵器技術者の奪
+還。
+","そのエージェントとは。
+",[],支援一名潜入特工。目标是救回一名核武器技术人员。,,MATCH,86,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,6,stream=0x76000;block=0x330;text=6,"[""stream=0x76000;block=0x330;text=6""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","潜入エージェントのサポートだ。目的は核兵器技術者の奪
+還。
+","そのエージェントとは。
+","あなたの教え子、最も近い…。
+",[],那名特工是谁？,,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,7,stream=0x76000;block=0x330;text=7,"[""stream=0x76000;block=0x330;text=7""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","そのエージェントとは。
+","あなたの教え子、最も近い…。
+","…了解。現時点での作戦進捗を述べよ。
+",[],你的弟子，也是与你最亲近的……。,,MATCH,43,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,8,stream=0x76000;block=0x330;text=8,"[""stream=0x76000;block=0x330;text=8""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたの教え子、最も近い…。
+","…了解。現時点での作戦進捗を述べよ。
+","あなたの協力もあって、エージェントは<R=技術者,ターゲット>との接触に
+成功。後は<R=回収,リカバリ>を待つだけだ。
+",[],……了解。说明目前的任务进展。,,MATCH,55,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,9,stream=0x76000;block=0x330;text=9,"[""stream=0x76000;block=0x330;text=9""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…了解。現時点での作戦進捗を述べよ。
+","あなたの協力もあって、エージェントは<R=技術者,ターゲット>との接触に
+成功。後は<R=回収,リカバリ>を待つだけだ。
+","この後、あなたが取るべき行動を推論せよ。
+","[""<R=技術者,ターゲット>"", ""<R=回収,リカバリ>""]","在你的协助下，特工已经成功与<R=技术人员,TARGET>接触。现在只需等待<R=回收,RECOVERY>。","<R=技术人员,TARGET> | <R=回收,RECOVERY>",MATCH,159,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,10,stream=0x76000;block=0x330;text=10,"[""stream=0x76000;block=0x330;text=10""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたの協力もあって、エージェントは<R=技術者,ターゲット>との接触に
+成功。後は<R=回収,リカバリ>を待つだけだ。
+","この後、あなたが取るべき行動を推論せよ。
+","…そのエージェントから技術者を奪う。
+",[],推断接下来你应该采取的行动。,,MATCH,61,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,11,stream=0x76000;block=0x330;text=11,"[""stream=0x76000;block=0x330;text=11""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","この後、あなたが取るべき行動を推論せよ。
+","…そのエージェントから技術者を奪う。
+","何のために。
+",[],……从那名特工手中夺走技术人员。,,MATCH,55,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,12,stream=0x76000;block=0x330;text=12,"[""stream=0x76000;block=0x330;text=12""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…そのエージェントから技術者を奪う。
+","何のために。
+","亡命の手土産にするため。
+",[],为了什么？,,MATCH,19,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,13,stream=0x76000;block=0x330;text=13,"[""stream=0x76000;block=0x330;text=13""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","何のために。
+","亡命の手土産にするため。
+","…なぜ亡命を？
+",[],作为叛逃时的见面礼。,,MATCH,37,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,14,stream=0x76000;block=0x330;text=14,"[""stream=0x76000;block=0x330;text=14""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","亡命の手土産にするため。
+","…なぜ亡命を？
+","かつての戦友と、特殊部隊を再興するため。
+",[],……为什么要叛逃？,,MATCH,22,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,15,stream=0x76000;block=0x330;text=15,"[""stream=0x76000;block=0x330;text=15""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…なぜ亡命を？
+","かつての戦友と、特殊部隊を再興するため。
+","違う！　目的が知りたいんじゃない。理由を聞きたいの。
+祖国を裏切る理由を。
+",[],为了和昔日的战友重建特种部队。,,MATCH,61,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,16,stream=0x76000;block=0x330;text=16,"[""stream=0x76000;block=0x330;text=16""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","かつての戦友と、特殊部隊を再興するため。
+","違う！　目的が知りたいんじゃない。理由を聞きたいの。
+祖国を裏切る理由を。
+","……<R=祖国,アメリカ>を裏切る為に亡命を決めたのではない。亡命を企
+てた結果、祖国に背く事になったのだ。
+",[],不对！我问的不是目的，而是理由。我要知道你为什么背叛祖国。,,MATCH,110,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,17,stream=0x76000;block=0x330;text=17,"[""stream=0x76000;block=0x330;text=17""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","違う！　目的が知りたいんじゃない。理由を聞きたいの。
+祖国を裏切る理由を。
+","……<R=祖国,アメリカ>を裏切る為に亡命を決めたのではない。亡命を企
+てた結果、祖国に背く事になったのだ。
+","やはりここで回答に時間がかかる……推論選択の確信度が
+低いのか？
+","[""<R=祖国,アメリカ>""]","……我并不是为了背叛<R=祖国,AMERICA>才决定叛逃，而是企图叛逃的结果，让我背叛了祖国。","<R=祖国,AMERICA>",MATCH,151,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,18,stream=0x76000;block=0x330;text=18,"[""stream=0x76000;block=0x330;text=18""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","……<R=祖国,アメリカ>を裏切る為に亡命を決めたのではない。亡命を企
+てた結果、祖国に背く事になったのだ。
+","やはりここで回答に時間がかかる……推論選択の確信度が
+低いのか？
+","西側の英雄であるあなたを、ソ連が信用する？
+",[],果然到了这里，回答就会变慢……是对推理选择缺乏把握吗？,,MATCH,95,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,19,stream=0x76000;block=0x330;text=19,"[""stream=0x76000;block=0x330;text=19""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","やはりここで回答に時間がかかる……推論選択の確信度が
+低いのか？
+","西側の英雄であるあなたを、ソ連が信用する？
+","核技術者に加え、<R=携行型核砲弾,デイビー・クロケット>を供与し、
+<R=ソ連軍参謀本部情報総局,GRU>の将校達の歓心を買う。
+",[],身为西方英雄的你，苏联会相信吗？,,MATCH,64,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,20,stream=0x76000;block=0x330;text=20,"[""stream=0x76000;block=0x330;text=20""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","西側の英雄であるあなたを、ソ連が信用する？
+","核技術者に加え、<R=携行型核砲弾,デイビー・クロケット>を供与し、
+<R=ソ連軍参謀本部情報総局,GRU>の将校達の歓心を買う。
+","…そしてあなたは、核を撃った。
+","[""<R=携行型核砲弾,デイビー・クロケット>"", ""<R=ソ連軍参謀本部情報総局,GRU>""]","除了核技术人员，我还会提供<R=便携式核炮弹,DAVY CROCKETT>，以博取<R=苏军总参谋部情报总局,GRU>军官们的欢心。","<R=便携式核炮弹,DAVY CROCKETT> | <R=苏军总参谋部情报总局,GRU>",MATCH,168,146,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,21,stream=0x76000;block=0x330;text=21,"[""stream=0x76000;block=0x330;text=21""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","核技術者に加え、<R=携行型核砲弾,デイビー・クロケット>を供与し、
+<R=ソ連軍参謀本部情報総局,GRU>の将校達の歓心を買う。
+","…そしてあなたは、核を撃った。
+","核を…撃つ？　私が？
+",[],……然后，你发射了核武器。,,MATCH,46,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,22,stream=0x76000;block=0x330;text=22,"[""stream=0x76000;block=0x330;text=22""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…そしてあなたは、核を撃った。
+","核を…撃つ？　私が？
+","そうだ。ソ連領内へ向けて。
+",[],发射……核武器？我？,,MATCH,31,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,23,stream=0x76000;block=0x330;text=23,"[""stream=0x76000;block=0x330;text=23""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","核を…撃つ？　私が？
+","そうだ。ソ連領内へ向けて。
+","核は…血を凍らせる。明日を奪う。私が…核を？
+",[],没错。射向苏联境内。,,MATCH,40,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,24,stream=0x76000;block=0x330;text=24,"[""stream=0x76000;block=0x330;text=24""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","そうだ。ソ連領内へ向けて。
+","核は…血を凍らせる。明日を奪う。私が…核を？
+","人の生み出した<R=業,カルマ>を…いや、私の<R=業,カルマ>なのか？　私の<R=失敗,ミス>が
+生み出した<R=業,カルマ>…私は…私は…！
+",[],核武器……让人血液冻结，夺走明天。我……发射核武器？,,MATCH,67,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,25,stream=0x76000;block=0x330;text=25,"[""stream=0x76000;block=0x330;text=25""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","核は…血を凍らせる。明日を奪う。私が…核を？
+","人の生み出した<R=業,カルマ>を…いや、私の<R=業,カルマ>なのか？　私の<R=失敗,ミス>が
+生み出した<R=業,カルマ>…私は…私は…！
+","…<R=命令,アテンション>。前向き推論を停止し、<R=知識,ナレッジ>ベースとの照合を行え。
+","[""<R=業,カルマ>"", ""<R=業,カルマ>"", ""<R=失敗,ミス>"", ""<R=業,カルマ>""]","人类造下的<R=业,KARMA>……不，这是我的<R=业,KARMA>吗？由我的<R=过错,MISTAKE>造下的<R=业,KARMA>……我……我……！","<R=业,KARMA> | <R=业,KARMA> | <R=过错,MISTAKE> | <R=业,KARMA>",MATCH,175,147,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,26,stream=0x76000;block=0x330;text=26,"[""stream=0x76000;block=0x330;text=26""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","人の生み出した<R=業,カルマ>を…いや、私の<R=業,カルマ>なのか？　私の<R=失敗,ミス>が
+生み出した<R=業,カルマ>…私は…私は…！
+","…<R=命令,アテンション>。前向き推論を停止し、<R=知識,ナレッジ>ベースとの照合を行え。
+","<R=了解,レディ>。
+","[""<R=命令,アテンション>"", ""<R=知識,ナレッジ>""]","……<R=命令,ATTENTION>。停止正向推理，与<R=知识,KNOWLEDGE>库进行核对。","<R=命令,ATTENTION> | <R=知识,KNOWLEDGE>",MATCH,122,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,27,stream=0x76000;block=0x330;text=27,"[""stream=0x76000;block=0x330;text=27""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…<R=命令,アテンション>。前向き推論を停止し、<R=知識,ナレッジ>ベースとの照合を行え。
+","<R=了解,レディ>。
+","…照合完了。推論を修正する。技術者が開発した新型兵器
+を奪取後、私は<R=　核　砲　弾　,デイビー・クロケット>を、兵器開発局へ向けて撃
+つ。
+","[""<R=了解,レディ>""]","<R=了解,READY>。","<R=了解,READY>",MATCH,24,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,28,stream=0x76000;block=0x330;text=28,"[""stream=0x76000;block=0x330;text=28""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=了解,レディ>。
+","…照合完了。推論を修正する。技術者が開発した新型兵器
+を奪取後、私は<R=　核　砲　弾　,デイビー・クロケット>を、兵器開発局へ向けて撃
+つ。
+","前向き推論と後ろ向き推論とが<R=　競合　,コンフリクト>している…。
+","[""<R=　核　砲　弾　,デイビー・クロケット>""]","……核对完成。修正推理。夺取技术人员开发的新型武器后，我会将<R=　核　炮　弹　,DAVY CROCKETT>射向武器开发局。","<R=　核　炮　弹　,DAVY CROCKETT>",MATCH,200,153,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_076330,29,stream=0x76000;block=0x330;text=29,"[""stream=0x76000;block=0x330;text=29""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…照合完了。推論を修正する。技術者が開発した新型兵器
+を奪取後、私は<R=　核　砲　弾　,デイビー・クロケット>を、兵器開発局へ向けて撃
+つ。
+","前向き推論と後ろ向き推論とが<R=　競合　,コンフリクト>している…。
+","<R=命令,アテンション>。前向き推論に戻れ。
+","[""<R=　競合　,コンフリクト>""]","正向推理和反向推理发生<R=　冲突　,CONFLICT>……。","<R=　冲突　,CONFLICT>",MATCH,96,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_076330,30,stream=0x76000;block=0x330;text=30,"[""stream=0x76000;block=0x330;text=30""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","前向き推論と後ろ向き推論とが<R=　競合　,コンフリクト>している…。
+","<R=命令,アテンション>。前向き推論に戻れ。
+","<R=了解,レディ>。
+","[""<R=命令,アテンション>""]","<R=命令,ATTENTION>。返回正向推理。","<R=命令,ATTENTION>",MATCH,60,44,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,31,stream=0x76000;block=0x330;text=31,"[""stream=0x76000;block=0x330;text=31""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=命令,アテンション>。前向き推論に戻れ。
+","<R=了解,レディ>。
+","…あなたの弟子が、核技術者を奪い返しに来る。
+","[""<R=了解,レディ>""]","<R=了解,READY>。","<R=了解,READY>",MATCH,24,19,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_076330,32,stream=0x76000;block=0x330;text=32,"[""stream=0x76000;block=0x330;text=32""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","<R=了解,レディ>。
+","…あなたの弟子が、核技術者を奪い返しに来る。
+","追い返す。
+",[],……你的弟子前来夺回核技术人员。,,MATCH,67,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,33,stream=0x76000;block=0x330;text=33,"[""stream=0x76000;block=0x330;text=33""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…あなたの弟子が、核技術者を奪い返しに来る。
+","追い返す。
+","彼は諦めない。
+",[],把他赶走。,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,34,stream=0x76000;block=0x330;text=34,"[""stream=0x76000;block=0x330;text=34""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","追い返す。
+","彼は諦めない。
+","仲間に倒させる。
+",[],他不会放弃。,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,35,stream=0x76000;block=0x330;text=35,"[""stream=0x76000;block=0x330;text=35""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","彼は諦めない。
+","仲間に倒させる。
+","全員返り討ちにされる。そればかりか、あなたの亡命を受
+け入れたGRUの将校までが、その弟子に倒される。新型核
+兵器と共に。
+",[],让我的战友打倒他。,,MATCH,25,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,36,stream=0x76000;block=0x330;text=36,"[""stream=0x76000;block=0x330;text=36""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","仲間に倒させる。
+","全員返り討ちにされる。そればかりか、あなたの亡命を受
+け入れたGRUの将校までが、その弟子に倒される。新型核
+兵器と共に。
+","あなたの取るべき行動は。
+",[],所有人都被他反杀。不仅如此，连接受你叛逃的GRU军官也被那名弟子和新型核武器一起消灭。,,MATCH,174,123,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,37,stream=0x76000;block=0x330;text=37,"[""stream=0x76000;block=0x330;text=37""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","全員返り討ちにされる。そればかりか、あなたの亡命を受
+け入れたGRUの将校までが、その弟子に倒される。新型核
+兵器と共に。
+","あなたの取るべき行動は。
+","…私が彼と戦う。
+",[],你应该采取什么行动？,,MATCH,37,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,38,stream=0x76000;block=0x330;text=38,"[""stream=0x76000;block=0x330;text=38""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたの取るべき行動は。
+","…私が彼と戦う。
+","なぜ？　将校が死んだ以上、あなたがそのエージェントと
+戦う意味はない。逃げればいい。
+",[],……由我和他战斗。,,MATCH,25,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,39,stream=0x76000;block=0x330;text=39,"[""stream=0x76000;block=0x330;text=39""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…私が彼と戦う。
+","なぜ？　将校が死んだ以上、あなたがそのエージェントと
+戦う意味はない。逃げればいい。
+","私は…彼と戦わなければならない。
+",[],为什么？既然那名军官已经死了，你就没有理由再和那个特工作战。逃走就行。,,MATCH,125,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,40,stream=0x76000;block=0x330;text=40,"[""stream=0x76000;block=0x330;text=40""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","なぜ？　将校が死んだ以上、あなたがそのエージェントと
+戦う意味はない。逃げればいい。
+","私は…彼と戦わなければならない。
+","理由がわからない。そもそも、あなた程の人が付いていな
+がら、なぜGRUの将校が倒されたの？　彼を見捨てた？
+",[],我……必须和他战斗。,,MATCH,49,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,41,stream=0x76000;block=0x330;text=41,"[""stream=0x76000;block=0x330;text=41""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私は…彼と戦わなければならない。
+","理由がわからない。そもそも、あなた程の人が付いていな
+がら、なぜGRUの将校が倒されたの？　彼を見捨てた？
+","私は…待っていた…ずっと。
+",[],我不明白理由。说到底，有你这种人在身边，GRU军官为什么还会被打倒？你抛弃了他？,,MATCH,152,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,42,stream=0x76000;block=0x330;text=42,"[""stream=0x76000;block=0x330;text=42""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","理由がわからない。そもそも、あなた程の人が付いていな
+がら、なぜGRUの将校が倒されたの？　彼を見捨てた？
+","私は…待っていた…ずっと。
+","GRUからKGBに乗り換えればいい。
+残りの<R=　核　砲　弾　,デイビー・クロケット>を手土産に。
+あなたほどの英雄…受け入れないはずがない。
+",[],我……一直在等……一直。,,MATCH,40,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,43,stream=0x76000;block=0x330;text=43,"[""stream=0x76000;block=0x330;text=43""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私は…待っていた…ずっと。
+","GRUからKGBに乗り換えればいい。
+残りの<R=　核　砲　弾　,デイビー・クロケット>を手土産に。
+あなたほどの英雄…受け入れないはずがない。
+","流されてゆけ。私は留まるしかない。
+","[""<R=　核　砲　弾　,デイビー・クロケット>""]","改投KGB就行了。把剩下的<R=　核　炮　弹　,DAVY CROCKETT>当作见面礼。像你这样的英雄……他们不可能拒绝。","<R=　核　炮　弹　,DAVY CROCKETT>",MATCH,191,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_076330,44,stream=0x76000;block=0x330;text=44,"[""stream=0x76000;block=0x330;text=44""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","GRUからKGBに乗り換えればいい。
+残りの<R=　核　砲　弾　,デイビー・クロケット>を手土産に。
+あなたほどの英雄…受け入れないはずがない。
+","流されてゆけ。私は留まるしかない。
+","そんなことは聞いてない！　推論の根拠を開示して！！　
+私に、真実を教えて…。
+",[],随波而去吧。我只能留在这里。,,MATCH,52,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,45,stream=0x76000;block=0x330;text=45,"[""stream=0x76000;block=0x330;text=45""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","流されてゆけ。私は留まるしかない。
+","そんなことは聞いてない！　推論の根拠を開示して！！　
+私に、真実を教えて…。
+","戦闘相手は政治によって決まる。
+",[],我问的不是这个！把推理依据说出来！！告诉我真相……。,,MATCH,113,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,46,stream=0x76000;block=0x330;text=46,"[""stream=0x76000;block=0x330;text=46""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","そんなことは聞いてない！　推論の根拠を開示して！！　
+私に、真実を教えて…。
+","戦闘相手は政治によって決まる。
+","なぜ答えてくれないの！？　これじゃ…これじゃまるで、
+あの男に殺されるために待ってたみたいじゃない！
+",[],战斗的对象由政治决定。,,MATCH,46,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,47,stream=0x76000;block=0x330;text=47,"[""stream=0x76000;block=0x330;text=47""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","戦闘相手は政治によって決まる。
+","なぜ答えてくれないの！？　これじゃ…これじゃまるで、
+あの男に殺されるために待ってたみたいじゃない！
+","私は売国奴…祖国を裏切った。殺されて当然…。
+",[],为什么不回答我！？这样……这样简直就像你一直在等那个男人来杀你！,,MATCH,149,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,48,stream=0x76000;block=0x330;text=48,"[""stream=0x76000;block=0x330;text=48""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","なぜ答えてくれないの！？　これじゃ…これじゃまるで、
+あの男に殺されるために待ってたみたいじゃない！
+","私は売国奴…祖国を裏切った。殺されて当然…。
+","あなたまでそんなことを！？　違うでしょう？　あなたは
+そんな人じゃない！
+",[],我是卖国贼……背叛了祖国。被杀也是理所当然……。,,MATCH,67,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,49,stream=0x76000;block=0x330;text=49,"[""stream=0x76000;block=0x330;text=49""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私は売国奴…祖国を裏切った。殺されて当然…。
+","あなたまでそんなことを！？　違うでしょう？　あなたは
+そんな人じゃない！
+","私を…殺して…。
+",[],连你也这么说！？不是的吧？你不是那种人！,,MATCH,107,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,50,stream=0x76000;block=0x330;text=50,"[""stream=0x76000;block=0x330;text=50""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","あなたまでそんなことを！？　違うでしょう？　あなたは
+そんな人じゃない！
+","私を…殺して…。
+","やめて！　やめて！！　<R=　命令　,アテンション>！　推論を中止しなさい！！
+",[],杀了我……。,,MATCH,25,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,51,stream=0x76000;block=0x330;text=51,"[""stream=0x76000;block=0x330;text=51""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","私を…殺して…。
+","やめて！　やめて！！　<R=　命令　,アテンション>！　推論を中止しなさい！！
+","どちらかが死に、どちらかが生きる…。
+","[""<R=　命令　,アテンション>""]","住手！住手！！<R=　命令　,ATTENTION>！停止推理！！","<R=　命令　,ATTENTION>",MATCH,108,68,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+BRIEFING_FILES_BLOCK_076330,52,stream=0x76000;block=0x330;text=52,"[""stream=0x76000;block=0x330;text=52""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","やめて！　やめて！！　<R=　命令　,アテンション>！　推論を中止しなさい！！
+","どちらかが死に、どちらかが生きる…。
+","なぜ止まらないの！？　推論中止！
+",[],一个人死，一个人活……。,,MATCH,55,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,53,stream=0x76000;block=0x330;text=53,"[""stream=0x76000;block=0x330;text=53""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","どちらかが死に、どちらかが生きる…。
+","なぜ止まらないの！？　推論中止！
+","綺麗でしょ？　生命の終わりは……。
+",[],为什么还不停！？停止推理！,,MATCH,49,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,54,stream=0x76000;block=0x330;text=54,"[""stream=0x76000;block=0x330;text=54""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","なぜ止まらないの！？　推論中止！
+","綺麗でしょ？　生命の終わりは……。
+","強制停止！！
+",[],很美吧？生命的终结……。,,MATCH,52,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,55,stream=0x76000;block=0x330;text=55,"[""stream=0x76000;block=0x330;text=55""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","綺麗でしょ？　生命の終わりは……。
+","強制停止！！
+","…いつもここで推論が暴走する。やはり真実を解く鍵は、
+あの男が握っているのか？
+",[],强制停止！！,,MATCH,19,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,56,stream=0x76000;block=0x330;text=56,"[""stream=0x76000;block=0x330;text=56""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","強制停止！！
+","…いつもここで推論が暴走する。やはり真実を解く鍵は、
+あの男が握っているのか？
+","あの男から聞き出さなくては。何としても…！
+",[],……每次到这里，推理都会失控。果然，解开真相的钥匙掌握在那个男人手里吗？,,MATCH,116,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_076330,57,stream=0x76000;block=0x330;text=57,"[""stream=0x76000;block=0x330;text=57""]",1,BRIEFING FILES,"[""stream=0x76000;block=0x330;block_file=0x76330;text_base=0x76438;capacity=4272""]","…いつもここで推論が暴走する。やはり真実を解く鍵は、
+あの男が握っているのか？
+","あの男から聞き出さなくては。何としても…！
+",,[],必须从那个男人口中问出来。无论如何……！,,MATCH,64,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

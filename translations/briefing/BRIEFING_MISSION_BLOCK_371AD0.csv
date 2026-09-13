@@ -1,0 +1,174 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_371AD0,0,stream=0x371000;block=0xAD0;text=0,"[""stream=0x371000;block=0xAD0;text=0""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]",,"スネーク。
+トラックはトンネルの先の山道へ向かった。
+","やはり積み荷は核弾頭だった。
+",[],Snake，那辆卡车沿着隧道另一边的山路开走了。,,MATCH,77,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,1,stream=0x371000;block=0xAD0;text=1,"[""stream=0x371000;block=0xAD0;text=1""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク。
+トラックはトンネルの先の山道へ向かった。
+","やはり積み荷は核弾頭だった。
+","…どうする？
+その先は奴らの本拠地だ。
+",[],果然，货物就是核弹头。,,MATCH,43,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,2,stream=0x371000;block=0xAD0;text=2,"[""stream=0x371000;block=0xAD0;text=2""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","やはり積み荷は核弾頭だった。
+","…どうする？
+その先は奴らの本拠地だ。
+","早く追わないと。
+",[],……怎么办？再往前就是他们的大本营。,,MATCH,56,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,3,stream=0x371000;block=0xAD0;text=3,"[""stream=0x371000;block=0xAD0;text=3""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","…どうする？
+その先は奴らの本拠地だ。
+","早く追わないと。
+","だが…。
+",[],得赶快追上去。,,MATCH,25,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,4,stream=0x371000;block=0xAD0;text=4,"[""stream=0x371000;block=0xAD0;text=4""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","早く追わないと。
+","だが…。
+","カズ！　急がないと手遅れになる。
+",[],可是……。,,MATCH,13,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,5,stream=0x371000;block=0xAD0;text=5,"[""stream=0x371000;block=0xAD0;text=5""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","だが…。
+","カズ！　急がないと手遅れになる。
+","わかった。
+あんたにとっては、<R=仕事,ビジネス>も<R=危険,リスク>も関係ないんだな。
+",[],Kaz！再不快点就来不及了。,,MATCH,49,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,6,stream=0x371000;block=0xAD0;text=6,"[""stream=0x371000;block=0xAD0;text=6""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","カズ！　急がないと手遅れになる。
+","わかった。
+あんたにとっては、<R=仕事,ビジネス>も<R=危険,リスク>も関係ないんだな。
+","どうやって山に入る？
+トンネルは見ての通りだ。
+","[""<R=仕事,ビジネス>"", ""<R=危険,リスク>""]","知道了。对你来说，<R=工作,BUSINESS>也好，<R=危险,RISK>也好，根本都不重要，对吧。","<R=工作,BUSINESS> | <R=危险,RISK>",MATCH,117,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_371AD0,7,stream=0x371000;block=0xAD0;text=7,"[""stream=0x371000;block=0xAD0;text=7""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","わかった。
+あんたにとっては、<R=仕事,ビジネス>も<R=危険,リスク>も関係ないんだな。
+","どうやって山に入る？
+トンネルは見ての通りだ。
+","ああ。
+戦車の砲撃でトンネルは完全に塞がれてしまった…。
+",[],要怎么进山？隧道现在就是你看到的样子。,,MATCH,68,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,8,stream=0x371000;block=0xAD0;text=8,"[""stream=0x371000;block=0xAD0;text=8""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","どうやって山に入る？
+トンネルは見ての通りだ。
+","ああ。
+戦車の砲撃でトンネルは完全に塞がれてしまった…。
+","他にルートはないのか？
+",[],是啊。被坦克炮击后，隧道已经完全堵死了……。,,MATCH,83,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,9,stream=0x371000;block=0xAD0;text=9,"[""stream=0x371000;block=0xAD0;text=9""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","ああ。
+戦車の砲撃でトンネルは完全に塞がれてしまった…。
+","他にルートはないのか？
+","よし、このあたりの地理に詳しい奴に替ろう。
+",[],没有别的路线吗？,,MATCH,34,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,10,stream=0x371000;block=0xAD0;text=10,"[""stream=0x371000;block=0xAD0;text=10""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","他にルートはないのか？
+","よし、このあたりの地理に詳しい奴に替ろう。
+","スネーク。
+山に入るルートだね。
+",[],好吧，换个熟悉这一带地形的人来。,,MATCH,64,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,11,stream=0x371000;block=0xAD0;text=11,"[""stream=0x371000;block=0xAD0;text=11""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","よし、このあたりの地理に詳しい奴に替ろう。
+","スネーク。
+山に入るルートだね。
+","わかるか？
+",[],Snake。你是要找进山的路线吧。,,MATCH,47,41,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,12,stream=0x371000;block=0xAD0;text=12,"[""stream=0x371000;block=0xAD0;text=12""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク。
+山に入るルートだね。
+","わかるか？
+","ええと…。
+俺がいた収容所、覚えてる？
+",[],你知道吗？,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,13,stream=0x371000;block=0xAD0;text=13,"[""stream=0x371000;block=0xAD0;text=13""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","わかるか？
+","ええと…。
+俺がいた収容所、覚えてる？
+","あの村だな。
+",[],让我想想……。还记得我被关过的那个收容所吗？,,MATCH,56,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,14,stream=0x371000;block=0xAD0;text=14,"[""stream=0x371000;block=0xAD0;text=14""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","ええと…。
+俺がいた収容所、覚えてる？
+","あの村だな。
+","そう、いったん村に戻って北の方に抜けると、
+山道と合流する橋がある。
+",[],就是那个村子吧。,,MATCH,19,24,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,15,stream=0x371000;block=0xAD0;text=15,"[""stream=0x371000;block=0xAD0;text=15""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","あの村だな。
+","そう、いったん村に戻って北の方に抜けると、
+山道と合流する橋がある。
+","渓谷を横断してるんだ。
+その橋を使えばたぶん…。
+",[],对，先回到村子，再从北边出去，那里有一座桥能接上山路。,,MATCH,101,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,16,stream=0x371000;block=0xAD0;text=16,"[""stream=0x371000;block=0xAD0;text=16""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","そう、いったん村に戻って北の方に抜けると、
+山道と合流する橋がある。
+","渓谷を横断してるんだ。
+その橋を使えばたぶん…。
+","…だけど、ちょっと問題がある。
+",[],那座桥横跨峡谷。走那座桥的话，应该……。,,MATCH,71,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,17,stream=0x371000;block=0xAD0;text=17,"[""stream=0x371000;block=0xAD0;text=17""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","渓谷を横断してるんだ。
+その橋を使えばたぶん…。
+","…だけど、ちょっと問題がある。
+","村から北はバリケードで塞がってるんだ。
+壊すしかないかも…。
+",[],……不过，有个小问题。,,MATCH,46,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,18,stream=0x371000;block=0xAD0;text=18,"[""stream=0x371000;block=0xAD0;text=18""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","…だけど、ちょっと問題がある。
+","村から北はバリケードで塞がってるんだ。
+壊すしかないかも…。
+","わかった。
+",[],村子北边被路障封住了。可能只能把它炸掉……。,,MATCH,89,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,19,stream=0x371000;block=0xAD0;text=19,"[""stream=0x371000;block=0xAD0;text=19""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","村から北はバリケードで塞がってるんだ。
+壊すしかないかも…。
+","わかった。
+","スネーク。
+",[],知道了。,,MATCH,16,12,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,20,stream=0x371000;block=0xAD0;text=20,"[""stream=0x371000;block=0xAD0;text=20""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","わかった。
+","スネーク。
+","イラスの山腹は、奴らの本拠地に間違いない。
+もしかしたら、俺が見た…。
+",[],Snake。,,MATCH,16,8,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,21,stream=0x371000;block=0xAD0;text=21,"[""stream=0x371000;block=0xAD0;text=21""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク。
+","イラスの山腹は、奴らの本拠地に間違いない。
+もしかしたら、俺が見た…。
+","“バシリスコ”か？
+",[],Irazú山腰肯定就是他们的大本营。说不定，我看到的那个……。,,MATCH,104,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,22,stream=0x371000;block=0xAD0;text=22,"[""stream=0x371000;block=0xAD0;text=22""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","イラスの山腹は、奴らの本拠地に間違いない。
+もしかしたら、俺が見た…。
+","“バシリスコ”か？
+","…やっぱり、信じてないんだね。
+",[],“basilisco”吗？,,MATCH,28,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,23,stream=0x371000;block=0xAD0;text=23,"[""stream=0x371000;block=0xAD0;text=23""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","“バシリスコ”か？
+","…やっぱり、信じてないんだね。
+","いや、これからわかる。
+",[],……你果然还是不相信吧。,,MATCH,46,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,24,stream=0x371000;block=0xAD0;text=24,"[""stream=0x371000;block=0xAD0;text=24""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","…やっぱり、信じてないんだね。
+","いや、これからわかる。
+","スネーク、イラスには複数の火口湖がある。
+",[],不，等过去看看就知道了。,,MATCH,34,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,25,stream=0x371000;block=0xAD0;text=25,"[""stream=0x371000;block=0xAD0;text=25""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","いや、これからわかる。
+","スネーク、イラスには複数の火口湖がある。
+","前にオドゥベル国家企業体制の一環で、これを使った
+揚水発電所を建造する計画があったらしい。
+",[],Snake，Irazú有好几个火口湖。,,MATCH,61,38,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,26,stream=0x371000;block=0xAD0;text=26,"[""stream=0x371000;block=0xAD0;text=26""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","スネーク、イラスには複数の火口湖がある。
+","前にオドゥベル国家企業体制の一環で、これを使った
+揚水発電所を建造する計画があったらしい。
+","計画は中止になったが、湖の下にはちょっとした穴が
+開いたままだ。
+",[],以前似乎曾作为Oduber国家企业体制的一环，计划利用这些火口湖修建抽水蓄能电站。,,MATCH,134,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,27,stream=0x371000;block=0xAD0;text=27,"[""stream=0x371000;block=0xAD0;text=27""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","前にオドゥベル国家企業体制の一環で、これを使った
+揚水発電所を建造する計画があったらしい。
+","計画は中止になったが、湖の下にはちょっとした穴が
+開いたままだ。
+","つまり？
+",[],计划虽然取消了，但湖底还留着一个不小的开口。,,MATCH,95,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,28,stream=0x371000;block=0xAD0;text=28,"[""stream=0x371000;block=0xAD0;text=28""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","計画は中止になったが、湖の下にはちょっとした穴が
+開いたままだ。
+","つまり？
+","衛星写真を見たが、外には人工物が見あたらない。
+",[],也就是说？,,MATCH,13,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,29,stream=0x371000;block=0xAD0;text=29,"[""stream=0x371000;block=0xAD0;text=29""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","つまり？
+","衛星写真を見たが、外には人工物が見あたらない。
+","そうなると、山の内側を施設に利用してる可能性が
+高い。単なる<R=爆薬保管庫,イグルー>か、何かの研究施設か。
+",[],我看过卫星照片，外面看不到任何人工建筑。,,MATCH,70,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,30,stream=0x371000;block=0xAD0;text=30,"[""stream=0x371000;block=0xAD0;text=30""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","衛星写真を見たが、外には人工物が見あたらない。
+","そうなると、山の内側を施設に利用してる可能性が
+高い。単なる<R=爆薬保管庫,イグルー>か、何かの研究施設か。
+","そんな場所に核弾頭を運び込んでどうするつもりだ？
+","[""<R=爆薬保管庫,イグルー>""]","这样看来，他们很可能把山体内部当成设施在用。可能只是<R=爆药保管库,IGLOO>，也可能是什么研究设施。","<R=爆药保管库,IGLOO>",MATCH,154,139,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_371AD0,31,stream=0x371000;block=0xAD0;text=31,"[""stream=0x371000;block=0xAD0;text=31""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","そうなると、山の内側を施設に利用してる可能性が
+高い。単なる<R=爆薬保管庫,イグルー>か、何かの研究施設か。
+","そんな場所に核弾頭を運び込んでどうするつもりだ？
+","スネーク、まずは村の北にあるバリケードだ。
+荒っぽいが爆破するしかなさそうだ。
+",[],把核弹头运进那种地方，他们到底想干什么？,,MATCH,73,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_MISSION_BLOCK_371AD0,32,stream=0x371000;block=0xAD0;text=32,"[""stream=0x371000;block=0xAD0;text=32""]",1,d2100_m0110_mrd,"[""stream=0x371000;block=0xAD0;block_file=0x371AD0;text_base=0x371B74;capacity=2068""]","そんな場所に核弾頭を運び込んでどうするつもりだ？
+","スネーク、まずは村の北にあるバリケードだ。
+荒っぽいが爆破するしかなさそうだ。
+",,[],Snake，先处理村子北面的路障。虽然粗暴了点，看来只能炸开。,,MATCH,116,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

@@ -1,0 +1,21 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_MISSION_BLOCK_384910,0,stream=0x384000;block=0x910;text=0,"[""stream=0x384000;block=0x910;text=0""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x910;block_file=0x384910;text_base=0x38493C;capacity=272""]",,"万一に備え、<R=ZEKE,ジーク>との戦闘訓練を行う。
+","とはいえ、あくまで模擬戦だ。
+本当に<R=ZEKE,ジーク>が破壊されることはないから、
+安心していい。
+","[""<R=ZEKE,ジーク>""]","为防万一，要进行与<R=ZEKE,ZEKE>的战斗训练。
+","<R=ZEKE,ZEKE>",MATCH,67,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_384910,1,stream=0x384000;block=0x910;text=1,"[""stream=0x384000;block=0x910;text=1""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x910;block_file=0x384910;text_base=0x38493C;capacity=272""]","万一に備え、<R=ZEKE,ジーク>との戦闘訓練を行う。
+","とはいえ、あくまで模擬戦だ。
+本当に<R=ZEKE,ジーク>が破壊されることはないから、
+安心していい。
+","手加減せずに、<R=ZEKE,ジーク>を攻撃してくれ！
+","[""<R=ZEKE,ジーク>""]","不过，这终究只是模拟战。
+<R=ZEKE,ZEKE>不会真的被破坏，放心吧。
+","<R=ZEKE,ZEKE>",MATCH,135,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_MISSION_BLOCK_384910,2,stream=0x384000;block=0x910;text=2,"[""stream=0x384000;block=0x910;text=2""]",1,BRIEFING MISSION,"[""stream=0x384000;block=0x910;block_file=0x384910;text_base=0x38493C;capacity=272""]","とはいえ、あくまで模擬戦だ。
+本当に<R=ZEKE,ジーク>が破壊されることはないから、
+安心していい。
+","手加減せずに、<R=ZEKE,ジーク>を攻撃してくれ！
+",,"[""<R=ZEKE,ジーク>""]","别手下留情，尽管攻击<R=ZEKE,ZEKE>！
+","<R=ZEKE,ZEKE>",MATCH,64,47,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED

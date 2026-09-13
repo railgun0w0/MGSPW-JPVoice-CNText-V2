@@ -1,0 +1,111 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_052EF0,0,stream=0x52000;block=0xEF0;text=0,"[""stream=0x52000;block=0xEF0;text=0""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]",,"ストレンジラブ、ボスとはいつ知り合った？
+","…あの人は、宇宙を見た話を？
+",[],Strangelove，你是什么时候认识The Boss的？,,MATCH,61,52,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,1,stream=0x52000;block=0xEF0;text=1,"[""stream=0x52000;block=0xEF0;text=1""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ストレンジラブ、ボスとはいつ知り合った？
+","…あの人は、宇宙を見た話を？
+","ああ。
+",[],……她跟你说过自己看到宇宙的事吗？,,MATCH,43,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,2,stream=0x52000;block=0xEF0;text=2,"[""stream=0x52000;block=0xEF0;text=2""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","…あの人は、宇宙を見た話を？
+","ああ。
+","私も同じ宇宙を見た。彼女とともに。
+",[],嗯。,,MATCH,10,6,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,3,stream=0x52000;block=0xEF0;text=3,"[""stream=0x52000;block=0xEF0;text=3""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ああ。
+","私も同じ宇宙を見た。彼女とともに。
+","ソ連のスプートニクに先を越され、アメリカは有人宇宙飛
+行の実現を急いでいた。
+",[],我也看过同一片宇宙。和她一起。,,MATCH,52,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,4,stream=0x52000;block=0xEF0;text=4,"[""stream=0x52000;block=0xEF0;text=4""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","私も同じ宇宙を見た。彼女とともに。
+","ソ連のスプートニクに先を越され、アメリカは有人宇宙飛
+行の実現を急いでいた。
+","宇宙開発機関は極秘裏に彼女を<R=被験体,モルモット>に立て、宇宙の闇に
+放り出した。
+",[],苏联的Sputnik抢先一步后，美国正急于实现载人航天。,,MATCH,113,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,5,stream=0x52000;block=0xEF0;text=5,"[""stream=0x52000;block=0xEF0;text=5""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ソ連のスプートニクに先を越され、アメリカは有人宇宙飛
+行の実現を急いでいた。
+","宇宙開発機関は極秘裏に彼女を<R=被験体,モルモット>に立て、宇宙の闇に
+放り出した。
+","私はその計画に参加していたのだ。科学者として。
+","[""<R=被験体,モルモット>""]","航天机构在绝密状态下把她当作<R=实验体,GUINEA PIG>，丢进了宇宙的黑暗。","<R=实验体,GUINEA PIG>",MATCH,118,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_052EF0,6,stream=0x52000;block=0xEF0;text=6,"[""stream=0x52000;block=0xEF0;text=6""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","宇宙開発機関は極秘裏に彼女を<R=被験体,モルモット>に立て、宇宙の闇に
+放り出した。
+","私はその計画に参加していたのだ。科学者として。
+","あれはあんたが…？
+",[],我以科学家的身份参加了那个计划。,,MATCH,70,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,7,stream=0x52000;block=0xEF0;text=7,"[""stream=0x52000;block=0xEF0;text=7""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","私はその計画に参加していたのだ。科学者として。
+","あれはあんたが…？
+","そう。…その短い期間、私達はまるで一人の人間のようだ
+った。
+",[],那时候，你也……？,,MATCH,28,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,8,stream=0x52000;block=0xEF0;text=8,"[""stream=0x52000;block=0xEF0;text=8""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","あれはあんたが…？
+","そう。…その短い期間、私達はまるで一人の人間のようだ
+った。
+","互いを求め合い、互いを埋め合った。
+",[],是的。……那段短暂的时间里，我们就像同一个人。,,MATCH,89,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,9,stream=0x52000;block=0xEF0;text=9,"[""stream=0x52000;block=0xEF0;text=9""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","そう。…その短い期間、私達はまるで一人の人間のようだ
+った。
+","互いを求め合い、互いを埋め合った。
+","お前にわかるか？　女の中には宇宙がある。女同志なら、
+それを感じ合うことが出来る。
+",[],我们彼此渴求，也彼此填补了对方的空缺。,,MATCH,52,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,10,stream=0x52000;block=0xEF0;text=10,"[""stream=0x52000;block=0xEF0;text=10""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","互いを求め合い、互いを埋め合った。
+","お前にわかるか？　女の中には宇宙がある。女同志なら、
+それを感じ合うことが出来る。
+","女の共感脳だからこそ通じ合えたんだ。
+",[],你能明白吗？女人的体内有宇宙。女人之间能够彼此感受到它。,,MATCH,122,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,11,stream=0x52000;block=0xEF0;text=11,"[""stream=0x52000;block=0xEF0;text=11""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","お前にわかるか？　女の中には宇宙がある。女同志なら、
+それを感じ合うことが出来る。
+","女の共感脳だからこそ通じ合えたんだ。
+","やがて…私はその尊い魂を犠牲にすることに、疑問を抱く
+ようになっていった。
+",[],正因为女性大脑的共情能力，我们才能心意相通。,,MATCH,55,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,12,stream=0x52000;block=0xEF0;text=12,"[""stream=0x52000;block=0xEF0;text=12""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","女の共感脳だからこそ通じ合えたんだ。
+","やがて…私はその尊い魂を犠牲にすることに、疑問を抱く
+ようになっていった。
+","何故、人がそれを？　何故、彼女が…。
+",[],不久后……我开始怀疑，让那样高贵的灵魂去牺牲是否正确。,,MATCH,110,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,13,stream=0x52000;block=0xEF0;text=13,"[""stream=0x52000;block=0xEF0;text=13""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","やがて…私はその尊い魂を犠牲にすることに、疑問を抱く
+ようになっていった。
+","何故、人がそれを？　何故、彼女が…。
+","…飛行テストは辛うじて成功し、彼女は奇跡的に生還した。
+身も心も掻き削がれた彼女に私が代わってやることは何一
+つなかった。
+",[],为什么要让人来承受这一切？为什么偏偏是她……。,,MATCH,55,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,14,stream=0x52000;block=0xEF0;text=14,"[""stream=0x52000;block=0xEF0;text=14""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","何故、人がそれを？　何故、彼女が…。
+","…飛行テストは辛うじて成功し、彼女は奇跡的に生還した。
+身も心も掻き削がれた彼女に私が代わってやることは何一
+つなかった。
+","私たちは一人ではなかった。
+",[],……飞行测试勉强成功，她奇迹般活了下来。但她的身心都被摧残得不成样子，我却什么也无法替她做。,,MATCH,180,138,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,15,stream=0x52000;block=0xEF0;text=15,"[""stream=0x52000;block=0xEF0;text=15""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","…飛行テストは辛うじて成功し、彼女は奇跡的に生還した。
+身も心も掻き削がれた彼女に私が代わってやることは何一
+つなかった。
+","私たちは一人ではなかった。
+","彼女は消え、やがて私は命の代替品としての、AIの研究に
+没頭するようになっていた。
+",[],我们已不再是一体。,,MATCH,40,27,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,16,stream=0x52000;block=0xEF0;text=16,"[""stream=0x52000;block=0xEF0;text=16""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","私たちは一人ではなかった。
+","彼女は消え、やがて私は命の代替品としての、AIの研究に
+没頭するようになっていた。
+","彼女のような犠牲が二度と必要ないように。
+",[],她消失后，我渐渐沉浸于把AI作为生命替代品的研究之中。,,MATCH,118,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,17,stream=0x52000;block=0xEF0;text=17,"[""stream=0x52000;block=0xEF0;text=17""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","彼女は消え、やがて私は命の代替品としての、AIの研究に
+没頭するようになっていた。
+","彼女のような犠牲が二度と必要ないように。
+","俺は知らなかった…。
+",[],为了再也不需要像她那样的牺牲。,,MATCH,61,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,18,stream=0x52000;block=0xEF0;text=18,"[""stream=0x52000;block=0xEF0;text=18""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","彼女のような犠牲が二度と必要ないように。
+","俺は知らなかった…。
+","ふん、知るほどの事でもない。
+",[],我不知道……。,,MATCH,31,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,19,stream=0x52000;block=0xEF0;text=19,"[""stream=0x52000;block=0xEF0;text=19""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","俺は知らなかった…。
+","ふん、知るほどの事でもない。
+","人生の一瞬を彼女とすれ違った、これが全てだ。
+",[],哼，也不是什么值得知道的事。,,MATCH,43,42,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,20,stream=0x52000;block=0xEF0;text=20,"[""stream=0x52000;block=0xEF0;text=20""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","ふん、知るほどの事でもない。
+","人生の一瞬を彼女とすれ違った、これが全てだ。
+","いつか気が向いたらまた、詳しく話してやる。
+",[],我只是在生命中的一瞬间与她擦肩而过，仅此而已。,,MATCH,67,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_052EF0,21,stream=0x52000;block=0xEF0;text=21,"[""stream=0x52000;block=0xEF0;text=21""]",1,BRIEFING FILES,"[""stream=0x52000;block=0xEF0;block_file=0x52EF0;text_base=0x52F68;capacity=1604""]","人生の一瞬を彼女とすれ違った、これが全てだ。
+","いつか気が向いたらまた、詳しく話してやる。
+",,[],哪天我有心情了，再详细讲给你听。,,MATCH,64,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

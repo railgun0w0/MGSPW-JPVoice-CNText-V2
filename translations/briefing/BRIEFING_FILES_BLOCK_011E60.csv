@@ -1,0 +1,47 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_011E60,0,stream=0x11000;block=0xE60;text=0,"[""stream=0x11000;block=0xE60;text=0""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]",,"スネーク、頼みがあるんだが。
+","どうした、改まって。
+",[],Snake，有件事想拜托你。,,MATCH,43,32,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011E60,1,stream=0x11000;block=0xE60;text=1,"[""stream=0x11000;block=0xE60;text=1""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","スネーク、頼みがあるんだが。
+","どうした、改まって。
+","MSFを拡大するには、まず人集めだ。
+",[],怎么了，突然这么郑重其事。,,MATCH,31,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MEANING_DRIFT_IGNORED
+BRIEFING_FILES_BLOCK_011E60,2,stream=0x11000;block=0xE60;text=2,"[""stream=0x11000;block=0xE60;text=2""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","どうした、改まって。
+","MSFを拡大するには、まず人集めだ。
+","そうだな。で？
+",[],要扩大MSF，首先得招人。,,MATCH,49,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011E60,3,stream=0x11000;block=0xE60;text=3,"[""stream=0x11000;block=0xE60;text=3""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","MSFを拡大するには、まず人集めだ。
+","そうだな。で？
+","できるだけ敵兵を殺さず、フルトン回収してほしいんだ。
+",[],是啊。然后呢？,,MATCH,22,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011E60,4,stream=0x11000;block=0xE60;text=4,"[""stream=0x11000;block=0xE60;text=4""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","そうだな。で？
+","できるだけ敵兵を殺さず、フルトン回収してほしいんだ。
+","遺体を回収したところで、せいぜい弔ってやることくらい
+しかできないからな。
+",[],我希望你尽量别杀敌兵，把他们用富尔顿回收带回来。,,MATCH,79,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011E60,5,stream=0x11000;block=0xE60;text=5,"[""stream=0x11000;block=0xE60;text=5""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","できるだけ敵兵を殺さず、フルトン回収してほしいんだ。
+","遺体を回収したところで、せいぜい弔ってやることくらい
+しかできないからな。
+","違いない。
+",[],就算把尸体回收回来，我们最多也只能替他们收尸。,,MATCH,110,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011E60,6,stream=0x11000;block=0xE60;text=6,"[""stream=0x11000;block=0xE60;text=6""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","遺体を回収したところで、せいぜい弔ってやることくらい
+しかできないからな。
+","違いない。
+","眠らせる、気絶させる…ホールドアップでもいい。やむを
+得ず戦ったとしても、瀕死に止めておくとか。
+",[],确实。,,MATCH,16,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011E60,7,stream=0x11000;block=0xE60;text=7,"[""stream=0x11000;block=0xE60;text=7""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","違いない。
+","眠らせる、気絶させる…ホールドアップでもいい。やむを
+得ず戦ったとしても、瀕死に止めておくとか。
+","その後、フルトン回収か…やってみよう。
+",[],让他们睡着、打晕……或者举枪投降也行。就算迫不得已要交战，也尽量只打到濒死，别直接杀掉。,,MATCH,143,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_011E60,8,stream=0x11000;block=0xE60;text=8,"[""stream=0x11000;block=0xE60;text=8""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","眠らせる、気絶させる…ホールドアップでもいい。やむを
+得ず戦ったとしても、瀕死に止めておくとか。
+","その後、フルトン回収か…やってみよう。
+","本当は、狙った相手を有無を言わさずフルトン回収できる
+装置があれば、楽なんだがな…。
+",[],然后再富尔顿回收吗……试试看吧。,,MATCH,58,48,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EXPANSION_IGNORED
+BRIEFING_FILES_BLOCK_011E60,9,stream=0x11000;block=0xE60;text=9,"[""stream=0x11000;block=0xE60;text=9""]",1,BRIEFING FILES,"[""stream=0x11000;block=0xE60;block_file=0x11E60;text_base=0x11EA8;capacity=688""]","その後、フルトン回収か…やってみよう。
+","本当は、狙った相手を有無を言わさずフルトン回収できる
+装置があれば、楽なんだがな…。
+",,[],说真的，要是有种装置能不由分说地把盯上的目标直接富尔顿回收，那就省事多了……,,MATCH,125,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

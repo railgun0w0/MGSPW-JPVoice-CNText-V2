@@ -1,0 +1,66 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_05ED20,0,stream=0x5E000;block=0xD20;text=0,"[""stream=0x5E000;block=0xD20;text=0""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]",,"ここに来る前は、ずっとパリだったのか？
+","ええ。パリは私の大好きな街なの。
+",[],来这里之前，你一直住在巴黎吗？,,MATCH,58,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,1,stream=0x5E000;block=0xD20;text=1,"[""stream=0x5E000;block=0xD20;text=1""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","ここに来る前は、ずっとパリだったのか？
+","ええ。パリは私の大好きな街なの。
+","最先端のモード、世界最高の食事、優れた感性の人々が集
+う、文化と芸術の都。
+",[],嗯。巴黎是我最喜欢的城市。,,MATCH,49,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,2,stream=0x5E000;block=0xD20;text=2,"[""stream=0x5E000;block=0xD20;text=2""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","ええ。パリは私の大好きな街なの。
+","最先端のモード、世界最高の食事、優れた感性の人々が集
+う、文化と芸術の都。
+","夜のシャンゼリゼ通りの美しさは、現実とは思えないほど
+よ。
+",[],最前沿的时尚、世界最棒的美食，还有汇聚着拥有出色感性的人们——文化与艺术之都。,,MATCH,110,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,3,stream=0x5E000;block=0xD20;text=3,"[""stream=0x5E000;block=0xD20;text=3""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","最先端のモード、世界最高の食事、優れた感性の人々が集
+う、文化と芸術の都。
+","夜のシャンゼリゼ通りの美しさは、現実とは思えないほど
+よ。
+","シャンゼリゼっていうのは、ギリシャ神話に出てくる<R=楽園,エリュシオン>、
+つまり<R=天国,ヘブン>なの。
+",[],夜晚的香榭丽舍大街美得简直不像现实。,,MATCH,86,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,4,stream=0x5E000;block=0xD20;text=4,"[""stream=0x5E000;block=0xD20;text=4""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","夜のシャンゼリゼ通りの美しさは、現実とは思えないほど
+よ。
+","シャンゼリゼっていうのは、ギリシャ神話に出てくる<R=楽園,エリュシオン>、
+つまり<R=天国,ヘブン>なの。
+","俺には縁のなさそうな話だ。
+","[""<R=楽園,エリュシオン>"", ""<R=天国,ヘブン>""]","“香榭丽舍”指的是希腊神话中的<R=乐园,ELYSIUM>，也就是<R=天国,HEAVEN>。","<R=乐园,ELYSIUM> | <R=天国,HEAVEN>",MATCH,144,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_05ED20,5,stream=0x5E000;block=0xD20;text=5,"[""stream=0x5E000;block=0xD20;text=5""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","シャンゼリゼっていうのは、ギリシャ神話に出てくる<R=楽園,エリュシオン>、
+つまり<R=天国,ヘブン>なの。
+","俺には縁のなさそうな話だ。
+","文化的な生活に興味はないの？
+",[],听起来和我没什么缘分。,,MATCH,40,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,6,stream=0x5E000;block=0xD20;text=6,"[""stream=0x5E000;block=0xD20;text=6""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","俺には縁のなさそうな話だ。
+","文化的な生活に興味はないの？
+","縁がなかったというだけだ。興味を持ったこともないが。
+",[],你对有文化的生活没兴趣吗？,,MATCH,43,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,7,stream=0x5E000;block=0xD20;text=7,"[""stream=0x5E000;block=0xD20;text=7""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","文化的な生活に興味はないの？
+","縁がなかったというだけだ。興味を持ったこともないが。
+","戦争が好きなの？
+",[],只是一直没那个缘分。我也从没产生过兴趣。,,MATCH,79,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,8,stream=0x5E000;block=0xD20;text=8,"[""stream=0x5E000;block=0xD20;text=8""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","縁がなかったというだけだ。興味を持ったこともないが。
+","戦争が好きなの？
+","そんなことはない。だが、天国の外、アウター・ヘブンの
+ほうが性に合う。
+",[],你喜欢战争吗？,,MATCH,25,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,9,stream=0x5E000;block=0xD20;text=9,"[""stream=0x5E000;block=0xD20;text=9""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","戦争が好きなの？
+","そんなことはない。だが、天国の外、アウター・ヘブンの
+ほうが性に合う。
+","ハードな生き方ね…。
+",[],不是。不过，天国之外——Outer Heaven，反而更合我的性子。,,MATCH,104,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,10,stream=0x5E000;block=0xD20;text=10,"[""stream=0x5E000;block=0xD20;text=10""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","そんなことはない。だが、天国の外、アウター・ヘブンの
+ほうが性に合う。
+","ハードな生き方ね…。
+","…でも、いつかフランスに来ることがあれば、パリの街を
+案内してあげる。
+",[],真是种艰苦的活法……。,,MATCH,31,33,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,11,stream=0x5E000;block=0xD20;text=11,"[""stream=0x5E000;block=0xD20;text=11""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","ハードな生き方ね…。
+","…でも、いつかフランスに来ることがあれば、パリの街を
+案内してあげる。
+","この世の天国、ヘブンを教えてあげるわ。
+",[],……不过，如果以后有机会来法国，我可以带你逛逛巴黎。,,MATCH,104,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_05ED20,12,stream=0x5E000;block=0xD20;text=12,"[""stream=0x5E000;block=0xD20;text=12""]",1,BRIEFING FILES,"[""stream=0x5E000;block=0xD20;block_file=0x5ED20;text_base=0x5ED74;capacity=944""]","…でも、いつかフランスに来ることがあれば、パリの街を
+案内してあげる。
+","この世の天国、ヘブンを教えてあげるわ。
+",,[],让你看看这个世界上的天国——Heaven。,,MATCH,58,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

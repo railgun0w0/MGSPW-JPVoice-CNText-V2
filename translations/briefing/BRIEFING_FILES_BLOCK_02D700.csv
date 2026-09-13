@@ -1,0 +1,36 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_02D700,0,stream=0x2D000;block=0x700;text=0,"[""stream=0x2D000;block=0x700;text=0""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]",,"カタラタ・デ・ラ・ムエルテは「死の滝」という意味よ。
+","縁起でもない。
+",[],Catarata de la Muerte的意思是“死亡瀑布”。,,MATCH,79,54,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02D700,1,stream=0x2D000;block=0x700;text=1,"[""stream=0x2D000;block=0x700;text=1""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","カタラタ・デ・ラ・ムエルテは「死の滝」という意味よ。
+","縁起でもない。
+","スネークなら大丈夫。今までだって、絶望的な状況を潜り
+抜けてきたんだもの。
+",[],真不吉利。,,MATCH,22,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_OMINOUS_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_02D700,2,stream=0x2D000;block=0x700;text=2,"[""stream=0x2D000;block=0x700;text=2""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","縁起でもない。
+","スネークなら大丈夫。今までだって、絶望的な状況を潜り
+抜けてきたんだもの。
+","気軽に言ってくれるな。
+",[],Snake的话一定没问题。毕竟你一路闯过了那么多绝境。,,MATCH,110,71,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_02D700,3,stream=0x2D000;block=0x700;text=3,"[""stream=0x2D000;block=0x700;text=3""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","スネークなら大丈夫。今までだって、絶望的な状況を潜り
+抜けてきたんだもの。
+","気軽に言ってくれるな。
+","ごめんなさい。でも、本当にびっくりしてるの。「伝説の
+兵士」の話は本当だったって…。
+",[],你说得倒轻松。,,MATCH,34,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ADDED_FUTURE_CLAUSE_REMOVED_PER_JPN
+BRIEFING_FILES_BLOCK_02D700,4,stream=0x2D000;block=0x700;text=4,"[""stream=0x2D000;block=0x700;text=4""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","気軽に言ってくれるな。
+","ごめんなさい。でも、本当にびっくりしてるの。「伝説の
+兵士」の話は本当だったって…。
+","俺は英雄でも伝説でもない。だが、君に言われると不思議
+と腹が立たん。
+",[],对不起。不过我真的很惊讶。原来“传说中的士兵”那些故事都是真的……,,MATCH,125,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_LEGENDARY_SOLDIER_WORDING_PRIMARY
+BRIEFING_FILES_BLOCK_02D700,5,stream=0x2D000;block=0x700;text=5,"[""stream=0x2D000;block=0x700;text=5""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","ごめんなさい。でも、本当にびっくりしてるの。「伝説の
+兵士」の話は本当だったって…。
+","俺は英雄でも伝説でもない。だが、君に言われると不思議
+と腹が立たん。
+","ありがと。気をつけてね、スネーク。ピース。
+",[],我既不是英雄，也不是什么传说。不过被你这么说，奇怪的是我倒不生气。,,MATCH,101,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_NOT_ANGRY_TONE_PRIMARY
+BRIEFING_FILES_BLOCK_02D700,6,stream=0x2D000;block=0x700;text=6,"[""stream=0x2D000;block=0x700;text=6""]",1,BRIEFING FILES,"[""stream=0x2D000;block=0x700;block_file=0x2D700;text_base=0x2D73C;capacity=544""]","俺は英雄でも伝説でもない。だが、君に言われると不思議
+と腹が立たん。
+","ありがと。気をつけてね、スネーク。ピース。
+",,[],谢谢。小心点，Snake。Peace。,,MATCH,64,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

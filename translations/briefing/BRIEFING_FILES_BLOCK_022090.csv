@@ -1,0 +1,46 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_022090,0,stream=0x22000;block=0x90;text=0,"[""stream=0x22000;block=0x90;text=0""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]",,"Costa Ricaは“豊かな海岸”という意味よ。
+","コロンブスが名付け親って話は本当か？
+",[],哥斯达黎加意为“富饶的海岸”。,,MATCH,56,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_022090,1,stream=0x22000;block=0x90;text=1,"[""stream=0x22000;block=0x90;text=1""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","Costa Ricaは“豊かな海岸”という意味よ。
+","コロンブスが名付け親って話は本当か？
+","どうかな。でも、大航海時代、コロンブスがリモンの近く
+に漂着したのは本当。
+",[],真是哥伦布给它起的名字吗？,,MATCH,55,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_022090,2,stream=0x22000;block=0x90;text=2,"[""stream=0x22000;block=0x90;text=2""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","コロンブスが名付け親って話は本当か？
+","どうかな。でも、大航海時代、コロンブスがリモンの近く
+に漂着したのは本当。
+","その時、<R=先住民,インディヘナ>から沢山金細工をもらったって、彼の日誌
+に書いてある。それが由来なのかも。
+",[],这个嘛。不过在大航海时代，哥伦布确实曾来到利蒙附近。,,MATCH,110,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_022090,3,stream=0x22000;block=0x90;text=3,"[""stream=0x22000;block=0x90;text=3""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","どうかな。でも、大航海時代、コロンブスがリモンの近く
+に漂着したのは本当。
+","その時、<R=先住民,インディヘナ>から沢山金細工をもらったって、彼の日誌
+に書いてある。それが由来なのかも。
+","変な話。コスタリカでそんなに金が採れるわけでもないの
+に。
+","[""<R=先住民,インディヘナ>""]","他的航海日志里写着，当时从<R=原住民,indígena>那里收到了许多黄金工艺品。也许这就是名字的由来。","<R=原住民,indígena>",MATCH,154,134,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;AUX_DIARY_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_022090,4,stream=0x22000;block=0x90;text=4,"[""stream=0x22000;block=0x90;text=4""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","その時、<R=先住民,インディヘナ>から沢山金細工をもらったって、彼の日誌
+に書いてある。それが由来なのかも。
+","変な話。コスタリカでそんなに金が採れるわけでもないの
+に。
+","もともと、<R=黄金の国,ジパング>を探して航海に出た連中だ。金には目
+がなかったんだろう。
+",[],真奇怪。哥斯达黎加明明也不是能产出那么多黄金的地方。,,MATCH,86,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_022090,5,stream=0x22000;block=0x90;text=5,"[""stream=0x22000;block=0x90;text=5""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","変な話。コスタリカでそんなに金が採れるわけでもないの
+に。
+","もともと、<R=黄金の国,ジパング>を探して航海に出た連中だ。金には目
+がなかったんだろう。
+","金なんかなくても、コスタリカは豊かな国よ。森や動物達、
+平和を愛する人々…私はそれを守りたい。
+","[""<R=黄金の国,ジパング>""]","那些人本来就是为了寻找<R=黄金之国,Zipangu>才出海的。大概一见黄金就走不动道了吧。","<R=黄金之国,Zipangu>",MATCH,127,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;AUX_SECOND_CLAUSE_RESTORED
+BRIEFING_FILES_BLOCK_022090,6,stream=0x22000;block=0x90;text=6,"[""stream=0x22000;block=0x90;text=6""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","もともと、<R=黄金の国,ジパング>を探して航海に出た連中だ。金には目
+がなかったんだろう。
+","金なんかなくても、コスタリカは豊かな国よ。森や動物達、
+平和を愛する人々…私はそれを守りたい。
+","…ああ、そうだな。
+",[],就算没有黄金，哥斯达黎加也是个富饶的国家。森林、动物，还有热爱和平的人们……我想保护这一切。,,MATCH,140,138,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_MAJOR_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_022090,7,stream=0x22000;block=0x90;text=7,"[""stream=0x22000;block=0x90;text=7""]",1,BRIEFING FILES,"[""stream=0x22000;block=0x90;block_file=0x22090;text_base=0x220D0;capacity=764""]","金なんかなくても、コスタリカは豊かな国よ。森や動物達、
+平和を愛する人々…私はそれを守りたい。
+","…ああ、そうだな。
+",,[],……嗯，是啊。,,MATCH,28,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EXPANSION_IGNORED

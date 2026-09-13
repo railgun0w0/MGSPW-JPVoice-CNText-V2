@@ -1,0 +1,71 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_035C60,0,stream=0x35000;block=0xC60;text=0,"[""stream=0x35000;block=0xC60;text=0""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]",,"親父さんがKGBと手を組んだこと…いつから気付いてた？
+","半年程前よ。それまでは豆しか食べられなかったのが、急
+に卵や小麦が届けられるようになってね。弾も不足しなく
+なった。
+",[],你是什么时候发现你父亲和KGB联手的？,,MATCH,76,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,1,stream=0x35000;block=0xC60;text=1,"[""stream=0x35000;block=0xC60;text=1""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","親父さんがKGBと手を組んだこと…いつから気付いてた？
+","半年程前よ。それまでは豆しか食べられなかったのが、急
+に卵や小麦が届けられるようになってね。弾も不足しなく
+なった。
+","<R=麻薬,コカイン>は、どうやって手に入れてた。
+",[],大约半年前。在那之前，我们只能吃豆子，后来突然开始有人送来鸡蛋和面粉，弹药也不再短缺了。,,MATCH,171,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,2,stream=0x35000;block=0xC60;text=2,"[""stream=0x35000;block=0xC60;text=2""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","半年程前よ。それまでは豆しか食べられなかったのが、急
+に卵や小麦が届けられるようになってね。弾も不足しなく
+なった。
+","<R=麻薬,コカイン>は、どうやって手に入れてた。
+","KGBに聞いて。ここでやってたのは、コカインの精製だけ
+だと思う。
+","[""<R=麻薬,コカイン>""]","<R=毒品,COCAINE>是怎么弄到的？","<R=毒品,COCAINE>",MATCH,66,39,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_035C60,3,stream=0x35000;block=0xC60;text=3,"[""stream=0x35000;block=0xC60;text=3""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","<R=麻薬,コカイン>は、どうやって手に入れてた。
+","KGBに聞いて。ここでやってたのは、コカインの精製だけ
+だと思う。
+","このあたりでもコカの木は育つけど、原料のほとんどは、
+コロンビアやボリビアあたりから仕入れてたはず。
+",[],去问KGB吧。我想我们在这里只负责精炼可卡因。,,MATCH,92,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,4,stream=0x35000;block=0xC60;text=4,"[""stream=0x35000;block=0xC60;text=4""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","KGBに聞いて。ここでやってたのは、コカインの精製だけ
+だと思う。
+","このあたりでもコカの木は育つけど、原料のほとんどは、
+コロンビアやボリビアあたりから仕入れてたはず。
+","それを工場で加工して、カリブ海の港まで運んだ。その先
+は。
+",[],这一带也能种古柯，但原料大多应该是从哥伦比亚和玻利维亚一带弄来的。,,MATCH,149,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,5,stream=0x35000;block=0xC60;text=5,"[""stream=0x35000;block=0xC60;text=5""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","このあたりでもコカの木は育つけど、原料のほとんどは、
+コロンビアやボリビアあたりから仕入れてたはず。
+","それを工場で加工して、カリブ海の港まで運んだ。その先
+は。
+","考えたことない…いえ、考えたくない。
+",[],在工厂加工后，再运到加勒比海的港口。之后呢？,,MATCH,86,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,6,stream=0x35000;block=0xC60;text=6,"[""stream=0x35000;block=0xC60;text=6""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","それを工場で加工して、カリブ海の港まで運んだ。その先
+は。
+","考えたことない…いえ、考えたくない。
+","世界最大のコカイン消費国は、アメリカだ。おそらく漁船
+に偽装して運んだりしてるんだろう。
+",[],我没想过……不，我是不愿去想。,,MATCH,55,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,7,stream=0x35000;block=0xC60;text=7,"[""stream=0x35000;block=0xC60;text=7""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","考えたことない…いえ、考えたくない。
+","世界最大のコカイン消費国は、アメリカだ。おそらく漁船
+に偽装して運んだりしてるんだろう。
+","ちょっと待って。<R=CIA,ラ・シーア>もそのルートを利用してるなら、
+<R=CIA,ラ・シーア>もアメリカに売ってるってこと？
+",[],世界上最大的可卡因消费国是美国。大概会伪装成渔船之类运过去吧。,,MATCH,131,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,8,stream=0x35000;block=0xC60;text=8,"[""stream=0x35000;block=0xC60;text=8""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","世界最大のコカイン消費国は、アメリカだ。おそらく漁船
+に偽装して運んだりしてるんだろう。
+","ちょっと待って。<R=CIA,ラ・シーア>もそのルートを利用してるなら、
+<R=CIA,ラ・シーア>もアメリカに売ってるってこと？
+","そうなる。
+","[""<R=CIA,ラ・シーア>"", ""<R=CIA,ラ・シーア>""]","等等。如果<R=CIA,LA CIA>也在利用那条路线，那<R=CIA,LA CIA>也在把毒品卖给美国？","<R=CIA,LA CIA> | <R=CIA,LA CIA>",MATCH,162,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+BRIEFING_FILES_BLOCK_035C60,9,stream=0x35000;block=0xC60;text=9,"[""stream=0x35000;block=0xC60;text=9""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","ちょっと待って。<R=CIA,ラ・シーア>もそのルートを利用してるなら、
+<R=CIA,ラ・シーア>もアメリカに売ってるってこと？
+","そうなる。
+","連中は、祖国の若者をジャンキーにするために、せっせと
+麻薬を密輸してるの？　どうしてそんな馬鹿げたことを！？
+",[],那就会是这样。,,MATCH,16,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,10,stream=0x35000;block=0xC60;text=10,"[""stream=0x35000;block=0xC60;text=10""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","そうなる。
+","連中は、祖国の若者をジャンキーにするために、せっせと
+麻薬を密輸してるの？　どうしてそんな馬鹿げたことを！？
+","恐いんだろう。何よりも、中米に共産国ができることがな。
+",[],他们拼命走私毒品，就是为了让自己国家的年轻人变成瘾君子？为什么要干这种蠢事！？,,MATCH,161,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_035C60,11,stream=0x35000;block=0xC60;text=11,"[""stream=0x35000;block=0xC60;text=11""]",1,BRIEFING FILES,"[""stream=0x35000;block=0xC60;block_file=0x35C60;text_base=0x35CB0;capacity=1260""]","連中は、祖国の若者をジャンキーにするために、せっせと
+麻薬を密輸してるの？　どうしてそんな馬鹿げたことを！？
+","恐いんだろう。何よりも、中米に共産国ができることがな。
+",,[],他们害怕吧。尤其害怕中美洲出现共产主义国家。,,MATCH,82,66,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

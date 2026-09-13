@@ -1,0 +1,74 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_074A00,0,stream=0x74000;block=0xA00;text=0,"[""stream=0x74000;block=0xA00;text=0""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]",,"コクーンの設計は廃熱の処理に苦労したよ。設計者として
+は恥ずかしい話だけど、ラジエーターが弱点と言えるかも
+しれない。
+","ラジエーター部分には装甲があまりないからね。装甲は廃
+熱の邪魔だったから…。
+",[],Cocoon的设计在处理废热上吃了不少苦。身为设计者，说来有点丢脸，但散热器或许算得上它的弱点。,,MATCH,174,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,1,stream=0x74000;block=0xA00;text=1,"[""stream=0x74000;block=0xA00;text=1""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","コクーンの設計は廃熱の処理に苦労したよ。設計者として
+は恥ずかしい話だけど、ラジエーターが弱点と言えるかも
+しれない。
+","ラジエーター部分には装甲があまりないからね。装甲は廃
+熱の邪魔だったから…。
+","それはどこにある？
+",[],散热器部分没多少装甲，因为装甲会妨碍散热……。,,MATCH,113,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,2,stream=0x74000;block=0xA00;text=2,"[""stream=0x74000;block=0xA00;text=2""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ラジエーター部分には装甲があまりないからね。装甲は廃
+熱の邪魔だったから…。
+","それはどこにある？
+","ラジエーターは上部と下部に複数ある。詳しい場所は排気
+を見ればわかるはずだ。
+",[],散热器在哪？,,MATCH,28,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,3,stream=0x74000;block=0xA00;text=3,"[""stream=0x74000;block=0xA00;text=3""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","それはどこにある？
+","ラジエーターは上部と下部に複数ある。詳しい場所は排気
+を見ればわかるはずだ。
+","ただ、普段は上部ラジエーターは露出していない。まずは
+下部ラジエーターを狙うといいかもしれない。
+",[],上部和下部都有多个散热器。具体位置看排气应该就能判断。,,MATCH,113,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,4,stream=0x74000;block=0xA00;text=4,"[""stream=0x74000;block=0xA00;text=4""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ラジエーターは上部と下部に複数ある。詳しい場所は排気
+を見ればわかるはずだ。
+","ただ、普段は上部ラジエーターは露出していない。まずは
+下部ラジエーターを狙うといいかもしれない。
+","下部ラジエーターは機体の下に潜り込んで狙う手もあるけ
+ど、本体は上下に可動する。押しつぶされないようにね。
+",[],不过，上部散热器平时不会露出来。也许可以先瞄准下部散热器。,,MATCH,143,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,5,stream=0x74000;block=0xA00;text=5,"[""stream=0x74000;block=0xA00;text=5""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ただ、普段は上部ラジエーターは露出していない。まずは
+下部ラジエーターを狙うといいかもしれない。
+","下部ラジエーターは機体の下に潜り込んで狙う手もあるけ
+ど、本体は上下に可動する。押しつぶされないようにね。
+","それから、ミサイルとヘッジホッグには注意してくれ。
+",[],下部散热器可以钻到机体下面去打，但本体会上下移动。小心别被压扁。,,MATCH,158,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,6,stream=0x74000;block=0xA00;text=6,"[""stream=0x74000;block=0xA00;text=6""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","下部ラジエーターは機体の下に潜り込んで狙う手もあるけ
+ど、本体は上下に可動する。押しつぶされないようにね。
+","それから、ミサイルとヘッジホッグには注意してくれ。
+","ヘッジホッグ？　対潜水艦用の多段散布型爆雷か？
+",[],另外，小心导弹和Hedgehog。,,MATCH,76,35,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,7,stream=0x74000;block=0xA00;text=7,"[""stream=0x74000;block=0xA00;text=7""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","それから、ミサイルとヘッジホッグには注意してくれ。
+","ヘッジホッグ？　対潜水艦用の多段散布型爆雷か？
+","その技術をベースに、地上用にアレンジされた兵器だ。
+",[],Hedgehog？反潜用的多联装散布式深水炸弹吗？,,MATCH,70,59,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,8,stream=0x74000;block=0xA00;text=8,"[""stream=0x74000;block=0xA00;text=8""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ヘッジホッグ？　対潜水艦用の多段散布型爆雷か？
+","その技術をベースに、地上用にアレンジされた兵器だ。
+","とはいえ、ヘッジホッグにしてもミサイルにしても、装填
+に時間がかかる。
+",[],它是在那项技术基础上改造成地面用的武器。,,MATCH,76,60,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,9,stream=0x74000;block=0xA00;text=9,"[""stream=0x74000;block=0xA00;text=9""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","その技術をベースに、地上用にアレンジされた兵器だ。
+","とはいえ、ヘッジホッグにしてもミサイルにしても、装填
+に時間がかかる。
+","ランプが消灯している間はヘッジホッグは撃てないはずだ。
+",[],不过，无论Hedgehog还是导弹，装填都需要时间。,,MATCH,104,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,10,stream=0x74000;block=0xA00;text=10,"[""stream=0x74000;block=0xA00;text=10""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","とはいえ、ヘッジホッグにしてもミサイルにしても、装填
+に時間がかかる。
+","ランプが消灯している間はヘッジホッグは撃てないはずだ。
+","ミサイルは発射ハッチの動きを見て。
+",[],指示灯熄灭时，Hedgehog应该无法发射。,,MATCH,82,50,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,11,stream=0x74000;block=0xA00;text=11,"[""stream=0x74000;block=0xA00;text=11""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ランプが消灯している間はヘッジホッグは撃てないはずだ。
+","ミサイルは発射ハッチの動きを見て。
+","その間に接近できそうだな。
+",[],导弹的话，注意观察发射舱门的动作。,,MATCH,52,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,12,stream=0x74000;block=0xA00;text=12,"[""stream=0x74000;block=0xA00;text=12""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","ミサイルは発射ハッチの動きを見て。
+","その間に接近できそうだな。
+","発射ハッチが開いたらミサイルにも注意してくれ。
+",[],看来可以趁那段时间接近。,,MATCH,40,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_074A00,13,stream=0x74000;block=0xA00;text=13,"[""stream=0x74000;block=0xA00;text=13""]",1,BRIEFING FILES,"[""stream=0x74000;block=0xA00;block_file=0x74A00;text_base=0x74A58;capacity=1316""]","その間に接近できそうだな。
+","発射ハッチが開いたらミサイルにも注意してくれ。
+",,[],发射舱门一打开，也要小心导弹。,,MATCH,70,45,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

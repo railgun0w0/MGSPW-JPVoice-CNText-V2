@@ -1,0 +1,63 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_042040,0,stream=0x42000;block=0x40;text=0,"[""stream=0x42000;block=0x40;text=0""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]",,"村の北には谷川があるんだ。そこには足場のついた水道管
+が渡してあって、橋に使える。もともと揚水発電所の導水
+に使うつもりだったらしいよ。
+","そこまで行くには収容施設北のバリケードを壊す必要があ
+るけどね。
+",[],村子北边有一条山溪。那里横着一根带踏板的水管，可以当桥用。听说原本是给抽水蓄能电站引水用的。,,MATCH,201,138,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,1,stream=0x42000;block=0x40;text=1,"[""stream=0x42000;block=0x40;text=1""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","村の北には谷川があるんだ。そこには足場のついた水道管
+が渡してあって、橋に使える。もともと揚水発電所の導水
+に使うつもりだったらしいよ。
+","そこまで行くには収容施設北のバリケードを壊す必要があ
+るけどね。
+","わかった。
+",[],不过，要到那里得先破坏收容设施北边的路障。,,MATCH,95,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,2,stream=0x42000;block=0x40;text=2,"[""stream=0x42000;block=0x40;text=2""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","そこまで行くには収容施設北のバリケードを壊す必要があ
+るけどね。
+","わかった。
+","谷川にはバシリスコがいるらしいけど、気を取られて落ち
+ないようにしてくれよ。
+",[],明白。,,MATCH,16,9,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,3,stream=0x42000;block=0x40;text=3,"[""stream=0x42000;block=0x40;text=3""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","わかった。
+","谷川にはバシリスコがいるらしいけど、気を取られて落ち
+ないようにしてくれよ。
+","バシリスコ…。
+",[],听说山溪里有Basilisco，不过可别被它分散注意力，掉下去了。,,MATCH,113,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,4,stream=0x42000;block=0x40;text=4,"[""stream=0x42000;block=0x40;text=4""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","谷川にはバシリスコがいるらしいけど、気を取られて落ち
+ないようにしてくれよ。
+","バシリスコ…。
+","あ、いや。俺が見た化け物のことじゃない。本物のバシリ
+スコさ。
+",[],Basilisco……。,,MATCH,22,18,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,5,stream=0x42000;block=0x40;text=5,"[""stream=0x42000;block=0x40;text=5""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","バシリスコ…。
+","あ、いや。俺が見た化け物のことじゃない。本物のバシリ
+スコさ。
+","本物？　伝説の蛇の王か？
+",[],啊，不是我看到的那个怪物。我说的是真正的Basilisco。,,MATCH,92,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,6,stream=0x42000;block=0x40;text=6,"[""stream=0x42000;block=0x40;text=6""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","あ、いや。俺が見た化け物のことじゃない。本物のバシリ
+スコさ。
+","本物？　伝説の蛇の王か？
+","蛇っていうか、トカゲだよ。川の上を走るんだ。
+",[],真正的？传说中的蛇王吗？,,MATCH,37,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,7,stream=0x42000;block=0x40;text=7,"[""stream=0x42000;block=0x40;text=7""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","本物？　伝説の蛇の王か？
+","蛇っていうか、トカゲだよ。川の上を走るんだ。
+","そんなトカゲが？
+",[],与其说是蛇，不如说是蜥蜴。它会在水面上跑。,,MATCH,67,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,8,stream=0x42000;block=0x40;text=8,"[""stream=0x42000;block=0x40;text=8""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","蛇っていうか、トカゲだよ。川の上を走るんだ。
+","そんなトカゲが？
+","あれはなかなか見物だぜ！　<R=1バーラ,80cm>程度だから、大きく
+はないけどな。
+",[],还有这种蜥蜴？,,MATCH,25,21,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,9,stream=0x42000;block=0x40;text=9,"[""stream=0x42000;block=0x40;text=9""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","そんなトカゲが？
+","あれはなかなか見物だぜ！　<R=1バーラ,80cm>程度だから、大きく
+はないけどな。
+","トカゲにしちゃ大きい方だ。
+","[""<R=1バーラ,80cm>""]","那可挺值得一看的！不过只有<R=1瓦拉,80cm>左右，也不算很大。","<R=1瓦拉,80cm>",MATCH,108,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,10,stream=0x42000;block=0x40;text=10,"[""stream=0x42000;block=0x40;text=10""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","あれはなかなか見物だぜ！　<R=1バーラ,80cm>程度だから、大きく
+はないけどな。
+","トカゲにしちゃ大きい方だ。
+","恐竜に比べたら全然小さいさ。
+",[],对蜥蜴来说已经算大的了。,,MATCH,40,36,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_042040,11,stream=0x42000;block=0x40;text=11,"[""stream=0x42000;block=0x40;text=11""]",1,BRIEFING FILES,"[""stream=0x42000;block=0x40;block_file=0x42040;text_base=0x42090;capacity=872""]","トカゲにしちゃ大きい方だ。
+","恐竜に比べたら全然小さいさ。
+",,[],跟恐龙一比就小多了。,,MATCH,43,30,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

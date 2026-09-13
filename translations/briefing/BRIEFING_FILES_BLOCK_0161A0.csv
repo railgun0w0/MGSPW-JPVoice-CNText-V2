@@ -1,0 +1,27 @@
+﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
+BRIEFING_FILES_BLOCK_0161A0,0,stream=0x16000;block=0x1A0;text=0,"[""stream=0x16000;block=0x1A0;text=0""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]",,"研究開発班の連中、CO-OPS専用の武器を研究中らしい。
+","CO-OPS専用？
+",[],听说研发班那帮人正在研究CO-OPS专用武器。,,MATCH,73,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0161A0,1,stream=0x16000;block=0x1A0;text=1,"[""stream=0x16000;block=0x1A0;text=1""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","研究開発班の連中、CO-OPS専用の武器を研究中らしい。
+","CO-OPS専用？
+","例えば、二人同時に撃たないと威力を発揮しない銃とか…
+その分攻撃力は高いと聞く。まだ構想の段階だそうだが。
+",[],CO-OPS专用？,,MATCH,16,15,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+BRIEFING_FILES_BLOCK_0161A0,2,stream=0x16000;block=0x1A0;text=2,"[""stream=0x16000;block=0x1A0;text=2""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","CO-OPS専用？
+","例えば、二人同時に撃たないと威力を発揮しない銃とか…
+その分攻撃力は高いと聞く。まだ構想の段階だそうだが。
+","ロケットランチャーを二人一組で運用することはあるが、
+CO-OPS専用とはな。
+",[],比如，必须两个人同时开火才能发挥威力的枪……听说相应地攻击力也很高。不过目前还只是构想阶段。,,MATCH,158,138,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+BRIEFING_FILES_BLOCK_0161A0,3,stream=0x16000;block=0x1A0;text=3,"[""stream=0x16000;block=0x1A0;text=3""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","例えば、二人同時に撃たないと威力を発揮しない銃とか…
+その分攻撃力は高いと聞く。まだ構想の段階だそうだが。
+","ロケットランチャーを二人一組で運用することはあるが、
+CO-OPS専用とはな。
+","だが開発に成功すれば、CO-OPSのやりがいもあるっても
+んだろう。武器開発の様子も、気にしてやってくれ。
+",[],火箭发射器倒是有两人一组操作的，但专门为CO-OPS设计的武器吗……,,MATCH,104,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+BRIEFING_FILES_BLOCK_0161A0,4,stream=0x16000;block=0x1A0;text=4,"[""stream=0x16000;block=0x1A0;text=4""]",1,BRIEFING FILES,"[""stream=0x16000;block=0x1A0;block_file=0x161A0;text_base=0x161D4;capacity=504""]","ロケットランチャーを二人一組で運用することはあるが、
+CO-OPS専用とはな。
+","だが開発に成功すれば、CO-OPSのやりがいもあるっても
+んだろう。武器開発の様子も、気にしてやってくれ。
+",,[],不过一旦开发成功，CO-OPS也就更值得一试了。武器开发的进展，你也多留意一下。,,MATCH,146,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
