@@ -2,6 +2,8 @@
 
 更新时间：2026-09-08（Asia/Hong_Kong）
 
+> 当前性说明（2026-09-13）：本文件只记录 BRIEFING 加入前的旧五类 production/build checkpoint，不是当前全局恢复点。BRIEFING 已另行完成 469 blocks / 5,645 rows 的 production merge，但尚未进入 DAT。继续工作应先读 `CURRENT_DIRECTION.md`、`BRIEFING_BUILD_HANDOFF.md` 和 `work/luna_translation_templates/TRANSLATION_STATE.md`；不得把下述 91,609 行 manifest 或 20 文件测试包误认为已经包含 BRIEFING。
+
 本 checkpoint 保存本轮“241 个 mapping 合并到 production，并开始统一构建前验证”的实际进度。Steam 游戏目录未修改，所有临时构建均位于 V2 `build/readiness/`。
 
 ## 已完成
@@ -100,4 +102,4 @@
 - `build/readiness/full_package_report.json`
 - `build/readiness/full_package/`
 
-恢复工作时先阅读本文件。不要重新翻译 21,041 条已完成译文；下一步从统一测试包的实机验收开始。
+本 checkpoint 的旧五类译文无需重译。当前下一步不是直接复用此处的 20 文件包，而是先按 `BRIEFING_BUILD_HANDOFF.md` 完成 BRIEFING 专用 clean-JPN builder 和 round-trip，再从 clean JPN 重新组成包含六类资源的统一测试包。

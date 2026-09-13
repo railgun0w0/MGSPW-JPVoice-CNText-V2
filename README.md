@@ -14,6 +14,7 @@
 - [TECHNICAL_FOUNDATION.md](docs/TECHNICAL_FOUNDATION.md)：按 `VERIFIED_REUSABLE`、`OBSOLETE_OR_WRONG`、`UNKNOWN_NEEDS_REVALIDATION` 整理的格式与重建基础。
 - [LEGACY_TOOL_AUDIT.md](docs/LEGACY_TOOL_AUDIT.md)：旧工程工具逐项审计与 V2 处置方式。
 - [CURRENT_DIRECTION.md](docs/CURRENT_DIRECTION.md)：当前翻译、构建、验收顺序与明确禁止项。
+- [BRIEFING_BUILD_HANDOFF.md](docs/BRIEFING_BUILD_HANDOFF.md)：BRIEFING production 输入、专用 builder 约束与后续 round-trip/实机流程。
 
 V2 的硬规则：
 
@@ -24,12 +25,13 @@ V2 的硬规则：
 5. 每一层重建都必须独立 round-trip；容器通过不等于运行时映射成立。
 6. 全补丁以 JPN 日文原文为语义权威、以目标 JPN 资源为结构权威；MLG_CN 仅辅助参考术语与表达，ENG 仅在必要时用于消歧。
 7. OLANG 不按 MLG/ENG reference index、entity key occurrence 或旧 `semantic_partial` 结果直接移植；先完成 JPN 上下文工作表，再显式回填全部 JPN references。
-8. `translation_worklist.csv` 是 file_id 级管理索引；`translations/<resource_class>/<file_id>.csv` 是翻译权威；`compiled_translation_manifest.csv` 是唯一正式构建输入。
+8. `translation_worklist.csv` 是 file_id 级管理索引；`translations/<resource_class>/<file_id>.csv` 是翻译权威。旧五类资源由 `compiled_translation_manifest.csv` 进入现有构建器；BRIEFING 当前由 `translations/briefing/*.csv` 进入待实现的专用 oEbN builder，不得按文本去重后硬并入旧 manifest。
 9. 所有正式候选从 clean JPN original 生成，不在旧 Experimental DAT 或现成 ENG/CN 补丁上叠加。
 
 当前状态：
 
-- 当前 catalog 内 241/241 个 file_id、21,041/21,041 条 file_id 内去重译文全部完成；对象级 `compiled_translation_manifest.csv` 共 91,609 行。
+- 当前六类翻译共 710/710 个 file_id、26,686/26,686 条 translation rows 完成。旧五类资源仍为 241 file_ids / 21,041 个去重翻译行，对象级 `compiled_translation_manifest.csv` 共 91,609 行。
+- BRIEFING 已生成独立正式 production CSV：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、控制结构、UTF-8、容量和 469 文件 CSV round-trip 均通过，0 hard overflow。尚未写入 DAT、尚未实机测试。
 - 36 个 YPK/GTT 已完成 fixed-frame repack：1,882 records、2,136 timed segments，1,815 normal fit、67 alignment spill、0 hard overflow。人工缩短的 29 个原 overflow record 已固化到权威 mapping/CSV。
 - 144 个 SLOT OLANG 已覆盖 742 个 physical occurrences；OHD `1E4C1146` 已覆盖 4 个 occurrence、904 个 physical records；14 个 loose OLANG 与 123 个 STAGEDAT embedded OLANG entry 均已完成 round-trip。
 - `Build-JpnUnifiedSlot.py` 已从 clean JPN 合并 SLOT OLANG、YPK/GTT、OHD：823 个目标 tag、110 个 SLOT pages、0 block overflow，DAT 大小与 KEY 保持不变。

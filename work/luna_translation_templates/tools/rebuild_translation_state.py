@@ -976,8 +976,9 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
     )
     if payload["next_file_id"] == "NONE":
         briefing_resume_line = (
-            "- 翻译队列已完成：`NEXT_FILE_ID=NONE`。后续进入 mapping 合并、"
-            "构建与实机验证阶段，不再创建新的 BRIEFING 翻译 mapping。"
+            "- 翻译队列已完成：`NEXT_FILE_ID=NONE`。正式 production CSV 已合并到 "
+            "`translations/briefing/`；下一步是专用 clean-JPN oEbN builder、round-trip 与实机验证，"
+            "不再创建新的 BRIEFING 翻译 mapping。"
         )
     else:
         briefing_resume_line = (
@@ -1003,6 +1004,8 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
             "- 每行只把 JPN 权威源文 `jpn_text` 翻译到 `cn_text`；保留 markup/control tokens，并按正常流程更新翻译和控制结构状态。",
             "- 不得机械复制 `eng_reference` / `mlg_cn_reference`。`NO_RELIABLE_AUX_REFERENCE` 行必须依据 JPN 与本 block 上下文翻译。",
             "- 这些模板只是翻译输入：不得修改 JPN 字段或结构索引，也不得把它们视为 DAT/build 产物。",
+            "- production 状态：`translations/briefing/` 已生成 469 个正式 CSV / 5,645 rows；静态合并 0 error、469/469 block fit、0 hard overflow。当前尚未写入 DAT，`ingame_status=NOT_TESTED`。",
+            "- 现有 91,609 行 `compiled_translation_manifest.csv` 不含 BRIEFING；后续 builder 必须按物理 `file_id + unique_index + stream/block/text` 身份直接读取 BRIEFING production CSV。",
             "",
             "相关文件：",
             "",
@@ -1011,6 +1014,9 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
             "- `tools/Align-JpnBriefingReferences.py`",
             "- `tools/Prepare-JpnBriefingTemplates.py`",
             "- `tools/Prepare-JpnBriefingTemplates.mjs`",
+            "- `../../tools/Compile-BriefingProductionTranslations.mjs` (production merge / check)",
+            "- `../../translations/briefing/` (正式 production CSV)",
+            "- `../../docs/BRIEFING_BUILD_HANDOFF.md` (后续构建交接)",
             "- `sol_translation_mappings/BRIEFING/README.md` (正式 per-file mapping 目录)",
         )
     )

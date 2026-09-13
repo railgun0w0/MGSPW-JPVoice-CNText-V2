@@ -1,6 +1,6 @@
 # JPVoice_CNText_V2 最终方向
 
-更新日期：2026-09-08（Asia/Hong_Kong）
+更新日期：2026-09-13（Asia/Hong_Kong）
 
 ## 一、最终目标
 
@@ -60,13 +60,19 @@ ENG/MLG_CN 的 page、tag、record、entity、reference、segment index 均不�
 - ENG/CN 候选参考。
 - 最终中文和审核状态。
 
-`compiled_translation_manifest.csv` 是正式构建输入。它由所有 `APPROVED` 的 file_id CSV 自动生成，每行绑定一个具体 JPN record、reference 或 timed segment。
+`compiled_translation_manifest.csv` 是旧五类资源的正式构建输入。它由对应 `APPROVED` file_id CSV 自动生成，每行绑定一个具体 JPN record、reference 或 timed segment。BRIEFING 保留独立的物理 row topology，当前以 `translations/briefing/*.csv` 作为未来专用 oEbN builder 的直接输入，不进入现有 91,609 行 manifest。
 
 原来的全局日文去重与参考汇总保留为 `translation_text_catalog.csv`，只用于搜索重复文本、术语和 ENG/MLG_CN 候选，不决定最终译文。
 
 完整关系为：
 
+旧五类关系为：
+
 `translation_worklist.csv（管理） -> 单个 file_id CSV（翻译权威） -> compiled_translation_manifest.csv（JPN 对象绑定） -> clean JPN build`
+
+BRIEFING 关系为：
+
+`JPN block 模板 + per-file mapping -> translations/briefing/*.csv -> 专用 oEbN builder -> clean JPN build`
 
 ## 四、各资源的处理方式
 
@@ -105,6 +111,12 @@ hard_capacity = aligned_size - header_size
 
 只重建目标内嵌 OLANG 和对应 STAGEDAT page。压缩结果超过原 page capacity 时只报告 overflow，不启用尚未实机验证的 relocation/repacked fallback。
 
+### BRIEFING oEbN
+
+按冻结 JPN lane 的物理 block 和 block 内 text index 翻译。469 个 block / 5,645 行不做文本去重；必须以 `file_id + unique_index` 以及 `stream/block/text` 身份精确写回，不能只按日文内容匹配。
+
+当前 production merge 已完成并确认 469/469 blocks 在声明容量内、0 hard overflow，但专用 DAT builder 尚未实现。builder 必须从 clean JPN `0076531d.DAT` 开始，保留非文本结构、非目标语言 lane、空 block 和全部非目标 payload，并在输出后重新执行 oEbN parser、逐行文本和 byte-difference 审计。具体交接见 `BRIEFING_BUILD_HANDOFF.md`。
+
 ## 五、控制符与文本规则
 
 必须识别并保护 `<R=...,...>`、`<I=...>`、`<->`、`$1`、`$2` 以及其他 `<...>` 和 `$...` 控制内容。
@@ -120,7 +132,7 @@ hard_capacity = aligned_size - header_size
 3. 重新组织 MLG_CN/ENG 候选参考，不继承旧行号。
 4. 以日文和剧情上下文完成中文翻译。
 5. 将确认译文写入 file_id CSV 的 `cn_text`，审核后标记为 `APPROVED`。
-6. 从所有已批准 file_id CSV 生成 `compiled_translation_manifest.csv`，显式绑定 JPN record/reference/segment。
+6. 旧五类从已批准 file_id CSV 生成 `compiled_translation_manifest.csv`；BRIEFING 从模板与 mapping 确定性生成 `translations/briefing/*.csv`，保持物理 row 身份。
 7. 检查控制符、UTF-8、NUL、容量和对象覆盖。
 8. 从 clean JPN original 重建目标资源。
 9. 重建对应 CNF/SLOT/STAGEDAT 页面。
@@ -148,6 +160,7 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 - `translation_worklist.csv` 的 241/241 个 file_id 已完成，file_id 内精确去重译文为 21,041/21,041 行。
 - `compiled_translation_manifest.csv` 已将正式译文展开为 91,609 个真实 JPN 对象绑定。
 - 36 个 YPK/GTT、1 个 OHD、144 个 SLOT OLANG、14 个 loose OLANG、46 个 STAGEDAT OLANG file_id 均已进入 production。
+- BRIEFING 的 469 blocks / 5,645 个 JPN 物理 rows 已进入独立 `translations/briefing/` production：FILES 363/4,810，MISSION 106/835；静态检查 0 error、0 hard overflow，尚未构建或实机验证。
 - 29 个初始 GTT hard-overflow record 已按人工审定短译文固化；重新计算后为 20 normal fit、9 alignment spill、0 hard overflow。全体 GTT 为 1,815 normal fit、67 alignment spill、0 hard overflow。
 - 统一 SLOT 构建从 clean JPN 合并 742 个 SLOT OLANG、77 个 YPK/GTT 和 4 个 OHD physical occurrences，共 823 个目标 tag、110 pages、0 block overflow。
 - 14 个 loose OLANG、123 个 STAGEDAT embedded OLANG entries 以及中文字库已与统一 SLOT 组成 `build/readiness/full_package/`。
@@ -155,11 +168,11 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 
 ## 十、接下来的执行顺序
 
-1. 将 `build/readiness/full_package/` 作为唯一统一测试候选；不要混用各资源独立 readiness DAT。
-2. 标题 UI ASCII 保留修复已于 2026-09-09 实机通过；后续翻译不得把已确认的纯 ASCII UI 再改成依赖未覆盖中文字形的 CJK。
-3. 集中验证剧情字幕、任务结束无线电、任务结算字段、任务说明、过场字幕、ruby、换行、字库和日语语音是否正常。
-4. 对发现的问题记录 resource class、file_id、原文/现译文和场景；只修订对应权威 CSV/mapping。
-5. 重新运行 production compile、容量/控制符检查和 clean-JPN 全量构建，禁止在测试 DAT 上增量打补丁。
+1. 先按 `BRIEFING_BUILD_HANDOFF.md` 实现专用 BRIEFING clean-JPN oEbN builder，并完成重建后的 parser、文本、容量和非目标差异审计。
+2. 将通过验证的 BRIEFING candidate 与既有五类资源从 clean JPN 重新组成统一测试包；不要在旧测试 DAT 上增量覆盖，也不要混用各资源独立 readiness DAT。
+3. 标题 UI ASCII 保留修复已于 2026-09-09 实机通过；后续翻译不得把已确认的纯 ASCII UI 再改成依赖未覆盖中文字形的 CJK。
+4. 集中验证 BRIEFING FILES/MISSION、剧情字幕、任务结束无线电、任务结算字段、任务说明、过场字幕、ruby、换行、字库和日语语音是否正常。
+5. 对发现的问题记录 resource class、file_id、原文/现译文和场景；只修订对应权威 CSV/mapping，再从 production compile 开始全量重建。
 6. 实机问题清零后冻结正式发布包和恢复/安装说明。
 
 ### 2026-09-09 实机回归确认

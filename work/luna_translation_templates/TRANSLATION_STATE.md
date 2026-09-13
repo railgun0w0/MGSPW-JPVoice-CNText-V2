@@ -3,7 +3,7 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-13T15:18:50+08:00`
+Updated: `2026-09-13T15:24:35+08:00`
 Branch: `sol-translation`
 Latest validated checkpoint commit: `46e97a89d9a1fe0758520cffde5b9eae820710cf`
 Total rows / persisted rows: **26686 / 26686**
@@ -31,13 +31,15 @@ NEXT_FILE_ID: **`NONE`**
 - BRIEFING MISSION：**106 blocks / 835 JPN rows**。
 - 源模板状态：非空 `jpn_text` **5645/5645**；模板内非空 `cn_text` **0/5645**。模板保持只读，正式译文写入 `sol_translation_mappings/BRIEFING/`。
 - 正式 mapping 进度：**469/469 file_ids，5645/5645 rows**；剩余 **0 file_ids / 0 rows**。
-- 翻译队列已完成：`NEXT_FILE_ID=NONE`。后续进入 mapping 合并、构建与实机验证阶段，不再创建新的 BRIEFING 翻译 mapping。
+- 翻译队列已完成：`NEXT_FILE_ID=NONE`。正式 production CSV 已合并到 `translations/briefing/`；下一步是专用 clean-JPN oEbN builder、round-trip 与实机验证，不再创建新的 BRIEFING 翻译 mapping。
 - 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。
 - 旧初版统计（2,461 translation units / 42,079 全语言物理文本对象 / 42,002 rows）来自错误的六语言聚合，现已废弃，不代表当前模板。
 - 辅助覆盖：`eng_reference` **5095 rows**；旧 `mlg_cn_reference` **5085 rows**。它们只用于理解和措辞参考，不是待翻译源文或翻译权威。
 - 每行只把 JPN 权威源文 `jpn_text` 翻译到 `cn_text`；保留 markup/control tokens，并按正常流程更新翻译和控制结构状态。
 - 不得机械复制 `eng_reference` / `mlg_cn_reference`。`NO_RELIABLE_AUX_REFERENCE` 行必须依据 JPN 与本 block 上下文翻译。
 - 这些模板只是翻译输入：不得修改 JPN 字段或结构索引，也不得把它们视为 DAT/build 产物。
+- production 状态：`translations/briefing/` 已生成 469 个正式 CSV / 5,645 rows；静态合并 0 error、469/469 block fit、0 hard overflow。当前尚未写入 DAT，`ingame_status=NOT_TESTED`。
+- 现有 91,609 行 `compiled_translation_manifest.csv` 不含 BRIEFING；后续 builder 必须按物理 `file_id + unique_index + stream/block/text` 身份直接读取 BRIEFING production CSV。
 
 相关文件：
 
@@ -46,6 +48,9 @@ NEXT_FILE_ID: **`NONE`**
 - `tools/Align-JpnBriefingReferences.py`
 - `tools/Prepare-JpnBriefingTemplates.py`
 - `tools/Prepare-JpnBriefingTemplates.mjs`
+- `../../tools/Compile-BriefingProductionTranslations.mjs` (production merge / check)
+- `../../translations/briefing/` (正式 production CSV)
+- `../../docs/BRIEFING_BUILD_HANDOFF.md` (后续构建交接)
 - `sol_translation_mappings/BRIEFING/README.md` (正式 per-file mapping 目录)
 
 ## Complete completed file_id list

@@ -144,6 +144,17 @@ ingame_status = NOT_TESTED
 
 模板不得直接用于构建 DAT。
 
+### BRIEFING production 与构建交接
+
+BRIEFING mapping 已确定性合并到 `translations/briefing/`：469 个正式 CSV / 5,645 个物理 JPN rows，静态检查为 469/469 block fit、0 hard overflow。重新生成或核对使用：
+
+```powershell
+node tools/Compile-BriefingProductionTranslations.mjs --write
+node tools/Compile-BriefingProductionTranslations.mjs --check
+```
+
+现有旧五类 `compiled_translation_manifest.csv` 不包含 BRIEFING；不得按 `jpn_text` 去重或把这些 rows 直接交给 OLANG/GTT builder。BRIEFING 后续应由专用 clean-JPN oEbN builder 读取 `translations/briefing/*.csv`，按 `file_id + unique_index` 和 `stream/block/text` 物理身份写回。当前尚未构建 DAT、尚未实机测试。完整门槛和执行顺序见 `docs/BRIEFING_BUILD_HANDOFF.md`。
+
 ## 单个 mapping 修订方式
 
 全部初版翻译已经完成。仅当人工复核发现明确问题时，才按以下方式修订；每次只处理一个 file_id，或一个很小的同类资源集合：

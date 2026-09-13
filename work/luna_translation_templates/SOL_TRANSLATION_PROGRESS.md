@@ -8,7 +8,8 @@ Branch: `sol-translation`
 - 全部 **710 / 710 file_ids、26,686 / 26,686 translation rows** 已有完整 mapping，`NEXT_FILE_ID=NONE`。
 - `BRIEFING/` 是物理目录名；其中模板和 mapping 的逻辑 `resource_class` 仍为 `BRIEFING_NBE`。
 - BRIEFING 共 **469 blocks / 5,645 JPN rows**，其中 FILES 为 363 / 4,810，MISSION 为 106 / 835。
-- 当前阶段是合并、构建和测试准备；本目录中的模板与 mapping 不等同于已写入 DAT 的正式补丁。
+- BRIEFING production merge 已完成：正式 CSV 位于 `../../translations/briefing/`，但尚未写入 DAT，也尚未实机测试。
+- 当前工程起点是 `../../docs/BRIEFING_BUILD_HANDOFF.md`：先实现专用 clean-JPN oEbN builder 和 round-trip，再重组统一测试包；不再做翻译或 mapping 分包。
 
 ## Active rules
 

@@ -19,12 +19,14 @@ Japanese source text plus the complete block context remains authoritative; MLG_
 
 ## Next phase
 
-Translation is complete. Do not create packet-level, `partNNN.json`, or replacement queue artifacts. The remaining work is:
+Translation and the formal production CSV merge are complete. Do not create packet-level, `partNNN.json`, or replacement queue artifacts. `translations/briefing/` now contains 469 production CSVs / 5,645 rows and is the direct input for the future dedicated oEbN builder. The remaining work is:
 
-1. merge the validated mappings into formal translation CSVs;
-2. run build-time structural and capacity checks;
-3. build the patch;
-4. perform in-game verification;
-5. update build/test documentation from those results.
+1. rerun `node tools/Compile-BriefingProductionTranslations.mjs --check` from the repository root;
+2. implement a dedicated clean-JPN BRIEFING oEbN builder using physical `file_id + unique_index + stream/block/text` identity;
+3. run rebuilt-DAT parser, text, capacity and non-target byte-difference checks;
+4. integrate the validated result into the unified test package;
+5. perform separate FILES/MISSION in-game verification and update build/test status.
+
+The current generic `Compile-ProductionTranslations.py` / `compiled_translation_manifest.csv` path does not include BRIEFING. Do not deduplicate these physical rows by Japanese text or pass them to an OLANG/GTT builder. See `docs/BRIEFING_BUILD_HANDOFF.md` for the authoritative handoff.
 
 Before entering the next phase, run `python tools/rebuild_translation_state.py --check` from `work/luna_translation_templates/`. It must report 710/710 file_ids, 26,686/26,686 rows, zero remaining/partial file_ids, and zero validation errors.
