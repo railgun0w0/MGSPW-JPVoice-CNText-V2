@@ -27,7 +27,7 @@ This complete ledger is regenerated from committed mappings. It is exhaustive, n
 - Complete file_ids: **710 / 710**
 - Complete rows: **26686 / 26686**
 - Mapping-backed persisted rows: **26686 / 26686**
-- Latest validated mapping checkpoint: `647d4a727bff9993b9701943df0b2072bc169f8c`
+- Latest validated mapping checkpoint: `46e97a89d9a1fe0758520cffde5b9eae820710cf`
 - NEXT_FILE_ID: **`NONE`**
 
 | Resource class | file_id | Rows | Mapping / manifest / translated CSV | Commit | Review / risk evidence |
@@ -628,7 +628,7 @@ This complete ledger is regenerated from committed mappings. It is exhaustive, n
 | BRIEFING_NBE | `BRIEFING_FILES_BLOCK_086E20` | 24 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_086E20.json` | `647d4a727bff9993b9701943df0b2072bc169f8c` | 3/24 rows carry review_flag; ruby flags. |
 | BRIEFING_NBE | `BRIEFING_FILES_BLOCK_087AF0` | 44 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_087AF0.json` | `647d4a727bff9993b9701943df0b2072bc169f8c` | 12/44 rows carry review_flag; ruby flags. |
 | BRIEFING_NBE | `BRIEFING_FILES_BLOCK_088F20` | 70 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_088F20.json` | `647d4a727bff9993b9701943df0b2072bc169f8c` | 8/70 rows carry review_flag; ruby flags. |
-| BRIEFING_NBE | `BRIEFING_FILES_BLOCK_08A800` | 44 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_08A800.json` | `647d4a727bff9993b9701943df0b2072bc169f8c` | 7/44 rows carry review_flag; ruby flags. |
+| BRIEFING_NBE | `BRIEFING_FILES_BLOCK_08A800` | 44 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_08A800.json` | `46e97a89d9a1fe0758520cffde5b9eae820710cf` | 8/44 rows carry review_flag; control-token flags; ruby flags. |
 | BRIEFING_NBE | `BRIEFING_FILES_BLOCK_08BF20` | 52 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_08BF20.json` | `647d4a727bff9993b9701943df0b2072bc169f8c` | 8/52 rows carry review_flag; ruby flags. |
 | BRIEFING_NBE | `BRIEFING_FILES_BLOCK_08DAB0` | 37 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_08DAB0.json` | `647d4a727bff9993b9701943df0b2072bc169f8c` | 1/37 rows carry review_flag; ruby flags. |
 | BRIEFING_NBE | `BRIEFING_FILES_BLOCK_08EE30` | 32 | `work/luna_translation_templates/sol_translation_mappings/BRIEFING/BRIEFING_FILES_BLOCK_08EE30.json` | `647d4a727bff9993b9701943df0b2072bc169f8c` | 1/32 rows carry review_flag; ruby flags. |
