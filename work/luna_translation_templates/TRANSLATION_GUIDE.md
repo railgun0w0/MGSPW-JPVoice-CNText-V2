@@ -157,7 +157,7 @@ node tools/Compile-BriefingProductionTranslations.mjs --write
 node tools/Compile-BriefingProductionTranslations.mjs --check
 ```
 
-现有旧五类 `compiled_translation_manifest.csv` 不包含 BRIEFING；不得按 `jpn_text` 去重或把这些 rows 直接交给 OLANG/GTT builder。BRIEFING 后续应由专用 clean-JPN oEbN builder 读取 `translations/briefing/*.csv`，按 `file_id + unique_index` 和 `stream/block/text` 物理身份写回。当前尚未构建 DAT、尚未实机测试。完整门槛和执行顺序见 `docs/BRIEFING_BUILD_HANDOFF.md`。
+现有旧五类 `compiled_translation_manifest.csv` 不包含 BRIEFING；不得按 `jpn_text` 去重或把这些 rows 直接交给 OLANG/GTT builder。BRIEFING 由专用 `tools/Build-BriefingDat.py` 读取 `translations/briefing/*.csv`，按 `file_id + unique_index` 和 `stream/block/text` 物理身份写回。clean-JPN 构建与离线 parser/text/diff round-trip 已 PASS，尚未实机测试。完整门槛和执行顺序见 `docs/BRIEFING_BUILD_HANDOFF.md`。
 
 ## 单个 mapping 修订方式
 

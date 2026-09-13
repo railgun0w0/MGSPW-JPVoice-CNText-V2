@@ -9,9 +9,12 @@
 
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
+import { createRequire } from "node:module";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { Workbook } from "@oai/artifact-tool";
+
+const require = createRequire(import.meta.url);
+const { Workbook } = require("@oai/artifact-tool");
 
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));

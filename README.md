@@ -31,12 +31,12 @@ V2 的硬规则：
 当前状态：
 
 - 当前六类翻译共 710/710 个 file_id、26,686/26,686 条 translation rows 完成。旧五类资源仍为 241 file_ids / 21,041 个去重翻译行，对象级 `compiled_translation_manifest.csv` 共 91,609 行。
-- BRIEFING 已生成独立正式 production CSV：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、控制结构、UTF-8、容量和 469 文件 CSV round-trip 均通过，0 hard overflow。尚未写入 DAT、尚未实机测试。
+- BRIEFING 已生成独立正式 production CSV，并完成专用 clean-JPN fixed-layout 构建：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、全盘 parser/text/diff round-trip 均通过，尚未实机测试。
 - 当前优先级是完成包含 BRIEFING 的可运行 MVP：专用 oEbN builder、round-trip、统一测试包和实机验证。旧五类模板按 `file_id + jpn_text` 自动聚合可能压掉同文异境差异，已登记为 MVP 后的翻译润色/通用 schema 优化方向；MVP 前不重做 21,041 行旧译文，也不因此阻塞构建。
 - 36 个 YPK/GTT 已完成 fixed-frame repack：1,882 records、2,136 timed segments，1,815 normal fit、67 alignment spill、0 hard overflow。人工缩短的 29 个原 overflow record 已固化到权威 mapping/CSV。
 - 144 个 SLOT OLANG 已覆盖 742 个 physical occurrences；OHD `1E4C1146` 已覆盖 4 个 occurrence、904 个 physical records；14 个 loose OLANG 与 123 个 STAGEDAT embedded OLANG entry 均已完成 round-trip。
 - `Build-JpnUnifiedSlot.py` 已从 clean JPN 合并 SLOT OLANG、YPK/GTT、OHD：823 个目标 tag、110 个 SLOT pages、0 block overflow，DAT 大小与 KEY 保持不变。
-- `build/readiness/full_package/` 已组成 20 文件的统一测试包：合并 SLOT DAT/KEY、14 个 loose OLANG、STAGEDAT 和 3 个已验证中文字库。
-- 2026-09-09 已将统一包安装到 `D:\GAME\steamapps\common\MGS_PW`，20 个文件写入后 `VERIFY_MISMATCHES=0`；原文件备份在 `JPVoice_CNText_V2\backups\` 下。
+- `build/readiness/full_package/` 已组成新的 21 文件统一 readiness 包：合并 SLOT DAT/KEY、14 个 loose OLANG、STAGEDAT、BRIEFING DAT 和 3 个已验证中文字库；逐文件 hash mismatch 为 0。
+- 2026-09-09 实机安装并验证的是加入 BRIEFING 前的旧 20 文件包。新的 21 文件包尚未安装；安装时必须重新备份并验证全部 21 个文件。
 - 标题 UI 的 `NEW GAME`、`LOAD GAME`、`DELETE` 英文标签已通过实机验证。此次 ASCII UI 回归修复共恢复/保留 351 条高风险文本，后续不得把纯 ASCII UI 默认改成依赖未覆盖中文 glyph 的译文。
 - 当前仍需集中验收中文缺字/日文缺字、任务结束后的无线电资源、任务结算武器经验字段和固定 UI 长文本排版；发现问题时回到对应 file_id 权威译文修订，再从 clean JPN 全量重建。

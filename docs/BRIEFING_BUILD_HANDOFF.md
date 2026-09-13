@@ -2,7 +2,7 @@
 
 更新时间：2026-09-13（Asia/Hong_Kong）
 
-本文是当前 clean JPN BRIEFING 中文文本进入后续构建的权威交接说明。它记录已经完成的输入、可重复执行的静态门槛，以及尚未实现的 DAT 写入边界。
+本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip 和统一 readiness 包已经完成；当前剩余工作是安装前备份以及 FILES/MISSION 实机验证。
 
 ## 当前完成状态
 
@@ -11,10 +11,15 @@
 - 合计：469 blocks / 5,645 JPN rows。
 - 翻译 mapping：469/469 file_ids、5,645/5,645 rows。
 - 正式 production CSV：`translations/briefing/` 下 469 个 CSV、5,645 行。
-- 静态合并结果：控制结构、UTF-8、可见假名、物理 row 身份、block 容量和 CSV round-trip 均通过；469 blocks 全部 `NORMAL_FIT`，0 `HARD_OVERFLOW`。
-- 尚未完成：BRIEFING oEbN DAT builder、重建后的 parser/byte round-trip、统一测试包集成和实机验证。
+- 静态合并结果：控制结构、UTF-8、物理 row 身份、block 容量和 CSV round-trip 均通过；469 blocks 全部 fit，0 overflow。
+- 专用 builder：`tools/Build-BriefingDat.py`，支持 `--check` 和正式构建，只接受冻结 clean JPN SHA-256 `683fef2d...d94e372`。
+- 独立 candidate：`build/readiness/briefing/MGS_PW/mgspw/JPN/disc0_rel/0076531d.DAT`，SHA-256 `360125f3...80373eb`。
+- 离线验证：469/469 blocks、5,645/5,645 中文 rows exact；2,292 个非目标 oEbN block 不变；目标 block 外 ciphertext 改动 0；DAT size 4,142,432 不变。
+- 全量回读：945 allocations、2,761 oEbN、2,727 text-bearing、34 empty、42,079 rows、0 parser failure。
+- 统一 readiness 包：`build/readiness/full_package/`，21 files、1,134,808,848 bytes，逐文件 SHA-256 mismatch 为 0。
+- 尚未完成：安装与 BRIEFING FILES/MISSION 实机验证。
 
-`translation_status=APPROVED` 和 `build_status=READY` 表示译文已通过进入 builder 前的静态门槛，不表示已经写入 DAT。当前 `ingame_status` 仍为 `NOT_TESTED`。
+production CSV 内的 `translation_status=APPROVED` / `build_status=READY` 是可重复生成的输入门槛；资源级状态现为 `OFFLINE_BUILT_PASS`。为保持 compiler 确定性，不把 469 个 CSV 的输入状态改写为派生构建状态。当前 `ingame_status` 仍为 `NOT_TESTED`。
 
 ## 权威输入与派生输出
 
@@ -22,8 +27,10 @@
 
 1. `work/luna_translation_templates/BRIEFING/*.csv`：冻结的 JPN 物理 row 模板；JPN 文本、顺序和结构身份权威，只读。
 2. `work/luna_translation_templates/sol_translation_mappings/BRIEFING/*.json`：人工审定的中文 mapping 权威。
-3. `translations/briefing/*.csv`：由前两层确定性合并得到的正式 BRIEFING production CSV；后续 builder 的直接翻译输入。
+3. `translations/briefing/*.csv`：由前两层确定性合并得到的正式 BRIEFING production CSV；builder 的直接翻译输入。
 4. `build/translation/briefing_production_merge_report.json`：本地生成的静态合并报告，不是翻译输入。
+5. `tools/Build-BriefingDat.py`：clean-JPN fixed-layout builder 与全盘回读/差异审计实现。
+6. `build/readiness/briefing/reports/briefing_build_report.json`：本地离线构建 PASS 证据。
 
 物理目录名使用 `BRIEFING` / `translations/briefing`，现有 CSV 和 mapping 内的逻辑资源类仍是 `BRIEFING_NBE`。builder 应按 `file_id` 前缀区分 `BRIEFING_FILES_BLOCK_*` 与 `BRIEFING_MISSION_BLOCK_*`，不得按目录名猜测另一套 schema。
 
@@ -62,7 +69,7 @@ ARTIFACT_TOOL_CSV_ROUNDTRIP_FILES=469
 
 BRIEFING 不在该 91,609 行 manifest 内。不得为了复用旧流程而按 `jpn_text` 去重 BRIEFING，也不得把 5,645 行附加到旧 manifest 后直接交给现有 OLANG/GTT builder。BRIEFING 保留每个物理 JPN row，即使同一 block 或不同 block 的日文文本相同，也必须按物理身份分别写回。
 
-在专用 BRIEFING builder 完成前，`translations/briefing/*.csv` 是独立的 production 输入。
+`translations/briefing/*.csv` 仍是独立 production 输入，由专用 builder 直接消费。
 
 ## 专用 builder 必须遵守的绑定规则
 
@@ -81,7 +88,7 @@ BRIEFING 不在该 91,609 行 manifest 内。不得为了复用旧流程而按 `
 
 ## builder 的强制验证
 
-首个 builder 应先实现 `--check` 或 dry-run，再实现写入。正式结果至少要报告：
+builder 已实现以下门槛，任何后续重建仍必须全部通过：
 
 - 输入 production files/rows：469 / 5,645；
 - FILES 与 MISSION：363/4,810、106/835；
@@ -94,26 +101,31 @@ BRIEFING 不在该 91,609 行 manifest 内。不得为了复用旧流程而按 `
 - DAT 总大小、allocation 覆盖/间隙和 parser failure 状态；
 - KEY 是否保持 byte-identical。
 
-不要把“469 个 block 均静态 fit”写成“DAT 构建已完成”。只有 builder 输出、重解析和差异审计全部通过后，才能把 BRIEFING 标记为 `BUILT`；只有实机检查 FILES/MISSION 的显示、换行、ruby、顺序和调用路径后，才能标记为 `INGAME_PASS`。
+本轮 builder 输出、重解析和差异审计已经全部通过，因此资源级可标记为 `OFFLINE_BUILT_PASS`；只有实机检查 FILES/MISSION 的显示、换行、ruby、顺序和调用路径后，才能标记为 `INGAME_PASS`。
 
 ## 后续执行顺序
 
 1. 运行 production `--check` 与全局 translation state `--check`。
-2. 实现只读 dry-run 的 BRIEFING oEbN builder，并验证上述精确绑定。
-3. 从 clean JPN DAT 生成独立 BRIEFING build candidate。
-4. 对 candidate 重新执行 oEbN parser、文本、容量、非目标差异和 DAT/KEY 验证。
-5. 将通过验证的 BRIEFING DAT 与既有五类资源的统一测试包重新组装；不得在旧测试 DAT 上增量覆盖。
-6. 安装前生成备份与文件 hash 清单，安装后验证 hash。
-7. 分别实机检查 BRIEFING FILES 与 MISSION BRIEFING，记录 block/file_id、场景和问题行。
-8. 只在对应 mapping 中修订问题，再从 production compile 开始全量重跑。
+2. 用下述命令从 clean JPN 基线重建 BRIEFING；不得使用 Steam 当前 DAT、旧 Experimental 或 MLG/ENG DAT：
 
-当前恢复点：翻译与 production merge 已完成；下一项工程工作是“专用 BRIEFING clean-JPN builder + round-trip”，不是继续翻译，也不是重复 B81 corpus 研究。
+```powershell
+python tools/Build-BriefingDat.py --dat 'D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\0076531d.DAT' --check
+python tools/Build-BriefingDat.py --dat 'D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\0076531d.DAT'
+python tools/Assemble-JpnCnTestPackage.py
+```
+
+3. 安装前生成备份与 21 文件 hash 清单，安装后验证 hash。
+4. 分别实机检查 BRIEFING FILES 与 MISSION BRIEFING，记录 block/file_id、场景和问题行。
+5. 只在对应 mapping 中修订问题，再从 production compile 开始全量重跑。
+
+当前恢复点：翻译、production merge、专用 clean-JPN builder、全盘 round-trip、差异审计和 21 文件统一 readiness 包均已完成。下一项工程工作是安装与 FILES/MISSION 实机验证，不是继续翻译或重复结构研究。
 
 ## MVP 优先级与后续优化
 
 当前第一优先级是完成可运行 MVP，不在构建前扩张为旧五类翻译体系重构：
 
-- MVP 必做：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、统一测试包集成，以及 FILES/MISSION 实机验证。
+- MVP 已完成（离线）：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、统一测试包集成。
+- MVP 待完成（实机）：FILES/MISSION 显示、顺序、控制符、结束流程和字库验证。
 - MVP 保持：BRIEFING 继续使用 5,645 个独立物理 translation rows，保证每个上下文可以单独译写并精确绑定。
 - MVP 不做：不重新拆分或重译旧五类 21,041 个聚合 translation rows，不把全局通用 schema 改造作为 BRIEFING 构建前置条件。
 

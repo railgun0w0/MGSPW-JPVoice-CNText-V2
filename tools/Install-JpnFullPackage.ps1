@@ -12,14 +12,14 @@ if (-not $PackageRoot) {
 }
 if (-not $BackupRoot) {
     $stamp = Get-Date -Format 'yyyyMMdd-HHmmss'
-    $BackupRoot = Join-Path $v2Root "backups\steam-before-ascii-ui-fix-$stamp"
+    $BackupRoot = Join-Path $v2Root "backups\steam-before-full-package-$stamp"
 }
 
 $packageResolved = (Resolve-Path -LiteralPath $PackageRoot).Path
 $gameResolved = (Resolve-Path -LiteralPath $GameRoot).Path
 $files = Get-ChildItem -LiteralPath $packageResolved -Recurse -File | Sort-Object FullName
-if ($files.Count -ne 20) {
-    throw "Expected 20 package files, found $($files.Count)"
+if ($files.Count -ne 21) {
+    throw "Expected 21 package files, found $($files.Count)"
 }
 
 $items = foreach ($file in $files) {

@@ -3,7 +3,7 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-13T20:05:50+08:00`
+Updated: `2026-09-13T20:26:47+08:00`
 Branch: `sol-translation`
 Latest validated checkpoint commit: `46e97a89d9a1fe0758520cffde5b9eae820710cf`
 Total rows / persisted rows: **26686 / 26686**

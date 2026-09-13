@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import shutil
 from pathlib import Path
@@ -11,6 +12,14 @@ from pathlib import Path
 
 class PackageError(RuntimeError):
     pass
+
+
+def sha256_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
 
 
 def copy_file(source: Path, destination: Path) -> dict:
@@ -24,13 +33,18 @@ def copy_file(source: Path, destination: Path) -> dict:
         "source": str(source.resolve()),
         "output": str(destination.resolve()),
         "size": source.stat().st_size,
+        "sha256": sha256_file(destination),
     }
 
 
 def parse_args() -> argparse.Namespace:
     root = Path(__file__).resolve().parents[1]
     readiness = root / "build" / "readiness"
-    experimental = root.parent / "JPVoice_CNText_Experimental"
+    font_candidates = (
+        root.parent / "payload-stage2" / "mgspw" / "FONT",
+        root.parent / "JPVoice_CNText_Experimental" / "payload-stage2" / "mgspw" / "FONT",
+    )
+    default_font_root = next((path for path in font_candidates if path.is_dir()), font_candidates[0])
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--unified-slot-root",
@@ -48,9 +62,19 @@ def parse_args() -> argparse.Namespace:
         default=readiness / "stagedat" / "mgspw" / "JPN" / "disc0_rel" / "009645fa.PDT",
     )
     parser.add_argument(
+        "--briefing-dat",
+        type=Path,
+        default=readiness / "briefing" / "MGS_PW" / "mgspw" / "JPN" / "disc0_rel" / "0076531d.DAT",
+    )
+    parser.add_argument(
+        "--briefing-report",
+        type=Path,
+        default=readiness / "briefing" / "reports" / "briefing_build_report.json",
+    )
+    parser.add_argument(
         "--font-root",
         type=Path,
-        default=experimental / "payload-stage2" / "mgspw" / "FONT",
+        default=default_font_root,
     )
     parser.add_argument(
         "--output-root",
@@ -78,6 +102,15 @@ def main() -> int:
         raise PackageError(f"expected 14 loose OLANG files, found {len(loose_files)}")
     font_names = ["0007ccd8.xpr", "000ebbe8.xpr", "00c7c9f9.xpr"]
 
+    if not args.briefing_report.is_file():
+        raise PackageError(f"missing BRIEFING build report: {args.briefing_report}")
+    briefing_report = json.loads(args.briefing_report.read_text(encoding="utf-8"))
+    if briefing_report.get("status") != "PASS":
+        raise PackageError("BRIEFING build report is not PASS")
+    reported_briefing_hash = briefing_report.get("output", {}).get("sha256")
+    if not args.briefing_dat.is_file() or sha256_file(args.briefing_dat) != reported_briefing_hash:
+        raise PackageError("BRIEFING DAT does not match its PASS report")
+
     plan: list[tuple[str, Path, Path]] = [
         (
             "SLOT_DAT",
@@ -93,6 +126,11 @@ def main() -> int:
             "STAGEDAT",
             args.stagedat,
             output_root / "mgspw" / "JPN" / "disc0_rel" / args.stagedat.name,
+        ),
+        (
+            "BRIEFING_DAT",
+            args.briefing_dat,
+            output_root / "mgspw" / "JPN" / "disc0_rel" / "0076531d.DAT",
         ),
     ]
     plan.extend(
@@ -133,6 +171,7 @@ def main() -> int:
             "slot_files": 2,
             "loose_olang_files": len(loose_files),
             "stagedat_files": 1,
+            "briefing_files": 1,
             "font_files": len(font_names),
             "total_bytes": sum(item["size"] for item in files),
         },
