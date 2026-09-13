@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXPERIMENTAL_TOOLS = ROOT.parent / "JPVoice_CNText_Experimental" / "tools"
+LEGACY_SUPPORT = ROOT / "tools" / "legacy_support"
 OUTPUT = ROOT / "build" / "slot_investigation" / "first10_pages_inventory.csv"
 
 MLG_KEY = Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\MLG\disc0_rel\002aba34.KEY")
@@ -125,11 +125,11 @@ def load_module(path: Path, name: str):
     return module
 
 
-SLOT = load_module(EXPERIMENTAL_TOOLS / "Build-JpnSlot.py", "first10_slot")
+SLOT = load_module(LEGACY_SUPPORT / "Build-JpnSlot.py", "first10_slot")
 VOICE = load_module(
-    EXPERIMENTAL_TOOLS / "Build-JpnSlotNativeVoiceText.py", "first10_voice"
+    LEGACY_SUPPORT / "Build-JpnSlotNativeVoiceText.py", "first10_voice"
 )
-RBX = load_module(EXPERIMENTAL_TOOLS / "Build-JpnInitCache.py", "first10_rbx")
+RBX = load_module(LEGACY_SUPPORT / "Build-JpnInitCache.py", "first10_rbx")
 sys.path.insert(0, str(ROOT))
 from core.gtt_multi import parse_gtt_multi  # noqa: E402
 

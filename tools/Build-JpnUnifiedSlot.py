@@ -52,7 +52,6 @@ def read_allocation(path: Path, entry) -> bytes:
 
 def parse_args() -> argparse.Namespace:
     root = Path(__file__).resolve().parents[1]
-    parent = root.parent
     readiness = root / "build" / "readiness"
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -93,7 +92,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--legacy-tools",
         type=Path,
-        default=parent / "JPVoice_CNText_Experimental" / "tools",
+        default=root / "tools" / "legacy_support",
     )
     parser.add_argument(
         "--zopfli",

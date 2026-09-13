@@ -200,11 +200,7 @@ class TrustedOverride:
 
 def parse_args() -> argparse.Namespace:
     v2_root = Path(__file__).resolve().parents[1]
-    default_repo = (
-        v2_root.parent
-        / "JPVoice_CNText_Experimental"
-        / ".upload_staging_mgspw_v2_20260906_push"
-    )
+    default_repo = v2_root
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--v2-root", type=Path, default=v2_root)
     parser.add_argument("--translation-repo", type=Path, default=default_repo)

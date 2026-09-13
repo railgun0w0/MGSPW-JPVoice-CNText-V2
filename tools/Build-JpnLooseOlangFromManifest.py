@@ -14,7 +14,7 @@ from pathlib import Path
 
 
 V2_ROOT = Path(__file__).resolve().parents[1]
-LEGACY_TOOLS = V2_ROOT.parent / "JPVoice_CNText_Experimental" / "tools"
+LEGACY_TOOLS = V2_ROOT / "tools" / "legacy_support"
 DEFAULT_GAME_ROOT = Path(r"D:\GAME\test\JPN\MGS_PW\mgspw")
 DEFAULT_MANIFEST = V2_ROOT / "build" / "translation" / "compiled_translation_manifest.csv"
 DEFAULT_OUTPUT_ROOT = V2_ROOT / "build" / "readiness" / "loose_olang" / "mgspw"

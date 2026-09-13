@@ -55,7 +55,6 @@ def validate_controls(jpn_text: str, cn_text: str) -> None:
 
 def parse_args() -> argparse.Namespace:
     v2_root = Path(__file__).resolve().parents[1]
-    project_parent = v2_root.parent
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--jpn-dat",
@@ -80,7 +79,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--legacy-tools",
         type=Path,
-        default=project_parent / "JPVoice_CNText_Experimental" / "tools",
+        default=v2_root / "tools" / "legacy_support",
     )
     return parser.parse_args()
 

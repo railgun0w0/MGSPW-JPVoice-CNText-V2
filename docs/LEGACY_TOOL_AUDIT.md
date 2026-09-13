@@ -8,6 +8,8 @@
 - `REFERENCE_ONLY`：只作为样本、报告或第三方对照。
 - `OUT_OF_SCOPE`：本轮文本容器基础不纳入。
 
+> 当前迁移状态（2026-09-13）：正式 V2 构建仍需复用的 6 个底层实现已按审计时的原文件固定收录到 `tools/legacy_support/`：`Build-JpnSlot.py`、`Build-JpnSlotFullOlang.py`、`Build-JpnInitCache.py`、`Build-JpnLooseOlang.py`、`Build-JpnSlotNativeVoiceText.py`、`Patch-StageDatPage.py`。当前仓库内的构建、提取和 golden-fixture 工具均默认从该目录加载，不再依赖相邻 `JPVoice_CNText_Experimental/tools`。这表示依赖已 vendored，不表示旧脚本的完整 main workflow 或被禁止的映射策略获得认可；production 仍只能调用下表明确批准的底层函数，并由父级 V2 入口负责身份、范围和 round-trip 验证。
+
 ## 可提升或部分提升
 
 | 旧资产 | 状态 | V2 可用部分 | 禁止/限制 |

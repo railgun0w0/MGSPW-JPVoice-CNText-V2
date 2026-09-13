@@ -42,7 +42,7 @@ def main() -> int:
     from core.rbx import parse_rbx, rebuild_rbx_texts, structural_signature
 
     slot = load_module(
-        root.parent / "JPVoice_CNText_Experimental" / "tools" / "Build-JpnSlot.py",
+        root / "tools" / "legacy_support" / "Build-JpnSlot.py",
         "freeze_olang_slot",
     )
     original_dat = Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\002aba34.DAT")

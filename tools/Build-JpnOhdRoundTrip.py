@@ -124,7 +124,6 @@ def rebuild_payload(voice, source: bytes, translations: dict[str, str], file_id:
 
 def parse_args() -> argparse.Namespace:
     root = Path(__file__).resolve().parents[1]
-    parent = root.parent
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--jpn-dat",
@@ -149,7 +148,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--legacy-tools",
         type=Path,
-        default=parent / "JPVoice_CNText_Experimental" / "tools",
+        default=root / "tools" / "legacy_support",
     )
     parser.add_argument(
         "--zopfli",

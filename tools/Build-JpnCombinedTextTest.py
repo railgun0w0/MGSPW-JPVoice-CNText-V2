@@ -38,6 +38,7 @@ def main() -> int:
     v2_root = Path(__file__).resolve().parents[1]
     project_parent = v2_root.parent
     legacy_root = project_parent / "JPVoice_CNText_Experimental"
+    legacy_tools = v2_root / "tools" / "legacy_support"
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--original-dat",
@@ -66,9 +67,9 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    slot = load_module(legacy_root / "tools" / "Build-JpnSlot.py", "v2_combined_slot")
+    slot = load_module(legacy_tools / "Build-JpnSlot.py", "v2_combined_slot")
     full = load_module(
-        legacy_root / "tools" / "Build-JpnSlotFullOlang.py",
+        legacy_tools / "Build-JpnSlotFullOlang.py",
         "v2_combined_encoder",
     )
     output_dat = args.output_dir / "002aba34.DAT"

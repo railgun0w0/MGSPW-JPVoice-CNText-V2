@@ -393,7 +393,7 @@ def main() -> int:
     parser.add_argument("--jpn-root", type=Path, default=Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\JPN"))
     parser.add_argument("--mlg-root", type=Path, default=Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\MLG"))
     parser.add_argument("--aux-jpn-root", type=Path, default=parent / "JPVoice_CNText_Experimental" / "build" / "text-only" / "mgspw" / "JPN")
-    parser.add_argument("--legacy-tools", type=Path, default=parent / "JPVoice_CNText_Experimental" / "tools")
+    parser.add_argument("--legacy-tools", type=Path, default=v2_root / "tools" / "legacy_support")
     parser.add_argument("--work-dir", type=Path, default=v2_root / "work" / "text_master_rows")
     args = parser.parse_args()
 

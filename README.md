@@ -16,6 +16,8 @@
 - [CURRENT_DIRECTION.md](docs/CURRENT_DIRECTION.md)：当前翻译、构建、验收顺序与明确禁止项。
 - [BRIEFING_BUILD_HANDOFF.md](docs/BRIEFING_BUILD_HANDOFF.md)：BRIEFING production 输入、专用 builder 约束与后续 round-trip/实机流程。
 
+旧五类资源仍需复用的 SLOT/CNF、RBX、DAR、OHD、loose OLANG 与 STAGEDAT 底层实现，已固定收录在 `tools/legacy_support/`。正式构建入口位于父级 `tools/`，不再从相邻的 `JPVoice_CNText_Experimental` 目录动态加载代码；`legacy_support` 中各脚本的历史 `main`、旧映射策略和硬编码目标仍不属于 production 入口。
+
 V2 的硬规则：
 
 1. 原始 JPN/ENG/working ENG_CN 文件只读。
@@ -25,7 +27,7 @@ V2 的硬规则：
 5. 每一层重建都必须独立 round-trip；容器通过不等于运行时映射成立。
 6. 全补丁以 JPN 日文原文为语义权威、以目标 JPN 资源为结构权威；MLG_CN 仅辅助参考术语与表达，ENG 仅在必要时用于消歧。
 7. OLANG 不按 MLG/ENG reference index、entity key occurrence 或旧 `semantic_partial` 结果直接移植；先完成 JPN 上下文工作表，再显式回填全部 JPN references。
-8. `translation_worklist.csv` 是 file_id 级管理索引；`translations/<resource_class>/<file_id>.csv` 是翻译权威。旧五类资源由 `compiled_translation_manifest.csv` 进入现有构建器；BRIEFING 当前由 `translations/briefing/*.csv` 进入待实现的专用 oEbN builder，不得按文本去重后硬并入旧 manifest。
+8. `translation_worklist.csv` 是 file_id 级管理索引；`translations/<resource_class>/<file_id>.csv` 是翻译权威。旧五类资源由 `compiled_translation_manifest.csv` 进入现有构建器；BRIEFING 由 `translations/briefing/*.csv` 进入专用 oEbN builder，不得按文本去重后硬并入旧 manifest。
 9. 所有正式候选从 clean JPN original 生成，不在旧 Experimental DAT 或现成 ENG/CN 补丁上叠加。
 
 当前状态：

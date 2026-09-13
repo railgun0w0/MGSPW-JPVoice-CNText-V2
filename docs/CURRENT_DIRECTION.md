@@ -127,6 +127,8 @@ production merge 与专用 `tools/Build-BriefingDat.py` 已完成。builder 从�
 
 ## 六、统一构建流程
 
+旧五类 builder 所需的已审计底层 parser/codec 已收录在 `tools/legacy_support/`，所有正式入口默认使用仓库内副本，不再要求工作区旁存在 `JPVoice_CNText_Experimental/tools`。该目录只提供底层实现；不得直接运行其中的历史 main 或恢复已被否决的映射策略。
+
 1. 从 `translation_worklist.csv` 选择待处理 file_id。
 2. 生成 `translations/<resource_class>/<file_id>.csv` 完整 JPN 上下文工作表。
 3. 重新组织 MLG_CN/ENG 候选参考，不继承旧行号。

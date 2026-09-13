@@ -21,7 +21,7 @@ EXPECTED_REFERENCES = 118
 EXPECTED_UNIQUE_TEXTS = 110
 
 V2_ROOT = Path(__file__).resolve().parents[1]
-LEGACY_TOOLS = V2_ROOT.parent / "JPVoice_CNText_Experimental" / "tools"
+LEGACY_TOOLS = V2_ROOT / "tools" / "legacy_support"
 DEFAULT_DAT = Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\002aba34.DAT")
 DEFAULT_KEY = Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\002aba34.KEY")
 DEFAULT_WORK_ROOT = V2_ROOT / "build" / "translation" / "5D3AF52D"

@@ -429,9 +429,8 @@ def extract_stagedat(stage_path: Path, stage, rbx) -> tuple[list[dict], dict, li
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     v2_root = Path(__file__).resolve().parents[1]
-    project_parent = v2_root.parent
     parser.add_argument("--jpn-root", type=Path, default=Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\JPN"))
-    parser.add_argument("--legacy-tools", type=Path, default=project_parent / "JPVoice_CNText_Experimental" / "tools")
+    parser.add_argument("--legacy-tools", type=Path, default=v2_root / "tools" / "legacy_support")
     parser.add_argument("--work-dir", type=Path, default=v2_root / "work" / "text_master_rows")
     parser.add_argument("--only", choices=("all", "loose"), default="all")
     args = parser.parse_args()

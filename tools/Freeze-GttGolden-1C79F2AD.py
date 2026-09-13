@@ -38,12 +38,11 @@ def find_payloads(slot, dat_path: Path, key_path: Path):
 
 def main() -> int:
     root = Path(__file__).resolve().parents[1]
-    project_parent = root.parent
     sys.path.insert(0, str(root))
     from core.gtt_multi import parse_gtt_multi, repack_gtt_multi
 
     slot = load_module(
-        project_parent / "JPVoice_CNText_Experimental" / "tools" / "Build-JpnSlot.py",
+        root / "tools" / "legacy_support" / "Build-JpnSlot.py",
         "freeze_gtt_slot",
     )
     original_dat = Path(r"D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\002aba34.DAT")
