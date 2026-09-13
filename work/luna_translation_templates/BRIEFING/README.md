@@ -1,4 +1,6 @@
-# BRIEFING_NBE（仅 JPN lane）Luna 翻译模板
+# BRIEFING（仅 JPN lane）Luna 翻译模板
+
+物理目录名为 `BRIEFING`；为兼容既有 5,645 行模板和 mapping，文件内部逻辑资源类仍为 `resource_class=BRIEFING_NBE`。
 
 本目录是已冻结 B81 corpus 中 **JPN lane 的待汉化翻译单元**：
 
@@ -12,7 +14,7 @@
 
 CSV 中仍保留 `eng_reference` 和 `mlg_cn_reference`：前者是英文理解辅助，后者是旧汉化措辞参考。这些字段会出现英文或旧中文，因此“仅 JPN lane”不等于 CSV 内只能出现日文字符；它表示 **只有 `jpn_text` 是待翻译源文和结构/语义权威**。当前辅助覆盖为 ENG 5,095 rows、旧 MLG-CN 5,085 rows，其余未可靠对齐的 reference 留空。
 
-当前 5,645 个模板行的 `cn_text` 均保持为空；模板是只读输入，不以回填 CSV 表示翻译进度。正式译文存放在 `../sol_translation_mappings/BRIEFING_NBE/`。截至 `2026-09-13`，469 个 file_id / 5,645 rows 已全部完成，剩余 0，`NEXT_FILE_ID=NONE`。译文仍以 JPN 为权威，reference 仅作为辅助；不得按 ENG/MLG block/index 顺序解释或重排现有 mapping。
+当前 5,645 个模板行的 `cn_text` 均保持为空；模板是只读输入，不以回填 CSV 表示翻译进度。正式译文存放在 `../sol_translation_mappings/BRIEFING/`。截至 `2026-09-13`，469 个 file_id / 5,645 rows 已全部完成，剩余 0，`NEXT_FILE_ID=NONE`。译文仍以 JPN 为权威，reference 仅作为辅助；不得按 ENG/MLG block/index 顺序解释或重排现有 mapping。
 
 这批模板已经完成翻译 mapping，但尚未合并回正式 CSV、尚未构建、尚未进入 DAT，也未进行实机测试。
 

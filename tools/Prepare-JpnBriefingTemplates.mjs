@@ -14,12 +14,12 @@ const inputPath = path.join(
   "jpn_briefing",
   "jpn_briefing_luna_rows.json",
 );
-const templateRoot = path.join(root, "work", "luna_translation_templates", "BRIEFING_NBE");
+const templateRoot = path.join(root, "work", "luna_translation_templates", "BRIEFING");
 const stageRoot = path.join(
   root,
   "work",
   "luna_translation_templates",
-  ".BRIEFING_NBE_stage",
+  ".BRIEFING_stage",
 );
 const referenceMasterPath = path.join(
   root,

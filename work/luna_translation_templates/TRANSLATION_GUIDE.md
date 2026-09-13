@@ -13,7 +13,8 @@ luna_translation_templates/
 ├── STAGEDAT_OLANG/
 ├── SLOT_OLANG/
 ├── YPK_GTT/
-├── BRIEFING_NBE/
+├── BRIEFING/                 # logical resource_class: BRIEFING_NBE
+├── archive_docs/
 ├── reference_masters/
 ├── TRANSLATION_STATE.md
 └── TRANSLATION_GUIDE.md
@@ -52,7 +53,7 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 
 前五类合计 241 个 file_id，来源对象 91,609 个，file_id 内精确去重后为 21,041 条 translation rows；当前均已有完整译文。
 
-`BRIEFING_NBE` 另有 469 个 file_id，全部来自已冻结的 JPN BRIEFING lane，不是全语言聚合：
+`BRIEFING/` 目录另有 469 个 file_id；其逻辑 `resource_class` 仍为 `BRIEFING_NBE`。它们全部来自已冻结的 JPN BRIEFING lane，不是全语言聚合：
 
 - BRIEFING FILES：363 blocks / 4,810 JPN rows；
 - BRIEFING MISSION：106 blocks / 835 JPN rows；
@@ -60,9 +61,9 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 
 旧初版统计“2,461 个 translation unit CSV / 42,079 个全语言物理文本对象 / 42,002 行”来自尚未分离 language lane 的错误分组，现已废弃并由上述 B81 JPN-only corpus 完全替换，不得再用于翻译、进度或 production 判断。
 
-因此整个 Luna 目录当前共有 710 个 file_id / 26,686 条 translation rows。截至 `2026-09-13`，前五类 241 / 21,041 与 `BRIEFING_NBE` 469 / 5,645 均已完成，共计 710 / 710 个 file_id、26,686 / 26,686 rows；剩余 0，`NEXT_FILE_ID=NONE`。精确进度以 `TRANSLATION_STATE.md` 为准。
+因此整个 Luna 目录当前共有 710 个 file_id / 26,686 条 translation rows。截至 `2026-09-13`，前五类 241 / 21,041 与逻辑资源类 `BRIEFING_NBE` 的 469 / 5,645 均已完成，共计 710 / 710 个 file_id、26,686 / 26,686 rows；剩余 0，`NEXT_FILE_ID=NONE`。精确进度以 `TRANSLATION_STATE.md` 为准。
 
-### `BRIEFING_NBE` 待汉化内容
+### `BRIEFING/` 内容与范围
 
 - `BRIEFING_FILES_BLOCK_*.csv`：363 blocks / 4,810 JPN rows，主要是任务前后可查阅的 BRIEFING FILES 对话与资料。
 - `BRIEFING_MISSION_BLOCK_*.csv`：106 blocks / 835 JPN rows，是 Mission BRIEFING 内容。
@@ -120,7 +121,7 @@ reference_reason
 
 - JPN master 保留全部真实对象，不去重；
 - OLANG/OHD/YPK 的 file_id CSV 在同一个 file_id 内对完全相同的 `jpn_text` 精确去重；
-- `BRIEFING_NBE` 是冻结的物理 JPN row corpus，不做文本去重；469 个 block 内的 5,645 行必须全部保留且只出现一次；
+- `BRIEFING/`（逻辑 `resource_class=BRIEFING_NBE`）是冻结的物理 JPN row corpus，不做文本去重；469 个 block 内的 5,645 行必须全部保留且只出现一次；
 - 空格、换行、markup、控制符和全角字符都参与比较；
 - 不进行语义去重，不把相似句子合并；
 - `reference_indices` 和 `reference_count` 用于保留同一译文对应的全部真实 reference；
@@ -129,7 +130,7 @@ reference_reason
 
 ### 当前状态
 
-前五类资源已完成 241 file_ids / 21,041 rows。`BRIEFING_NBE` 只包含 JPN lane 的 469 file_ids / 5,645 rows，其正式 mapping 也已全部完成。模板 CSV 仍保持以下只读输入状态；正式译文来自 `sol_translation_mappings/BRIEFING_NBE/<file_id>.json`：
+前五类资源已完成 241 file_ids / 21,041 rows。`BRIEFING/` 只包含 JPN lane 的 469 file_ids / 5,645 rows，其正式 mapping 也已全部完成。模板 CSV 仍保持以下只读输入状态；正式译文来自 `sol_translation_mappings/BRIEFING/<file_id>.json`：
 
 ```text
 cn_text = 空
@@ -143,9 +144,9 @@ ingame_status = NOT_TESTED
 
 模板不得直接用于构建 DAT。
 
-## 网页 GPT 的推荐工作方式
+## 单个 mapping 修订方式
 
-每次只处理一个 file_id，或一个很小的同类资源集合：
+全部初版翻译已经完成。仅当人工复核发现明确问题时，才按以下方式修订；每次只处理一个 file_id，或一个很小的同类资源集合：
 
 1. 读取对应 resource class 的 file_id 模板；
 2. 从 `reference_masters/` 读取同一 file_id 的 JPN 行；

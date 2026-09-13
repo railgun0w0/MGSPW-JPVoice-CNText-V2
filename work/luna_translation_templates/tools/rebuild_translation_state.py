@@ -32,6 +32,10 @@ RESOURCE_CLASSES = (
     "SLOT_OLANG",
     "BRIEFING_NBE",
 )
+RESOURCE_DIRECTORIES = {
+    resource_class: ("BRIEFING" if resource_class == "BRIEFING_NBE" else resource_class)
+    for resource_class in RESOURCE_CLASSES
+}
 GENERATED_LEDGER_BEGIN = "<!-- BEGIN GENERATED COMPLETED LEDGER -->"
 GENERATED_LEDGER_END = "<!-- END GENERATED COMPLETED LEDGER -->"
 MACHINE_STATE_BEGIN = "<!-- BEGIN TRANSLATION STATE JSON"
@@ -133,7 +137,10 @@ def load_git_facts(repo: Path, template_root: Path, mapping_root: Path) -> GitFa
     history_paths = [
         mapping_root.resolve().relative_to(repo.resolve()).as_posix(),
         *[
-            (template_root / resource).resolve().relative_to(repo.resolve()).as_posix()
+            (template_root / RESOURCE_DIRECTORIES[resource])
+            .resolve()
+            .relative_to(repo.resolve())
+            .as_posix()
             for resource in RESOURCE_CLASSES
         ],
     ]
@@ -188,7 +195,7 @@ def load_templates(root: Path) -> tuple[dict[tuple[str, str], Template], list[st
     templates: dict[tuple[str, str], Template] = {}
     errors: list[str] = []
     for resource_class in RESOURCE_CLASSES:
-        class_dir = root / resource_class
+        class_dir = root / RESOURCE_DIRECTORIES[resource_class]
         if not class_dir.is_dir():
             errors.append(f"missing template directory: {class_dir}")
             continue
@@ -594,7 +601,7 @@ def root_candidates(mapping_dir: Path, file_id: str) -> list[Path]:
 def audit_file(
     git: GitFacts, template_root: Path, mapping_root: Path, template: Template
 ) -> FileAudit:
-    mapping_dir = mapping_root / template.resource_class
+    mapping_dir = mapping_root / RESOURCE_DIRECTORIES[template.resource_class]
     representations: list[Representation] = []
     errors: list[str] = []
     warnings: list[str] = []
@@ -701,7 +708,7 @@ def unknown_mapping_roots(
     known = set(templates)
     unknown: list[str] = []
     for resource_class in RESOURCE_CLASSES:
-        mapping_dir = mapping_root / resource_class
+        mapping_dir = mapping_root / RESOURCE_DIRECTORIES[resource_class]
         if not mapping_dir.is_dir():
             unknown.append(f"missing mapping directory: {resource_class}")
             continue
@@ -984,10 +991,10 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
             "",
             "这里的“仅 JPN lane”是 translation-unit corpus 与 topology 的范围声明，不是说 CSV 中完全不能出现英文或旧中文参考。",
             "",
-            f"- `BRIEFING_NBE/`：**{len(briefing_audits)} 个 JPN block CSV / {len(briefing_rows)} 条 JPN translation rows**。",
+            f"- `BRIEFING/`（逻辑 resource class：`BRIEFING_NBE`）：**{len(briefing_audits)} 个 JPN block CSV / {len(briefing_rows)} 条 JPN translation rows**。",
             f"- BRIEFING FILES：**{len(briefing_files)} blocks / {sum(len(audit.template.rows) for audit in briefing_files)} JPN rows**。",
             f"- BRIEFING MISSION：**{len(briefing_mission)} blocks / {sum(len(audit.template.rows) for audit in briefing_mission)} JPN rows**。",
-            f"- 源模板状态：非空 `jpn_text` **{briefing_jpn_rows}/{len(briefing_rows)}**；模板内非空 `cn_text` **{briefing_cn_rows}/{len(briefing_rows)}**。模板保持只读，正式译文写入 `sol_translation_mappings/BRIEFING_NBE/`。",
+            f"- 源模板状态：非空 `jpn_text` **{briefing_jpn_rows}/{len(briefing_rows)}**；模板内非空 `cn_text` **{briefing_cn_rows}/{len(briefing_rows)}**。模板保持只读，正式译文写入 `sol_translation_mappings/BRIEFING/`。",
             f"- 正式 mapping 进度：**{briefing_status['completed_file_ids']}/{briefing_status['total_file_ids']} file_ids，{briefing_status['completed_rows']}/{briefing_status['total_rows']} rows**；剩余 **{briefing_status['remaining_file_ids']} file_ids / {briefing_remaining_rows} rows**。",
             briefing_resume_line,
             "- 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。",
@@ -999,12 +1006,12 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
             "",
             "相关文件：",
             "",
-            "- `BRIEFING_NBE/README.md`",
+            "- `BRIEFING/README.md`",
             "- `reference_masters/jpn_briefing_master.csv`",
             "- `tools/Align-JpnBriefingReferences.py`",
             "- `tools/Prepare-JpnBriefingTemplates.py`",
             "- `tools/Prepare-JpnBriefingTemplates.mjs`",
-            "- `sol_translation_mappings/BRIEFING_NBE/README.md` (正式 per-file mapping 目录)",
+            "- `sol_translation_mappings/BRIEFING/README.md` (正式 per-file mapping 目录)",
         )
     )
     lines.extend(("", "## Complete completed file_id list", ""))
@@ -1169,9 +1176,10 @@ def compare_state(expected: dict[str, Any], actual: dict[str, Any]) -> list[str]
 def inspect_archive_files(template_root: Path) -> tuple[list[dict[str, Any]], list[str]]:
     inventory: list[dict[str, Any]] = []
     warnings: list[str] = []
-    archives = sorted(template_root.glob("SOL_TRANSLATION_PROGRESS_ARCHIVE*.md"))
+    archive_root = template_root / "archive_docs"
+    archives = sorted(archive_root.glob("SOL_TRANSLATION_PROGRESS_ARCHIVE*.md"))
     if not archives:
-        warnings.append("no SOL_TRANSLATION_PROGRESS_ARCHIVE*.md files found")
+        warnings.append("no archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE*.md files found")
     for path in archives:
         try:
             raw = path.read_bytes()
@@ -1183,7 +1191,7 @@ def inspect_archive_files(template_root: Path) -> tuple[list[dict[str, Any]], li
             warnings.append(f"empty progress archive: {path.name}")
         inventory.append(
             {
-                "path": path.name,
+                "path": path.relative_to(template_root).as_posix(),
                 "bytes": len(raw),
                 "sha256": hashlib.sha256(raw).hexdigest(),
             }
