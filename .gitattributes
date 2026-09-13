@@ -1,0 +1,4 @@
+# CSV fields contain game text whose embedded LF/CRLF form is significant.
+# Preserve CSV bytes exactly instead of applying Git checkout newline conversion.
+work/luna_translation_templates/**/*.csv -text
+translations/**/*.csv -text

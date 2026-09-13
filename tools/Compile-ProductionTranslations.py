@@ -35,11 +35,19 @@ RESOURCE_CLASSES = (
 )
 
 MASTER_PATHS = {
-    "YPK_GTT": Path("build/translation/jpn_gtt/jpn_gtt_master.csv"),
-    "OHD": Path("build/translation/jpn_ohd/jpn_ohd_master.csv"),
-    "LOOSE_OLANG": Path("build/translation/jpn_loose_olang/jpn_loose_olang_master.csv"),
-    "STAGEDAT_OLANG": Path("build/translation/jpn_stagedat/jpn_stagedat_text_master.csv"),
-    "SLOT_OLANG": Path("build/translation/jpn_slot_olang/jpn_slot_olang_master.csv"),
+    "YPK_GTT": Path("work/luna_translation_templates/reference_masters/jpn_gtt_master.csv"),
+    "OHD": Path("work/luna_translation_templates/reference_masters/jpn_ohd_master.csv"),
+    "LOOSE_OLANG": Path("work/luna_translation_templates/reference_masters/jpn_loose_olang_master.csv"),
+    "STAGEDAT_OLANG": Path("work/luna_translation_templates/reference_masters/jpn_stagedat_text_master.csv"),
+    "SLOT_OLANG": Path("work/luna_translation_templates/reference_masters/jpn_slot_olang_master.csv"),
+}
+
+WORKLIST_PRIORITY = {
+    "OHD": "01_OHD",
+    "LOOSE_OLANG": "02_LOOSE_OLANG",
+    "STAGEDAT_OLANG": "03_STAGEDAT",
+    "SLOT_OLANG": "04_SLOT_OLANG",
+    "YPK_GTT": "05_YPK_GTT",
 }
 
 PRODUCTION_DIRS = {
@@ -227,6 +235,11 @@ def encode_csv(columns: Iterable[str], rows: Iterable[dict[str, Any]]) -> str:
 
 
 def atomic_write_text(path: Path, text: str) -> None:
+    if path.is_file():
+        existing = path.read_text(encoding="utf-8-sig")
+        desired = text.removeprefix("\ufeff")
+        if existing == desired:
+            return
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_name(path.name + ".tmp")
     with temporary.open("w", encoding="utf-8", newline="") as handle:
@@ -803,22 +816,68 @@ def update_file_statuses(
             row["build_status"] = item.build_status
 
 
-def update_worklist(
-    v2_root: Path,
+def build_worklist(
+    masters: dict[str, list[dict[str, str]]],
     compiled: dict[tuple[str, str], CompiledFile],
 ) -> list[dict[str, Any]]:
-    source_path = v2_root / "build" / "translation" / "translation_worklist.csv"
-    source_rows = read_csv(source_path)
+    groups: dict[tuple[str, str], dict[str, Any]] = {}
+    for resource_class, master_rows in masters.items():
+        for source in master_rows:
+            jpn_text = source.get("jpn_text", "")
+            if not jpn_text:
+                continue
+            file_id = source.get("file_id", "").upper()
+            if not file_id:
+                raise CompileFailure(f"{resource_class}: master row has no file_id")
+            key = (resource_class, file_id)
+            group = groups.setdefault(
+                key,
+                {
+                    "object_count": 0,
+                    "unique_texts": set(),
+                    "pages": set(),
+                    "variants": set(),
+                    "reference_statuses": [],
+                },
+            )
+            group["object_count"] += 1
+            group["unique_texts"].add(jpn_text)
+            if source.get("page", "") != "":
+                group["pages"].add(source["page"])
+            if source.get("payload_variant_index", "") != "":
+                group["variants"].add(source["payload_variant_index"])
+            status = source.get("reference_status", "")
+            if status and status not in group["reference_statuses"]:
+                group["reference_statuses"].append(status)
+
+    if set(groups) != set(compiled):
+        missing = sorted(set(compiled) - set(groups))
+        extra = sorted(set(groups) - set(compiled))
+        raise CompileFailure(
+            f"worklist/master identity mismatch: missing={missing}; extra={extra}"
+        )
+
     output: list[dict[str, Any]] = []
-    seen: set[tuple[str, str]] = set()
-    for source in source_rows:
-        key = (source["resource_class"], source["file_id"])
-        if key not in compiled:
-            raise CompileFailure(f"worklist has no compiled translation: {key}")
+    ordered = sorted(
+        groups,
+        key=lambda key: (WORKLIST_PRIORITY[key[0]], key[1]),
+    )
+    for key in ordered:
+        resource_class, file_id = key
+        group = groups[key]
         item = compiled[key]
-        row = {column: source.get(column, "") for column in WORKLIST_COLUMNS}
-        row.update(
+        notes = item.rows[0].get("notes", "") if item.rows else ""
+        output.append(
             {
+                "work_id": f"{resource_class}_{file_id}",
+                "priority": WORKLIST_PRIORITY[resource_class],
+                "resource_class": resource_class,
+                "resource_id": file_id,
+                "file_id": file_id,
+                "jpn_object_count": group["object_count"],
+                "unique_jpn_text_count": len(item.rows),
+                "page_count": len(group["pages"]),
+                "payload_variant_count": len(group["variants"]) or 1,
                 "translation_status": "APPROVED",
                 "translated_unique_texts": len(item.rows),
                 "mapped_jpn_objects": item.mapped_objects,
@@ -827,15 +886,12 @@ def update_worklist(
                 "build_status": item.build_status,
                 "ingame_status": item.preserved_ingame_status,
                 "translation_file": (
-                    f"translations/{PRODUCTION_DIRS[item.resource_class]}/{item.file_id}.csv"
+                    f"translations/{PRODUCTION_DIRS[resource_class]}/{file_id}.csv"
                 ),
+                "reference_statuses": ";".join(group["reference_statuses"]),
+                "notes": notes,
             }
         )
-        output.append(row)
-        seen.add(key)
-    if seen != set(compiled):
-        missing = sorted(set(compiled) - seen)
-        raise CompileFailure(f"compiled translations missing from worklist: {missing}")
     return output
 
 
@@ -856,9 +912,14 @@ def main() -> int:
         raise CompileFailure(f"missing translation state tool: {state_path}")
 
     state = load_module(state_path, "production_translation_state")
-    git_templates, template_errors = state.load_templates(template_root)
+    all_templates, template_errors = state.load_templates(template_root)
     if template_errors:
         raise CompileFailure("translation template errors: " + "; ".join(template_errors))
+    git_templates = {
+        key: template
+        for key, template in all_templates.items()
+        if key[0] in RESOURCE_CLASSES
+    }
     git = state.load_git_facts(repo, template_root, mapping_root)
     if git.branch != "sol-translation":
         raise CompileFailure(f"translation repository is on {git.branch}, expected sol-translation")
@@ -897,7 +958,7 @@ def main() -> int:
     manifest_rows, manifest_counts = build_manifest(
         v2_root, masters, compiled, capacity_results
     )
-    worklist_rows = update_worklist(v2_root, compiled)
+    worklist_rows = build_worklist(masters, compiled)
 
     hard_overflow_records = capacity_counts.get("gtt_hard_overflow", 0) + capacity_counts.get(
         "ohd_hard_overflow", 0

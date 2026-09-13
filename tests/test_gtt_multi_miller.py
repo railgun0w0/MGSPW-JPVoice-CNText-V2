@@ -25,12 +25,13 @@ def miller_ypk_path() -> Path:
     configured = os.environ.get("MGSPW_MILLER_YPK")
     if configured:
         return Path(configured)
-    test_root = Path(__file__).resolve().parents[3]
+    repo_root = Path(__file__).resolve().parents[1]
     return (
-        test_root
-        / "MGSPW_GTT_DUMP"
-        / "20260902-174047"
-        / "01_JPN_ORIGINAL_1C79F2AD.ypk"
+        repo_root
+        / "tests"
+        / "fixtures"
+        / "gtt_1C79F2AD"
+        / "1C79F2AD_jpn_original.ypk"
     )
 
 

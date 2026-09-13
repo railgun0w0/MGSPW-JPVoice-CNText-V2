@@ -135,6 +135,7 @@ production merge 与专用 `tools/Build-BriefingDat.py` 已完成。builder 从�
 4. 以日文和剧情上下文完成中文翻译。
 5. 将确认译文写入 file_id CSV 的 `cn_text`，审核后标记为 `APPROVED`。
 6. 旧五类从已批准 file_id CSV 生成 `compiled_translation_manifest.csv`；BRIEFING 从模板与 mapping 确定性生成 `translations/briefing/*.csv`，保持物理 row 身份。
+   旧五类 compiler 的结构输入固定为已提交的 `work/luna_translation_templates/reference_masters/`；`translation_worklist.csv` 与 `compiled_translation_manifest.csv` 均从这些 master 和当前 mapping 确定性生成。`build/translation/` 只保存输出，不再要求预存本机缓存作为输入。
 7. 检查控制符、UTF-8、NUL、容量和对象覆盖。
 8. 从 clean JPN original 重建目标资源。
 9. 重建对应 CNF/SLOT/STAGEDAT 页面。

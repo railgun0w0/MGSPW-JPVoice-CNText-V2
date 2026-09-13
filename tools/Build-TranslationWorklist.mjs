@@ -10,6 +10,7 @@ import { Workbook } from "@oai/artifact-tool";
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const v2Root = path.resolve(scriptDir, "..");
 const translationRoot = path.join(v2Root, "build", "translation");
+const masterRoot = path.join(v2Root, "work", "luna_translation_templates", "reference_masters");
 const canonicalRoot = path.join(v2Root, "translations");
 const worklistPath = path.join(translationRoot, "translation_worklist.csv");
 const catalogPath = path.join(translationRoot, "translation_text_catalog.csv");
@@ -18,11 +19,11 @@ const slotCanonicalRoot = path.join(canonicalRoot, "slot_olang");
 const batchDefinitionRoot = path.join(v2Root, "work", "translation_batches", "slot_olang");
 
 const sources = [
-  ["OHD", 10, path.join(translationRoot, "jpn_ohd", "jpn_ohd_master.csv")],
-  ["LOOSE_OLANG", 20, path.join(translationRoot, "jpn_loose_olang", "jpn_loose_olang_master.csv")],
-  ["STAGEDAT_OLANG", 30, path.join(translationRoot, "jpn_stagedat", "jpn_stagedat_text_master.csv")],
-  ["SLOT_OLANG", 40, path.join(translationRoot, "jpn_slot_olang", "jpn_slot_olang_master.csv")],
-  ["YPK_GTT", 50, path.join(translationRoot, "jpn_gtt", "jpn_gtt_master.csv")],
+  ["OHD", 10, path.join(masterRoot, "jpn_ohd_master.csv")],
+  ["LOOSE_OLANG", 20, path.join(masterRoot, "jpn_loose_olang_master.csv")],
+  ["STAGEDAT_OLANG", 30, path.join(masterRoot, "jpn_stagedat_text_master.csv")],
+  ["SLOT_OLANG", 40, path.join(masterRoot, "jpn_slot_olang_master.csv")],
+  ["YPK_GTT", 50, path.join(masterRoot, "jpn_gtt_master.csv")],
 ];
 
 const priorityLabels = new Map([
