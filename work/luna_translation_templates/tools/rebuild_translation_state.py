@@ -967,6 +967,16 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
     briefing_remaining_rows = (
         briefing_status["total_rows"] - briefing_status["completed_rows"]
     )
+    if payload["next_file_id"] == "NONE":
+        briefing_resume_line = (
+            "- 翻译队列已完成：`NEXT_FILE_ID=NONE`。后续进入 mapping 合并、"
+            "构建与实机验证阶段，不再创建新的 BRIEFING 翻译 mapping。"
+        )
+    else:
+        briefing_resume_line = (
+            f"- 续作起点：`{payload['next_file_id']}`。网页版 GPT 应按文件名排序"
+            "一次只处理一个完整 `file_id`，不得回到 packet/part 分包方式。"
+        )
     lines.extend(
         (
             "",
@@ -979,7 +989,7 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
             f"- BRIEFING MISSION：**{len(briefing_mission)} blocks / {sum(len(audit.template.rows) for audit in briefing_mission)} JPN rows**。",
             f"- 源模板状态：非空 `jpn_text` **{briefing_jpn_rows}/{len(briefing_rows)}**；模板内非空 `cn_text` **{briefing_cn_rows}/{len(briefing_rows)}**。模板保持只读，正式译文写入 `sol_translation_mappings/BRIEFING_NBE/`。",
             f"- 正式 mapping 进度：**{briefing_status['completed_file_ids']}/{briefing_status['total_file_ids']} file_ids，{briefing_status['completed_rows']}/{briefing_status['total_rows']} rows**；剩余 **{briefing_status['remaining_file_ids']} file_ids / {briefing_remaining_rows} rows**。",
-            f"- 续作起点：`{payload['next_file_id']}`。网页版 GPT 应按文件名排序一次只处理一个完整 `file_id`，不得回到 packet/part 分包方式。",
+            briefing_resume_line,
             "- 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。",
             "- 旧初版统计（2,461 translation units / 42,079 全语言物理文本对象 / 42,002 rows）来自错误的六语言聚合，现已废弃，不代表当前模板。",
             f"- 辅助覆盖：`eng_reference` **{briefing_eng_refs} rows**；旧 `mlg_cn_reference` **{briefing_old_cn_refs} rows**。它们只用于理解和措辞参考，不是待翻译源文或翻译权威。",

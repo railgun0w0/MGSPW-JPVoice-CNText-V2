@@ -12,9 +12,9 @@
 
 CSV 中仍保留 `eng_reference` 和 `mlg_cn_reference`：前者是英文理解辅助，后者是旧汉化措辞参考。这些字段会出现英文或旧中文，因此“仅 JPN lane”不等于 CSV 内只能出现日文字符；它表示 **只有 `jpn_text` 是待翻译源文和结构/语义权威**。当前辅助覆盖为 ENG 5,095 rows、旧 MLG-CN 5,085 rows，其余未可靠对齐的 reference 留空。
 
-当前 5,645 个模板行的 `cn_text` 均保持为空；模板是只读输入，不以回填 CSV 表示翻译进度。正式译文存放在 `../sol_translation_mappings/BRIEFING_NBE/`。截至 `2026-09-12`，已完成 3 个 file_id / 25 rows，剩余 466 个 file_id / 5,620 rows；续作从 `BRIEFING_FILES_BLOCK_000D00` 开始。不得把 reference 当成已完成译文，也不得按 ENG/MLG block/index 顺序硬套。
+当前 5,645 个模板行的 `cn_text` 均保持为空；模板是只读输入，不以回填 CSV 表示翻译进度。正式译文存放在 `../sol_translation_mappings/BRIEFING_NBE/`。截至 `2026-09-13`，469 个 file_id / 5,645 rows 已全部完成，剩余 0，`NEXT_FILE_ID=NONE`。译文仍以 JPN 为权威，reference 仅作为辅助；不得按 ENG/MLG block/index 顺序解释或重排现有 mapping。
 
-这批模板尚未翻译、未构建、未进入 DAT。
+这批模板已经完成翻译 mapping，但尚未合并回正式 CSV、尚未构建、尚未进入 DAT，也未进行实机测试。
 
 可重复生成脚本：
 
