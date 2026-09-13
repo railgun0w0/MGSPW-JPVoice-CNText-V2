@@ -128,6 +128,10 @@ reference_reason
 - OHD/YPK 没有 reference_index 的对象，相关 reference 字段留空，record/segment 身份保存在 `entity_context` 中；
 - `unique_index` 只用于模板行定位，不能替代 JPN 的真实对象索引。
 
+当前旧五类的 `file_id + jpn_text` 自动聚合是既有实现，不是理想模型的永久约束。它可能无法表达同一 file_id 内同文异境所需的不同中文；BRIEFING 采用 5,645 个独立物理 translation rows，避免了这一限制。
+
+项目当前以 MVP 为先：MVP 前保持旧五类现有 21,041 行 production 和 91,609 个对象展开结果，不进行全量拆分或重译；先完成 BRIEFING builder、round-trip、统一包和实机验证。MVP 后再审计 `source_objects > 1` 的聚合行，并把通用译文身份迁移到稳定 object/translation-unit key。译文可以显式复用，但不得再仅凭 `jpn_text` 自动认定多个上下文必须共用同一译文。
+
 ### 当前状态
 
 前五类资源已完成 241 file_ids / 21,041 rows。`BRIEFING/` 只包含 JPN lane 的 469 file_ids / 5,645 rows，其正式 mapping 也已全部完成。模板 CSV 仍保持以下只读输入状态；正式译文来自 `sol_translation_mappings/BRIEFING/<file_id>.json`：

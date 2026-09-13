@@ -168,12 +168,25 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 
 ## 十、接下来的执行顺序
 
+当前采用 **MVP 优先**：先形成可构建、可 round-trip、可安装验证的完整六类资源候选；旧五类翻译单元去重模型的重构不作为 MVP 前置条件。
+
 1. 先按 `BRIEFING_BUILD_HANDOFF.md` 实现专用 BRIEFING clean-JPN oEbN builder，并完成重建后的 parser、文本、容量和非目标差异审计。
 2. 将通过验证的 BRIEFING candidate 与既有五类资源从 clean JPN 重新组成统一测试包；不要在旧测试 DAT 上增量覆盖，也不要混用各资源独立 readiness DAT。
 3. 标题 UI ASCII 保留修复已于 2026-09-09 实机通过；后续翻译不得把已确认的纯 ASCII UI 再改成依赖未覆盖中文字形的 CJK。
 4. 集中验证 BRIEFING FILES/MISSION、剧情字幕、任务结束无线电、任务结算字段、任务说明、过场字幕、ruby、换行、字库和日语语音是否正常。
 5. 对发现的问题记录 resource class、file_id、原文/现译文和场景；只修订对应权威 CSV/mapping，再从 production compile 开始全量重建。
 6. 实机问题清零后冻结正式发布包和恢复/安装说明。
+
+### MVP 后润色/优化 backlog
+
+旧五类模板目前在每个 `file_id` 内按完全相同的 `jpn_text` 自动聚合，并用多个 reference/entity identity 展开回物理对象。这适合复用大量固定 UI 文本，但把“文本相同”默认等同于“译文必须相同”，不能表达部分同文异境的语气差异。
+
+该问题已记录为 MVP 后优化，不阻塞当前 BRIEFING 构建。MVP 完成并取得实机基线后，再执行：
+
+1. 审计旧五类所有 `source_objects > 1` 聚合行的场景、说话者、前后文和现译文风险。
+2. 只拆分确有上下文差异或语义风险的 translation units，避免无收益地重译全部 91,609 个物理对象。
+3. 将通用 compiler 的译文主键由隐式 `file_id + jpn_text` 迁移为稳定 object/translation-unit identity；相同译文只能显式复用。
+4. 保持对象级 manifest 全覆盖，并对 schema 迁移前后执行逐对象回归，确保 MVP 已验证文本不发生无意变化。
 
 ### 2026-09-09 实机回归确认
 

@@ -10,6 +10,7 @@ Branch: `sol-translation`
 - BRIEFING 共 **469 blocks / 5,645 JPN rows**，其中 FILES 为 363 / 4,810，MISSION 为 106 / 835。
 - BRIEFING production merge 已完成：正式 CSV 位于 `../../translations/briefing/`，但尚未写入 DAT，也尚未实机测试。
 - 当前工程起点是 `../../docs/BRIEFING_BUILD_HANDOFF.md`：先实现专用 clean-JPN oEbN builder 和 round-trip，再重组统一测试包；不再做翻译或 mapping 分包。
+- 优先完成可运行 MVP。旧五类 `file_id + jpn_text` 自动聚合的同文异境风险已列入 MVP 后润色/schema 优化；当前不拆分、不重译旧五类，不让该设计债阻塞 BRIEFING 构建和实机闭环。
 
 ## Active rules
 

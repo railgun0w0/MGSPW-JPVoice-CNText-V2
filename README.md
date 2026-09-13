@@ -32,6 +32,7 @@ V2 的硬规则：
 
 - 当前六类翻译共 710/710 个 file_id、26,686/26,686 条 translation rows 完成。旧五类资源仍为 241 file_ids / 21,041 个去重翻译行，对象级 `compiled_translation_manifest.csv` 共 91,609 行。
 - BRIEFING 已生成独立正式 production CSV：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、控制结构、UTF-8、容量和 469 文件 CSV round-trip 均通过，0 hard overflow。尚未写入 DAT、尚未实机测试。
+- 当前优先级是完成包含 BRIEFING 的可运行 MVP：专用 oEbN builder、round-trip、统一测试包和实机验证。旧五类模板按 `file_id + jpn_text` 自动聚合可能压掉同文异境差异，已登记为 MVP 后的翻译润色/通用 schema 优化方向；MVP 前不重做 21,041 行旧译文，也不因此阻塞构建。
 - 36 个 YPK/GTT 已完成 fixed-frame repack：1,882 records、2,136 timed segments，1,815 normal fit、67 alignment spill、0 hard overflow。人工缩短的 29 个原 overflow record 已固化到权威 mapping/CSV。
 - 144 个 SLOT OLANG 已覆盖 742 个 physical occurrences；OHD `1E4C1146` 已覆盖 4 个 occurrence、904 个 physical records；14 个 loose OLANG 与 123 个 STAGEDAT embedded OLANG entry 均已完成 round-trip。
 - `Build-JpnUnifiedSlot.py` 已从 clean JPN 合并 SLOT OLANG、YPK/GTT、OHD：823 个目标 tag、110 个 SLOT pages、0 block overflow，DAT 大小与 KEY 保持不变。

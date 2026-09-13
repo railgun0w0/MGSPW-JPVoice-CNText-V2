@@ -1006,6 +1006,7 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
             "- 这些模板只是翻译输入：不得修改 JPN 字段或结构索引，也不得把它们视为 DAT/build 产物。",
             "- production 状态：`translations/briefing/` 已生成 469 个正式 CSV / 5,645 rows；静态合并 0 error、469/469 block fit、0 hard overflow。当前尚未写入 DAT，`ingame_status=NOT_TESTED`。",
             "- 现有 91,609 行 `compiled_translation_manifest.csv` 不含 BRIEFING；后续 builder 必须按物理 `file_id + unique_index + stream/block/text` 身份直接读取 BRIEFING production CSV。",
+            "- 项目优先完成 MVP：先做 BRIEFING builder、round-trip、统一包和实机验证；旧五类 `file_id + jpn_text` 自动聚合的同文异境风险列入 MVP 后润色/通用 schema 优化，当前不拆分或重译旧五类。",
             "",
             "相关文件：",
             "",

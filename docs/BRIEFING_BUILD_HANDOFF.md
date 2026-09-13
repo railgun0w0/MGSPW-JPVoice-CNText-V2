@@ -108,3 +108,13 @@ BRIEFING 不在该 91,609 行 manifest 内。不得为了复用旧流程而按 `
 8. 只在对应 mapping 中修订问题，再从 production compile 开始全量重跑。
 
 当前恢复点：翻译与 production merge 已完成；下一项工程工作是“专用 BRIEFING clean-JPN builder + round-trip”，不是继续翻译，也不是重复 B81 corpus 研究。
+
+## MVP 优先级与后续优化
+
+当前第一优先级是完成可运行 MVP，不在构建前扩张为旧五类翻译体系重构：
+
+- MVP 必做：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、统一测试包集成，以及 FILES/MISSION 实机验证。
+- MVP 保持：BRIEFING 继续使用 5,645 个独立物理 translation rows，保证每个上下文可以单独译写并精确绑定。
+- MVP 不做：不重新拆分或重译旧五类 21,041 个聚合 translation rows，不把全局通用 schema 改造作为 BRIEFING 构建前置条件。
+
+已登记的 MVP 后优化方向：旧五类模板生成器当前以 `file_id + jpn_text` 自动聚合翻译单元，可能无法表达同一 file_id 内“日文完全相同但因上下文而需要不同中文”的情况。MVP 实机闭环后，应审计所有 `source_objects > 1` 的聚合行，并将通用翻译身份逐步改为稳定 object/translation-unit identity；译文复用必须显式声明，`jpn_text` 只用于源文校验，不再作为唯一译文主键。无论翻译维护层是否复用，构建 manifest 都必须展开并保留全部物理对象。

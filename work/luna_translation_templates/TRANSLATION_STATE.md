@@ -3,7 +3,7 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-13T15:24:35+08:00`
+Updated: `2026-09-13T20:05:50+08:00`
 Branch: `sol-translation`
 Latest validated checkpoint commit: `46e97a89d9a1fe0758520cffde5b9eae820710cf`
 Total rows / persisted rows: **26686 / 26686**
@@ -40,6 +40,7 @@ NEXT_FILE_ID: **`NONE`**
 - 这些模板只是翻译输入：不得修改 JPN 字段或结构索引，也不得把它们视为 DAT/build 产物。
 - production 状态：`translations/briefing/` 已生成 469 个正式 CSV / 5,645 rows；静态合并 0 error、469/469 block fit、0 hard overflow。当前尚未写入 DAT，`ingame_status=NOT_TESTED`。
 - 现有 91,609 行 `compiled_translation_manifest.csv` 不含 BRIEFING；后续 builder 必须按物理 `file_id + unique_index + stream/block/text` 身份直接读取 BRIEFING production CSV。
+- 项目优先完成 MVP：先做 BRIEFING builder、round-trip、统一包和实机验证；旧五类 `file_id + jpn_text` 自动聚合的同文异境风险列入 MVP 后润色/通用 schema 优化，当前不拆分或重译旧五类。
 
 相关文件：
 
