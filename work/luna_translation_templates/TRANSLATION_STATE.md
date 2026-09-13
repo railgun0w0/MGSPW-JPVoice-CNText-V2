@@ -3,9 +3,9 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-13T14:22:43+08:00`
+Updated: `2026-09-13T14:41:20+08:00`
 Branch: `sol-translation`
-Latest validated checkpoint commit: `f9f775e5b16c0423096e9e27152cd38db07ba670`
+Latest validated checkpoint commit: `647d4a727bff9993b9701943df0b2072bc169f8c`
 Total rows / persisted rows: **26686 / 26686**
 Total file_ids / completed file_ids: **710 / 710**
 Current partial file_id: **(none)**
@@ -26,10 +26,10 @@ NEXT_FILE_ID: **`NONE`**
 
 这里的“仅 JPN lane”是 translation-unit corpus 与 topology 的范围声明，不是说 CSV 中完全不能出现英文或旧中文参考。
 
-- `BRIEFING_NBE/`：**469 个 JPN block CSV / 5645 条 JPN translation rows**。
+- `BRIEFING/`（逻辑 resource class：`BRIEFING_NBE`）：**469 个 JPN block CSV / 5645 条 JPN translation rows**。
 - BRIEFING FILES：**363 blocks / 4810 JPN rows**。
 - BRIEFING MISSION：**106 blocks / 835 JPN rows**。
-- 源模板状态：非空 `jpn_text` **5645/5645**；模板内非空 `cn_text` **0/5645**。模板保持只读，正式译文写入 `sol_translation_mappings/BRIEFING_NBE/`。
+- 源模板状态：非空 `jpn_text` **5645/5645**；模板内非空 `cn_text` **0/5645**。模板保持只读，正式译文写入 `sol_translation_mappings/BRIEFING/`。
 - 正式 mapping 进度：**469/469 file_ids，5645/5645 rows**；剩余 **0 file_ids / 0 rows**。
 - 翻译队列已完成：`NEXT_FILE_ID=NONE`。后续进入 mapping 合并、构建与实机验证阶段，不再创建新的 BRIEFING 翻译 mapping。
 - 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。
@@ -41,12 +41,12 @@ NEXT_FILE_ID: **`NONE`**
 
 相关文件：
 
-- `BRIEFING_NBE/README.md`
+- `BRIEFING/README.md`
 - `reference_masters/jpn_briefing_master.csv`
 - `tools/Align-JpnBriefingReferences.py`
 - `tools/Prepare-JpnBriefingTemplates.py`
 - `tools/Prepare-JpnBriefingTemplates.mjs`
-- `sol_translation_mappings/BRIEFING_NBE/README.md` (正式 per-file mapping 目录)
+- `sol_translation_mappings/BRIEFING/README.md` (正式 per-file mapping 目录)
 
 ## Complete completed file_id list
 
@@ -77,19 +77,16 @@ NEXT_FILE_ID: **`NONE`**
 
 ## Legacy tracker reconciliation
 
-- legacy tracker persisted rows=11778, facts=26686 (legacy delta -14908)
-- legacy tracker completed file_ids=208, facts=710 (legacy delta -502)
-- legacy tracker SLOT_OLANG completed=111, facts=144 (legacy delta -33)
+- Legacy manual tracker totals agree with current facts.
 
 ## Validation
 
 - Errors: **0**
-- Warnings: **65**
-- Progress archives audited: `SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-07_10603.md` (7efda3cdd346…)
+- Warnings: **62**
+- Progress archives audited: `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-07_10603.md` (7efda3cdd346…), `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-13_TRANSLATION_COMPLETE.md` (c66cfbe67cc1…)
 - historical cn_utf8_bytes mismatch: **53**
 - legacy shifted CSV row: **7**
 - conflicting complete representations: **2**
-- legacy tracker mismatch: **3**
 - WARNING: YPK_GTT/1C7AF3AD: 1C7AF3AD.csv: legacy CSV column shift recovered for 1 row(s): 19; translation is preserved, but a future merge/build step must normalize the row
 - WARNING: YPK_GTT/1C7B72AD: 1C7B72AD.csv: legacy CSV column shift recovered for 1 row(s): 28; translation is preserved, but a future merge/build step must normalize the row
 - WARNING: YPK_GTT/1C7BF2AD: 1C7BF2AD.csv: legacy CSV column shift recovered for 1 row(s): 19; translation is preserved, but a future merge/build step must normalize the row
@@ -882,34 +879,9 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   },
   "completed_file_ids": 710,
   "completed_rows": 26686,
-  "latest_validated_checkpoint_commit": "f9f775e5b16c0423096e9e27152cd38db07ba670",
+  "latest_validated_checkpoint_commit": "647d4a727bff9993b9701943df0b2072bc169f8c",
   "legacy_tracker_snapshot": {
-    "by_resource_class": {
-      "LOOSE_OLANG": {
-        "completed_file_ids": 14,
-        "total_file_ids": 14
-      },
-      "OHD": {
-        "completed_file_ids": 1,
-        "total_file_ids": 1
-      },
-      "SLOT_OLANG": {
-        "completed_file_ids": 111,
-        "total_file_ids": 144
-      },
-      "STAGEDAT_OLANG": {
-        "completed_file_ids": 46,
-        "total_file_ids": 46
-      },
-      "YPK_GTT": {
-        "completed_file_ids": 36,
-        "total_file_ids": 36
-      }
-    },
-    "claimed_total_for_completed_file_ids": 241,
-    "claimed_total_for_persisted_rows": 21041,
-    "completed_file_ids": 208,
-    "persisted_rows": 11778
+    "by_resource_class": {}
   },
   "next_file_id": "NONE",
   "partial": {
@@ -925,8 +897,13 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   "progress_archives": [
     {
       "bytes": 16341,
-      "path": "SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-07_10603.md",
+      "path": "archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-07_10603.md",
       "sha256": "7efda3cdd3466e5cf9d82aa65bb3a4c5d8790138426a165517a8d22869f2a70a"
+    },
+    {
+      "bytes": 204659,
+      "path": "archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-13_TRANSLATION_COMPLETE.md",
+      "sha256": "c66cfbe67cc12efa2cb35a7dedd116b80e53986e897150a419a7bf0df65b0ae8"
     }
   ],
   "remaining": {
@@ -942,12 +919,8 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   "template_catalog_sha256": "5135285818dd8c38dc957ff47c49bc8db821bc5b94f8b47be10c5d62faac366a",
   "total_file_ids": 710,
   "total_rows": 26686,
-  "tracker_reconciliation": [
-    "legacy tracker persisted rows=11778, facts=26686 (legacy delta -14908)",
-    "legacy tracker completed file_ids=208, facts=710 (legacy delta -502)",
-    "legacy tracker SLOT_OLANG completed=111, facts=144 (legacy delta -33)"
-  ],
+  "tracker_reconciliation": [],
   "validation_errors": 0,
-  "validation_warnings": 65
+  "validation_warnings": 62
 }
 END TRANSLATION STATE JSON -->
