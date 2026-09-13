@@ -1,6 +1,6 @@
 # V1 实机问题与下一轮修复标准
 
-更新时间：2026-09-09（Asia/Hong_Kong）
+更新时间：2026-09-14（Asia/Hong_Kong）
 
 状态：`OPEN`
 
@@ -61,7 +61,7 @@
 
 优先级：`P0`
 
-状态：`OPEN`
+状态：`RESOLVED_INGAME_2026-09-14`
 
 ### 实机已观察事实
 
@@ -69,24 +69,22 @@
 - 当前统一包中的 241 个 file_id 没有使这段运行时文本变为中文。
 - 日文内容涉及《特拉特洛尔科条约》、据点位置及路线情报等对话。
 
-### 尚未确认
+### 2026-09-14 实机回归
 
-- 该无线电属于尚未提取的 resource class/file_id，还是已有资源的另一份运行时 physical occurrence。
-- 游戏实际读取的是 SLOT、loose OLANG、STAGEDAT，还是当前尚未纳入 catalog 的其他文件。
-- 是否存在区域副本、任务后专用资源或未覆盖的运行时选择路径。
+- 加入 BRIEFING 的新候选包已在任务结束无线电路径中实机命中，文字已显示为中文。
+- 人物立绘、说话人和文本调用均正常；原“完整日文残留”问题可标记为已解决。
+- 同次测试发现中文长句不会由该界面自动换行，会越出屏幕；该残留问题单独记录为 ISSUE-006，不重新打开运行时资源覆盖问题。
 
-### 修复要求
+### 解决结论
 
-1. 用截图中的完整日文原句反查 clean JPN 数据。
-2. 明确实际文件路径、resource class、file_id、对象索引和 physical occurrence。
-3. 如果资源未被 catalog 覆盖，将其加入 JPN master、worklist、正式翻译和构建流程。
-4. 如果已有翻译但未命中运行时副本，修正 occurrence/build 覆盖，不按相邻 ordinal 猜测。
-5. 按同一段任务后无线电的完整上下文翻译和检查，不只修截图中的单句。
+- 该路径属于此前尚未进入旧五类 production 的 BRIEFING MISSION oEbN 文本；纳入冻结的 106 blocks / 835 rows 后，运行时已正确命中中文。
+- BRIEFING FILES 与 MISSION 保持独立物理 row、独立 translation unit 和 clean-JPN fixed-layout 构建，没有按相邻 ordinal 猜测或改写结构。
+- 运行时资源覆盖问题至此关闭；换行和可视宽度不属于该问题，继续由 ISSUE-006 跟踪。
 
 ### 验收标准
 
 - 同一任务结束后的整段无线电均显示中文。
-- 对话人物、顺序、分页、换行和触发时机正确。
+- 对话人物、顺序和触发时机正确。
 - 不再出现日文残留或因字库缺失产生的方框。
 - 新资源继续满足 JPN metadata/结构保留和 clean-JPN rebuild 原则。
 
@@ -216,10 +214,39 @@ production compile、loose OLANG rebuild 和结构 round-trip 已通过，随后
 - 选择状态、位置和间距正常。
 - 其他英文、数字和 UI 符号没有新增回归。
 
+## ISSUE-006：BRIEFING 无线电长句不自动换行
+
+优先级：`P0`
+
+状态：`OPEN`
+
+### 2026-09-14 实机已观察事实
+
+- BRIEFING FILES 和任务结束 BRIEFING MISSION 均能正确调用中文，但字幕界面不会为不含换行符的中文自动折行。
+- 长句以单行绘制，左右两端超出画面，造成不可读。这是视觉布局问题，不是 oEbN block 容量、parser 或 runtime 命中失败。
+- 已确认的两个样本：
+  - `BRIEFING_FILES_BLOCK_000D00 / unique_index 0`：`Snake，要把在现场发现的俘虏和被打昏的佣兵回收到母基地，就得使用富尔顿回收系统。`
+  - `BRIEFING_MISSION_BLOCK_36DD60 / unique_index 15`：`谢谢。Snake，关于哥斯达黎加的事什么都可以问我。地理、气候、植物，还有历史和法律，我都很熟。`
+- 两个 JPN 权威源行本身分别带有 2 行和 3 行语义分段，而现有 `cn_text` 丢掉了这些换行。
+
+### 修复要求
+
+1. 不拆分 translation unit，不改 `file_id` / `unique_index` / 物理 row；只在对应权威 mapping 的 `cn_text` 内加入显式 `LF` 换行。
+2. 先以 JPN 原文的语义分行为锚点，再按画面实际可视宽度缩短或调整断句；不能仅根据 UTF-8 字节容量判定。
+3. 扫描全部 5,645 条 BRIEFING `cn_text`，列出“无换行且可视长度高风险”的 row；由人工按 FILES/MISSION 场景复核，不盲目机械折行。
+4. 更新 `cn_utf8_bytes`，重跑 BRIEFING production `--check`、clean-JPN builder、block fit 和全盘 round-trip。如新增 LF 导致 block 容量不足，先缩短同一句译文，不改 block 边界。
+5. 生成新的 21 文件候选包，实机复测两个已知 row，再抽查其他长句、ruby 和多行对话。
+
+### 验收标准
+
+- 已知两句在字幕区域内完整显示，不裁切、不重叠，说话人和时序不变。
+- FILES 和 MISSION 长句高风险清单完成人工复核。
+- `BRIEFING_LINE_WRAP_OVERFLOW=0`，同时保持 469 blocks / 5,645 rows、0 overflow 和全盘 round-trip PASS。
+
 ## 下一轮执行顺序
 
 1. 建立完整 codepoint/glyph 覆盖检查，修复中文和保留日文缺字。
-2. 定位并纳入任务结束后的无线电资源。
+2. 任务结束无线电的中文 runtime 覆盖已实机通过；修复 ISSUE-006 的 BRIEFING 显式换行与长句排版。
 3. 定位并纠正任务结算武器经验字段。
 4. 对固定 UI 长文本进行显示宽度和换行审核。
 5. 对 UI 英文 ASCII 保留规则做持续回归检查，防止后续翻译重新覆盖已修复菜单。
@@ -232,7 +259,8 @@ production compile、loose OLANG rebuild 和结构 round-trip 已通过，随后
 - `UNEXPECTED_DOT_GLYPH=0`
 - `MISSING_GLYPH_BOX=0`
 - `TITLE_UI_MISSING_TEXT=0`（已通过 2026-09-09 实机验证）
-- `POST_MISSION_RADIO_JPN_REMAINS=0`
+- `POST_MISSION_RADIO_JPN_REMAINS=0`（已通过 2026-09-14 实机验证）
+- `BRIEFING_LINE_WRAP_OVERFLOW=0`
 - `MISSION_RESULT_SEMANTIC_ERROR=0`
 - `VISUAL_LAYOUT_OVERFLOW=0`
 - GTT `HARD_OVERFLOW=0`

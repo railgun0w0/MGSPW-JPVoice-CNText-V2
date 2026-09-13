@@ -1,8 +1,8 @@
 # BRIEFING 构建交接
 
-更新时间：2026-09-13（Asia/Hong_Kong）
+更新时间：2026-09-14（Asia/Hong_Kong）
 
-本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip 和统一 readiness 包已经完成；当前剩余工作是安装前备份以及 FILES/MISSION 实机验证。
+本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip 和统一 readiness 包已经完成；2026-09-14 实机 smoke test 已确认 FILES/MISSION 能命中中文，当前剩余工作是显式换行修订与完整回归。
 
 ## 当前完成状态
 
@@ -17,9 +17,11 @@
 - 离线验证：469/469 blocks、5,645/5,645 中文 rows exact；2,292 个非目标 oEbN block 不变；目标 block 外 ciphertext 改动 0；DAT size 4,142,432 不变。
 - 全量回读：945 allocations、2,761 oEbN、2,727 text-bearing、34 empty、42,079 rows、0 parser failure。
 - 统一 readiness 包：`build/readiness/full_package/`，21 files、1,134,808,848 bytes，逐文件 SHA-256 mismatch 为 0。
-- 尚未完成：安装与 BRIEFING FILES/MISSION 实机验证。
+- 实机 smoke test：BRIEFING FILES 和任务结束 MISSION 文本已能正常以中文显示，原“无线电仍为日文”问题已解决。
+- 实机新阻塞：字幕界面不自动折行，已确认 `BRIEFING_FILES_BLOCK_000D00/0` 与 `BRIEFING_MISSION_BLOCK_36DD60/15` 单行越界；须在 mapping `cn_text` 内加入显式 LF 并完成长句全量风险审查。
+- 尚未完成：换行修订、新包重建，以及 BRIEFING FILES/MISSION 完整实机验收。
 
-production CSV 内的 `translation_status=APPROVED` / `build_status=READY` 是可重复生成的输入门槛；资源级状态现为 `OFFLINE_BUILT_PASS`。为保持 compiler 确定性，不把 469 个 CSV 的输入状态改写为派生构建状态。当前 `ingame_status` 仍为 `NOT_TESTED`。
+production CSV 内的 `translation_status=APPROVED` / `build_status=READY` 是可重复生成的输入门槛；资源级离线状态为 `OFFLINE_BUILT_PASS`。为保持 compiler 确定性，不把 469 个 CSV 的输入状态改写为派生构建状态。实机状态现为“运行时命中与中文显示通过 smoke test，但长句换行阻塞，完整验收未通过”，不能再记作 `NOT_TESTED` 或完整 `PASS`。
 
 ## 权威输入与派生输出
 
@@ -118,14 +120,14 @@ python tools/Assemble-JpnCnTestPackage.py
 4. 分别实机检查 BRIEFING FILES 与 MISSION BRIEFING，记录 block/file_id、场景和问题行。
 5. 只在对应 mapping 中修订问题，再从 production compile 开始全量重跑。
 
-当前恢复点：翻译、production merge、专用 clean-JPN builder、全盘 round-trip、差异审计和 21 文件统一 readiness 包均已完成。下一项工程工作是安装与 FILES/MISSION 实机验证，不是继续翻译或重复结构研究。
+当前恢复点：翻译、production merge、专用 clean-JPN builder、全盘 round-trip、差异审计和 21 文件统一 readiness 包均已完成；实机已证明 FILES/MISSION 运行时命中和中文显示正常。下一项工程工作是修订 BRIEFING 长句的显式换行、全量筛查同类风险并重建实机复测，不是重复结构研究。
 
 ## MVP 优先级与后续优化
 
 当前第一优先级是完成可运行 MVP，不在构建前扩张为旧五类翻译体系重构：
 
 - MVP 已完成（离线）：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、统一测试包集成。
-- MVP 待完成（实机）：FILES/MISSION 显示、顺序、控制符、结束流程和字库验证。
+- MVP 实机进度：FILES/MISSION 运行时命中与中文显示已通过 smoke test；显式换行、长句排版、全量顺序/控制符/字库仍待验收。
 - MVP 保持：BRIEFING 继续使用 5,645 个独立物理 translation rows，保证每个上下文可以单独译写并精确绑定。
 - MVP 不做：不重新拆分或重译旧五类 21,041 个聚合 translation rows，不把全局通用 schema 改造作为 BRIEFING 构建前置条件。
 
