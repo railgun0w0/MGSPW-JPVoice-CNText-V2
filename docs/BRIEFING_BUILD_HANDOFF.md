@@ -2,7 +2,7 @@
 
 更新时间：2026-09-14（Asia/Hong_Kong）
 
-本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip 和统一 readiness 包已经完成；2026-09-14 实机 smoke test 已确认 FILES/MISSION 能命中中文，当前剩余工作是显式换行修订与完整回归。
+本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip 和统一 readiness 包已经完成；2026-09-14 实机 smoke test 已确认 FILES/MISSION 能命中中文，当前剩余工作是显式换行修订与完整回归。Ruby canonical 同步记录见 `docs/RUBY_CANONICAL_CHECKPOINT_2026-09-14.md`。
 
 ## 当前完成状态
 
