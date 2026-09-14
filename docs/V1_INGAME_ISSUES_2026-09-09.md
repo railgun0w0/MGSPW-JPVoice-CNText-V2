@@ -92,7 +92,7 @@
 
 优先级：`P1`
 
-状态：`OPEN`
+状态：`RESOLVED_INGAME_2026-09-14`
 
 ### 实机已观察事实
 
@@ -100,7 +100,17 @@
 - 每个武器条目最右侧的固定文本显示为无意义或乱码式中文。
 - 同一异常文本在多个武器条目中重复出现。
 
-### 尚未确认
+### 2026-09-14 实机回归
+
+- 当前统一包实机测试中，任务结算武器经验字段显示通过，动态等级、经验数字和固定字段均未发现异常。
+- 本次仅记录运行时验收结果；具体原因尚未确认，不据此反推 mapping、reference 或 control token 的修改原因。
+
+### 解决结论
+
+- 该问题暂不再作为当前生产阻塞。
+- 保留原始调查记录，若后续再次出现，应按 file_id、reference、场景和运行时截图重新定位，不直接修改已通过的译文。
+
+### 历史调查记录
 
 - 原因是译文语义错误、短文本跨上下文误复用、辅助 reference 错位，还是控制符/参数附近的映射错误。
 - 该字段的准确日文原文及运行时用途。
@@ -218,7 +228,7 @@ production compile、loose OLANG rebuild 和结构 round-trip 已通过，随后
 
 优先级：`P0`
 
-状态：`OPEN`
+状态：`RESOLVED_INGAME_2026-09-14`
 
 ### 2026-09-14 实机已观察事实
 
@@ -228,6 +238,11 @@ production compile、loose OLANG rebuild 和结构 round-trip 已通过，随后
   - `BRIEFING_FILES_BLOCK_000D00 / unique_index 0`：`Snake，要把在现场发现的俘虏和被打昏的佣兵回收到母基地，就得使用富尔顿回收系统。`
   - `BRIEFING_MISSION_BLOCK_36DD60 / unique_index 15`：`谢谢。Snake，关于哥斯达黎加的事什么都可以问我。地理、气候、植物，还有历史和法律，我都很熟。`
 - 两个 JPN 权威源行本身分别带有 2 行和 3 行语义分段，而现有 `cn_text` 丢掉了这些换行。
+
+### 解决结论
+
+- 仅在对应 `cn_text` 中插入 LF，未修改中文文字、row identity、Ruby、control token 或 block 结构。
+- 两条已知 FILES 行宽超限已修复；重新生成 production CSV、BRIEFING DAT、全量 package 后，layout audit 为 0 overflow，离线 round-trip 继续通过，实机测试通过。
 
 ### 修复要求
 
@@ -243,16 +258,14 @@ production compile、loose OLANG rebuild 和结构 round-trip 已通过，随后
 - FILES 和 MISSION 长句高风险清单完成人工复核。
 - `BRIEFING_LINE_WRAP_OVERFLOW=0`，同时保持 469 blocks / 5,645 rows、0 overflow 和全盘 round-trip PASS。
 
-## 下一轮执行顺序
+## 后续验收与优化顺序
 
 1. 建立完整 codepoint/glyph 覆盖检查，修复中文和保留日文缺字。
-2. 任务结束无线电的中文 runtime 覆盖已实机通过；修复 ISSUE-006 的 BRIEFING 显式换行与长句排版。
-3. 定位并纠正任务结算武器经验字段。
-4. 对固定 UI 长文本进行显示宽度和换行审核。
-5. 对 UI 英文 ASCII 保留规则做持续回归检查，防止后续翻译重新覆盖已修复菜单。
-6. 从 clean JPN 重新生成统一测试包。
-7. 重跑结构、容量、控制符、metadata、非目标 payload 和 round-trip 检查。
-8. 对剩余问题逐一实机复测。
+2. 任务结束无线电、ISSUE-003 任务结算武器经验字段和 ISSUE-006 BRIEFING 已知长句已通过当前实机验收；新增场景继续回归。
+3. 对固定 UI 长文本进行显示宽度和换行审核。
+4. 对 UI 英文 ASCII 保留规则做持续回归检查，防止后续翻译重新覆盖已修复菜单。
+5. GTT 容量、alignment spill、压缩余量和相关文本长度优化统一放到中文润色完成后的后续优化项目，不在当前生产版本中继续改动。
+6. 对剩余问题逐一实机复测。
 
 ## V1.1 候选版统一通过条件
 

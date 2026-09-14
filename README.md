@@ -34,12 +34,12 @@ V2 的硬规则：
 
 - 当前六类翻译共 710/710 个 file_id、26,686/26,686 条 translation rows 完成。旧五类资源仍为 241 file_ids / 21,041 个去重翻译行，对象级 `compiled_translation_manifest.csv` 共 91,609 行。
 - 旧五类 production compiler 直接读取 Git 已跟踪的 `reference_masters`，并从零生成 worklist 与 91,609 行 manifest；被忽略的 `build/translation/` 仅为输出目录，不是前置输入。
-- BRIEFING 已生成独立正式 production CSV，并完成专用 clean-JPN fixed-layout 构建：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、全盘 parser/text/diff round-trip 均通过。2026-09-14 实机 smoke test 已确认 FILES/MISSION 能正常显示中文，但长句需在 mapping 中显式加入 LF 换行。
+- BRIEFING 已生成独立正式 production CSV，并完成专用 clean-JPN fixed-layout 构建：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、全盘 parser/text/diff round-trip 均通过。2026-09-14 实机已确认 FILES/MISSION 正常显示中文；两条已知长句已加入显式 LF，layout audit 当前为 0 overflow。
 - 当前优先级是完成包含 BRIEFING 的可运行 MVP：专用 oEbN builder、round-trip、统一测试包和实机验证。旧五类模板按 `file_id + jpn_text` 自动聚合可能压掉同文异境差异，已登记为 MVP 后的翻译润色/通用 schema 优化方向；MVP 前不重做 21,041 行旧译文，也不因此阻塞构建。
-- 36 个 YPK/GTT 已完成 fixed-frame repack：1,882 records、2,136 timed segments，1,815 normal fit、67 alignment spill、0 hard overflow。人工缩短的 29 个原 overflow record 已固化到权威 mapping/CSV。
+- 36 个 YPK/GTT 已完成 fixed-frame repack：1,882 records、2,136 timed segments，1,812 normal fit、70 alignment spill、0 hard overflow。现有容量结果保持不变；alignment spill、容量余量和后续压缩/排版优化统一列为中文润色完成后的后续优化项目，不作为当前生产阻塞。
 - 144 个 SLOT OLANG 已覆盖 742 个 physical occurrences；OHD `1E4C1146` 已覆盖 4 个 occurrence、904 个 physical records；14 个 loose OLANG 与 123 个 STAGEDAT embedded OLANG entry 均已完成 round-trip。
 - `Build-JpnUnifiedSlot.py` 已从 clean JPN 合并 SLOT OLANG、YPK/GTT、OHD：823 个目标 tag、110 个 SLOT pages、0 block overflow，DAT 大小与 KEY 保持不变。
 - `build/readiness/full_package/` 已组成新的 21 文件统一 readiness 包：合并 SLOT DAT/KEY、14 个 loose OLANG、STAGEDAT、BRIEFING DAT 和 3 个已验证中文字库；逐文件 hash mismatch 为 0。
-- 2026-09-09 实机安装并验证的是加入 BRIEFING 前的旧 20 文件包。新的 21 文件包尚未安装；安装时必须重新备份并验证全部 21 个文件。
+- 当前 21 文件统一包已用于实机验证，BRIEFING、任务结束无线电和任务结算武器经验字段均通过当前测试；安装正式版本时仍应重新备份原始文件。
 - 标题 UI 的 `NEW GAME`、`LOAD GAME`、`DELETE` 英文标签已通过实机验证。此次 ASCII UI 回归修复共恢复/保留 351 条高风险文本，后续不得把纯 ASCII UI 默认改成依赖未覆盖中文 glyph 的译文。
-- 任务结束无线电资源已实机命中中文；当前仍需集中修复 BRIEFING 单行越界，并验收中文/日文缺字、任务结算武器经验字段和固定 UI 长文本排版；发现问题时回到对应 file_id 权威译文修订，再从 clean JPN 全量重建。
+- 任务结束无线电资源已实机命中中文，BRIEFING 已完成已知长句换行修复；任务结算武器经验字段也已实机通过，但具体原因暂不下结论。当前剩余验收重点是中文/日文缺字和固定 UI 长文本排版；GTT 容量与 alignment 优化统一留待中文润色后处理。

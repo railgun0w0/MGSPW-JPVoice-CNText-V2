@@ -246,7 +246,7 @@ V2 需要独立的 `parse_gtt_multi` / `repack_gtt_multi`；旧 `decode_gtt_text
 ## GTT / YPK
 
 - GTT header 中每个 boundary 副本的完整通用 schema，需要用 5,878-record diff 产物生成字段级统计后再固化；Miller 的 3 段布局不能直接推广到所有 segment_count。
-- alignment slack 已由 MLG_CN 的 160 条记录和 V2 JPN `1C79F2AD` record 52 的固定布局构建覆盖；后者仍需在游戏内实际触发并确认显示与后续 record 连续性。`record_size` 在 V2 中始终保持原值。
+- alignment slack 已由 MLG_CN 的 160 条记录和 V2 JPN `1C79F2AD` record 52 的固定布局构建覆盖；后者仍需在游戏内实际触发并确认显示与后续 record 连续性。`record_size` 在 V2 中始终保持原值。当前 production 接受 1,812 个 normal fit、70 个 alignment spill、0 个 hard overflow；容量余量、alignment spill、压缩策略和相关文本长度优化统一延后到中文润色完成后处理，不作为当前生产阻塞。
 - ENG/working ENG_CN 的 5,878 条差分怎样可靠映射到全部 JPN records 尚未完成。V2 不接受 page/lane shortcut。
 - JPN-only records、区域 record-count 差异、多 variant CN records、ruby/control tags 的逐段映射仍需证据化。
 - 旧 preflight 的 topology、overflow 与 anomaly 数字依赖已禁用的 +4 mapping/旧 parser，应全部重跑。

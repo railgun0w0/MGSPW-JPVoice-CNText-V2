@@ -163,8 +163,8 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 - `translation_worklist.csv` 的 241/241 个 file_id 已完成，file_id 内精确去重译文为 21,041/21,041 行。
 - `compiled_translation_manifest.csv` 已将正式译文展开为 91,609 个真实 JPN 对象绑定。
 - 36 个 YPK/GTT、1 个 OHD、144 个 SLOT OLANG、14 个 loose OLANG、46 个 STAGEDAT OLANG file_id 均已进入 production。
-- BRIEFING 的 469 blocks / 5,645 个 JPN 物理 rows 已进入独立 production 并完成离线构建：FILES 363/4,810，MISSION 106/835；静态检查、clean-JPN build、全量 parser/text/diff round-trip 均 PASS。2026-09-14 实机 smoke test 已证明 FILES/MISSION 能命中中文，但发现长句不自动换行的排版阻塞。
-- 29 个初始 GTT hard-overflow record 已按人工审定短译文固化；在后续容量修复后，全体 GTT 为 1,812 normal fit、70 alignment spill、0 hard overflow。
+- BRIEFING 的 469 blocks / 5,645 个 JPN 物理 rows 已进入独立 production 并完成离线构建：FILES 363/4,810，MISSION 106/835；静态检查、clean-JPN build、全量 parser/text/diff round-trip 均 PASS。2026-09-14 实机已证明 FILES/MISSION 命中中文，已知两条长句加入显式 LF 后 layout audit 为 0 overflow。
+- 全体 GTT 当前为 1,812 normal fit、70 alignment spill、0 hard overflow。现有结果作为当前生产基线冻结；容量余量、alignment spill、压缩策略和进一步的文本长度优化，统一放入中文润色完成后的后续优化项目。
 - 统一 SLOT 构建从 clean JPN 合并 742 个 SLOT OLANG、77 个 YPK/GTT 和 4 个 OHD physical occurrences，共 823 个目标 tag、110 pages、0 block overflow。
 - 14 个 loose OLANG、123 个 STAGEDAT embedded OLANG entries 以及中文字库已与统一 SLOT 组成 `build/readiness/full_package/`。
 - `1C79F2AD` 和 `5D3AF52D` 的 golden 仅保留为历史/结构 regression fixture；production compiler 不读取其中文正文，也不以其覆盖当前 mapping。2026-09-14 已将剩余 16 个 Ruby canonical mismatch 按最终表同步到 JSON mapping，并重建对应 production CSV：587 个 unique JPN Ruby pairs、1,251 个目标 occurrences、`UNMAPPED_PAIR=0`、`RUBY_COUNT_MISMATCH=0`、production canonical mismatch 为 0。
@@ -175,7 +175,7 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 
 1. 离线阶段已完成：专用 BRIEFING builder、parser/text/diff round-trip，以及包含六类资源和字体的 21 文件统一 readiness 包。
 2. 标题 UI ASCII 保留修复已于 2026-09-09 实机通过；后续翻译不得把已确认的纯 ASCII UI 再改成依赖未覆盖中文字形的 CJK。
-3. 2026-09-14 已实机确认任务结束无线电命中中文；BRIEFING layout audit 当前仍报告 2 条 FILES 行宽超限，下一步修订对应 mapping 中的显式 LF 换行，先复测 `BRIEFING_FILES_BLOCK_000D00/0` 和 `BRIEFING_MISSION_BLOCK_36DD60/15`，再集中验收剧情字幕、任务结算字段、任务说明、过场字幕、ruby、字库和日语语音。
+3. 2026-09-14 已实机确认任务结束无线电命中中文，BRIEFING 两条已知 FILES 行宽问题已通过显式 LF 修复；任务结算武器经验字段也已实机通过，但原因暂不确定。后续集中验收剧情字幕、任务说明、过场字幕、ruby、字库和日语语音。
 4. 对发现的问题记录 resource class、file_id、原文/现译文和场景；只修订对应权威 CSV/mapping，再从 production compile 开始全量重建。
 5. 实机问题清零后冻结正式发布包和恢复/安装说明。
 
@@ -196,7 +196,9 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 本次修复覆盖全局筛出的 351 条高风险 ASCII UI 文本，采用 JPN 原文作为回退，不改变
 JPN 结构、record/reference 数量、时序或 metadata。统一包安装校验为 `VERIFY_MISMATCHES=0`。
 
-该结果只证明标题/UI 英文缺字回归已解决。任务后无线电覆盖又于 2026-09-14 实机确认为中文，但暴露了 BRIEFING 长句不自动换行的新问题。其他中文缺字、结算语义和长文本排版仍按 `V1_INGAME_ISSUES_2026-09-09.md` 继续验收。
+该结果证明标题/UI 英文缺字回归已解决。任务后无线电、BRIEFING 已知长句换行和任务结算武器经验字段均已通过当前实机测试；BRIEFING 的两个已知 overflow 已通过 layout audit。其他中文缺字和固定 UI 长文本排版仍按 `V1_INGAME_ISSUES_2026-09-09.md` 继续验收。
+
+GTT 的容量、alignment spill、压缩余量和相关文本长度优化不在当前生产修复范围内，统一列为中文润色完成后的后续优化项目；当前以 `HARD_OVERFLOW=0`、`BLOCK_OVERFLOW=0` 和 round-trip PASS 作为生产门槛。
 
 核心路线可以概括为：
 

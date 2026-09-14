@@ -2,7 +2,7 @@
 
 更新时间：2026-09-14（Asia/Hong_Kong）
 
-本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip 和统一 readiness 包已经完成；2026-09-14 实机 smoke test 已确认 FILES/MISSION 能命中中文，当前剩余工作是显式换行修订与完整回归。Ruby canonical 同步记录见 `docs/RUBY_CANONICAL_CHECKPOINT_2026-09-14.md`。
+本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip、统一 readiness 包和已知长句显式换行修订已经完成；2026-09-14 实机已确认 FILES/MISSION 能命中中文。Ruby canonical 同步记录见 `docs/RUBY_CANONICAL_CHECKPOINT_2026-09-14.md`。
 
 ## 当前完成状态
 
@@ -17,11 +17,11 @@
 - 离线验证：469/469 blocks、5,645/5,645 中文 rows exact；2,292 个非目标 oEbN block 不变；目标 block 外 ciphertext 改动 0；DAT size 4,142,432 不变。
 - 全量回读：945 allocations、2,761 oEbN、2,727 text-bearing、34 empty、42,079 rows、0 parser failure。
 - 统一 readiness 包：`build/readiness/full_package/`，21 files、1,134,808,848 bytes，逐文件 SHA-256 mismatch 为 0。
-- 实机 smoke test：BRIEFING FILES 和任务结束 MISSION 文本已能正常以中文显示，原“无线电仍为日文”问题已解决。
-- 实机新阻塞：字幕界面不自动折行，已确认 `BRIEFING_FILES_BLOCK_000D00/0` 与 `BRIEFING_MISSION_BLOCK_36DD60/15` 单行越界；须在 mapping `cn_text` 内加入显式 LF 并完成长句全量风险审查。
-- 尚未完成：换行修订、新包重建，以及 BRIEFING FILES/MISSION 完整实机验收。
+- 实机回归：BRIEFING FILES 和任务结束 MISSION 文本已能正常以中文显示，原“无线电仍为日文”问题已解决。
+- 实机长句排版：字幕界面不自动折行的问题已通过在对应 mapping `cn_text` 内加入显式 LF 修复；已知两条 FILES/MISSION 样本、新包重建和 layout audit 均通过。
+- BRIEFING 当前状态：469 blocks / 5,645 rows，FILES/MISSION 实机显示通过，已知 `BRIEFING_LINE_WRAP_OVERFLOW=0`；后续只保留新增场景的回归检查。
 
-production CSV 内的 `translation_status=APPROVED` / `build_status=READY` 是可重复生成的输入门槛；资源级离线状态为 `OFFLINE_BUILT_PASS`。为保持 compiler 确定性，不把 469 个 CSV 的输入状态改写为派生构建状态。实机状态现为“运行时命中与中文显示通过 smoke test，但长句换行阻塞，完整验收未通过”，不能再记作 `NOT_TESTED` 或完整 `PASS`。
+production CSV 内的 `translation_status=APPROVED` / `build_status=READY` 是可重复生成的输入门槛；资源级离线状态为 `OFFLINE_BUILT_PASS`。为保持 compiler 确定性，不把 469 个 CSV 的输入状态改写为派生构建状态。当前 BRIEFING 实机状态为 `INGAME_PASS`：运行时命中、中文显示和已知长句换行均通过；后续新增文本仍需遵守同一布局审计。
 
 ## 权威输入与派生输出
 
@@ -103,7 +103,14 @@ builder 已实现以下门槛，任何后续重建仍必须全部通过：
 - DAT 总大小、allocation 覆盖/间隙和 parser failure 状态；
 - KEY 是否保持 byte-identical。
 
-本轮 builder 输出、重解析和差异审计已经全部通过，因此资源级可标记为 `OFFLINE_BUILT_PASS`；只有实机检查 FILES/MISSION 的显示、换行、ruby、顺序和调用路径后，才能标记为 `INGAME_PASS`。
+本轮 builder 输出、重解析和差异审计已经全部通过，资源级为 `OFFLINE_BUILT_PASS`；2026-09-14 已完成 FILES/MISSION 的显示、换行、ruby、顺序和调用路径实机检查，BRIEFING 当前标记为 `INGAME_PASS`。
+
+## 收尾结论（2026-09-14）
+
+- 两条已知 FILES 行宽超限已在 mapping 中仅插入 LF 修复：`BRIEFING_FILES_BLOCK_036C20#7`、`BRIEFING_FILES_BLOCK_03A280#11`。
+- 重新生成 production CSV 和 BRIEFING DAT 后，FILES/MISSION 行宽与显示行数审计均为 0 overflow；clean-JPN fixed-layout builder、容量检查、parser/text/diff round-trip 均通过。
+- 21 文件统一 readiness 包已完成实机验证；BRIEFING FILES 与任务结束 MISSION 均正常显示中文。
+- BRIEFING 当前不再有已知阻塞项；后续仅对新增或改动文本执行同样的 layout audit 和实机回归。
 
 ## 后续执行顺序
 
@@ -120,14 +127,14 @@ python tools/Assemble-JpnCnTestPackage.py
 4. 分别实机检查 BRIEFING FILES 与 MISSION BRIEFING，记录 block/file_id、场景和问题行。
 5. 只在对应 mapping 中修订问题，再从 production compile 开始全量重跑。
 
-当前恢复点：翻译、production merge、专用 clean-JPN builder、全盘 round-trip、差异审计和 21 文件统一 readiness 包均已完成；实机已证明 FILES/MISSION 运行时命中和中文显示正常。下一项工程工作是修订 BRIEFING 长句的显式换行、全量筛查同类风险并重建实机复测，不是重复结构研究。
+当前恢复点：翻译、production merge、专用 clean-JPN builder、全盘 round-trip、差异审计、已知长句显式换行和 21 文件统一 readiness 包均已完成；实机已证明 FILES/MISSION 运行时命中、中文显示和已知长句排版正常。BRIEFING 已收尾，后续只需对新增翻译做同等布局回归，不重新进行结构研究。
 
 ## MVP 优先级与后续优化
 
 当前第一优先级是完成可运行 MVP，不在构建前扩张为旧五类翻译体系重构：
 
 - MVP 已完成（离线）：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、统一测试包集成。
-- MVP 实机进度：FILES/MISSION 运行时命中与中文显示已通过 smoke test；显式换行、长句排版、全量顺序/控制符/字库仍待验收。
+- MVP 实机进度：FILES/MISSION 运行时命中、中文显示和已知显式换行/长句排版已通过测试；全量字库覆盖与新增文本回归仍需持续验收。
 - MVP 保持：BRIEFING 继续使用 5,645 个独立物理 translation rows，保证每个上下文可以单独译写并精确绑定。
 - MVP 不做：不重新拆分或重译旧五类 21,041 个聚合 translation rows，不把全局通用 schema 改造作为 BRIEFING 构建前置条件。
 
