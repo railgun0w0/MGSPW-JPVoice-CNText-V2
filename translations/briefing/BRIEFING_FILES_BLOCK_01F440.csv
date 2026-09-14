@@ -10,7 +10,8 @@ BRIEFING_FILES_BLOCK_01F440,1,stream=0x1F000;block=0x440;text=1,"[""stream=0x1F0
 施設にいる方は「警備兵」と呼んでるそうだ。
 ","のんびり歩いているように見えるが、そいつは見かけだけ
 だ。決して侮るなよ。奴らは五感を研ぎ澄ましている。
-",[],听说为了方便，阿曼达他们把在野外巡逻的称作“巡逻兵”，把守设施的称作“警备兵”。,,MATCH,149,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SECOND_CATEGORY_RESTORED
+",[],"听说为了方便，阿曼达他们把在野外巡逻的称作“巡逻兵”，
+把守设施的称作“警备兵”。",,MATCH,149,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SECOND_CATEGORY_RESTORED
 BRIEFING_FILES_BLOCK_01F440,2,stream=0x1F000;block=0x440;text=2,"[""stream=0x1F000;block=0x440;text=2""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","アマンダ達は便宜上、野外を巡回している連中を「哨戒兵」、
 施設にいる方は「警備兵」と呼んでるそうだ。
 ","のんびり歩いているように見えるが、そいつは見かけだけ
@@ -18,7 +19,8 @@ BRIEFING_FILES_BLOCK_01F440,2,stream=0x1F000;block=0x440;text=2,"[""stream=0x1F0
 ","普段は規定のルート上を巡回しているが、警戒レベルが高
 まると決まったポイントを重点防御して、効率的な警戒態
 勢をとる。こうなるとやっかいだ。
-",[],看起来像是在悠闲地走动，那只是表象。绝不能小看他们，他们的五感都十分敏锐。,,MATCH,155,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_IGNORED
+",[],"看起来像是在悠闲地走动，那只是表象。
+绝不能小看他们，他们的五感都十分敏锐。",,MATCH,155,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_IGNORED
 BRIEFING_FILES_BLOCK_01F440,3,stream=0x1F000;block=0x440;text=3,"[""stream=0x1F000;block=0x440;text=3""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","のんびり歩いているように見えるが、そいつは見かけだけ
 だ。決して侮るなよ。奴らは五感を研ぎ澄ましている。
 ","普段は規定のルート上を巡回しているが、警戒レベルが高
@@ -26,7 +28,8 @@ BRIEFING_FILES_BLOCK_01F440,3,stream=0x1F000;block=0x440;text=3,"[""stream=0x1F0
 勢をとる。こうなるとやっかいだ。
 ","もちろん戦闘でも手強い相手だし、<R=防弾着,ボディアーマー>を着ているやつ
 は倒すにも手間取る。
-",[],平时他们会沿固定路线巡逻，但警戒等级升高后，就会重点防守特定位置，进入高效的警戒态势。这样就麻烦了。,,MATCH,207,150,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+",[],"平时他们会沿固定路线巡逻，但警戒等级升高后，
+就会重点防守特定位置，进入高效的警戒态势。这样就麻烦了。",,MATCH,207,151,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
 BRIEFING_FILES_BLOCK_01F440,4,stream=0x1F000;block=0x440;text=4,"[""stream=0x1F000;block=0x440;text=4""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","普段は規定のルート上を巡回しているが、警戒レベルが高
 まると決まったポイントを重点防御して、効率的な警戒態
 勢をとる。こうなるとやっかいだ。
@@ -34,14 +37,15 @@ BRIEFING_FILES_BLOCK_01F440,4,stream=0x1F000;block=0x440;text=4,"[""stream=0x1F0
 は倒すにも手間取る。
 ","防弾ヘルメットを装着していたらもう、<R= 一 撃 必 殺 ,ワンショット・ワンキル>って
 わけにもいかなくなる。気をつけてくれ。
-","[""<R=防弾着,ボディアーマー>""]","当然，战斗中他们也是难缠的对手；穿着<R=防弹衣,body armor>的家伙，想打倒也要费些功夫。","<R=防弹衣,body armor>",MATCH,136,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;AUX_CROSS_ROW_SPLIT_RESTORED
+","[""<R=防弾着,ボディアーマー>""]","当然，战斗中他们也是难缠的对手；
+穿着<R=防弹衣,body armor>的家伙，想打倒也要费些功夫。","<R=防弹衣,body armor>",MATCH,136,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;AUX_CROSS_ROW_SPLIT_RESTORED
 BRIEFING_FILES_BLOCK_01F440,5,stream=0x1F000;block=0x440;text=5,"[""stream=0x1F000;block=0x440;text=5""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","もちろん戦闘でも手強い相手だし、<R=防弾着,ボディアーマー>を着ているやつ
 は倒すにも手間取る。
 ","防弾ヘルメットを装着していたらもう、<R= 一 撃 必 殺 ,ワンショット・ワンキル>って
 わけにもいかなくなる。気をつけてくれ。
 ","偽装やルート選択に工夫が要る。奴らの探知を逃れること
 が第一だ。
-","[""<R= 一 撃 必 殺 ,ワンショット・ワンキル>""]","要是还戴着防弹头盔，就没法再<R= 一 击 必 杀 ,one shot one kill>了。小心点。","<R= 一 击 必 杀 ,one shot one kill>",MATCH,174,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;SOURCE_SPACING_PRESERVED
+","[""<R= 一 撃 必 殺 ,ワンショット・ワンキル>""]","要是还戴着防弹头盔，就没法再<R=一 击 必 杀,one shot one kill>了。小心点。","<R=一 击 必 杀,one shot one kill>",MATCH,174,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;SOURCE_SPACING_PRESERVED
 BRIEFING_FILES_BLOCK_01F440,6,stream=0x1F000;block=0x440;text=6,"[""stream=0x1F000;block=0x440;text=6""]",1,BRIEFING FILES,"[""stream=0x1F000;block=0x440;block_file=0x1F440;text_base=0x1F47C;capacity=1024""]","防弾ヘルメットを装着していたらもう、<R= 一 撃 必 殺 ,ワンショット・ワンキル>って
 わけにもいかなくなる。気をつけてくれ。
 ","偽装やルート選択に工夫が要る。奴らの探知を逃れること

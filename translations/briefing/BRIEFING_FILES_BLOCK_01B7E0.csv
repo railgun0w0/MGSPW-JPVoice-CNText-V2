@@ -2,12 +2,13 @@
 BRIEFING_FILES_BLOCK_01B7E0,0,stream=0x1B000;block=0x7E0;text=0,"[""stream=0x1B000;block=0x7E0;text=0""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x7E0;block_file=0x1B7E0;text_base=0x1B82C;capacity=852""]",,"<R=列車車庫,ターミナル>の近くにあった巨大な足跡…何だと思う？　カズ。
 ","わからん…象でもあんなに大きくない。チコが言っていた<R=バシリスク,バシリスコ>
 の話を思い出した。
-","[""<R=列車車庫,ターミナル>""]","列车<R=车库,Terminal>附近那些巨大的脚印……你觉得是什么，Kaz？","<R=车库,Terminal>",MATCH,102,85,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R=列車車庫,ターミナル>""]","列车<R=铁路货运站,TERMINAL>附近那些巨大的脚印……你觉得是什么，Kaz？","<R=铁路货运站,TERMINAL>",MATCH,102,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_01B7E0,1,stream=0x1B000;block=0x7E0;text=1,"[""stream=0x1B000;block=0x7E0;text=1""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x7E0;block_file=0x1B7E0;text_base=0x1B82C;capacity=852""]","<R=列車車庫,ターミナル>の近くにあった巨大な足跡…何だと思う？　カズ。
 ","わからん…象でもあんなに大きくない。チコが言っていた<R=バシリスク,バシリスコ>
 の話を思い出した。
 ","信じたくはないが…。
-","[""<R=バシリスク,バシリスコ>""]","不知道……就算是大象也没那么大。让我想起Chico说过的<R=Basilisk,Basilisco>。","<R=Basilisk,Basilisco>",MATCH,142,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R=バシリスク,バシリスコ>""]","不知道……就算是大象也没那么大。
+让我想起Chico说过的<R=Basilisk,Basilisco>。","<R=Basilisk,Basilisco>",MATCH,142,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_01B7E0,2,stream=0x1B000;block=0x7E0;text=2,"[""stream=0x1B000;block=0x7E0;text=2""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x7E0;block_file=0x1B7E0;text_base=0x1B82C;capacity=852""]","わからん…象でもあんなに大きくない。チコが言っていた<R=バシリスク,バシリスコ>
 の話を思い出した。
 ","信じたくはないが…。
@@ -18,7 +19,8 @@ BRIEFING_FILES_BLOCK_01B7E0,3,stream=0x1B000;block=0x7E0;text=3,"[""stream=0x1B0
 ","俺もだ。奴らがそんな兵器を持っているとしたら…<R=バシリスク,バシリスコ>
 に似ているのは外見だけじゃないかもしれん。
 ","どういうことだ？
-","[""<R=バシリスク,バシリスコ>""]","我也是。如果他们真有那种兵器……它和<R=Basilisk,Basilisco>相似的，也许不只是外形。","<R=Basilisk,Basilisco>",MATCH,169,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R=バシリスク,バシリスコ>""]","我也是。
+如果他们真有那种兵器……它和<R=Basilisk,Basilisco>相似的，也许不只是外形。","<R=Basilisk,Basilisco>",MATCH,169,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_01B7E0,4,stream=0x1B000;block=0x7E0;text=4,"[""stream=0x1B000;block=0x7E0;text=4""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x7E0;block_file=0x1B7E0;text_base=0x1B82C;capacity=852""]","俺もだ。奴らがそんな兵器を持っているとしたら…<R=バシリスク,バシリスコ>
 に似ているのは外見だけじゃないかもしれん。
 ","どういうことだ？
@@ -33,7 +35,8 @@ BRIEFING_FILES_BLOCK_01B7E0,6,stream=0x1B000;block=0x7E0;text=6,"[""stream=0x1B0
 ","「バシリスクは蛇の王。蛇はバシリスクを恐れ、目にする
 と逃げる…」。
 ","「それはバシリスクが臭いや息で蛇を殺すからだ」。
-",[],「Basilisk是蛇中之王。蛇畏惧Basilisk，一见到它就会逃跑……」,,MATCH,101,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"「Basilisk是蛇中之王。
+蛇畏惧Basilisk，一见到它就会逃跑……」",,MATCH,101,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_01B7E0,7,stream=0x1B000;block=0x7E0;text=7,"[""stream=0x1B000;block=0x7E0;text=7""]",1,BRIEFING FILES,"[""stream=0x1B000;block=0x7E0;block_file=0x1B7E0;text_base=0x1B82C;capacity=852""]","「バシリスクは蛇の王。蛇はバシリスクを恐れ、目にする
 と逃げる…」。
 ","「それはバシリスクが臭いや息で蛇を殺すからだ」。

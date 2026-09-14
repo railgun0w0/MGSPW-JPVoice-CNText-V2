@@ -2,7 +2,8 @@
 BRIEFING_FILES_BLOCK_041A90,0,stream=0x41000;block=0xA90;text=0,"[""stream=0x41000;block=0xA90;text=0""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]",,"資材中継地はイラス東部の山麓だ。核物資はそこの<R=列車車庫,ターミナル>
 で列車からトラックに積み替えられるはず。
 ","わかった。積み替えの隙を狙おう。
-","[""<R=列車車庫,ターミナル>""]","物资中转站在Irazú东部山麓。核物资应该会在那里的<R=列车车库,TERMINAL>从列车转装到卡车上。","<R=列车车库,TERMINAL>",MATCH,163,124,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=列車車庫,ターミナル>""]","物资中转站在Irazú东部山麓。
+核物资应该会在那里的<R=铁路货运站,TERMINAL>从列车转装到卡车上。","<R=铁路货运站,TERMINAL>",MATCH,163,128,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_041A90,1,stream=0x41000;block=0xA90;text=1,"[""stream=0x41000;block=0xA90;text=1""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","資材中継地はイラス東部の山麓だ。核物資はそこの<R=列車車庫,ターミナル>
 で列車からトラックに積み替えられるはず。
 ","わかった。積み替えの隙を狙おう。
@@ -31,7 +32,8 @@ BRIEFING_FILES_BLOCK_041A90,5,stream=0x41000;block=0xA90;text=5,"[""stream=0x410
 ","歩兵と兵器をつなぐ金属の歯車、メタル・ギア…ソ連にそ
 んなことを言っていた奴がいた。
 ","金属の歯車…。
-",[],连接步兵与兵器的金属齿轮，Metal Gear……我在苏联遇到过一个这么说的人。,,MATCH,125,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"连接步兵与兵器的金属齿轮，
+Metal Gear……我在苏联遇到过一个这么说的人。",,MATCH,125,101,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_041A90,6,stream=0x41000;block=0xA90;text=6,"[""stream=0x41000;block=0xA90;text=6""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","歩兵と兵器をつなぐ金属の歯車、メタル・ギア…ソ連にそ
 んなことを言っていた奴がいた。
 ","金属の歯車…。
@@ -53,7 +55,8 @@ BRIEFING_FILES_BLOCK_041A90,9,stream=0x41000;block=0xA90;text=9,"[""stream=0x410
 ","…考えていても仕方ない。そこにそいつがいたら作戦を練
 り直すだけだ。斥候がいない以上、自分で行くしかない。
 ","気をつけてくれよ、スネーク…。
-",[],……光想也没用。如果那家伙真在那里，只要重新制定作战计划。既然没有侦察兵，就只能亲自去。,,MATCH,158,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"……光想也没用。如果那家伙真在那里，只要重新制定作战计划。
+既然没有侦察兵，就只能亲自去。",,MATCH,158,133,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_041A90,10,stream=0x41000;block=0xA90;text=10,"[""stream=0x41000;block=0xA90;text=10""]",1,BRIEFING FILES,"[""stream=0x41000;block=0xA90;block_file=0x41A90;text_base=0x41ADC;capacity=1024""]","…考えていても仕方ない。そこにそいつがいたら作戦を練
 り直すだけだ。斥候がいない以上、自分で行くしかない。
 ","気をつけてくれよ、スネーク…。

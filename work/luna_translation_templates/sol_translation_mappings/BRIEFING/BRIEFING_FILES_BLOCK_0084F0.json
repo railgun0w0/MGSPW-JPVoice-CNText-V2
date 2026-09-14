@@ -19,7 +19,7 @@
     },
     {
       "unique_index": 2,
-      "cn_text": "难得我还特意借给你。这本书里写的游击战术，和潜入任务有不少共通之处。",
+      "cn_text": "难得我还特意借给你。\n这本书里写的游击战术，和潜入任务有不少共通之处。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 102,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_LENDING_CLAUSE"
@@ -33,7 +33,7 @@
     },
     {
       "unique_index": 4,
-      "cn_text": "还有人称“阿拉伯的劳伦斯”的T．E．劳伦斯少校。以及写过《游击战》的毛泽东……",
+      "cn_text": "还有人称“阿拉伯的劳伦斯”的T．E．劳伦斯少校。\n以及写过《游击战》的毛泽东……",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 113,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_TITLE_CONFLICT_JPN_USED"
@@ -47,14 +47,14 @@
     },
     {
       "unique_index": 6,
-      "cn_text": "难怪<R=FSLN,サンディニスタ>会以他命名。",
+      "cn_text": "难怪<R=FSLN,SANDINISTA>会以他命名。",
       "cn_control_tokens": "<R=FSLN,サンディニスタ>",
       "cn_utf8_bytes": 54,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_PRESERVED"
     },
     {
       "unique_index": 7,
-      "cn_text": "不过，游击战本身自古就存在。毕竟少数人要扰乱大军，能用的手段就那么几种。",
+      "cn_text": "不过，游击战本身自古就存在。\n毕竟少数人要扰乱大军，能用的手段就那么几种。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 108,
       "review_flag": "JPN_DIRECT_TRANSLATION"
@@ -89,7 +89,7 @@
     },
     {
       "unique_index": 12,
-      "cn_text": "用特洛伊木马战法潜入，用<R=稻草人,デコイ>扰乱敌人……最绝的是，对着攀爬城墙的敌人泼滚水和粪尿……",
+      "cn_text": "用特洛伊木马战法潜入，用<R=稻草人,DECOY>扰乱敌人……最绝的是，\n对着攀爬城墙的敌人泼滚水和粪尿……",
       "cn_control_tokens": "<R=稻草人,デコイ>",
       "cn_utf8_bytes": 143,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_REFERENCE_CLIPPED"

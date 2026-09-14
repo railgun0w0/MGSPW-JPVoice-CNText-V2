@@ -16,12 +16,12 @@ BRIEFING_FILES_BLOCK_0033A0,3,stream=0x3000;block=0x3A0;text=3,"[""stream=0x3000
 はどこまで知っていたのか…。
 ","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
 ","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
-","[""<R=CIPHER,サイファー>""]","但那也只是为一个叫“<R=CIPHER,サイファー>”的组织进行的行动。","<R=CIPHER,サイファー>",MATCH,96,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
+","[""<R=CIPHER,サイファー>""]","但那也只是为一个叫“<R=CIPHER,CIPHER>”的组织进行的行动。","<R=CIPHER,CIPHER>",MATCH,96,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
 BRIEFING_FILES_BLOCK_0033A0,4,stream=0x3000;block=0x3A0;text=4,"[""stream=0x3000;block=0x3A0;text=4""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","だがそれも“<R=CIPHER,サイファー>”とかいう組織のための工作だった。
 ","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
 ","んー、サイファー…「暗号」、か。あるいは「アラビア数
 字」「0」…。
-","[""<R=CIPHER,サイファー>""]","“<R=CIPHER,サイファー>”……Kaz，你听说过吗？","<R=CIPHER,サイファー>",MATCH,75,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
+","[""<R=CIPHER,サイファー>""]","“<R=CIPHER,CIPHER>”……Kaz，你听说过吗？","<R=CIPHER,CIPHER>",MATCH,75,53,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_PRESERVED
 BRIEFING_FILES_BLOCK_0033A0,5,stream=0x3000;block=0x3A0;text=5,"[""stream=0x3000;block=0x3A0;text=5""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","“<R=CIPHER,サイファー>”…カズ、聞いたことがあるか？
 ","んー、サイファー…「暗号」、か。あるいは「アラビア数
 字」「0」…。
@@ -46,7 +46,7 @@ BRIEFING_FILES_BLOCK_0033A0,9,stream=0x3000;block=0x3A0;text=9,"[""stream=0x3000
 だな。
 ","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
 ころの「空」だ。
-","[""<R=CIPHER,サイファー>"", ""<R=二重語,doublet>""]","原本<R=CIPHER,サイファー>和ZERO就是同一个词。属于<R=同源异形词,doublet>。","<R=CIPHER,サイファー> | <R=同源异形词,doublet>",MATCH,110,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+","[""<R=CIPHER,サイファー>"", ""<R=二重語,doublet>""]","原本<R=CIPHER,CIPHER>和ZERO就是同一个词。属于<R=同源异形词,doublet>。","<R=CIPHER,CIPHER> | <R=同源异形词,doublet>",MATCH,110,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_0033A0,10,stream=0x3000;block=0x3A0;text=10,"[""stream=0x3000;block=0x3A0;text=10""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","もともと<R=CIPHER,サイファー>とZEROは同じ言葉だったんだ。<R=二重語,doublet>
 だな。
 ","起源は、サンスクリット語のsunyaに遡る…仏教で言うと
@@ -59,7 +59,8 @@ BRIEFING_FILES_BLOCK_0033A0,11,stream=0x3000;block=0x3A0;text=11,"[""stream=0x30
 ","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
 ることで、中身が空になった状態を指したらしい。
 ","膨張してできた空か…まるで宇宙だな。
-",[],佛教所说的「空」有“空虚”之意。据说指的是膨胀之后，内部变得空无的状态。,,MATCH,149,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+",[],"佛教所说的「空」有“空虚”之意。
+据说指的是膨胀之后，内部变得空无的状态。",,MATCH,149,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
 BRIEFING_FILES_BLOCK_0033A0,12,stream=0x3000;block=0x3A0;text=12,"[""stream=0x3000;block=0x3A0;text=12""]",1,BRIEFING FILES,"[""stream=0x3000;block=0x3A0;block_file=0x33A0;text_base=0x33F4;capacity=984""]","仏教で言う「空」は“虚ろな”といった意味だ。膨れ上が
 ることで、中身が空になった状態を指したらしい。
 ","膨張してできた空か…まるで宇宙だな。

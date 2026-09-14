@@ -198,14 +198,6 @@ class CompiledFile:
     mapped_objects: int = 0
 
 
-@dataclass(frozen=True)
-class TrustedOverride:
-    texts: dict[str, str]
-    source: str
-    build_status: str = "BUILT"
-    ingame_status: str = "PASS"
-
-
 def parse_args() -> argparse.Namespace:
     v2_root = Path(__file__).resolve().parents[1]
     default_repo = v2_root
@@ -336,82 +328,12 @@ def stable_status(rows: list[dict[str, str]], column: str, fallback: str) -> str
     return next(iter(values)) if len(values) == 1 and next(iter(values)) else fallback
 
 
-def add_trusted_text(
-    output: dict[str, str], jpn_text: str, cn_text: str, label: str
-) -> None:
-    if not jpn_text:
-        return
-    if jpn_text in output and output[jpn_text] != cn_text:
-        raise CompileFailure(f"{label}: duplicate JPN text has conflicting golden translations")
-    output[jpn_text] = cn_text
-
-
-def load_trusted_overrides(v2_root: Path) -> dict[tuple[str, str], TrustedOverride]:
-    overrides: dict[tuple[str, str], TrustedOverride] = {}
-
-    gtt_json = v2_root / "translations" / "1C79F2AD_cn.json"
-    gtt_master = v2_root / MASTER_PATHS["YPK_GTT"]
-    gtt_golden = v2_root / "tests" / "fixtures" / "gtt_1C79F2AD" / "1C79F2AD_cn_golden.ypk"
-    if not (gtt_json.is_file() and gtt_master.is_file() and gtt_golden.is_file()):
-        raise CompileFailure("trusted 1C79F2AD translation/golden fixture is missing")
-    data = json.loads(gtt_json.read_text(encoding="utf-8-sig"))
-    if data.get("file_id") != "1C79F2AD" or not isinstance(data.get("records"), list):
-        raise CompileFailure("trusted 1C79F2AD translation JSON has invalid identity")
-    master_rows = [
-        row for row in read_csv(gtt_master) if row.get("file_id", "").upper() == "1C79F2AD"
-    ]
-    grouped: dict[int, list[dict[str, str]]] = defaultdict(list)
-    for row in master_rows:
-        grouped[integer(row["record_index"])].append(row)
-    if sorted(grouped) != list(range(len(data["records"]))):
-        raise CompileFailure("trusted 1C79F2AD JSON/master record coverage mismatch")
-    gtt_texts: dict[str, str] = {}
-    for record_index, cn_segments in enumerate(data["records"]):
-        jpn_segments = sorted(grouped[record_index], key=lambda row: integer(row["segment_index"]))
-        if len(jpn_segments) != len(cn_segments):
-            raise CompileFailure(
-                f"trusted 1C79F2AD record {record_index}: segment count mismatch"
-            )
-        for source, cn_text in zip(jpn_segments, cn_segments):
-            if not isinstance(cn_text, str) or not cn_text:
-                raise CompileFailure(
-                    f"trusted 1C79F2AD record {record_index}: empty/non-string segment"
-                )
-            add_trusted_text(gtt_texts, source["jpn_text"], cn_text, "1C79F2AD")
-    overrides[("YPK_GTT", "1C79F2AD")] = TrustedOverride(
-        texts=gtt_texts,
-        source="translations/1C79F2AD_cn.json + tests/fixtures/gtt_1C79F2AD",
-    )
-
-    olang_fixture = v2_root / "tests" / "fixtures" / "olang_5D3AF52D"
-    jpn_rbx = olang_fixture / "5D3AF52D_jpn_original.rbx"
-    cn_rbx = olang_fixture / "5D3AF52D_cn_golden.rbx"
-    if not (jpn_rbx.is_file() and cn_rbx.is_file()):
-        raise CompileFailure("trusted 5D3AF52D golden fixture is missing")
-    sys.path.insert(0, str(v2_root))
-    from core.rbx import parse_rbx  # pylint: disable=import-outside-toplevel
-
-    parsed_jpn = parse_rbx(jpn_rbx.read_bytes(), "5D3AF52D:jpn_golden")
-    parsed_cn = parse_rbx(cn_rbx.read_bytes(), "5D3AF52D:cn_golden")
-    if len(parsed_jpn.references) != len(parsed_cn.references):
-        raise CompileFailure("trusted 5D3AF52D fixture reference count mismatch")
-    olang_texts: dict[str, str] = {}
-    for source, target in zip(parsed_jpn.references, parsed_cn.references):
-        add_trusted_text(olang_texts, source.text, target.text, "5D3AF52D")
-    overrides[("SLOT_OLANG", "5D3AF52D")] = TrustedOverride(
-        texts=olang_texts,
-        source="tests/fixtures/olang_5D3AF52D/5D3AF52D_cn_golden.rbx",
-    )
-    return overrides
-
-
 def compile_files(
     v2_root: Path,
     repo: Path,
     state_module,
     audits,
     git_templates,
-    trusted_overrides: dict[tuple[str, str], TrustedOverride],
 ) -> tuple[dict[tuple[str, str], CompiledFile], dict[str, int]]:
     local_root = v2_root / "work" / "luna_translation_templates"
     compiled: dict[tuple[str, str], CompiledFile] = {}
@@ -446,18 +368,6 @@ def compile_files(
         if set(mapped_by_index) != set(local_by_index):
             raise CompileFailure(f"{resource_class}/{file_id}: mapping coverage changed after audit")
 
-        trusted = trusted_overrides.get(key)
-        if trusted is not None:
-            template_texts = {row.get("jpn_text", "") for row in local_rows}
-            if set(trusted.texts) != template_texts:
-                missing = sorted(template_texts - set(trusted.texts))
-                extra = sorted(set(trusted.texts) - template_texts)
-                raise CompileFailure(
-                    f"{resource_class}/{file_id}: trusted golden/template text mismatch; "
-                    f"missing={missing[:3]}, extra={extra[:3]}"
-                )
-            counters["trusted_ingame_files"] += 1
-
         existing = load_existing_production(v2_root, resource_class, file_id)
         existing_exact = False
         preserved_build = "READY"
@@ -477,16 +387,12 @@ def compile_files(
             if existing_exact:
                 preserved_build = stable_status(existing_rows, "build_status", "READY")
                 preserved_ingame = stable_status(existing_rows, "ingame_status", "NOT_TESTED")
-        if trusted is not None:
-            preserved_build = trusted.build_status
-            preserved_ingame = trusted.ingame_status
-
         output_rows: list[dict[str, str]] = []
         for index in sorted(local_by_index):
             source = local_by_index[index]
             mapping = mapped_by_index[index]
             jpn_text = source.get("jpn_text", "")
-            cn_text = trusted.texts[jpn_text] if trusted is not None else mapping.get("cn_text")
+            cn_text = mapping.get("cn_text")
             if not isinstance(cn_text, str):
                 raise CompileFailure(f"{resource_class}/{file_id}:{index}: cn_text is not a string")
             if "\x00" in cn_text:
@@ -519,12 +425,6 @@ def compile_files(
                     counters["cn_utf8_bytes_corrected"] += 1
 
             review_flag = str(mapping.get("review_flag", "")).strip()
-            if trusted is not None:
-                review_flag = (
-                    f"TRUSTED_INGAME_GOLDEN;{review_flag}"
-                    if review_flag
-                    else "TRUSTED_INGAME_GOLDEN"
-                )
             notes = source.get("notes", "")
             if review_flag:
                 notes = f"{notes}; review_flag={review_flag}" if notes else f"review_flag={review_flag}"
@@ -536,8 +436,8 @@ def compile_files(
                     "control_structure_status": "MATCH",
                     "cn_utf8_bytes": str(actual_bytes),
                     "translation_status": "APPROVED",
-                    "build_status": preserved_build if (existing_exact or trusted is not None) else "READY",
-                    "ingame_status": preserved_ingame if (existing_exact or trusted is not None) else "NOT_TESTED",
+                    "build_status": preserved_build if existing_exact else "READY",
+                    "ingame_status": preserved_ingame if existing_exact else "NOT_TESTED",
                     "notes": notes,
                 }
             )
@@ -547,13 +447,13 @@ def compile_files(
             resource_class=resource_class,
             file_id=file_id,
             rows=output_rows,
-            mapping_source=(trusted.source if trusted is not None else relative(audit.canonical.root_path, repo)),
+            mapping_source=relative(audit.canonical.root_path, repo),
             mapping_commit=audit.canonical.commit,
             preserved_build_status=(
-                preserved_build if (existing_exact or trusted is not None) else "READY"
+                preserved_build if existing_exact else "READY"
             ),
             preserved_ingame_status=(
-                preserved_ingame if (existing_exact or trusted is not None) else "NOT_TESTED"
+                preserved_ingame if existing_exact else "NOT_TESTED"
             ),
         )
         counters["files"] += 1
@@ -938,9 +838,8 @@ def main() -> int:
     if incomplete or audit_errors:
         raise CompileFailure(f"translation state is not complete: incomplete={incomplete}; errors={audit_errors}")
 
-    trusted_overrides = load_trusted_overrides(v2_root)
     compiled, compile_counts = compile_files(
-        v2_root, repo, state, audits, git_templates, trusted_overrides
+        v2_root, repo, state, audits, git_templates
     )
     if len(compiled) != 241 or compile_counts.get("rows") != 21041:
         raise CompileFailure(

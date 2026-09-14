@@ -7,7 +7,8 @@ BRIEFING_FILES_BLOCK_027C30,1,stream=0x27000;block=0xC30;text=1,"[""stream=0x270
 ","うん。平和を愛する人達の、合い言葉だもの。スネークも
 やってみて。セイ・ピース。
 ","…遠慮しておく。俺には不似合いな言葉だ。
-",[],嗯。因为那是热爱和平的人们之间的暗号。Snake也试试。Say Peace。,,MATCH,119,86,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SAY_PEACE_RESTORED
+",[],"嗯。因为那是热爱和平的人们之间的暗号。
+Snake也试试。Say Peace。",,MATCH,119,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SAY_PEACE_RESTORED
 BRIEFING_FILES_BLOCK_027C30,2,stream=0x27000;block=0xC30;text=2,"[""stream=0x27000;block=0xC30;text=2""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xC30;block_file=0x27C30;text_base=0x27C6C;capacity=648""]","うん。平和を愛する人達の、合い言葉だもの。スネークも
 やってみて。セイ・ピース。
 ","…遠慮しておく。俺には不似合いな言葉だ。
@@ -23,7 +24,8 @@ BRIEFING_FILES_BLOCK_027C30,4,stream=0x27000;block=0xC30;text=4,"[""stream=0x270
 意味になったんだ。
 ","私も詳しくは知らないんだけど…ベトナムの反戦運動あた
 りからみたい。
-","[""<R=勝利,ヴィクトリー>""]","说到底，V手势的V是<R=胜利,Victory>的V吧。它从什么时候开始有和平的意思了？","<R=胜利,Victory>",MATCH,127,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R=勝利,ヴィクトリー>""]","说到底，V手势的V是<R=胜利,Victory>的V吧。
+它从什么时候开始有和平的意思了？","<R=胜利,Victory>",MATCH,127,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_027C30,5,stream=0x27000;block=0xC30;text=5,"[""stream=0x27000;block=0xC30;text=5""]",1,BRIEFING FILES,"[""stream=0x27000;block=0xC30;block_file=0x27C30;text_base=0x27C6C;capacity=648""]","そもそも、VサインのVは<R=勝利,ヴィクトリー>のVだろう。いつから平和の
 意味になったんだ。
 ","私も詳しくは知らないんだけど…ベトナムの反戦運動あた
@@ -37,4 +39,5 @@ BRIEFING_FILES_BLOCK_027C30,6,stream=0x27000;block=0xC30;text=6,"[""stream=0x270
 ","そうだ。ピースサインは裏向きには出さないで。イギリス
 あたりだと、相手を侮辱することになってしまうらしいか
 ら。
-",,[],对了。做和平手势时别把手背朝外。听说在英国一带，那样是在侮辱对方。,,MATCH,165,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SPLIT_REJOINED_PER_JPN
+",,[],"对了。做和平手势时别把手背朝外。
+听说在英国一带，那样是在侮辱对方。",,MATCH,165,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_SPLIT_REJOINED_PER_JPN

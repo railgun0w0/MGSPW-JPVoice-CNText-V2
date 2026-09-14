@@ -8,7 +8,8 @@ BRIEFING_FILES_BLOCK_012860,1,stream=0x12000;block=0x860;text=1,"[""stream=0x120
 ても手ぶれが起きてしまう。特に大きい、重い武器だとな。
 ","もちろん、立っているよりは、しゃがんだほうが狙いやす
 くはなる。
-",[],『气力』充足时还好，一旦疲劳，手就难免会抖。尤其是使用又大又重的武器时。,,MATCH,161,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+",[],"『气力』充足时还好，一旦疲劳，手就难免会抖。
+尤其是使用又大又重的武器时。",,MATCH,161,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
 BRIEFING_FILES_BLOCK_012860,2,stream=0x12000;block=0x860;text=2,"[""stream=0x12000;block=0x860;text=2""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","『気力』が充実している時はともかく、疲れてるとどうし
 ても手ぶれが起きてしまう。特に大きい、重い武器だとな。
 ","もちろん、立っているよりは、しゃがんだほうが狙いやす
@@ -22,14 +23,16 @@ BRIEFING_FILES_BLOCK_012860,3,stream=0x12000;block=0x860;text=3,"[""stream=0x120
 段々と狙いが正確になっていくしな。
 ","だがマザーベースで銃の開発を進めていけば、同系統でも
 照準ブレの少ない銃ができるかも知れん。
-",[],至于用瞄准镜观察的武器，只要稳在一个位置不动，瞄准就会逐渐变得更精确。,,MATCH,134,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
+",[],"至于用瞄准镜观察的武器，
+只要稳在一个位置不动，瞄准就会逐渐变得更精确。",,MATCH,134,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ROW_MISALIGNMENT_IGNORED
 BRIEFING_FILES_BLOCK_012860,4,stream=0x12000;block=0x860;text=4,"[""stream=0x12000;block=0x860;text=4""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","スコープで覗くような武器だと、一所に落ち着いていれば、
 段々と狙いが正確になっていくしな。
 ","だがマザーベースで銃の開発を進めていけば、同系統でも
 照準ブレの少ない銃ができるかも知れん。
 ","照準ぶれが気になるようなら、そっちに力を入れるのも手
 だ。
-",[],不过，只要继续在Mother Base研发枪械，也许同一系列里会出现瞄准晃动更小的型号。,,MATCH,137,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+",[],"不过，只要继续在Mother Base研发枪械，
+也许同一系列里会出现瞄准晃动更小的型号。",,MATCH,137,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
 BRIEFING_FILES_BLOCK_012860,5,stream=0x12000;block=0x860;text=5,"[""stream=0x12000;block=0x860;text=5""]",1,BRIEFING FILES,"[""stream=0x12000;block=0x860;block_file=0x12860;text_base=0x1289C;capacity=848""]","だがマザーベースで銃の開発を進めていけば、同系統でも
 照準ブレの少ない銃ができるかも知れん。
 ","照準ぶれが気になるようなら、そっちに力を入れるのも手
@@ -41,4 +44,5 @@ BRIEFING_FILES_BLOCK_012860,6,stream=0x12000;block=0x860;text=6,"[""stream=0x120
 だ。
 ","覚えておこう。だが銃ってもんは、使っている内に手に馴
 染んでくる。あんまり浮気するのも考えものだ。
-",,[],我会记住。不过枪这东西，用久了自然会顺手。老是换来换去，也未必是什么好事。,,MATCH,146,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",,[],"我会记住。不过枪这东西，用久了自然会顺手。
+老是换来换去，也未必是什么好事。",,MATCH,146,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

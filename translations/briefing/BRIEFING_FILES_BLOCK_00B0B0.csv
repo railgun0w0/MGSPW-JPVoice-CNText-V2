@@ -4,14 +4,16 @@ BRIEFING_FILES_BLOCK_00B0B0,0,stream=0xB000;block=0xB0;text=0,"[""stream=0xB000;
 ","ゲリラ部隊は通常、規模、火力、継戦能力のいずれも敵正
 規軍に対して大きく劣る。戦闘が長引くほど不利だ。戦闘
 は短期決戦、これが基本だ。
-",[],Kaz。以你过去当游骑兵的经验，说说你的看法。发动游击战时，要注意哪些方面？,,MATCH,149,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+",[],"Kaz。以你过去当游骑兵的经验，说说你的看法。
+发动游击战时，要注意哪些方面？",,MATCH,149,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
 BRIEFING_FILES_BLOCK_00B0B0,1,stream=0xB000;block=0xB0;text=1,"[""stream=0xB000;block=0xB0;text=1""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","カズ。元レンジャーとしてのお前の経験から意見をくれ。
 ゲリラ戦を仕掛ける時、どういった点に注意する。
 ","ゲリラ部隊は通常、規模、火力、継戦能力のいずれも敵正
 規軍に対して大きく劣る。戦闘が長引くほど不利だ。戦闘
 は短期決戦、これが基本だ。
 ","戦術的にはそうだな。では戦略面は。
-",[],游击队无论规模、火力还是持续作战能力，通常都远逊于敌方正规军。战斗拖得越久越不利。基本原则就是速战速决。,,MATCH,198,156,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+",[],"游击队无论规模、火力还是持续作战能力，通常都远逊于敌方正规军。
+战斗拖得越久越不利。基本原则就是速战速决。",,MATCH,198,157,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
 BRIEFING_FILES_BLOCK_00B0B0,2,stream=0xB000;block=0xB0;text=2,"[""stream=0xB000;block=0xB0;text=2""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","ゲリラ部隊は通常、規模、火力、継戦能力のいずれも敵正
 規軍に対して大きく劣る。戦闘が長引くほど不利だ。戦闘
 は短期決戦、これが基本だ。
@@ -28,7 +30,8 @@ BRIEFING_FILES_BLOCK_00B0B0,3,stream=0xB000;block=0xB0;text=3,"[""stream=0xB000;
 しいだろう。
 ","また地の利を得るには、土地鑑を持つ地域住民の協力が欠
 かせない。
-",[],兵力和后勤基础薄弱的游击队，总会受到一些限制。比如物资补给不得不依赖就地筹措。没有农民的援助，恐怕很难把游击战坚持到底。,,MATCH,256,180,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+",[],"兵力和后勤基础薄弱的游击队，总会受到一些限制。比如物资补给不
+得不依赖就地筹措。没有农民的援助，恐怕很难把游击战坚持到底。",,MATCH,256,181,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
 BRIEFING_FILES_BLOCK_00B0B0,4,stream=0xB000;block=0xB0;text=4,"[""stream=0xB000;block=0xB0;text=4""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","兵力・兵站の基盤が脆弱なゲリラ部隊には、いくつかの制
 約がついて回る。例えば物資補給は現地調達に頼らざるを
 得ない。農民達の援助無しにゲリラ戦を戦い抜くことは難
@@ -47,7 +50,9 @@ BRIEFING_FILES_BLOCK_00B0B0,5,stream=0xB000;block=0xB0;text=5,"[""stream=0xB000;
 官にとって、部隊の規律維持は勝敗に直結する重要任務と
 心得るべきだろう。
 ","まるで“<R=民心獲得作戦,ハーツアンドマインド>”だな。
-",[],因此，争取民心是必不可少的。为了赢得信任，游击战士必须保持高尚的操守。对指挥官来说，维持部队纪律是一项直接关系胜负的重要任务。,,MATCH,265,189,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
+",[],"因此，争取民心是必不可少的。
+为了赢得信任，游击战士必须保持高尚的操守。
+对指挥官来说，维持部队纪律是一项直接关系胜负的重要任务。",,MATCH,265,191,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE
 BRIEFING_FILES_BLOCK_00B0B0,6,stream=0xB000;block=0xB0;text=6,"[""stream=0xB000;block=0xB0;text=6""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","ゆえに、民衆の人心掌握は必須だ。信頼を勝ち取るために
 ゲリラ戦士のモラルは高潔に保たれなければならん。指揮
 官にとって、部隊の規律維持は勝敗に直結する重要任務と
@@ -71,7 +76,9 @@ BRIEFING_FILES_BLOCK_00B0B0,9,stream=0xB000;block=0xB0;text=9,"[""stream=0xB000;
 ウィンの心を掴み、ドイツ軍を撃破したのは有名だ。
 ","ああ。…そういえば、お前の国の孫子もそんなことを言っ
 ていなかったか？
-",[],思路应该一样。把民众变成敌人的军队，从来没有赢过。“阿拉伯的劳伦斯”也是如此。他赢得当地贝都因人的支持并击败德国军队，这件事很有名。,,MATCH,231,198,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;JPN_HISTORICAL_CLAIM_PRESERVED
+",[],"思路应该一样。把民众变成敌人的军队，从来没有赢过。
+“阿拉伯的劳伦斯”也是如此。
+他赢得当地贝都因人的支持并击败德国军队，这件事很有名。",,MATCH,231,200,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;NO_RELIABLE_AUX_REFERENCE;JPN_HISTORICAL_CLAIM_PRESERVED
 BRIEFING_FILES_BLOCK_00B0B0,10,stream=0xB000;block=0xB0;text=10,"[""stream=0xB000;block=0xB0;text=10""]",1,BRIEFING FILES,"[""stream=0xB000;block=0xB0;block_file=0xB0B0;text_base=0xB118;capacity=1940""]","発想は同じだろうな。民衆を敵に回して勝てた軍隊はいな
 いよ。“アラビアのロレンス”もそうだったな。地元ベド
 ウィンの心を掴み、ドイツ軍を撃破したのは有名だ。

@@ -35,7 +35,7 @@ BRIEFING_FILES_BLOCK_034100,6,stream=0x34000;block=0x100;text=6,"[""stream=0x340
 ","それを見て、隊の誰かが「<R=新しい人間,オンブレ・ヌエボ>が乗ってる」って言
 い出してね。
 ","あたしはその呼び方、気に入らないんだけど。
-","[""<R=新しい人間,オンブレ・ヌエボ>""]","看到它以后，队里有人就说“里面坐着<R=新人类,Hombre Nuevo>”。","<R=新人类,Hombre Nuevo>",MATCH,127,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_SPANISH_READING
+","[""<R=新しい人間,オンブレ・ヌエボ>""]","看到它以后，队里有人就说“里面坐着<R=新人,HOMBRE NUEVO>”。","<R=新人,HOMBRE NUEVO>",MATCH,127,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_SPANISH_READING
 BRIEFING_FILES_BLOCK_034100,7,stream=0x34000;block=0x100;text=7,"[""stream=0x34000;block=0x100;text=7""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","それを見て、隊の誰かが「<R=新しい人間,オンブレ・ヌエボ>が乗ってる」って言
 い出してね。
 ","あたしはその呼び方、気に入らないんだけど。
@@ -51,13 +51,15 @@ BRIEFING_FILES_BLOCK_034100,9,stream=0x34000;block=0x100;text=9,"[""stream=0x340
 の。<R=FSLN,サンディニスタ>に集うものの目標よ。
 ","モラルと、自発的な労働に喜びを見いだす、「新しい人間」
 …その名をあんな化物にくれてやるのは、悔しくて。
-","[""<R=新しい人間,オンブレ・ヌエボ>"", ""<R=FSLN,サンディニスタ>""]","因为“<R=新人类,Hombre Nuevo>”是格瓦拉追求的理想，也是聚集到<R=FSLN,Sandinista>的人们追求的目标。","<R=新人类,Hombre Nuevo> | <R=FSLN,Sandinista>",MATCH,175,129,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS;JPN_IDEAL_PRIMARY
+","[""<R=新しい人間,オンブレ・ヌエボ>"", ""<R=FSLN,サンディニスタ>""]","因为“<R=新人,HOMBRE NUEVO>”是格瓦拉追求的理想，
+也是聚集到<R=FSLN,SANDINISTA>的人们追求的目标。","<R=新人,HOMBRE NUEVO> | <R=FSLN,SANDINISTA>",MATCH,175,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS;JPN_IDEAL_PRIMARY
 BRIEFING_FILES_BLOCK_034100,10,stream=0x34000;block=0x100;text=10,"[""stream=0x34000;block=0x100;text=10""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","だって、「<R=新しい人間,オンブレ・ヌエボ>」は、ゲバラが目指した姿じゃない
 の。<R=FSLN,サンディニスタ>に集うものの目標よ。
 ","モラルと、自発的な労働に喜びを見いだす、「新しい人間」
 …その名をあんな化物にくれてやるのは、悔しくて。
 ","違いない。
-",[],在道德和自发劳动中找到喜悦的“新人类”……把这个名字送给那种怪物，我实在不甘心。,,MATCH,155,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_FRUSTRATION_NUANCE_PRIMARY
+",[],"在道德和自发劳动中找到喜悦的“新人类”……
+把这个名字送给那种怪物，我实在不甘心。",,MATCH,155,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_FRUSTRATION_NUANCE_PRIMARY
 BRIEFING_FILES_BLOCK_034100,11,stream=0x34000;block=0x100;text=11,"[""stream=0x34000;block=0x100;text=11""]",1,BRIEFING FILES,"[""stream=0x34000;block=0x100;block_file=0x34100;text_base=0x34150;capacity=1008""]","モラルと、自発的な労働に喜びを見いだす、「新しい人間」
 …その名をあんな化物にくれてやるのは、悔しくて。
 ","違いない。

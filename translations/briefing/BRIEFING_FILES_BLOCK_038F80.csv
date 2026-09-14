@@ -7,7 +7,8 @@ BRIEFING_FILES_BLOCK_038F80,1,stream=0x38000;block=0xF80;text=1,"[""stream=0x380
 ","ええ。山での暮らしに比べれば<R=天国,ヘブン>よ。<R=国家警備隊,グァルディア>や傭兵
 に追われなくて済むしね。
 ","最近ここへ来た連中には、その傭兵出身の奴もいるが…。
-","[""<R=天国,ヘブン>"", ""<R=国家警備隊,グァルディア>""]","嗯。跟山里的生活相比，这里简直是<R=天堂,HEAVEN>。也不用再被<R=国民警卫队,LA GUARDIA>和雇佣兵追着跑了。","<R=天堂,HEAVEN> | <R=国民警卫队,LA GUARDIA>",MATCH,153,140,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=天国,ヘブン>"", ""<R=国家警備隊,グァルディア>""]","嗯。跟山里的生活相比，这里简直是<R=天堂,HEAVEN>。
+也不用再被<R=国民警卫队,LA GUARDIA>和雇佣兵追着跑了。","<R=天堂,HEAVEN> | <R=国民警卫队,LA GUARDIA>",MATCH,153,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038F80,2,stream=0x38000;block=0xF80;text=2,"[""stream=0x38000;block=0xF80;text=2""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","ええ。山での暮らしに比べれば<R=天国,ヘブン>よ。<R=国家警備隊,グァルディア>や傭兵
 に追われなくて済むしね。
 ","最近ここへ来た連中には、その傭兵出身の奴もいるが…。
@@ -18,7 +19,8 @@ BRIEFING_FILES_BLOCK_038F80,3,stream=0x38000;block=0xF80;text=3,"[""stream=0x380
 ","大丈夫、うまくやってる。最初はいざこざもあったけど、
 話してみれば普通の人間だもの。
 ","そうか。安心した。
-",[],没事，我们相处得很好。一开始也闹过些矛盾，但真正聊过以后，就会发现他们也只是普通人。,,MATCH,125,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"没事，我们相处得很好。
+一开始也闹过些矛盾，但真正聊过以后，就会发现他们也只是普通人。",,MATCH,125,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_038F80,4,stream=0x38000;block=0xF80;text=4,"[""stream=0x38000;block=0xF80;text=4""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","大丈夫、うまくやってる。最初はいざこざもあったけど、
 話してみれば普通の人間だもの。
 ","そうか。安心した。
@@ -31,7 +33,8 @@ BRIEFING_FILES_BLOCK_038F80,5,stream=0x38000;block=0xF80;text=5,"[""stream=0x380
 …<R=CIA,ラ・シーア>の傭兵も、<R=国家警備隊,グァルディア>も…そしてきっと、アメリカ
 の民衆も。
 ","どうした、急に。
-","[""<R=CIA,ラ・シーア>"", ""<R=国家警備隊,グァルディア>""]","是啊……就算分成敌我双方互相厮杀，对方也终究只是人……<R=CIA,LA CIA>的雇佣兵也好，<R=国民警卫队,LA GUARDIA>也好……还有美国的普通民众，应该也一样。","<R=CIA,LA CIA> | <R=国民警卫队,LA GUARDIA>",MATCH,214,206,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=CIA,ラ・シーア>"", ""<R=国家警備隊,グァルディア>""]","是啊……就算分成敌我双方互相厮杀，对方也终究只是人……<R=CIA,LA CIA>的雇
+佣兵也好，<R=国民警卫队,LA GUARDIA>也好……还有美国的普通民众，应该也一样。","<R=CIA,LA CIA> | <R=国民警卫队,LA GUARDIA>",MATCH,214,207,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038F80,6,stream=0x38000;block=0xF80;text=6,"[""stream=0x38000;block=0xF80;text=6""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","そうよ…敵味方に分かれて戦ってても、相手はただの人間
 …<R=CIA,ラ・シーア>の傭兵も、<R=国家警備隊,グァルディア>も…そしてきっと、アメリカ
 の民衆も。
@@ -43,7 +46,7 @@ BRIEFING_FILES_BLOCK_038F80,7,stream=0x38000;block=0xF80;text=7,"[""stream=0x380
 ","<R=父さん,ミ・ビエホ>は革命の資金を稼ぐために、麻薬精製に手を出した。
 KGBに言われるままにね。
 ","すべては<R=祖国,ニカラグア>のため…そう思うようにして目を背けていた。
-","[""<R=父さん,ミ・ビエホ>""]","<R=父亲,MI VIEJO>为了筹集革命资金，参与了毒品提炼。完全听KGB的安排。","<R=父亲,MI VIEJO>",MATCH,136,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=父さん,ミ・ビエホ>""]","<R=老爸,MI VIEJO>为了筹集革命资金，参与了毒品提炼。完全听KGB的安排。","<R=老爸,MI VIEJO>",MATCH,136,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038F80,8,stream=0x38000;block=0xF80;text=8,"[""stream=0x38000;block=0xF80;text=8""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","<R=父さん,ミ・ビエホ>は革命の資金を稼ぐために、麻薬精製に手を出した。
 KGBに言われるままにね。
 ","すべては<R=祖国,ニカラグア>のため…そう思うようにして目を背けていた。
@@ -54,7 +57,8 @@ BRIEFING_FILES_BLOCK_038F80,9,stream=0x38000;block=0xF80;text=9,"[""stream=0x380
 ","でも結局それは、アメリカの若者を薬漬けにする手助けを
 するってことだったんだ…そう気付いたの。
 ","そうだな。
-",[],可到头来，那其实是在帮忙让美国的年轻人染上毒瘾……我终于明白了。,,MATCH,140,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"可到头来，
+那其实是在帮忙让美国的年轻人染上毒瘾……我终于明白了。",,MATCH,140,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_038F80,10,stream=0x38000;block=0xF80;text=10,"[""stream=0x38000;block=0xF80;text=10""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","でも結局それは、アメリカの若者を薬漬けにする手助けを
 するってことだったんだ…そう気付いたの。
 ","そうだな。
@@ -66,7 +70,8 @@ BRIEFING_FILES_BLOCK_038F80,11,stream=0x38000;block=0xF80;text=11,"[""stream=0x3
 には手を出さない。KGBにも頼らない。
 ","KGBや麻薬の資金に頼ってソモサを倒したとしても、人々
 の心は離れてしまうはず。
-","[""<R= ここ ,マザーベース>""]","……我决定了。就算离开<R= 这里 ,MOTHER BASE>、回到革命中，我也不会再碰毒品提炼。也不会再依赖KGB。","<R= 这里 ,MOTHER BASE>",MATCH,153,135,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+","[""<R= ここ ,マザーベース>""]","……我决定了。就算离开<R=这里,MOTHER BASE>、回到革命中，我也不会再碰毒品提炼。
+也不会再依赖KGB。","<R=这里,MOTHER BASE>",MATCH,153,134,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
 BRIEFING_FILES_BLOCK_038F80,12,stream=0x38000;block=0xF80;text=12,"[""stream=0x38000;block=0xF80;text=12""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","…決めた。<R= ここ ,マザーベース>を離れて革命に戻っても、もう麻薬精製
 には手を出さない。KGBにも頼らない。
 ","KGBや麻薬の資金に頼ってソモサを倒したとしても、人々
@@ -79,7 +84,8 @@ BRIEFING_FILES_BLOCK_038F80,13,stream=0x38000;block=0xF80;text=13,"[""stream=0x3
 ","エゴのために<R=他人,ひと>を不幸にする…それじゃソモサと同じだ
 から。
 ","親父さんとは違う道を進むってことか。
-","[""<R=他人,ひと>""]","为了自己的私欲让<R=他人,HITO>遭受不幸……那样的话，我们和Somoza就没区别了。","<R=他人,HITO>",MATCH,100,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=他人,ひと>""]","为了自己的私欲让<R=他人,HITO>遭受不幸……那样的话，
+我们和Somoza就没区别了。","<R=他人,HITO>",MATCH,100,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038F80,14,stream=0x38000;block=0xF80;text=14,"[""stream=0x38000;block=0xF80;text=14""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","エゴのために<R=他人,ひと>を不幸にする…それじゃソモサと同じだ
 から。
 ","親父さんとは違う道を進むってことか。
@@ -90,7 +96,7 @@ BRIEFING_FILES_BLOCK_038F80,15,stream=0x38000;block=0xF80;text=15,"[""stream=0x3
 ","<R=父さん,ミ・ビエホ>のことは今でも尊敬してる。でも、あたしのやり方
 は違う。それだけ。
 ","そうか。チコも喜ぶだろう。
-","[""<R=父さん,ミ・ビエホ>""]","我现在依然尊敬<R=父亲,MI VIEJO>。只是，我做事的方式和他不同。仅此而已。","<R=父亲,MI VIEJO>",MATCH,127,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=父さん,ミ・ビエホ>""]","我现在依然尊敬<R=老爸,MI VIEJO>。只是，我做事的方式和他不同。仅此而已。","<R=老爸,MI VIEJO>",MATCH,127,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038F80,16,stream=0x38000;block=0xF80;text=16,"[""stream=0x38000;block=0xF80;text=16""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","<R=父さん,ミ・ビエホ>のことは今でも尊敬してる。でも、あたしのやり方
 は違う。それだけ。
 ","そうか。チコも喜ぶだろう。
@@ -101,18 +107,19 @@ BRIEFING_FILES_BLOCK_038F80,17,stream=0x38000;block=0xF80;text=17,"[""stream=0x3
 ","チコだって一人前の戦士。顔向けできないことはしたくな
 い。
 ","よく言った、アマンダ。<R=司令官,コマンダンテ>の顔つきになってきたな。
-",[],Chico也已经是个独当一面的战士了。我不想做出让我没脸见他的事。,,MATCH,86,89,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"Chico也已经是个独当一面的战士了。
+我不想做出让我没脸见他的事。",,MATCH,86,90,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_038F80,18,stream=0x38000;block=0xF80;text=18,"[""stream=0x38000;block=0xF80;text=18""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","チコだって一人前の戦士。顔向けできないことはしたくな
 い。
 ","よく言った、アマンダ。<R=司令官,コマンダンテ>の顔つきになってきたな。
 ","よしてよ…最高の<R=司令官,コマンダンテ>がそばにいてくれたおかげよ、ボ
 ス。
-","[""<R=司令官,コマンダンテ>""]","说得好，Amanda。越来越有<R=司令官,COMANDANTE>的样子了。","<R=司令官,COMANDANTE>",MATCH,102,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=司令官,コマンダンテ>""]","说得好，Amanda。越来越有<R=指挥官,COMANDANTE>的样子了。","<R=指挥官,COMANDANTE>",MATCH,102,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038F80,19,stream=0x38000;block=0xF80;text=19,"[""stream=0x38000;block=0xF80;text=19""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","よく言った、アマンダ。<R=司令官,コマンダンテ>の顔つきになってきたな。
 ","よしてよ…最高の<R=司令官,コマンダンテ>がそばにいてくれたおかげよ、ボ
 ス。
 ","む…。
-","[""<R=司令官,コマンダンテ>""]","别这么说……那是因为最出色的<R=司令官,COMANDANTE>就在我身边啊，Boss。","<R=司令官,COMANDANTE>",MATCH,109,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=司令官,コマンダンテ>""]","别这么说……那是因为最出色的<R=指挥官,COMANDANTE>就在我身边啊，Boss。","<R=指挥官,COMANDANTE>",MATCH,109,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038F80,20,stream=0x38000;block=0xF80;text=20,"[""stream=0x38000;block=0xF80;text=20""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xF80;block_file=0x38F80;text_base=0x38FF8;capacity=1988""]","よしてよ…最高の<R=司令官,コマンダンテ>がそばにいてくれたおかげよ、ボ
 ス。
 ","む…。

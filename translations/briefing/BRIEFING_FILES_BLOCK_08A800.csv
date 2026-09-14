@@ -54,27 +54,31 @@ BRIEFING_FILES_BLOCK_08A800,9,stream=0x8A000;block=0x800;text=9,"[""stream=0x8A0
 かける写真だもの。
 ","そう、写っているのはオリジナル7。アメリカ初の宇宙飛
 行士達。マーキュリー計画の英雄。
-",[],你一定会想，这有什么特别的？毕竟这张照片在报纸和杂志上也经常能看到。,,MATCH,107,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"你一定会想，这有什么特别的？
+毕竟这张照片在报纸和杂志上也经常能看到。",,MATCH,107,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08A800,10,stream=0x8A000;block=0x800;text=10,"[""stream=0x8A000;block=0x800;text=10""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","これのどこが？　って思うでしょうね。新聞や雑誌でも見
 かける写真だもの。
 ","そう、写っているのはオリジナル7。アメリカ初の宇宙飛
 行士達。マーキュリー計画の英雄。
 ","でも、元々この写真に写っていたのは8人。8人目の姿は、
 綺麗に消されてる。
-",[],没错，照片上是“Original 7”——美国最初的宇航员，水星计划的英雄。,,MATCH,126,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"没错，照片上是“Original 7”——美国最初的宇航员，
+水星计划的英雄。",,MATCH,126,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08A800,11,stream=0x8A000;block=0x800;text=11,"[""stream=0x8A000;block=0x800;text=11""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","そう、写っているのはオリジナル7。アメリカ初の宇宙飛
 行士達。マーキュリー計画の英雄。
 ","でも、元々この写真に写っていたのは8人。8人目の姿は、
 綺麗に消されてる。
 ","修整によって存在自体が抹消された8人目の宇宙飛行士…
 それが彼女、ザ・ボスなの。
-",[],但这张照片原本拍下的是八个人。第八个人的身影被干干净净地抹掉了。,,MATCH,106,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"但这张照片原本拍下的是八个人。
+第八个人的身影被干干净净地抹掉了。",,MATCH,106,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08A800,12,stream=0x8A000;block=0x800;text=12,"[""stream=0x8A000;block=0x800;text=12""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","でも、元々この写真に写っていたのは8人。8人目の姿は、
 綺麗に消されてる。
 ","修整によって存在自体が抹消された8人目の宇宙飛行士…
 それが彼女、ザ・ボスなの。
 ","なぜザ・ボスの存在が隠蔽されなければならなかったのか。
-",[],那个通过修图连存在本身都被抹去的第八名宇航员……就是她，The Boss。,,MATCH,117,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"那个通过修图连存在本身都被抹去的第八名宇航员……就是她，
+The Boss。",,MATCH,117,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08A800,13,stream=0x8A000;block=0x800;text=13,"[""stream=0x8A000;block=0x800;text=13""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","修整によって存在自体が抹消された8人目の宇宙飛行士…
 それが彼女、ザ・ボスなの。
 ","なぜザ・ボスの存在が隠蔽されなければならなかったのか。
@@ -107,7 +111,8 @@ BRIEFING_FILES_BLOCK_08A800,18,stream=0x8A000;block=0x800;text=18,"[""stream=0x8
 ","アメリカ国民は愕然とした。それまで、<R=自国,アメリカ>の科学技術が
 最も進んでいると無邪気に信じていたから。
 ","その驚きは、同時に怖れでもあった。
-","[""<R=自国,アメリカ>""]","美国民众大为震惊。此前，他们一直天真地相信<R=本国,AMERICA>的科学技术是世界最先进的。","<R=本国,AMERICA>",MATCH,157,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=自国,アメリカ>""]","美国民众大为震惊。
+此前，他们一直天真地相信<R=本国,AMERICA>的科学技术是世界最先进的。","<R=本国,AMERICA>",MATCH,157,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_08A800,19,stream=0x8A000;block=0x800;text=19,"[""stream=0x8A000;block=0x800;text=19""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","アメリカ国民は愕然とした。それまで、<R=自国,アメリカ>の科学技術が
 最も進んでいると無邪気に信じていたから。
 ","その驚きは、同時に怖れでもあった。
@@ -151,7 +156,8 @@ BRIEFING_FILES_BLOCK_08A800,25,stream=0x8A000;block=0x800;text=25,"[""stream=0x8
 側宇宙開発の<R=象徴,イコン>として祭り上げられた。
 ","でも、エクスプローラー以降、アメリカのロケット打ち上
 げは失敗続き。焦った政府は一つの決断を下したの。
-","[""<R=象徴,イコン>""]","他们被称为“Original 7”，被奉为国家英雄、也被塑造成西方太空开发的<R=象征,ICON>。","<R=象征,ICON>",MATCH,149,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=象徴,イコン>""]","他们被称为“Original 7”，
+被奉为国家英雄、也被塑造成西方太空开发的<R=象征,ICON>。","<R=象征,ICON>",MATCH,149,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_08A800,26,stream=0x8A000;block=0x800;text=26,"[""stream=0x8A000;block=0x800;text=26""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","『オリジナル7』と呼ばれた彼らは、国の英雄として、西
 側宇宙開発の<R=象徴,イコン>として祭り上げられた。
 ","でも、エクスプローラー以降、アメリカのロケット打ち上
@@ -159,7 +165,8 @@ BRIEFING_FILES_BLOCK_08A800,26,stream=0x8A000;block=0x800;text=26,"[""stream=0x8
 ","アメリカの宇宙開発技術が成熟するのを待つ余裕はない。
 ソ連の技術を盗み、同時にその宇宙計画を妨害せよ、って
 ね。
-",[],但在“探险者”之后，美国的火箭发射接连失败。焦急的政府于是做出了一个决定。,,MATCH,152,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"但在“探险者”之后，美国的火箭发射接连失败。
+焦急的政府于是做出了一个决定。",,MATCH,152,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08A800,27,stream=0x8A000;block=0x800;text=27,"[""stream=0x8A000;block=0x800;text=27""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","でも、エクスプローラー以降、アメリカのロケット打ち上
 げは失敗続き。焦った政府は一つの決断を下したの。
 ","アメリカの宇宙開発技術が成熟するのを待つ余裕はない。
@@ -167,7 +174,8 @@ BRIEFING_FILES_BLOCK_08A800,27,stream=0x8A000;block=0x800;text=27,"[""stream=0x8
 ね。
 ","それが極めて困難な<R=任務,ミッション>であることは、あなた自身が知っ
 ていると思う。
-",[],不能再等美国的太空开发技术成熟。去窃取苏联的技术，同时破坏他们的太空计划。,,MATCH,165,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"不能再等美国的太空开发技术成熟。
+去窃取苏联的技术，同时破坏他们的太空计划。",,MATCH,165,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08A800,28,stream=0x8A000;block=0x800;text=28,"[""stream=0x8A000;block=0x800;text=28""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","アメリカの宇宙開発技術が成熟するのを待つ余裕はない。
 ソ連の技術を盗み、同時にその宇宙計画を妨害せよ、って
 ね。
@@ -189,7 +197,8 @@ BRIEFING_FILES_BLOCK_08A800,31,stream=0x8A000;block=0x800;text=31,"[""stream=0x8
 ","研究機関内部に協力者を確保し、<R=潜入工作員,スリーパー>を送り込む。
 または、協力者自身をスリーパーに仕立てる…。
 ","必要なら、自ら潜入して活路を開かなくてはならない。
-","[""<R=潜入工作員,スリーパー>""]","必须先在研究机构内部争取协力者，再送入<R=潜伏特工,SLEEPER>；或者干脆把协力者本人培养成潜伏特工……。","<R=潜伏特工,SLEEPER>",MATCH,166,144,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=潜入工作員,スリーパー>""]","必须先在研究机构内部争取协力者，再送入<R=潜伏特工,SLEEPER>；
+或者干脆把协力者本人培养成潜伏特工……。","<R=潜伏特工,SLEEPER>",MATCH,166,145,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_08A800,32,stream=0x8A000;block=0x800;text=32,"[""stream=0x8A000;block=0x800;text=32""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","研究機関内部に協力者を確保し、<R=潜入工作員,スリーパー>を送り込む。
 または、協力者自身をスリーパーに仕立てる…。
 ","必要なら、自ら潜入して活路を開かなくてはならない。
@@ -212,7 +221,8 @@ BRIEFING_FILES_BLOCK_08A800,36,stream=0x8A000;block=0x800;text=36,"[""stream=0x8
 ","祖国の命運を賭けた<R=任務,ミッション>を任せられるのは、大戦の英雄し
 かいない。そう思ったんでしょう。
 ","それが59年6月のこと。
-","[""<R=任務,ミッション>""]","他们大概认为，能被托付这种赌上祖国命运的<R=任务,MISSION>，只有那位大战英雄。","<R=任务,MISSION>",MATCH,148,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=任務,ミッション>""]","他们大概认为，能被托付这种赌上祖国命运的<R=任务,MISSION>，
+只有那位大战英雄。","<R=任务,MISSION>",MATCH,148,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_08A800,37,stream=0x8A000;block=0x800;text=37,"[""stream=0x8A000;block=0x800;text=37""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","祖国の命運を賭けた<R=任務,ミッション>を任せられるのは、大戦の英雄し
 かいない。そう思ったんでしょう。
 ","それが59年6月のこと。
@@ -238,13 +248,15 @@ BRIEFING_FILES_BLOCK_08A800,40,stream=0x8A000;block=0x800;text=40,"[""stream=0x8
 人も情報も出さなかった。
 ","孤立無援の状況に、ザ・ボスはある決断を下した。大きな
 危険を伴う決断を。
-","[""<R=任務,ミッション>""]","<R=任务,MISSION>本就极其困难，CIA却不愿配合她，既不提供人员，也不提供情报。","<R=任务,MISSION>",MATCH,136,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED;CONTROL_RESTORED_DURING_PRODUCTION_MERGE
+","[""<R=任務,ミッション>""]","<R=任务,MISSION>本就极其困难，CIA却不愿配合她，
+既不提供人员，也不提供情报。","<R=任务,MISSION>",MATCH,136,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED;CONTROL_RESTORED_DURING_PRODUCTION_MERGE
 BRIEFING_FILES_BLOCK_08A800,41,stream=0x8A000;block=0x800;text=41,"[""stream=0x8A000;block=0x800;text=41""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","もともと困難な<R=任務,ミッション>なのに、CIAは彼女への協力を渋った。
 人も情報も出さなかった。
 ","孤立無援の状況に、ザ・ボスはある決断を下した。大きな
 危険を伴う決断を。
 ","それはあの『賢者達』のネットワークを使うことだった…。
-",[],在孤立无援的处境中，The Boss做出了一个决定——一个伴随着巨大风险的决定。,,MATCH,107,104,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"在孤立无援的处境中，
+The Boss做出了一个决定——一个伴随着巨大风险的决定。",,MATCH,107,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08A800,42,stream=0x8A000;block=0x800;text=42,"[""stream=0x8A000;block=0x800;text=42""]",1,BRIEFING FILES,"[""stream=0x8A000;block=0x800;block_file=0x8A800;text_base=0x8A8D0;capacity=4388""]","孤立無援の状況に、ザ・ボスはある決断を下した。大きな
 危険を伴う決断を。
 ","それはあの『賢者達』のネットワークを使うことだった…。

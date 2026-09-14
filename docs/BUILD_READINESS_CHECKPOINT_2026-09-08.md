@@ -18,7 +18,7 @@
 - 生成对象级 `compiled_translation_manifest.csv`：91,609 行。
 - 机械修正 7 条旧 YPK CSV 列位移；重新计算 1,780 条不准确的 `cn_utf8_bytes`；3 条纯空格 JPN 文本按原样保留。
 - 控制符 / markup / placeholder inventory：0 error。
-- 实机通过的 golden 优先于新 mapping：
+- 历史实机通过的 golden 仅作为 regression fixture 保存；production 正文统一来自当前 mapping：
   - YPK/GTT `1C79F2AD`
   - SLOT OLANG `5D3AF52D`
 - 现有 regression：10/10 PASS。

@@ -3,7 +3,8 @@ BRIEFING_MISSION_BLOCK_36FF00,0,stream=0x36F000;block=0xF00;text=0,"[""stream=0x
 イラス山岳地帯に到達したようだ。
 ","だが、こちらはガイド不在だ。
 山岳地帯での追跡はより難しくなる。
-",[],Snake，正在运输的核武器已经穿过湿地，似乎抵达了Irazú山区。,,MATCH,107,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"Snake，正在运输的核武器已经穿过湿地，
+似乎抵达了Irazú山区。",,MATCH,107,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36FF00,1,stream=0x36F000;block=0xF00;text=1,"[""stream=0x36F000;block=0xF00;text=1""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","スネーク、搬送中の核は湿地帯を抜けた。
 イラス山岳地帯に到達したようだ。
 ","だが、こちらはガイド不在だ。
@@ -37,7 +38,8 @@ BRIEFING_MISSION_BLOCK_36FF00,6,stream=0x36F000;block=0xF00;text=6,"[""stream=0x
 ","スネークは体験済みだと思うが、人体に影響はない。
 ","一人一人、時間をかけて説得している余裕は
 ないからな。
-",[],Snake应该已经亲身体验过了，这套系统不会对人体造成影响。,,MATCH,73,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"Snake应该已经亲身体验过了，
+这套系统不会对人体造成影响。",,MATCH,73,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36FF00,7,stream=0x36F000;block=0xF00;text=7,"[""stream=0x36F000;block=0xF00;text=7""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","スネークは体験済みだと思うが、人体に影響はない。
 ","一人一人、時間をかけて説得している余裕は
 ないからな。
@@ -58,7 +60,8 @@ BRIEFING_MISSION_BLOCK_36FF00,10,stream=0x36F000;block=0xF00;text=10,"[""stream=
 してるの。そのどこかにチコがいるはず。
 ","村の家をか…。
 だが、どうやって見分ける。
-",[],CIA那些人征用了村里的几栋房子当收容所。Chico应该就在其中某一栋。,,MATCH,122,92,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"CIA那些人征用了村里的几栋房子当收容所。
+Chico应该就在其中某一栋。",,MATCH,122,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36FF00,11,stream=0x36F000;block=0xF00;text=11,"[""stream=0x36F000;block=0xF00;text=11""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","CIAの連中、村の家をいくつか接収して収容所に
 してるの。そのどこかにチコがいるはず。
 ","村の家をか…。
@@ -73,7 +76,8 @@ BRIEFING_MISSION_BLOCK_36FF00,12,stream=0x36F000;block=0xF00;text=12,"[""stream=
 青いドアよ。覗き窓が付いてる。
 そこから中を確かめて。
 ","わかった。青いドアだな。
-",[],被征用的房子为了监视，门都被换过了。是蓝色的门，上面有窥视窗。从那里确认里面的情况。,,MATCH,153,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"被征用的房子为了监视，门都被换过了。
+是蓝色的门，上面有窥视窗。从那里确认里面的情况。",,MATCH,153,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36FF00,13,stream=0x36F000;block=0xF00;text=13,"[""stream=0x36F000;block=0xF00;text=13""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","接収された家は、監視用にドアが付け替えられてる。
 青いドアよ。覗き窓が付いてる。
 そこから中を確かめて。
@@ -84,4 +88,5 @@ BRIEFING_MISSION_BLOCK_36FF00,13,stream=0x36F000;block=0xF00;text=13,"[""stream=
 BRIEFING_MISSION_BLOCK_36FF00,14,stream=0x36F000;block=0xF00;text=14,"[""stream=0x36F000;block=0xF00;text=14""]",1,d2010_m0070_mrd,"[""stream=0x36F000;block=0xF00;block_file=0x36FF00;text_base=0x36FF5C;capacity=1208""]","わかった。青いドアだな。
 ","物資搬入ルートの最終拠点は近い。
 頼んだぞ、スネーク。
-",,[],物资运输路线的最后一个据点已经很近了。拜托你了，Snake。,,MATCH,80,80,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",,[],"物资运输路线的最后一个据点已经很近了。
+拜托你了，Snake。",,MATCH,80,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

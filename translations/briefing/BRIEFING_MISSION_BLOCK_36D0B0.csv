@@ -11,7 +11,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,1,stream=0x36D000;block=0xB0;text=1,"[""stream=0x3
 ","スネーク、KGBの“教授”は、
 <R=FSLN,サンディニスタ>に協力を取り付けていると言っていた。
 奴は<R=FSLN,サンディニスタ>の<R=司令官,コマンダンテ>にコンタクトを取れと。
-",[],能看出他们各个据点的位置，但地图上只标了据点本身。具体路线还是不清楚，我需要更详细的当地情报。,,MATCH,174,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"能看出他们各个据点的位置，但地图上只标了据点本身。
+具体路线还是不清楚，我需要更详细的当地情报。",,MATCH,174,142,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36D0B0,2,stream=0x36D000;block=0xB0;text=2,"[""stream=0x36D000;block=0xB0;text=2""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","奴らの各拠点の位置はわかるが、記されてるのは
 拠点のポイントだけだ。ルートまでは判らない。
 現地の詳しい情報が欲しい。
@@ -20,7 +21,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,2,stream=0x36D000;block=0xB0;text=2,"[""stream=0x3
 奴は<R=FSLN,サンディニスタ>の<R=司令官,コマンダンテ>にコンタクトを取れと。
 ","<R=FSLN,サンディニスタ>は、バックにKGBがいる事を
 知っているのか？
-","[""<R=FSLN,サンディニスタ>"", ""<R=FSLN,サンディニスタ>"", ""<R=司令官,コマンダンテ>""]","Snake，KGB的“教授”说，他已经争取到<R=FSLN,SANDINISTA>的协助。他让你去联系<R=FSLN,SANDINISTA>的<R=司令官,COMANDANTE>。","<R=FSLN,SANDINISTA> | <R=FSLN,SANDINISTA> | <R=司令官,COMANDANTE>",MATCH,230,148,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=FSLN,サンディニスタ>"", ""<R=FSLN,サンディニスタ>"", ""<R=司令官,コマンダンテ>""]","Snake，KGB的“教授”说，他已经争取到<R=FSLN,SANDINISTA>的协助。
+他让你去联系<R=FSLN,SANDINISTA>的<R=指挥官,COMANDANTE>。","<R=FSLN,SANDINISTA> | <R=FSLN,SANDINISTA> | <R=指挥官,COMANDANTE>",MATCH,230,149,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_MISSION_BLOCK_36D0B0,3,stream=0x36D000;block=0xB0;text=3,"[""stream=0x36D000;block=0xB0;text=3""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","スネーク、KGBの“教授”は、
 <R=FSLN,サンディニスタ>に協力を取り付けていると言っていた。
 奴は<R=FSLN,サンディニスタ>の<R=司令官,コマンダンテ>にコンタクトを取れと。
@@ -36,7 +38,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,4,stream=0x36D000;block=0xB0;text=4,"[""stream=0x3
 KGBはあくまで裏支援、彼らに自覚があるかどうか
 は疑わしい。
 ","それにしても、このコスタリカに核を持ち込むとはな。
-",[],不，他们应该是真心相信革命而战。KGB始终只在幕后提供支援，他们自己是否意识到这一点都很难说。,,MATCH,159,135,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"不，他们应该是真心相信革命而战。KGB始终只在幕
+后提供支援，他们自己是否意识到这一点都很难说。",,MATCH,159,136,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36D0B0,5,stream=0x36D000;block=0xB0;text=5,"[""stream=0x36D000;block=0xB0;text=5""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","いや、彼らは純粋に革命を信じて戦っているはずだ。
 KGBはあくまで裏支援、彼らに自覚があるかどうか
 は疑わしい。
@@ -52,7 +55,9 @@ BRIEFING_MISSION_BLOCK_36D0B0,6,stream=0x36D000;block=0xB0;text=6,"[""stream=0x3
 ","核兵器の実験、使用、輸入、配備等を全面的に禁止
 する…明るみに出れば<R=ラテンアメリカ核兵器禁止機構,OPANAL>
 が動く。国際問題だ。
-",[],是啊，确实令人吃惊。哥斯达黎加已经批准《特拉特洛尔科条约》。那是一项效仿日本“无核三原则”理念、推动拉丁美洲无核化的条约。,,MATCH,183,183,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"是啊，确实令人吃惊。
+哥斯达黎加已经批准《特拉特洛尔科条约》。那是一项效
+仿日本“无核三原则”理念、推动拉丁美洲无核化的条约。",,MATCH,183,185,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36D0B0,7,stream=0x36D000;block=0xB0;text=7,"[""stream=0x36D000;block=0xB0;text=7""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","ああ、驚きだ。コスタリカはトラテロルコ条約を
 批准している。日本の非核三原則の概念に倣った、
 ラテンアメリカの非核化条約だ。
@@ -61,7 +66,9 @@ BRIEFING_MISSION_BLOCK_36D0B0,7,stream=0x36D000;block=0xB0;text=7,"[""stream=0x3
 が動く。国際問題だ。
 ","そもそもトラテロルコ条約は、
 キューバ危機への反省から結ばれたものだ。
-","[""<R=ラテンアメリカ核兵器禁止機構,OPANAL>""]","条约全面禁止核武器的试验、使用、进口和部署等行为……一旦事情曝光，<R=拉丁美洲禁止核武器机构,OPANAL>就会介入。这会成为国际问题。","<R=拉丁美洲禁止核武器机构,OPANAL>",MATCH,185,185,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=ラテンアメリカ核兵器禁止機構,OPANAL>""]","条约全面禁止核武器的试验、使用、
+进口和部署等行为……一旦事情曝光，
+<R=拉丁美洲禁止核武器组织,OPANAL>就会介入。这会成为国际问题。","<R=拉丁美洲禁止核武器组织,OPANAL>",MATCH,185,187,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_MISSION_BLOCK_36D0B0,8,stream=0x36D000;block=0xB0;text=8,"[""stream=0x36D000;block=0xB0;text=8""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","核兵器の実験、使用、輸入、配備等を全面的に禁止
 する…明るみに出れば<R=ラテンアメリカ核兵器禁止機構,OPANAL>
 が動く。国際問題だ。
@@ -69,7 +76,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,8,stream=0x36D000;block=0xB0;text=8,"[""stream=0x3
 キューバ危機への反省から結ばれたものだ。
 ","それを、<R=米州機構,OAS>の中心である<R=合衆国,アメリカ>が
 反故にするとなれば…。
-",[],说到底，《特拉特洛尔科条约》本就是在反思古巴导弹危机后缔结的。,,MATCH,104,93,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"说到底，《特拉特洛尔科条约》本
+就是在反思古巴导弹危机后缔结的。",,MATCH,104,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36D0B0,9,stream=0x36D000;block=0xB0;text=9,"[""stream=0x36D000;block=0xB0;text=9""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","そもそもトラテロルコ条約は、
 キューバ危機への反省から結ばれたものだ。
 ","それを、<R=米州機構,OAS>の中心である<R=合衆国,アメリカ>が
@@ -85,7 +93,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,10,stream=0x36D000;block=0xB0;text=10,"[""stream=0
 一触即発の状態になるだろう。
 ","核が本当に持ち込まれたのなら、
 このまま放ってはおけない。
-",[],本就火种遍地的中南美洲，很可能会出现第二个、第三个古巴。整个地区都会变得一触即发。,,MATCH,149,123,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"本就火种遍地的中南美洲，很可能会出现第二个、
+第三个古巴。整个地区都会变得一触即发。",,MATCH,149,124,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36D0B0,11,stream=0x36D000;block=0xB0;text=11,"[""stream=0x36D000;block=0xB0;text=11""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","ただでさえ火種の多いこの中南米に、
 第2・第3のキューバが誕生しかねない。
 一触即発の状態になるだろう。
@@ -101,7 +110,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,12,stream=0x36D000;block=0xB0;text=12,"[""stream=0
 ","そうだな。
 何の為に核を持ち込んだのか？
 それが気になる。
-",[],是为了做某种实验？展示实力？还是为了牵制反美势力……。,,MATCH,89,81,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"是为了做某种实验？展示实力？
+还是为了牵制反美势力……。",,MATCH,89,82,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36D0B0,13,stream=0x36D000;block=0xB0;text=13,"[""stream=0x36D000;block=0xB0;text=13""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","何かの実験か？　アピールか？
 あるいは反米勢力への牽制か…。
 ","そうだな。
@@ -119,7 +129,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,14,stream=0x36D000;block=0xB0;text=14,"[""stream=0
 ことだ。それを調べる必要がある。
 ","まずは準備を整えたい。
 カズ、そっちの補修状況はどうだ？
-",[],无论如何，“教授”的委托是“阻止CIA正在哥斯达黎加做的某件事”。我们得把这件事查清楚。,,MATCH,162,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"无论如何，“教授”的委托是“阻止CIA正在哥斯
+达黎加做的某件事”。我们得把这件事查清楚。",,MATCH,162,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_36D0B0,15,stream=0x36D000;block=0xB0;text=15,"[""stream=0x36D000;block=0xB0;text=15""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","どちらにしろ“教授”の依頼は
 「CIAがコスタリカでしている“何か”を阻止する」
 ことだ。それを調べる必要がある。
@@ -137,7 +148,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,16,stream=0x36D000;block=0xB0;text=16,"[""stream=0
 ","誰にも邪魔されない。
 どの国家にも縛られない<R=避難所,ヘイブン>になる。
 俺達MSFの<R=本拠地,マザーベース>だ。
-","[""<R=地獄,ヘル>"", ""<R=天国,ヘブン>""]","嗯，正在全速赶工。现在损坏得很严重，简直像<R=地狱,HELL>，不过只要看Boss怎么做，也能把这里变成<R=天堂,HEAVEN>。","<R=地狱,HELL> | <R=天堂,HEAVEN>",MATCH,172,153,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=地獄,ヘル>"", ""<R=天国,ヘブン>""]","嗯，正在全速赶工。现在损坏得很严重，简直像<R=地狱,HELL>，
+不过只要看Boss怎么做，也能把这里变成<R=天堂,HEAVEN>。","<R=地狱,HELL> | <R=天堂,HEAVEN>",MATCH,172,154,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_MISSION_BLOCK_36D0B0,17,stream=0x36D000;block=0xB0;text=17,"[""stream=0x36D000;block=0xB0;text=17""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","ああ、急ピッチでやってはいる。
 いまは傷みが酷くて<R=地獄,ヘル>さながらだが、
 ボス次第で<R=天国,ヘブン>にだって出来る。
@@ -146,7 +158,8 @@ BRIEFING_MISSION_BLOCK_36D0B0,17,stream=0x36D000;block=0xB0;text=17,"[""stream=0
 俺達MSFの<R=本拠地,マザーベース>だ。
 ","ここを足がかりに、あんたへの<R=支援,バックアップ>も
 もっと強化出来るってもんだ。
-","[""<R=避難所,ヘイブン>"", ""<R=本拠地,マザーベース>""]","这里不会有人来妨碍我们，也不会受任何国家束缚。它会成为我们的<R=避风港,HAVEN>，也就是MSF的<R=大本营,MOTHER BASE>。","<R=避风港,HAVEN> | <R=大本营,MOTHER BASE>",MATCH,154,155,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=避難所,ヘイブン>"", ""<R=本拠地,マザーベース>""]","这里不会有人来妨碍我们，也不会受任何国家束缚。
+它会成为我们的<R=避风港,HAVEN>，也就是MSF的<R=大本营,MOTHER BASE>。","<R=避风港,HAVEN> | <R=大本营,MOTHER BASE>",MATCH,154,156,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_MISSION_BLOCK_36D0B0,18,stream=0x36D000;block=0xB0;text=18,"[""stream=0x36D000;block=0xB0;text=18""]",1,d0080_m0010_mrd,"[""stream=0x36D000;block=0xB0;block_file=0x36D0B0;text_base=0x36D120;capacity=2532""]","誰にも邪魔されない。
 どの国家にも縛られない<R=避難所,ヘイブン>になる。
 俺達MSFの<R=本拠地,マザーベース>だ。

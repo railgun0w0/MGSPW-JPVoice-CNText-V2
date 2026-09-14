@@ -2,19 +2,21 @@
 BRIEFING_FILES_BLOCK_01D250,0,stream=0x1D000;block=0x250;text=0,"[""stream=0x1D000;block=0x250;text=0""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]",,"敵兵を<R= 降伏 ,ホールドアップ>させるには、後方からゆっくりと近づくんだ。
 ","気づかれずに近づいて銃を構えれば、訓練を受けた兵士で
 あってもひれ伏して降伏するはずだ。
-","[""<R= 降伏 ,ホールドアップ>""]","要让敌兵<R= 投降 ,Hold up>，就从他身后慢慢靠近。","<R= 投降 ,Hold up>",MATCH,107,65,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R= 降伏 ,ホールドアップ>""]","要让敌兵<R=投降,HOLD UP>，就从他身后慢慢靠近。","<R=投降,HOLD UP>",MATCH,107,63,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_01D250,1,stream=0x1D000;block=0x250;text=1,"[""stream=0x1D000;block=0x250;text=1""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]","敵兵を<R= 降伏 ,ホールドアップ>させるには、後方からゆっくりと近づくんだ。
 ","気づかれずに近づいて銃を構えれば、訓練を受けた兵士で
 あってもひれ伏して降伏するはずだ。
 ","とはいえ、せっかく<R= 降伏 ,ホールドアップ>させても、あんたが他の敵に攻
 撃されたら意味がない。
-",[],不被发现地靠近并举枪瞄准的话，就算受过训练的士兵也应该会伏下身子投降。,,MATCH,131,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"不被发现地靠近并举枪瞄准的话，
+就算受过训练的士兵也应该会伏下身子投降。",,MATCH,131,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_01D250,2,stream=0x1D000;block=0x250;text=2,"[""stream=0x1D000;block=0x250;text=2""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]","気づかれずに近づいて銃を構えれば、訓練を受けた兵士で
 あってもひれ伏して降伏するはずだ。
 ","とはいえ、せっかく<R= 降伏 ,ホールドアップ>させても、あんたが他の敵に攻
 撃されたら意味がない。
 ","兵士が一人になったときを狙うんだ。
-","[""<R= 降伏 ,ホールドアップ>""]","不过，就算好不容易让敌人<R= 投降 ,Hold up>，要是你被其他敌人攻击，那也没意义。","<R= 投降 ,Hold up>",MATCH,138,110,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R= 降伏 ,ホールドアップ>""]","不过，就算好不容易让敌人<R=投降,HOLD UP>，
+要是你被其他敌人攻击，那也没意义。","<R=投降,HOLD UP>",MATCH,138,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_01D250,3,stream=0x1D000;block=0x250;text=3,"[""stream=0x1D000;block=0x250;text=3""]",1,BRIEFING FILES,"[""stream=0x1D000;block=0x250;block_file=0x1D250;text_base=0x1D284;capacity=564""]","とはいえ、せっかく<R= 降伏 ,ホールドアップ>させても、あんたが他の敵に攻
 撃されたら意味がない。
 ","兵士が一人になったときを狙うんだ。

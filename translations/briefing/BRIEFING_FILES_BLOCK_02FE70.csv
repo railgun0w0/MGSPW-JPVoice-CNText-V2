@@ -2,16 +2,16 @@
 BRIEFING_FILES_BLOCK_02FE70,0,stream=0x2F000;block=0xE70;text=0,"[""stream=0x2F000;block=0xE70;text=0""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]",,"<R=蛙,ソモサ>一家がニカラグアを牛耳るようになってから、もう40年
 にもなる。
 ","<R=国家警備隊,グァルディア>を使って、やりたい放題よ。
-","[""<R=蛙,ソモサ>""]","<R=蛤蟆,索摩查>一家掌控尼加拉瓜，已经有40年了。","<R=蛤蟆,索摩查>",MATCH,108,67,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_INSULT_WORDPLAY_PRESERVED
+","[""<R=蛙,ソモサ>""]","<R=蛤蟆,SOMOZA>一家掌控尼加拉瓜，已经有40年了。","<R=蛤蟆,SOMOZA>",MATCH,108,64,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_INSULT_WORDPLAY_PRESERVED
 BRIEFING_FILES_BLOCK_02FE70,1,stream=0x2F000;block=0xE70;text=1,"[""stream=0x2F000;block=0xE70;text=1""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","<R=蛙,ソモサ>一家がニカラグアを牛耳るようになってから、もう40年
 にもなる。
 ","<R=国家警備隊,グァルディア>を使って、やりたい放題よ。
 ","お前達も、<R=国家警備隊,グァルディア>に追われて<R=ここ,コスタリカ>へ来たと。
-","[""<R=国家警備隊,グァルディア>""]","他们仗着<R=国民警卫队,Guardia>，想干什么就干什么。","<R=国民警卫队,Guardia>",MATCH,78,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING;JPN_DO_AS_THEY_PLEASE_PRIMARY
+","[""<R=国家警備隊,グァルディア>""]","他们仗着<R=国民警卫队,LA GUARDIA>，想干什么就干什么。","<R=国民警卫队,LA GUARDIA>",MATCH,78,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING;JPN_DO_AS_THEY_PLEASE_PRIMARY
 BRIEFING_FILES_BLOCK_02FE70,2,stream=0x2F000;block=0xE70;text=2,"[""stream=0x2F000;block=0xE70;text=2""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","<R=国家警備隊,グァルディア>を使って、やりたい放題よ。
 ","お前達も、<R=国家警備隊,グァルディア>に追われて<R=ここ,コスタリカ>へ来たと。
 ","ええ。奴らは何もかも奪った。土地も、家も、仕事も…。
-","[""<R=国家警備隊,グァルディア>"", ""<R=ここ,コスタリカ>""]","你们也是被<R=国民警卫队,Guardia>追赶，才逃到<R=这里,哥斯达黎加>来的吧。","<R=国民警卫队,Guardia> | <R=这里,哥斯达黎加>",MATCH,110,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;COSTA_RICA_READING_PRESERVED
+","[""<R=国家警備隊,グァルディア>"", ""<R=ここ,コスタリカ>""]","你们也是被<R=国民警卫队,LA GUARDIA>追赶，才逃到<R=这里,COSTA RICA>来的吧。","<R=国民警卫队,LA GUARDIA> | <R=这里,COSTA RICA>",MATCH,110,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;COSTA_RICA_READING_PRESERVED
 BRIEFING_FILES_BLOCK_02FE70,3,stream=0x2F000;block=0xE70;text=3,"[""stream=0x2F000;block=0xE70;text=3""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","お前達も、<R=国家警備隊,グァルディア>に追われて<R=ここ,コスタリカ>へ来たと。
 ","ええ。奴らは何もかも奪った。土地も、家も、仕事も…。
 ","ソモサのものか。
@@ -32,7 +32,8 @@ BRIEFING_FILES_BLOCK_02FE70,6,stream=0x2F000;block=0xE70;text=6,"[""stream=0x2F0
 ","みんな<R=国家警備隊,グァルディア>の顔色を窺って生きてる。それでも、連
 中の虫の居所が悪けりゃ殴られるけど。
 ","それで国を変えようと？
-","[""<R=国家警備隊,グァルディア>""]","大家都得看<R=国民警卫队,Guardia>的脸色活着。即便这样，只要他们心情不好，照样会挨打。","<R=国民警卫队,Guardia>",MATCH,157,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING
+","[""<R=国家警備隊,グァルディア>""]","大家都得看<R=国民警卫队,LA GUARDIA>的脸色活着。
+即便这样，只要他们心情不好，照样会挨打。","<R=国民警卫队,LA GUARDIA>",MATCH,157,124,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READING
 BRIEFING_FILES_BLOCK_02FE70,7,stream=0x2F000;block=0xE70;text=7,"[""stream=0x2F000;block=0xE70;text=7""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","みんな<R=国家警備隊,グァルディア>の顔色を窺って生きてる。それでも、連
 中の虫の居所が悪けりゃ殴られるけど。
 ","それで国を変えようと？
@@ -50,7 +51,8 @@ BRIEFING_FILES_BLOCK_02FE70,9,stream=0x2F000;block=0xE70;text=9,"[""stream=0x2F0
 ","他人の土地を接収しては一族のものにして、今じゃ国の農
 地の半分近くが、ソモサ一家に。
 ","どうすることも出来なかった。だけど。
-",[],他们没收别人的土地，变成家族的财产。如今全国近一半的农地都落到了索摩查一家手里。,,MATCH,125,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"他们没收别人的土地，变成家族的财产。
+如今全国近一半的农地都落到了索摩查一家手里。",,MATCH,125,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_02FE70,10,stream=0x2F000;block=0xE70;text=10,"[""stream=0x2F000;block=0xE70;text=10""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","他人の土地を接収しては一族のものにして、今じゃ国の農
 地の半分近くが、ソモサ一家に。
 ","どうすることも出来なかった。だけど。
@@ -70,13 +72,15 @@ BRIEFING_FILES_BLOCK_02FE70,13,stream=0x2F000;block=0xE70;text=13,"[""stream=0x2
 資を送ってくれた。涙が出る程嬉しかった。
 ","それなのに、ソモサはその援助のほとんどを着服した。地
 震で何もかも喪った人たちに、金を取って売りつけた！
-",[],我们失去了首都马那瓜。世界各地的人都送来了援助物资。我们高兴得都快流泪了。,,MATCH,140,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_AID_AND_TEAR_DETAIL_REJOINED_PER_JPN
+",[],"我们失去了首都马那瓜。
+世界各地的人都送来了援助物资。我们高兴得都快流泪了。",,MATCH,140,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_AID_AND_TEAR_DETAIL_REJOINED_PER_JPN
 BRIEFING_FILES_BLOCK_02FE70,14,stream=0x2F000;block=0xE70;text=14,"[""stream=0x2F000;block=0xE70;text=14""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","あたし達は首都マナグアを失った。世界中の人達が援助物
 資を送ってくれた。涙が出る程嬉しかった。
 ","それなのに、ソモサはその援助のほとんどを着服した。地
 震で何もかも喪った人たちに、金を取って売りつけた！
 ","あいつらは自分の国の不幸を食い物にしたんだ！
-",[],可索摩查却侵吞了绝大多数援助。他们还把这些物资卖给那些在地震中失去一切的人，向他们收钱！,,MATCH,155,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EMBEZZLEMENT_AND_RESALE_REJOINED_PER_JPN
+",[],"可索摩查却侵吞了绝大多数援助。
+他们还把这些物资卖给那些在地震中失去一切的人，向他们收钱！",,MATCH,155,133,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_EMBEZZLEMENT_AND_RESALE_REJOINED_PER_JPN
 BRIEFING_FILES_BLOCK_02FE70,15,stream=0x2F000;block=0xE70;text=15,"[""stream=0x2F000;block=0xE70;text=15""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","それなのに、ソモサはその援助のほとんどを着服した。地
 震で何もかも喪った人たちに、金を取って売りつけた！
 ","あいつらは自分の国の不幸を食い物にしたんだ！
@@ -86,4 +90,5 @@ BRIEFING_FILES_BLOCK_02FE70,15,stream=0x2F000;block=0xE70;text=15,"[""stream=0x2
 BRIEFING_FILES_BLOCK_02FE70,16,stream=0x2F000;block=0xE70;text=16,"[""stream=0x2F000;block=0xE70;text=16""]",1,BRIEFING FILES,"[""stream=0x2F000;block=0xE70;block_file=0x2FE70;text_base=0x2FED4;capacity=1568""]","あいつらは自分の国の不幸を食い物にしたんだ！
 ","国民の怒りは頂点に達してる。奴らの命運も近いうちに尽
 きる。いえ、あたし達が終わらせてみせる。
-",,[],国民的愤怒已经到了顶点。他们的末日很快就要到了。不，是我们会亲手终结他们。,,MATCH,140,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FINAL_RESOLVE_RESTORED
+",,[],"国民的愤怒已经到了顶点。他们的末日很快就要到了。
+不，是我们会亲手终结他们。",,MATCH,140,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FINAL_RESOLVE_RESTORED

@@ -7,7 +7,8 @@ BRIEFING_FILES_BLOCK_039D80,1,stream=0x39000;block=0xD80;text=1,"[""stream=0x390
 ","奴らは村を接収して、収容所にしてる。路地が入り組んで
 るから、哨戒兵の動きに注意して。
 ","鉢合わせは勘弁願いたいからな。
-",[],他们征用了整个村子，把那里改成了收容所。巷子错综复杂，要留意巡逻兵的动向。,,MATCH,128,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"他们征用了整个村子，把那里改成了收容所。
+巷子错综复杂，要留意巡逻兵的动向。",,MATCH,128,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_039D80,2,stream=0x39000;block=0xD80;text=2,"[""stream=0x39000;block=0xD80;text=2""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","奴らは村を接収して、収容所にしてる。路地が入り組んで
 るから、哨戒兵の動きに注意して。
 ","鉢合わせは勘弁願いたいからな。
@@ -29,7 +30,8 @@ BRIEFING_FILES_BLOCK_039D80,5,stream=0x39000;block=0xD80;text=5,"[""stream=0x390
 ","どれかの家に捕まってるはず。戸口から覗いて中を確かめ
 て。アイコンが出たら、<I=ACT>を押せばいい。
 ","家の中の物音がヒントになるかも。耳を澄ましてみて。
-","[""<I=ACT>""]",应该被关在某间屋子里。从门口往里看，确认一下里面。出现图标后，按<I=ACT>就行。,<I=ACT>,MATCH,141,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+","[""<I=ACT>""]","应该被关在某间屋子里。
+从门口往里看，确认一下里面。出现图标后，按<I=ACT>就行。",<I=ACT>,MATCH,141,113,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_039D80,6,stream=0x39000;block=0xD80;text=6,"[""stream=0x39000;block=0xD80;text=6""]",1,BRIEFING FILES,"[""stream=0x39000;block=0xD80;block_file=0x39D80;text_base=0x39DD0;capacity=824""]","どれかの家に捕まってるはず。戸口から覗いて中を確かめ
 て。アイコンが出たら、<I=ACT>を押せばいい。
 ","家の中の物音がヒントになるかも。耳を澄ましてみて。

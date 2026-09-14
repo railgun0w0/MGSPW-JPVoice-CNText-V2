@@ -1,4 +1,5 @@
 ﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
 BRIEFING_MISSION_BLOCK_376890,0,stream=0x376000;block=0x890;text=0,"[""stream=0x376000;block=0x890;text=0""]",1,d4090_m0270_mrd,"[""stream=0x376000;block=0x890;block_file=0x376890;text_base=0x3768B4;capacity=108""]",,"ヒューイがコクーンと呼んでいた巨大無人兵器だ。
 排除するんだ、スネーク！
-",,[],那就是Huey所说的巨大无人兵器“Cocoon”。把它消灭，Snake！,,MATCH,107,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",,[],"那就是Huey所说的巨大无人兵器“Cocoon”。
+把它消灭，Snake！",,MATCH,107,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

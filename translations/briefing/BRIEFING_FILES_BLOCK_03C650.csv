@@ -2,7 +2,8 @@
 BRIEFING_FILES_BLOCK_03C650,0,stream=0x3C000;block=0x650;text=0,"[""stream=0x3C000;block=0x650;text=0""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]",,"このあたりの道は、緑に埋もれてる。自然に同化して潜ま
 れてしまったら、見つけるのは困難よ。
 ","ギリースーツか…。
-",[],这一带的道路都被绿色植被淹没了。要是有人融入自然潜伏起来，就很难发现。能藏身的地方很多，但敌人也一样。,,MATCH,134,153,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"这一带的道路都被绿色植被淹没了。要是有人融入自然潜伏起来，
+就很难发现。能藏身的地方很多，但敌人也一样。",,MATCH,134,154,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_03C650,1,stream=0x3C000;block=0x650;text=1,"[""stream=0x3C000;block=0x650;text=1""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","このあたりの道は、緑に埋もれてる。自然に同化して潜ま
 れてしまったら、見つけるのは困難よ。
 ","ギリースーツか…。
@@ -28,7 +29,7 @@ BRIEFING_FILES_BLOCK_03C650,5,stream=0x3C000;block=0x650;text=5,"[""stream=0x3C0
 ","<R=狙撃兵,スナイパー>は一度見つかると、別の場所へ移動してしまう。あ
 まり一所にこだわらないで。
 ","わかってる。ソ連でさんざん思い知らされた。
-","[""<R=狙撃兵,スナイパー>""]","<R=狙击兵,SNIPER>一旦被发现，就会转移到别的位置。别太执着于一个地方。","<R=狙击兵,SNIPER>",MATCH,139,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=狙撃兵,スナイパー>""]","<R=狙击手,SNIPER>一旦被发现，就会转移到别的位置。别太执着于一个地方。","<R=狙击手,SNIPER>",MATCH,139,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_03C650,6,stream=0x3C000;block=0x650;text=6,"[""stream=0x3C000;block=0x650;text=6""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","<R=狙撃兵,スナイパー>は一度見つかると、別の場所へ移動してしまう。あ
 まり一所にこだわらないで。
 ","わかってる。ソ連でさんざん思い知らされた。
@@ -39,7 +40,8 @@ BRIEFING_FILES_BLOCK_03C650,7,stream=0x3C000;block=0x650;text=7,"[""stream=0x3C0
 ","それと、<R=狙撃兵,スナイパー>だからって、接近戦に持ち込めば有利って
 わけでもない。姿を隠して背後から襲われたら…。
 ","気をつけよう。スニーキングで負けるわけにはいかない。
-","[""<R=狙撃兵,スナイパー>""]","还有，对手就算是<R=狙击兵,SNIPER>，把他拖进近身战也不代表你就有优势。要是他藏起身形，从背后袭击……。","<R=狙击兵,SNIPER>",MATCH,169,146,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=狙撃兵,スナイパー>""]","还有，对手就算是<R=狙击手,SNIPER>，把他拖进近身战也不代表你就有优势。
+要是他藏起身形，从背后袭击……。","<R=狙击手,SNIPER>",MATCH,169,147,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_03C650,8,stream=0x3C000;block=0x650;text=8,"[""stream=0x3C000;block=0x650;text=8""]",1,BRIEFING FILES,"[""stream=0x3C000;block=0x650;block_file=0x3C650;text_base=0x3C694;capacity=876""]","それと、<R=狙撃兵,スナイパー>だからって、接近戦に持ち込めば有利って
 わけでもない。姿を隠して背後から襲われたら…。
 ","気をつけよう。スニーキングで負けるわけにはいかない。

@@ -5,7 +5,7 @@
   "translations": [
     {
       "unique_index": 0,
-      "cn_text": "喂，Snake。我最近一直在想……格瓦拉到头来，是不是也没能在战场之外找到自己的容身之处。",
+      "cn_text": "喂，Snake。我最近一直在想……格瓦拉到头来，\n是不是也没能在战场之外找到自己的容身之处。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 125,
       "review_flag": "JPN_DIRECT_TRANSLATION"
@@ -19,7 +19,7 @@
     },
     {
       "unique_index": 2,
-      "cn_text": "格瓦拉完成了古巴革命。那是伟大的战果。就算他就此安享成果，也没人会责怪他。",
+      "cn_text": "格瓦拉完成了古巴革命。那是伟大的战果。\n就算他就此安享成果，也没人会责怪他。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 111,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_NO_BLAME_CLAUSE"
@@ -40,7 +40,7 @@
     },
     {
       "unique_index": 5,
-      "cn_text": "你想多了。格瓦拉再次奔赴战场，是因为那里需要他。读读《告别信》就明白了。",
+      "cn_text": "你想多了。格瓦拉再次奔赴战场，是因为那里需要他。\n读读《告别信》就明白了。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 108,
       "review_flag": "JPN_DIRECT_TRANSLATION"
@@ -68,7 +68,7 @@
     },
     {
       "unique_index": 9,
-      "cn_text": "我只是觉得，我和你之所以会被格瓦拉吸引，或许是因为从他身上感觉到了和自己相似的气息……仅此而已。",
+      "cn_text": "我只是觉得，我和你之所以会被格瓦拉吸引，\n或许是因为从他身上感觉到了和自己相似的气息……仅此而已。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 144,
       "review_flag": "JPN_DIRECT_TRANSLATION"
@@ -89,14 +89,14 @@
     },
     {
       "unique_index": 12,
-      "cn_text": "我不为思想而战。我是<R=　战士　,war fighter>。仅此而已，不多不少。",
+      "cn_text": "我不为思想而战。我是<R=战士,war fighter>。仅此而已，不多不少。",
       "cn_control_tokens": "<R=　战士　,war fighter>",
       "cn_utf8_bytes": 91,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;SOURCE_FULLWIDTH_SPACES_PRESERVED"
     },
     {
       "unique_index": 13,
-      "cn_text": "明白了，Boss。你说得对。我只是想在那位伟大英雄身上找找自己的影子而已。",
+      "cn_text": "明白了，Boss。你说得对。\n我只是想在那位伟大英雄身上找找自己的影子而已。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 103,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_PARAPHRASE_CORRECTED"

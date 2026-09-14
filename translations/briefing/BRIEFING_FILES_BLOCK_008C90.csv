@@ -6,7 +6,7 @@ BRIEFING_FILES_BLOCK_008C90,1,stream=0x8000;block=0xC90;text=1,"[""stream=0x8000
 ","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
 ","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
 すれば、コミュニケーションにもなる。
-","[""<R=こっち,マザーベース>""]","没什么，只是<R=这边,マザーベース>也堆着一大堆问题……","<R=这边,マザーベース>",MATCH,87,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
+","[""<R=こっち,マザーベース>""]","没什么，只是<R=这边,MOTHER BASE>也堆着一大堆问题……","<R=这边,MOTHER BASE>",MATCH,87,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_008C90,2,stream=0x8000;block=0xC90;text=2,"[""stream=0x8000;block=0xC90;text=2""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","いや、<R=こっち,マザーベース>もいろいろ問題が山積みでな…。
 ","マテ茶でも飲んで、一服するといい。隊の連中と回し飲み
 すれば、コミュニケーションにもなる。
@@ -27,7 +27,8 @@ BRIEFING_FILES_BLOCK_008C90,5,stream=0x8000;block=0xC90;text=5,"[""stream=0x8000
 るし、ストローに漉し器が付いているから、すぐ飲める。
 ","それだけじゃない。食料が不足しがちなゲリラ戦において、
 ビタミンやミネラルの補給にもなる。
-",[],不过这东西设计得真周到。装在葫芦里就能随身带，吸管上还带过滤器，随时都能喝。,,MATCH,158,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_ADDS_GENIUS_IGNORED
+",[],"不过这东西设计得真周到。
+装在葫芦里就能随身带，吸管上还带过滤器，随时都能喝。",,MATCH,158,115,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_ADDS_GENIUS_IGNORED
 BRIEFING_FILES_BLOCK_008C90,6,stream=0x8000;block=0xC90;text=6,"[""stream=0x8000;block=0xC90;text=6""]",1,BRIEFING FILES,"[""stream=0x8000;block=0xC90;block_file=0x8C90;text_base=0x8CD8;capacity=896""]","しかし、よく考えたもんだ。ヒョウタンに入れて携帯でき
 るし、ストローに漉し器が付いているから、すぐ飲める。
 ","それだけじゃない。食料が不足しがちなゲリラ戦において、

@@ -2,7 +2,8 @@
 BRIEFING_FILES_BLOCK_070EF0,0,stream=0x70000;block=0xEF0;text=0,"[""stream=0x70000;block=0xEF0;text=0""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]",,"さて、スネークボーイ。君も知っての通り、NORADには
 サンタクロース追跡という重大な任務が課されている。
 ","はぁ…。
-",[],好了，Snake小子。你也知道，NORAD肩负着一项重大任务：追踪圣诞老人。,,MATCH,148,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"好了，Snake小子。
+你也知道，NORAD肩负着一项重大任务：追踪圣诞老人。",,MATCH,148,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_070EF0,1,stream=0x70000;block=0xEF0;text=1,"[""stream=0x70000;block=0xEF0;text=1""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","さて、スネークボーイ。君も知っての通り、NORADには
 サンタクロース追跡という重大な任務が課されている。
 ","はぁ…。
@@ -28,7 +29,8 @@ BRIEFING_FILES_BLOCK_070EF0,5,stream=0x70000;block=0xEF0;text=5,"[""stream=0x700
 ー群から構成されている。
 ","警戒網から発されるワーニングは<R= NORAD ,シャイアン・マウンテン>へ送られ、人
 間による情報評価が行われる。
-",[],NORAD的早期预警系统，由DSP卫星搭载的红外传感器，以及设置在北美大陆各地的监视雷达组成。,,MATCH,182,125,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"NORAD的早期预警系统，由DSP卫星搭载的红外传感器，
+以及设置在北美大陆各地的监视雷达组成。",,MATCH,182,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_070EF0,6,stream=0x70000;block=0xEF0;text=6,"[""stream=0x70000;block=0xEF0;text=6""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","NORADの早期警戒システムはDSP衛星に搭載された赤
 外線センサーと、北米大陸の各地に設置された監視レーダ
 ー群から構成されている。
@@ -36,7 +38,7 @@ BRIEFING_FILES_BLOCK_070EF0,6,stream=0x70000;block=0xEF0;text=6,"[""stream=0x700
 間による情報評価が行われる。
 ","一方ピースウォーカーは自律的に報復行動を決断しなけれ
 ばならない。
-","[""<R= NORAD ,シャイアン・マウンテン>""]","预警网发出的警报会被送往<R= NORAD ,CHEYENNE MOUNTAIN>，再由人类进行情报评估。","<R= NORAD ,CHEYENNE MOUNTAIN>",MATCH,152,101,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+","[""<R= NORAD ,シャイアン・マウンテン>""]","预警网发出的警报会被送往<R=NORAD,CHEYENNE MOUNTAIN>，再由人类进行情报评估。","<R=NORAD,CHEYENNE MOUNTAIN>",MATCH,152,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
 BRIEFING_FILES_BLOCK_070EF0,7,stream=0x70000;block=0xEF0;text=7,"[""stream=0x70000;block=0xEF0;text=7""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","警戒網から発されるワーニングは<R= NORAD ,シャイアン・マウンテン>へ送られ、人
 間による情報評価が行われる。
 ","一方ピースウォーカーは自律的に報復行動を決断しなけれ
@@ -66,7 +68,8 @@ BRIEFING_FILES_BLOCK_070EF0,10,stream=0x70000;block=0xEF0;text=10,"[""stream=0x7
 RADに送り込んだんだ。
 ","システムの脆弱性対策に問題があったといわれれば反論の
 余地はない。
-",[],Peace Walker反过来利用了这套机制，在演习计划之外的时点向NORAD送入了“核导弹来袭”的假警报。,,MATCH,185,128,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"Peace Walker反过来利用了这套机制，
+在演习计划之外的时点向NORAD送入了“核导弹来袭”的假警报。",,MATCH,185,129,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_070EF0,11,stream=0x70000;block=0xEF0;text=11,"[""stream=0x70000;block=0xEF0;text=11""]",1,BRIEFING FILES,"[""stream=0x70000;block=0xEF0;block_file=0x70EF0;text_base=0x70F44;capacity=1484""]","ピースウォーカーはこの仕組みを逆用して、演習スケジュ
 ールには無いタイミングで核ミサイル来襲の偽警報をNO
 RADに送り込んだんだ。

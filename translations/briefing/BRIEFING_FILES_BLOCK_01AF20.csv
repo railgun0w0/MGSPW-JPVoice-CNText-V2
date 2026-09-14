@@ -2,7 +2,8 @@
 BRIEFING_FILES_BLOCK_01AF20,0,stream=0x1A000;block=0xF20;text=0,"[""stream=0x1A000;block=0xF20;text=0""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]",,"村の北にあるバリケードを壊すには、<R=　C　4　,コンポジション4>爆薬が必要
 だ。スネークなら、扱いには慣れてるよな？
 ","ああ。C3の時代からお世話になってる。
-","[""<R=　C　4　,コンポジション4>""]","要炸毁村子北面的路障，需要<R=　C　4　,Composition 4>炸药。Snake，你应该很熟悉怎么用了吧？","<R=　C　4　,Composition 4>",MATCH,166,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R=　C　4　,コンポジション4>""]","要炸毁村子北面的路障，需要<R=C　4,Composition 4>炸药。
+Snake，你应该很熟悉怎么用了吧？","<R=C　4,Composition 4>",MATCH,166,116,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_01AF20,1,stream=0x1A000;block=0xF20;text=1,"[""stream=0x1A000;block=0xF20;text=1""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","村の北にあるバリケードを壊すには、<R=　C　4　,コンポジション4>爆薬が必要
 だ。スネークなら、扱いには慣れてるよな？
 ","ああ。C3の時代からお世話になってる。
@@ -22,7 +23,8 @@ BRIEFING_FILES_BLOCK_01AF20,3,stream=0x1A000;block=0xF20;text=3,"[""stream=0x1A0
 爆装置なしじゃ爆発しない。火をつけても普通に燃えるだ
 け…。
 ","ベトナムじゃ、燃料代わりに使う米兵もいたらしい。
-",[],可以随意塑形的塑胶炸药。稳定性很高，没有起爆装置就不会爆炸。就算点火，也只会普通地燃烧……,,MATCH,168,135,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
+",[],"可以随意塑形的塑胶炸药。稳定性很高，没有起爆装置就不会爆炸。
+就算点火，也只会普通地燃烧……",,MATCH,168,136,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CROSS_ROW_SPLIT_RESTORED
 BRIEFING_FILES_BLOCK_01AF20,4,stream=0x1A000;block=0xF20;text=4,"[""stream=0x1A000;block=0xF20;text=4""]",1,BRIEFING FILES,"[""stream=0x1A000;block=0xF20;block_file=0x1AF20;text_base=0x1AF5C;capacity=724""]","成形自在のプラスティック爆薬。安定性に優れていて、起
 爆装置なしじゃ爆発しない。火をつけても普通に燃えるだ
 け…。

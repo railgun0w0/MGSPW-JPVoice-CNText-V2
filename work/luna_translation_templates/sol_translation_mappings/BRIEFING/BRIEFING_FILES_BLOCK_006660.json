@@ -12,7 +12,7 @@
     },
     {
       "unique_index": 1,
-      "cn_text": "没想到连支局长级别的人都会合作……我倒听说过，现场的情报人员彼此会混个脸熟。",
+      "cn_text": "没想到连支局长级别的人都会合作……我倒听说过，\n现场的情报人员彼此会混个脸熟。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 114,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OVERSTATES_FRIENDLY_RELATION"
@@ -61,7 +61,7 @@
     },
     {
       "unique_index": 8,
-      "cn_text": "这我就不知道了。总之，这场闹剧或许就是那种过度熟络发展到最后的结果。",
+      "cn_text": "这我就不知道了。\n总之，这场闹剧或许就是那种过度熟络发展到最后的结果。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 102,
       "review_flag": "JPN_DIRECT_TRANSLATION"
@@ -75,14 +75,14 @@
     },
     {
       "unique_index": 10,
-      "cn_text": "能够诉诸感情，是<R=人力情报,ヒュミント>的优势；但同时也会被感情牵绊，这也是它的弱点。",
+      "cn_text": "能够诉诸感情，是<R=人力情报,HUMINT>的优势；\n但同时也会被感情牵绊，这也是它的弱点。",
       "cn_control_tokens": "<R=人力情报,ヒュミント>",
       "cn_utf8_bytes": 125,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
     },
     {
       "unique_index": 11,
-      "cn_text": "所以如今情报界的潮流，正在逐渐转向<R=信号情报,シギント>。",
+      "cn_text": "所以如今情报界的潮流，正在逐渐转向<R=信号情报,SIGINT>。",
       "cn_control_tokens": "<R=信号情报,シギント>",
       "cn_utf8_bytes": 83,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"

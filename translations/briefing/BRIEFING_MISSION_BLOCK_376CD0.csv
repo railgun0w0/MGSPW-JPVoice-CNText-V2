@@ -115,14 +115,16 @@ BRIEFING_MISSION_BLOCK_376CD0,20,stream=0x376000;block=0xCD0;text=20,"[""stream=
 ","…コールドマンは俺達のことを知っていた。
 俺達はCIAにマークされている。
 俺達に調査を依頼したKGBや、パスのことも…。
-",[],问过“学校”的相关人员后，他们说已经有一阵子没见过“教授”和Paz了……。,,MATCH,122,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"问过“学校”的相关人员后，
+他们说已经有一阵子没见过“教授”和Paz了……。",,MATCH,122,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_376CD0,21,stream=0x376000;block=0xCD0;text=21,"[""stream=0x376000;block=0xCD0;text=21""]",1,d4250_m0300_mrd,"[""stream=0x376000;block=0xCD0;block_file=0x376CD0;text_base=0x376D70;capacity=2016""]","“学校”関係者に聞いたところだと、
 “教授”もパスも、しばらく見ていないらしい…。
 ","…コールドマンは俺達のことを知っていた。
 俺達はCIAにマークされている。
 俺達に調査を依頼したKGBや、パスのことも…。
 ","まさか…、コールドマンに？
-",[],……Coldman知道我们的事。CIA已经盯上了我们。连委托我们调查的KGB，还有Paz的事……他也知道。,,MATCH,168,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"……Coldman知道我们的事。CIA已经盯上了我们。
+连委托我们调查的KGB，还有Paz的事……他也知道。",,MATCH,168,128,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_376CD0,22,stream=0x376000;block=0xCD0;text=22,"[""stream=0x376000;block=0xCD0;text=22""]",1,d4250_m0300_mrd,"[""stream=0x376000;block=0xCD0;block_file=0x376CD0;text_base=0x376D70;capacity=2016""]","…コールドマンは俺達のことを知っていた。
 俺達はCIAにマークされている。
 俺達に調査を依頼したKGBや、パスのことも…。
@@ -146,7 +148,8 @@ BRIEFING_MISSION_BLOCK_376CD0,25,stream=0x376000;block=0xCD0;text=25,"[""stream=
 何処かに身を隠したか…。
 ","そう願いたい。
 カズ、KGBからも情報を入手してくれ。
-",[],这么说……他们可能察觉到了CIA的行动，躲到什么地方去了……。,,MATCH,89,87,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"这么说……他们可能察觉到了CIA的行动，
+躲到什么地方去了……。",,MATCH,89,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_376CD0,26,stream=0x376000;block=0xCD0;text=26,"[""stream=0x376000;block=0xCD0;text=26""]",1,d4250_m0300_mrd,"[""stream=0x376000;block=0xCD0;block_file=0x376CD0;text_base=0x376D70;capacity=2016""]","そうなると…、CIAの動きを察知して、
 何処かに身を隠したか…。
 ","そう願いたい。
@@ -170,14 +173,16 @@ BRIEFING_MISSION_BLOCK_376CD0,29,stream=0x376000;block=0xCD0;text=29,"[""stream=
 始動した様子は確認できない。
 ","まださっきの格納庫にいる。
 今度こそ最後のチャンスだ。AIを破壊しよう。
-",[],Snake。至少从地面上看，还没有发现Peace Walker启动的迹象。,,MATCH,120,77,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"Snake。至少从地面上看，
+还没有发现Peace Walker启动的迹象。",,MATCH,120,78,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_376CD0,30,stream=0x376000;block=0xCD0;text=30,"[""stream=0x376000;block=0xCD0;text=30""]",1,d4250_m0300_mrd,"[""stream=0x376000;block=0xCD0;block_file=0x376CD0;text_base=0x376D70;capacity=2016""]","スネーク。
 少なくとも地上からは、ピースウォーカーが
 始動した様子は確認できない。
 ","まださっきの格納庫にいる。
 今度こそ最後のチャンスだ。AIを破壊しよう。
 ","了解。
-",[],它还在刚才那个机库里。这次真的是最后的机会了。去摧毁AI。,,MATCH,103,83,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"它还在刚才那个机库里。
+这次真的是最后的机会了。去摧毁AI。",,MATCH,103,84,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_MISSION_BLOCK_376CD0,31,stream=0x376000;block=0xCD0;text=31,"[""stream=0x376000;block=0xCD0;text=31""]",1,d4250_m0300_mrd,"[""stream=0x376000;block=0xCD0;block_file=0x376CD0;text_base=0x376D70;capacity=2016""]","まださっきの格納庫にいる。
 今度こそ最後のチャンスだ。AIを破壊しよう。
 ","了解。

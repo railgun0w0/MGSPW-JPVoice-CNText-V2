@@ -12,7 +12,7 @@
     },
     {
       "unique_index": 1,
-      "cn_text": "一旦开战，对方可能会发射核武器。想到这一点，就不能轻易发动武力冲突。",
+      "cn_text": "一旦开战，对方可能会发射核武器。\n想到这一点，就不能轻易发动武力冲突。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 102,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_PARTIAL"
@@ -61,14 +61,14 @@
     },
     {
       "unique_index": 8,
-      "cn_text": "结果就是<R=相互保证毁灭,MAD>吗。",
+      "cn_text": "结果就是<R=相互确保摧毁,MAD>吗。",
       "cn_control_tokens": "<R=相互保证毁灭,MAD>",
       "cn_utf8_bytes": 44,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
     },
     {
       "unique_index": 9,
-      "cn_text": "这是核威慑的终极形态。只要知道发射后会遭到反击、导致自身毁灭，就没人会动用核武器。",
+      "cn_text": "这是核威慑的终极形态。\n只要知道发射后会遭到反击、导致自身毁灭，就没人会动用核武器。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 123,
       "review_flag": "JPN_DIRECT_TRANSLATION"

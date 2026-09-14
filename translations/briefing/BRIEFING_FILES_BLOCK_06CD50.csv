@@ -21,7 +21,8 @@ BRIEFING_FILES_BLOCK_06CD50,3,stream=0x6C000;block=0xD50;text=3,"[""stream=0x6C0
 るための重しにもなる…。
 ","『君の造った核兵器は決して使われず、永遠に君臨する平
 和の<R=象徴,イコン>になるのだ』とね。
-",[],Coldman是这么说的：Peace Walker是实现真正核威慑、为了和平而存在的武器，也会成为稳定中美洲局势的压舱石……。,,MATCH,195,151,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"Coldman是这么说的：Peace Walker是实现真正核威慑、
+为了和平而存在的武器，也会成为稳定中美洲局势的压舱石……。",,MATCH,195,152,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_06CD50,4,stream=0x6C000;block=0xD50;text=4,"[""stream=0x6C000;block=0xD50;text=4""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","コールドマンはこう言った。ピースウォーカーは真の核抑
 止を実現する、平和のための兵器だ。中米情勢を安定させ
 るための重しにもなる…。
@@ -29,7 +30,8 @@ BRIEFING_FILES_BLOCK_06CD50,4,stream=0x6C000;block=0xD50;text=4,"[""stream=0x6C0
 和の<R=象徴,イコン>になるのだ』とね。
 ","そしてその実現のためには、僕の二足歩行技術が必要だ…
 そう言われた時、正直嬉しかった。
-","[""<R=象徴,イコン>""]","“你制造的核武器永远不会被使用，它会成为永远屹立的和平<R=象征,ICON>。”他这么说。","<R=象征,ICON>",MATCH,133,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=象徴,イコン>""]","“你制造的核武器永远不会被使用，它会成为永远屹立的和平<R=象征,ICON>。
+”他这么说。","<R=象征,ICON>",MATCH,133,118,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_06CD50,5,stream=0x6C000;block=0xD50;text=5,"[""stream=0x6C000;block=0xD50;text=5""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","『君の造った核兵器は決して使われず、永遠に君臨する平
 和の<R=象徴,イコン>になるのだ』とね。
 ","そしてその実現のためには、僕の二足歩行技術が必要だ…
@@ -47,7 +49,8 @@ BRIEFING_FILES_BLOCK_06CD50,7,stream=0x6C000;block=0xD50;text=7,"[""stream=0x6C0
 てきた。二足歩行なんて非現実的だ、意味がないって。
 ","初めて自分の研究が認められたんだ…嬉しくないわけがな
 い…それに。
-",[],当然了。我一直被学界那帮人嘲笑。他们都说双足步行不现实、毫无意义。,,MATCH,155,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"当然了。我一直被学界那帮人嘲笑。
+他们都说双足步行不现实、毫无意义。",,MATCH,155,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_06CD50,8,stream=0x6C000;block=0xD50;text=8,"[""stream=0x6C000;block=0xD50;text=8""]",1,BRIEFING FILES,"[""stream=0x6C000;block=0xD50;block_file=0x6CD50;text_base=0x6CDA0;capacity=1360""]","だってそうだろう？　僕は学会の連中にずっと馬鹿にされ
 てきた。二足歩行なんて非現実的だ、意味がないって。
 ","初めて自分の研究が認められたんだ…嬉しくないわけがな
@@ -72,4 +75,5 @@ BRIEFING_FILES_BLOCK_06CD50,11,stream=0x6C000;block=0xD50;text=11,"[""stream=0x6
 ","ああ。考えてみれば、当たり前の話さ。「無人システムな
 ら核を撃てる」…そう実証しなければ、この計画は認めら
 れないんだからね。
-",,[],是啊。现在想想，这本来就是理所当然的。“无人系统能够发射核武”……如果不证明这一点，这个计划就不会被认可。,,MATCH,186,159,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",,[],"是啊。现在想想，这本来就是理所当然的。“无人系统能够
+发射核武”……如果不证明这一点，这个计划就不会被认可。",,MATCH,186,160,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES

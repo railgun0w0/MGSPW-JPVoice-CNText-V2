@@ -19,7 +19,7 @@
     },
     {
       "unique_index": 2,
-      "cn_text": "……啊——你以前待过CIA的<R=准军事部队,パラミリタリー>吧。",
+      "cn_text": "……啊——你以前待过CIA的<R=准军事部队,PARAMILITARY>吧。",
       "cn_control_tokens": "<R=准军事部队,パラミリタリー>",
       "cn_utf8_bytes": 83,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
@@ -61,21 +61,21 @@
     },
     {
       "unique_index": 8,
-      "cn_text": "还有在玻利维亚对格瓦拉的<R=追捕,ハントダウン>。据说CIA也参与了……",
+      "cn_text": "还有在玻利维亚对格瓦拉的<R=追捕,HUNT DOWN>。据说CIA也参与了……",
       "cn_control_tokens": "<R=追捕,ハントダウン>",
       "cn_utf8_bytes": 95,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_SEGMENTATION_IGNORED"
     },
     {
       "unique_index": 9,
-      "cn_text": "听说还有MSP、SOG之类的名字。有好几个性质和我原来的部队FOX相似的下属组织。",
+      "cn_text": "听说还有MSP、SOG之类的名字。\n有好几个性质和我原来的部队FOX相似的下属组织。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 105,
       "review_flag": "JPN_DIRECT_TRANSLATION"
     },
     {
       "unique_index": 10,
-      "cn_text": "他们把特种部队出身的人员训练成情报特工，让其从事“<R=可否认的,ディナイアブルな>”秘密准军事行动。",
+      "cn_text": "他们把特种部队出身的人员训练成情报特工，\n让其从事“<R=可否认的,DENIABLE>”秘密准军事行动。",
       "cn_control_tokens": "<R=可否认的,ディナイアブルな>",
       "cn_utf8_bytes": 143,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"

@@ -1,7 +1,7 @@
 ﻿file_id,unique_index,first_reference_index,reference_indices,reference_count,scene_context,entity_context,previous_jpn_text,jpn_text,next_jpn_text,jpn_control_tokens,cn_text,cn_control_tokens,control_structure_status,jpn_utf8_bytes,cn_utf8_bytes,translation_status,build_status,ingame_status,translation_basis,notes
 BRIEFING_FILES_BLOCK_03A280,0,stream=0x3A000;block=0x280;text=0,"[""stream=0x3A000;block=0x280;text=0""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]",,"アマンダ、<R=列車車庫,ターミナル>への行き方はわかるか。
 ","村の手前の三叉路に、機関車があったのは覚えてる？
-","[""<R=列車車庫,ターミナル>""]","Amanda，你知道怎么去<R=列车车库,TERMINAL>吗？","<R=列车车库,TERMINAL>",MATCH,81,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=列車車庫,ターミナル>""]","Amanda，你知道怎么去<R=铁路货运站,TERMINAL>吗？","<R=铁路货运站,TERMINAL>",MATCH,81,61,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_03A280,1,stream=0x3A000;block=0x280;text=1,"[""stream=0x3A000;block=0x280;text=1""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","アマンダ、<R=列車車庫,ターミナル>への行き方はわかるか。
 ","村の手前の三叉路に、機関車があったのは覚えてる？
 ","ああ。ジャングルの中か。
@@ -15,7 +15,7 @@ BRIEFING_FILES_BLOCK_03A280,3,stream=0x3A000;block=0x280;text=3,"[""stream=0x3A0
 ","そこから線路沿いに進めば<R=列車車庫,ターミナル>へ行ける。ただ、途中
 に工場が。
 ","コーヒー工場に偽装した…。
-","[""<R=列車車庫,ターミナル>""]","从那里沿着铁轨走，就能到<R=列车车库,TERMINAL>。不过途中有座工厂。","<R=列车车库,TERMINAL>",MATCH,115,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=列車車庫,ターミナル>""]","从那里沿着铁轨走，就能到<R=铁路货运站,TERMINAL>。不过途中有座工厂。","<R=铁路货运站,TERMINAL>",MATCH,115,94,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_03A280,4,stream=0x3A000;block=0x280;text=4,"[""stream=0x3A000;block=0x280;text=4""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","そこから線路沿いに進めば<R=列車車庫,ターミナル>へ行ける。ただ、途中
 に工場が。
 ","コーヒー工場に偽装した…。
@@ -37,7 +37,8 @@ BRIEFING_FILES_BLOCK_03A280,7,stream=0x3A000;block=0x280;text=7,"[""stream=0x3A0
 ","いや。それが近道ならちょうどいい。工場も奴らの拠点だ。
 把握しておく必要がある。
 ","頼もしい。
-",[],不。既然是近路，正合我意。那座工厂也是他们的据点，有必要摸清情况。,,MATCH,119,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"不。既然是近路，正合我意。
+那座工厂也是他们的据点，有必要摸清情况。",,MATCH,119,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_03A280,8,stream=0x3A000;block=0x280;text=8,"[""stream=0x3A000;block=0x280;text=8""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","いや。それが近道ならちょうどいい。工場も奴らの拠点だ。
 把握しておく必要がある。
 ","頼もしい。
@@ -48,7 +49,8 @@ BRIEFING_FILES_BLOCK_03A280,9,stream=0x3A000;block=0x280;text=9,"[""stream=0x3A0
 ","工場の見張りは、高い通路をうろうろしてることが多いの。
 見つからないためには、敵の動きをよく見て。
 ","あるいは先に<R=狙い撃つ,スナイプ>か…。
-",[],工厂的卫兵经常在高处的通道巡逻。要想不被发现，就仔细观察他们的动向。,,MATCH,146,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"工厂的卫兵经常在高处的通道巡逻。
+要想不被发现，就仔细观察他们的动向。",,MATCH,146,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_03A280,10,stream=0x3A000;block=0x280;text=10,"[""stream=0x3A000;block=0x280;text=10""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","工場の見張りは、高い通路をうろうろしてることが多いの。
 見つからないためには、敵の動きをよく見て。
 ","あるいは先に<R=狙い撃つ,スナイプ>か…。
@@ -59,7 +61,7 @@ BRIEFING_FILES_BLOCK_03A280,11,stream=0x3A000;block=0x280;text=11,"[""stream=0x3
 ","工場の中も入り組んでる。慌てずに進んで。裏手から<R=列車車庫,ターミナル>
 へ出られる。
 ","さすが、詳しいな。
-","[""<R=列車車庫,ターミナル>""]","工厂里面也很复杂。别着急，慢慢前进。从后面出去就能到<R=列车车库,TERMINAL>。","<R=列车车库,TERMINAL>",MATCH,124,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=列車車庫,ターミナル>""]","工厂里面也很复杂。别着急，慢慢前进。从后面出去就能到<R=铁路货运站,TERMINAL>。","<R=铁路货运站,TERMINAL>",MATCH,124,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_03A280,12,stream=0x3A000;block=0x280;text=12,"[""stream=0x3A000;block=0x280;text=12""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","工場の中も入り組んでる。慌てずに進んで。裏手から<R=列車車庫,ターミナル>
 へ出られる。
 ","さすが、詳しいな。
@@ -80,7 +82,7 @@ BRIEFING_FILES_BLOCK_03A280,15,stream=0x3A000;block=0x280;text=15,"[""stream=0x3
 BRIEFING_FILES_BLOCK_03A280,16,stream=0x3A000;block=0x280;text=16,"[""stream=0x3A000;block=0x280;text=16""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","ならいいけど…。
 ","その先、<R=列車車庫,ターミナル>のことはチコに聞いた？
 ","積み荷をトラックに乗せ換えていると。
-","[""<R=列車車庫,ターミナル>""]","之后那座<R=列车车库,TERMINAL>的情况，你问过Chico吗？","<R=列车车库,TERMINAL>",MATCH,78,69,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=列車車庫,ターミナル>""]","之后那座<R=铁路货运站,TERMINAL>的情况，你问过Chico吗？","<R=铁路货运站,TERMINAL>",MATCH,78,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_03A280,17,stream=0x3A000;block=0x280;text=17,"[""stream=0x3A000;block=0x280;text=17""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","その先、<R=列車車庫,ターミナル>のことはチコに聞いた？
 ","積み荷をトラックに乗せ換えていると。
 ","つまり敵にとってはかなり重要な拠点みたい。油断しない
@@ -103,7 +105,8 @@ BRIEFING_FILES_BLOCK_03A280,20,stream=0x3A000;block=0x280;text=20,"[""stream=0x3
 があるって聞いた。詳しく知らないんだけど、必要なら探
 してみて。
 ","わかった。覚えておこう。
-",[],对了。我还听说，从村子东边有条近路可以直接通往咖啡工厂。具体我也不清楚，需要的话你可以找找看。,,MATCH,174,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"对了。我还听说，从村子东边有条近路可以直接通往咖啡工厂。
+具体我也不清楚，需要的话你可以找找看。",,MATCH,174,142,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_03A280,21,stream=0x3A000;block=0x280;text=21,"[""stream=0x3A000;block=0x280;text=21""]",1,BRIEFING FILES,"[""stream=0x3A000;block=0x280;block_file=0x3A280;text_base=0x3A2F8;capacity=1648""]","そうだ。あと、村の東からは直接コーヒー工場へ行く近道
 があるって聞いた。詳しく知らないんだけど、必要なら探
 してみて。

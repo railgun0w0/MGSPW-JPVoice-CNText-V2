@@ -15,14 +15,16 @@ BRIEFING_FILES_BLOCK_08FF20,2,stream=0x8F000;block=0xF20;text=2,"[""stream=0x8F0
 では真夜中の発射になる。
 ","飛行コースは、東に最も移動距離が長いパターンが選ばれ
 た。『窓』から少しでも地球の昼の部分が見えるように。
-","[""<R=NASAの飛行場,ケープ・カナベラル>""]","他们把日程压到了极限，发射定在第二天凌晨。对<R=NASA的发射场,CAPE CANAVERAL>来说，这将是一次午夜发射。","<R=NASA的发射场,CAPE CANAVERAL>",MATCH,152,140,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=NASAの飛行場,ケープ・カナベラル>""]","他们把日程压到了极限，发射定在第二天凌晨。
+对<R=NASA的发射场,CAPE CANAVERAL>来说，这将是一次午夜发射。","<R=NASA的发射场,CAPE CANAVERAL>",MATCH,152,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_08FF20,3,stream=0x8F000;block=0xF20;text=3,"[""stream=0x8F000;block=0xF20;text=3""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","ぎりぎりまで繰り上げて、発射時刻は翌日未明。<R=NASAの飛行場,ケープ・カナベラル>
 では真夜中の発射になる。
 ","飛行コースは、東に最も移動距離が長いパターンが選ばれ
 た。『窓』から少しでも地球の昼の部分が見えるように。
 ","ザ・ボスも搭乗手続きを2割以上省略して、<R=宇宙船,マーキュリー>に乗り
 込んだ。
-",[],飞行路线选择了向东移动距离最长的方案，好让她至少能从“窗户”看到一点地球的白昼部分。,,MATCH,158,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"飞行路线选择了向东移动距离最长的方案，
+好让她至少能从“窗户”看到一点地球的白昼部分。",,MATCH,158,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08FF20,4,stream=0x8F000;block=0xF20;text=4,"[""stream=0x8F000;block=0xF20;text=4""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","飛行コースは、東に最も移動距離が長いパターンが選ばれ
 た。『窓』から少しでも地球の昼の部分が見えるように。
 ","ザ・ボスも搭乗手続きを2割以上省略して、<R=宇宙船,マーキュリー>に乗り
@@ -35,7 +37,8 @@ BRIEFING_FILES_BLOCK_08FF20,5,stream=0x8F000;block=0xF20;text=5,"[""stream=0x8F0
 ","時刻も、コースも危険。テストも不十分。でも、NASAに
 選択の余地はなかった。
 ","ザ・ボス自身、地球に帰れるとは思っていなかった。
-",[],无论发射时间还是航线都很危险，测试也不充分。可是NASA已经别无选择。,,MATCH,108,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"无论发射时间还是航线都很危险，测试也不充分。
+可是NASA已经别无选择。",,MATCH,108,98,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08FF20,6,stream=0x8F000;block=0xF20;text=6,"[""stream=0x8F000;block=0xF20;text=6""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","時刻も、コースも危険。テストも不十分。でも、NASAに
 選択の余地はなかった。
 ","ザ・ボス自身、地球に帰れるとは思っていなかった。
@@ -52,12 +55,13 @@ BRIEFING_FILES_BLOCK_08FF20,8,stream=0x8F000;block=0xF20;text=8,"[""stream=0x8F0
 ","それでも彼女は<R=　船　,マーキュリー>に乗った。
 ","「誰かが最初の一人になるのだ。運命が私を選んだのなら、
 受け入れよう。祖国のために。そして世界の均衡のために」。
-","[""<R=　船　,マーキュリー>""]","即便如此，她还是登上了<R=　船　,MERCURY>。","<R=　船　,MERCURY>",MATCH,69,57,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=　船　,マーキュリー>""]","即便如此，她还是登上了<R=船,MERCURY>。","<R=船,MERCURY>",MATCH,69,51,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_08FF20,9,stream=0x8F000;block=0xF20;text=9,"[""stream=0x8F000;block=0xF20;text=9""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","それでも彼女は<R=　船　,マーキュリー>に乗った。
 ","「誰かが最初の一人になるのだ。運命が私を選んだのなら、
 受け入れよう。祖国のために。そして世界の均衡のために」。
 ","そうザ・ボスは言っていた。
-",[],她说：“总要有人成为第一个。如果命运选择了我，那我就接受。为了祖国，也为了世界的平衡。”,,MATCH,167,132,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"她说：“总要有人成为第一个。如果命运选择了我，那我就接受。
+为了祖国，也为了世界的平衡。”",,MATCH,167,133,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08FF20,10,stream=0x8F000;block=0xF20;text=10,"[""stream=0x8F000;block=0xF20;text=10""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","「誰かが最初の一人になるのだ。運命が私を選んだのなら、
 受け入れよう。祖国のために。そして世界の均衡のために」。
 ","そうザ・ボスは言っていた。
@@ -68,7 +72,8 @@ BRIEFING_FILES_BLOCK_08FF20,11,stream=0x8F000;block=0xF20;text=11,"[""stream=0x8
 ","「僅かでも可能性があるなら、それに賭けよう。運命を受
 け入れた者だけに、それを乗り越える資格があるのだから」。
 ","そして4月12日午前1時半、ザ・ボスは宇宙へ上がった。
-",[],“只要还有哪怕一丝可能，我就愿意赌上去。只有接受命运的人，才有资格超越命运。”,,MATCH,164,117,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"“只要还有哪怕一丝可能，我就愿意赌上去。
+只有接受命运的人，才有资格超越命运。”",,MATCH,164,118,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08FF20,12,stream=0x8F000;block=0xF20;text=12,"[""stream=0x8F000;block=0xF20;text=12""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","「僅かでも可能性があるなら、それに賭けよう。運命を受
 け入れた者だけに、それを乗り越える資格があるのだから」。
 ","そして4月12日午前1時半、ザ・ボスは宇宙へ上がった。
@@ -82,14 +87,16 @@ BRIEFING_FILES_BLOCK_08FF20,13,stream=0x8F000;block=0xF20;text=13,"[""stream=0x8
 ったこと…。
 ","彼女はそこから地球を見た。日の出と共に、窓から差し込
 む宇宙線に蝕まれながら…。
-","[""<R=飛行,フライト>""]","那简直是奇迹。一是她竟能乘着临时赶制的飞船进入太空；二是这次<R=飞行,FLIGHT>竟几乎与加加林同时进行……。","<R=飞行,FLIGHT>",MATCH,194,149,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=飛行,フライト>""]","那简直是奇迹。一是她竟能乘着临时赶制的飞船进入太空；
+二是这次<R=飞行,FLIGHT>竟几乎与加加林同时进行……。","<R=飞行,FLIGHT>",MATCH,194,150,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_08FF20,14,stream=0x8F000;block=0xF20;text=14,"[""stream=0x8F000;block=0xF20;text=14""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","それは奇跡だった。一つには、急拵えの船で宇宙に上がれ
 たこと。もう一つには、<R=飛行,フライト>がガガーリンとほぼ同時にな
 ったこと…。
 ","彼女はそこから地球を見た。日の出と共に、窓から差し込
 む宇宙線に蝕まれながら…。
 ","その時の事は、彼女から聞いたと思う。
-",[],她从那里看到了地球。伴随着日出，她也被从窗户射入的宇宙射线侵蚀着……。,,MATCH,119,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"她从那里看到了地球。
+伴随着日出，她也被从窗户射入的宇宙射线侵蚀着……。",,MATCH,119,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08FF20,15,stream=0x8F000;block=0xF20;text=15,"[""stream=0x8F000;block=0xF20;text=15""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","彼女はそこから地球を見た。日の出と共に、窓から差し込
 む宇宙線に蝕まれながら…。
 ","その時の事は、彼女から聞いたと思う。
@@ -101,7 +108,8 @@ BRIEFING_FILES_BLOCK_08FF20,16,stream=0x8F000;block=0xF20;text=16,"[""stream=0x8
 思想からも遠く離れていた。
 ","今までソ連と1分1秒を争っていたことが、馬鹿馬鹿しく思
 えたそうよ。
-",[],没有国界的地球。无可替代的大地。身处太空，国家与意识形态都显得无比遥远。,,MATCH,119,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"没有国界的地球。无可替代的大地。
+身处太空，国家与意识形态都显得无比遥远。",,MATCH,119,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_08FF20,17,stream=0x8F000;block=0xF20;text=17,"[""stream=0x8F000;block=0xF20;text=17""]",1,BRIEFING FILES,"[""stream=0x8F000;block=0xF20;block_file=0x8FF20;text_base=0x8FFA0;capacity=2504""]","国境のない地球。かけがえのない大地。宇宙は、国からも
 思想からも遠く離れていた。
 ","今までソ連と1分1秒を争っていたことが、馬鹿馬鹿しく思

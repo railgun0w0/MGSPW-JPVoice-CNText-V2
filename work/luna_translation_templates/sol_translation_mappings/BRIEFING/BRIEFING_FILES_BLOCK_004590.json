@@ -5,7 +5,7 @@
   "translations": [
     {
       "unique_index": 0,
-      "cn_text": "确实，靠<R=相互保证毁灭,MAD>维持的和平始终伴随着事故风险。",
+      "cn_text": "确实，靠<R=相互确保摧毁,MAD>维持的和平始终伴随着事故风险。",
       "cn_control_tokens": "<R=相互保证毁灭,MAD>",
       "cn_utf8_bytes": 83,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
@@ -19,7 +19,7 @@
     },
     {
       "unique_index": 2,
-      "cn_text": "话虽如此，多亏了核威慑，从那以后再也没有爆发世界大战。世界不是变得和平多了吗。",
+      "cn_text": "话虽如此，多亏了核威慑，从那以后再也没有爆发世界大战。\n世界不是变得和平多了吗。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 117,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_ADDS_1945_IGNORED"
@@ -33,7 +33,7 @@
     },
     {
       "unique_index": 4,
-      "cn_text": "虽说核武器开发竞赛、太空开发竞赛这些被称为冷战，但既然没有武力冲突，反倒该说世界是和平的吧。",
+      "cn_text": "虽说核武器开发竞赛、太空开发竞赛这些被称为冷战，\n但既然没有武力冲突，反倒该说世界是和平的吧。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 138,
       "review_flag": "JPN_DIRECT_TRANSLATION"

@@ -8,7 +8,7 @@ BRIEFING_FILES_BLOCK_020160,1,stream=0x20000;block=0x160;text=1,"[""stream=0x200
 ","そいつらのことは「<R=偵察,スカウト>兵」と呼んでいるそうだ。
 ","周囲の地形や植生に溶け込むように身を潜めて、こちらを
 発見するといきなり飛び出してくる。
-","[""<R=偵察,スカウト>""]","听说他们被称作“<R=侦察,scout>兵”。","<R=侦察,scout>",MATCH,87,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R=偵察,スカウト>""]","听说他们被称作“<R=侦察,SCOUT>兵”。","<R=侦察,SCOUT>",MATCH,87,49,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_020160,2,stream=0x20000;block=0x160;text=2,"[""stream=0x20000;block=0x160;text=2""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x160;block_file=0x20160;text_base=0x2019C;capacity=744""]","そいつらのことは「<R=偵察,スカウト>兵」と呼んでいるそうだ。
 ","周囲の地形や植生に溶け込むように身を潜めて、こちらを
 発見するといきなり飛び出してくる。
@@ -21,7 +21,7 @@ BRIEFING_FILES_BLOCK_020160,3,stream=0x20000;block=0x160;text=3,"[""stream=0x200
 だ。
 ","それとやつら、普通の武器も使うがワイヤーも持ち歩いて
 るらしい。
-","[""<R= 掃討 ,クリアリング>""]","战斗方式和突击兵很接近，还会进行<R= 扫荡 ,clearing>。","<R= 扫荡 ,clearing>",MATCH,108,72,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;SOURCE_SPACING_PRESERVED
+","[""<R= 掃討 ,クリアリング>""]","战斗方式和突击兵很接近，还会进行<R=扫荡,clearing>。","<R=扫荡,clearing>",MATCH,108,70,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED;SOURCE_SPACING_PRESERVED
 BRIEFING_FILES_BLOCK_020160,4,stream=0x20000;block=0x160;text=4,"[""stream=0x20000;block=0x160;text=4""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x160;block_file=0x20160;text_base=0x2019C;capacity=744""]","戦い方としてはコマンド兵に近い。<R= 掃討 ,クリアリング>をかけてくるん
 だ。
 ","それとやつら、普通の武器も使うがワイヤーも持ち歩いて
@@ -37,4 +37,5 @@ BRIEFING_FILES_BLOCK_020160,5,stream=0x20000;block=0x160;text=5,"[""stream=0x200
 BRIEFING_FILES_BLOCK_020160,6,stream=0x20000;block=0x160;text=6,"[""stream=0x20000;block=0x160;text=6""]",1,BRIEFING FILES,"[""stream=0x20000;block=0x160;block_file=0x20160;text_base=0x2019C;capacity=744""]","ふむ…CQCに自信がある連中のようだな。
 ","あるいはな。仕掛けた近接戦闘をワイヤーでブロックされ
 たっていう報告も届いてるそうだ。気をつけてくれ。
-",,[],或许吧。听说已经有报告称，主动发起近身战时会被他们用钢索挡下来。小心点。,,MATCH,152,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FINAL_WARNING_RESTORED
+",,[],"或许吧。听说已经有报告称，
+主动发起近身战时会被他们用钢索挡下来。小心点。",,MATCH,152,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_FINAL_WARNING_RESTORED

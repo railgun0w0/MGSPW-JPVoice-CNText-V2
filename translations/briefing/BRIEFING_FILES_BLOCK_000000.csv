@@ -32,7 +32,8 @@ BRIEFING_FILES_BLOCK_000000,4,stream=0x0;block=0x0;text=4,"[""stream=0x0;block=0
 ","建造にあたっては、もちろん政府や企業の援助もあったん
 だろう。だが、結局熱効率の問題を解決できずに研究は中
 止。
-","[""<R=海洋温度差発電,OTEC>""]","看样子，这座平台是美国一所大学为研究<R=海洋温差发电,OTEC>而建的。锈迹斑斑的发电涡轮上还留着校名。","<R=海洋温差发电,OTEC>",MATCH,195,141,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_REFERENCE_PARTIAL
+","[""<R=海洋温度差発電,OTEC>""]","看样子，这座平台是美国一所大学为研究<R=海洋温差发电,OTEC>而建的。
+锈迹斑斑的发电涡轮上还留着校名。","<R=海洋温差发电,OTEC>",MATCH,195,142,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_REFERENCE_PARTIAL
 BRIEFING_FILES_BLOCK_000000,5,stream=0x0;block=0x0;text=5,"[""stream=0x0;block=0x0;text=5""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","どうやらこのプラント、アメリカの大学が<R=海洋温度差発電,OTEC>
 の研究用に造ったものらしい。サビだらけの発電タービン
 に名前が残ってた。
@@ -41,7 +42,8 @@ BRIEFING_FILES_BLOCK_000000,5,stream=0x0;block=0x0;text=5,"[""stream=0x0;block=0
 止。
 ","廃棄されたこいつを、KGBのフロント企業が安く買い叩い
 た…ってとこじゃないか？
-",[],建造时当然也得到过政府和企业援助吧。可最终还是没能解决热效率问题，研究就此中止。,,MATCH,165,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;SEGMENTATION_REBUILT
+",[],"建造时当然也得到过政府和企业援助吧。
+可最终还是没能解决热效率问题，研究就此中止。",,MATCH,165,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;SEGMENTATION_REBUILT
 BRIEFING_FILES_BLOCK_000000,6,stream=0x0;block=0x0;text=6,"[""stream=0x0;block=0x0;text=6""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","建造にあたっては、もちろん政府や企業の援助もあったん
 だろう。だが、結局熱効率の問題を解決できずに研究は中
 止。
@@ -49,7 +51,8 @@ BRIEFING_FILES_BLOCK_000000,6,stream=0x0;block=0x0;text=6,"[""stream=0x0;block=0
 た…ってとこじゃないか？
 ","フロント企業を通したとは言え、よくKGBがアメリカ資本
 のプラントを買えたな。
-",[],KGB通过一家掩护企业，把这座废弃平台低价买了下来……大概就是这么回事吧？,,MATCH,113,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
+",[],"KGB通过一家掩护企业，
+把这座废弃平台低价买了下来……大概就是这么回事吧？",,MATCH,113,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION
 BRIEFING_FILES_BLOCK_000000,7,stream=0x0;block=0x0;text=7,"[""stream=0x0;block=0x0;text=7""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","廃棄されたこいつを、KGBのフロント企業が安く買い叩い
 た…ってとこじゃないか？
 ","フロント企業を通したとは言え、よくKGBがアメリカ資本
@@ -77,7 +80,8 @@ BRIEFING_FILES_BLOCK_000000,11,stream=0x0;block=0x0;text=11,"[""stream=0x0;block
 ","俺たちがそいつをやってやろう。人を集めて、物を作り、
 MSFの拠点として、プラントを拡大するんだ。
 ","よろしく頼む、ボス。
-",[],就由我们来实现这个计划吧。招募人手、生产物资，把平台扩建成MSF的基地。,,MATCH,140,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_COMPRESSES_DETAILS
+",[],"就由我们来实现这个计划吧。
+招募人手、生产物资，把平台扩建成MSF的基地。",,MATCH,140,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=JPN_DIRECT_TRANSLATION;AUX_REFERENCE_COMPRESSES_DETAILS
 BRIEFING_FILES_BLOCK_000000,12,stream=0x0;block=0x0;text=12,"[""stream=0x0;block=0x0;text=12""]",1,BRIEFING FILES,"[""stream=0x0;block=0x0;block_file=0x0;text_base=0x54;capacity=1452""]","俺たちがそいつをやってやろう。人を集めて、物を作り、
 MSFの拠点として、プラントを拡大するんだ。
 ","よろしく頼む、ボス。

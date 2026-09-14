@@ -167,7 +167,7 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 - 29 个初始 GTT hard-overflow record 已按人工审定短译文固化；重新计算后为 20 normal fit、9 alignment spill、0 hard overflow。全体 GTT 为 1,815 normal fit、67 alignment spill、0 hard overflow。
 - 统一 SLOT 构建从 clean JPN 合并 742 个 SLOT OLANG、77 个 YPK/GTT 和 4 个 OHD physical occurrences，共 823 个目标 tag、110 pages、0 block overflow。
 - 14 个 loose OLANG、123 个 STAGEDAT embedded OLANG entries 以及中文字库已与统一 SLOT 组成 `build/readiness/full_package/`。
-- `1C79F2AD` 和 `5D3AF52D` 是已通过实机的 golden fixture；其余完整资源等待统一实机验证。
+- `1C79F2AD` 和 `5D3AF52D` 的 golden 仅保留为历史/结构 regression fixture；production compiler 不读取其中文正文，也不以其覆盖当前 mapping。其余完整资源等待统一实机验证。
 
 ## 十、接下来的执行顺序
 

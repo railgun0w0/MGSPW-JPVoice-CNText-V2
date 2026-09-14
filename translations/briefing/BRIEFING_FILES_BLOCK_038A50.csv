@@ -2,7 +2,8 @@
 BRIEFING_FILES_BLOCK_038A50,0,stream=0x38000;block=0xA50;text=0,"[""stream=0x38000;block=0xA50;text=0""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]",,"コリブリから助けてもらって以来、世話になりっぱなしね。
 あたしも何か手伝わないと。
 ","怪我が治ってからでいい。
-",[],自从你把我从El Colibrí那里救出来以后，一直受你照顾。我也得帮点什么才行。,,MATCH,122,104,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"自从你把我从El Colibrí那里救出来以后，一直受你照顾。
+我也得帮点什么才行。",,MATCH,122,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_038A50,1,stream=0x38000;block=0xA50;text=1,"[""stream=0x38000;block=0xA50;text=1""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","コリブリから助けてもらって以来、世話になりっぱなしね。
 あたしも何か手伝わないと。
 ","怪我が治ってからでいい。
@@ -19,14 +20,15 @@ BRIEFING_FILES_BLOCK_038A50,3,stream=0x38000;block=0xA50;text=3,"[""stream=0x380
 が動くようになれば十分。実戦部隊でだって、役に立って
 みせる。
 ","さすがは<R= FSLN ,サンディニスタ>の<R= 司令官 ,コマンダンテ>だ。
-",[],伤完全好也许还要一阵子，但只要能活动身体就够了。就算编进实战部队，我也一定会派上用场。,,MATCH,171,129,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"伤完全好也许还要一阵子，但只要能活动身体就够了。
+就算编进实战部队，我也一定会派上用场。",,MATCH,171,130,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_038A50,4,stream=0x38000;block=0xA50;text=4,"[""stream=0x38000;block=0xA50;text=4""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","怪我が治り切るには時間がかかるかも知れないけど、身体
 が動くようになれば十分。実戦部隊でだって、役に立って
 みせる。
 ","さすがは<R= FSLN ,サンディニスタ>の<R= 司令官 ,コマンダンテ>だ。
 ","よしてよ。でも実際、<R=同志,コンパ>が頑張ってるのに、あたしだけ
 ぶらぶらしてるってのもね。
-","[""<R= FSLN ,サンディニスタ>"", ""<R= 司令官 ,コマンダンテ>""]","不愧是<R= FSLN ,SANDINISTA>的<R= 司令官 ,COMANDANTE>。","<R= FSLN ,SANDINISTA> | <R= 司令官 ,COMANDANTE>",MATCH,88,62,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
+","[""<R= FSLN ,サンディニスタ>"", ""<R= 司令官 ,コマンダンテ>""]","不愧是<R=FSLN,SANDINISTA>的<R=指挥官,COMANDANTE>。","<R=FSLN,SANDINISTA> | <R=指挥官,COMANDANTE>",MATCH,88,58,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED; SOURCE_RUBY_SPACING_PRESERVED
 BRIEFING_FILES_BLOCK_038A50,5,stream=0x38000;block=0xA50;text=5,"[""stream=0x38000;block=0xA50;text=5""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","さすがは<R= FSLN ,サンディニスタ>の<R= 司令官 ,コマンダンテ>だ。
 ","よしてよ。でも実際、<R=同志,コンパ>が頑張ってるのに、あたしだけ
 ぶらぶらしてるってのもね。
@@ -40,14 +42,15 @@ BRIEFING_FILES_BLOCK_038A50,6,stream=0x38000;block=0xA50;text=6,"[""stream=0x380
 ","もちろん、あたし達の目的は、ソモサ政権の打倒。でも、
 態勢を立て直すまでは、しっかりあなた達に協力するつも
 りよ。
-","[""<R=FSLN兵,サンディニスタ>""]","确实，如果你加入，<R=FSLN士兵,SANDINISTA>的士气也许会提高。","<R=FSLN士兵,SANDINISTA>",MATCH,122,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
+","[""<R=FSLN兵,サンディニスタ>""]","确实，如果你加入，<R=FSLN战士,SANDINISTA>的士气也许会提高。","<R=FSLN战士,SANDINISTA>",MATCH,122,79,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_READING_ROMANIZED
 BRIEFING_FILES_BLOCK_038A50,7,stream=0x38000;block=0xA50;text=7,"[""stream=0x38000;block=0xA50;text=7""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","確かに、君が加わってくれれば、<R=FSLN兵,サンディニスタ>の士気も上がる
 かも知れんな。
 ","もちろん、あたし達の目的は、ソモサ政権の打倒。でも、
 態勢を立て直すまでは、しっかりあなた達に協力するつも
 りよ。
 ","ありがたい。よろしく頼む。
-",[],当然，我们的目标是推翻Somoza政权。但在我们重整态势之前，我们会全力协助你们。,,MATCH,168,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"当然，我们的目标是推翻Somoza政权。
+但在我们重整态势之前，我们会全力协助你们。",,MATCH,168,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_038A50,8,stream=0x38000;block=0xA50;text=8,"[""stream=0x38000;block=0xA50;text=8""]",1,BRIEFING FILES,"[""stream=0x38000;block=0xA50;block_file=0x38A50;text_base=0x38A94;capacity=960""]","もちろん、あたし達の目的は、ソモサ政権の打倒。でも、
 態勢を立て直すまでは、しっかりあなた達に協力するつも
 りよ。

@@ -33,21 +33,21 @@
     },
     {
       "unique_index": 4,
-      "cn_text": "看样子，这座平台是美国一所大学为研究<R=海洋温差发电,OTEC>而建的。锈迹斑斑的发电涡轮上还留着校名。",
+      "cn_text": "看样子，这座平台是美国一所大学为研究<R=海洋温差发电,OTEC>而建的。\n锈迹斑斑的发电涡轮上还留着校名。",
       "cn_control_tokens": "<R=海洋温差发电,OTEC>",
       "cn_utf8_bytes": 141,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;AUX_REFERENCE_PARTIAL"
     },
     {
       "unique_index": 5,
-      "cn_text": "建造时当然也得到过政府和企业援助吧。可最终还是没能解决热效率问题，研究就此中止。",
+      "cn_text": "建造时当然也得到过政府和企业援助吧。\n可最终还是没能解决热效率问题，研究就此中止。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 120,
       "review_flag": "JPN_DIRECT_TRANSLATION;SEGMENTATION_REBUILT"
     },
     {
       "unique_index": 6,
-      "cn_text": "KGB通过一家掩护企业，把这座废弃平台低价买了下来……大概就是这么回事吧？",
+      "cn_text": "KGB通过一家掩护企业，\n把这座废弃平台低价买了下来……大概就是这么回事吧？",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 105,
       "review_flag": "JPN_DIRECT_TRANSLATION"
@@ -82,7 +82,7 @@
     },
     {
       "unique_index": 11,
-      "cn_text": "就由我们来实现这个计划吧。招募人手、生产物资，把平台扩建成MSF的基地。",
+      "cn_text": "就由我们来实现这个计划吧。\n招募人手、生产物资，把平台扩建成MSF的基地。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 102,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_REFERENCE_COMPRESSES_DETAILS"

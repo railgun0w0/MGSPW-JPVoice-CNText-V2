@@ -19,7 +19,7 @@
     },
     {
       "unique_index": 2,
-      "cn_text": "看来，由苏联在古巴部署核武器所引发的一连串危机，正是促成条约签订的契机。",
+      "cn_text": "看来，由苏联在古巴部署核武器所引发的一连串危机，\n正是促成条约签订的契机。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 108,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_TREATY_CAUSATION"
@@ -40,7 +40,7 @@
     },
     {
       "unique_index": 5,
-      "cn_text": "话虽如此，这项条约已经有20多个国家批准。要是公然践踏，必然会遭到国际社会谴责。",
+      "cn_text": "话虽如此，这项条约已经有20多个国家批准。\n要是公然践踏，必然会遭到国际社会谴责。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 116,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_INTERNATIONAL_CONDEMNATION"
@@ -61,14 +61,14 @@
     },
     {
       "unique_index": 8,
-      "cn_text": "不过，《特拉特洛尔科条约》还要求拥核国家「不得对成员国使用核武器」。",
+      "cn_text": "不过，\n《特拉特洛尔科条约》还要求拥核国家「不得对成员国使用核武器」。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 102,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_PARAPHRASE_IGNORED"
     },
     {
       "unique_index": 9,
-      "cn_text": "这正是它与无核三原则大不相同的地方。也就是说，它还有第4项原则。",
+      "cn_text": "这正是它与无核三原则大不相同的地方。\n也就是说，它还有第4项原则。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 94,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_FOURTH_PRINCIPLE"

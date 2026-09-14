@@ -5,21 +5,21 @@
   "translations": [
     {
       "unique_index": 0,
-      "cn_text": "不只是哥斯达黎加。整个中南美洲都因冷战的影响，被大国搅得天翻地覆。",
+      "cn_text": "不只是哥斯达黎加。\n整个中南美洲都因冷战的影响，被大国搅得天翻地覆。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 99,
       "review_flag": "JPN_DIRECT_TRANSLATION;AUX_OMITS_COSTA_RICA"
     },
     {
       "unique_index": 1,
-      "cn_text": "把东西方一分为二的意识形态对立，说到底也不过是统治阶级之间争夺财富吧。",
+      "cn_text": "把东西方一分为二的意识形态对立，\n说到底也不过是统治阶级之间争夺财富吧。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 105,
       "review_flag": "JPN_DIRECT_TRANSLATION"
     },
     {
       "unique_index": 2,
-      "cn_text": "对西方的<R=有钱人,ブルジョア>来说，要是国家共产主义化可就麻烦了。毕竟共产主义本来就否定私有财产。",
+      "cn_text": "对西方的<R=有钱人,BOURGEOIS>来说，要是国家共产主义化可就麻烦了。\n毕竟共产主义本来就否定私有财产。",
       "cn_control_tokens": "<R=有钱人,ブルジョア>",
       "cn_utf8_bytes": 143,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
@@ -33,7 +33,7 @@
     },
     {
       "unique_index": 4,
-      "cn_text": "还发生过所谓的<R=共产主义者,アカ>搜捕。",
+      "cn_text": "还发生过所谓的<R=共产主义者,RED>搜捕。",
       "cn_control_tokens": "<R=共产主义者,アカ>",
       "cn_utf8_bytes": 56,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED"
@@ -47,14 +47,14 @@
     },
     {
       "unique_index": 6,
-      "cn_text": "试图摆脱阶级社会，结果却成了斯大林的独裁，以及由<R= 特权阶级 ,ノーメンクラツーラ>统治民众。",
+      "cn_text": "试图摆脱阶级社会，结果却成了斯大林的独裁，\n以及由<R=特权阶级,NOMENKLATURA>统治民众。",
       "cn_control_tokens": "<R= 特权阶级 ,ノーメンクラツーラ>",
       "cn_utf8_bytes": 133,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_LOCALIZED;CONTROL_INTERNAL_SPACES_PRESERVED"
     },
     {
       "unique_index": 7,
-      "cn_text": "掌握权力的人已经不会再追求平等。这就是共产主义——不，是名为社会的这个群体的极限。",
+      "cn_text": "掌握权力的人已经不会再追求平等。\n这就是共产主义——不，是名为社会的这个群体的极限。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 123,
       "review_flag": "JPN_DIRECT_TRANSLATION"
@@ -68,7 +68,7 @@
     },
     {
       "unique_index": 9,
-      "cn_text": "对方阵营成了威胁自身利益的危险因素。于是，资本主义与共产主义的对立结构就此形成。",
+      "cn_text": "对方阵营成了威胁自身利益的危险因素。\n于是，资本主义与共产主义的对立结构就此形成。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 120,
       "review_flag": "JPN_DIRECT_TRANSLATION"

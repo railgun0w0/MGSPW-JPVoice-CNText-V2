@@ -2,7 +2,8 @@
 BRIEFING_FILES_BLOCK_031670,0,stream=0x31000;block=0x670;text=0,"[""stream=0x31000;block=0x670;text=0""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]",,"<R=ニカラグア湖,ラゴ・コシボルカ>に浮かぶ火山島が、オメテペ島よ。二つの火
 山がつながって、<R=ヒョウタン,ポロンゴ>のような形になっている。
 ","噴煙を上げているのがそれか。
-","[""<R=ニカラグア湖,ラゴ・コシボルカ>"", ""<R=ヒョウタン,ポロンゴ>""]","浮在<R=尼加拉瓜湖,Lago Cocibolca>上的火山岛就是奥梅特佩岛。两座火山连在一起，形状像<R=葫芦,porongo>。","<R=尼加拉瓜湖,Lago Cocibolca> | <R=葫芦,porongo>",MATCH,201,136,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS
+","[""<R=ニカラグア湖,ラゴ・コシボルカ>"", ""<R=ヒョウタン,ポロンゴ>""]","浮在<R=尼加拉瓜湖,LAGO COCIBOLCA>上的火山岛就是奥梅特佩岛。
+两座火山连在一起，形状像<R=葫芦,porongo>。","<R=尼加拉瓜湖,LAGO COCIBOLCA> | <R=葫芦,porongo>",MATCH,201,137,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_LATIN_READINGS
 BRIEFING_FILES_BLOCK_031670,1,stream=0x31000;block=0x670;text=1,"[""stream=0x31000;block=0x670;text=1""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","<R=ニカラグア湖,ラゴ・コシボルカ>に浮かぶ火山島が、オメテペ島よ。二つの火
 山がつながって、<R=ヒョウタン,ポロンゴ>のような形になっている。
 ","噴煙を上げているのがそれか。
@@ -36,9 +37,10 @@ BRIEFING_FILES_BLOCK_031670,6,stream=0x31000;block=0x670;text=6,"[""stream=0x310
 グマにも影響して、火山がまた噴火するかも知れない。
 ","そんなことになったら、<R=祖国,ニカラグア>はおしまいよ。絶対にピース
 ウォーカーを止めて、スネーク！
-",[],如果和平行者的核武器在这里爆炸，可能会影响地下岩浆，让火山再次喷发。,,MATCH,155,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ERUPTION_CONSEQUENCE_RESTORED
+",[],"如果和平行者的核武器在这里爆炸，
+可能会影响地下岩浆，让火山再次喷发。",,MATCH,155,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_ERUPTION_CONSEQUENCE_RESTORED
 BRIEFING_FILES_BLOCK_031670,7,stream=0x31000;block=0x670;text=7,"[""stream=0x31000;block=0x670;text=7""]",1,BRIEFING FILES,"[""stream=0x31000;block=0x670;block_file=0x31670;text_base=0x316B0;capacity=864""]","もしピースウォーカーの核がここで爆発したら、地下のマ
 グマにも影響して、火山がまた噴火するかも知れない。
 ","そんなことになったら、<R=祖国,ニカラグア>はおしまいよ。絶対にピース
 ウォーカーを止めて、スネーク！
-",,"[""<R=祖国,ニカラグア>""]","真变成那样，<R=祖国,尼加拉瓜>就完了。一定要阻止和平行者，Snake！","<R=祖国,尼加拉瓜>",MATCH,145,91,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_PROPER_NAME
+",,"[""<R=祖国,ニカラグア>""]","真变成那样，<R=祖国,NICARAGUA>就完了。一定要阻止和平行者，Snake！","<R=祖国,NICARAGUA>",MATCH,145,88,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED_PROPER_NAME

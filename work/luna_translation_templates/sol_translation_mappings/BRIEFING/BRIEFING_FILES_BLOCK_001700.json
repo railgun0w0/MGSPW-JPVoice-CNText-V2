@@ -19,7 +19,7 @@
     },
     {
       "unique_index": 2,
-      "cn_text": "<R=Militaires,ミリテール> <R=Sans,サン> <R=Frontières,フロンティエール>的宗旨，是不受国家和思想束缚，向有需要的地区和势力提供他们所需的军事力量。",
+      "cn_text": "<R=Militaires,MILITAIRES> <R=Sans,SANS> <R=Frontières,FRONTIÈRES>的宗旨，是不受国家和思想束缚，\n向有需要的地区和势力提供他们所需的军事力量。",
       "cn_control_tokens": "<R=Militaires,ミリテール> <R=Sans,サン> <R=Frontières,フロンティエール>",
       "cn_utf8_bytes": 198,
       "review_flag": "JPN_DIRECT_TRANSLATION;RUBY_PRESERVED"
@@ -47,7 +47,7 @@
     },
     {
       "unique_index": 6,
-      "cn_text": "MSF的标志以2亿5千万年前的盘古大陆为原型。那是世界还是一整块大陆的时代。",
+      "cn_text": "MSF的标志以2亿5千万年前的盘古大陆为原型。\n那是世界还是一整块大陆的时代。",
       "cn_control_tokens": "",
       "cn_utf8_bytes": 104,
       "review_flag": "JPN_DIRECT_TRANSLATION"

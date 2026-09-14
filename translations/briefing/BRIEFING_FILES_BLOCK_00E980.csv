@@ -10,13 +10,15 @@ BRIEFING_FILES_BLOCK_00E980,1,stream=0xE000;block=0x980;text=1,"[""stream=0xE000
 でも東京の3分の1が燃えて無くなった。
 ","俺のお袋はこの空襲で家族と家を亡くした。それで横須賀
 の従姉を頼って引っ越したんだ。
-",[],当时日本的房屋几乎都是木造的。仅仅这一天，东京就有三分之一被烧毁。,,MATCH,133,99,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"当时日本的房屋几乎都是木造的。
+仅仅这一天，东京就有三分之一被烧毁。",,MATCH,133,100,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,2,stream=0xE000;block=0x980;text=2,"[""stream=0xE000;block=0x980;text=2""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","当時の日本家屋は木造がほとんどだったんだ。この日だけ
 でも東京の3分の1が燃えて無くなった。
 ","俺のお袋はこの空襲で家族と家を亡くした。それで横須賀
 の従姉を頼って引っ越したんだ。
 ","B29はそれからも日本の主要都市を容赦なく焼き払った。
-",[],我母亲在这场空袭中失去了家人和家园。于是她投奔住在横须贺的表姐，搬到了那里。,,MATCH,125,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"我母亲在这场空袭中失去了家人和家园。
+于是她投奔住在横须贺的表姐，搬到了那里。",,MATCH,125,115,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,3,stream=0xE000;block=0x980;text=3,"[""stream=0xE000;block=0x980;text=3""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","俺のお袋はこの空襲で家族と家を亡くした。それで横須賀
 の従姉を頼って引っ越したんだ。
 ","B29はそれからも日本の主要都市を容赦なく焼き払った。
@@ -39,7 +41,8 @@ BRIEFING_FILES_BLOCK_00E980,6,stream=0xE000;block=0x980;text=6,"[""stream=0xE000
 方法を教えたんだ。アメリカ兵を相手にな。
 ","そこでお袋は親父と知り合った。それで、俺が生まれたん
 だ。
-",[],母亲当时才十五六岁，表姐教她怎么在这座城市活下去——做美国兵的生意。,,MATCH,139,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"母亲当时才十五六岁，
+表姐教她怎么在这座城市活下去——做美国兵的生意。",,MATCH,139,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,7,stream=0xE000;block=0x980;text=7,"[""stream=0xE000;block=0x980;text=7""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","従姉はまだ10代も半ばだったお袋に、この町で生きていく
 方法を教えたんだ。アメリカ兵を相手にな。
 ","そこでお袋は親父と知り合った。それで、俺が生まれたん
@@ -53,20 +56,23 @@ BRIEFING_FILES_BLOCK_00E980,8,stream=0xE000;block=0x980;text=8,"[""stream=0xE000
 イットニー准将の元で働いていた将校だった。
 ","マッカーサーの分身と言われた男の下だ。親父もそれなり
 の地位だったろう。
-","[""<R=連合国軍最高司令官総司令部,GHQ>"", ""<R=幕僚部民政局,GS>""]","父亲是个军官，在<R=盟军最高司令官总司令部,GHQ>的<R=参谋部民政局,GS>工作，隶属惠特尼准将。","<R=盟军最高司令官总司令部,GHQ> | <R=参谋部民政局,GS>",MATCH,158,126,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
+","[""<R=連合国軍最高司令官総司令部,GHQ>"", ""<R=幕僚部民政局,GS>""]","父亲是个军官，在<R=盟军最高司令官总司令部,GHQ>的<R=参谋部民政局,GS>工作，
+隶属惠特尼准将。","<R=盟军最高司令官总司令部,GHQ> | <R=参谋部民政局,GS>",MATCH,158,127,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=RUBY_LOCALIZED
 BRIEFING_FILES_BLOCK_00E980,9,stream=0xE000;block=0x980;text=9,"[""stream=0xE000;block=0x980;text=9""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は<R=連合国軍最高司令官総司令部,GHQ>の<R=幕僚部民政局,GS>で、ホ
 イットニー准将の元で働いていた将校だった。
 ","マッカーサーの分身と言われた男の下だ。親父もそれなり
 の地位だったろう。
 ","在日中、お袋を妻のように扱っていたというが、アメリカ
 に戻ってから、もう連絡はなかった。
-",[],他是在那个被称为麦克阿瑟分身的人手下工作。父亲的职位大概也不低。,,MATCH,107,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CAUSAL_EXPANSION_IGNORED
+",[],"他是在那个被称为麦克阿瑟分身的人手下工作。
+父亲的职位大概也不低。",,MATCH,107,97,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_CAUSAL_EXPANSION_IGNORED
 BRIEFING_FILES_BLOCK_00E980,10,stream=0xE000;block=0x980;text=10,"[""stream=0xE000;block=0x980;text=10""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","マッカーサーの分身と言われた男の下だ。親父もそれなり
 の地位だったろう。
 ","在日中、お袋を妻のように扱っていたというが、アメリカ
 に戻ってから、もう連絡はなかった。
 ","俺が生まれたのは親父がアメリカに戻った後だった。
-",[],听说父亲在日本时把母亲当妻子一样对待，可回到美国以后，就再也没有联系。,,MATCH,131,105,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"听说父亲在日本时把母亲当妻子一样对待，
+可回到美国以后，就再也没有联系。",,MATCH,131,106,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,11,stream=0xE000;block=0x980;text=11,"[""stream=0xE000;block=0x980;text=11""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","在日中、お袋を妻のように扱っていたというが、アメリカ
 に戻ってから、もう連絡はなかった。
 ","俺が生まれたのは親父がアメリカに戻った後だった。
@@ -79,7 +85,8 @@ BRIEFING_FILES_BLOCK_00E980,12,stream=0xE000;block=0x980;text=12,"[""stream=0xE0
 ","生活は人並み。だが俺には国籍がなかった。今は改正の動
 きもあるが、日本は父親がわからないと戸籍がとれないん
 だ。
-",[],母亲一个人把我养大。她用父亲留下的那点钱开了家店，向占领军卖香烟之类的东西。,,MATCH,152,114,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"母亲一个人把我养大。
+她用父亲留下的那点钱开了家店，向占领军卖香烟之类的东西。",,MATCH,152,115,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,13,stream=0xE000;block=0x980;text=13,"[""stream=0xE000;block=0x980;text=13""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","お袋は一人で俺を育ててくれた。親父が残したはした金で
 店を開いて、進駐軍相手に煙草なんかを売っていた。
 ","生活は人並み。だが俺には国籍がなかった。今は改正の動
@@ -87,7 +94,8 @@ BRIEFING_FILES_BLOCK_00E980,13,stream=0xE000;block=0x980;text=13,"[""stream=0xE0
 だ。
 ","だから俺は街のアメリカ兵を見ながら、自分に言い聞かせ
 た。
-",[],日子和普通人差不多。但我没有国籍。如今虽然也在推动改革，可在日本，如果不知道父亲是谁，就拿不到户籍。,,MATCH,165,150,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"日子和普通人差不多。但我没有国籍。如今虽然也在推动改革，
+可在日本，如果不知道父亲是谁，就拿不到户籍。",,MATCH,165,151,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,14,stream=0xE000;block=0x980;text=14,"[""stream=0xE000;block=0x980;text=14""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","生活は人並み。だが俺には国籍がなかった。今は改正の動
 きもあるが、日本は父親がわからないと戸籍がとれないん
 だ。
@@ -186,7 +194,8 @@ BRIEFING_FILES_BLOCK_00E980,32,stream=0xE000;block=0x980;text=32,"[""stream=0xE0
 俺の髪の色を笑っていた近所の奴らが目を丸くして俺を見
 ていた。
 ","お袋を病院に入れて、俺は一人でアメリカに渡った。
-",[],父亲安排的漆黑轿车来接我。那些一直嘲笑我发色的邻居们，全都瞪大眼睛看着我。,,MATCH,171,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_NEIGHBOR_NARROWING_IGNORED
+",[],"父亲安排的漆黑轿车来接我。
+那些一直嘲笑我发色的邻居们，全都瞪大眼睛看着我。",,MATCH,171,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_NEIGHBOR_NARROWING_IGNORED
 BRIEFING_FILES_BLOCK_00E980,33,stream=0xE000;block=0x980;text=33,"[""stream=0xE000;block=0x980;text=33""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父が手配させた真っ黒な車が俺を迎えに来た。いままで
 俺の髪の色を笑っていた近所の奴らが目を丸くして俺を見
 ていた。
@@ -211,7 +220,8 @@ BRIEFING_FILES_BLOCK_00E980,37,stream=0xE000;block=0x980;text=37,"[""stream=0xE0
 かに興味を持ったんだろう。
 ","親父は講師をやめていた。背中を丸めて、あまり動かなか
 った。
-",[],大概是儿子死了，又赶上离婚，父亲太寂寞了吧……所以才会对我这种人产生兴趣。,,MATCH,119,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"大概是儿子死了，又赶上离婚，
+父亲太寂寞了吧……所以才会对我这种人产生兴趣。",,MATCH,119,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,38,stream=0xE000;block=0x980;text=38,"[""stream=0xE000;block=0x980;text=38""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","親父は離婚も重なって寂しくなったのか…、それで俺なん
 かに興味を持ったんだろう。
 ","親父は講師をやめていた。背中を丸めて、あまり動かなか
@@ -233,7 +243,8 @@ BRIEFING_FILES_BLOCK_00E980,41,stream=0xE000;block=0x980;text=41,"[""stream=0xE0
 戦争しながら、国内じゃ平和を叫んでいたよ。
 ","卒業してすぐ、俺は一人で日本に戻った。親父はお袋に会
 うのを拒んだからな。
-",[],美国已经被旷日持久的越南战争拖得筋疲力尽。一边在国外打仗，一边又在国内高喊和平。,,MATCH,143,120,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"美国已经被旷日持久的越南战争拖得筋疲力尽。
+一边在国外打仗，一边又在国内高喊和平。",,MATCH,143,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,42,stream=0xE000;block=0x980;text=42,"[""stream=0xE000;block=0x980;text=42""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","アメリカは長引くベトナム戦争で疲れ切っていた。他所で
 戦争しながら、国内じゃ平和を叫んでいたよ。
 ","卒業してすぐ、俺は一人で日本に戻った。親父はお袋に会
@@ -271,7 +282,8 @@ BRIEFING_FILES_BLOCK_00E980,48,stream=0xE000;block=0x980;text=48,"[""stream=0xE0
 ","“和平”。お袋がつけた名前、意味は日本語で“平和”。
 ","俺は日本人だった。少なくとも、この小さな日本人の息子
 だったんだ。
-",[],“和平（Kazuhira）”。这是母亲给我取的名字，在日语里意为“和平”。,,MATCH,79,95,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"“和平（Kazuhira）”。
+这是母亲给我取的名字，在日语里意为“和平”。",,MATCH,79,96,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,49,stream=0xE000;block=0x980;text=49,"[""stream=0xE000;block=0x980;text=49""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","“和平”。お袋がつけた名前、意味は日本語で“平和”。
 ","俺は日本人だった。少なくとも、この小さな日本人の息子
 だったんだ。
@@ -284,7 +296,8 @@ BRIEFING_FILES_BLOCK_00E980,50,stream=0xE000;block=0x980;text=50,"[""stream=0xE0
 わかった。
 ","生まれた街と家族を焼かれ、身体も心も戦争に冒されたお
 袋は…。
-",[],直到这时，我才第一次明白母亲为什么给我这个名字，也明白了她寄托其中的心愿。,,MATCH,95,111,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
+",[],"直到这时，我才第一次明白母亲为什么给我这个名字，
+也明白了她寄托其中的心愿。",,MATCH,95,112,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES; review_flag=AUX_PARTIAL_JPN_DETAIL_RESTORED
 BRIEFING_FILES_BLOCK_00E980,51,stream=0xE000;block=0x980;text=51,"[""stream=0xE000;block=0x980;text=51""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","お袋がこの名前をつけた理由が、思いが、このとき初めて
 わかった。
 ","生まれた街と家族を焼かれ、身体も心も戦争に冒されたお
@@ -311,7 +324,8 @@ BRIEFING_FILES_BLOCK_00E980,54,stream=0xE000;block=0x980;text=54,"[""stream=0xE0
 ","去年のオイルショックまで、戦後の日本経済は登り続けて
 いた。もっと強い国になろうとしている。
 ","俺は日本に残り、自衛隊に入った。22だった。
-",[],直到去年的石油危机，战后日本经济一直在增长。这个国家正试图变得更强。,,MATCH,137,102,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"直到去年的石油危机，战后日本经济一直在增长。
+这个国家正试图变得更强。",,MATCH,137,103,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,55,stream=0xE000;block=0x980;text=55,"[""stream=0xE000;block=0x980;text=55""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","去年のオイルショックまで、戦後の日本経済は登り続けて
 いた。もっと強い国になろうとしている。
 ","俺は日本に残り、自衛隊に入った。22だった。
@@ -360,7 +374,8 @@ BRIEFING_FILES_BLOCK_00E980,64,stream=0xE000;block=0x980;text=64,"[""stream=0xE0
 ","…GHQはお袋のような女を作った。日本の平和憲法と自衛
 隊を作った。そしてこの俺を作った。
 ","俺は戦争で生まれたんだ。だが戦争で死にたくない。
-",[],……GHQ造就了像母亲那样的女人，造就了日本的和平宪法和自卫队，也造就了我。,,MATCH,128,108,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
+",[],"……GHQ造就了像母亲那样的女人，
+造就了日本的和平宪法和自卫队，也造就了我。",,MATCH,128,109,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; ENG_CONTEXT_AUXILIARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=BRIEFING_NBE; source_objects=1; physical_jpn_row=YES
 BRIEFING_FILES_BLOCK_00E980,65,stream=0xE000;block=0x980;text=65,"[""stream=0xE000;block=0x980;text=65""]",1,BRIEFING FILES,"[""stream=0xE000;block=0x980;block_file=0xE980;text_base=0xEAB4;capacity=6300""]","…GHQはお袋のような女を作った。日本の平和憲法と自衛
 隊を作った。そしてこの俺を作った。
 ","俺は戦争で生まれたんだ。だが戦争で死にたくない。
