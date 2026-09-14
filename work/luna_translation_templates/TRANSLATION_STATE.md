@@ -3,9 +3,9 @@
 This is the machine-recoverable resume point for the `sol-translation` branch.
 It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
 
-Updated: `2026-09-13T20:26:47+08:00`
+Updated: `2026-09-14T14:24:55+08:00`
 Branch: `sol-translation`
-Latest validated checkpoint commit: `46e97a89d9a1fe0758520cffde5b9eae820710cf`
+Latest validated checkpoint commit: `55ea232e8e1b446856cbd2eab2f6060769481652`
 Total rows / persisted rows: **26686 / 26686**
 Total file_ids / completed file_ids: **710 / 710**
 Current partial file_id: **(none)**
@@ -88,9 +88,9 @@ NEXT_FILE_ID: **`NONE`**
 ## Validation
 
 - Errors: **0**
-- Warnings: **62**
+- Warnings: **430**
 - Progress archives audited: `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-07_10603.md` (7efda3cdd346…), `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-13_TRANSLATION_COMPLETE.md` (c66cfbe67cc1…)
-- historical cn_utf8_bytes mismatch: **53**
+- historical cn_utf8_bytes mismatch: **421**
 - legacy shifted CSV row: **7**
 - conflicting complete representations: **2**
 - WARNING: YPK_GTT/1C7AF3AD: 1C7AF3AD.csv: legacy CSV column shift recovered for 1 row(s): 19; translation is preserved, but a future merge/build step must normalize the row
@@ -885,7 +885,7 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   },
   "completed_file_ids": 710,
   "completed_rows": 26686,
-  "latest_validated_checkpoint_commit": "46e97a89d9a1fe0758520cffde5b9eae820710cf",
+  "latest_validated_checkpoint_commit": "55ea232e8e1b446856cbd2eab2f6060769481652",
   "legacy_tracker_snapshot": {
     "by_resource_class": {}
   },
@@ -927,6 +927,6 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   "total_rows": 26686,
   "tracker_reconciliation": [],
   "validation_errors": 0,
-  "validation_warnings": 62
+  "validation_warnings": 430
 }
 END TRANSLATION STATE JSON -->
