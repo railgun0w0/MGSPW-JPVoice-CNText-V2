@@ -42,4 +42,4 @@ V2 的硬规则：
 - `build/readiness/full_package/` 已组成新的 21 文件统一 readiness 包：合并 SLOT DAT/KEY、14 个 loose OLANG、STAGEDAT、BRIEFING DAT 和 3 个已验证中文字库；逐文件 hash mismatch 为 0。
 - 当前 21 文件统一包已用于实机验证，BRIEFING、任务结束无线电和任务结算武器经验字段均通过当前测试；安装正式版本时仍应重新备份原始文件。
 - 标题 UI 的 `NEW GAME`、`LOAD GAME`、`DELETE` 英文标签已通过实机验证。此次 ASCII UI 回归修复共恢复/保留 351 条高风险文本，后续不得把纯 ASCII UI 默认改成依赖未覆盖中文 glyph 的译文。
-- 任务结束无线电资源已实机命中中文，BRIEFING 已完成已知长句换行修复；任务结算武器经验字段也已实机通过，但具体原因暂不下结论。当前剩余验收重点是中文/日文缺字和固定 UI 长文本排版；GTT 容量与 alignment 优化统一留待中文润色后处理。
+- 任务结束无线电资源已实机命中中文，BRIEFING 已完成已知长句换行修复；任务结算武器经验字段和固定 UI 长文本也已实机通过。当前剩余验收重点收敛为中文/日文缺字；GTT 容量与 alignment 优化统一留待中文润色后处理。

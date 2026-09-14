@@ -134,7 +134,7 @@ python tools/Assemble-JpnCnTestPackage.py
 当前第一优先级是完成可运行 MVP，不在构建前扩张为旧五类翻译体系重构：
 
 - MVP 已完成（离线）：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、统一测试包集成。
-- MVP 实机进度：FILES/MISSION 运行时命中、中文显示和已知显式换行/长句排版已通过测试；全量字库覆盖与新增文本回归仍需持续验收。
+- MVP 实机进度：FILES/MISSION 运行时命中、中文显示和已知显式换行/长句排版已通过测试；BRIEFING 当前不再有已知阻塞，后续仅需随字库和新增文本继续回归。
 - MVP 保持：BRIEFING 继续使用 5,645 个独立物理 translation rows，保证每个上下文可以单独译写并精确绑定。
 - MVP 不做：不重新拆分或重译旧五类 21,041 个聚合 translation rows，不把全局通用 schema 改造作为 BRIEFING 构建前置条件。
 

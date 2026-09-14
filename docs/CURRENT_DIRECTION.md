@@ -196,7 +196,7 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 本次修复覆盖全局筛出的 351 条高风险 ASCII UI 文本，采用 JPN 原文作为回退，不改变
 JPN 结构、record/reference 数量、时序或 metadata。统一包安装校验为 `VERIFY_MISMATCHES=0`。
 
-该结果证明标题/UI 英文缺字回归已解决。任务后无线电、BRIEFING 已知长句换行和任务结算武器经验字段均已通过当前实机测试；BRIEFING 的两个已知 overflow 已通过 layout audit。其他中文缺字和固定 UI 长文本排版仍按 `V1_INGAME_ISSUES_2026-09-09.md` 继续验收。
+该结果证明标题/UI 英文缺字回归已解决。任务后无线电、BRIEFING 已知长句换行、任务结算武器经验字段和固定 UI 长文本均已通过当前实机测试；BRIEFING 的两个已知 overflow 已通过 layout audit。当前剩余验收重点收敛为中文/日文缺字和完整字库覆盖。
 
 GTT 的容量、alignment spill、压缩余量和相关文本长度优化不在当前生产修复范围内，统一列为中文润色完成后的后续优化项目；当前以 `HARD_OVERFLOW=0`、`BLOCK_OVERFLOW=0` 和 round-trip PASS 作为生产门槛。
 
