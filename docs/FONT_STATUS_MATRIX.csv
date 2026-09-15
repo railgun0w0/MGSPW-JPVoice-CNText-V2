@@ -1,0 +1,16 @@
+key,status_class,status,evidence,notes
+GOLDEN_V2_FONT_PIPELINE,STATIC_CONFIRMED,PRESERVED,FONT_V2_CODE_ARCHAEOLOGY.md,MLG 0007/000E copy plus 0007 decrypt/rekey to 00C7; no internal FontData/TX2D rebuild
+MAIN_00C7_FORMAT,STATIC_CONFIRMED,UNDERSTOOD,FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md,4096x4096 format2 linear 1-byte atlas; direct charmap-to-record indexing
+MAIN_00C7_APPEND_RUNTIME,RUNTIME_CONFIRMED,VALIDATED,TEST2B_COUNT_PATCH and TEST3B_NEW_ATLAS_WITH_COUNT,Count mirror at USER+0x1FED4 is required and append/new slot passed runtime
+GENERATED_GLYPH_RUNTIME,RUNTIME_CONFIRMED,VALIDATED,TEST_REAL_GLYPH_JUE and glyph_generation_profile_v1.json,Real 厥 glyph and current generated profile runtime-confirmed; final source policy remains undecided
+LOADING_FONT_PATH,RUNTIME_CONFIRMED,VALIDATED,LOADING_SMALL_JPN_STATUS.md,Loading fixture identifies JPN/001cbbd1.xpr and its own TX2D
+LOADING_GLYPH_REPLACEMENT,RUNTIME_CONFIRMED,VALIDATED,small_jpn_men_manifest.json,们 append PoC displayed instead of fallback dot
+LOADING_FONT_STYLE,UNRESOLVED,UNRESOLVED,LOADING_SMALL_JPN_STATUS.md,Technical path works but small glyph style is not final
+FINAL_MAIN_FONT_STYLE,UNRESOLVED,UNDECIDED,FONT_GLYPH_STYLE_TUNING.md,Noto D is a fallback profile only
+FINAL_SMALL_FONT_STYLE,UNRESOLVED,UNDECIDED,LOADING_SMALL_JPN_STATUS.md,No final Loading/SMALL raster profile selected
+FINAL_GLYPH_SOURCE_POLICY,UNRESOLVED,UNDECIDED,FONT_GLYPH_STYLE_TUNING.md and PSP_CN_ARCHAEOLOGY.md,MLG-only donor/generated/unified rebuild choices remain open
+LARGE_MULTI_GLYPH_RELOCATION,UNRESOLVED,UNRESOLVED,FONT_APPEND_CAPACITY_AUDIT.md,Single glyph success does not prove large relocation
+PRODUCTION_FONT_BUILDER,UNRESOLVED,NOT_COMPLETED,FONT_V2_CODE_ARCHAEOLOGY.md,No completed production multi-glyph builder is recorded
+YAHEI_CRASH,FAILED / DEPRECATED EXPERIMENT,NOT_REPRODUCIBLE,YAHEI_CRASH_DIFF_AUDIT.md,One-off crash not reproduced; structural diff was bitmap-only and outer encryption valid
+SELECTOR_AWARE_REBUILD,FAILED / DEPRECATED EXPERIMENT,FAILED,FONT_V2_CODE_ARCHAEOLOGY.md,Widespread garbling; not a production route
+APPEND_WITHOUT_COUNT,FAILED / DEPRECATED EXPERIMENT,BLANK,FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md,3209 without count mirror was rejected by runtime

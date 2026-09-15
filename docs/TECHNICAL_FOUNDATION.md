@@ -14,6 +14,8 @@
 
 发生冲突时，高优先级证据覆盖低优先级结论。本文记录格式与构建基础；是否生成或安装补丁仍以每次任务的明确授权为准。
 
+FONT 状态入口：[FONT_TECHNICAL_STATE.md](FONT_TECHNICAL_STATE.md)。该文件是当前 FONT/XPR runtime 结论、Loading/SMALL selector 结论和未决字体设计的 canonical 文档；本文只保留通用格式与构建基础。
+
 ## 全项目翻译权威与参考顺序
 
 以下规则适用于整个日语语音 + 中文字幕补丁，不限于 YPK/GTT；后续处理 OHD、OLANG、STAGEDAT、loose language resources 及其他已可靠解析的日文文本时均须遵守：

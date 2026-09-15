@@ -12,6 +12,8 @@
 技术基线：
 
 - [TECHNICAL_FOUNDATION.md](docs/TECHNICAL_FOUNDATION.md)：按 `VERIFIED_REUSABLE`、`OBSOLETE_OR_WRONG`、`UNKNOWN_NEEDS_REVALIDATION` 整理的格式与重建基础。
+- [FONT_TECHNICAL_STATE.md](docs/FONT_TECHNICAL_STATE.md)：当前 FONT/XPR 的 canonical 技术状态、实机证据等级、主字体与 Loading/SMALL 路径及未决设计项。
+- [FONT_STATUS_MATRIX.csv](docs/FONT_STATUS_MATRIX.csv)：canonical FONT 状态键值索引。
 - [LEGACY_TOOL_AUDIT.md](docs/LEGACY_TOOL_AUDIT.md)：旧工程工具逐项审计与 V2 处置方式。
 - [CURRENT_DIRECTION.md](docs/CURRENT_DIRECTION.md)：当前翻译、构建、验收顺序与明确禁止项。
 - [BRIEFING_BUILD_HANDOFF.md](docs/BRIEFING_BUILD_HANDOFF.md)：BRIEFING production 输入、专用 builder 约束与后续 round-trip/实机流程。
