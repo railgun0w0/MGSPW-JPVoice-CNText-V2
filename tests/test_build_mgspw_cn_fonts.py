@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib.util
+import os
 import struct
 import sys
 from pathlib import Path
@@ -42,8 +43,10 @@ def test_clean_00c7_phase2a_integration_is_deterministic(tmp_path):
     base = BUILDER.load_clean_font(
         "00c7c9f9.xpr", ROOT / "font/JPN/00c7c9f9.xpr"
     )
-    source_font = Path(r"C:\Windows\Fonts\Noto Sans SC Bold (TrueType).otf")
-    assert source_font.is_file()
+    font_root = Path(os.environ.get("WINDIR", "C:\\Windows")) / "Fonts"
+    candidates = sorted(font_root.glob("*Noto*Sans*SC*.otf"))
+    assert candidates, "set WINDIR or provide a local Noto Sans SC OTF for the integration test"
+    source_font = candidates[0]
     required = {0x4E00, 0x4E8C, 0x9FA5}
     first = BUILDER.build_clean_00c7_fixture(
         base,

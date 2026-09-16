@@ -969,6 +969,8 @@ def build_clean_00c7_fixture(
         "no_MLG_CN_glyph_source": all(g.glyph_source not in {"MLG", "MLG_CN", "DONOR", "UNKNOWN"} for g in placed),
         "encrypt_decrypt_roundtrip_exact": decrypted_again == rebuilt_plaintext,
     }
+    bitmap_area = sum(glyph.width * glyph.height for glyph in placed)
+    padded_area = sum((glyph.width + padding * 2) * (glyph.height + padding * 2) for glyph in placed)
     git_commit = subprocess.run(["git", "rev-parse", "HEAD"], cwd=ROOT, capture_output=True, text=True, check=False).stdout.strip()
     build_manifest = {
         "builder_git_commit": git_commit,
@@ -997,6 +999,10 @@ def build_clean_00c7_fixture(
         "generated_han_count": sum(1 for g in placed if g.is_han_override),
         "packed_height": packed_height,
         "atlas_usage_percent": round((packed_height / 4096) * 100, 4),
+        "atlas_bitmap_area": bitmap_area,
+        "atlas_padded_area": padded_area,
+        "atlas_bitmap_area_usage_percent": round(100 * bitmap_area / (4096 * 4096), 4),
+        "atlas_padded_area_usage_percent": round(100 * padded_area / (4096 * 4096), 4),
         "static_checks": checks,
         "runtime_status": "CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = NOT YET TESTED",
         "raster_bbox": {"max_width": max(source_bbox_widths, default=0), "max_height": max(source_bbox_heights, default=0), "p50_width": _percentile(source_bbox_widths, 50), "p95_width": _percentile(source_bbox_widths, 95), "p99_width": _percentile(source_bbox_widths, 99), "p50_height": _percentile(source_bbox_heights, 50), "p95_height": _percentile(source_bbox_heights, 95), "p99_height": _percentile(source_bbox_heights, 99), "overflow_or_crop_count": 0},
@@ -1008,7 +1014,7 @@ def build_clean_00c7_fixture(
         f"- Raster profile: pixel size `{font_size}`, cell height `{cell_height}`, baseline `{baseline}`, padding `{padding}`, 4096×4096 8-bit grayscale.",
         f"- Raster bbox: max `{max(source_bbox_widths, default=0)}×{max(source_bbox_heights, default=0)}`, p50 `{_percentile(source_bbox_widths, 50)}×{_percentile(source_bbox_heights, 50)}`, p95 `{_percentile(source_bbox_widths, 95)}×{_percentile(source_bbox_heights, 95)}`, p99 `{_percentile(source_bbox_widths, 99)}×{_percentile(source_bbox_heights, 99)}`, crop/overflow `0`.",
         f"- Glyphs: `{sum(1 for g in placed if g.glyph_source == 'CLEAN_JPN_PRESERVED')}` preserved clean, `{sum(1 for g in placed if g.is_han_override)}` generated Han, `{len(records)}` total records / `{len(rebuilt.font_data.mapped())}` mapped.",
-        f"- Atlas packed height `{packed_height}` / 4096; usage `{(packed_height / 4096) * 100:.4f}%`; no overlap and padding `{padding}` validated.",
+        f"- Atlas packed height `{packed_height}` / 4096; vertical usage `{(packed_height / 4096) * 100:.4f}%`; bitmap area usage `{100 * bitmap_area / (4096 * 4096):.4f}%`, padded rectangle area usage `{100 * padded_area / (4096 * 4096):.4f}%`; no overlap and padding `{padding}` validated.",
         f"- Plaintext XPR SHA256: `{sha256(rebuilt_plaintext)}`.", f"- Encrypted XPR SHA256: `{sha256(encrypted)}`.", "",
         "| static validation | result |", "|---|---|",
     ]
