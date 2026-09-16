@@ -309,7 +309,7 @@ Separately, the existing append PoCs used a patched MLG_CN0007-derived plaintext
 
 | baseline | glyph records | mapped codepoints | role |
 |---|---:|---:|---|
-| clean JPN `00c7c9f9.xpr` | `2309` | `2308` | authoritative clean input for the future self-owned build; existing full append/rebuild semantics not yet revalidated |
+| clean JPN `00c7c9f9.xpr` | `2309` | `2308` | authoritative clean input for self-owned builds; Phase 2A full-rebuild runtime fixture is proven, while append-only semantics remain separate |
 | patched `MLG_CN/0007ccd8.xpr` plaintext rekeyed as `00c7c9f9.xpr` | `3209` | `3208` | actual TEST2B / TEST3B / `厥` glyph PoC baseline |
 
 On that patched MLG_CN0007-derived/rekeyed baseline, the PoCs proved:
@@ -320,13 +320,27 @@ On that patched MLG_CN0007-derived/rekeyed baseline, the PoCs proved:
 - a new atlas slot works;
 - a generated real `厥 U+53A5` glyph renders in game.
 
-These PoCs prove that the JPN runtime accepts the tested append/count/new-atlas chain when the MLG_CN0007-derived plaintext is selected as `00c7`. They do not prove clean JPN00c7 `2309→2310` append semantics or a clean-JPN full rebuild. The repository does not yet contain a completed, publicly releasable, full-corpus, self-owned production builder. That remaining productionization work is described in `FONT_CUSTOM_BUILD_PLAN.md`.
+These PoCs prove that the JPN runtime accepts the tested append/count/new-atlas chain when the MLG_CN0007-derived plaintext is selected as `00c7`. They do not prove clean JPN00c7 `2309→2310` append-only semantics. A separate Phase 2A full-rebuild fixture from clean JPN00c7 is documented below; it is a technical runtime fixture, not a final public-release asset.
+
+### Phase 2A clean JPN00c7 full-rebuild runtime fixture — `PROVEN`
+
+On 2026-09-16 the user tested the exact Phase 2A fixture in the real game. It ran normally, Chinese glyphs displayed correctly, the visual result was good, and no garbled text, texture anomaly, or other display fault was reported.
+
+| field | value |
+|---|---|
+| source font | `Noto Sans SC Bold` |
+| source font SHA256 | `d1961be1161ea1be08496c920862d06ea5c23a757628f4fd69368de1d9f51bed` |
+| pixel size / cell height / baseline / padding | `56 / 72 / 56 / 2` |
+| GlyphRecords / mapped | `3078 / 3077` |
+| decrypted plaintext SHA256 | `44788a853d8f30da08d184b4aa5c9794ca7a5f115f9d7c03e14ce4cedcf24ae5` |
+| encrypted XPR SHA256 | `13e226b664572cef36be391c0fb78c46ae334955650f86836a2d5d3b3e1580f5` |
+
+`CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = PROVEN` covers only clean JPN00c7 self-owned full-rebuild runtime compatibility. It does **not** prove clean JPN001c self-owned 4096×4096 runtime output, the final font choice, the final punctuation policy, or the final large/small raster profile. Phase 2B is not started.
 
 ### Unknown / not yet productionized
 
-- A complete self-owned large-font rebuild from clean JPN00c7 for the full translation charset is `NOT YET PRODUCTIONIZED`.
-- Clean JPN00c7 count-prefix, USER growth, resource relocation, multi-glyph append and rebuild semantics must be independently revalidated from its `2309 records / 2308 mapped` baseline; current status is `UNKNOWN`.
-- A fully validated large multi-glyph relocation/repack pipeline remains `UNKNOWN` beyond the patched MLG_CN0007-derived append PoCs.
+- A complete final-release self-owned large-font asset/profile remains `NOT YET PRODUCTIONIZED`; the Phase 2A technical fixture is runtime-proven but is not the final release selection.
+- Clean JPN00c7 append-only `2309→2310` semantics and relocation behavior beyond the Phase 2A full rebuild remain `UNKNOWN`.
 - The exact future release font among the open-source candidates is `UNKNOWN`.
 
 主要证据：已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../analysis/FONT_V2_CODE_ARCHAEOLOGY.md)；`LOCAL-ONLY` 的 `font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`、`TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md`、`TEST3B_NEW_ATLAS_WITH_COUNT/FONT_00C7_TEST3B_NEW_ATLAS_WITH_COUNT.md` 与 `TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md`。
@@ -428,4 +442,4 @@ No item listed below is deleted by this archive pass. `SAFE TO ARCHIVE` means it
 
 ## 12. Archive boundary
 
-This archive records what is proven and what remains unimplemented. It does not declare the third-party MLG font a production dependency; it does not authorize shipping Microsoft font data; and it does not claim that the self-owned full-corpus builder already exists. The next implementation phase begins with `FONT_CUSTOM_BUILD_PLAN.md` after this documentation-only checkpoint.
+This archive records what is proven and what remains unimplemented. It does not declare the third-party MLG font a production dependency; it does not authorize shipping Microsoft font data; and it does not claim that a final self-owned full-corpus release builder/profile already exists. The Phase 2A clean-JPN00c7 technical fixture is runtime-proven; Phase 2B is not started.

@@ -31,8 +31,21 @@
 | no_MLG_CN_glyph_source | PASS |
 | encrypt_decrypt_roundtrip_exact | PASS |
 
-## RUNTIME NOT YET TESTED
+## RUNTIME PROVEN
 
-`CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = NOT YET TESTED`
+`CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = PROVEN`
 
-Static parser acceptance is not runtime proof. Replace only the large 00C7 selector in a separately backed-up local test installation after reviewing `font/runtime_test/00c7_phase2a/README_TEST.md`. Do not replace 001C and do not patch the EXE.
+On 2026-09-16 the user tested this exact local Phase 2A fixture on the real game installation. The fixture ran normally, Chinese glyphs displayed correctly, the visual result was good, and no garbled text, texture anomaly, or other display fault was reported.
+
+Runtime-proven fixture identity:
+
+| field | value |
+|---|---|
+| source font | `Noto Sans SC Bold` |
+| source font SHA256 | `d1961be1161ea1be08496c920862d06ea5c23a757628f4fd69368de1d9f51bed` |
+| pixel size / cell height / baseline / padding | `56 / 72 / 56 / 2` |
+| GlyphRecords / mapped | `3078 / 3077` |
+| decrypted plaintext SHA256 | `44788a853d8f30da08d184b4aa5c9794ca7a5f115f9d7c03e14ce4cedcf24ae5` |
+| encrypted XPR SHA256 | `13e226b664572cef36be391c0fb78c46ae334955650f86836a2d5d3b3e1580f5` |
+
+This proof covers only clean JPN `00c7c9f9.xpr` self-owned full-rebuild runtime compatibility. It does **not** prove clean JPN001c self-owned 4096×4096 runtime output, the final font choice, the final punctuation policy, or the final large/small raster profile. Phase 2B is not started.

@@ -30,10 +30,12 @@ Another local EXE hash, `8dd0eaa5cc8d35e121612a52087399399578aeb62df1a5faff64388
 | current proven compatibility output | patched MLG large `0007ccd8.xpr` plaintext, pure-rekeyed to the `00c7c9f9.xpr` filename seed | `PROVEN` |
 | runtime dimension patch required | no | `PROVEN` |
 | patched MLG_CN0007-derived/rekeyed 00c7 append/count/new-atlas technique | TEST2B/TEST3B/`厥` PoCs pass from `3209 records / 3208 mapped` to count `3210` | `PROVEN` |
-| clean JPN00c7 full append/rebuild semantics | clean baseline is `2309 records / 2308 mapped`; existing `3209→3210` PoCs did not use it | `UNKNOWN` |
-| full-corpus self-owned large builder/output | not complete | `NOT YET PRODUCTIONIZED` |
+| clean JPN00c7 full self-owned rebuild runtime compatibility | Phase 2A fixture from clean JPN00c7: `3078 records / 3077 mapped`; real-machine Chinese display confirmed | `PROVEN` |
+| full-corpus self-owned large builder/output | Phase 2A technical fixture is runtime-proven; final release asset/profile is not selected | `NOT YET PRODUCTIONIZED` |
 
 The proven legacy compatibility output is an operational Golden, not the future release dependency. The future production large font must be rebuilt from clean JPN00c7 with owned charset/raster inputs.
+
+Phase 2A runtime-proof scope (2026-09-16): this proves only clean JPN00c7 self-owned full-rebuild runtime compatibility. It does not prove clean JPN001c self-owned 4096×4096 runtime output, the final font choice, the final punctuation policy, or the final large/small raster profile.
 
 ## 3. Small font Golden Baseline
 

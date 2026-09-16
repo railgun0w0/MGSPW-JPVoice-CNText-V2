@@ -97,7 +97,7 @@ JPN_CN/00c7c9f9.xpr == MLG_CN-0007 plaintext re-encrypted with the 00c7 seed
 
 ## 3. 主字体 00c7 append 技术
 
-状态：patched MLG_CN0007-derived、以 `00c7` seed rekey 的基线为 `RUNTIME_CONFIRMED`；clean JPN00c7 的完整 append/rebuild semantics 为 `UNRESOLVED`，必须在 self-owned builder 阶段重新验证。
+状态：patched MLG_CN0007-derived、以 `00c7` seed rekey 的基线为 `RUNTIME_CONFIRMED`；clean JPN00c7 self-owned full-rebuild runtime compatibility 已由 Phase 2A 实机 fixture `PROVEN`。append-only semantics beyond that fixture remain `UNRESOLVED`。
 
 本节旧称“clean-JPN-00c7 append”不正确。现有 TEST2B、TEST3B 与 `厥` glyph PoC 的输入链具有以下可区分计数：
 
@@ -138,7 +138,7 @@ big-endian u32
 3210 = 0x00000C8A
 ```
 
-这不是原先误判的 alignment padding。单字 append 已证明：在 patched MLG_CN0007-derived/rekeyed 00c7 baseline 上，旧 glyph index、旧 GlyphRecord、旧 charmap entry 和旧 atlas 像素可以保持不变，新增 record、count mirror、USER size、charmap entry 和新 slot 可以被 runtime 接受。该结果不能直接升级为 clean JPN00c7 `2309→2310` 的结构证明。
+这不是原先误判的 alignment padding。单字 append 已证明：在 patched MLG_CN0007-derived/rekeyed 00c7 baseline 上，旧 glyph index、旧 GlyphRecord、旧 charmap entry 和旧 atlas 像素可以保持不变，新增 record、count mirror、USER size、charmap entry 和新 slot 可以被 runtime 接受。该结果不能直接升级为 clean JPN00c7 `2309→2310` 的 append-only 结构证明；另有 Phase 2A clean-JPN full-rebuild fixture 已通过真实运行验证，但其证明范围不包含该 append-only 语义。
 
 相关证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`、`TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md`、`TEST3B_NEW_ATLAS_WITH_COUNT/FONT_00C7_TEST3B_NEW_ATLAS_WITH_COUNT.md`、`TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md`。
 
@@ -285,7 +285,7 @@ D. large 与 small 是否采用不同 raster profile
 
 1. 在既定 self-owned rebuild 路线上决定正式开源 source font。
 2. 决定 large 与 Loading/SMALL 的视觉 profile。
-3. 针对 clean JPN00c7 `2309/2308` baseline 重新验证 full append/rebuild semantics。
+3. 针对 clean JPN00c7 `2309/2308` baseline 的 append-only relocation semantics（Phase 2A full-rebuild runtime 已另行 `PROVEN`）继续做独立验证。
 4. 实现并验证大规模 multi-glyph relocation。
 5. 建立 production FONT builder。
 6. 重新进行最终 production charset audit，并完成全场景 FONT runtime QA。

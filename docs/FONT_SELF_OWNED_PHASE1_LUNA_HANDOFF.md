@@ -28,7 +28,7 @@
 - 001c 4096×4096 runtime path = `PROVEN`
 - 001c fixed 2 MiB limit = `RETRACTED`
 - patched MLG_CN0007-derived 00c7 PoCs 不等于 clean JPN00c7 PoCs
-- clean JPN00c7 full rebuild runtime semantics 仍需独立验证
+- clean JPN00c7 self-owned full rebuild runtime compatibility = `PROVEN` (Phase 2A fixture; append-only semantics beyond that fixture remain separate/`UNKNOWN`)
 - MLG/MLG_CN 只可作为 reference/proof，不可进入 production builder 输入图
 
 不要重新研究 001c 2 MiB/4096×4096 根因，不要修改游戏安装目录，不要下载或提交字体。
@@ -301,7 +301,15 @@ font/build/reports/...
 - 未经本阶段审查的旧 `tools/Build-*`、analysis CSV/report
 - clean JPN XPR binaries，除非项目所有者另行明确决定 Git 策略
 
-## 9. 暂停点安全说明
+## 9. Phase 2A runtime status archive
+
+本 Phase 1 handoff 是历史快照；其“仍需独立验证”描述已由后续 Phase 2A 实机验证取代。用户在真实游戏中确认 clean JPN00c7 self-owned full-rebuild fixture 可正常运行，中文正常显示，视觉效果良好，未报告乱码、纹理异常或明显显示故障。
+
+fixture identity：`Noto Sans SC Bold`（SHA256 `d1961be1161ea1be08496c920862d06ea5c23a757628f4fd69368de1d9f51bed`），pixel size `56`，cell height `72`，baseline `56`，padding `2`，GlyphRecords `3078` / mapped `3077`；plaintext SHA256 `44788a853d8f30da08d184b4aa5c9794ca7a5f115f9d7c03e14ce4cedcf24ae5`；encrypted SHA256 `13e226b664572cef36be391c0fb78c46ae334955650f86836a2d5d3b3e1580f5`。
+
+`CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = PROVEN` 仅覆盖 clean JPN00c7 self-owned full rebuild runtime compatibility；不覆盖 clean JPN001c self-owned 4096×4096 runtime output、最终字体选择、最终 punctuation policy 或最终 large/small raster profile。Phase 2B 尚未开始。
+
+## 10. 暂停点安全说明
 
 - 未修改任何游戏安装目录。
 - 未 patch EXE。

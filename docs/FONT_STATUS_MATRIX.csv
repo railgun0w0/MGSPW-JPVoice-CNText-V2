@@ -1,7 +1,8 @@
 key,status_class,status,evidence,notes
 GOLDEN_V2_FONT_PIPELINE,STATIC_CONFIRMED,PRESERVED,FONT_V2_CODE_ARCHAEOLOGY.md,MLG_CN 0007/000E copy plus MLG_CN 0007 decrypt/rekey to 00C7; no internal FontData/TX2D rebuild
 MAIN_00C7_FORMAT,STATIC_CONFIRMED,UNDERSTOOD,LOCAL-ONLY FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md,4096x4096 format2 linear 1-byte atlas; direct charmap-to-record indexing
-MAIN_00C7_APPEND_RUNTIME,RUNTIME_CONFIRMED,VALIDATED_ON_PATCHED_MLG0007_DERIVED_00C7,LOCAL-ONLY TEST2B_COUNT_PATCH and TEST3B_NEW_ATLAS_WITH_COUNT,3209-to-3210 count mirror and new slot passed only on the patched MLG_CN0007 plaintext rekeyed as 00c7; clean JPN00c7 2309/2308 rebuild semantics require revalidation
+MAIN_00C7_APPEND_RUNTIME,RUNTIME_CONFIRMED,VALIDATED_ON_PATCHED_MLG0007_DERIVED_00C7,LOCAL-ONLY TEST2B_COUNT_PATCH and TEST3B_NEW_ATLAS_WITH_COUNT,3209-to-3210 count mirror and new slot passed only on the patched MLG_CN0007 plaintext rekeyed as 00c7; this remains distinct from the clean-JPN full-rebuild proof
+CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME,RUNTIME_CONFIRMED,PROVEN,font/build/runtime_fixture_00c7/FONT_VALIDATION_REPORT.md,Phase 2A clean JPN00c7 self-owned full-rebuild fixture was confirmed by real-machine user validation; scope excludes JPN001c self-owned 4096x4096 output; final font/punctuation/profile decisions remain open
 GENERATED_GLYPH_RUNTIME,RUNTIME_CONFIRMED,VALIDATED,LOCAL-ONLY TEST_REAL_GLYPH_JUE and glyph_generation_profile_v1.json,Real 厥 glyph runtime-confirmed on the patched MLG_CN0007-derived 00c7 baseline; production source policy is self-owned rebuild while the exact font/profile remains undecided
 LOADING_FONT_PATH,RUNTIME_CONFIRMED,VALIDATED,LOCAL-ONLY LOADING_SMALL_JPN_STATUS.md,Loading fixture identifies JPN/001cbbd1.xpr and its own TX2D
 LOADING_GLYPH_REPLACEMENT,RUNTIME_CONFIRMED,VALIDATED,LOCAL-ONLY small_jpn_men_manifest.json,们 append PoC displayed instead of fallback dot
@@ -13,7 +14,7 @@ LOADING_FONT_STYLE,UNRESOLVED,UNRESOLVED,LOCAL-ONLY LOADING_SMALL_JPN_STATUS.md,
 FINAL_MAIN_FONT_STYLE,UNRESOLVED,UNDECIDED,LOCAL-ONLY FONT_GLYPH_STYLE_TUNING.md,Noto D is a fallback profile only
 FINAL_SMALL_FONT_STYLE,UNRESOLVED,UNDECIDED,LOCAL-ONLY LOADING_SMALL_JPN_STATUS.md,No final Loading/SMALL raster profile selected
 FINAL_GLYPH_SOURCE_POLICY,DESIGN_DECIDED,SELF_OWNED_REBUILD,font/doc/FONT_CUSTOM_BUILD_PLAN.md,Third-party MLG is reference/proof only; exact open-source font and large/small profiles remain undecided
-LARGE_MULTI_GLYPH_RELOCATION,UNRESOLVED,UNRESOLVED,LOCAL-ONLY FONT_APPEND_CAPACITY_AUDIT.md,Single glyph success on the patched MLG_CN0007-derived baseline does not prove clean JPN00c7 large relocation
+LARGE_MULTI_GLYPH_RELOCATION,UNRESOLVED,UNRESOLVED,LOCAL-ONLY FONT_APPEND_CAPACITY_AUDIT.md,Phase2A full rebuild runtime is proven; append-only relocation semantics beyond that clean-JPN fixture remain unknown
 PRODUCTION_FONT_BUILDER,UNRESOLVED,NOT_COMPLETED,FONT_V2_CODE_ARCHAEOLOGY.md,No completed production multi-glyph builder is recorded
 YAHEI_CRASH,FAILED / DEPRECATED EXPERIMENT,NOT_REPRODUCIBLE,LOCAL-ONLY YAHEI_CRASH_DIFF_AUDIT.md,One-off crash not reproduced; structural diff was bitmap-only and outer encryption valid
 SELECTOR_AWARE_REBUILD,FAILED / DEPRECATED EXPERIMENT,FAILED,FONT_V2_CODE_ARCHAEOLOGY.md,Widespread garbling; not a production route
