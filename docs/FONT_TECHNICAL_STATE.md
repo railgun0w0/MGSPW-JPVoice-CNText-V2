@@ -10,7 +10,7 @@
 GOLDEN_V2_FONT_PIPELINE = PRESERVED
 
 MAIN_00C7_FORMAT = UNDERSTOOD
-MAIN_00C7_APPEND_RUNTIME = VALIDATED
+MAIN_00C7_APPEND_RUNTIME = VALIDATED_ON_PATCHED_MLG0007_DERIVED_00C7
 GENERATED_GLYPH_RUNTIME = VALIDATED
 
 LOADING_FONT_PATH = RUNTIME_CONFIRMED
@@ -24,7 +24,7 @@ JPN001C_FIXED_2_MIB_CAPACITY = RETRACTED
 
 FINAL_MAIN_FONT_STYLE = UNDECIDED
 FINAL_SMALL_FONT_STYLE = UNDECIDED
-FINAL_GLYPH_SOURCE_POLICY = UNDECIDED
+FINAL_GLYPH_SOURCE_POLICY = SELF_OWNED_REBUILD_DECIDED
 
 LARGE_MULTI_GLYPH_RELOCATION = UNRESOLVED
 PRODUCTION_FONT_BUILDER = NOT_COMPLETED
@@ -47,15 +47,15 @@ PRODUCTION_FONT_BUILDER = NOT_COMPLETED
 原 V2 默认 FONT 路线必须保留：
 
 ```text
-MLG patched/0007ccd8.xpr
+MLG_CN/0007ccd8.xpr
     → 简单复制
     → JPN_CN/0007ccd8.xpr
 
-MLG patched/000ebbe8.xpr
+MLG_CN/000ebbe8.xpr
     → 简单复制
     → JPN_CN/000ebbe8.xpr
 
-MLG patched/0007ccd8.xpr
+MLG_CN/0007ccd8.xpr
     → 用 0007 文件名 seed 解密
     → plaintext XPR2 逻辑内容不变
     → 用 00c7 文件名 seed 重新加密
@@ -88,16 +88,23 @@ MLG_CN-000E
 `JPN_CN` 只用于 provenance 验证，不作为第七套字体重复统计：
 
 ```text
-JPN_CN/0007ccd8.xpr == MLG-0007 logical content
-JPN_CN/000ebbe8.xpr == MLG-000E logical content
-JPN_CN/00c7c9f9.xpr == MLG-0007 logical content re-encrypted with 00c7 seed
+JPN_CN/0007ccd8.xpr == MLG_CN-0007 byte-for-byte
+JPN_CN/000ebbe8.xpr == MLG_CN-000E byte-for-byte
+JPN_CN/00c7c9f9.xpr == MLG_CN-0007 plaintext re-encrypted with the 00c7 seed
 ```
 
-相关证据：[`FONT_THREEWAY_CENSUS.md`](../font/analysis/FONT_THREEWAY_CENSUS.md)、[`FONT_SIX_UNIQUE_CHARMAP.csv`](../font/analysis/FONT_SIX_UNIQUE_CHARMAP.csv)。
+相关证据（`LOCAL-ONLY`，当前未纳入 Git）：`font/analysis/FONT_THREEWAY_CENSUS.md`、`font/analysis/FONT_SIX_UNIQUE_CHARMAP.csv`。历史 copy/rekey provenance 另见已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md)。
 
 ## 3. 主字体 00c7 append 技术
 
-状态：`RUNTIME_CONFIRMED`。
+状态：patched MLG_CN0007-derived、以 `00c7` seed rekey 的基线为 `RUNTIME_CONFIRMED`；clean JPN00c7 的完整 append/rebuild semantics 为 `UNRESOLVED`，必须在 self-owned builder 阶段重新验证。
+
+本节旧称“clean-JPN-00c7 append”不正确。现有 TEST2B、TEST3B 与 `厥` glyph PoC 的输入链具有以下可区分计数：
+
+| baseline | glyph records | mapped codepoints | provenance |
+|---|---:|---:|---|
+| clean JPN `00c7c9f9.xpr` | `2309` | `2308` | 官方 JPN large，未作为现有 `3209→3210` PoC 的输入 |
+| patched `MLG_CN/0007ccd8.xpr` plaintext rekeyed as `00c7c9f9.xpr` | `3209` | `3208` | TEST2B / TEST3B / `厥` glyph PoC 的实际 baseline |
 
 当前已验证的主字体访问链为：
 
@@ -109,7 +116,7 @@ Unicode charmap
     → TX2D bitmap
 ```
 
-记录索引语义为 `DIRECT`：`charmap value N → GlyphRecord[N]`。当前 00c7 的主要实机边界结果如下：
+记录索引语义为 `DIRECT`：`charmap value N → GlyphRecord[N]`。下表只描述 patched MLG_CN0007-derived/rekeyed 00c7 baseline 的实机边界结果：
 
 | 实验 | 结果 | 说明 |
 |---|---|---|
@@ -131,13 +138,13 @@ big-endian u32
 3210 = 0x00000C8A
 ```
 
-这不是原先误判的 alignment padding。单字 append 已证明：旧 glyph index、旧 GlyphRecord、旧 charmap entry 和旧 atlas 像素可以保持不变，新增 record、count mirror、USER size、charmap entry 和新 slot 可以被 runtime 接受。
+这不是原先误判的 alignment padding。单字 append 已证明：在 patched MLG_CN0007-derived/rekeyed 00c7 baseline 上，旧 glyph index、旧 GlyphRecord、旧 charmap entry 和旧 atlas 像素可以保持不变，新增 record、count mirror、USER size、charmap entry 和新 slot 可以被 runtime 接受。该结果不能直接升级为 clean JPN00c7 `2309→2310` 的结构证明。
 
-相关证据：[`FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`](../font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md)、[`TEST2B_COUNT_PATCH`](../font_poc_00c7_diagnostics_boundary/TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md)、[`TEST3B_NEW_ATLAS_WITH_COUNT`](../font_poc_00c7_diagnostics_boundary/TEST3B_NEW_ATLAS_WITH_COUNT/FONT_00C7_TEST3B_NEW_ATLAS_WITH_COUNT.md)、[`FONT_REAL_GLYPH_JUE.md`](../font_poc_00c7_diagnostics_boundary/TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md)。
+相关证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`、`TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md`、`TEST3B_NEW_ATLAS_WITH_COUNT/FONT_00C7_TEST3B_NEW_ATLAS_WITH_COUNT.md`、`TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md`。
 
 ## 4. Generated glyph 与风格实验
 
-状态：运行时技术链为 `RUNTIME_CONFIRMED`；最终字体来源为 `UNRESOLVED` / `UNDECIDED`。
+状态：patched MLG_CN0007-derived PoC 的运行时技术链为 `RUNTIME_CONFIRMED`；production 来源策略已经决定为 `SELF_OWNED_REBUILD`，具体 source font 与 large/small raster profile 仍为 `UNDECIDED`。
 
 - `Noto Sans SC Bold`：D profile，`56px`，`58×67` cell，目标 `厥` bbox 约 `[2,7,56,59]`，baseline ink bottom `y=59`。D 已实机比较通过，并保留为当前 generated fallback profile。
 - `Microsoft YaHei UI Bold`：实际 metadata 为 `C:\\Windows\\Fonts\\msyhbd.ttc` face `1`，family `Microsoft YaHei UI`，style `Bold`；`55px`、Pillow/FreeType BASIC、8-bit L 灰度。该 `厥` 版本已实机正常运行，视觉效果可接受。
@@ -145,28 +152,22 @@ big-endian u32
 
 ```ini
 YAHEI_CRASH = NOT_REPRODUCIBLE
-FINAL_GLYPH_SOURCE_POLICY = UNDECIDED
+FINAL_GLYPH_SOURCE_POLICY = SELF_OWNED_REBUILD_DECIDED
 ```
 
-相关证据：[`FONT_GLYPH_STYLE_TUNING.md`](../font_poc_00c7_diagnostics_boundary/TEST_REAL_GLYPH_JUE_STYLE_TUNING/FONT_GLYPH_STYLE_TUNING.md)、[`glyph_generation_profile_v1.json`](../font_poc_00c7_diagnostics_boundary/TEST_REAL_GLYPH_JUE_STYLE_TUNING/glyph_generation_profile_v1.json)、[`YAHEI_UI_BOLD_JUE_TEST.md`](../font_poc_00c7_diagnostics_boundary/TEST_YAHEI_UI_BOLD_JUE/YAHEI_UI_BOLD_JUE_TEST.md)、[`YAHEI_CRASH_DIFF_AUDIT.md`](../font_poc_00c7_diagnostics_boundary/TEST_YAHEI_UI_BOLD_JUE/YAHEI_CRASH_DIFF_AUDIT.md)。
+相关证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font_poc_00c7_diagnostics_boundary/TEST_REAL_GLYPH_JUE_STYLE_TUNING/FONT_GLYPH_STYLE_TUNING.md`、同目录 `glyph_generation_profile_v1.json`、`TEST_YAHEI_UI_BOLD_JUE/YAHEI_UI_BOLD_JUE_TEST.md`、`TEST_YAHEI_UI_BOLD_JUE/YAHEI_CRASH_DIFF_AUDIT.md`。
 
 ## 5. JPN donor 与 generated glyph
 
-状态：`STATIC_CONFIRMED` + 局部 `RUNTIME_CONFIRMED`；策略 `UNDECIDED`。
+状态：`STATIC_CONFIRMED` + 局部 `RUNTIME_CONFIRMED`；production 路线已决定为 `SELF_OWNED_REBUILD`。
 
-`拘 U+62D8` 在 clean JPN `00c7` 中存在原生 glyph；同一字符也已经用 generated font 成功生成并进入主字体 PoC。现有报告显示两种来源的视觉风格有明显差别，因此当前不能把“JPN donor 必定优先”或“generated glyph 必定优先”写死。
+`拘 U+62D8` 在 clean JPN `00c7` 中存在原生 glyph；同一字符也已经用 generated font 成功生成并进入 patched MLG_CN0007-derived 主字体 PoC。现有报告显示两种来源的视觉风格有明显差别。production 不再在“保留 MLG”“MLG + donor hybrid”“self-owned rebuild”三条路线之间摇摆：正式方向固定为从 clean JPN selectors 构建完全自有字库，不把第三方 MLG bitmap 作为依赖。clean JPN 非 Han/ASCII/kana/game-specific glyph 的保留规则，以及 Han 使用 SC glyph 覆盖的策略，以 `font/doc/FONT_CUSTOM_BUILD_PLAN.md` 为准。
 
 ```ini
-FINAL_GLYPH_SOURCE_POLICY = UNDECIDED
+FINAL_GLYPH_SOURCE_POLICY = SELF_OWNED_REBUILD_DECIDED
 ```
 
-保留的设计选项是：
-
-```text
-A. 保留 MLG，只补缺字
-B. MLG + JPN donor + generated fallback
-C. 统一重建整套 CJK glyph
-```
+仍未决定的是具体开源 source font、large/small pixel size、baseline/advance/profile 与最终视觉 QA 标准；这些实现参数不改变 self-owned rebuild 的既定方向。
 
 ## 6. Loading quote / SMALL_JPN FONT
 
@@ -200,7 +201,7 @@ LOADING_GLYPH_REPLACEMENT = RUNTIME_CONFIRMED
 
 历史收敛：旧文档曾将 `LOADING_FONT_PATH` 标为 `UNRESOLVED`，并使用 charmap coverage / selector 进行定位；该结论已被 `001c` own-TX2D runtime 替换实验取代，但旧报告保留供追溯。
 
-相关证据：[`LOADING_SMALL_JPN_STATUS.md`](../font/analysis/LOADING_SMALL_JPN_STATUS.md)、[`SMALL_JPN_FONT_PAIR_ANALYSIS.md`](../font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md)、[`SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md`](../font/analysis/SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md)、[`SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`](../small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md)、[`small_jpn_men_manifest.json`](../small_jpn_men_append_poc/small_jpn_men_manifest.json)。
+相关证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font/analysis/LOADING_SMALL_JPN_STATUS.md`、`font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md`、`font/analysis/SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md`、`small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`、`small_jpn_men_append_poc/small_jpn_men_manifest.json`。
 
 ## 7. Main 与 Loading/SMALL 必须分开
 
@@ -227,7 +228,7 @@ LOADING / SMALL FONT path
 - PSP 与当前 PC `MLG_CN` 是 `DIFFERENT_FONT`：PSP glyph 通常约 `18×17/18`、advance 约 `18`；PC MLG 为 `58×67` cell、advance `62`，灰度/栅格/笔画统计也不相同。
 - PSP 资料可用于旧译语料、字体来源线索、字形风格参考和 Unicode coverage 参考；不能写成可以把 PSP PGF bitmap 无损搬进 PC XPR。
 
-PSP 考古报告：[`PSP_CN_ARCHAEOLOGY.md`](../../JPVoice_CNText_Experimental/psp/PSP_CN_ARCHAEOLOGY.md)。
+PSP 考古报告（`LOCAL-ONLY`，位于仓库外）：`JPVoice_CNText_Experimental/psp/PSP_CN_ARCHAEOLOGY.md`。
 
 ## 9. 当前主字体 atlas / XPR 状态
 
@@ -271,25 +272,23 @@ PRODUCTION_FONT_BUILDER = NOT_COMPLETED
 
 ## 11. Open design decisions
 
-以下设计决策全部保持 `UNDECIDED`，本轮不执行：
+production 路线已经决定为 self-owned rebuild。以下实现参数保持 `UNDECIDED`，本轮不执行：
 
 ```text
-A. 主字体保留现有 MLG，只补缺字
-B. 主字体采用 MLG + JPN donor + generated fallback
-C. 自己统一重建整套 CJK glyph
-D. 主字体 generated profile 使用哪一种字体
-E. Loading/SMALL 使用哪一种字体/profile
-F. 主字体和 Loading 字体是否采用不同 raster profile
+A. 正式公开版本采用哪一种开源 source font
+B. large 字体的 pixel size、baseline、advance 与 packing profile
+C. Loading/SMALL 字体的 pixel size、baseline、advance 与 packing profile
+D. large 与 small 是否采用不同 raster profile
 ```
 
 ## 12. Current Next Steps（只记录，不执行）
 
-1. 决定主 CJK 字库最终方案。
-2. 决定 Loading/SMALL 字体视觉方案。
-3. 实现并验证大规模 multi-glyph relocation。
-4. 建立 production FONT builder。
-5. 重新进行最终 production charset audit。
-6. 进行全场景 FONT runtime QA。
+1. 在既定 self-owned rebuild 路线上决定正式开源 source font。
+2. 决定 large 与 Loading/SMALL 的视觉 profile。
+3. 针对 clean JPN00c7 `2309/2308` baseline 重新验证 full append/rebuild semantics。
+4. 实现并验证大规模 multi-glyph relocation。
+5. 建立 production FONT builder。
+6. 重新进行最终 production charset audit，并完成全场景 FONT runtime QA。
 
 ## 13. 文档一致性说明
 

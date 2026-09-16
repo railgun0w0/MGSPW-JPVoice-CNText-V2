@@ -6,7 +6,7 @@ Purpose: durable checkpoint for translation work under `work/luna_translation_te
 
 ## Recovery entry point
 
-- **Always resume from [`TRANSLATION_STATE.md`](TRANSLATION_STATE.md), never by inferring completion from a recent-items list.**
+- **Always resume from [`TRANSLATION_STATE.md`](../TRANSLATION_STATE.md), never by inferring completion from a recent-items list.**
 - `TRANSLATION_STATE.md` and the complete ledger below are rebuilt by `tools/rebuild_translation_state.py` from committed templates and mappings.
 - Git plus actual mapping/manifest/shard files are the facts. Counts in prose are only snapshots.
 - Before translating another file_id, run `python tools/rebuild_translation_state.py --check` and use its exact `NEXT_FILE_ID`.
@@ -93,7 +93,7 @@ This six-item window is retained as historical prose, but it is **not** a comple
 - Git history shows the SLOT counter first diverged at `286ddda39afb3a7870072b712c6d7744b32aed24` when already-counted `5D02EB62` was counted again. Repeated concurrent-checkpoint reconciliation grew the gap to **23 file_ids / 214 rows** by `f9ade239a73ebcc5e7d8c93e593e08f50edf9804`; later checkpoints preserved that overcount.
 - `5D3AF9ED`, `5D68BF67`, `5DEFED13`, and `5D09325F` are all complete, committed, and present in the exhaustive ledger below.
 - No translation mapping was deleted or found incomplete. Historical format warnings are recorded in `TRANSLATION_STATE.md`: seven recoverable shifted rows in direct YPK CSV translations, two conflicting legacy/full-vs-manifest representations whose explicit manifests are canonical, and old `cn_utf8_bytes` values that do not consistently equal current UTF-8 byte length.
-- Resume only from [`TRANSLATION_STATE.md`](TRANSLATION_STATE.md): **NEXT_FILE_ID=`5D06C8DE`**.
+- Resume only from [`TRANSLATION_STATE.md`](../TRANSLATION_STATE.md): **NEXT_FILE_ID=`5D06C8DE`**.
 
 ## Durable checkpoint policy (effective 2026-09-08)
 

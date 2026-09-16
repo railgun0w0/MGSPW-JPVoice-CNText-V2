@@ -15,6 +15,8 @@
 | SHA256 | `82838bbeb357ab4560b727f487121d0baa419a687b6a26b6e29a4c540b12b559` | `PROVEN` |
 | supported runtime patch build | the exact identity above only | `PROVEN` |
 
+Evidence provenance: on 2026-09-16 the existing local file `D:\GAME\test\JPN\MGS_PW\mgspw\METAL GEAR SOLID PEACE WALKER.exe` was re-read without modification. Its Windows VERSIONINFO reports both `FileVersion=1.3.1.0` and `ProductVersion=1.3.1.0`; the same file reports size `18,408,520` and SHA256 `82838b...b559`. The executable itself is not in this Git repository, so this VERSIONINFO source is explicitly `LOCAL-ONLY`. The adjacent Experimental report `JPN001C_TEXTURE_CAPACITY_ROOT_CAUSE.md` independently records the same size and full SHA256, but does not by itself prove the version string. `PROVEN` here therefore means the exact locally verified binary identity only, not every executable labeled 1.3.1.0.
+
 Another local EXE hash, `8dd0eaa5cc8d35e121612a52087399399578aeb62df1a5faff64388e7ec7a429`, appears in an older installer check. It was not the binary used by the current dump/RVA investigation and must not receive this runtime patch without a separate version, unpacked-byte, and RVA validation. Its support status is `UNKNOWN`.
 
 ## 2. Large font Golden Baseline
@@ -27,7 +29,8 @@ Another local EXE hash, `8dd0eaa5cc8d35e121612a52087399399578aeb62df1a5faff64388
 | clean atlas | `4096×4096`, pitch `4096`, format `2`, linear 8-bit | `PROVEN` |
 | current proven compatibility output | patched MLG large `0007ccd8.xpr` plaintext, pure-rekeyed to the `00c7c9f9.xpr` filename seed | `PROVEN` |
 | runtime dimension patch required | no | `PROVEN` |
-| clean-JPN native append/count/new-atlas technique | single-glyph/runtime PoCs pass | `PROVEN` |
+| patched MLG_CN0007-derived/rekeyed 00c7 append/count/new-atlas technique | TEST2B/TEST3B/`厥` PoCs pass from `3209 records / 3208 mapped` to count `3210` | `PROVEN` |
+| clean JPN00c7 full append/rebuild semantics | clean baseline is `2309 records / 2308 mapped`; existing `3209→3210` PoCs did not use it | `UNKNOWN` |
 | full-corpus self-owned large builder/output | not complete | `NOT YET PRODUCTIONIZED` |
 
 The proven legacy compatibility output is an operational Golden, not the future release dependency. The future production large font must be rebuilt from clean JPN00c7 with owned charset/raster inputs.
@@ -81,14 +84,15 @@ A productionized patcher must satisfy every item below; any mismatch fails close
 11. Read back both complete instructions and compare against the exact expected patched byte sequences.
 12. Any hash, version, module, page, byte, write, flush, protection-restore, or readback mismatch must report failure and stop. Do not continue with an assumed partial patch.
 
-The existing `mgspw_001c_height_poc.cpp` implements the core ASLR lookup, polling, exact byte verification, protection change, write, cache flush, protection restoration, rollback attempt, and readback pattern. It remains a PoC until integrated with release packaging, version gating, logging, recovery behavior, and full QA.
+The existing `LOCAL-ONLY` Experimental source `mgspw_001c_height_poc.cpp` implements the core ASLR lookup, polling, exact byte verification, protection change, write, cache flush, protection restoration, rollback attempt, and readback pattern. It remains a PoC until integrated with release packaging, version gating, logging, recovery behavior, and full QA.
 
 ## 5. Real-machine validation status
 
 | validation | status |
 |---|---|
 | JPN large selector accepts the historical 0007→00c7 pure-rekey output | `PROVEN` |
-| Clean-JPN 00c7 native append/count/new-atlas/real-glyph path | `PROVEN` |
+| Patched MLG_CN0007-derived/rekeyed 00c7 append/count/new-atlas/real-glyph path | `PROVEN` |
+| Clean JPN00c7 `2309/2308` full append/rebuild semantics | `UNKNOWN` |
 | JPN001c `2048×1025`, Height `0x400→0x401` | `PROVEN` |
 | JPN001c patched MLG000e `4096×4096`, Width/Height `0x1000×0x1000` | `PROVEN` |
 | Game startup after 4096 patch | `PROVEN` |

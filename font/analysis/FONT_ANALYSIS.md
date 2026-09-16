@@ -360,7 +360,7 @@ executable 直接列出两组 selector：
 
 ### 小 UI XPR
 
-历史安全要求“不要在未知 runtime 约束下直接覆盖 17 MiB 候选”仍然成立，但原因已经明确：JPN001c 必须同步 runtime Width/Height。对已验证 EXE 1.3.1.0，4096×4096 patch 路线已实机通过；其它 EXE identity 仍必须 fail closed，不能套用未经验证的 RVA/bytes。
+历史安全要求“不要在未知 runtime 约束下直接覆盖 17 MiB 候选”仍然成立，但原因已经明确：JPN001c 必须同步 runtime Width/Height。对当前 `LOCAL-ONLY`、已以 VERSIONINFO + size + SHA256 复核的 EXE 1.3.1.0，4096×4096 patch 路线已实机通过；证据边界见 [`../doc/FONT_PRODUCTION_BASELINE.md`](../doc/FONT_PRODUCTION_BASELINE.md)。其它 EXE identity 仍必须 fail closed，不能套用未经验证的 RVA/bytes。
 
 ### TXP caps face
 

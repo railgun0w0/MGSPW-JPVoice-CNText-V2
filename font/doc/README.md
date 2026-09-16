@@ -15,3 +15,5 @@
 3. 标为 `ARCHIVED / HISTORICAL REFERENCE` 的报告只用于追溯当时证据和实验路径。
 4. 标为 `REFERENCE ONLY` 的报告可能仍含有效静态事实，但 production 状态必须回到本目录核对。
 5. 第三方 MLG 字体只作为兼容性、逆向和容量证明，不是未来 production dependency。
+6. production 路线已决定为从 clean JPN selectors 进行 `SELF_OWNED_REBUILD`；仍未决定的是具体开源字体及 large/small raster profile。
+7. 指向未入 Git 的 Experimental、PoC、fixture 或 dump 证据必须标记 `LOCAL-ONLY`，不得形成看似可在 GitHub 打开的失效链接。

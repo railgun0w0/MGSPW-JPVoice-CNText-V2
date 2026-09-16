@@ -72,6 +72,10 @@ unrequested character -> not added speculatively
 
 The builder must not copy bitmap glyphs from third-party MLG_CN XPRs. Those files may be used only for visual comparison or runtime compatibility tests outside the production build graph.
 
+This production direction is decided: `SELF_OWNED_REBUILD`. MLG-only and MLG/JPN-donor hybrid outputs are not competing production routes. The exact approved open-source font and the large/small raster profiles remain design decisions.
+
+Provenance guardrail: existing TEST2B, TEST3B and `厥` append PoCs started from patched MLG_CN0007 plaintext rekeyed as `00c7` (`3209 records / 3208 mapped`), not clean JPN00c7 (`2309 records / 2308 mapped`). They may inform implementation, but the builder must independently validate clean JPN00c7 count-prefix, USER growth, relocation and rebuild semantics.
+
 ## 5. Charset census
 
 The future builder begins from a deterministic census of every production translation resource, not a hand-maintained approximate list.
@@ -127,7 +131,7 @@ The production builder should provide one deterministic pipeline with these stag
 5. deterministic atlas packing;
 6. charmap rebuild;
 7. GlyphRecord rebuild;
-8. USER/FontData rebuild, including each selector's proven count semantics;
+8. USER/FontData rebuild, including independently validated selector-specific count semantics;
 9. TX2D descriptor and bitmap rebuild;
 10. XPR header/resource-offset/size rebuild;
 11. selector-specific OuterCrypt encryption;

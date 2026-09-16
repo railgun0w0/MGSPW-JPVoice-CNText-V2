@@ -161,7 +161,7 @@ OuterCrypt.exe <input> <output> [key-filename] [max-bytes]
 | XPR2 header/resource layout | 否 |
 | 外层加密字节 | 是；根据目标文件名重新计算 |
 
-现有三路 census 对解密后的完整逻辑 XPR 做了独立确认：patched `JPN_CN/00c7c9f9.xpr` 与 MLG `0007ccd8.xpr` 的 USER、charmap、glyph records、atlas 和 TX2D 均一致；二者仅磁盘外层密文字节不同。
+现有三路 census 对解密后的完整逻辑 XPR 做了独立确认：patched `JPN_CN/00c7c9f9.xpr` 与 patched `MLG_CN/0007ccd8.xpr` 的 USER、charmap、glyph records、atlas 和 TX2D 均一致；二者仅磁盘外层密文字节不同。
 
 ## 3. 三个原 V2 输出的实际证据
 

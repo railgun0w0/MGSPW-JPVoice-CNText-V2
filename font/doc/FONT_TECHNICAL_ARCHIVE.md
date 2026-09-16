@@ -44,7 +44,7 @@ JPN001C_4096x4096_UNSUPPORTED = RETRACTED
 
 不得再描述为“clean JPN 有四套字体”。`0007/000e` 属于 MLG/reference lane；`00c7/001c` 才是 JPN runtime native font path。仓库把多 lane 文件集中在 `font/` 下是为比较和 provenance 分析，不改变官方拓扑。
 
-主要证据：[`FONT_SOURCE_TOPOLOGY.md`](../../font/analysis/FONT_SOURCE_TOPOLOGY.md)、[`FONT_THREEWAY_CENSUS.md`](../../font/analysis/FONT_THREEWAY_CENSUS.md)。
+主要证据：已入库的 [`FONT_SOURCE_TOPOLOGY.md`](../analysis/FONT_SOURCE_TOPOLOGY.md)；`LOCAL-ONLY` 的 `font/analysis/FONT_THREEWAY_CENSUS.md`（当前未纳入 Git）。
 
 ## 3. OuterCrypt / pure rekey — `PROVEN`
 
@@ -67,7 +67,7 @@ clean MLG 000ebbe8.xpr
 
 追溯注意：`MLG000E_JPN001C_REKEY_AUDIT.md` 的旧 A/B/C 表仍把 clean MLG000e rekey 样本 B 标为“待实机”；该行是最终实机确认之前的历史状态，已被本归档记录的 clean-rekey 实机结果取代，不得继续引用为 current status。
 
-主要证据：[`MLG000E_JPN001C_REKEY_AUDIT.md`](../../../JPVoice_CNText_Experimental/MLG000E_JPN001C_REKEY_AUDIT.md)、[`PATCHED_MLG000E_REKEY_V2_AUDIT.md`](../../../JPVoice_CNText_Experimental/PATCHED_MLG000E_REKEY_V2_AUDIT.md)、[`FONT_V2_CODE_ARCHAEOLOGY.md`](../../font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md)。
+主要证据：已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../analysis/FONT_V2_CODE_ARCHAEOLOGY.md)；`LOCAL-ONLY`、位于相邻 Experimental 工作区的 `MLG000E_JPN001C_REKEY_AUDIT.md` 与 `PATCHED_MLG000E_REKEY_V2_AUDIT.md`。
 
 ## 4. Clean JPN001c structure — `PROVEN`
 
@@ -113,7 +113,7 @@ Confirmed mapping examples:
 
 Record `0` is unmapped by the forward charmap but contains nonzero fallback pixels; it is not a safe free glyph slot.
 
-主要证据：[`SMALL_JPN_FONT_PAIR_ANALYSIS.md`](../../font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md)、[`SMALL_JPN_APPEND_RECORD_LAYOUT.md`](../../font/analysis/SMALL_JPN_APPEND_RECORD_LAYOUT.md)、[`SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`](../../small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md)。
+主要证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md`、`font/analysis/SMALL_JPN_APPEND_RECORD_LAYOUT.md`、`small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`。
 
 ## 5. The 2 MiB crash investigation: evidence chain
 
@@ -157,7 +157,7 @@ Capacity arithmetic:
 
 The faulting write address was exactly `mapped_region_end`, so the first overflow occurs at the first output unit beyond the `0x800000` allocation. This was not a shell-size guess, D3D Map failure, or a later glyph-table parse error.
 
-主要证据：[`JPN001C_0x200800_CRASH_DUMP_ANALYSIS.md`](../../../JPVoice_CNText_Experimental/JPN001C_0x200800_CRASH_DUMP_ANALYSIS.md)、[`JPN001C_TARGET_BUFFER_ALLOCATION_ROOT_CAUSE.md`](../../../JPVoice_CNText_Experimental/JPN001C_TARGET_BUFFER_ALLOCATION_ROOT_CAUSE.md)。
+主要证据（`LOCAL-ONLY`，位于相邻 Experimental 工作区）：`JPN001C_0x200800_CRASH_DUMP_ANALYSIS.md`、`JPN001C_TARGET_BUFFER_ALLOCATION_ROOT_CAUSE.md`。大型 crash dump 不进入 Git。
 
 ## 6. Runtime dimension root cause — `PROVEN`
 
@@ -209,7 +209,7 @@ XPR data_size > Width * Height
 
 XPR TX2D geometry is valid metadata, but this JPN001c active initializer does not use the modified TX2D geometry to select its final target Width/Height.
 
-主要证据：[`JPN001C_XPR_DIMENSION_METADATA_TRACE.md`](../../../JPVoice_CNText_Experimental/JPN001C_XPR_DIMENSION_METADATA_TRACE.md)、[`JPN001C_2048x1025_SYNC_RUNTIME_DIFF.md`](../../../JPVoice_CNText_Experimental/JPN001C_2048x1025_SYNC_RUNTIME_DIFF.md)。
+主要证据（`LOCAL-ONLY`，位于相邻 Experimental 工作区）：`JPN001C_XPR_DIMENSION_METADATA_TRACE.md`；其旧 file-metadata 根因判断由 `JPN001C_2048x1025_SYNC_RUNTIME_DIFF.md` 的 active runtime path 证据取代（`SUPERSEDED BY`）。
 
 ## 7. 2048×1025 runtime PoC — `PROVEN`
 
@@ -305,7 +305,14 @@ patched MLG large 0007ccd8.xpr
 
 The resulting `00c7c9f9.xpr` is byte-identical at the decrypted/plaintext level to the patched MLG0007 source and is an exact reproduction of the historical V2 output. Its atlas is already `4096×4096`, pitch `4096`, format `2`, linear 8-bit; the JPN large path does not require the JPN001c small-path runtime dimension patch.
 
-Separately, clean-JPN-00c7 append PoCs proved the native data chain:
+Separately, the existing append PoCs used a patched MLG_CN0007-derived plaintext rekeyed to the JPN `00c7` selector. They did **not** use clean JPN00c7 as their baseline:
+
+| baseline | glyph records | mapped codepoints | role |
+|---|---:|---:|---|
+| clean JPN `00c7c9f9.xpr` | `2309` | `2308` | authoritative clean input for the future self-owned build; existing full append/rebuild semantics not yet revalidated |
+| patched `MLG_CN/0007ccd8.xpr` plaintext rekeyed as `00c7c9f9.xpr` | `3209` | `3208` | actual TEST2B / TEST3B / `厥` glyph PoC baseline |
+
+On that patched MLG_CN0007-derived/rekeyed baseline, the PoCs proved:
 
 - direct charmap index semantics;
 - runtime-visible glyph count mirror at `USER +0x1FED4`;
@@ -313,15 +320,16 @@ Separately, clean-JPN-00c7 append PoCs proved the native data chain:
 - a new atlas slot works;
 - a generated real `厥 U+53A5` glyph renders in game.
 
-These PoCs prove native 00c7 extensibility, but the repository does not yet contain a completed, publicly releasable, full-corpus, self-owned production builder. That remaining productionization work is described in `FONT_CUSTOM_BUILD_PLAN.md`.
+These PoCs prove that the JPN runtime accepts the tested append/count/new-atlas chain when the MLG_CN0007-derived plaintext is selected as `00c7`. They do not prove clean JPN00c7 `2309→2310` append semantics or a clean-JPN full rebuild. The repository does not yet contain a completed, publicly releasable, full-corpus, self-owned production builder. That remaining productionization work is described in `FONT_CUSTOM_BUILD_PLAN.md`.
 
 ### Unknown / not yet productionized
 
 - A complete self-owned large-font rebuild from clean JPN00c7 for the full translation charset is `NOT YET PRODUCTIONIZED`.
-- A fully validated large multi-glyph relocation/repack pipeline remains `UNKNOWN` beyond the existing append PoCs.
+- Clean JPN00c7 count-prefix, USER growth, resource relocation, multi-glyph append and rebuild semantics must be independently revalidated from its `2309 records / 2308 mapped` baseline; current status is `UNKNOWN`.
+- A fully validated large multi-glyph relocation/repack pipeline remains `UNKNOWN` beyond the patched MLG_CN0007-derived append PoCs.
 - The exact future release font among the open-source candidates is `UNKNOWN`.
 
-主要证据：[`FONT_V2_CODE_ARCHAEOLOGY.md`](../../font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md)、[`FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`](../../font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md)、[`FONT_00C7_TEST2B_COUNT_PATCH.md`](../../font_poc_00c7_diagnostics_boundary/TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md)、[`FONT_REAL_GLYPH_JUE.md`](../../font_poc_00c7_diagnostics_boundary/TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md)。
+主要证据：已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../analysis/FONT_V2_CODE_ARCHAEOLOGY.md)；`LOCAL-ONLY` 的 `font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`、`TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md`、`TEST3B_NEW_ATLAS_WITH_COUNT/FONT_00C7_TEST3B_NEW_ATLAS_WITH_COUNT.md` 与 `TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md`。
 
 ## 10. Retired / retracted hypotheses
 
@@ -341,56 +349,56 @@ These PoCs prove native 00c7 extensibility, but the repository does not yet cont
 
 ## 11. Experimental Evidence Index
 
-No item listed below is deleted by this archive pass. `SAFE TO ARCHIVE` means it should eventually be moved out of Git or primary working storage after hashes and derived evidence are preserved; it does not authorize deletion now.
+No item listed below is deleted by this archive pass. `SAFE TO ARCHIVE` means it should eventually be moved out of Git or primary working storage after hashes and derived evidence are preserved; it does not authorize deletion now. `LOCAL-ONLY` means the asset exists in the current workspace or adjacent Experimental workspace but is not tracked by this Git repository; these paths are intentionally written as plain code rather than broken GitHub links. Large crash dumps remain local-only and must not be committed.
 
 ### Crash dumps and runtime exports
 
 | asset | classification | purpose |
 |---|---|---|
-| `D:\GAME\test\mgspw_crash_dumps\METAL GEAR SOLID PEACE WALKER.exe_260916_051544.dmp` | `SAFE TO ARCHIVE` | Original `0x200800` full dump; ~6.79 GB. Preserve locally until external archival copy/hash is confirmed. |
-| `D:\GAME\test\mgspw_crash_dumps\METAL GEAR SOLID PEACE WALKER.exe_260916_130921.dmp` | `SAFE TO ARCHIVE` | Synchronized-XPR/no-runtime-patch comparison dump; ~6.78 GB. |
-| `JPVoice_CNText_Experimental/JPN001C_0x200800_runtime_decoded_text.bin` | `KEEP` | Decoded runtime `.text`; basis for RVAs and active initializer. |
-| `.../JPN001C_0x200800_runtime_decoded_bind.bin` | `REFERENCE ONLY` | Decoded `.bind` export. |
-| `.../JPN001C_0x200800_fault_function.bin` | `KEEP` | Compact fault-loop bytes. |
-| `.../JPN001C_0x200800_caller_context.bin` | `KEEP` | Caller/resource-construction context. |
-| `.../JPN001C_0x200800_runtime_exports.json` | `KEEP` | Export offsets, sizes, and SHA256 metadata. |
+| `D:\GAME\test\mgspw_crash_dumps\METAL GEAR SOLID PEACE WALKER.exe_260916_051544.dmp` | `SAFE TO ARCHIVE · LOCAL-ONLY` | Original `0x200800` full dump; ~6.79 GB. Preserve locally until external archival copy/hash is confirmed. |
+| `D:\GAME\test\mgspw_crash_dumps\METAL GEAR SOLID PEACE WALKER.exe_260916_130921.dmp` | `SAFE TO ARCHIVE · LOCAL-ONLY` | Synchronized-XPR/no-runtime-patch comparison dump; ~6.78 GB. |
+| `JPVoice_CNText_Experimental/JPN001C_0x200800_runtime_decoded_text.bin` | `KEEP · LOCAL-ONLY` | Decoded runtime `.text`; basis for RVAs and active initializer. |
+| `.../JPN001C_0x200800_runtime_decoded_bind.bin` | `REFERENCE ONLY · LOCAL-ONLY` | Decoded `.bind` export. |
+| `.../JPN001C_0x200800_fault_function.bin` | `KEEP · LOCAL-ONLY` | Compact fault-loop bytes. |
+| `.../JPN001C_0x200800_caller_context.bin` | `KEEP · LOCAL-ONLY` | Caller/resource-construction context. |
+| `.../JPN001C_0x200800_runtime_exports.json` | `KEEP · LOCAL-ONLY` | Export offsets, sizes, and SHA256 metadata. |
 
 ### Root-cause and rekey reports
 
 | asset | classification | purpose |
 |---|---|---|
-| `JPN001C_0x200800_CRASH_DUMP_ANALYSIS.md` | `KEEP` | First-fault and 1:4 expansion proof. |
-| `JPN001C_TARGET_BUFFER_ALLOCATION_ROOT_CAUSE.md` | `KEEP` | Mapped target allocation/capacity proof. |
-| `JPN001C_XPR_DIMENSION_METADATA_TRACE.md` | `KEEP` | File-layer TX2D dimension trace; obsolete intermediate conclusion is explicitly retracted in-file. |
-| `JPN001C_2048x1025_SYNC_RUNTIME_DIFF.md` | `KEEP` | Source descriptor, D3D desc, active hardcoded dimension path. |
-| `JPN001C_TEXTURE_CAPACITY_ROOT_CAUSE.md` | `REFERENCE ONLY` | Historical static investigation; final runtime correction retained at top. |
-| `MLG000E_JPN001C_REKEY_AUDIT.md` | `KEEP` | Clean/patched 000e→001c topology and compatibility audit. |
-| `PATCHED_MLG000E_REKEY_V2_AUDIT.md` | `KEEP` | Byte-identical patched rekey and final runtime result. |
-| `TX2D_RESIZE_BUILDER_AUDIT.md` | `REFERENCE ONLY` | Historical fixture-builder audit, not current production design. |
+| `JPN001C_0x200800_CRASH_DUMP_ANALYSIS.md` | `KEEP · LOCAL-ONLY` | First-fault and 1:4 expansion proof. |
+| `JPN001C_TARGET_BUFFER_ALLOCATION_ROOT_CAUSE.md` | `KEEP · LOCAL-ONLY` | Mapped target allocation/capacity proof. |
+| `JPN001C_XPR_DIMENSION_METADATA_TRACE.md` | `REFERENCE ONLY · LOCAL-ONLY` | File-layer TX2D dimension trace. Its intermediate file-metadata root-cause conclusion is `SUPERSEDED BY JPN001C_2048x1025_SYNC_RUNTIME_DIFF.md`; current status does not rely on an in-file retraction claim. |
+| `JPN001C_2048x1025_SYNC_RUNTIME_DIFF.md` | `KEEP · LOCAL-ONLY` | Current source-descriptor, D3D-desc and active hardcoded-dimension path evidence; supersedes the older metadata-only root-cause interpretation. |
+| `JPN001C_TEXTURE_CAPACITY_ROOT_CAUSE.md` | `REFERENCE ONLY · LOCAL-ONLY` | Historical static investigation; `SUPERSEDED BY JPN001C_2048x1025_SYNC_RUNTIME_DIFF.md` for active runtime dimension provenance. |
+| `MLG000E_JPN001C_REKEY_AUDIT.md` | `REFERENCE ONLY · LOCAL-ONLY` | Clean/patched 000e→001c topology audit; its old pending-runtime status is `SUPERSEDED BY PATCHED_MLG000E_REKEY_V2_AUDIT.md` and the current archive. |
+| `PATCHED_MLG000E_REKEY_V2_AUDIT.md` | `KEEP · LOCAL-ONLY` | Byte-identical patched rekey and final runtime result. |
+| `TX2D_RESIZE_BUILDER_AUDIT.md` | `REFERENCE ONLY · LOCAL-ONLY` | Historical fixture-builder audit, not current production design. |
 
 ### Runtime patch and rekey PoC
 
 | asset | classification | purpose |
 |---|---|---|
-| `JPVoice_CNText_Experimental/mgspw_001c_height_poc.cpp` | `KEEP` | ASLR-aware runtime Width/Height patch PoC with full-byte checks and fail-closed behavior. |
-| `.../rekey_patched_mlg000e_4096_runtime.py` | `KEEP` | Pure rekey generator with plaintext equality verification. |
-| `.../rekey_patched_mlg000e_v2.py` | `REFERENCE ONLY` | Earlier audit/rekey implementation. |
-| `.../audit_clean_mlg000e_rekey.py` | `REFERENCE ONLY` | Clean/patched comparative audit generator. |
-| `.../tools/OuterCrypt.cpp` and `OuterCrypt.exe` | `KEEP` | Historical authoritative filename-seeded outer transform implementation. |
+| `JPVoice_CNText_Experimental/mgspw_001c_height_poc.cpp` | `KEEP · LOCAL-ONLY` | ASLR-aware runtime Width/Height patch PoC with full-byte checks and fail-closed behavior. |
+| `.../rekey_patched_mlg000e_4096_runtime.py` | `KEEP · LOCAL-ONLY` | Pure rekey generator with plaintext equality verification. |
+| `.../rekey_patched_mlg000e_v2.py` | `REFERENCE ONLY · LOCAL-ONLY` | Earlier audit/rekey implementation. |
+| `.../audit_clean_mlg000e_rekey.py` | `REFERENCE ONLY · LOCAL-ONLY` | Clean/patched comparative audit generator. |
+| `.../tools/OuterCrypt.cpp` and `OuterCrypt.exe` | `KEEP · LOCAL-ONLY` | Historical authoritative filename-seeded outer transform implementation. |
 
 ### Fixture XPRs
 
 | asset/group | classification | purpose |
 |---|---|---|
-| `TEST_CLEAN_MLG000E_AS_JPN001C.xpr` | `KEEP` | Clean cross-runtime rekey proof. |
-| `TEST_PATCHED_MLG000E_AS_JPN001C_4096_RUNTIME.xpr` | `KEEP` | Final 4096×4096 runtime-proven artifact. |
-| `TEST_PATCHED_MLG000E_AS_JPN001C_V2.xpr` | `REFERENCE ONLY` | Equivalent pure-rekey audit artifact. |
-| `TEST_VALID_JPN001C_DIMENSION_SYNC_2048x1025.xpr` | `KEEP` | Clean-001c structure with synchronized file-layer 2048×1025 metadata. |
-| `TEST_VALID_SHELL_2048x1023_AS_JPN001C.xpr`, `TEST_VALID_SHELL_2048x1025_AS_JPN001C.xpr` | `KEEP` | Boundary evidence around the clean 2048×1024 baseline. |
-| `TEST_VALID_SHELL_1024x2048_AS_JPN001C.xpr`, `TEST_VALID_SHELL_4096x512_AS_JPN001C.xpr` | `KEEP` | Equal-capacity geometry evidence. |
-| `TEST_VALID_SHELL_2048x2048`, `4096x1024` fixtures | `REFERENCE ONLY` | Pre-patch over-capacity failures. |
-| patched-layout / clean-USER hybrid fixtures | `REFERENCE ONLY` | Isolation experiments; not production candidates. |
-| superseded TX2D-only and old patched-shell variants | `OBSOLETE` | Retain only to reproduce retired hypotheses; never use as Golden. |
+| `TEST_CLEAN_MLG000E_AS_JPN001C.xpr` | `KEEP · LOCAL-ONLY` | Clean cross-runtime rekey proof. |
+| `TEST_PATCHED_MLG000E_AS_JPN001C_4096_RUNTIME.xpr` | `KEEP · LOCAL-ONLY` | Final 4096×4096 runtime-proven artifact. |
+| `TEST_PATCHED_MLG000E_AS_JPN001C_V2.xpr` | `REFERENCE ONLY · LOCAL-ONLY` | Equivalent pure-rekey audit artifact. |
+| `TEST_VALID_JPN001C_DIMENSION_SYNC_2048x1025.xpr` | `KEEP · LOCAL-ONLY` | Clean-001c structure with synchronized file-layer 2048×1025 metadata. |
+| `TEST_VALID_SHELL_2048x1023_AS_JPN001C.xpr`, `TEST_VALID_SHELL_2048x1025_AS_JPN001C.xpr` | `KEEP · LOCAL-ONLY` | Boundary evidence around the clean 2048×1024 baseline. |
+| `TEST_VALID_SHELL_1024x2048_AS_JPN001C.xpr`, `TEST_VALID_SHELL_4096x512_AS_JPN001C.xpr` | `KEEP · LOCAL-ONLY` | Equal-capacity geometry evidence. |
+| `TEST_VALID_SHELL_2048x2048`, `4096x1024` fixtures | `REFERENCE ONLY · LOCAL-ONLY` | Pre-patch over-capacity failures. |
+| patched-layout / clean-USER hybrid fixtures | `REFERENCE ONLY · LOCAL-ONLY` | Isolation experiments; not production candidates. |
+| superseded TX2D-only and old patched-shell variants | `OBSOLETE · LOCAL-ONLY` | Retain only to reproduce retired hypotheses; never use as Golden. |
 
 ### V2 repository reports, scripts, and fixtures
 
@@ -398,25 +406,25 @@ No item listed below is deleted by this archive pass. `SAFE TO ARCHIVE` means it
 |---|---|---|
 | `font/analysis/FONT_SOURCE_TOPOLOGY.md` | `KEEP` | Official selector/lane topology. |
 | `font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md` | `KEEP` | Historical working 00c7 copy/rekey route. |
-| `font/analysis/FONT_THREEWAY_CENSUS.md` and census CSVs | `KEEP` | Structural and charset inventory. |
-| `font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md` | `KEEP` | Clean 001c structure and mappings. |
-| `small_jpn_runtime_atlas_selector_poc/` | `KEEP` | Runtime proof that Loading uses 001c own TX2D. |
-| `small_jpn_men_append_poc/` | `REFERENCE ONLY` | One-glyph native append technique; superseded as capacity solution by full 4096 path. |
-| `font_poc_00c7_diagnostics_boundary/` | `KEEP` | 00c7 count, new-atlas, real-glyph, and style PoCs. |
-| `font_poc_00c7_diagnostics/` | `REFERENCE ONLY` | Earlier diagnostics, including failures later explained by count semantics. |
-| `core/xpr_font.py`, `tests/test_xpr_font.py` | `KEEP` | Current parser/rebuild and tests; not yet a production builder guarantee. |
-| `tools/Build-FontXprV2.py` | `REFERENCE ONLY` | Experimental selector-aware builder; current full self-owned production builder remains not productionized. |
-| font coverage/corpus CSVs under `font/analysis/` | `KEEP` | Charset census inputs for the next builder phase. |
+| `font/analysis/FONT_THREEWAY_CENSUS.md` and census CSVs | `KEEP · LOCAL-ONLY` | Structural and charset inventory; not currently tracked. |
+| `font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md` | `KEEP · LOCAL-ONLY` | Clean 001c structure and mappings; not currently tracked. |
+| `small_jpn_runtime_atlas_selector_poc/` | `KEEP · LOCAL-ONLY` | Runtime proof that Loading uses 001c own TX2D; not currently tracked. |
+| `small_jpn_men_append_poc/` | `REFERENCE ONLY · LOCAL-ONLY` | One-glyph native append technique; superseded as capacity solution by full 4096 path. |
+| `font_poc_00c7_diagnostics_boundary/` | `KEEP · LOCAL-ONLY` | Patched MLG_CN0007-derived 00c7 count, new-atlas, real-glyph and style PoCs; not clean JPN00c7 provenance. |
+| `font_poc_00c7_diagnostics/` | `REFERENCE ONLY · LOCAL-ONLY` | Earlier patched-baseline diagnostics, including failures later explained by count semantics. |
+| `core/xpr_font.py`, `tests/test_xpr_font.py` | `KEEP · LOCAL-ONLY` | Current parser/rebuild and tests; not yet a production builder guarantee and not currently tracked. |
+| `tools/Build-FontXprV2.py` | `REFERENCE ONLY · LOCAL-ONLY` | Experimental selector-aware builder; current full self-owned production builder remains not productionized. |
+| font coverage/corpus CSVs under `font/analysis/` | `KEEP · LOCAL-ONLY` | Charset census inputs for the next builder phase; not currently tracked. |
 
 ### Historical build scripts
 
 | asset/group | classification | purpose |
 |---|---|---|
-| `build_valid_shell_tx2d_boundary_sizes.py` | `REFERENCE ONLY` | Boundary fixture generation. |
-| `build_valid_shell_tx2d_equal_capacity_shapes.py` | `REFERENCE ONLY` | Width/height/pitch hypothesis elimination. |
-| `build_jpn001c_dimension_metadata_sync.py` | `REFERENCE ONLY` | File-layer dimension-sync fixture. |
-| `build_test_tx2d_only.py`, `build_test_tx2d_size_variants.py` | `OBSOLETE` | Early isolation experiments; not current root-cause model. |
-| `build_patched_shell_clean_user_clean_tx2d.py`, `build_patched_layout_clean_user_hybrid.py` | `OBSOLETE` | Historical hybrid hypotheses, retained for traceability only. |
+| `build_valid_shell_tx2d_boundary_sizes.py` | `REFERENCE ONLY · LOCAL-ONLY` | Boundary fixture generation. |
+| `build_valid_shell_tx2d_equal_capacity_shapes.py` | `REFERENCE ONLY · LOCAL-ONLY` | Width/height/pitch hypothesis elimination. |
+| `build_jpn001c_dimension_metadata_sync.py` | `REFERENCE ONLY · LOCAL-ONLY` | File-layer dimension-sync fixture. |
+| `build_test_tx2d_only.py`, `build_test_tx2d_size_variants.py` | `OBSOLETE · LOCAL-ONLY` | Early isolation experiments; not current root-cause model. |
+| `build_patched_shell_clean_user_clean_tx2d.py`, `build_patched_layout_clean_user_hybrid.py` | `OBSOLETE · LOCAL-ONLY` | Historical hybrid hypotheses, retained for traceability only. |
 
 ## 12. Archive boundary
 
