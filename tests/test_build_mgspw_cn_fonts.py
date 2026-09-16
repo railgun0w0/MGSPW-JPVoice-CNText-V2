@@ -17,8 +17,24 @@ SPEC.loader.exec_module(BUILDER)
 
 
 def test_rendered_text_removes_controls_but_keeps_ruby_payload_and_layout_space():
-    text = "甲<R=乙,おつ> <I=ICON>$NAME%s\\n<HUNTING QUEST>"
+    text = "甲<R=乙,おつ> <I=ICON><$1>%02d%2d$NAME%s\\n<HUNTING QUEST>"
     assert BUILDER.rendered_text(text) == "甲乙おつ <HUNTING QUEST>"
+
+
+def test_production_corpus_grammar_inventory_uses_observed_tokens():
+    rows, _metadata = BUILDER.load_production_corpus(
+        ROOT / "build/translation/compiled_translation_manifest.csv",
+        ROOT / "translations/briefing",
+    )
+    audits = BUILDER.control_token_audit(rows)
+    by_token = {(item.token, item.classification): item for item in audits}
+    assert by_token[("%02d", "PLACEHOLDER")].occurrence_count == 52
+    assert by_token[("%2d", "PLACEHOLDER")].occurrence_count == 4
+    assert by_token[("<$1>", "CONTROL")].occurrence_count == 12
+    assert by_token[("<BAD STATE>", "VISIBLE")].occurrence_count == 7
+    assert all(item.classification != "AMBIGUOUS" for item in audits)
+    for absent in ("<MISSION>", "<ALERT>", "<HUNTING QUEST>", "%u", "%x", "%.2f"):
+        assert all(item.token != absent for item in audits)
 
 
 def test_category_flags_distinguish_han_kana_ascii_and_non_bmp():

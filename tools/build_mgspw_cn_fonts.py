@@ -60,9 +60,19 @@ SELECTOR_REQUIREMENT = "UNKNOWN / UNION_REQUIRED"
 
 ANGLE_RE = re.compile(r"<[^<>]*>")
 DOLLAR_RE = re.compile(r"\$[A-Za-z0-9_]+")
-PRINTF_RE = re.compile(r"%(?:\d+\$)?[sdif]")
+# Keep this in step with the existing production font coverage parser
+# (tools/Build-FontXprV2.py).  The production corpus contains width-bearing
+# forms such as ``%02d`` and ``%2d``; the narrower translation-compiler
+# inventory is insufficient for charset work because it would leave those
+# bytes in the glyph census.
+PRINTF_RE = re.compile(r"%(?:\d+\$)?[-+#0-9.*hlLzjt]*[diuoxXfFeEgGaAcspn]")
+PRINTF_CANDIDATE_RE = re.compile(r"%(?:[0-9]+\$)?[A-Za-z0-9_.*+#-]+")
+BRACE_RE = re.compile(r"\{[^{}\r\n]*\}")
+BACKSLASH_RE = re.compile(r"\\(?:u[0-9A-Fa-f]{4}|x[0-9A-Fa-f]{2}|.)")
 ESCAPED_LAYOUT_RE = re.compile(r"\\(?:r|n|t)")
 CONTROL_ANGLE_RE = re.compile(r"^<[A-Za-z_-]+(?:=|>)")
+ANGLE_WRAPPED_PLACEHOLDER_RE = re.compile(r"^<\$[A-Za-z0-9_]+>$")
+
 
 # These punctuation sets are intentionally reporting categories, not a glyph
 # source decision.  Some characters correctly appear in both CJK traditions.
@@ -155,6 +165,125 @@ def read_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
+@dataclass(frozen=True)
+class ControlTokenAudit:
+    token: str
+    occurrence_count: int
+    resource_classes: tuple[str, ...]
+    classification: str
+    classification_source: str
+    rendered_effect: str
+
+
+def classify_control_token(token: str, family: str) -> tuple[str, str, str]:
+    """Classify raw production syntax using the project control rules."""
+    if family == "ANGLE":
+        if ANGLE_WRAPPED_PLACEHOLDER_RE.fullmatch(token):
+            return ("CONTROL", "production mapping review_flag: ANGLE_WRAPPED_$1_RUNTIME_PLACEHOLDER_PRESERVED", "syntax removed; nested placeholder is not a glyph")
+        if token.startswith("<R="):
+            payload = token[3:-1]
+            if "," not in payload:
+                return ("AMBIGUOUS", "production compiler angle_control_signature: INVALID_RUBY", "not removed until malformed Ruby semantics are resolved")
+            return ("CONTROL", "production compiler angle_control_signature: RUBY; docs/TECHNICAL_FOUNDATION.md §5", "base and reading payload retained; delimiters removed")
+        if token.startswith("<I=") or token.startswith("<C=") or token == "<->":
+            return ("CONTROL", "production compiler angle_control_signature", "syntax removed")
+        if CONTROL_ANGLE_RE.match(token):
+            return ("CONTROL", "production compiler angle_control_signature: named angle control", "syntax removed")
+        return ("VISIBLE", "production compiler angle_control_signature: non-control angle literal", "literal angle-bracket text retained")
+    if family == "DOLLAR":
+        return ("PLACEHOLDER", "production compiler DOLLAR_RE / docs/TECHNICAL_FOUNDATION.md §5", "syntax removed")
+    if family == "PRINTF":
+        return ("PLACEHOLDER", "tools/Build-FontXprV2.py PRINTF_RE; production format-preservation notes", "syntax removed")
+    if family == "ESCAPED_LAYOUT":
+        return ("CONTROL", "builder layout rule and production text encoding conventions", "layout syntax removed")
+    if family == "LAYOUT":
+        return ("CONTROL", "builder rendered_text physical CR/LF/TAB rule", "layout byte removed")
+    if family in {"BRACE", "BACKSLASH"}:
+        return ("AMBIGUOUS", "Audit-CnSpecialCharacters.py generic token scanner; no production compiler classifier", "not removed pending runtime classification")
+    if family == "PERCENT_AMBIGUOUS":
+        return ("AMBIGUOUS", "generic percent-token boundary not accepted by production PRINTF_RE", "not removed pending runtime classification")
+    raise FontBuildPhase1Error(f"unknown control-token family: {family}")
+
+
+def _add_control_audit(inventory: dict[tuple[str, str], list[object]], token: str, family: str, resource_class: str) -> None:
+    classification, source, effect = classify_control_token(token, family)
+    key = (family, token)
+    if key not in inventory:
+        inventory[key] = [0, set(), classification, source, effect]
+    record = inventory[key]
+    record[0] = int(record[0]) + 1
+    classes = record[1]
+    assert isinstance(classes, set)
+    classes.add(resource_class)
+    if record[2:] != [classification, source, effect]:
+        raise FontBuildPhase1Error(f"inconsistent token classification: {family} {token!r}")
+
+
+def control_token_audit(rows: Sequence[CorpusRow]) -> list[ControlTokenAudit]:
+    """Inventory raw tokens before rendering, including ambiguous residuals."""
+    inventory: dict[tuple[str, str], list[object]] = {}
+    for row in rows:
+        text = row.text or ""
+        for match in ANGLE_RE.finditer(text):
+            _add_control_audit(inventory, match.group(0), "ANGLE", row.resource_class)
+        for match in DOLLAR_RE.finditer(text):
+            _add_control_audit(inventory, match.group(0), "DOLLAR", row.resource_class)
+        printf_matches = list(PRINTF_RE.finditer(text))
+        for match in printf_matches:
+            _add_control_audit(inventory, match.group(0), "PRINTF", row.resource_class)
+        for match in PRINTF_CANDIDATE_RE.finditer(text):
+            if not any(match.start() == printf.start() for printf in printf_matches):
+                _add_control_audit(inventory, match.group(0), "PERCENT_AMBIGUOUS", row.resource_class)
+        for match in BRACE_RE.finditer(text):
+            _add_control_audit(inventory, match.group(0), "BRACE", row.resource_class)
+        for match in BACKSLASH_RE.finditer(text):
+            family = "ESCAPED_LAYOUT" if ESCAPED_LAYOUT_RE.fullmatch(match.group(0)) else "BACKSLASH"
+            _add_control_audit(inventory, match.group(0), family, row.resource_class)
+        for character in text:
+            if character in "\r\n\t":
+                _add_control_audit(inventory, {"\r": "\\r", "\n": "\\n", "\t": "\\t"}[character], "LAYOUT", row.resource_class)
+    result: list[ControlTokenAudit] = []
+    for (_family, token), values in inventory.items():
+        result.append(ControlTokenAudit(token, int(values[0]), tuple(sorted(values[1])), str(values[2]), str(values[3]), str(values[4])))
+    return sorted(result, key=lambda item: (-item.occurrence_count, item.token, item.classification))
+
+
+def write_control_token_audit(rows: Sequence[CorpusRow], metadata: dict[str, object], output_path: Path) -> list[ControlTokenAudit]:
+    audits = control_token_audit(rows)
+    ambiguous = [item for item in audits if item.classification == "AMBIGUOUS"]
+    report = [
+        "# MGSPW production FONT control-token audit", "",
+        "Status: **PASS** (raw-token inventory completed; ambiguous forms are listed explicitly).", "",
+        "## Corpus and rule provenance", "",
+        f"- Old five-class compiled production manifest: **{metadata['manifest_rows']:,}** rows.",
+        f"- `BRIEFING_NBE`: **{metadata['briefing_files']:,}** files / **{metadata['briefing_rows']:,}** physical rows.",
+        f"- Total production rows audited: **{metadata['production_rows']:,}**.",
+        "- Scope is the current compiled object manifest plus current `translations/briefing/*.csv`; historical experiments, backups, fixtures, and reference-only text are excluded.",
+        "- Angle classification reuses the production compilers' `angle_control_signature`: valid Ruby, `<I=...>`, `<C=...>`, `<->`, and named angle controls are controls; other complete angle literals remain visible text.",
+        "- Width-bearing printf classification uses the repository's existing broad `tools/Build-FontXprV2.py` rule because `%02d` and `%2d` occur in production; this closes the Phase 1 narrow-regex boundary.",
+        "- Nested forms such as `<$1>` appear once as an angle token and once in the overlapping dollar inventory, matching the existing compiler inventory model.", "",
+        "## Required probe tokens", "", "| probe | observed occurrence count | result |", "|---|---:|---|",
+    ]
+    for token in ("<MISSION>", "<ALERT>", "<HUNTING QUEST>", "$NAME", "$100", "%s", "%d", "%02d", "%u", "%x", "%.2f", "\\r", "\\n", "\\t"):
+        count = sum(item.occurrence_count for item in audits if item.token == token)
+        report.append(f"| `{token}` | {count:,} | {'OBSERVED' if count else 'NOT OBSERVED'} |")
+    report.extend(["", "## Raw token inventory", "", "| token | occurrence_count | resource_classes | classification | classification_source | rendered_effect |", "|---|---:|---|---|---|---|"])
+    for item in audits:
+        token = item.token.replace("|", "\\|").replace("\n", "\\n").replace("\r", "\\r").replace("\t", "\\t")
+        source = item.classification_source.replace("|", "\\|")
+        effect = item.rendered_effect.replace("|", "\\|")
+        report.append(f"| `{token}` | {item.occurrence_count:,} | {', '.join(item.resource_classes)} | {item.classification} | {source} | {effect} |")
+    report.extend(["", "## Ambiguous tokens", "", f"Ambiguous distinct tokens: **{len(ambiguous):,}**.", ""])
+    if ambiguous:
+        report.extend(["| token | occurrence_count | resource_classes | reason |", "|---|---:|---|---|"])
+        report.extend(f"| `{item.token}` | {item.occurrence_count:,} | {', '.join(item.resource_classes)} | {item.classification_source} |" for item in ambiguous)
+    else:
+        report.append("None found in the current production corpus.")
+    report.extend(["", "## Charset consequence", "", "Only CONTROL and PLACEHOLDER syntax is removed by the builder. VISIBLE angle literals remain glyph text. AMBIGUOUS forms, if any, remain in the rendered stream and are reported instead of being silently deleted.", ""])
+    atomic_write_text(output_path, "\n".join(report))
+    return audits
+
+
 def rendered_text(text: str) -> str:
     """Return display-relevant characters and remove runtime syntax.
 
@@ -171,6 +300,8 @@ def rendered_text(text: str) -> str:
                 raise FontBuildPhase1Error(f"malformed Ruby token: {token!r}")
             base, reading = payload.split(",", 1)
             return base + reading
+        if ANGLE_WRAPPED_PLACEHOLDER_RE.fullmatch(token):
+            return ""
         if token.startswith("<I=") or token.startswith("<C=") or token == "<->":
             return ""
         if CONTROL_ANGLE_RE.match(token):
@@ -429,6 +560,8 @@ def write_charset_outputs(
         "",
         f"- Total display-relevant Unicode codepoint occurrences: **{total_occurrences:,}**.",
         f"- Unique codepoints: **{len(entries):,}**.",
+        f"- Phase 1 baseline comparison: unique codepoints `2,904 -> {len(entries):,}` (**{'PASS' if len(entries) == 2904 else 'FAIL'}**); unique Han `2,721 -> {sum(is_han(entry.codepoint) for entry in entries):,}` (**{'PASS' if sum(is_han(entry.codepoint) for entry in entries) == 2721 else 'FAIL'}**).",
+        "- The occurrence total may change when a previously missed control form is correctly excluded; this is not corpus drift when the source SHA256 and production row counts remain unchanged.",
         f"- Rows containing only stripped control/layout syntax: **{census_metadata['empty_after_controls']:,}**.",
         "",
         "| category | unique codepoints | occurrences |",
@@ -951,6 +1084,11 @@ def main() -> int:
         )
         entries, census_metadata = census(rows)
         write_charset_outputs(entries, metadata, census_metadata, args.output_dir / "charset")
+        write_control_token_audit(
+            rows,
+            metadata,
+            args.output_dir / "reports/FONT_CONTROL_TOKEN_AUDIT.md",
+        )
         build_semantics_report(
             fonts,
             args.output_dir / "research/CLEAN_JPN_FONT_BUILD_SEMANTICS.md",

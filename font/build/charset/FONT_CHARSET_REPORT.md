@@ -13,21 +13,23 @@ Status: **PASS** (deterministic census; selector split remains intentionally unr
 
 ## Counts
 
-- Total display-relevant Unicode codepoint occurrences: **1,253,865**.
+- Total display-relevant Unicode codepoint occurrences: **1,253,621**.
 - Unique codepoints: **2,904**.
-- Rows containing only stripped control/layout syntax: **28**.
+- Phase 1 baseline comparison: unique codepoints `2,904 -> 2,904` (**PASS**); unique Han `2,721 -> 2,721` (**PASS**).
+- The occurrence total may change when a previously missed control form is correctly excluded; this is not corpus drift when the source SHA256 and production row counts remain unchanged.
+- Rows containing only stripped control/layout syntax: **40**.
 
 | category | unique codepoints | occurrences |
 |---|---:|---:|
 | Han | 2,721 | 784,082 |
-| ASCII (including U+0020 layout space) | 91 | 327,941 |
-| Unicode decimal digits | 17 | 36,373 |
-| Latin | 72 | 242,963 |
+| ASCII (including U+0020 layout space) | 91 | 327,697 |
+| Unicode decimal digits | 17 | 36,265 |
+| Latin | 72 | 242,907 |
 | Kana | 16 | 1,011 |
 | Chinese punctuation policy set | 21 | 128,667 |
 | Japanese/fullwidth punctuation policy set | 21 | 107,382 |
-| All Unicode punctuation | 52 | 152,350 |
-| Unicode symbols | 24 | 2,299 |
+| All Unicode punctuation | 52 | 152,294 |
+| Unicode symbols | 24 | 2,275 |
 | Characters above U+FFFF | 0 | 0 |
 
 The policy-set rows overlap by design: for example `。` is relevant to both Chinese and Japanese punctuation review. `is_punctuation` in the CSV is the Unicode general-category result.

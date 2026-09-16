@@ -1,11 +1,13 @@
-# SELF_OWNED FONT BUILDER — PHASE 1 Luna handoff
+# SELF_OWNED FONT BUILDER — PHASE 1 Luna handoff (ARCHIVED PHASE-1 HANDOFF SNAPSHOT)
 
 交接时间：2026-09-16（Asia/Hong_Kong）
 仓库：`railgun0w0/MGSPW-JPVoice-CNText-V2`
 本地 checkout：`D:\GAME\test\steam 合金装备大师合集2 合金装备和平行者汉化补丁\JPVoice_CNText_V2`
 分支：`sol-translation`
 
-本文件从暂停点继续维护；下文同时保留暂停时的阻塞原因，并记录已经完成的 Phase 1 验证结果。
+> Current status: **Phase 1 complete and pushed**; `HEAD = 97a712bcce0fb45311ed548d4874299ba8fb4a38`.
+>
+> This is an archived Phase-1 handoff snapshot. Historical pause-point notes below are retained for provenance and are not a current pending-work list.
 
 ## 1. 必须继续遵守的 authoritative baseline
 
@@ -47,7 +49,7 @@
 2. `docs/FONT_TECHNICAL_STATE.md`
    - 整理日期改为 `2026-09-16`
 
-当前分支相对 `origin/sol-translation` 为 ahead 1。基线提交仍是：
+Phase 1 完成时分支与 `origin/sol-translation` 已同步。基线提交为：
 
 ```text
 44b7b160b1bd4df8d53e652c5103515f635b0a8d docs: correct font evidence provenance
@@ -306,5 +308,5 @@ font/build/reports/...
 - 未生成最终 release font。
 - 未下载、复制或提交 Microsoft/开源字体。
 - 未使用 MLG_CN FontData/charmap/GlyphRecord/bitmap 作为 production 输入。
-- 本轮正式 commits 为 `23d262f`（baseline corrections）与 `3e83c3e`（Phase 1 builder/report bundle）。
+- 本轮正式 commits 为 `23d262f`（baseline corrections）与 `97a712b`（Phase 1 builder/report bundle）。
 - 与本轮无关的历史字体、PoC、analysis 和 fixture 仍保持未跟踪，最终状态必须以精确 `git status` 为准。
