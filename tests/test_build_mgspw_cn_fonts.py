@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib.util
+import struct
 import sys
 from pathlib import Path
 
@@ -35,6 +36,39 @@ def test_production_corpus_grammar_inventory_uses_observed_tokens():
     assert all(item.classification != "AMBIGUOUS" for item in audits)
     for absent in ("<MISSION>", "<ALERT>", "<HUNTING QUEST>", "%u", "%x", "%.2f"):
         assert all(item.token != absent for item in audits)
+
+
+def test_clean_00c7_phase2a_integration_is_deterministic(tmp_path):
+    base = BUILDER.load_clean_font(
+        "00c7c9f9.xpr", ROOT / "font/JPN/00c7c9f9.xpr"
+    )
+    source_font = Path(r"C:\Windows\Fonts\Noto Sans SC Bold (TrueType).otf")
+    assert source_font.is_file()
+    required = {0x4E00, 0x4E8C, 0x9FA5}
+    first = BUILDER.build_clean_00c7_fixture(
+        base,
+        source_font,
+        tmp_path / "first",
+        face_index=0,
+        required_codepoints=required,
+        charset_source_hash="test-charset",
+    )
+    second = BUILDER.build_clean_00c7_fixture(
+        base,
+        source_font,
+        tmp_path / "second",
+        face_index=0,
+        required_codepoints=required,
+        charset_source_hash="test-charset",
+    )
+    assert first["plaintext_xpr_sha256"] == second["plaintext_xpr_sha256"]
+    assert first["encrypted_xpr_sha256"] == second["encrypted_xpr_sha256"]
+    encrypted = (tmp_path / "first" / "00c7c9f9.xpr").read_bytes()
+    decrypted = BUILDER.outer_transform(encrypted, BUILDER.filename_seed("00c7c9f9.xpr"))
+    parsed = BUILDER.XprFont(decrypted)
+    assert parsed.texture.width == parsed.texture.height == parsed.texture.pitch == 4096
+    assert parsed.font_data.record_prefix == struct.pack(">H", len(parsed.font_data.glyphs))
+    assert all(parsed.font_data.charmap[cp] != 0 for cp in required)
 
 
 def test_category_flags_distinguish_han_kana_ascii_and_non_bmp():

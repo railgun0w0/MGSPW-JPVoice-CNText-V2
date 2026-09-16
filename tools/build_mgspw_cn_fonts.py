@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
-"""Phase-1 self-owned MGSPW Chinese font builder foundation.
+"""Self-owned MGSPW Chinese font builder.
 
 This phase is intentionally read-only with respect to game assets.  It can:
 
 * census the current six-class production corpus;
 * parse and document the two clean JPN font bases;
 * simulate deterministic 4096x4096 packing; and
-* prove clean decrypt/rebuild/encrypt round-trips.
+* prove clean decrypt/rebuild/encrypt round-trips; and
+* build a local-only clean JPN 00C7 Phase-2A runtime fixture from an
+  external SC font.
 
-Rasterization and release XPR generation are later-phase operations.  The CLI
-already reserves the external font arguments that those operations will use.
-No third-party localization XPR participates in this program.
+No third-party localization XPR participates in this program. Phase-2A output
+is a local technical fixture and is not a release asset.
 """
 
 from __future__ import annotations
@@ -18,7 +19,9 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import json
 import re
+import subprocess
 import struct
 import sys
 import unicodedata
@@ -26,6 +29,9 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, Sequence
+
+from PIL import Image, ImageDraw, ImageFont
+from fontTools.ttLib import TTFont
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -634,6 +640,391 @@ def load_clean_font(selector: str, path: Path) -> CleanFont:
     return CleanFont(selector, path, encrypted, plaintext, parsed)
 
 
+@dataclass(frozen=True)
+class Phase2AGlyph:
+    codepoint: int
+    bitmap: bytes
+    width: int
+    height: int
+    bearing: int
+    advance: int
+    glyph_source: str
+    font_file: str
+    font_file_sha256: str
+    font_face_index: int | None
+    font_size: int | None
+    baseline: int | None
+    source_bbox: tuple[int, int, int, int] | None
+    is_han_override: bool
+    is_fallback: bool = False
+    atlas_x: int = 0
+    atlas_y: int = 0
+
+
+def _percentile(values: Sequence[int], percentile: float) -> int:
+    if not values:
+        return 0
+    ordered = sorted(values)
+    index = min(len(ordered) - 1, int((percentile / 100.0) * (len(ordered) - 1)))
+    return ordered[index]
+
+
+def _font_cmap(path: Path, face_index: int) -> set[int]:
+    try:
+        font = TTFont(str(path), fontNumber=face_index, lazy=True)
+        result = set()
+        for table in font["cmap"].tables:
+            result.update(table.cmap)
+        font.close()
+        return result
+    except Exception as error:  # pragma: no cover - font container failures are environment-specific
+        raise FontBuildPhase1Error(f"cannot inspect external font cmap: {path}: {error}") from error
+
+
+def _rasterize_external_glyph(
+    font: ImageFont.FreeTypeFont,
+    character: str,
+    codepoint: int,
+    source_name: str,
+    source_path: Path,
+    source_hash: str,
+    face_index: int,
+    font_size: int,
+    baseline: int,
+    cell_height: int,
+    is_han_override: bool,
+) -> Phase2AGlyph:
+    bbox = font.getbbox(character, anchor="ls")
+    if bbox is None:
+        raise FontBuildPhase1Error(f"external font has no bbox for U+{codepoint:04X}")
+    left, top, right, bottom = bbox
+    width = max(1, right - left)
+    if baseline + top < 0 or baseline + bottom > cell_height:
+        raise FontBuildPhase1Error(
+            f"rasterized U+{codepoint:04X} is cropped at baseline={baseline}: bbox={bbox}, cell_height={cell_height}"
+        )
+    image = Image.new("L", (width, cell_height), 0)
+    ImageDraw.Draw(image).text(
+        (-left, baseline),
+        character,
+        font=font,
+        fill=255,
+        anchor="ls",
+    )
+    bitmap = image.tobytes()
+    if not any(bitmap):
+        raise FontBuildPhase1Error(f"external font produced an empty bitmap for U+{codepoint:04X}")
+    advance = max(0, min(0xFFFF, int(round(font.getlength(character)))))
+    return Phase2AGlyph(
+        codepoint=codepoint,
+        bitmap=bitmap,
+        width=width,
+        height=cell_height,
+        bearing=max(-0x8000, min(0x7FFF, int(left))),
+        advance=advance,
+        glyph_source=source_name,
+        font_file=str(source_path.resolve()),
+        font_file_sha256=source_hash,
+        font_face_index=face_index,
+        font_size=font_size,
+        baseline=baseline,
+        source_bbox=(left, top, right, bottom),
+        is_han_override=is_han_override,
+    )
+
+
+def _extract_clean_bitmap(texture: bytes, atlas_width: int, glyph: GlyphRecord) -> bytes:
+    width = glyph.u1 - glyph.u0
+    height = glyph.v1 - glyph.v0
+    if width <= 0 or height <= 0:
+        raise FontBuildPhase1Error("clean glyph has an empty UV rectangle")
+    rows = []
+    for y in range(glyph.v0, glyph.v1):
+        start = y * atlas_width + glyph.u0
+        rows.append(texture[start : start + width])
+    bitmap = b"".join(rows)
+    if len(bitmap) != width * height:
+        raise FontBuildPhase1Error("clean glyph extraction exceeded atlas bounds")
+    return bitmap
+
+
+def _rebuild_phase2a_user(base: CleanFont, glyphs: Sequence[Phase2AGlyph], records: Sequence[GlyphRecord]) -> bytes:
+    last_code = max(base.parsed.font_data.last_code, *(glyph.codepoint for glyph in glyphs if glyph.codepoint))
+    charmap = [0] * (last_code + 1)
+    for glyph_index, glyph in enumerate(glyphs):
+        if glyph.codepoint and charmap[glyph.codepoint]:
+            raise FontBuildPhase1Error(f"duplicate final charmap codepoint U+{glyph.codepoint:04X}")
+        if glyph.codepoint:
+            charmap[glyph.codepoint] = glyph_index
+    if len(records) != len(glyphs) or len(records) > 0xFFFF:
+        raise FontBuildPhase1Error("invalid final GlyphRecord count")
+    payload = bytearray(base.parsed.font_data.payload[:FONT_CHARMAP_OFFSET])
+    struct.pack_into(">H", payload, 0x14, last_code)
+    payload.extend(struct.pack(f">{len(charmap)}H", *charmap))
+    payload.extend(b"\0" * (align_up(len(payload), 8) - len(payload)))
+    payload.extend(struct.pack(">H", len(records)))
+    payload.extend(glyph_bytes(records))
+    payload.extend(base.parsed.font_data.suffix)
+    FontData.parse(bytes(payload))
+    return bytes(payload)
+
+
+def _phase2a_tx2d_header(template: bytes, width: int, height: int, pitch: int) -> bytes:
+    if len(template) < 0x34 or pitch % 32:
+        raise FontBuildPhase1Error("invalid Phase-2A TX2D geometry")
+    header = bytearray(template)
+    fetch0, fetch1, fetch2 = struct.unpack_from(">3I", header, 0x1C)
+    fetch0 = (fetch0 & ((1 << 22) - 1)) | ((pitch // 32) << 22)
+    fetch0 &= 0x7FFFFFFF
+    fetch1 = (fetch1 & ~0xFF) | 2
+    fetch2 = (fetch2 & ~((0x1FFF) | (0x1FFF << 13))) | ((width - 1) & 0x1FFF) | (((height - 1) & 0x1FFF) << 13)
+    struct.pack_into(">3I", header, 0x1C, fetch0, fetch1, fetch2)
+    return bytes(header)
+
+
+def _pack_phase2a_glyphs(glyphs: Sequence[Phase2AGlyph], padding: int, width: int, height: int) -> tuple[list[Phase2AGlyph], bytes, int, bool]:
+    if padding < 0:
+        raise FontBuildPhase1Error("padding must be non-negative")
+    atlas = bytearray(width * height)
+    placed: list[Phase2AGlyph] = []
+    cursor_x = padding
+    cursor_y = padding
+    row_height = 0
+    for glyph in glyphs:
+        if glyph.width + padding * 2 > width or glyph.height + padding * 2 > height:
+            raise FontBuildPhase1Error(f"glyph U+{glyph.codepoint:04X} cannot fit atlas geometry")
+        if cursor_x + glyph.width + padding > width:
+            cursor_y += row_height + padding
+            cursor_x = padding
+            row_height = 0
+        if cursor_y + glyph.height + padding > height:
+            raise FontBuildPhase1Error(f"atlas overflow at U+{glyph.codepoint:04X}")
+        placed_glyph = Phase2AGlyph(**{**glyph.__dict__, "atlas_x": cursor_x, "atlas_y": cursor_y})
+        placed.append(placed_glyph)
+        for row in range(glyph.height):
+            source_start = row * glyph.width
+            target_start = (cursor_y + row) * width + cursor_x
+            atlas[target_start : target_start + glyph.width] = glyph.bitmap[source_start : source_start + glyph.width]
+        cursor_x += glyph.width + padding
+        row_height = max(row_height, glyph.height)
+    packed_height = cursor_y + row_height + padding
+    # Expanded rectangles may touch at the required padding boundary, but may
+    # never overlap. This is intentionally independent from the shelf logic.
+    for left_index, left in enumerate(placed):
+        for right in placed[left_index + 1 :]:
+            if (
+                left.atlas_x - padding < right.atlas_x + right.width
+                and right.atlas_x - padding < left.atlas_x + left.width
+                and left.atlas_y - padding < right.atlas_y + right.height
+                and right.atlas_y - padding < left.atlas_y + left.height
+            ):
+                raise FontBuildPhase1Error(f"packed glyph padding overlap: U+{left.codepoint:04X}/U+{right.codepoint:04X}")
+    return placed, bytes(atlas), packed_height, True
+
+
+def _write_phase2a_manifest(path: Path, glyphs: Sequence[Phase2AGlyph], records: Sequence[GlyphRecord]) -> None:
+    fields = [
+        "selector", "codepoint", "character", "glyph_index", "atlas_x", "atlas_y", "width", "height",
+        "bearing", "advance", "glyph_source", "font_file", "font_file_sha256", "font_face_index",
+        "font_size", "baseline", "bitmap_sha256", "is_han_override",
+    ]
+    rows = []
+    for index, (glyph, record) in enumerate(zip(glyphs, records)):
+        rows.append({
+            "selector": "00c7c9f9.xpr",
+            "codepoint": f"U+{glyph.codepoint:04X}",
+            "character": "" if glyph.is_fallback else chr(glyph.codepoint),
+            "glyph_index": index,
+            "atlas_x": glyph.atlas_x,
+            "atlas_y": glyph.atlas_y,
+            "width": glyph.width,
+            "height": glyph.height,
+            "bearing": record.bearing_x,
+            "advance": record.advance,
+            "glyph_source": "CLEAN_JPN_PRESERVED" if glyph.is_fallback else glyph.glyph_source,
+            "font_file": glyph.font_file,
+            "font_file_sha256": glyph.font_file_sha256,
+            "font_face_index": "" if glyph.font_face_index is None else glyph.font_face_index,
+            "font_size": "" if glyph.font_size is None else glyph.font_size,
+            "baseline": "" if glyph.baseline is None else glyph.baseline,
+            "bitmap_sha256": sha256(glyph.bitmap),
+            "is_han_override": "YES" if glyph.is_han_override else "NO",
+        })
+    write_csv(path, fields, rows)
+
+
+def build_clean_00c7_fixture(
+    base: CleanFont,
+    font_path: Path,
+    output_dir: Path,
+    runtime_test_dir: Path | None = None,
+    face_index: int = 0,
+    font_size: int = 56,
+    padding: int = 2,
+    required_codepoints: set[int] | None = None,
+    charset_source_hash: str = "",
+) -> dict[str, object]:
+    """Build a deterministic local-only full-rebuild 00C7 fixture."""
+    if base.selector != "00c7c9f9.xpr":
+        raise FontBuildPhase1Error("Phase-2A only accepts clean JPN 00c7c9f9.xpr")
+    font_path = font_path.resolve()
+    if not font_path.is_file():
+        raise FontBuildPhase1Error(f"missing external SC font: {font_path}")
+    source_hash = sha256(font_path.read_bytes())
+    cmap = _font_cmap(font_path, face_index)
+    try:
+        external_font = ImageFont.truetype(str(font_path), font_size, index=face_index)
+    except Exception as error:
+        raise FontBuildPhase1Error(f"cannot load external font face {face_index}: {font_path}: {error}") from error
+    source_family, source_style = external_font.getname()
+    source_name = f"{source_family} {source_style}".strip()
+    if required_codepoints is None:
+        required_codepoints = set()
+        for entry in census(load_production_corpus(ROOT / "build/translation/compiled_translation_manifest.csv", ROOT / "translations/briefing")[0])[0]:
+            required_codepoints.add(entry.codepoint)
+    required_codepoints = set(required_codepoints)
+    if any(codepoint > 0xFFFF for codepoint in required_codepoints):
+        raise FontBuildPhase1Error("Phase-2A clean FontData charmap is BMP-only")
+    # The 56px source has a few generated Latin-1/fullwidth glyphs whose
+    # FreeType bbox is taller than the Han bbox.  A 72px cell with baseline
+    # 56 keeps every observed production glyph inside the bitmap without
+    # cropping while retaining the requested 56px raster size.
+    baseline = 56
+    cell_height = 72
+    source_bbox_heights: list[int] = []
+    source_bbox_widths: list[int] = []
+    rasterized: dict[int, Phase2AGlyph] = {}
+    missing_cmap = sorted(codepoint for codepoint in required_codepoints if is_han(codepoint) and codepoint not in cmap)
+    if missing_cmap:
+        raise FontBuildPhase1Error("external SC font lacks required Han: " + ", ".join(f"U+{cp:04X}" for cp in missing_cmap[:12]))
+    for codepoint in sorted(required_codepoints):
+        if is_han(codepoint) or codepoint not in base.parsed.font_data.mapped():
+            glyph = _rasterize_external_glyph(
+                external_font,
+                chr(codepoint),
+                codepoint,
+                source_name,
+                font_path,
+                source_hash,
+                face_index,
+                font_size,
+                baseline,
+                cell_height,
+                is_han(codepoint),
+            )
+            rasterized[codepoint] = glyph
+            if glyph.source_bbox is not None:
+                source_bbox_widths.append(glyph.source_bbox[2] - glyph.source_bbox[0])
+                source_bbox_heights.append(glyph.source_bbox[3] - glyph.source_bbox[1])
+
+    final_glyphs: list[Phase2AGlyph] = [
+        Phase2AGlyph(0, _extract_clean_bitmap(base.parsed.texture.texels, base.parsed.texture.width, base.parsed.font_data.glyphs[0]), base.parsed.font_data.glyphs[0].u1 - base.parsed.font_data.glyphs[0].u0, base.parsed.font_data.glyphs[0].v1 - base.parsed.font_data.glyphs[0].v0, base.parsed.font_data.glyphs[0].bearing_x, base.parsed.font_data.glyphs[0].advance, "CLEAN_JPN_PRESERVED", "", "", None, None, None, None, False, True)
+    ]
+    clean_mapped = base.parsed.font_data.mapped()
+    for codepoint, old_index in sorted(clean_mapped.items()):
+        if codepoint == 0 or is_han(codepoint):
+            continue
+        old = base.parsed.font_data.glyphs[old_index]
+        final_glyphs.append(Phase2AGlyph(codepoint, _extract_clean_bitmap(base.parsed.texture.texels, base.parsed.texture.width, old), old.u1 - old.u0, old.v1 - old.v0, old.bearing_x, old.advance, "CLEAN_JPN_PRESERVED", "", "", None, None, None, None, False))
+    final_glyphs.extend(rasterized[codepoint] for codepoint in sorted(rasterized))
+    placed, atlas, packed_height, _ = _pack_phase2a_glyphs(final_glyphs, padding, 4096, 4096)
+    records = []
+    for glyph in placed:
+        bearing = glyph.bearing & 0xFFFF
+        records.append(GlyphRecord(glyph.atlas_x, glyph.atlas_y, glyph.atlas_x + glyph.width, glyph.atlas_y + glyph.height, bearing, glyph.width, glyph.advance, 0))
+    user_payload = _rebuild_phase2a_user(base, placed, records)
+    tx_header = _phase2a_tx2d_header(base.parsed.tx2d.payload, 4096, 4096, 4096)
+    rebuilt_plaintext = base.parsed.rebuild({("USER", "FontData"): user_payload, ("TX2D", "FontTexture"): tx_header}, texture_texels=atlas)
+    rebuilt = XprFont(rebuilt_plaintext)
+    encrypted = outer_transform(rebuilt_plaintext, filename_seed("00c7c9f9.xpr"))
+    decrypted_again = outer_transform(encrypted, filename_seed("00c7c9f9.xpr"))
+    output_dir.mkdir(parents=True, exist_ok=True)
+    xpr_path = output_dir / "00c7c9f9.xpr"
+    xpr_path.write_bytes(encrypted)
+    _write_phase2a_manifest(output_dir / "FONT_GLYPH_MANIFEST.csv", placed, records)
+    required_mapping_ok = all(cp < len(rebuilt.font_data.charmap) and rebuilt.font_data.charmap[cp] != 0 and rebuilt.font_data.charmap[cp] < len(rebuilt.font_data.glyphs) for cp in required_codepoints)
+    han_source_ok = all(g.glyph_source == source_name for g in placed if g.is_han_override)
+    no_overlap = True
+    for i, left in enumerate(placed):
+        for right in placed[i + 1 :]:
+            if left.atlas_x < right.atlas_x + right.width and right.atlas_x < left.atlas_x + left.width and left.atlas_y < right.atlas_y + right.height and right.atlas_y < left.atlas_y + left.height:
+                no_overlap = False
+    checks = {
+        "decrypt_output_is_XPR2": decrypted_again[:4] == b"XPR2",
+        "resource_descriptors_in_bounds": all(r.offset + r.size <= rebuilt.texture_data_offset for r in rebuilt.resources),
+        "resources_do_not_overlap": not any(left.offset + left.size > right.offset for left, right in zip(sorted(rebuilt.resources, key=lambda item: item.offset), sorted(rebuilt.resources, key=lambda item: item.offset)[1:])),
+        "USER_parse_succeeds": True,
+        "charmap_indices_valid": all(index < len(rebuilt.font_data.glyphs) for index in rebuilt.font_data.charmap),
+        "count_prefix_equals_record_count": rebuilt.font_data.record_prefix == struct.pack(">H", len(rebuilt.font_data.glyphs)),
+        "all_UV_rectangles_in_4096x4096": not validate_glyph_rectangles(rebuilt.font_data, rebuilt.texture),
+        "no_packed_glyph_overlap": no_overlap,
+        "no_padding_violation": True,
+        "TX2D_data_size_is_4096_squared": len(rebuilt.texture.texels) == 4096 * 4096,
+        "TX2D_pitch_is_4096": rebuilt.texture.pitch == 4096,
+        "TX2D_format_is_2": rebuilt.texture.data_format == 2,
+        "TX2D_tiled_is_0": rebuilt.texture.tiled == 0,
+        "TX2D_endian_is_0": rebuilt.texture.endian == 0,
+        "required_production_codepoints_represented": required_mapping_ok,
+        "all_Han_use_selected_SC_font": han_source_ok,
+        "no_MLG_CN_glyph_source": all(g.glyph_source not in {"MLG", "MLG_CN", "DONOR", "UNKNOWN"} for g in placed),
+        "encrypt_decrypt_roundtrip_exact": decrypted_again == rebuilt_plaintext,
+    }
+    git_commit = subprocess.run(["git", "rev-parse", "HEAD"], cwd=ROOT, capture_output=True, text=True, check=False).stdout.strip()
+    build_manifest = {
+        "builder_git_commit": git_commit,
+        "clean_base_path": str(base.path.resolve()),
+        "clean_base_sha256": sha256(base.encrypted),
+        "clean_plaintext_sha256": sha256(base.plaintext),
+        "source_font_path": str(font_path),
+        "source_font_sha256": source_hash,
+        "source_font_face_index": face_index,
+        "source_font_family": source_family,
+        "source_font_style": source_style,
+        "charset_source_hash": charset_source_hash,
+        "charset_unique_count": len(required_codepoints),
+        "charset_han_count": sum(is_han(cp) for cp in required_codepoints),
+        "raster": {"pixel_size": font_size, "cell_height": cell_height, "baseline": baseline, "backend": "Pillow 9.0.1 / FreeType 2.11.1", "grayscale_mode": "8-bit linear grayscale", "hinting_policy": "Pillow default FreeType load; no synthetic stroke", "padding": padding},
+        "packing_algorithm": "deterministic stable shelf; fallback, clean non-Han by codepoint, generated codepoints by codepoint; no rotation",
+        "atlas_sha256": sha256(atlas),
+        "user_sha256": sha256(user_payload),
+        "glyph_record_sha256": sha256(glyph_bytes(records)),
+        "plaintext_xpr_sha256": sha256(rebuilt_plaintext),
+        "encrypted_xpr_sha256": sha256(encrypted),
+        "record_count": len(records),
+        "mapped_count": len(rebuilt.font_data.mapped()),
+        "preserved_clean_glyph_count": sum(1 for g in placed if g.glyph_source == "CLEAN_JPN_PRESERVED"),
+        "generated_glyph_count": sum(1 for g in placed if g.glyph_source != "CLEAN_JPN_PRESERVED"),
+        "generated_han_count": sum(1 for g in placed if g.is_han_override),
+        "packed_height": packed_height,
+        "atlas_usage_percent": round((packed_height / 4096) * 100, 4),
+        "static_checks": checks,
+        "runtime_status": "CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = NOT YET TESTED",
+        "raster_bbox": {"max_width": max(source_bbox_widths, default=0), "max_height": max(source_bbox_heights, default=0), "p50_width": _percentile(source_bbox_widths, 50), "p95_width": _percentile(source_bbox_widths, 95), "p99_width": _percentile(source_bbox_widths, 99), "p50_height": _percentile(source_bbox_heights, 50), "p95_height": _percentile(source_bbox_heights, 95), "p99_height": _percentile(source_bbox_heights, 99), "overflow_or_crop_count": 0},
+    }
+    (output_dir / "FONT_BUILD_MANIFEST.json").write_text(json.dumps(build_manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    report = [
+        "# CLEAN JPN 00C7 Phase-2A validation report", "", "## STATIC PASS", "",
+        f"- Source font: `{source_name}`; face index `{face_index}`; SHA256 `{source_hash}`.",
+        f"- Raster profile: pixel size `{font_size}`, cell height `{cell_height}`, baseline `{baseline}`, padding `{padding}`, 4096×4096 8-bit grayscale.",
+        f"- Raster bbox: max `{max(source_bbox_widths, default=0)}×{max(source_bbox_heights, default=0)}`, p50 `{_percentile(source_bbox_widths, 50)}×{_percentile(source_bbox_heights, 50)}`, p95 `{_percentile(source_bbox_widths, 95)}×{_percentile(source_bbox_heights, 95)}`, p99 `{_percentile(source_bbox_widths, 99)}×{_percentile(source_bbox_heights, 99)}`, crop/overflow `0`.",
+        f"- Glyphs: `{sum(1 for g in placed if g.glyph_source == 'CLEAN_JPN_PRESERVED')}` preserved clean, `{sum(1 for g in placed if g.is_han_override)}` generated Han, `{len(records)}` total records / `{len(rebuilt.font_data.mapped())}` mapped.",
+        f"- Atlas packed height `{packed_height}` / 4096; usage `{(packed_height / 4096) * 100:.4f}%`; no overlap and padding `{padding}` validated.",
+        f"- Plaintext XPR SHA256: `{sha256(rebuilt_plaintext)}`.", f"- Encrypted XPR SHA256: `{sha256(encrypted)}`.", "",
+        "| static validation | result |", "|---|---|",
+    ]
+    report.extend(f"| {name} | {'PASS' if value else 'FAIL'} |" for name, value in checks.items())
+    report.extend(["", "## RUNTIME NOT YET TESTED", "", "`CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = NOT YET TESTED`", "", "Static parser acceptance is not runtime proof. Replace only the large 00C7 selector in a separately backed-up local test installation after reviewing `font/runtime_test/00c7_phase2a/README_TEST.md`. Do not replace 001C and do not patch the EXE.", ""])
+    (output_dir / "FONT_VALIDATION_REPORT.md").write_text("\n".join(report), encoding="utf-8")
+    if runtime_test_dir is not None:
+        runtime_test_dir.mkdir(parents=True, exist_ok=True)
+        (runtime_test_dir / "00c7c9f9.xpr").write_bytes(encrypted)
+        (runtime_test_dir / "README_TEST.md").write_text("""# 00C7 Phase-2A local runtime test\n\nThis package is local-only and was built from clean JPN `font/JPN/00c7c9f9.xpr` plus the external SC font recorded in the build manifest.\n\n1. Back up the installed large-selector `00c7c9f9.xpr` before testing.\n2. Replace only that 00C7 file in a disposable test copy of the game installation.\n3. Do not replace `001cbbd1.xpr`, do not patch the EXE, and do not alter the repository's clean inputs.\n4. Test startup, main menu, large-font Chinese UI, weapon/item descriptions, long text, ASCII/digits/English, kana/game symbols, and several formerly missing Han characters.\n5. Restore the backup after testing.\n\nRuntime status remains `CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = NOT YET TESTED` until real in-game feedback is recorded.\n""", encoding="utf-8")
+    if not all(checks.values()):
+        failed = [name for name, value in checks.items() if not value]
+        raise FontBuildPhase1Error("Phase-2A static validation failed: " + ", ".join(failed))
+    return build_manifest
+
+
 def descriptor_summary(font: CleanFont) -> list[str]:
     rows: list[str] = []
     for resource in font.parsed.resources:
@@ -1048,12 +1439,17 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="run exact clean decrypt/rebuild/encrypt validation",
     )
+    parser.add_argument(
+        "--build-clean-00c7",
+        action="store_true",
+        help="build the local-only Phase-2A clean JPN 00C7 runtime fixture",
+    )
     parser.add_argument("--large-base", type=Path, default=ROOT / "font/JPN/00c7c9f9.xpr")
     parser.add_argument("--small-base", type=Path, default=ROOT / "font/JPN/001cbbd1.xpr")
     parser.add_argument(
         "--font-file",
         type=Path,
-        help="reserved external TTF/OTF/TTC input for the future rasterization phase",
+        help="external TTF/OTF/TTC input for Phase-2A rasterization",
     )
     parser.add_argument("--font-face-index", type=int, default=0)
     parser.add_argument("--output-dir", type=Path, default=ROOT / "font/build")
@@ -1064,8 +1460,10 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--briefing-dir", type=Path, default=ROOT / "translations/briefing")
     args = parser.parse_args()
-    if not args.analyze and not args.roundtrip_clean:
-        parser.error("at least one of --analyze or --roundtrip-clean is required")
+    if not args.analyze and not args.roundtrip_clean and not args.build_clean_00c7:
+        parser.error("at least one of --analyze, --roundtrip-clean, or --build-clean-00c7 is required")
+    if args.build_clean_00c7 and args.font_file is None:
+        parser.error("--build-clean-00c7 requires --font-file")
     if args.font_face_index < 0:
         parser.error("--font-face-index must be non-negative")
     return args
@@ -1105,6 +1503,29 @@ def main() -> int:
         )
         print("ROUNDTRIP_00C7=PASS")
         print("ROUNDTRIP_001C=PASS")
+    if args.build_clean_00c7:
+        rows, metadata = load_production_corpus(
+            args.production_manifest.resolve(),
+            args.briefing_dir.resolve(),
+        )
+        entries, _ = census(rows)
+        manifest = build_clean_00c7_fixture(
+            fonts[0],
+            args.font_file.resolve(),
+            args.output_dir / "runtime_fixture_00c7",
+            ROOT / "font/runtime_test/00c7_phase2a",
+            face_index=args.font_face_index,
+            required_codepoints={entry.codepoint for entry in entries},
+            charset_source_hash=str(metadata["source_sha256"]),
+        )
+        print(f"PHASE2A_SOURCE_FONT={manifest['source_font_path']}")
+        print(f"PHASE2A_GENERATED_HAN={manifest['generated_han_count']}")
+        print(f"PHASE2A_PRESERVED={manifest['preserved_clean_glyph_count']}")
+        print(f"PHASE2A_RECORDS={manifest['record_count']}")
+        print(f"PHASE2A_PLAINTEXT_SHA256={manifest['plaintext_xpr_sha256']}")
+        print(f"PHASE2A_ENCRYPTED_SHA256={manifest['encrypted_xpr_sha256']}")
+        print("PHASE2A_STATIC=PASS")
+        print("PHASE2A_RUNTIME=NOT_YET_TESTED")
     print(f"OUTPUT_DIR={args.output_dir.resolve()}")
     return 0
 
