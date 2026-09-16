@@ -10,13 +10,11 @@ no evidence requires an EXE modification or MLG_CN production input.
 
 ## MAJOR
 
-1. **RC1 selector/package assembly is not yet a single reproducible command.**
-   The historical `build/readiness/full_package` report contains 21 files, but
-   its three font outputs are sourced from the Experimental tree and it omits
-   the proven 001c stock output. Before release, the package must be assembled
-   from the current self-owned 00c7 and 001c outputs and the 0007/000e selector
-   inclusion decision must be written down. This is a release-assembly gap,
-   not a proven runtime failure.
+None. The RC1 selector/package decision is resolved by the actual tested
+installation: replace only self-owned `00c7c9f9.xpr` and `001cbbd1.xpr`.
+
+The older `Assemble-JpnCnTestPackage.py` / `full_package` 0007/000E rows are
+historical/reference-only and are excluded from the current RC1 manifest.
 
 ## MINOR
 

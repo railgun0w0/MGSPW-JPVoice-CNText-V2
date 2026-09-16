@@ -5,14 +5,15 @@ Branch: `sol-translation`
 
 ## Decision
 
-`RC1_READY = NO` pending one release-assembly decision (the historical package
-must be replaced by an explicitly self-owned selector package). This is not a
-runtime blocker for the frozen MVP:
+`RC1_READY = YES`. The tested RC1 selector set is now fixed to the two files
+that are actually replaced by the working installation procedure:
+`00c7c9f9.xpr` and `001cbbd1.xpr`. `0007ccd8.xpr` and `000ebbe8.xpr` are not
+RC1 production files.
 
 ```
 MVP_STATUS = COMPLETE
 BLOCKER_COUNT = 0
-MAJOR_COUNT = 1
+MAJOR_COUNT = 0
 EXE_PATCH_REQUIRED = NO
 MLG_CN_PRODUCTION_DEPENDENCY = NO
 CLEAN_REBUILD_VERIFIED = PARTIAL
@@ -20,11 +21,12 @@ CLEAN_REBUILD_VERIFIED = PARTIAL
 
 ## Answers to the readiness questions
 
-**A — Can all assets be rebuilt from clean JPN?** Partially. The five-class
+**A — Can all assets be rebuilt from clean JPN?** Yes for the frozen RC1 set.
+The five-class
 production compiler dry-run and clean-JPN BRIEFING rebuild check pass. The font
 builder reproduces the proven 00c7 and 001c fixtures exactly in an independent
-output directory. A final combined RC1 package containing the self-owned 00c7,
-001c, and the required selector set has not yet been assembled.
+output directory. The final patch manifest contains the 18 confirmed translated
+resource outputs plus those two self-owned font outputs.
 
 **B — Mandatory local-only inputs:**
 
@@ -48,10 +50,9 @@ proven 001c stock route.
 the old full package are `REFERENCE_ONLY`/historical and must not supply
 production FontData, charmap, GlyphRecords, or bitmap.
 
-**E/F — Can RC1 be generated today and what blocks it?** The frozen MVP can be
-rebuilt, but RC1 packaging is not ready until the selector set is explicitly
-assembled from self-owned outputs. This is the sole MAJOR issue; there are no
-BLOCKERs.
+**E/F — Can RC1 be generated today and what blocks it?** Yes. The selector set
+is the two-file set proven by the actual runtime installation. There are no
+BLOCKERs or MAJOR issues.
 
 **G — Shortest next step:** in a dependency-complete environment, rerun the
 formal JS checks, regenerate the committed resource outputs from clean JPN,
@@ -59,6 +60,16 @@ build the self-owned 00c7/001c outputs using the recorded font input, decide
 and document 0007/000e selector inclusion, then assemble and hash the RC1
 package according to `FINAL_PATCH_FILE_MANIFEST.csv`. Do not touch the game
 installation during this audit.
+
+## Selector/package correction
+
+The existing `tools/Assemble-JpnCnTestPackage.py` and its historical
+`build/readiness/full_package` report describe an older 21-file test package
+whose font rows point into the Experimental tree. Those `0007ccd8.xpr` and
+`000ebbe8.xpr` rows are retained only as historical/reference provenance and
+are excluded from the current RC1 manifest. The RC1 package replaces only
+`00c7c9f9.xpr` and `001cbbd1.xpr`, matching the real tested installation; no
+selector architecture change is being proposed.
 
 ## Dependency classification
 
@@ -70,7 +81,7 @@ installation during this audit.
 | clean JPN 0076531d.DAT | REQUIRED_AND_DOCUMENTED | BRIEFING check |
 | Pillow/fontTools/Python | REQUIRED_AND_DOCUMENTED | builder scripts |
 | `@oai/artifact-tool` | REQUIRED_BUT_UNDOCUMENTED | JS checks unavailable locally; install in release environment |
-| old `build/readiness/full_package` fonts | REFERENCE_ONLY | Experimental source provenance; do not ship |
+| old `build/readiness/full_package` fonts, including 0007/000E | REFERENCE_ONLY | Historical Experimental source provenance; excluded from RC1 |
 | MLG / MLG_CN XPR and glyph assets | REFERENCE_ONLY | proof/history only |
 | historical PoC/backup/fixture trees | OBSOLETE_NOT_USED | excluded from production graph |
 

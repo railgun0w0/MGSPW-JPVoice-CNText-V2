@@ -43,10 +43,9 @@ decrypt/parse/rebuild/encrypt/decrypt round-trips.
 - Patched MLG_CN-derived 00c7 append PoCs are not clean-JPN 00c7 structure
   proofs.
 - Paz lowercase `z` is a deferred visual QA item; it is not a blocker.
-- A current historical 21-file package still names Experimental/MLG-derived
-  font outputs and omits 001c. It is not the frozen self-owned RC1 package;
-  the final selector/package assembly decision is recorded in
-  `RELEASE_READINESS.md`.
+- The historical 21-file package and its 0007/000E font rows are
+  reference-only. The frozen RC1 package replaces only the two runtime-proven
+  self-owned files `00c7c9f9.xpr` and `001cbbd1.xpr`; no EXE change is needed.
 
 ## Frozen subsystems
 
