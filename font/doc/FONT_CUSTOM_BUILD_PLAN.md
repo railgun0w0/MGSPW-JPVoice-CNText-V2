@@ -1,6 +1,12 @@
 # MGSPW Self-Owned Font Build Plan
 
-Status: design only; no builder or XPR is implemented by this archive pass.
+Status: final release design remains open; Phase 1/2A technical builder fixtures exist, but no final release pair is productionized.
+
+## Current Phase 2B strategy checkpoint (2026-09-16)
+
+For the small selector, use a selector-specific minimal corpus first. The current required corpus is only the compiled `LOOSE_OLANG/00D0C740` rows (the known 001c Loading source); the full project-wide 2,904-codepoint union must not be used as an automatic 001c build input.
+
+The stock `001cbbd1.xpr` geometry remains the first target: `2048×1024`, pitch `2048`, format `2`, tiled `0`, endian `0`, with no EXE patch. The Phase 2B raster/packing audit found every tested profile (56/1, 54/2, 54/1, 52/2, 52/1) insufficient; see `font/build/001c/FONT_001C_STOCK_ATLAS_MATRIX.md`. No 4096×4096 output was generated, and the next geometry/runtime decision requires explicit review.
 
 ## 1. Goal and source boundary
 

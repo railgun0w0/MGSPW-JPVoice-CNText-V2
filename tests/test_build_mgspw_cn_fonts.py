@@ -17,6 +17,15 @@ BUILDER = importlib.util.module_from_spec(SPEC)
 sys.modules[SPEC.name] = BUILDER
 SPEC.loader.exec_module(BUILDER)
 
+STOCK_SPEC = importlib.util.spec_from_file_location(
+    "mgspw_font_builder_001c_stock",
+    ROOT / "tools" / "build_mgspw_001c_stock.py",
+)
+assert STOCK_SPEC is not None and STOCK_SPEC.loader is not None
+STOCK = importlib.util.module_from_spec(STOCK_SPEC)
+sys.modules[STOCK_SPEC.name] = STOCK
+STOCK_SPEC.loader.exec_module(STOCK)
+
 
 def test_rendered_text_removes_controls_but_keeps_ruby_payload_and_layout_space():
     text = "甲<R=乙,おつ> <I=ICON><$1>%02d%2d$NAME%s\\n<HUNTING QUEST>"
@@ -108,3 +117,26 @@ def test_shelf_packing_reports_geometry_overflow():
         [BUILDER.Rectangle("too-wide", 4097, 1)], width=4096, height=4096
     )
     assert result.overflow
+
+
+def test_001c_selector_corpus_is_exactly_current_00d0c740():
+    rows, metadata = STOCK.load_001c_corpus(
+        ROOT / "build/translation/compiled_translation_manifest.csv"
+    )
+    entries, _ = BUILDER.census(rows)
+    assert metadata["production_rows"] == 68
+    assert len(entries) == 441
+    assert sum(BUILDER.is_han(entry.codepoint) for entry in entries) == 398
+    assert all(row.identity.startswith("LOOSE_OLANG/00D0C740#") for row in rows)
+
+
+def test_001c_selector_audit_does_not_promote_unknown_groups(tmp_path):
+    rows = [
+        BUILDER.CorpusRow("LOOSE_OLANG", "x", "LOOSE_OLANG/00D0C740#1", "中文"),
+        BUILDER.CorpusRow("SLOT_OLANG", "x", "SLOT_OLANG/ABC#1", "中文"),
+    ]
+    STOCK.write_selector_audit(rows, tmp_path / "audit.md")
+    report = (tmp_path / "audit.md").read_text(encoding="utf-8")
+    assert "PROVEN_001C" in report
+    assert "| SLOT_OLANG | ABC | 1 | UNKNOWN |" in report
+    assert "LIKELY_001C`: **0**" in report
