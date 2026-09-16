@@ -5,6 +5,10 @@ MAIN_00C7_APPEND_RUNTIME,RUNTIME_CONFIRMED,VALIDATED,TEST2B_COUNT_PATCH and TEST
 GENERATED_GLYPH_RUNTIME,RUNTIME_CONFIRMED,VALIDATED,TEST_REAL_GLYPH_JUE and glyph_generation_profile_v1.json,Real 厥 glyph and current generated profile runtime-confirmed; final source policy remains undecided
 LOADING_FONT_PATH,RUNTIME_CONFIRMED,VALIDATED,LOADING_SMALL_JPN_STATUS.md,Loading fixture identifies JPN/001cbbd1.xpr and its own TX2D
 LOADING_GLYPH_REPLACEMENT,RUNTIME_CONFIRMED,VALIDATED,small_jpn_men_manifest.json,们 append PoC displayed instead of fallback dot
+JPN001C_RUNTIME_DIMENSION_PATCH,RUNTIME_CONFIRMED,PROVEN,font/doc/FONT_TECHNICAL_ARCHIVE.md,2048x1025 enters when runtime Height changes from 0x400 to 0x401
+JPN001C_4096_RUNTIME_PATCH,RUNTIME_CONFIRMED,PROVEN,font/doc/FONT_TECHNICAL_ARCHIVE.md,4096x4096 patched MLG000E rekey enters and renders Chinese after Width/Height patch
+JPN001C_PATCHED_MLG000E_COMPATIBILITY,RUNTIME_CONFIRMED,PROVEN,font/doc/FONT_TECHNICAL_ARCHIVE.md,Byte-identical plaintext is runtime-compatible; old crash was target-dimension mismatch
+JPN001C_FIXED_2_MIB_CAPACITY,FAILED / DEPRECATED EXPERIMENT,RETRACTED,font/doc/FONT_TECHNICAL_ARCHIVE.md,0x200000 boundary was the unpatched 2048x1024 target capacity rather than an intrinsic XPR/runtime limit
 LOADING_FONT_STYLE,UNRESOLVED,UNRESOLVED,LOADING_SMALL_JPN_STATUS.md,Technical path works but small glyph style is not final
 FINAL_MAIN_FONT_STYLE,UNRESOLVED,UNDECIDED,FONT_GLYPH_STYLE_TUNING.md,Noto D is a fallback profile only
 FINAL_SMALL_FONT_STYLE,UNRESOLVED,UNDECIDED,LOADING_SMALL_JPN_STATUS.md,No final Loading/SMALL raster profile selected

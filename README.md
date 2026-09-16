@@ -12,11 +12,16 @@
 技术基线：
 
 - [TECHNICAL_FOUNDATION.md](docs/TECHNICAL_FOUNDATION.md)：按 `VERIFIED_REUSABLE`、`OBSOLETE_OR_WRONG`、`UNKNOWN_NEEDS_REVALIDATION` 整理的格式与重建基础。
-- [FONT_TECHNICAL_STATE.md](docs/FONT_TECHNICAL_STATE.md)：当前 FONT/XPR 的 canonical 技术状态、实机证据等级、主字体与 Loading/SMALL 路径及未决设计项。
-- [FONT_STATUS_MATRIX.csv](docs/FONT_STATUS_MATRIX.csv)：canonical FONT 状态键值索引。
+- [FONT_TECHNICAL_STATE.md](docs/FONT_TECHNICAL_STATE.md)：旧位置保留的 FONT 状态摘要；最新权威结论以 `font/doc/` 为准。
+- [FONT_STATUS_MATRIX.csv](docs/FONT_STATUS_MATRIX.csv)：FONT 状态键值索引，runtime 最终结论回链 `font/doc/`。
+- [font/doc/README.md](font/doc/README.md)：FONT 正式文档权威入口与文档分工。
+- [FONT_TECHNICAL_ARCHIVE.md](font/doc/FONT_TECHNICAL_ARCHIVE.md)：JPN001c crash、runtime dimension 根因、4096×4096 实机结论与实验资产索引。
+- [FONT_PRODUCTION_BASELINE.md](font/doc/FONT_PRODUCTION_BASELINE.md)：当前可工作的 EXE/large/small Golden Baseline 与 runtime patch 安全约束。
+- [FONT_CUSTOM_BUILD_PLAN.md](font/doc/FONT_CUSTOM_BUILD_PLAN.md)：从 clean JPN 构建完全自有 large/small 中文字库的下一阶段设计。
 - [LEGACY_TOOL_AUDIT.md](docs/LEGACY_TOOL_AUDIT.md)：旧工程工具逐项审计与 V2 处置方式。
 - [CURRENT_DIRECTION.md](docs/CURRENT_DIRECTION.md)：当前翻译、构建、验收顺序与明确禁止项。
 - [BRIEFING_BUILD_HANDOFF.md](docs/BRIEFING_BUILD_HANDOFF.md)：BRIEFING production 输入、专用 builder 约束与后续 round-trip/实机流程。
+- [font/analysis/README.md](font/analysis/README.md)：V2 FONT/JPN/MLG 分析报告、coverage 数据、glyph/atlas 输出和示例的集中目录。
 
 旧五类资源仍需复用的 SLOT/CNF、RBX、DAR、OHD、loose OLANG 与 STAGEDAT 底层实现，已固定收录在 `tools/legacy_support/`。正式构建入口位于父级 `tools/`，不再从相邻的 `JPVoice_CNText_Experimental` 目录动态加载代码；`legacy_support` 中各脚本的历史 `main`、旧映射策略和硬编码目标仍不属于 production 入口。
 

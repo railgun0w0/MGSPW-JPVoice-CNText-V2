@@ -1,6 +1,6 @@
-# FONT Technical State（Canonical）
+# FONT Technical State（Reference Summary）
 
-本文件是当前 `sol-translation` 分支的 FONT 状态唯一入口。它只整理已经存在的报告、manifest、静态读回和实机记录；不替代、删除或重写历史实验产物。历史报告中仍保留的 `PENDING`、`UNRESOLVED` 或旧失败解释，应以本文的证据等级和“状态收敛”说明为准。
+本文件是旧位置保留的 FONT 状态摘要。最新权威入口是 `font/doc/README.md`；正式根因归档、Golden Baseline 与下一阶段设计分别位于 `font/doc/FONT_TECHNICAL_ARCHIVE.md`、`FONT_PRODUCTION_BASELINE.md`、`FONT_CUSTOM_BUILD_PLAN.md`。涉及 JPN001c 2 MiB/4096×4096/runtime dimension 的结论以 `font/doc/` 为准。本文只整理已经存在的报告、manifest、静态读回和实机记录；不替代、删除或重写历史实验产物。
 
 整理日期：2026-09-15（Asia/Hong_Kong）
 
@@ -16,6 +16,11 @@ GENERATED_GLYPH_RUNTIME = VALIDATED
 LOADING_FONT_PATH = RUNTIME_CONFIRMED
 LOADING_GLYPH_REPLACEMENT = VALIDATED
 LOADING_FONT_STYLE = UNRESOLVED
+
+JPN001C_RUNTIME_DIMENSION_PATCH_PROVEN = YES
+JPN001C_4096x4096_RUNTIME_PATCH_PROVEN = YES
+JPN001C_PATCHED_MLG000E_RUNTIME_COMPATIBILITY = PROVEN
+JPN001C_FIXED_2_MIB_CAPACITY = RETRACTED
 
 FINAL_MAIN_FONT_STYLE = UNDECIDED
 FINAL_SMALL_FONT_STYLE = UNDECIDED
@@ -42,42 +47,42 @@ PRODUCTION_FONT_BUILDER = NOT_COMPLETED
 原 V2 默认 FONT 路线必须保留：
 
 ```text
-MLG_CN/0007ccd8.xpr
+MLG patched/0007ccd8.xpr
     → 简单复制
     → JPN_CN/0007ccd8.xpr
 
-MLG_CN/000ebbe8.xpr
+MLG patched/000ebbe8.xpr
     → 简单复制
     → JPN_CN/000ebbe8.xpr
 
-MLG_CN/0007ccd8.xpr
+MLG patched/0007ccd8.xpr
     → 用 0007 文件名 seed 解密
     → plaintext XPR2 逻辑内容不变
     → 用 00c7 文件名 seed 重新加密
     → JPN_CN/00c7c9f9.xpr
 ```
 
-原 V2 没有重建内部 `FontData` 或 `TX2D`。`001cbbd1.xpr` 不属于原稳定 V2 的默认输出；它后来作为 Loading/SMALL_JPN 的独立运行时资源被单独定位，不能反推为主字体默认 pipeline。
+原 V2 没有重建内部 `FontData` 或 `TX2D`。官方 JPN base 只有 `00c7c9f9.xpr`（large）与 `001cbbd1.xpr`（small）；`001cbbd1.xpr` 不属于原稳定 V2 的默认输出，后来作为 Loading/SMALL_JPN 的独立运行时资源被单独定位，不能反推为主字体默认 pipeline。
 
 ```ini
 GOLDEN_V2_FONT_PIPELINE = PRESERVE
 ```
 
-证据：[`FONT_V2_CODE_ARCHAEOLOGY.md`](../FONT_V2_CODE_ARCHAEOLOGY.md)。该报告也记录了历史上找到的 copy/rekey 工具链，以及原始 V2 builder 未进入 Git 的事实。
+证据：[`FONT_V2_CODE_ARCHAEOLOGY.md`](../font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md)。该报告也记录了历史上找到的 copy/rekey 工具链，以及原始 V2 builder 未进入 Git 的事实。
 
 ## 2. 六套 unique logical fonts
 
 状态：`STATIC_CONFIRMED`。
 
-逻辑内容去重后保留六套：
+逻辑内容去重后保留六套：官方 JPN 两套、MLG 原始两套、MLG 中文扩展两套。这里的本地六套分析对象不是“clean JPN 六套”。
 
 ```text
-JPN-0007
-JPN-000E
 JPN-001C
 JPN-00C7
 MLG-0007
 MLG-000E
+MLG_CN-0007
+MLG_CN-000E
 ```
 
 `JPN_CN` 只用于 provenance 验证，不作为第七套字体重复统计：
@@ -88,7 +93,7 @@ JPN_CN/000ebbe8.xpr == MLG-000E logical content
 JPN_CN/00c7c9f9.xpr == MLG-0007 logical content re-encrypted with 00c7 seed
 ```
 
-相关证据：[`FONT_THREEWAY_CENSUS.md`](../FONT_THREEWAY_CENSUS.md)、[`FONT_SIX_UNIQUE_CHARMAP.csv`](../FONT_SIX_UNIQUE_CHARMAP.csv)。
+相关证据：[`FONT_THREEWAY_CENSUS.md`](../font/analysis/FONT_THREEWAY_CENSUS.md)、[`FONT_SIX_UNIQUE_CHARMAP.csv`](../font/analysis/FONT_SIX_UNIQUE_CHARMAP.csv)。
 
 ## 3. 主字体 00c7 append 技术
 
@@ -195,7 +200,7 @@ LOADING_GLYPH_REPLACEMENT = RUNTIME_CONFIRMED
 
 历史收敛：旧文档曾将 `LOADING_FONT_PATH` 标为 `UNRESOLVED`，并使用 charmap coverage / selector 进行定位；该结论已被 `001c` own-TX2D runtime 替换实验取代，但旧报告保留供追溯。
 
-相关证据：[`LOADING_SMALL_JPN_STATUS.md`](../LOADING_SMALL_JPN_STATUS.md)、[`SMALL_JPN_FONT_PAIR_ANALYSIS.md`](../SMALL_JPN_FONT_PAIR_ANALYSIS.md)、[`SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md`](../SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md)、[`SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`](../small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md)、[`small_jpn_men_manifest.json`](../small_jpn_men_append_poc/small_jpn_men_manifest.json)。
+相关证据：[`LOADING_SMALL_JPN_STATUS.md`](../font/analysis/LOADING_SMALL_JPN_STATUS.md)、[`SMALL_JPN_FONT_PAIR_ANALYSIS.md`](../font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md)、[`SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md`](../font/analysis/SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md)、[`SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`](../small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md)、[`small_jpn_men_manifest.json`](../small_jpn_men_append_poc/small_jpn_men_manifest.json)。
 
 ## 7. Main 与 Loading/SMALL 必须分开
 
@@ -222,7 +227,7 @@ LOADING / SMALL FONT path
 - PSP 与当前 PC `MLG_CN` 是 `DIFFERENT_FONT`：PSP glyph 通常约 `18×17/18`、advance 约 `18`；PC MLG 为 `58×67` cell、advance `62`，灰度/栅格/笔画统计也不相同。
 - PSP 资料可用于旧译语料、字体来源线索、字形风格参考和 Unicode coverage 参考；不能写成可以把 PSP PGF bitmap 无损搬进 PC XPR。
 
-PSP 考古报告：[`PSP_CN_ARCHAEOLOGY.md`](../../JPVoice_CNText_Experimental/PSP_CN_ARCHAEOLOGY.md)。
+PSP 考古报告：[`PSP_CN_ARCHAEOLOGY.md`](../../JPVoice_CNText_Experimental/psp/PSP_CN_ARCHAEOLOGY.md)。
 
 ## 9. 当前主字体 atlas / XPR 状态
 
@@ -258,7 +263,7 @@ PRODUCTION_FONT_BUILDER = NOT_COMPLETED
 | 实验 | 状态 | 后来确认了什么 |
 |---|---|---|
 | selector-aware rebuild | `FAILED / DEPRECATED EXPERIMENT` | 大范围乱码；证明不能在未完成 selector/runtime 证据时重建多个字体路径。 |
-| old expanded `001c` replacement | `FAILED / DEPRECATED EXPERIMENT` | 旧的广泛替换实验曾崩溃；不能否定后来针对 Loading 的 `001c` own-TX2D 单文件 PoC。 |
+| old expanded `001c` replacement without runtime dimension synchronization | `FAILED / DEPRECATED EXPERIMENT` | 后续 full dump 证明它把真实 input length 写入硬编码 `2048×1024` target；将 Width/Height patch 为 `4096×4096` 后，同一 patched MLG000e plaintext 已实机成功。不得再把旧失败解释为 2 MiB 固定上限、4096×4096 不支持或 USER/3146 records 不兼容。 |
 | append new index without glyph-count update | `FAILED / DEPRECATED EXPERIMENT` | 新 index `3209` 空白，直接暴露 runtime-visible glyph count mirror。 |
 | original new-atlas test before count fix | `FAILED / DEPRECATED EXPERIMENT` | 产生横向纹理异常；后来先修 count，再以 donor bitmap 验证 new slot。 |
 | YaHei one-off crash | `FAILED / DEPRECATED EXPERIMENT` | 结构化 diff 显示 slot 外差异为 `0`、加密有效；后续无法稳定复现，状态为 `YAHEI_CRASH=NOT_REPRODUCIBLE`。 |
@@ -288,6 +293,6 @@ F. 主字体和 Loading 字体是否采用不同 raster profile
 
 ## 13. 文档一致性说明
 
-本 canonical 文档有意不删除历史实验报告。若历史报告保留了“等待 TEST-2B”“Loading path unresolved”或“YaHei crash”之类的当时状态，它们分别属于历史快照；当前解释以本文的后续 runtime/静态证据为准。当前没有发现证据支持“YaHei 必然闪退”或“Loading 必然使用 `001c FontData + 00c7 FontTexture`”。
+本 reference summary 有意不删除历史实验报告。若历史报告保留了“等待 TEST-2B”“Loading path unresolved”或“YaHei crash”之类的当时状态，它们分别属于历史快照；当前解释以 `font/doc/` 的正式归档和 baseline 为准。当前没有发现证据支持“YaHei 必然闪退”或“Loading 必然使用 `001c FontData + 00c7 FontTexture`”。
 
 本轮只更新文档和状态索引；没有生成、修改或安装任何 FONT/XPR，也没有修改 translation、builder 或游戏文件。
