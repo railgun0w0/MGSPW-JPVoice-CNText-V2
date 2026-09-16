@@ -49,8 +49,16 @@ Phase 2A runtime-proof scope (2026-09-16): this proves only clean JPN00c7 self-o
 | proven expanded atlas | `4096×4096`, `data_size=0x1000000` | `PROVEN` |
 | runtime patch required for 4096×4096 | yes; Width and Height both must become `0x1000` | `PROVEN` |
 | patched MLG000e pure-rekey compatibility | game starts; Chinese glyphs render; old overflow and missing-glyph fallback disappear | `PROVEN` |
+| clean JPN001c stock self-owned fixture | `2048×1024`; Noto Sans SC Bold; `51px / padding 1`; `549 records / 548 mapped`; exact `LOOSE_OLANG/00D0C740` corpus; real-machine Loading validation passed | `PROVEN` |
+| `001C_STOCK_2048x1024_CAPACITY` | `SUFFICIENT`; `STOCK_PROFILE = 51px / padding 1`; `EXE_PATCH_REQUIRED = NO` | `PROVEN` |
 | reusable production runtime patch component | PoC exists; release integration/QA not complete | `NOT YET PRODUCTIONIZED` |
 | full-corpus self-owned small XPR | not built in this archive pass | `NOT YET PRODUCTIONIZED` |
+
+Phase 2B.1 runtime-proof scope (2026-09-16): this proves only the exact
+selector-specific required corpus used by the fixture, especially the proven
+`LOOSE_OLANG/00D0C740` Loading path. The other 709 UNKNOWN resource groups are
+not proven to avoid 001c and are outside this claim. The proof does not select
+the final font, punctuation policy, or final large/small raster profiles.
 
 ### Runtime patch points for EXE 1.3.1.0
 

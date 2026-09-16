@@ -335,7 +335,35 @@ On 2026-09-16 the user tested the exact Phase 2A fixture in the real game. It ra
 | decrypted plaintext SHA256 | `44788a853d8f30da08d184b4aa5c9794ca7a5f115f9d7c03e14ce4cedcf24ae5` |
 | encrypted XPR SHA256 | `13e226b664572cef36be391c0fb78c46ae334955650f86836a2d5d3b3e1580f5` |
 
-`CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = PROVEN` covers only clean JPN00c7 self-owned full-rebuild runtime compatibility. It does **not** prove clean JPN001c self-owned 4096×4096 runtime output, the final font choice, the final punctuation policy, or the final large/small raster profile. Phase 2B is not started.
+`CLEAN_JPN_00C7_FULL_REBUILD_RUNTIME = PROVEN` covers only clean JPN00c7 self-owned full-rebuild runtime compatibility. It does **not** prove clean JPN001c self-owned 4096×4096 runtime output, the final font choice, the final punctuation policy, or the final large/small raster profile. Phase 2B.1 is archived separately below; no expanded-atlas candidate build was started.
+
+### Phase 2B.1 clean JPN001c stock-geometry runtime fixture — `PROVEN`
+
+The exact self-owned stock fixture built from clean JPN `001cbbd1.xpr` was
+confirmed by the user in the real game on 2026-09-16. It entered normally,
+displayed the Loading Chinese text without fallback dots, and showed no
+reported Chinese glyph crop or atlas corruption. The visual result was good;
+no EXE modification and no 001c runtime-dimension patch were required.
+
+| field | value |
+|---|---|
+| selector / geometry | `001cbbd1.xpr`; `2048×1024`; pitch `2048`; format `2`; tiled `0`; endian `0`; `data_size=0x200000` |
+| stock status | `001C_STOCK_2048x1024_CAPACITY = SUFFICIENT` |
+| profile | `STOCK_PROFILE = 51px / padding 1` |
+| source font | `Noto Sans SC Bold` |
+| source font SHA256 | `d1961be1161ea1be08496c920862d06ea5c23a757628f4fd69368de1d9f51bed` |
+| GlyphRecords / mapped | `549 / 548` |
+| plaintext SHA256 | `f244d4c506fdfa41194e77238cf6a49858030c28d43ce6cfb4029cbc1842bb60` |
+| encrypted SHA256 | `357f12d313cf3c6b8958311afbff759b77b625a617c12800d682c7f1e1e86ce6` |
+| EXE patch | `EXE_PATCH_REQUIRED = NO` |
+
+The runtime proof is limited to the current selector-specific required corpus,
+especially proven `LOOSE_OLANG/00D0C740`. It does not prove that any of the
+other 709 UNKNOWN resource groups avoid 001c. It also does not decide the
+final font choice, punctuation policy, or final large/small raster profiles.
+The low-priority visual QA note for lowercase `z` in `Paz` is recorded in the
+fixture validation report: `U+007A` is generated from the pinned SC source
+because clean JPN001c has no mapped `z`; no profile change is made here.
 
 ### Unknown / not yet productionized
 
@@ -442,4 +470,4 @@ No item listed below is deleted by this archive pass. `SAFE TO ARCHIVE` means it
 
 ## 12. Archive boundary
 
-This archive records what is proven and what remains unimplemented. It does not declare the third-party MLG font a production dependency; it does not authorize shipping Microsoft font data; and it does not claim that a final self-owned full-corpus release builder/profile already exists. The Phase 2A clean-JPN00c7 technical fixture is runtime-proven; Phase 2B is not started.
+This archive records what is proven and what remains unimplemented. It does not declare the third-party MLG font a production dependency; it does not authorize shipping Microsoft font data; and it does not claim that a final self-owned full-corpus release builder/profile already exists. The Phase 2A clean-JPN00c7 technical fixture and the Phase 2B.1 clean-JPN001c stock fixture are runtime-proven within their stated scopes; no expanded-atlas candidate build or Phase 2B raster comparison has started.

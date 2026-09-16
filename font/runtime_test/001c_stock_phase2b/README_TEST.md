@@ -9,5 +9,5 @@ This fixture is built from clean JPN `font/JPN/001cbbd1.xpr` and the current pro
 5. Test ASCII/digits, kana/symbols, baseline, spacing, crop, and texture alignment.
 6. Restore the backup after testing.
 
-Runtime status remains `CLEAN_JPN_001C_STOCK_SELF_OWNED_RUNTIME = NOT YET TESTED` until real in-game feedback is recorded.
-`EXE_PATCH_REQUIRED = NO`.
+Runtime status: `CLEAN_JPN_001C_STOCK_SELF_OWNED_RUNTIME = PROVEN` for this exact selector-specific fixture and required corpus, especially `LOOSE_OLANG/00D0C740`. The other 709 UNKNOWN resource groups remain outside the proof scope.
+`001C_STOCK_2048x1024_CAPACITY = SUFFICIENT`; `STOCK_PROFILE = 51px / padding 1`; `EXE_PATCH_REQUIRED = NO`.

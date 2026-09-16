@@ -21,7 +21,10 @@ JPN001C_RUNTIME_DIMENSION_PATCH_PROVEN = YES
 JPN001C_4096x4096_RUNTIME_PATCH_PROVEN = YES
 JPN001C_PATCHED_MLG000E_RUNTIME_COMPATIBILITY = PROVEN
 JPN001C_FIXED_2_MIB_CAPACITY = RETRACTED
-CLEAN_JPN_001C_STOCK_2048x1024_CAPACITY = SUFFICIENT_51PX_PADDING1
+CLEAN_JPN_001C_STOCK_2048x1024_CAPACITY = SUFFICIENT
+STOCK_PROFILE = 51PX_PADDING1
+EXE_PATCH_REQUIRED = NO
+CLEAN_JPN_001C_STOCK_SELF_OWNED_RUNTIME = PROVEN
 
 FINAL_MAIN_FONT_STYLE = UNDECIDED
 FINAL_SMALL_FONT_STYLE = UNDECIDED
@@ -31,12 +34,13 @@ LARGE_MULTI_GLYPH_RELOCATION = UNRESOLVED
 PRODUCTION_FONT_BUILDER = NOT_COMPLETED
 ```
 
-Phase 2B.1 stock-geometry salvage is now `STATIC_CONFIRMED` for the exact
+Phase 2B.1 stock-geometry salvage is now `RUNTIME_CONFIRMED` for the exact
 `LOOSE_OLANG/00D0C740` selector corpus: a self-owned Noto Sans SC Bold
 `51px / padding 1` fixture fits the clean JPN001c `2048×1024` atlas with
-`549` records / `548` mapped and no crop, overlap, or overflow. This does not
-upgrade `CLEAN_JPN_001C_STOCK_SELF_OWNED_RUNTIME`; that runtime status remains
-`NOT YET TESTED`, and it does not decide the final small-font profile.
+`549` records / `548` mapped and no crop, overlap, or overflow; the user then
+confirmed normal game entry and correct Loading display without fallback dots.
+The proof is selector-specific: the other 709 UNKNOWN resource groups remain
+unproven. It does not decide the final small-font profile.
 
 本文使用以下证据标签：
 
