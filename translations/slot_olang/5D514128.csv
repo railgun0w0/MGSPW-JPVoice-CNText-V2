@@ -674,7 +674,7 @@ WALKMAN持ち込み不可。",【EXTRA OPS：119】対ピースウォーカー�
 如果敌方士兵在基地内停留一定时间，基地将被敌方占领。
 基地被占领时会变色。
 <C=FF4040>所有基地均被占领将立即导致任务失败<C=R>。
-<C=FF4040>仅限无国界之师的士兵<C=R>。
+<C=FF4040>仅限无国界军队的士兵<C=R>。
   目标数量：15（士兵人数）",<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>,MATCH,392,372,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=CONTROL_OK;NEWLINES_PRESERVED
 5D514128,99,216,216;217;216;217;216;217;216;217,8,,page28:tag10:entity610:key00BE0D77:ref216:ord0;page28:tag10:entity234:key00492F80:ref217:ord0;page34:tag3:entity610:key00BE0D77:ref216:ord0;page34:tag3:entity234:key00492F80:ref217:ord0;page40:tag6:entity610:key00BE0D77:ref216:ord0;page40:tag6:entity234:key00492F80:ref217:ord0;page70:tag5:entity610:key00BE0D77:ref216:ord0;page70:tag5:entity234:key00492F80:ref217:ord0,"ニカラグア、米軍ミサイル基地・ヘリポートの<C=FF4040>拠点を敵の襲撃から
 守り抜け<C=R>。
@@ -688,7 +688,7 @@ WALKMAN持ち込み不可。",【EXTRA OPS：119】対ピースウォーカー�
 5D514128,100,218,218;218;218;218,4,,page28:tag10:entity423:key00821B22:ref218:ord0;page34:tag3:entity423:key00821B22:ref218:ord0;page40:tag6:entity423:key00821B22:ref218:ord0;page70:tag5:entity423:key00821B22:ref218:ord0,【EXTRA OPS：没】拠点防衛,"ニカラグア、米軍ミサイル基地・地下通路で、<C=FF4040>敵増援部隊を阻止<C=R>
 せよ。<C=FF4040>MSF兵限定<C=R>。
 　ターゲット数：20（敵兵の数）",sbm116/1発の弾丸で全ての敵を排除せよ　×,<C=FF4040> | <C=R> | <C=FF4040> | <C=R>,"<C=FF4040>阻止敌方增援<C=R>进入尼加拉瓜美军导弹基地的地下通道。
-<C=FF4040>仅限无国界之师的士兵<C=R>
+<C=FF4040>仅限无国界军队的士兵<C=R>
   目标数量：20（士兵）",<C=FF4040> | <C=R> | <C=FF4040> | <C=R>,MATCH,187,165,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=CONTROL_OK;NEWLINES_PRESERVED
 5D514128,101,219,219;220;219;220;219;220;219;220,8,,page28:tag10:entity604:key00BD0D77:ref219:ord0;page28:tag10:entity233:key00492F40:ref220:ord0;page34:tag3:entity604:key00BD0D77:ref219:ord0;page34:tag3:entity233:key00492F40:ref220:ord0;page40:tag6:entity604:key00BD0D77:ref219:ord0;page40:tag6:entity233:key00492F40:ref220:ord0;page70:tag5:entity604:key00BD0D77:ref219:ord0;page70:tag5:entity233:key00492F40:ref220:ord0,"ニカラグア、米軍ミサイル基地・地下通路で、<C=FF4040>敵増援部隊を阻止<C=R>
 せよ。<C=FF4040>MSF兵限定<C=R>。
@@ -1125,7 +1125,7 @@ WALKMAN持ち込み不可。",【EXTRA OPS：119】対ピースウォーカー�
 　必要武器：<C=FF4040>C4爆弾<C=R>
 　ターゲット数：1",sbm079/クリアリング（スカウト兵）から逃れろ　×,<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>,"在埃雷迪亚中部的云雾森林中，<C=FF4040>摧毁障碍物<C=R>，以打通前进的道路。
 到达目标点，用C4炸药将障碍物炸毁。
-<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。
+<C=FF4040>仅限无国界军队（MSF）士兵<C=R>。
 <C=FF4040>仅限单人游戏<C=R>。
   时间限制：8:00
   时间惩罚：触发警报扣1分钟
@@ -1165,7 +1165,7 @@ WALKMAN持ち込み不可。",【EXTRA OPS：119】対ピースウォーカー�
 　制限時間：06'00""
 ",【EXTRA OPS：064】プーヤン・ミッション,<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>,"敌方士兵已开始对监狱设施进行搜索。<C=FF4040>避开敌人并逃脱<C=R>。
 <C=FF4040>被发现将直接导致任务失败<C=R>。
-<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。
+<C=FF4040>仅限无国界军队（MSF）士兵<C=R>。
   时间限制：6:00",<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>,MATCH,238,222,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=CONTROL_OK;NEWLINES_PRESERVED
 5D514128,179,339,339;340;339;340;339;340;339;340,8,,page28:tag10:entity397:key007D0D74:ref339:ord0;page28:tag10:entity193:key00485F40:ref340:ord0;page34:tag3:entity397:key007D0D74:ref339:ord0;page34:tag3:entity193:key00485F40:ref340:ord0;page40:tag6:entity397:key007D0D74:ref339:ord0;page40:tag6:entity193:key00485F40:ref340:ord0;page70:tag5:entity397:key007D0D74:ref339:ord0;page70:tag5:entity193:key00485F40:ref340:ord0,"敵兵士による<C=FF4040>クリアリング（索敵）が開始された収容施設を突破<C=R>せよ。
 敵傭兵に<C=FF4040>発見されるとミッション失敗<C=R>。
@@ -1295,7 +1295,7 @@ WALKMAN持ち込み不可。",【EXTRA OPS：119】対ピースウォーカー�
 <C=R>せよ。
 なお、マザーベースに<C=FF4040>敵ミサイルが10発被弾した時点で
 ミッション失敗<C=R>。
-　ターゲット数：30",【EXTRA OPS：没】心霊写真,<C=FF4040> | <C=R> | <C=FF4040> | <C=R>,"<C=FF4040>击落敌方导弹<C=R>，这些导弹射向无国界之师（MSF）母基地。
+　ターゲット数：30",【EXTRA OPS：没】心霊写真,<C=FF4040> | <C=R> | <C=FF4040> | <C=R>,"<C=FF4040>击落敌方导弹<C=R>，这些导弹射向无国界军队（MSF）母基地。
 <C=FF4040>母基地被10枚导弹击中将直接导致任务失败<C=R>。
   目标数：30",<C=FF4040> | <C=R> | <C=FF4040> | <C=R>,MATCH,254,182,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=CONTROL_OK;NEWLINES_PRESERVED
 5D514128,193,360,360;361;366;367;360;361;366;367;360;361;366;367;360;361;366;367,16,,page28:tag10:entity350:key00600D74:ref360:ord0;page28:tag10:entity186:key00485800:ref361:ord0;page28:tag10:entity339:key005E0D74:ref366:ord0;page28:tag10:entity184:key00485780:ref367:ord0;page34:tag3:entity350:key00600D74:ref360:ord0;page34:tag3:entity186:key00485800:ref361:ord0;page34:tag3:entity339:key005E0D74:ref366:ord0;page34:tag3:entity184:key00485780:ref367:ord0;page40:tag6:entity350:key00600D74:ref360:ord0;page40:tag6:entity186:key00485800:ref361:ord0;page40:tag6:entity339:key005E0D74:ref366:ord0;page40:tag6:entity184:key00485780:ref367:ord0;page70:tag5:entity350:key00600D74:ref360:ord0;page70:tag5:entity186:key00485800:ref361:ord0;page70:tag5:entity339:key005E0D74:ref366:ord0;page70:tag5:entity184:key00485780:ref367:ord0,"MSF・マザーベースに向けて発射された<C=FF4040>敵ミサイルを甲板から迎撃
@@ -1809,7 +1809,7 @@ WALKMAN持ち込み不可。",【EXTRA OPS：119】対ピースウォーカー�
 <C=FF4040>MSF兵限定<C=R>。
 　ターゲット数：40",【EXTRA OPS：042】戦闘捕虜防衛,<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>,"在AI兵器机库，趁Snake与和平行者战斗之际，<C=FF4040>阻止敌军的进攻<C=R>。
 <C=FF4040>只要有哪怕一名敌人突破你的防线，任务即告失败<C=R>。
-<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。
+<C=FF4040>仅限无国界军队（MSF）士兵<C=R>。
   目标数：40",<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>,MATCH,279,254,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=CONTROL_OK;NEWLINES_PRESERVED
 5D514128,253,456,456;457;456;457;456;457;456;457,8,,page28:tag10:entity804:key00FE0D73:ref456:ord0;page28:tag10:entity154:key00483F80:ref457:ord0;page34:tag3:entity804:key00FE0D73:ref456:ord0;page34:tag3:entity154:key00483F80:ref457:ord0;page40:tag6:entity804:key00FE0D73:ref456:ord0;page40:tag6:entity154:key00483F80:ref457:ord0;page70:tag5:entity804:key00FE0D73:ref456:ord0;page70:tag5:entity154:key00483F80:ref457:ord0,"スネークがピースウォーカーと戦闘している間、AI格納庫で
 <C=FF4040>敵部隊の進攻を阻止<C=R>せよ。
@@ -2178,7 +2178,7 @@ WALKMAN持ち込み不可。",【EXTRA OPS：119】対ピースウォーカー�
 　ターゲット数：1",【EXTRA OPS：没】亡者の遺産,<C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R> | <C=FF4040> | <C=R>,"Snake已将破晓港补给设施内的一名通信兵打晕。
 <C=FF4040>使用富尔顿回收系统回收该通信兵<C=R>。
 <C=FF4040>杀死通信兵将导致任务立即失败<C=R>。
-<C=FF4040>仅限无国界之师（MSF）士兵<C=R>。
+<C=FF4040>仅限无国界军队（MSF）士兵<C=R>。
 <C=FF4040>仅限单人游戏<C=R>。
   时限：3:00（士兵醒来前）
   触发警报罚时：30秒
@@ -2981,26 +2981,26 @@ Dr.ストレンジラブのAI研究施設へと足を踏み入れる。
 　MAIN OPS 『発端/資材搬入施設調査』より",,[02] Paz的请求,,MATCH,21,17,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8; review_flag=JPN_CONFIRMED_AUX
 5D514128,477,805,805;805;805;805,4,,page28:tag10:entity559:key00B50159:ref805:ord0;page34:tag3:entity559:key00B50159:ref805:ord0;page40:tag6:entity559:key00B50159:ref805:ord0;page70:tag5:entity559:key00B50159:ref805:ord0,【DEMO：02】依頼,"コロンビア、『国境なき軍隊』MSF本拠で訓練中のスネークは
 自らを呼ぶ声に振り向く。
-　MAIN OPS 『発端/資材搬入施設調査』より",【DEMO：01】国境なき軍隊,,"Snake在哥伦比亚的无国界之师(MSF)总部训练时，
+　MAIN OPS 『発端/資材搬入施設調査』より",【DEMO：01】国境なき軍隊,,"Snake在哥伦比亚的无国界军队(MSF)总部训练时，
 听到有人叫他的名字。
   出自“序幕 / 调查补给设施”",,MATCH,174,134,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
 5D514128,478,806,806;807;806;807;806;807;806;807,8,,page28:tag10:entity753:key00EFF3AE:ref806:ord0;page28:tag10:entity661:key00D6FBF9:ref807:ord0;page34:tag3:entity753:key00EFF3AE:ref806:ord0;page34:tag3:entity661:key00D6FBF9:ref807:ord0;page40:tag6:entity753:key00EFF3AE:ref806:ord0;page40:tag6:entity661:key00D6FBF9:ref807:ord0;page70:tag5:entity753:key00EFF3AE:ref806:ord0;page70:tag5:entity661:key00D6FBF9:ref807:ord0,"コロンビア、『国境なき軍隊』MSF本拠で訓練中のスネークは
 自らを呼ぶ声に振り向く。
 　MAIN OPS 『発端/資材搬入施設調査』より",【DEMO：01】国境なき軍隊,"1974年11月4日、コロンビア バランキヤ港沿岸。
 『国境なき軍隊』MSF本拠にて…。
-　MAIN OPS 『発端/資材搬入施設調査』より",,[01] 无国界之师,,MATCH,33,20,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8; review_flag=JPN_CONFIRMED_AUX
+　MAIN OPS 『発端/資材搬入施設調査』より",,[01] 无国界军队,,MATCH,33,20,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8; review_flag=JPN_CONFIRMED_AUX
 5D514128,479,808,808;808;808;808,4,,page28:tag10:entity558:key00B40159:ref808:ord0;page34:tag3:entity558:key00B40159:ref808:ord0;page40:tag6:entity558:key00B40159:ref808:ord0;page70:tag5:entity558:key00B40159:ref808:ord0,【DEMO：01】国境なき軍隊,"1974年11月4日、コロンビア バランキヤ港沿岸。
 『国境なき軍隊』MSF本拠にて…。
 　MAIN OPS 『発端/資材搬入施設調査』より",【EXTRA OPS：AP】MSF入隊テスト,,"1974年11月4日，哥伦比亚巴兰基亚海岸
-无国界之师(MSF)总部。
+无国界军队(MSF)总部。
   出自“序幕 / 调查补给设施”",,MATCH,164,121,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=JPN_CONFIRMED_AUX;NEWLINES_PRESERVED
 5D514128,480,809,809;810;809;810;809;810;809;810,8,,page28:tag10:entity652:key00D1F145:ref809:ord0;page28:tag10:entity101:key003CB479:ref810:ord0;page34:tag3:entity652:key00D1F145:ref809:ord0;page34:tag3:entity101:key003CB479:ref810:ord0;page40:tag6:entity652:key00D1F145:ref809:ord0;page40:tag6:entity101:key003CB479:ref810:ord0;page70:tag5:entity652:key00D1F145:ref809:ord0;page70:tag5:entity101:key003CB479:ref810:ord0,"1974年11月4日、コロンビア バランキヤ港沿岸。
 『国境なき軍隊』MSF本拠にて…。
 　MAIN OPS 『発端/資材搬入施設調査』より",【EXTRA OPS：AP】MSF入隊テスト,"CQCと打撃攻撃のみで、<C=FF4040>MSF入隊志願者全員を降参<C=R>させよ。
 制限時間内に全員降参させることが出来ると、参加者全員が
-MSFに入隊する。",,[AP] 无国界之师(MSF)入队考试,,MATCH,38,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8; review_flag=JPN_CONFIRMED_AUX
+MSFに入隊する。",,[AP] 无国界军队(MSF)入队考试,,MATCH,38,37,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=8; review_flag=JPN_CONFIRMED_AUX
 5D514128,481,811,811;811;811;811,4,,page28:tag10:entity447:key0095FEF0:ref811:ord0;page34:tag3:entity447:key0095FEF0:ref811:ord0;page40:tag6:entity447:key0095FEF0:ref811:ord0;page70:tag5:entity447:key0095FEF0:ref811:ord0,【EXTRA OPS：AP】MSF入隊テスト,"CQCと打撃攻撃のみで、<C=FF4040>MSF入隊志願者全員を降参<C=R>させよ。
 制限時間内に全員降参させることが出来ると、参加者全員が
-MSFに入隊する。",【EXTRA OPS：没】メタルギアZEKE・クロスバトル,<C=FF4040> | <C=R>,"<C=FF4040>让所有无国界之师(MSF)候补队员屈服<C=R>，仅使用CQC和近战攻击。
-在时间耗尽前让所有新兵屈服，他们就会全部加入无国界之师(MSF)
+MSFに入隊する。",【EXTRA OPS：没】メタルギアZEKE・クロスバトル,<C=FF4040> | <C=R>,"<C=FF4040>让所有无国界军队(MSF)候补队员屈服<C=R>，仅使用CQC和近战攻击。
+在时间耗尽前让所有新兵屈服，他们就会全部加入无国界军队(MSF)
 。",<C=FF4040> | <C=R>,MATCH,194,186,APPROVED,READY,NOT_TESTED,JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY,mechanical template; resource_class=SLOT_OLANG; source_objects=4; review_flag=CONTROL_OK;NEWLINES_PRESERVED
