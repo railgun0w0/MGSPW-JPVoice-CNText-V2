@@ -53,9 +53,8 @@ def test_clean_00c7_phase2a_integration_is_deterministic(tmp_path):
         "00c7c9f9.xpr", ROOT / "font/JPN/00c7c9f9.xpr"
     )
     font_root = Path(os.environ.get("WINDIR", "C:\\Windows")) / "Fonts"
-    candidates = sorted(font_root.glob("*Noto*Sans*SC*.otf"))
-    assert candidates, "set WINDIR or provide a local Noto Sans SC OTF for the integration test"
-    source_font = candidates[0]
+    source_font = font_root / "Noto Sans SC Bold (TrueType).otf"
+    assert source_font.exists(), "set WINDIR or provide the pinned local Noto Sans SC Bold OTF for the integration test"
     required = {0x4E00, 0x4E8C, 0x9FA5}
     first = BUILDER.build_clean_00c7_fixture(
         base,
@@ -140,3 +139,26 @@ def test_001c_selector_audit_does_not_promote_unknown_groups(tmp_path):
     assert "PROVEN_001C" in report
     assert "| SLOT_OLANG | ABC | 1 | UNKNOWN |" in report
     assert "LIKELY_001C`: **0**" in report
+
+
+def test_001c_stock_salvage_51px_padding1_fits_exact_corpus():
+    assert STOCK.SALVAGE_PROFILES == ((51, 1), (50, 1))
+    base = STOCK.b.load_clean_font(
+        "001cbbd1.xpr", ROOT / "font/JPN/001cbbd1.xpr"
+    )
+    rows, _metadata = STOCK.load_001c_corpus(
+        ROOT / "build/translation/compiled_translation_manifest.csv"
+    )
+    entries, _census = STOCK.b.census(rows)
+    font_root = Path(os.environ.get("WINDIR", "C:\\Windows")) / "Fonts"
+    candidates = [font_root / "Noto Sans SC Bold (TrueType).otf"]
+    assert candidates[0].exists(), "set WINDIR or provide the pinned local Noto Sans SC Bold OTF"
+    glyphs, _name, _hash, _baseline, _height, _generated = STOCK.rasterize_profile(
+        base, entries, candidates[0], 0, 51
+    )
+    metrics = STOCK._simulate_pack(glyphs, 51, 1)
+    assert metrics.crop_count == 0
+    assert metrics.overlap_count == 0
+    assert not metrics.overflow
+    assert metrics.padded_area <= STOCK.STOCK_WIDTH * STOCK.STOCK_HEIGHT
+    assert metrics.packed_height <= STOCK.STOCK_HEIGHT

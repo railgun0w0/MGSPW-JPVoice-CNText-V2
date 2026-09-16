@@ -9,7 +9,7 @@ LOADING_GLYPH_REPLACEMENT,RUNTIME_CONFIRMED,VALIDATED,LOCAL-ONLY small_jpn_men_m
 JPN001C_RUNTIME_DIMENSION_PATCH,RUNTIME_CONFIRMED,PROVEN,font/doc/FONT_TECHNICAL_ARCHIVE.md,2048x1025 enters when runtime Height changes from 0x400 to 0x401
 JPN001C_4096_RUNTIME_PATCH,RUNTIME_CONFIRMED,PROVEN,font/doc/FONT_TECHNICAL_ARCHIVE.md,4096x4096 patched MLG000E rekey enters and renders Chinese after Width/Height patch
 JPN001C_PATCHED_MLG000E_COMPATIBILITY,RUNTIME_CONFIRMED,PROVEN,font/doc/FONT_TECHNICAL_ARCHIVE.md,Byte-identical plaintext is runtime-compatible; old crash was target-dimension mismatch
-CLEAN_JPN_001C_STOCK_CAPACITY,STATIC_CONFIRMED,INSUFFICIENT,font/build/001c/FONT_001C_STOCK_ATLAS_MATRIX.md,00D0C740 selector-specific corpus fails every tested stock profile; closest 52px/padding1 needs 1028 packed height and exceeds stock area; no 4096 output generated
+CLEAN_JPN_001C_STOCK_CAPACITY,STATIC_CONFIRMED,SUFFICIENT,font/build/runtime_fixture_001c_stock/FONT_VALIDATION_REPORT.md,Phase 2B.1 51px/padding1 stock fixture passes for 00D0C740 corpus; 549 records / 548 mapped; 2048x1024; EXE patch not required; runtime remains not tested
 JPN001C_FIXED_2_MIB_CAPACITY,FAILED / DEPRECATED EXPERIMENT,RETRACTED,font/doc/FONT_TECHNICAL_ARCHIVE.md,0x200000 boundary was the unpatched 2048x1024 target capacity rather than an intrinsic XPR/runtime limit
 LOADING_FONT_STYLE,UNRESOLVED,UNRESOLVED,LOCAL-ONLY LOADING_SMALL_JPN_STATUS.md,Technical path works but small glyph style is not final
 FINAL_MAIN_FONT_STYLE,UNRESOLVED,UNDECIDED,LOCAL-ONLY FONT_GLYPH_STYLE_TUNING.md,Noto D is a fallback profile only
