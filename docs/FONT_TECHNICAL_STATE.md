@@ -2,7 +2,7 @@
 
 本文件是旧位置保留的 FONT 状态摘要。最新权威入口是 `font/doc/README.md`；正式根因归档、Golden Baseline 与下一阶段设计分别位于 `font/doc/FONT_TECHNICAL_ARCHIVE.md`、`FONT_PRODUCTION_BASELINE.md`、`FONT_CUSTOM_BUILD_PLAN.md`。涉及 JPN001c 2 MiB/4096×4096/runtime dimension 的结论以 `font/doc/` 为准。本文只整理已经存在的报告、manifest、静态读回和实机记录；不替代、删除或重写历史实验产物。
 
-整理日期：2026-09-15（Asia/Hong_Kong）
+整理日期：2026-09-16（Asia/Hong_Kong）
 
 ## 当前状态摘要
 

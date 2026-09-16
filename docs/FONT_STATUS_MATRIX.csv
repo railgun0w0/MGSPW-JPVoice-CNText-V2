@@ -1,5 +1,5 @@
 key,status_class,status,evidence,notes
-GOLDEN_V2_FONT_PIPELINE,STATIC_CONFIRMED,PRESERVED,FONT_V2_CODE_ARCHAEOLOGY.md,MLG 0007/000E copy plus 0007 decrypt/rekey to 00C7; no internal FontData/TX2D rebuild
+GOLDEN_V2_FONT_PIPELINE,STATIC_CONFIRMED,PRESERVED,FONT_V2_CODE_ARCHAEOLOGY.md,MLG_CN 0007/000E copy plus MLG_CN 0007 decrypt/rekey to 00C7; no internal FontData/TX2D rebuild
 MAIN_00C7_FORMAT,STATIC_CONFIRMED,UNDERSTOOD,LOCAL-ONLY FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md,4096x4096 format2 linear 1-byte atlas; direct charmap-to-record indexing
 MAIN_00C7_APPEND_RUNTIME,RUNTIME_CONFIRMED,VALIDATED_ON_PATCHED_MLG0007_DERIVED_00C7,LOCAL-ONLY TEST2B_COUNT_PATCH and TEST3B_NEW_ATLAS_WITH_COUNT,3209-to-3210 count mirror and new slot passed only on the patched MLG_CN0007 plaintext rekeyed as 00c7; clean JPN00c7 2309/2308 rebuild semantics require revalidation
 GENERATED_GLYPH_RUNTIME,RUNTIME_CONFIRMED,VALIDATED,LOCAL-ONLY TEST_REAL_GLYPH_JUE and glyph_generation_profile_v1.json,Real 厥 glyph runtime-confirmed on the patched MLG_CN0007-derived 00c7 baseline; production source policy is self-owned rebuild while the exact font/profile remains undecided
