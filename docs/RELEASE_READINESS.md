@@ -12,21 +12,29 @@ RC1 production files.
 
 ```
 MVP_STATUS = COMPLETE
+RC1_BUILD_STATUS = PASS
+READY_FOR_CLEAN_INSTALL_TEST = YES
+RC1_CLEAN_INSTALL_TEST = NOT YET TESTED
+RC1_RUNTIME_SMOKE = NOT YET TESTED
 BLOCKER_COUNT = 0
 MAJOR_COUNT = 0
 EXE_PATCH_REQUIRED = NO
 MLG_CN_PRODUCTION_DEPENDENCY = NO
 CLEAN_REBUILD_VERIFIED = YES
+FINAL_PATCH_FILE_COUNT = 20
+STAGING_FILE_COUNT = 20
+MANIFEST_COUNT = 20
+SHA256_COUNT = 20
 ```
 
 ## Answers to the readiness questions
 
 **A — Can all assets be rebuilt from clean JPN?** Yes for the frozen RC1 set.
-The five-class
-production compiler dry-run and clean-JPN BRIEFING rebuild check pass. The font
-builder reproduces the proven 00c7 and 001c fixtures exactly in an independent
-output directory. The final patch manifest contains the 18 confirmed translated
-resource outputs plus those two self-owned font outputs.
+The clean production compiler and the YPK/GTT, LOOSE_OLANG, STAGEDAT_OLANG,
+SLOT_OLANG, OHD, and BRIEFING rebuilds pass. The font builder reproduces the
+proven 00c7 and 001c fixtures exactly in an independent output directory. The
+final patch manifest contains 18 translated resource outputs plus those two
+self-owned font outputs.
 
 **B — Mandatory local-only inputs:**
 
@@ -39,7 +47,8 @@ resource outputs plus those two self-owned font outputs.
 - Clean JPN BRIEFING source `0076531d.DAT`, SHA256
   `683fef2d84253a56d0af56ad857eb9c891092a598ce19e06bc9858569d94e372`.
 - Node package `@oai/artifact-tool` for the JavaScript validators (missing in
-  this workstation: `NOT EXECUTED — MISSING LOCAL INPUT`).
+  this workstation: `NOT EXECUTED — MISSING LOCAL INPUT`; a
+  `NONBLOCKING_ENV_WARNING`, not a production-build dependency).
 - Official Google Zopfli v1.0.3 executable for the fixed-capacity YPK/GTT
   fallback: source commit `ccf9f0588d4a4509cb1040310ec122243e670ee6`, exact
   invocation `zopfli --zlib --i15 -c <input-file>`, local executable SHA256
@@ -56,7 +65,8 @@ production FontData, charmap, GlyphRecords, or bitmap.
 
 **E/F — Can RC1 be generated today and what blocks it?** Yes. The selector set
 is the two-file set proven by the actual runtime installation. There are no
-BLOCKERs or MAJOR issues.
+BLOCKERs or MAJOR issues. The build/staging result is proven; clean-install
+runtime evidence is still pending.
 
 **G — Current release step:** the clean rebuild and 20-file staging are complete.
 In a dependency-complete environment, rerun the formal JavaScript validators
@@ -86,7 +96,7 @@ selector architecture change is being proposed.
 | external SC source font | REQUIRED_AND_DOCUMENTED | font manifests and hash |
 | clean JPN 0076531d.DAT | REQUIRED_AND_DOCUMENTED | BRIEFING check |
 | Pillow/fontTools/Python | REQUIRED_AND_DOCUMENTED | builder scripts |
-| `@oai/artifact-tool` | REQUIRED_BUT_UNDOCUMENTED | JS checks unavailable locally; install in release environment |
+| `@oai/artifact-tool` | NONBLOCKING_ENV_WARNING | JS checks unavailable locally; optional additional release-environment validation |
 | official Zopfli v1.0.3 executable | REQUIRED_AND_DOCUMENTED | YPK/GTT fixed-capacity fallback; exact source/invocation/hash above |
 | old `build/readiness/full_package` fonts, including 0007/000E | REFERENCE_ONLY | Historical Experimental source provenance; excluded from RC1 |
 | MLG / MLG_CN XPR and glyph assets | REFERENCE_ONLY | proof/history only |

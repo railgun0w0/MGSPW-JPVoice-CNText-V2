@@ -2,7 +2,7 @@
 
 Date: 2026-09-16  
 Branch: `sol-translation`  
-Freeze commit: this documentation commit (parent `d1d4a85`)  
+Archive commit: this documentation commit (parent `e6888ec`)
 
 ## Status
 
@@ -30,6 +30,9 @@ of this freeze.
 - YPK/GTT fixed-capacity compression uses the documented official Zopfli
   v1.0.3 fallback invocation `zopfli --zlib --i15 -c <input-file>` when the
   bundled zlib strategies do not fit.
+- The clean RC1 build produced a 20-file staging set with matching manifest
+  and SHA256 counts. This is build/staging proof only; no clean-install or
+  gameplay smoke test has been run.
 
 ## Corpus and verification snapshot
 
@@ -49,6 +52,14 @@ decrypt/parse/rebuild/encrypt/decrypt round-trips.
 - The historical 21-file package and its 0007/000E font rows are
   reference-only. The frozen RC1 package replaces only the two runtime-proven
   self-owned files `00c7c9f9.xpr` and `001cbbd1.xpr`; no EXE change is needed.
+
+## RC1 archive boundary
+
+`RC1_BUILD_STATUS = PASS` and `READY_FOR_CLEAN_INSTALL_TEST = YES`.
+`RC1_CLEAN_INSTALL_TEST = NOT YET TESTED` and
+`RC1_RUNTIME_SMOKE = NOT YET TESTED`; `FINAL_RELEASE_READY` is intentionally
+not asserted. The next step is a clean-install smoke test using the staged
+20-file set, followed only afterward by broader gameplay QA.
 
 ## Frozen subsystems
 

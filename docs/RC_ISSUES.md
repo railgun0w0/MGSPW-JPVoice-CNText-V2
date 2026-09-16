@@ -45,6 +45,18 @@ is frozen and existing validation reports remain authoritative.
   committed binaries. Their exact hashes and paths are recorded in the font
   manifests and `RELEASE_READINESS.md`.
 
-The former missing-Zopfli blocker is resolved for this build: official Google
-Zopfli v1.0.3 was built locally from source commit `ccf9f058…` and verified by
-the exact `--zlib --i15 -c` page-220 reproduction and full YPK/GTT rebuild.
+## RESOLVED_BUILD_ITEMS
+
+- The former missing-Zopfli build dependency is resolved. Official Google
+  Zopfli v1.0.3 was built locally from source commit
+  `ccf9f0588d4a4509cb1040310ec122243e670ee6` and verified with the exact
+  `--zlib --i15 -c` page-220 reproduction and full YPK/GTT rebuild.
+- The former YPK/GTT fixed-capacity overflow is resolved: page 220 now packs
+  at 25,828 bytes including its 16-byte header within the 28,672-byte frame.
+
+## RELEASE_TEST_BOUNDARY
+
+- The 20-file RC1 staging assembly, manifest, and SHA256 consistency are
+  proven. Installation into a new clean JPN game, RC1 runtime smoke, and full
+  gameplay QA remain `NOT YET TESTED`; no `FINAL_RELEASE_READY = YES` claim is
+  made.

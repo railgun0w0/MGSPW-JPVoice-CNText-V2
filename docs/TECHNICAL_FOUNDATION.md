@@ -81,7 +81,7 @@ FONT 最新权威入口：[font/doc/README.md](../font/doc/README.md)。[FONT_TE
 ## 4. Compression
 
 - SLOT 与 STAGEDAT 均使用 zlib wrapper，不是 raw DEFLATE。
-- SLOT 可尝试 zlib level 9 的 default/filtered/RLE/Huffman/fixed 策略，取能解回原数据且尺寸最小者；不足时旧工程使用 `zopfli --zlib --i15`。
+- SLOT 可尝试 zlib level 9 的 default/filtered/RLE/Huffman/fixed 策略，取能解回原数据且尺寸最小者；不足时当前正式 RC1 production path 必须使用经验证的 Google Zopfli v1.0.3 `zopfli --zlib --i15 -c <input-file>`（zlib-wrapped stdout stream）。
 - 任何压缩器都只是容量优化手段；正确性由解压 round-trip 和 allocation fit 决定，不要求压缩字节与原版一致。
 - SLOT 容量计算必须包含 16-byte page header。
 - STAGEDAT page plaintext 为 `u32 decompressed_size + zlib_stream`，table 的 size 是该 packed page 的有效长度。
