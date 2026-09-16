@@ -4,18 +4,38 @@ Date: 2026-09-16
 Branch: `sol-translation`  
 
 ```
-RC1_BUILD_STATUS = FAIL
-FINAL_PATCH_FILE_COUNT = 20 (manifest target)
-STAGING_FILE_COUNT = 0
+RC1_BUILD_STATUS = PASS
+FINAL_PATCH_FILE_COUNT = 20
+STAGING_FILE_COUNT = 20
 00C7_HASH_MATCH = YES
 001C_HASH_MATCH = YES
 EXE_INCLUDED = NO
 0007_INCLUDED = NO
 000E_INCLUDED = NO
 MLG_CN_PRODUCTION_DEPENDENCY = NO
-CLEAN_REBUILD_VERIFIED = PARTIAL
-READY_FOR_CLEAN_INSTALL_TEST = NO
+CLEAN_REBUILD_VERIFIED = YES
+READY_FOR_CLEAN_INSTALL_TEST = YES
 ```
+
+## Zopfli dependency
+
+The historical production fallback is confirmed from repository history and
+`tools/legacy_support/Build-JpnSlotFullOlang.py`:
+
+```
+zopfli --zlib --i15 -c <input-file>
+```
+
+It emits a zlib-wrapped stream to stdout; `i15` is the 15-iteration setting.
+The official Google Zopfli source was built locally at commit
+`ccf9f0588d4a4509cb1040310ec122243e670ee6` (declared version 1.0.3). The
+temporary executable SHA256 is
+`2f3287ebf748549e116cd6d45cfbfefb2b4c53aba02b40462a797c3f86386c32`.
+
+For page 220, the merged payload is 76,736 bytes. Standard zlib produced a
+28,841-byte stream plus the 16-byte page header (28,857, the former failure).
+Zopfli-i15 produced 25,812 bytes plus the header (25,828), leaving 2,844 bytes
+under the 28,672-byte fixed capacity. zlib decompression matched the payload.
 
 ## Verification matrix
 
@@ -26,29 +46,23 @@ READY_FOR_CLEAN_INSTALL_TEST = NO
 | STAGEDAT_OLANG clean-JPN rebuild | PASS | 123 entries, 16,922 translated references, zero block overflow |
 | SLOT_OLANG clean-JPN rebuild | PASS | 144 resources, 68,684 manifest bindings, 110 pages, zero block overflow; DAT size and KEY identical |
 | OHD clean-JPN rebuild | PASS | 226 canonical / 904 occurrence records, 4 patched pages, zero hard/block overflow |
-| BRIEFING clean-JPN check | PASS | 469 blocks, 5,645 physical rows, zero binding/control/capacity/round-trip errors |
+| YPK/GTT clean-JPN rebuild | PASS | 36 unique YPK, 77 occurrences, 1,882 records, 2,136 segments, 49 patched pages, zero hard/block overflow |
+| unified SLOT merge | PASS | 823 changed tag occurrences, 110 patched pages, written round-trip pass |
+| BRIEFING clean-JPN rebuild | PASS | 469 blocks, 5,645 physical rows, zero binding/control/capacity/round-trip errors |
 | 00c7 self-owned rebuild | PASS | plaintext `44788a853d8f30da08d184b4aa5c9794ca7a5f115f9d7c03e14ce4cedcf24ae5`; encrypted `13e226b664572cef36be391c0fb78c46ae334955650f86836a2d5d3b3e1580f5` |
 | 001c self-owned stock rebuild | PASS | plaintext `f244d4c506fdfa41194e77238cf6a49858030c28d43ce6cfb4029cbc1842bb60`; encrypted `357f12d313cf3c6b8958311afbff759b77b625a617c12800d682c7f1e1e86ce6` |
-| YPK/GTT clean-JPN rebuild | FAIL | page 220 requires fixed-frame compressed size 28,857 bytes but capacity is 28,672 |
+| staging consistency | PASS | exactly 20 files, unique destinations, no zero-byte files, no EXE/0007/000E/MLG asset |
+| full Python test suite | PASS | 23 passed, 2 dependency deprecation warnings |
 
-## Failure and scope
+## Staging and provenance
 
-The YPK/GTT builder tried every bundled zlib strategy. The page still exceeds
-its fixed allocation by 185 bytes. The historical successful report records
-`zopfli-i15` for page 220, but this workstation has no `zopfli` executable.
-This is recorded as `NOT EXECUTED — MISSING LOCAL INPUT: zopfli executable`
-for the required compression path. No old build output was substituted, no
-translation data was edited, and no attempt was made to bypass the fixed-frame
-capacity check.
+Staging directory: `build/rc1/staging/`
+File manifest: `build/rc1/RC1_FILE_MANIFEST.csv`
+SHA256 list: `build/rc1/RC1_SHA256SUMS.txt`
 
-Because YPK/GTT is a required RC1 resource class, no `build/rc1/staging/`
-directory, `RC1_FILE_MANIFEST.csv`, or `RC1_SHA256SUMS.txt` was generated.
-The partial clean rebuild outputs remain under `build/rc1/rebuild/` for audit
-and are not an install package.
+All 20 files are sourced from the current clean-JPN rebuild outputs or the two
+self-owned generated font outputs. No `MLG_CN_DERIVED` input, old package file,
+0007/000E font, EXE, or game-install path was used.
 
-## Safety
-
-No game installation file, Steam file, EXE, 0007/000E font, MLG/MLG_CN asset,
-or production translation was modified. A temporary translation clone was
-used only to satisfy the compiler's clean-worktree safety gate; the one
-newline-only rewrite produced by `--write` was discarded.
+The package is ready for the user's separate clean-install smoke test. This
+report does not claim that installation or gameplay was executed in this phase.

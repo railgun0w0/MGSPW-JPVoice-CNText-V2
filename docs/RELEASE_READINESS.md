@@ -16,7 +16,7 @@ BLOCKER_COUNT = 0
 MAJOR_COUNT = 0
 EXE_PATCH_REQUIRED = NO
 MLG_CN_PRODUCTION_DEPENDENCY = NO
-CLEAN_REBUILD_VERIFIED = PARTIAL
+CLEAN_REBUILD_VERIFIED = YES
 ```
 
 ## Answers to the readiness questions
@@ -40,6 +40,10 @@ resource outputs plus those two self-owned font outputs.
   `683fef2d84253a56d0af56ad857eb9c891092a598ce19e06bc9858569d94e372`.
 - Node package `@oai/artifact-tool` for the JavaScript validators (missing in
   this workstation: `NOT EXECUTED — MISSING LOCAL INPUT`).
+- Official Google Zopfli v1.0.3 executable for the fixed-capacity YPK/GTT
+  fallback: source commit `ccf9f0588d4a4509cb1040310ec122243e670ee6`, exact
+  invocation `zopfli --zlib --i15 -c <input-file>`, local executable SHA256
+  `2f3287ebf748549e116cd6d45cfbfefb2b4c53aba02b40462a797c3f86386c32`.
 
 Python Pillow/fontTools and the repository scripts are otherwise available.
 
@@ -54,12 +58,14 @@ production FontData, charmap, GlyphRecords, or bitmap.
 is the two-file set proven by the actual runtime installation. There are no
 BLOCKERs or MAJOR issues.
 
-**G — Shortest next step:** in a dependency-complete environment, rerun the
-formal JS checks, regenerate the committed resource outputs from clean JPN,
-build the self-owned 00c7/001c outputs using the recorded font input, decide
-and document 0007/000e selector inclusion, then assemble and hash the RC1
-package according to `FINAL_PATCH_FILE_MANIFEST.csv`. Do not touch the game
-installation during this audit.
+**G — Current release step:** the clean rebuild and 20-file staging are complete.
+In a dependency-complete environment, rerun the formal JavaScript validators
+requiring `@oai/artifact-tool` as an additional release-environment check.
+No selector decision remains: RC1 replaces only 00c7 and 001c, with no EXE,
+0007, or 000E. Do not touch the game installation during this audit.
+
+The fixed-capacity YPK/GTT production path is now verified with the mandatory
+Zopfli fallback; it is not an optional convenience tool.
 
 ## Selector/package correction
 
@@ -81,6 +87,7 @@ selector architecture change is being proposed.
 | clean JPN 0076531d.DAT | REQUIRED_AND_DOCUMENTED | BRIEFING check |
 | Pillow/fontTools/Python | REQUIRED_AND_DOCUMENTED | builder scripts |
 | `@oai/artifact-tool` | REQUIRED_BUT_UNDOCUMENTED | JS checks unavailable locally; install in release environment |
+| official Zopfli v1.0.3 executable | REQUIRED_AND_DOCUMENTED | YPK/GTT fixed-capacity fallback; exact source/invocation/hash above |
 | old `build/readiness/full_package` fonts, including 0007/000E | REFERENCE_ONLY | Historical Experimental source provenance; excluded from RC1 |
 | MLG / MLG_CN XPR and glyph assets | REFERENCE_ONLY | proof/history only |
 | historical PoC/backup/fixture trees | OBSOLETE_NOT_USED | excluded from production graph |

@@ -44,3 +44,7 @@ is frozen and existing validation reports remain authoritative.
 - Clean JPN XPR bases and the external source font are local inputs and are not
   committed binaries. Their exact hashes and paths are recorded in the font
   manifests and `RELEASE_READINESS.md`.
+
+The former missing-Zopfli blocker is resolved for this build: official Google
+Zopfli v1.0.3 was built locally from source commit `ccf9f058…` and verified by
+the exact `--zlib --i15 -c` page-220 reproduction and full YPK/GTT rebuild.

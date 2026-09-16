@@ -27,6 +27,9 @@ of this freeze.
 - Production Han glyphs come from an explicitly supplied external SC font;
   clean JPN non-Han/game glyphs are retained according to the font build plan.
   MLG and MLG_CN are reference/proof material only.
+- YPK/GTT fixed-capacity compression uses the documented official Zopfli
+  v1.0.3 fallback invocation `zopfli --zlib --i15 -c <input-file>` when the
+  bundled zlib strategies do not fit.
 
 ## Corpus and verification snapshot
 
