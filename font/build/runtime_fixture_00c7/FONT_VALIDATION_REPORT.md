@@ -6,7 +6,7 @@
 - Raster profile: pixel size `56`, cell height `72`, baseline `56`, padding `2`, 4096×4096 8-bit grayscale.
 - Raster bbox: max `56×57`, p50 `56×54`, p95 `56×55`, p99 `56×55`, crop/overflow `0`.
 - Glyphs: `343` preserved clean, `2721` generated Han, `3078` total records / `3077` mapped.
-- Atlas packed height `3235` / 4096; usage `78.9795%`; no overlap and padding `2` validated.
+- Atlas packed height `3235` / 4096; vertical usage `78.9795%`; bitmap area usage `71.8198%`, padded rectangle area usage `81.3691%`; no overlap and padding `2` validated.
 - Plaintext XPR SHA256: `44788a853d8f30da08d184b4aa5c9794ca7a5f115f9d7c03e14ce4cedcf24ae5`.
 - Encrypted XPR SHA256: `13e226b664572cef36be391c0fb78c46ae334955650f86836a2d5d3b3e1580f5`.
 

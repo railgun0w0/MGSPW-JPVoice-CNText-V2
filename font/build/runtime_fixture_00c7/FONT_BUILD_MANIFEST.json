@@ -1,5 +1,5 @@
 {
-  "builder_git_commit": "66b8e39a7c4f750c21abc8a6a7854eb1a5c3c998",
+  "builder_git_commit": "f9bcc4a542acfb00dc90b008c84494a0126190cb",
   "clean_base_path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN\\00c7c9f9.xpr",
   "clean_base_sha256": "1f7a18f28d0d67d7a6a65a5286a1e48c97d595829b4c99325fb2b5772b921e8d",
   "clean_plaintext_sha256": "31b8eb9a7c86b1429fb7fa0d12688c65c9123e307c5f0e8c42f1df67a7cd9e6b",
@@ -33,6 +33,10 @@
   "generated_han_count": 2721,
   "packed_height": 3235,
   "atlas_usage_percent": 78.9795,
+  "atlas_bitmap_area": 12049367,
+  "atlas_padded_area": 13651475,
+  "atlas_bitmap_area_usage_percent": 71.8198,
+  "atlas_padded_area_usage_percent": 81.3691,
   "static_checks": {
     "decrypt_output_is_XPR2": true,
     "resource_descriptors_in_bounds": true,
