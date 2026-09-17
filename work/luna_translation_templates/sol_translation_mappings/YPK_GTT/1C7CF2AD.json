@@ -1,0 +1,30 @@
+{
+  "file_id": "1C7CF2AD",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 3,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "摧毁那辆装甲车！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "把那辆装甲车轰烂！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "先对付装甲车！拜托了！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

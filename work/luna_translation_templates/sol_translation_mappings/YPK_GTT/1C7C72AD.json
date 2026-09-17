@@ -1,0 +1,142 @@
+{
+  "file_id": "1C7C72AD",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 19,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "<R=FSLN,SANDINISTA>的士兵\\n可能被俘了，小心。",
+      "cn_control_tokens": "<R= F S L N ,SANDINISTA>",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "在俘虏面前按<I=ACT>，\\n就能把他送回母基地。",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 59,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "用富尔顿回收。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "要回收俘虏，\\n先装备富尔顿回收系统。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 52,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "按住<I=EQUIPWINDOW>，\\n用<I=MOVE>左右选择装备。",
+      "cn_control_tokens": "<I=EQUIPWINDOW> | <I=MOVE>",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "要选择装备，就一直按住<I=EQUIPWINDOW>。",
+      "cn_control_tokens": "<I=EQUIPWINDOW>",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "然后用<I=MOVE>左右选择。",
+      "cn_control_tokens": "<I=MOVE>",
+      "cn_utf8_bytes": 32,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "选择装备时，按住<I=EQUIPWINDOW>，\\n再用<I=MOVE>左右选择。",
+      "cn_control_tokens": "<I=EQUIPWINDOW> | <I=MOVE>",
+      "cn_utf8_bytes": 72,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "有气球的话就能送回母基地……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "要去对面，必须穿过分拣区……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "附近好像有黄条袖蝶。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "幼虫会吃有毒的西番莲，\\n所以成虫也有毒。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 58,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "附近没看到橙带硫黄蝶吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 36,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "这种蝴蝶在公园和市区也能见到。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "香蕉园附近经常能看到\\n伊多墨纽斯巨型猫头鹰蝶。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 67,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "因为幼虫会吃香蕉叶，\\n所以被视为害虫。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "阿曼达应该在<R=香蕉园,BANANAL>旧址的物资堆场。\\n去和她会合。",
+      "cn_control_tokens": "<R=香蕉园,BANANAL>",
+      "cn_utf8_bytes": 82,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 17,
+      "cn_text": "和阿曼达会合，Snake。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 29,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 18,
+      "cn_text": "阿曼达好像在香蕉园的物资堆场。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

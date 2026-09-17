@@ -9,13 +9,8 @@
 
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
-import { createRequire } from "node:module";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-
-const require = createRequire(import.meta.url);
-const { Workbook } = require("@oai/artifact-tool");
-
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const defaultRoot = path.resolve(scriptDir, "..");
@@ -173,16 +168,82 @@ function controlError(jpnText, cnText) {
 }
 
 
+function parseCsvValues(csvText, label) {
+  const text = csvText.replace(/^\uFEFF/u, "");
+  const rows = [];
+  let row = [];
+  let field = "";
+  let quoted = false;
+  let index = 0;
+  const pushField = () => {
+    row.push(field);
+    field = "";
+  };
+  const pushRow = () => {
+    pushField();
+    rows.push(row);
+    row = [];
+  };
+  while (index < text.length) {
+    const character = text[index];
+    if (quoted) {
+      if (character === '"') {
+        if (text[index + 1] === '"') {
+          field += '"';
+          index += 2;
+          continue;
+        }
+        quoted = false;
+        index += 1;
+        continue;
+      }
+      field += character;
+      index += 1;
+      continue;
+    }
+    if (character === '"' && field === "") {
+      quoted = true;
+      index += 1;
+      continue;
+    }
+    if (character === ",") {
+      pushField();
+      index += 1;
+      continue;
+    }
+    if (character === "\r" || character === "\n") {
+      pushRow();
+      if (character === "\r" && text[index + 1] === "\n") index += 2;
+      else index += 1;
+      continue;
+    }
+    field += character;
+    index += 1;
+  }
+  if (quoted) throw new CompileFailure(`${label}: unterminated quoted CSV field`);
+  if (field !== "" || row.length) pushRow();
+  if (!rows.length) throw new CompileFailure(`${label}: CSV has no used range`);
+  const width = rows[0].length;
+  if (!width || rows.some((item) => item.length !== width)) {
+    throw new CompileFailure(`${label}: CSV rows have inconsistent column counts`);
+  }
+  return rows.map((item) => item.map((value) => String(value)));
+}
+
+
 async function csvMatrix(csvText, sheetName) {
-  const workbook = await Workbook.fromCSV(csvText.replace(/^\uFEFF/u, ""), { sheetName });
-  const sheet = workbook.worksheets.getItem(sheetName);
-  const used = sheet.getUsedRange(true);
-  if (!used) throw new CompileFailure(`${sheetName}: CSV has no used range`);
+  const values = parseCsvValues(csvText, sheetName);
   return {
-    workbook,
-    values: used.values.map((row) => row.map((value) => (value === null ? "" : String(value)))),
-    rowCount: used.rowCount,
-    columnCount: used.columnCount,
+    values,
+    rowCount: values.length,
+    columnCount: values[0].length,
+  };
+}
+
+
+function inspectCsvRegion(values, range) {
+  return {
+    ndjson: JSON.stringify({ range, rows: values.slice(0, 4) }),
   };
 }
 
@@ -313,7 +374,7 @@ async function main() {
   let missionRows = 0;
   let fileCount = 0;
   let missionCount = 0;
-  let artifactInspectionFiles = 0;
+  let csvInspectionFiles = 0;
 
   for (const templateName of templateNames) {
     const fileId = templateName.slice(0, -4);
@@ -425,7 +486,7 @@ async function main() {
       outputMatrix.rowCount !== outputRows.length + 1 ||
       outputMatrix.columnCount !== productionColumns.length
     ) {
-      throw new CompileFailure(`${fileId}: artifact-tool CSV dimension check failed`);
+      throw new CompileFailure(`${fileId}: CSV dimension check failed`);
     }
     const roundTrip = rowsFromMatrix(outputMatrix, `${fileId} production round-trip`);
     if (JSON.stringify(roundTrip.headers) !== JSON.stringify(productionColumns)) {
@@ -434,7 +495,7 @@ async function main() {
     for (let index = 0; index < outputRows.length; index += 1) {
       for (const column of productionColumns) {
         if (roundTrip.rows[index][column] !== String(outputRows[index][column] ?? "")) {
-          throw new CompileFailure(`${fileId}#${index}: artifact-tool round-trip differs at ${column}`);
+          throw new CompileFailure(`${fileId}#${index}: CSV round-trip differs at ${column}`);
         }
         if (formulaErrorRe.test(roundTrip.rows[index][column])) {
           throw new CompileFailure(`${fileId}#${index}: spreadsheet error token at ${column}`);
@@ -442,14 +503,12 @@ async function main() {
       }
     }
     if (representativeFileIds.has(fileId)) {
-      const inspected = await outputMatrix.workbook.inspect({
-        kind: "region",
-        sheetId: "Production",
-        range: `A1:U${Math.min(outputMatrix.rowCount, 4)}`,
-        maxChars: 3000,
-      });
-      if (!inspected.ndjson) throw new CompileFailure(`${fileId}: artifact-tool inspection returned no data`);
-      artifactInspectionFiles += 1;
+      const inspected = inspectCsvRegion(
+        outputMatrix.values,
+        `A1:U${Math.min(outputMatrix.rowCount, 4)}`,
+      );
+      if (!inspected.ndjson) throw new CompileFailure(`${fileId}: CSV inspection returned no data`);
+      csvInspectionFiles += 1;
     }
     outputs.set(path.join(outputRoot, templateName), outputText);
     if (family === "BRIEFING_FILES") {
@@ -468,8 +527,8 @@ async function main() {
   if (JSON.stringify(actual) !== JSON.stringify(expected)) {
     throw new CompileFailure(`scope mismatch: expected=${JSON.stringify(expected)} actual=${JSON.stringify(actual)}`);
   }
-  if (artifactInspectionFiles !== representativeFileIds.size) {
-    throw new CompileFailure(`expected ${representativeFileIds.size} representative inspections`);
+  if (csvInspectionFiles !== representativeFileIds.size) {
+    throw new CompileFailure(`expected ${representativeFileIds.size} representative CSV inspections`);
   }
   if (contentIssues.length) {
     throw new CompileFailure(
@@ -515,8 +574,8 @@ async function main() {
       hard_overflow_blocks: 0,
       issues: capacityIssues,
     },
-    artifact_tool_csv_roundtrip_files: actual.files.all,
-    artifact_tool_inspected_files: artifactInspectionFiles,
+    csv_roundtrip_files: actual.files.all,
+    csv_inspected_files: csvInspectionFiles,
     spreadsheet_error_tokens: 0,
     hashes: {
       jpn_identity_sha256: stableIdentity(corpusRows, ["file_id", "unique_index", "jpn_text"]),
@@ -561,8 +620,8 @@ async function main() {
   console.log(`CONTROL_ERRORS=0`);
   console.log(`KANA_ROWS=0`);
   console.log(`HARD_OVERFLOW_BLOCKS=0`);
-  console.log(`ARTIFACT_TOOL_CSV_ROUNDTRIP_FILES=${actual.files.all}`);
-  console.log(`ARTIFACT_TOOL_INSPECTED_FILES=${artifactInspectionFiles}`);
+  console.log(`CSV_ROUNDTRIP_FILES=${actual.files.all}`);
+  console.log(`CSV_INSPECTED_FILES=${csvInspectionFiles}`);
   console.log(`REPORT=${reportPath}`);
 }
 

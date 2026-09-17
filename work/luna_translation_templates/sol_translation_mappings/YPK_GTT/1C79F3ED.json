@@ -1,0 +1,331 @@
+{
+  "file_id": "1C79F3ED",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 46,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "这里是<R=近身战斗训练设施,KILL HOUSE>。",
+      "cn_control_tokens": "<R=近身战斗训练设施,KILL HOUSE>",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "新开发的武器可以在这里试射。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "也可以进行计时挑战。\\n要不要试试身手？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "为训练准备了<R=弹出式,POP-UP>的<R=目标,TARGET>。",
+      "cn_control_tokens": "<R=弹出式,POP-UP> | <R=目标,TARGET>",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "<R=近身战斗训练设施,KILL HOUSE>由多个训练间组成。",
+      "cn_control_tokens": "<R=近身战斗训练设施,KILL HOUSE>",
+      "cn_utf8_bytes": 66,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "每个训练间到<R=目标,TARGET>的距离不同。\\n要根据情况切换武器。",
+      "cn_control_tokens": "<R=目标,TARGET>",
+      "cn_utf8_bytes": 84,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "这里是近距离训练间。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "用来训练手枪、霰弹枪等\\n短射程武器。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 52,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "这里是中程训练间。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "很适合突击步枪、重机枪等\\n中射程武器的射击训练。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 70,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "这里是远距离训练间。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "用来实射狙击步枪、导弹等\\n远射程武器。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "这里的<R=目标,TARGET>都布置在武器<R=瞄准线,LOS>之外。",
+      "cn_control_tokens": "<R=目标,TARGET> | <R=瞄准线,LOS>",
+      "cn_utf8_bytes": 70,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "用于训练榴弹等弹道呈弧线的\\n投掷类武器。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 58,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "可以和MSF士兵进行CQC训练。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 36,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "应该能获得接近实战的感觉。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "这里是综合训练间。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 17,
+      "cn_text": "会模拟各种情况出现<R=目标,TARGET>。",
+      "cn_control_tokens": "<R=目标,TARGET>",
+      "cn_utf8_bytes": 47,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 18,
+      "cn_text": "拿出平时训练的成果吧。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 19,
+      "cn_text": "击中部位不同，得分也不同。\\n头部、躯干、手臂依次得分更高。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 85,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 20,
+      "cn_text": "射击<R=举手投降,HOLD UP>的目标会扣分。\\n注意。",
+      "cn_control_tokens": "<R=举手投降,HOLD UP>",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 21,
+      "cn_text": "不要射击<R=举手投降,HOLD UP>的目标！\\n会被扣分。",
+      "cn_control_tokens": "<R=举手投降,HOLD UP>",
+      "cn_utf8_bytes": 64,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 22,
+      "cn_text": "扣分！不是说了别射击\\n<R=举手投降,HOLD UP>的目标吗！",
+      "cn_control_tokens": "<R=举手投降,HOLD UP>",
+      "cn_utf8_bytes": 70,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 23,
+      "cn_text": "好！这个训练间的目标全解决了。\\n继续前进。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 24,
+      "cn_text": "这个训练间目标清完了。\\n继续前进。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 49,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 25,
+      "cn_text": "怎么了？这个训练间的目标都打完了。\\n继续前进。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 67,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 26,
+      "cn_text": "前一个训练间还有目标。\\n去找出来。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 49,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 27,
+      "cn_text": "等等，前一个训练间还有目标。\\n解决后再前进。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 64,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 28,
+      "cn_text": "这是计时挑战。\\n一边击倒目标一边前进。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 29,
+      "cn_text": "在时限内击倒最后一个目标，任务就结束。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 30,
+      "cn_text": "一边击倒目标一边前进。\\n击倒最后一个目标就完成任务。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 76,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 31,
+      "cn_text": "好，最后一个。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 32,
+      "cn_text": "前往终点。\\n可以从菜单窗口确认终点位置。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 58,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 33,
+      "cn_text": "这是计时挑战！\\n在时限内尽可能多击倒目标！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 34,
+      "cn_text": "在时限内尽可能多击倒目标！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 35,
+      "cn_text": "这里是射击场。\\n很适合试射武器吧？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 49,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 36,
+      "cn_text": "想结束训练就去出口。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 37,
+      "cn_text": "想结束就前往出口。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 38,
+      "cn_text": "从出口出去，武器操作训练就结束了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 39,
+      "cn_text": "里面好像有人。\\n去看看。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 34,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 40,
+      "cn_text": "嗯？里面好像有人倒下了。\\n最好去看看。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 41,
+      "cn_text": "Snake，找到Zadornov。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 25,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 42,
+      "cn_text": "Zadornov在哪……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 20,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 43,
+      "cn_text": "这附近有蹊跷。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 44,
+      "cn_text": "Zadornov应该就在附近。\\n仔细找找。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 45,
+      "cn_text": "Zadornov就在那附近。\\n八九不离十。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

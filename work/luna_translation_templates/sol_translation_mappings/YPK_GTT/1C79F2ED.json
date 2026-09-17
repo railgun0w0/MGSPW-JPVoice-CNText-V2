@@ -1,0 +1,282 @@
+{
+  "file_id": "1C79F2ED",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 39,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "Chico被关在北边的收容所。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 35,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "往北走。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 12,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "总觉得不妙。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 18,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "前面是片开阔洼地。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "这地形很适合<R=狙击手,SNIPER>潜伏。",
+      "cn_control_tokens": "<R=狙击手,SNIPER>",
+      "cn_utf8_bytes": 47,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "前面是洼地，你会完全暴露。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "如果我是敌人，就会在这里埋伏<R=狙击手,SNIPER>。\\n小心。",
+      "cn_control_tokens": "<R=狙击手,SNIPER>",
+      "cn_utf8_bytes": 75,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "是<R=狙击手,SNIPER>！",
+      "cn_control_tokens": "<R=狙击手,SNIPER>",
+      "cn_utf8_bytes": 26,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "冒然前进会变成靶子。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "那帮家伙拿稻草人当<R=狙击,SNIPE>练习靶。",
+      "cn_control_tokens": "<R=狙击,SNIPE>",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "稻草人…",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 12,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "和海岸上的那个一样。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "往东北走，就到咖啡工厂了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "再往前就是<R=铁路货运站,TERMINAL>。",
+      "cn_control_tokens": "<R=列车车库,TERMINAL>",
+      "cn_utf8_bytes": 43,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "东北方向有座咖啡工厂。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "往东北走。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 15,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "这条铁路以前是运咖啡的……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 17,
+      "cn_text": "哥斯达黎加铁路轨距1,067毫米，\\n和日本国铁一样。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 66,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 18,
+      "cn_text": "会有蒸汽机车吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 19,
+      "cn_text": "往北走。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 12,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 20,
+      "cn_text": "Chico就在那里。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 20,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 21,
+      "cn_text": "去救Chico吧，Snake。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 25,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 22,
+      "cn_text": "这对我们也有好处。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 23,
+      "cn_text": "被占领的村子应该改成了收容所。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 24,
+      "cn_text": "Boss……\\nChico拜托了……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 31,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 25,
+      "cn_text": "拜托了……\\n救救Chico……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 26,
+      "cn_text": "列车车库就在<R=咖啡园,CAFETAL>更深处。",
+      "cn_control_tokens": "<R=咖啡园,CAFETAL>",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 27,
+      "cn_text": "货物应该正运往绞刑台镇的<R=铁路货运站,TERMINAL>。",
+      "cn_control_tokens": "<R=列车车库,TERMINAL>",
+      "cn_utf8_bytes": 64,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 28,
+      "cn_text": "<R=铁路货运站,TERMINAL>似乎就在绞刑台镇。",
+      "cn_control_tokens": "<R=列车车库,TERMINAL>",
+      "cn_utf8_bytes": 52,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 29,
+      "cn_text": "摧毁收容所的路障。\\n那就是我被关过的村子。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 30,
+      "cn_text": "去我被关过的收容所。\\n那里有路障。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 49,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 31,
+      "cn_text": "用C4炸毁路障。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 20,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 32,
+      "cn_text": "村子北边的水渠似乎可以当桥用。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 33,
+      "cn_text": "往北边的溪谷走。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 34,
+      "cn_text": "看到附近那种叶片很大的植物了吗？\\n那是大叶蚁塔。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 70,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 35,
+      "cn_text": "大叶蚁塔还有个别名，\\n<R=穷人的伞,SOMBRILLA DE POBRE>。",
+      "cn_control_tokens": "<R=穷人的伞,SOMBRILLA DE POBRE>",
+      "cn_utf8_bytes": 69,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 36,
+      "cn_text": "真的可以拿来当伞用。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 37,
+      "cn_text": "<R=穷人的伞,SOMBRILLA DE POBRE>吗……",
+      "cn_control_tokens": "<R=穷人的伞,SOMBRILLA DE POBRE>",
+      "cn_utf8_bytes": 44,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 38,
+      "cn_text": "只有<R=塑料布,CHAMPA>不够用时，\\n我常靠它帮忙。",
+      "cn_control_tokens": "<R=塑料布,CHAMPA>",
+      "cn_utf8_bytes": 63,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

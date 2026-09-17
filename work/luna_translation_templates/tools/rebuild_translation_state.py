@@ -645,16 +645,26 @@ def audit_file(
 
     complete_reps = [rep for rep in representations if rep.complete]
     if len(complete_reps) > 1:
+        precedence_label = (
+            "the explicit manifest is canonical"
+            if any(rep.root_path.name.endswith(".manifest.json") for rep in complete_reps)
+            else "the higher-priority mapping representation is canonical"
+        )
         signatures = [representation_signature(rep) for rep in complete_reps]
         if any(signature != signatures[0] for signature in signatures[1:]):
             warnings.append(
                 "multiple complete representations contain conflicting text/control rows; "
-                "the explicit manifest is canonical: "
+                + precedence_label
+                + "; losing representations are "
+                "NONCANONICAL legacy/reference artifacts and are not production inputs: "
                 + ", ".join(rep.name for rep in complete_reps)
             )
         else:
             warnings.append(
-                "duplicate complete representations are byte-equivalent at mapping-row level: "
+                "duplicate complete representations are byte-equivalent at mapping-row level; "
+                + precedence_label
+                + "; the other files are "
+                "NONCANONICAL legacy/reference artifacts: "
                 + ", ".join(rep.name for rep in complete_reps)
             )
 

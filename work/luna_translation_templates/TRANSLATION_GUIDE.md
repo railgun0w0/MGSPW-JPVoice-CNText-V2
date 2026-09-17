@@ -4,6 +4,12 @@
 
 本目录不是正式构建输入，不包含 DAT、KEY 或 compiled manifest。完成翻译后，必须经过本地校验和批准，才能进入正式构建。
 
+## Canonical 翻译来源（统一模型）
+
+六类资源的中文正文统一以 `sol_translation_mappings/<resource_class>/<file_id>.json` 为 canonical authoring source。对应模板 CSV 只定义 JPN 结构、上下文和容量；`translations/**/*.csv`、`build/translation/compiled_translation_manifest.csv`、worklist 与 report 均由 production compiler 生成，属于可重建的 production materialization，不应直接编辑。
+
+`YPK_GTT` 曾有 21 个 file_id 将完整译文保存在模板 CSV 中；迁移后这些 CSV 中的译文已机械导入同名 JSON，内容以状态加载器恢复的 canonical rows 为准。模板中的历史列错位行不得手工重译。`SLOT_OLANG/5D06A8D5` 与 `STAGEDAT_OLANG/LANG_VOCALOID_KEYBOARD.OLANG` 若同时存在旧 flat/descriptor JSON 和显式 manifest，manifest 优先；落选文件是 NONCANONICAL legacy/reference artifact，不是 production 输入。校验器会报告该 precedence 和冲突。
+
 ## 目录结构
 
 ```text
@@ -134,16 +140,16 @@ reference_reason
 
 ### 当前状态
 
-前五类资源已完成 241 file_ids / 21,041 rows。`BRIEFING/` 只包含 JPN lane 的 469 file_ids / 5,645 rows，其正式 mapping 也已全部完成。模板 CSV 仍保持以下只读输入状态；正式译文来自 `sol_translation_mappings/BRIEFING/<file_id>.json`：
+六类资源已完成 710 file_ids / 26,686 rows。正式译文统一来自 `sol_translation_mappings/<resource_class>/<file_id>.json`；模板 CSV（包括迁移前的 21 个 YPK CSV）只保留 JPN/结构输入和历史可追溯内容，不再作为 translation source-of-truth：
 
 ```text
-cn_text = 空
-cn_control_tokens = 空
-cn_utf8_bytes = 空
-control_structure_status = NOT_CHECKED
-translation_status = NOT_STARTED
-build_status = NOT_BUILT
-ingame_status = NOT_TESTED
+cn_text = 由 canonical mapping JSON 提供
+cn_control_tokens = 由 canonical mapping JSON 提供
+cn_utf8_bytes = 由 canonical mapping JSON/校验器核验
+control_structure_status = 由 production compiler 校验
+translation_status = 由 canonical mapping 状态决定
+build_status = 由 production compiler 生成
+ingame_status = 由实机验收记录
 ```
 
 模板不得直接用于构建 DAT。

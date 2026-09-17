@@ -1,0 +1,86 @@
+{
+  "file_id": "1C7AF2AD",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 11,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "已经进入据点范围了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "守卫很多，别大意。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "目标地点是东边的建筑。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "前往东边的建筑，获取据点情报。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "进入场地东部的设施。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "目标是东边那栋两层建筑。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 36,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "先解除警戒。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 18,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "纸箱？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 9,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "拿来做什么？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 18,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "匍匐时按<I=ESEARCH>，试着探查敌人的动静。",
+      "cn_control_tokens": "<I=ESEARCH>",
+      "cn_utf8_bytes": 56,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "贴着墙时也能做同样的事。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 36,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

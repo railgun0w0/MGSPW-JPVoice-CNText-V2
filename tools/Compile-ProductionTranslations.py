@@ -204,7 +204,13 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--v2-root", type=Path, default=v2_root)
     parser.add_argument("--translation-repo", type=Path, default=default_repo)
-    parser.add_argument("--write", action="store_true")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--write", action="store_true")
+    mode.add_argument(
+        "--check",
+        action="store_true",
+        help="verify every production output is byte-identical to the compiled result without writing",
+    )
     return parser.parse_args()
 
 
@@ -237,6 +243,26 @@ def atomic_write_text(path: Path, text: str) -> None:
     with temporary.open("w", encoding="utf-8", newline="") as handle:
         handle.write(text)
     temporary.replace(path)
+
+
+def check_outputs(outputs: dict[Path, str]) -> None:
+    def normalize_newlines(data: bytes) -> bytes:
+        return data.replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+
+    mismatches: list[str] = []
+    for path, expected in outputs.items():
+        if not path.is_file():
+            mismatches.append(f"missing: {path}")
+            continue
+        actual = path.read_bytes()
+        if normalize_newlines(actual) != normalize_newlines(expected.encode("utf-8")):
+            mismatches.append(str(path))
+    if mismatches:
+        preview = ", ".join(mismatches[:12])
+        suffix = ", ..." if len(mismatches) > 12 else ""
+        raise CompileFailure(
+            f"production outputs are stale ({len(mismatches)} mismatch(es)): {preview}{suffix}"
+        )
 
 
 def load_module(path: Path, name: str):
@@ -909,8 +935,10 @@ def main() -> int:
     if args.write:
         for path, text in outputs.items():
             atomic_write_text(path, text)
+    elif args.check:
+        check_outputs(outputs)
 
-    print(f"MODE={'WRITE' if args.write else 'DRY_RUN'}")
+    print(f"MODE={'WRITE' if args.write else 'CHECK' if args.check else 'DRY_RUN'}")
     print(f"PRODUCTION_FILES={len(compiled)}")
     print(f"PRODUCTION_UNIQUE_ROWS={compile_counts['rows']}")
     print(f"COMPILED_MANIFEST_ROWS={len(manifest_rows)}")

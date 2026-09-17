@@ -34,14 +34,14 @@ V2 的硬规则：
 5. 每一层重建都必须独立 round-trip；容器通过不等于运行时映射成立。
 6. 全补丁以 JPN 日文原文为语义权威、以目标 JPN 资源为结构权威；MLG_CN 仅辅助参考术语与表达，ENG 仅在必要时用于消歧。
 7. OLANG 不按 MLG/ENG reference index、entity key occurrence 或旧 `semantic_partial` 结果直接移植；先完成 JPN 上下文工作表，再显式回填全部 JPN references。
-8. `translation_worklist.csv` 是 file_id 级管理索引；`translations/<resource_class>/<file_id>.csv` 是翻译权威。旧五类资源由 `compiled_translation_manifest.csv` 进入现有构建器；BRIEFING 由 `translations/briefing/*.csv` 进入专用 oEbN builder，不得按文本去重后硬并入旧 manifest。
+8. `translation_worklist.csv` 是 file_id 级管理索引；`work/luna_translation_templates/sol_translation_mappings/<resource_class>/*.json`（BRIEFING_NBE 的物理目录名为 `BRIEFING`）是六类资源统一的 canonical 翻译来源，模板 CSV 主要提供 JPN 结构/上下文，并保留少量 legacy 译文供追溯但不再具备 authoring 权威。`translations/<resource_class>/<file_id>.csv`、旧五类 `compiled_translation_manifest.csv` 和各类 report 都是 production compiler 生成的物化产物，不得直接作为翻译 source-of-truth。旧五类资源由 manifest 或 production CSV 进入现有构建器；BRIEFING 由 `translations/briefing/*.csv` 进入专用 oEbN builder，不得按文本去重后硬并入旧 manifest。
 9. 所有正式候选从 clean JPN original 生成，不在旧 Experimental DAT 或现成 ENG/CN 补丁上叠加。
 
 当前状态：
 
 - 当前六类翻译共 710/710 个 file_id、26,686/26,686 条 translation rows 完成。旧五类资源仍为 241 file_ids / 21,041 个去重翻译行，对象级 `compiled_translation_manifest.csv` 共 91,609 行。
-- 旧五类 production compiler 直接读取 Git 已跟踪的 `reference_masters`，并从零生成 worklist 与 91,609 行 manifest；被忽略的 `build/translation/` 仅为输出目录，不是前置输入。
-- BRIEFING 已生成独立正式 production CSV，并完成专用 clean-JPN fixed-layout 构建：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、全盘 parser/text/diff round-trip 均通过。2026-09-14 实机已确认 FILES/MISSION 正常显示中文；两条已知长句已加入显式 LF，layout audit 当前为 0 overflow。
+- 旧五类 production compiler 读取 Git 已跟踪的 JPN 模板与 `sol_translation_mappings` canonical JSON，并从零生成 production CSV、worklist 与 91,609 行 manifest；被忽略的 `build/translation/` 仅为输出目录，不是前置输入。可用 `python tools/Compile-ProductionTranslations.py --check` 检查所有旧五类物化产物是否新鲜。
+- BRIEFING 已生成独立正式 production CSV，并完成专用 clean-JPN fixed-layout 构建：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、全盘 parser/text/diff round-trip 均通过。`node tools/Compile-BriefingProductionTranslations.mjs --check` 是 BRIEFING production freshness gate；2026-09-14 实机已确认 FILES/MISSION 正常显示中文；两条已知长句已加入显式 LF，layout audit 当前为 0 overflow。
 - 当前优先级是完成包含 BRIEFING 的可运行 MVP：专用 oEbN builder、round-trip、统一测试包和实机验证。旧五类模板按 `file_id + jpn_text` 自动聚合可能压掉同文异境差异，已登记为 MVP 后的翻译润色/通用 schema 优化方向；MVP 前不重做 21,041 行旧译文，也不因此阻塞构建。
 - 36 个 YPK/GTT 已完成 fixed-frame repack：1,882 records、2,136 timed segments，1,812 normal fit、70 alignment spill、0 hard overflow。现有容量结果保持不变；alignment spill、容量余量和后续压缩/排版优化统一列为中文润色完成后的后续优化项目，不作为当前生产阻塞。
 - 144 个 SLOT OLANG 已覆盖 742 个 physical occurrences；OHD `1E4C1146` 已覆盖 4 个 occurrence、904 个 physical records；14 个 loose OLANG 与 123 个 STAGEDAT embedded OLANG entry 均已完成 round-trip。

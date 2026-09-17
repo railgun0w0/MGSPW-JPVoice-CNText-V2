@@ -1,0 +1,128 @@
+{
+  "file_id": "1C7BF36D",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 17,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "好，离和平行者只差一步了！\\n快！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 46,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "那扇卷帘门，只要使上劲……\\n连续按<I=ACT>试着打开它！",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 74,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "那扇卷帘门，只要使上劲……\\n按<I=ACT>试着打开它！",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 68,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "按<I=ACT>打开卷帘门！",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 28,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "卷帘门可以用<I=ACT>打开！",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 34,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "出现“图标”时按<I=ACT>。",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 34,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "要打开那扇卷帘门就按<I=ACT>！",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 40,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "和平行者就在那扇门后……\\n好，按<I=ACT>打开卷帘门！",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 71,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "和平行者近在眼前。\\n越过卷帘门继续往里走。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "正面突破不行吗……等等。\\n从上层绕过去呢？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "好，就是这样！\\n一口气冲向和平行者的机库！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "干得漂亮！\\n这连打速度连高手都得甘拜下风！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 61,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "好了，离和平行者只剩一点了！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "找到和平行者的机库，\\n摧毁AI舱。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "和平行者的机库应该就在某处。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "没时间了。\\n前往和平行者的机库。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 46,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "和平行者正在准备启动。\\n快！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 40,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

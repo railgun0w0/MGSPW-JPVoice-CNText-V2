@@ -1,0 +1,275 @@
+{
+  "file_id": "1C7B72ED",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 38,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "过桥，往北走。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "能看到运输路线了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "<R=铁路货运站,TERMINAL>看到的卡车好像已经开走了。",
+      "cn_control_tokens": "<R=火车终点站,TERMINAL>",
+      "cn_utf8_bytes": 67,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "看看对岸。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 15,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "那是从<R=铁路货运站,TERMINAL>延伸出去的卡车运输路线。",
+      "cn_control_tokens": "<R=火车终点站,TERMINAL>",
+      "cn_utf8_bytes": 73,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "应该能从水渠的脚手架过去。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "脚手架是上下两层结构。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "上层有些损坏，不过下层没问题。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "两个人的话应该能爬上去。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 36,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "从吊桥<R=悬挂,ELUDE>下去，\\n也许能躲过敌人。",
+      "cn_control_tokens": "<R=悬挂,ELUDE>",
+      "cn_utf8_bytes": 59,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "要悬挂下去，\\n在桥栏杆附近按<I=ACT>。",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 50,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "蹲下时不能悬挂。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "趁敌人没看见，\\n从栏杆<R=悬挂,ELUDE>下去。",
+      "cn_control_tokens": "<R=悬挂,ELUDE>",
+      "cn_utf8_bytes": 56,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "感觉要吓尿了……",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "已经到运输路线了。\\n沿路去敌人的基地。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "这是卡车的运输路线。\\n基地就在前面。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 52,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "拜托了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 12,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 17,
+      "cn_text": "他们的基地应该就在这条运输路线前面。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 54,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 18,
+      "cn_text": "我们也没去过更前面。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 19,
+      "cn_text": "路被敌人堵住了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 20,
+      "cn_text": "能突破过去吗？",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 21,
+      "cn_text": "糟了，敌兵正在抛锚的卡车周围游荡。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 22,
+      "cn_text": "突破过去。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 15,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 23,
+      "cn_text": "公路靠山一侧有座碉堡。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 24,
+      "cn_text": "控制住那里，战斗应该会有利得多。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 48,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 25,
+      "cn_text": "那座碉堡位置不错。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 26,
+      "cn_text": "控制住这里，战斗会更有利。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 39,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 27,
+      "cn_text": "Snake，拜托了。\\n别让这种碉堡再被用起来……加油。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 69,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 28,
+      "cn_text": "敌人的基地在北边山区。\\n往北走。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 46,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 29,
+      "cn_text": "设施入口好像在半山腰。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 30,
+      "cn_text": "快点。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 9,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 31,
+      "cn_text": "前面连我们都没去过。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 32,
+      "cn_text": "设施入口好像在半山腰。\\n小心。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 43,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 33,
+      "cn_text": "看到附近那些特别大的叶子了吗？\\n那是大叶蚁塔。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 67,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 34,
+      "cn_text": "大叶蚁塔也叫\\n<R=穷人的伞,SOMBRILLA DE POBRE>。",
+      "cn_control_tokens": "<R=穷人的伞,SOMBRILLA DE POBRE>",
+      "cn_utf8_bytes": 57,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 35,
+      "cn_text": "顾名思义，也真的能拿来当伞用。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 36,
+      "cn_text": "<R=穷人的伞,SOMBRILLA DE POBRE>吗……",
+      "cn_control_tokens": "<R=穷人的伞,SOMBRILLA DE POBRE>",
+      "cn_utf8_bytes": 44,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 37,
+      "cn_text": "只有<R=塑料布,CHAMPA>不够用的时候，\\n我经常靠它帮忙。",
+      "cn_control_tokens": "<R=塑料布,CHAMPA>",
+      "cn_utf8_bytes": 72,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

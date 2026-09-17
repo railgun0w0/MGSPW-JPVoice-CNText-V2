@@ -1,0 +1,149 @@
+{
+  "file_id": "1C7BF2AD",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 20,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "附近应该有<R=FSLN,SANDINISTA>的小屋。",
+      "cn_control_tokens": "<R=FSLN,SANDINISTA>",
+      "cn_utf8_bytes": 46,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "先解决警卫，再去接触<R=FSLN,SANDINISTA>的\\n<R=指挥官,COMANDANTE>。",
+      "cn_control_tokens": "<R=FSLN,SANDINISTA> | <R=司令官,COMANDANTE>",
+      "cn_utf8_bytes": 80,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "让所有敌兵失去战斗力。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "让所有敌兵失去战斗力。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 33,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "麻醉或打晕也行。\\n让所有敌兵失去战斗力。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 58,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "还有敌兵。\\n让他失去战斗力。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 40,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "优先解决敌兵。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 21,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "上面似乎有人被抓了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 30,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 8,
+      "cn_text": "但还是先解决敌兵。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 27,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 9,
+      "cn_text": "好，去和<R=FSLN,SANDINISTA>的<R=指挥官,COMANDANTE>会合。\\n他就在那间小屋里。",
+      "cn_control_tokens": "<R=FSLN,SANDINISTA> | <R=司令官,COMANDANTE>",
+      "cn_utf8_bytes": 95,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 10,
+      "cn_text": "好像有增援来了。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 24,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 11,
+      "cn_text": "小心。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 9,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 12,
+      "cn_text": "要使用机枪座，靠近后等图标出现，\\n再按<I=ACT>！",
+      "cn_control_tokens": "<I=ACT>",
+      "cn_utf8_bytes": 65,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 13,
+      "cn_text": "用<I=CAMERA>瞄准敌人。",
+      "cn_control_tokens": "<I=CAMERA>",
+      "cn_utf8_bytes": 28,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 14,
+      "cn_text": "用<I=AIM>缩放，按<I=ATK>攻击！",
+      "cn_control_tokens": "<I=AIM> | <I=ATK>",
+      "cn_utf8_bytes": 38,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 15,
+      "cn_text": "用<I=MACHINGUN_ZOOM>缩放，按<I=ATK>攻击！",
+      "cn_control_tokens": "<I=MACHINGUN_ZOOM> | <I=ATK>",
+      "cn_utf8_bytes": 49,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 16,
+      "cn_text": "按<I=MACHINGUN_ZOOM>即可缩放，按<I=ATK>攻击！",
+      "cn_control_tokens": "<I=MACHINGUN_ZOOM> | <I=ATK>",
+      "cn_utf8_bytes": 55,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 17,
+      "cn_text": "阿曼达应该在<R=香蕉园,BANANAL>旧址的物资堆场。\\n去和她会合。",
+      "cn_control_tokens": "<R=香蕉园,BANANAL>",
+      "cn_utf8_bytes": 82,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 18,
+      "cn_text": "和阿曼达会合，Snake。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 29,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 19,
+      "cn_text": "阿曼达好像在香蕉园的物资堆场。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}

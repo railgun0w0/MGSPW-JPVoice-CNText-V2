@@ -1,0 +1,65 @@
+{
+  "file_id": "1C7B736D",
+  "resource_class": "YPK_GTT",
+  "status": "TRANSLATED_CANONICAL_MAPPING",
+  "notes": "Canonical mapping generated mechanically from the audited translated YPK template CSV. JPN template structure remains authoritative; this JSON is now the sole authoring translation source. Do not edit translations/*.csv directly.",
+  "row_count": 8,
+  "translations": [
+    {
+      "unique_index": 0,
+      "cn_text": "那扇门在警戒状态下似乎不会打开。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 48,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 1,
+      "cn_text": "等警戒解除。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 18,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 2,
+      "cn_text": "警戒等级太高，那扇门似乎不会打开。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 51,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 3,
+      "cn_text": "一个人对付互相配合的敌人很难。\\n最好避开战斗。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 67,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 4,
+      "cn_text": "找到和平行者的机库，\\n摧毁AI舱。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 45,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 5,
+      "cn_text": "和平行者的机库应该就在某处。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 42,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 6,
+      "cn_text": "没时间了。\\n前往和平行者的机库。",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 46,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    },
+    {
+      "unique_index": 7,
+      "cn_text": "和平行者正在准备启动。\\n快！",
+      "cn_control_tokens": "",
+      "cn_utf8_bytes": 40,
+      "review_flag": "JPN_PRIMARY; MLG_CN_CONTEXT_AUXILIARY"
+    }
+  ]
+}
