@@ -1,0 +1,57 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "golden": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN_CN\\00c7c9f9.xpr",
+    "encrypted_sha256": "bf1d2f6d9727a71c734e69b2f6406503818e4c5b21a7f548fbc80d9deec9b793",
+    "decrypted_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+    "user_size": 182120,
+    "glyph_count": 3209,
+    "mapped_count": 3208,
+    "atlas_sha256": "21e59f6cd1ad0d2aaa6bfd3de6d6831a32077dfa03e0574b63d0047c17955445"
+  },
+  "output": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST2B_COUNT_PATCH\\00c7c9f9.xpr",
+    "encrypted_sha256": "e09080ce5ff686f2a026c847135931ede4b7869dc4490f51d5cbbe2281343744",
+    "decrypted_sha256": "279e34a9795cdc6887cd876c1c11605a2eedeab1ab0f1262a0092bf24c4f28d9",
+    "filename_seed": "0x3AF33BE1",
+    "user_size": 182136,
+    "glyph_count": 3210,
+    "mapped_count": 3209,
+    "atlas_sha256": "21e59f6cd1ad0d2aaa6bfd3de6d6831a32077dfa03e0574b63d0047c17955445"
+  },
+  "donor": {
+    "character": "昏",
+    "codepoint": "U+660F",
+    "glyph_index": 1751,
+    "record_raw_hex": "00bd06e900f7072c0004003a003e0000"
+  },
+  "target": {
+    "character": "厥",
+    "codepoint": "U+53A5",
+    "glyph_index": 3209,
+    "raw_charmap_before_hex": "0000",
+    "raw_charmap_after_hex": "0c89"
+  },
+  "count_mirror": {
+    "user_offset": "0x1FED4",
+    "file_offset": "0x1FF64",
+    "before_hex": "00000c89",
+    "after_hex": "00000c8a",
+    "before_be_u32": 3209,
+    "after_be_u32": 3210
+  },
+  "assertions": {
+    "readback_roundtrip": true,
+    "target_mapping": 3209,
+    "target_record_equals_donor": true,
+    "old_records_unchanged": true,
+    "old_charmap_unchanged_except_target": true,
+    "atlas_byte_identical": true,
+    "user_size": 182136,
+    "tx2d_unchanged": true,
+    "texture_offset_unchanged": true,
+    "xpr_data_size_unchanged": true,
+    "parser_errors": []
+  }
+}

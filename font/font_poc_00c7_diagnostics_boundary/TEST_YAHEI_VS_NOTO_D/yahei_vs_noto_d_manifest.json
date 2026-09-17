@@ -1,0 +1,399 @@
+{
+  "status": "PASS",
+  "control_D": {
+    "runtime_status": "PASS",
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\CANDIDATE_D\\00c7c9f9.xpr",
+    "encrypted_sha256": "a9b4e5e857beb61f0ca493103ba69af33cb5061d441f98e546d18a0a74a3d4bc",
+    "bitmap": {
+      "bbox": [
+        2,
+        7,
+        56,
+        59
+      ],
+      "coverage_percent": 47.658,
+      "nonzero_grayscale_mean": 215.07,
+      "nonzero_pixel_count": 1852,
+      "left_padding": 2,
+      "right_padding": 2,
+      "top_padding": 7,
+      "bottom_padding": 8,
+      "baseline_ink_bottom": 59,
+      "sha256": "3230446b844363c8b6bdb14bfea0689a616757386985677ea087c00d798b951e"
+    }
+  },
+  "yahei_metadata": {
+    "regular": {
+      "file": "C:\\Windows\\Fonts\\msyh.ttc",
+      "face_index": 0,
+      "family_name_id_1": [
+        "Microsoft YaHei",
+        "微软雅黑"
+      ],
+      "subfamily_name_id_2": [
+        "Arrunta",
+        "Navadno",
+        "Normaali",
+        "Normal",
+        "Normale",
+        "Normalny",
+        "Normál",
+        "Normálne",
+        "Regular",
+        "Standaard",
+        "Standard",
+        "obyčejné",
+        "Κανονικά",
+        "Обычный"
+      ],
+      "full_name_id_4": [
+        "Microsoft YaHei",
+        "微软雅黑"
+      ],
+      "postscript_name_id_6": [
+        "MicrosoftYaHei",
+        "MicrosoftYaHeiRegular"
+      ]
+    },
+    "bold": {
+      "file": "C:\\Windows\\Fonts\\msyhbd.ttc",
+      "face_index": 0,
+      "family_name_id_1": [
+        "Microsoft YaHei",
+        "微软雅黑"
+      ],
+      "subfamily_name_id_2": [
+        "Bold",
+        "Fet",
+        "Fett",
+        "Félkövér",
+        "Gras",
+        "Grassetto",
+        "Halvfet",
+        "Kalın",
+        "Krepko",
+        "Lihavoitu",
+        "Lodia",
+        "Negreta",
+        "Negrita",
+        "Negrito",
+        "Pogrubiony",
+        "Tučné",
+        "Vet",
+        "fed",
+        "tučné",
+        "Έντονα",
+        "Полужирный"
+      ],
+      "full_name_id_4": [
+        "Microsoft YaHei Bold",
+        "Microsoft YaHei Fet",
+        "Microsoft YaHei Fett",
+        "Microsoft YaHei Félkövér",
+        "Microsoft YaHei Gras",
+        "Microsoft YaHei Grassetto",
+        "Microsoft YaHei Halvfet",
+        "Microsoft YaHei Kalın",
+        "Microsoft YaHei Krepko",
+        "Microsoft YaHei Lihavoitu",
+        "Microsoft YaHei Lodia",
+        "Microsoft YaHei Negreta",
+        "Microsoft YaHei Negrita",
+        "Microsoft YaHei Negrito",
+        "Microsoft YaHei Pogrubiony",
+        "Microsoft YaHei Tučné",
+        "Microsoft YaHei Vet",
+        "Microsoft YaHei fed",
+        "Microsoft YaHei tučné",
+        "Microsoft YaHei Έντονα",
+        "Microsoft YaHei Полужирный",
+        "微软雅黑 Bold"
+      ],
+      "postscript_name_id_6": [
+        "MicrosoftYaHei-Bold"
+      ]
+    }
+  },
+  "candidates": [
+    {
+      "style": "Microsoft YaHei Regular",
+      "font_file": "C:\\Windows\\Fonts\\msyh.ttc",
+      "actual_metadata": {
+        "file": "C:\\Windows\\Fonts\\msyh.ttc",
+        "face_index": 0,
+        "family_name_id_1": [
+          "Microsoft YaHei",
+          "微软雅黑"
+        ],
+        "subfamily_name_id_2": [
+          "Arrunta",
+          "Navadno",
+          "Normaali",
+          "Normal",
+          "Normale",
+          "Normalny",
+          "Normál",
+          "Normálne",
+          "Regular",
+          "Standaard",
+          "Standard",
+          "obyčejné",
+          "Κανονικά",
+          "Обычный"
+        ],
+        "full_name_id_4": [
+          "Microsoft YaHei",
+          "微软雅黑"
+        ],
+        "postscript_name_id_6": [
+          "MicrosoftYaHei",
+          "MicrosoftYaHeiRegular"
+        ]
+      },
+      "font_size_px": 57,
+      "offset_x": -1,
+      "offset_y": 0,
+      "draw_x": -1,
+      "baseline_y": 51,
+      "font_bbox_at_origin": [
+        0,
+        -44,
+        57,
+        8
+      ],
+      "bbox": [
+        0,
+        7,
+        56,
+        59
+      ],
+      "rasterizer": "Pillow 9.0.1 FreeTypeFont/ImageDraw, layout_engine=BASIC",
+      "hinting_mode": "Pillow default FreeType load flags; hinting not explicitly disabled",
+      "antialias_mode": "8-bit L-mode grayscale antialiasing",
+      "bitmap": {
+        "bbox": [
+          0,
+          7,
+          56,
+          59
+        ],
+        "coverage_percent": 38.24,
+        "nonzero_grayscale_mean": 206.995,
+        "nonzero_pixel_count": 1486,
+        "left_padding": 0,
+        "right_padding": 2,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "ff1f140a666ea8953116bf6b9244d2b23a97c9d26ebcb58dfbd0028bdaf2116e"
+      },
+      "search_score": 13.987,
+      "label": "Y1",
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_VS_NOTO_D\\Y1_BEST_REGULAR\\00c7c9f9.xpr",
+        "encrypted_sha256": "d7c42b0b8c05d1944e1d7db09c1568f7c7392d217d5d3bf111d4a92ed498feb6",
+        "decrypted_sha256": "6849ad00718f434a7cf4bdfb674f960cacdb4fc96459d04136365661e1a4f3d6",
+        "static_validation": "PASS",
+        "atlas_changed_byte_count_vs_D": 1741,
+        "atlas_changed_outside_target_vs_D": 0
+      }
+    },
+    {
+      "style": "Microsoft YaHei Bold",
+      "font_file": "C:\\Windows\\Fonts\\msyhbd.ttc",
+      "actual_metadata": {
+        "file": "C:\\Windows\\Fonts\\msyhbd.ttc",
+        "face_index": 0,
+        "family_name_id_1": [
+          "Microsoft YaHei",
+          "微软雅黑"
+        ],
+        "subfamily_name_id_2": [
+          "Bold",
+          "Fet",
+          "Fett",
+          "Félkövér",
+          "Gras",
+          "Grassetto",
+          "Halvfet",
+          "Kalın",
+          "Krepko",
+          "Lihavoitu",
+          "Lodia",
+          "Negreta",
+          "Negrita",
+          "Negrito",
+          "Pogrubiony",
+          "Tučné",
+          "Vet",
+          "fed",
+          "tučné",
+          "Έντονα",
+          "Полужирный"
+        ],
+        "full_name_id_4": [
+          "Microsoft YaHei Bold",
+          "Microsoft YaHei Fet",
+          "Microsoft YaHei Fett",
+          "Microsoft YaHei Félkövér",
+          "Microsoft YaHei Gras",
+          "Microsoft YaHei Grassetto",
+          "Microsoft YaHei Halvfet",
+          "Microsoft YaHei Kalın",
+          "Microsoft YaHei Krepko",
+          "Microsoft YaHei Lihavoitu",
+          "Microsoft YaHei Lodia",
+          "Microsoft YaHei Negreta",
+          "Microsoft YaHei Negrita",
+          "Microsoft YaHei Negrito",
+          "Microsoft YaHei Pogrubiony",
+          "Microsoft YaHei Tučné",
+          "Microsoft YaHei Vet",
+          "Microsoft YaHei fed",
+          "Microsoft YaHei tučné",
+          "Microsoft YaHei Έντονα",
+          "Microsoft YaHei Полужирный",
+          "微软雅黑 Bold"
+        ],
+        "postscript_name_id_6": [
+          "MicrosoftYaHei-Bold"
+        ]
+      },
+      "font_size_px": 55,
+      "offset_x": 0,
+      "offset_y": 0,
+      "draw_x": 1,
+      "baseline_y": 52,
+      "font_bbox_at_origin": [
+        0,
+        -44,
+        55,
+        7
+      ],
+      "bbox": [
+        1,
+        8,
+        56,
+        59
+      ],
+      "rasterizer": "Pillow 9.0.1 FreeTypeFont/ImageDraw, layout_engine=BASIC",
+      "hinting_mode": "Pillow default FreeType load flags; hinting not explicitly disabled",
+      "antialias_mode": "8-bit L-mode grayscale antialiasing",
+      "bitmap": {
+        "bbox": [
+          1,
+          8,
+          56,
+          59
+        ],
+        "coverage_percent": 50.335,
+        "nonzero_grayscale_mean": 217.133,
+        "nonzero_pixel_count": 1956,
+        "left_padding": 1,
+        "right_padding": 2,
+        "top_padding": 8,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "77a4f88fd15f8d7a1ad0791e02fad33a8def552228574c6a6e63b3ccb2972edc"
+      },
+      "search_score": 9.8761,
+      "label": "Y2",
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_VS_NOTO_D\\Y2_BEST_BOLD\\00c7c9f9.xpr",
+        "encrypted_sha256": "353b6313fd60e395e25d00d723510371e3cb11c80ce2ce1a2f2a7a45266fe9e7",
+        "decrypted_sha256": "93cc069e0be928b490a589a3d8b0412a5d61b266e68b3ee2e24a5b4897bd6ab7",
+        "static_validation": "PASS",
+        "atlas_changed_byte_count_vs_D": 1067,
+        "atlas_changed_outside_target_vs_D": 0
+      }
+    }
+  ],
+  "xpr_variants": [
+    {
+      "id": "D",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_VS_NOTO_D\\CONTROL_D\\00c7c9f9.xpr",
+      "encrypted_sha256": "a9b4e5e857beb61f0ca493103ba69af33cb5061d441f98e546d18a0a74a3d4bc",
+      "decrypted_sha256": "48460635dd93b6670c548867f9ab8fd21897f8fc8643b5c58ed4488405f8434f",
+      "static_validation": "PASS",
+      "atlas_changed_outside_target": 0,
+      "bitmap": {
+        "bbox": [
+          2,
+          7,
+          56,
+          59
+        ],
+        "coverage_percent": 47.658,
+        "nonzero_grayscale_mean": 215.07,
+        "nonzero_pixel_count": 1852,
+        "left_padding": 2,
+        "right_padding": 2,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "3230446b844363c8b6bdb14bfea0689a616757386985677ea087c00d798b951e"
+      }
+    },
+    {
+      "id": "Y1",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_VS_NOTO_D\\Y1_BEST_REGULAR\\00c7c9f9.xpr",
+      "encrypted_sha256": "d7c42b0b8c05d1944e1d7db09c1568f7c7392d217d5d3bf111d4a92ed498feb6",
+      "decrypted_sha256": "6849ad00718f434a7cf4bdfb674f960cacdb4fc96459d04136365661e1a4f3d6",
+      "static_validation": "PASS",
+      "atlas_changed_byte_count_vs_D": 1741,
+      "atlas_changed_outside_target_vs_D": 0,
+      "bitmap": {
+        "bbox": [
+          0,
+          7,
+          56,
+          59
+        ],
+        "coverage_percent": 38.24,
+        "nonzero_grayscale_mean": 206.995,
+        "nonzero_pixel_count": 1486,
+        "left_padding": 0,
+        "right_padding": 2,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "ff1f140a666ea8953116bf6b9244d2b23a97c9d26ebcb58dfbd0028bdaf2116e"
+      }
+    },
+    {
+      "id": "Y2",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_VS_NOTO_D\\Y2_BEST_BOLD\\00c7c9f9.xpr",
+      "encrypted_sha256": "353b6313fd60e395e25d00d723510371e3cb11c80ce2ce1a2f2a7a45266fe9e7",
+      "decrypted_sha256": "93cc069e0be928b490a589a3d8b0412a5d61b266e68b3ee2e24a5b4897bd6ab7",
+      "static_validation": "PASS",
+      "atlas_changed_byte_count_vs_D": 1067,
+      "atlas_changed_outside_target_vs_D": 0,
+      "bitmap": {
+        "bbox": [
+          1,
+          8,
+          56,
+          59
+        ],
+        "coverage_percent": 50.335,
+        "nonzero_grayscale_mean": 217.133,
+        "nonzero_pixel_count": 1956,
+        "left_padding": 1,
+        "right_padding": 2,
+        "top_padding": 8,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "77a4f88fd15f8d7a1ad0791e02fad33a8def552228574c6a6e63b3ccb2972edc"
+      }
+    }
+  ],
+  "preview": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_VS_NOTO_D\\yahei_vs_noto_d.png",
+  "errors": [],
+  "runtime_status": {
+    "CONTROL_D": "PASS",
+    "Y1": "PENDING_MANUAL_TEST",
+    "Y2": "PENDING_MANUAL_TEST"
+  },
+  "static_recommendation": "D",
+  "final_runtime_winner": "PENDING"
+}

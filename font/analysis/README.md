@@ -6,7 +6,7 @@
 
 - 正式 XPR 仍在 `font/JPN/`、`font/MLG/`、`font/JPN_CN/`、`font/MLG_CN/`。
 - 字体分析工具源码仍在 `tools/` 和 `work/`；它们的分析输出统一写入本目录。
-- `font_poc*`、`small_jpn_*` 等包含测试包或实验 XPR 的目录暂不搬动，避免把实验资源与审计结果混在一起。
+- `font/font_poc*`、`font/small_jpn_*` 等包含测试包或实验 XPR 的目录已统一放在 `font/` 下；它们仍属于实验资源，不是 current production conclusion 的入口。
 - PSP 字体分析属于另一个项目区域，不放在这里。
 
 历史报告状态：

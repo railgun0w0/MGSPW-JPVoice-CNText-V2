@@ -276,6 +276,8 @@ font: establish self-owned builder phase 1
 
 ## 8. 提交与 staging 注意
 
+本节是 Phase 1 的历史快照。2026-09-17 起，当前工作区已将字体、分析结果和实验目录统一归档到 `font/`；本次整理提交按实际目录结构选择性上传，不再把下面的旧 staging 清单视为当前状态。
+
 当前工作树本来就有大量未跟踪的历史分析、MLG/MLG_CN、PoC、fixture 和工具。它们不是本轮新增，不能使用宽泛 `git add .`。
 
 应只逐个 stage 本轮确认的文件，例如：
@@ -297,7 +299,7 @@ font/build/reports/...
 - `font/MLG/`
 - `font/MLG_CN/`
 - `font/JPN_CN/`
-- 历史 `font_poc*` / `small_jpn_*`
+- 历史 `font/font_poc*` / `font/small_jpn_*`
 - 未经本阶段审查的旧 `tools/Build-*`、analysis CSV/report
 - clean JPN XPR binaries，除非项目所有者另行明确决定 Git 策略
 

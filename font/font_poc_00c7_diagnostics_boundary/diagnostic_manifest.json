@@ -1,0 +1,2349 @@
+{
+  "golden_current_runtime_00c7": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN_CN\\00c7c9f9.xpr",
+    "encrypted_sha256": "bf1d2f6d9727a71c734e69b2f6406503818e4c5b21a7f548fbc80d9deec9b793",
+    "decrypted_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+    "filename_seed": "0x3AF33BE1"
+  },
+  "current_runtime_font": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN_CN\\00c7c9f9.xpr",
+    "encrypted_sha256": "bf1d2f6d9727a71c734e69b2f6406503818e4c5b21a7f548fbc80d9deec9b793",
+    "decrypted_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+    "fixed_header_raw_hex": "0000000542860000000000000000000042860000ff5e",
+    "magic": 5,
+    "cell_height": 67.0,
+    "cell_height_2": 67.0,
+    "last_code_hex": "U+FF5E",
+    "charmap_offset": 22,
+    "charmap_count": 65375,
+    "aligned_map_end": 130776,
+    "record_prefix_hex": "",
+    "record_offset": 130776,
+    "record_table_end": 182120,
+    "pre_record_4_hex": "00000c89",
+    "pre_record_4_be_u32": 3209,
+    "suffix_size": 0,
+    "record_count": 3209,
+    "mapped_count": 3208,
+    "max_index": 3208,
+    "atlas_width": 4096,
+    "atlas_height": 4096,
+    "atlas_pitch": 4096,
+    "atlas_format": 2,
+    "atlas_tiled": 0,
+    "atlas_endian": 0,
+    "atlas_row_count": 49,
+    "atlas_max_v1": 3332
+  },
+  "boundary_evidence": {
+    "character": "；",
+    "codepoint": "U+FF1B",
+    "index": 3208,
+    "record": {
+      "index": 3208,
+      "raw_hex": "07620cc1079c0d040004003a003e0000",
+      "u0": 1890,
+      "v0": 3265,
+      "u1": 1948,
+      "v1": 3332,
+      "bearing_x": 4,
+      "width": 58,
+      "advance": 62,
+      "reserved": 0
+    },
+    "previous_record": {
+      "index": 3207,
+      "raw_hex": "07230cc1075d0d040004003a003e0000",
+      "u0": 1827,
+      "v0": 3265,
+      "u1": 1885,
+      "v1": 3332,
+      "bearing_x": 4,
+      "width": 58,
+      "advance": 62,
+      "reserved": 0
+    }
+  },
+  "fonts": [
+    {
+      "label": "JPN-0007",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN\\0007ccd8.xpr",
+      "encrypted_sha256": "835975f4568188ecb81e384887cc6520b57e595a88b02e12d400ec25c1f0da28",
+      "decrypted_sha256": "92db6945d00d77d6ea992e0d4947876fc3f8b747ac9efca560bff14e90ba0b87",
+      "xpr_header_raw": "58505232000228100100000000000002",
+      "xpr_header_size": 141328,
+      "xpr_data_size": 16777216,
+      "texture_offset": 141340,
+      "user_descriptor_raw": "555345520000008400022708000000000000004400000000",
+      "tx2d_descriptor_raw": "545832440000005000000034000000000000003800000000",
+      "tx2d_header_raw": "0000000300000001000000000000000000000000ffff0000ffff0000200000020000000201ffefff000002480000000000000a00",
+      "atlas_width": 4096,
+      "atlas_height": 4096,
+      "atlas_pitch": 4096,
+      "atlas_format": 2,
+      "atlas_tiled": 0,
+      "atlas_endian": 0,
+      "atlas_row_count": 9,
+      "atlas_max_v1": 612,
+      "fixed_header_raw_hex": "0000000542860000000000000000000042860000ff5e",
+      "magic": 5,
+      "cell_height": 67.0,
+      "cell_height_2": 67.0,
+      "last_code": 65374,
+      "last_code_hex": "U+FF5E",
+      "charmap_offset": 22,
+      "charmap_count": 65375,
+      "aligned_map_end": 130776,
+      "record_prefix_hex": "",
+      "record_offset": 130776,
+      "record_table_end": 141064,
+      "pre_record_4_hex": "00000283",
+      "pre_record_4_be_u32": 643,
+      "suffix_size": 0,
+      "record_count": 643,
+      "mapped_count": 642,
+      "max_index": 642,
+      "candidate_values": [
+        642,
+        643
+      ],
+      "candidate_search": {
+        "642": {
+          "be_u16": {
+            "raw_hex": "0282",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130914,
+                "hex": "0x1FF62",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "8202",
+            "count": 0,
+            "offsets": [],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000282",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130912,
+                "hex": "0x1FF60",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "82020000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "44208000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00802044",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        },
+        "643": {
+          "be_u16": {
+            "raw_hex": "0283",
+            "count": 3,
+            "offsets": [
+              {
+                "file_offset": 130918,
+                "hex": "0x1FF66",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 131336,
+                "hex": "0x20108",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 133464,
+                "hex": "0x20958",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "8302",
+            "count": 0,
+            "offsets": [],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000283",
+            "count": 3,
+            "offsets": [
+              {
+                "file_offset": 130916,
+                "hex": "0x1FF64",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 131334,
+                "hex": "0x20106",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 133462,
+                "hex": "0x20956",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "83020000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "4420c000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00c02044",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        }
+      },
+      "record0": {
+        "index": 0,
+        "raw_hex": "00050001002200440004001d00210000",
+        "u0": 5,
+        "v0": 1,
+        "u1": 34,
+        "v1": 68,
+        "bearing_x": 4,
+        "width": 29,
+        "advance": 33,
+        "reserved": 0
+      }
+    },
+    {
+      "label": "JPN-000E",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN\\000ebbe8.xpr",
+      "encrypted_sha256": "cee3223a7edee8f98209bfcdb9f63506301ea9969617c10fa58fba13cfbd2a88",
+      "decrypted_sha256": "7c3a369f52b2136e374f955296dce784bf1094a7ed3590c6548a9105c0484ff9",
+      "xpr_header_raw": "58505232000220100020000000000002",
+      "xpr_header_size": 139280,
+      "xpr_data_size": 2097152,
+      "texture_offset": 139292,
+      "user_descriptor_raw": "555345520000008400021b88000000000000004400000000",
+      "tx2d_descriptor_raw": "545832440000005000000034000000000000003800000000",
+      "tx2d_header_raw": "0000000300000001000000000000000000000000ffff0000ffff00001000000200000002007fe7ff000002480000000000000a00",
+      "atlas_width": 2048,
+      "atlas_height": 1024,
+      "atlas_pitch": 2048,
+      "atlas_format": 2,
+      "atlas_tiled": 0,
+      "atlas_endian": 0,
+      "atlas_row_count": 11,
+      "atlas_max_v1": 748,
+      "fixed_header_raw_hex": "0000000542860000000000000000000042860000ff5e",
+      "magic": 5,
+      "cell_height": 67.0,
+      "cell_height_2": 67.0,
+      "last_code": 65374,
+      "last_code_hex": "U+FF5E",
+      "charmap_offset": 22,
+      "charmap_count": 65375,
+      "aligned_map_end": 130776,
+      "record_prefix_hex": "",
+      "record_offset": 130776,
+      "record_table_end": 138120,
+      "pre_record_4_hex": "000001cb",
+      "pre_record_4_be_u32": 459,
+      "suffix_size": 0,
+      "record_count": 459,
+      "mapped_count": 458,
+      "max_index": 458,
+      "candidate_values": [
+        458,
+        459
+      ],
+      "candidate_search": {
+        "458": {
+          "be_u16": {
+            "raw_hex": "01ca",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 130914,
+                "hex": "0x1FF62",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 132296,
+                "hex": "0x204C8",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "ca01",
+            "count": 0,
+            "offsets": [],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "000001ca",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 130912,
+                "hex": "0x1FF60",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 132294,
+                "hex": "0x204C6",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "ca010000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "43e50000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "0000e543",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        },
+        "459": {
+          "be_u16": {
+            "raw_hex": "01cb",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 130918,
+                "hex": "0x1FF66",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 133356,
+                "hex": "0x208EC",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "cb01",
+            "count": 0,
+            "offsets": [],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "000001cb",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130916,
+                "hex": "0x1FF64",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "cb010000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "43e58000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "0080e543",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        }
+      },
+      "record0": {
+        "index": 0,
+        "raw_hex": "00050001002200440004001d00210000",
+        "u0": 5,
+        "v0": 1,
+        "u1": 34,
+        "v1": 68,
+        "bearing_x": 4,
+        "width": 29,
+        "advance": 33,
+        "reserved": 0
+      }
+    },
+    {
+      "label": "JPN-001C",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN\\001cbbd1.xpr",
+      "encrypted_sha256": "5625066b835e6f26f310781fbbd3ef4f9ea93a77be2a4044289c11b74a767414",
+      "decrypted_sha256": "f4fdb335a56f81bee4e4a13be71f5518827ebcf42fbfa86d30d2f1de3c6dd025",
+      "xpr_header_raw": "58505232000218100020000000000002",
+      "xpr_header_size": 137232,
+      "xpr_data_size": 2097152,
+      "texture_offset": 137244,
+      "user_descriptor_raw": "5553455200000084000214ca000000000000004400000000",
+      "tx2d_descriptor_raw": "545832440000005000000034000000000000003800000000",
+      "tx2d_header_raw": "0000000300000001000000000000000000000000ffff0000ffff00001000000200000002007fe7ff000002480000000000000a00",
+      "atlas_width": 2048,
+      "atlas_height": 1024,
+      "atlas_pitch": 2048,
+      "atlas_format": 2,
+      "atlas_tiled": 0,
+      "atlas_endian": 0,
+      "atlas_row_count": 12,
+      "atlas_max_v1": 804,
+      "fixed_header_raw_hex": "0000000542840000000000000000000042840000ff1f",
+      "magic": 5,
+      "cell_height": 66.0,
+      "cell_height_2": 66.0,
+      "last_code": 65311,
+      "last_code_hex": "U+FF1F",
+      "charmap_offset": 22,
+      "charmap_count": 65312,
+      "aligned_map_end": 130648,
+      "record_prefix_hex": "0167",
+      "record_offset": 130650,
+      "record_table_end": 136394,
+      "pre_record_4_hex": "00000167",
+      "pre_record_4_be_u32": 359,
+      "suffix_size": 0,
+      "record_count": 359,
+      "mapped_count": 358,
+      "max_index": 358,
+      "candidate_values": [
+        358,
+        359
+      ],
+      "candidate_search": {
+        "358": {
+          "be_u16": {
+            "raw_hex": "0166",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130788,
+                "hex": "0x1FEE4",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "6601",
+            "count": 0,
+            "offsets": [],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000166",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130786,
+                "hex": "0x1FEE2",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "66010000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "43b30000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "0000b343",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        },
+        "359": {
+          "be_u16": {
+            "raw_hex": "0167",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130792,
+                "hex": "0x1FEE8",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "6701",
+            "count": 0,
+            "offsets": [],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000167",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130790,
+                "hex": "0x1FEE6",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "67010000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "43b38000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "0080b343",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        }
+      },
+      "record0": {
+        "index": 0,
+        "raw_hex": "00040001001900430003001500170000",
+        "u0": 4,
+        "v0": 1,
+        "u1": 25,
+        "v1": 67,
+        "bearing_x": 3,
+        "width": 21,
+        "advance": 23,
+        "reserved": 0
+      }
+    },
+    {
+      "label": "JPN-00C7",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN\\00c7c9f9.xpr",
+      "encrypted_sha256": "1f7a18f28d0d67d7a6a65a5286a1e48c97d595829b4c99325fb2b5772b921e8d",
+      "decrypted_sha256": "31b8eb9a7c86b1429fb7fa0d12688c65c9123e307c5f0e8c42f1df67a7cd9e6b",
+      "xpr_header_raw": "58505232000290100100000000000002",
+      "xpr_header_size": 167952,
+      "xpr_data_size": 16777216,
+      "texture_offset": 167964,
+      "user_descriptor_raw": "555345520000008400028f32000000000000004400000000",
+      "tx2d_descriptor_raw": "545832440000005000000034000000000000003800000000",
+      "tx2d_header_raw": "0000000300000001000000000000000000000000ffff0000ffff0000200000020000000201ffefff000002480000000000000a00",
+      "atlas_width": 4096,
+      "atlas_height": 4096,
+      "atlas_pitch": 4096,
+      "atlas_format": 2,
+      "atlas_tiled": 0,
+      "atlas_endian": 0,
+      "atlas_row_count": 38,
+      "atlas_max_v1": 2546,
+      "fixed_header_raw_hex": "0000000542840000000000000000000042840000ff63",
+      "magic": 5,
+      "cell_height": 66.0,
+      "cell_height_2": 66.0,
+      "last_code": 65379,
+      "last_code_hex": "U+FF63",
+      "charmap_offset": 22,
+      "charmap_count": 65380,
+      "aligned_map_end": 130784,
+      "record_prefix_hex": "0905",
+      "record_offset": 130786,
+      "record_table_end": 167730,
+      "pre_record_4_hex": "00000905",
+      "pre_record_4_be_u32": 2309,
+      "suffix_size": 0,
+      "record_count": 2309,
+      "mapped_count": 2308,
+      "max_index": 2308,
+      "candidate_values": [
+        2308,
+        2309
+      ],
+      "candidate_search": {
+        "2308": {
+          "be_u16": {
+            "raw_hex": "0904",
+            "count": 5,
+            "offsets": [
+              {
+                "file_offset": 130924,
+                "hex": "0x1FF6C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 135554,
+                "hex": "0x21182",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 147479,
+                "hex": "0x24017",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 149799,
+                "hex": "0x24927",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 159746,
+                "hex": "0x27002",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "0409",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 51158,
+                "hex": "0xC7D6",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 165715,
+                "hex": "0x28753",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000904",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 135552,
+                "hex": "0x21180",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 159744,
+                "hex": "0x27000",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "04090000",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 51158,
+                "hex": "0xC7D6",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "45104000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00401045",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        },
+        "2309": {
+          "be_u16": {
+            "raw_hex": "0905",
+            "count": 3,
+            "offsets": [
+              {
+                "file_offset": 130928,
+                "hex": "0x1FF70",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 133398,
+                "hex": "0x20916",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 141122,
+                "hex": "0x22742",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "0509",
+            "count": 3,
+            "offsets": [
+              {
+                "file_offset": 55854,
+                "hex": "0xDA2E",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 164915,
+                "hex": "0x28433",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 165491,
+                "hex": "0x28673",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000905",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 130926,
+                "hex": "0x1FF6E",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 141120,
+                "hex": "0x22740",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "05090000",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 55854,
+                "hex": "0xDA2E",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "45105000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00501045",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        }
+      },
+      "record0": {
+        "index": 0,
+        "raw_hex": "00060001001b00430005001500190000",
+        "u0": 6,
+        "v0": 1,
+        "u1": 27,
+        "v1": 67,
+        "bearing_x": 5,
+        "width": 21,
+        "advance": 25,
+        "reserved": 0
+      }
+    },
+    {
+      "label": "MLG-0007",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\MLG_CN\\0007ccd8.xpr",
+      "encrypted_sha256": "149668d9facf5491b0a8a2b93b87ef3ff3e290ac139e1404aad30aac25d8c73c",
+      "decrypted_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+      "xpr_header_raw": "585052320002c8700100000000000002",
+      "xpr_header_size": 182384,
+      "xpr_data_size": 16777216,
+      "texture_offset": 182396,
+      "user_descriptor_raw": "55534552000000840002c768000000000000004400000000",
+      "tx2d_descriptor_raw": "545832440000005000000034000000000000003800000000",
+      "tx2d_header_raw": "0000000300000001000000000000000000000000ffff0000ffff0000200000020000000201ffefff000002480000000000000a00",
+      "atlas_width": 4096,
+      "atlas_height": 4096,
+      "atlas_pitch": 4096,
+      "atlas_format": 2,
+      "atlas_tiled": 0,
+      "atlas_endian": 0,
+      "atlas_row_count": 49,
+      "atlas_max_v1": 3332,
+      "fixed_header_raw_hex": "0000000542860000000000000000000042860000ff5e",
+      "magic": 5,
+      "cell_height": 67.0,
+      "cell_height_2": 67.0,
+      "last_code": 65374,
+      "last_code_hex": "U+FF5E",
+      "charmap_offset": 22,
+      "charmap_count": 65375,
+      "aligned_map_end": 130776,
+      "record_prefix_hex": "",
+      "record_offset": 130776,
+      "record_table_end": 182120,
+      "pre_record_4_hex": "00000c89",
+      "pre_record_4_be_u32": 3209,
+      "suffix_size": 0,
+      "record_count": 3209,
+      "mapped_count": 3208,
+      "max_index": 3208,
+      "candidate_values": [
+        3208,
+        3209,
+        3210
+      ],
+      "candidate_search": {
+        "3208": {
+          "be_u16": {
+            "raw_hex": "0c88",
+            "count": 44,
+            "offsets": [
+              {
+                "file_offset": 130780,
+                "hex": "0x1FEDC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 142012,
+                "hex": "0x22ABC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 143052,
+                "hex": "0x22ECC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 144092,
+                "hex": "0x232DC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 145132,
+                "hex": "0x236EC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 146172,
+                "hex": "0x23AFC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 147212,
+                "hex": "0x23F0C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 148252,
+                "hex": "0x2431C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 149292,
+                "hex": "0x2472C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 150332,
+                "hex": "0x24B3C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 151372,
+                "hex": "0x24F4C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 152412,
+                "hex": "0x2535C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 153452,
+                "hex": "0x2576C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 154492,
+                "hex": "0x25B7C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 155532,
+                "hex": "0x25F8C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 156572,
+                "hex": "0x2639C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 157612,
+                "hex": "0x267AC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 158652,
+                "hex": "0x26BBC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 159692,
+                "hex": "0x26FCC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 160732,
+                "hex": "0x273DC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 161772,
+                "hex": "0x277EC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 162812,
+                "hex": "0x27BFC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 163852,
+                "hex": "0x2800C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 164892,
+                "hex": "0x2841C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 165932,
+                "hex": "0x2882C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 166972,
+                "hex": "0x28C3C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 168012,
+                "hex": "0x2904C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 169052,
+                "hex": "0x2945C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 170092,
+                "hex": "0x2986C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 171132,
+                "hex": "0x29C7C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 172172,
+                "hex": "0x2A08C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 173212,
+                "hex": "0x2A49C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 174252,
+                "hex": "0x2A8AC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 175292,
+                "hex": "0x2ACBC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 176332,
+                "hex": "0x2B0CC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 177372,
+                "hex": "0x2B4DC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 178412,
+                "hex": "0x2B8EC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 179452,
+                "hex": "0x2BCFC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 180492,
+                "hex": "0x2C10C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 181532,
+                "hex": "0x2C51C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 8186864,
+                "hex": "0x7CEBF0",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9211070,
+                "hex": "0x8C8CBE",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10155669,
+                "hex": "0x9AF695",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 12514540,
+                "hex": "0xBEF4EC",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "880c",
+            "count": 8,
+            "offsets": [
+              {
+                "file_offset": 179453,
+                "hex": "0x2BCFD",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 180493,
+                "hex": "0x2C10D",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 181533,
+                "hex": "0x2C51D",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 4477096,
+                "hex": "0x4450A8",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9469215,
+                "hex": "0x907D1F",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10312067,
+                "hex": "0x9D5983",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10319263,
+                "hex": "0x9D759F",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10684641,
+                "hex": "0xA308E1",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000c88",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 8186862,
+                "hex": "0x7CEBEE",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "880c0000",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 9469215,
+                "hex": "0x907D1F",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10684641,
+                "hex": "0xA308E1",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "45488000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00804845",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        },
+        "3209": {
+          "be_u16": {
+            "raw_hex": "0c89",
+            "count": 6,
+            "offsets": [
+              {
+                "file_offset": 130918,
+                "hex": "0x1FF66",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 5231589,
+                "hex": "0x4FD3E5",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 6483537,
+                "hex": "0x62EE51",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10167420,
+                "hex": "0x9B247C",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11249046,
+                "hex": "0xABA596",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 12672679,
+                "hex": "0xC15EA7",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "890c",
+            "count": 11,
+            "offsets": [
+              {
+                "file_offset": 135595,
+                "hex": "0x211AB",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 135611,
+                "hex": "0x211BB",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 135627,
+                "hex": "0x211CB",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 135643,
+                "hex": "0x211DB",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 135659,
+                "hex": "0x211EB",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 180569,
+                "hex": "0x2C159",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 181609,
+                "hex": "0x2C569",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 5132478,
+                "hex": "0x4E50BE",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8500473,
+                "hex": "0x81B4F9",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9469564,
+                "hex": "0x907E7C",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 12642030,
+                "hex": "0xC0E6EE",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000c89",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 130916,
+                "hex": "0x1FF64",
+                "region": "USER/FontData"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "890c0000",
+            "count": 3,
+            "offsets": [
+              {
+                "file_offset": 8500473,
+                "hex": "0x81B4F9",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9469564,
+                "hex": "0x907E7C",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 12642030,
+                "hex": "0xC0E6EE",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "45489000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00904845",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        },
+        "3210": {
+          "be_u16": {
+            "raw_hex": "0c8a",
+            "count": 7,
+            "offsets": [
+              {
+                "file_offset": 132668,
+                "hex": "0x2063C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 5652240,
+                "hex": "0x563F10",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8109335,
+                "hex": "0x7BBD17",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8204788,
+                "hex": "0x7D31F4",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9687396,
+                "hex": "0x93D164",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11968964,
+                "hex": "0xB6A1C4",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 13360442,
+                "hex": "0xCBDD3A",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "8a0c",
+            "count": 3,
+            "offsets": [
+              {
+                "file_offset": 6515412,
+                "hex": "0x636AD4",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8948754,
+                "hex": "0x888C12",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11162274,
+                "hex": "0xAA52A2",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000c8a",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 9687394,
+                "hex": "0x93D162",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "8a0c0000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "4548a000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00a04845",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        }
+      },
+      "record0": {
+        "index": 0,
+        "raw_hex": "00050001002200440004001d00210000",
+        "u0": 5,
+        "v0": 1,
+        "u1": 34,
+        "v1": 68,
+        "bearing_x": 4,
+        "width": 29,
+        "advance": 33,
+        "reserved": 0
+      }
+    },
+    {
+      "label": "MLG-000E",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\MLG_CN\\000ebbe8.xpr",
+      "encrypted_sha256": "025fa6553ea4200f8f0fe4d9ccfe1ae9178f87c69e1bf87704aec84aae65fa80",
+      "decrypted_sha256": "d283efc593971187725ee18f60394a0fe053009c85b284e816e9e6d4ac119b86",
+      "xpr_header_raw": "585052320002c8000100000000000002",
+      "xpr_header_size": 182272,
+      "xpr_data_size": 16777216,
+      "texture_offset": 182284,
+      "user_descriptor_raw": "55534552000000840002c378000000000000004400000000",
+      "tx2d_descriptor_raw": "545832440000005000000034000000000000003800000000",
+      "tx2d_header_raw": "0000000300000001000000000000000000000000ffff0000ffff0000200000020000000201ffefff000002480000000000000a00",
+      "atlas_width": 4096,
+      "atlas_height": 4096,
+      "atlas_pitch": 4096,
+      "atlas_format": 2,
+      "atlas_tiled": 0,
+      "atlas_endian": 0,
+      "atlas_row_count": 53,
+      "atlas_max_v1": 3604,
+      "fixed_header_raw_hex": "0000000542860000000000000000000042860000ff5e",
+      "magic": 5,
+      "cell_height": 67.0,
+      "cell_height_2": 67.0,
+      "last_code": 65374,
+      "last_code_hex": "U+FF5E",
+      "charmap_offset": 22,
+      "charmap_count": 65375,
+      "aligned_map_end": 130776,
+      "record_prefix_hex": "",
+      "record_offset": 130776,
+      "record_table_end": 181112,
+      "pre_record_4_hex": "00000c4a",
+      "pre_record_4_be_u32": 3146,
+      "suffix_size": 0,
+      "record_count": 3146,
+      "mapped_count": 3145,
+      "max_index": 3145,
+      "candidate_values": [
+        3145,
+        3146
+      ],
+      "candidate_search": {
+        "3145": {
+          "be_u16": {
+            "raw_hex": "0c49",
+            "count": 45,
+            "offsets": [
+              {
+                "file_offset": 130780,
+                "hex": "0x1FEDC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 139052,
+                "hex": "0x21F2C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 140092,
+                "hex": "0x2233C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 141132,
+                "hex": "0x2274C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 142172,
+                "hex": "0x22B5C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 143212,
+                "hex": "0x22F6C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 144252,
+                "hex": "0x2337C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 145292,
+                "hex": "0x2378C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 146332,
+                "hex": "0x23B9C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 147372,
+                "hex": "0x23FAC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 148412,
+                "hex": "0x243BC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 149452,
+                "hex": "0x247CC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 150492,
+                "hex": "0x24BDC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 151532,
+                "hex": "0x24FEC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 152572,
+                "hex": "0x253FC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 153612,
+                "hex": "0x2580C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 154652,
+                "hex": "0x25C1C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 155692,
+                "hex": "0x2602C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 156732,
+                "hex": "0x2643C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 157772,
+                "hex": "0x2684C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 158812,
+                "hex": "0x26C5C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 159852,
+                "hex": "0x2706C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 160892,
+                "hex": "0x2747C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 161932,
+                "hex": "0x2788C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 162972,
+                "hex": "0x27C9C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 164012,
+                "hex": "0x280AC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 165052,
+                "hex": "0x284BC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 166092,
+                "hex": "0x288CC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 167132,
+                "hex": "0x28CDC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 168172,
+                "hex": "0x290EC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 169212,
+                "hex": "0x294FC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 170252,
+                "hex": "0x2990C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 171292,
+                "hex": "0x29D1C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 172332,
+                "hex": "0x2A12C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 173372,
+                "hex": "0x2A53C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 174412,
+                "hex": "0x2A94C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 175452,
+                "hex": "0x2AD5C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 176492,
+                "hex": "0x2B16C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 177532,
+                "hex": "0x2B57C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 178572,
+                "hex": "0x2B98C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 179612,
+                "hex": "0x2BD9C",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 180652,
+                "hex": "0x2C1AC",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 8648528,
+                "hex": "0x83F750",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9545261,
+                "hex": "0x91A62D",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 14593589,
+                "hex": "0xDEAE35",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "490c",
+            "count": 11,
+            "offsets": [
+              {
+                "file_offset": 174413,
+                "hex": "0x2A94D",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 175453,
+                "hex": "0x2AD5D",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 176493,
+                "hex": "0x2B16D",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 179595,
+                "hex": "0x2BD8B",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 179611,
+                "hex": "0x2BD9B",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 179627,
+                "hex": "0x2BDAB",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 179643,
+                "hex": "0x2BDBB",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 4754038,
+                "hex": "0x488A76",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 7016541,
+                "hex": "0x6B105D",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8094586,
+                "hex": "0x7B837A",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 13600454,
+                "hex": "0xCF86C6",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000c49",
+            "count": 2,
+            "offsets": [
+              {
+                "file_offset": 8648526,
+                "hex": "0x83F74E",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 14593587,
+                "hex": "0xDEAE33",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "490c0000",
+            "count": 1,
+            "offsets": [
+              {
+                "file_offset": 13600454,
+                "hex": "0xCF86C6",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "45449000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00904445",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        },
+        "3146": {
+          "be_u16": {
+            "raw_hex": "0c4a",
+            "count": 12,
+            "offsets": [
+              {
+                "file_offset": 130918,
+                "hex": "0x1FF66",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 3912958,
+                "hex": "0x3BB4FE",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 4860649,
+                "hex": "0x4A2AE9",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 5354533,
+                "hex": "0x51B425",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 7287146,
+                "hex": "0x6F316A",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8782798,
+                "hex": "0x8603CE",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9518409,
+                "hex": "0x913D49",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9766560,
+                "hex": "0x9506A0",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9844591,
+                "hex": "0x96376F",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10563209,
+                "hex": "0xA12E89",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11516117,
+                "hex": "0xAFB8D5",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11523385,
+                "hex": "0xAFD539",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "le_u16": {
+            "raw_hex": "4a0c",
+            "count": 14,
+            "offsets": [
+              {
+                "file_offset": 175529,
+                "hex": "0x2ADA9",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 176569,
+                "hex": "0x2B1B9",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 177609,
+                "hex": "0x2B5C9",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 3882281,
+                "hex": "0x3B3D29",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 4324014,
+                "hex": "0x41FAAE",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 4460548,
+                "hex": "0x441004",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8219025,
+                "hex": "0x7D6991",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8574935,
+                "hex": "0x82D7D7",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10420936,
+                "hex": "0x9F02C8",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10809420,
+                "hex": "0xA4F04C",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11538081,
+                "hex": "0xB00EA1",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11690647,
+                "hex": "0xB26297",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 12759690,
+                "hex": "0xC2B28A",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 13631566,
+                "hex": "0xD0004E",
+                "region": "texture-data"
+              }
+            ],
+            "size": 2
+          },
+          "be_u32": {
+            "raw_hex": "00000c4a",
+            "count": 7,
+            "offsets": [
+              {
+                "file_offset": 130916,
+                "hex": "0x1FF64",
+                "region": "USER/FontData"
+              },
+              {
+                "file_offset": 7287144,
+                "hex": "0x6F3168",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8782796,
+                "hex": "0x8603CC",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9518407,
+                "hex": "0x913D47",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 9766558,
+                "hex": "0x95069E",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11516115,
+                "hex": "0xAFB8D3",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11523383,
+                "hex": "0xAFD537",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "le_u32": {
+            "raw_hex": "4a0c0000",
+            "count": 7,
+            "offsets": [
+              {
+                "file_offset": 3882281,
+                "hex": "0x3B3D29",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 4460548,
+                "hex": "0x441004",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 8574935,
+                "hex": "0x82D7D7",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 10809420,
+                "hex": "0xA4F04C",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11538081,
+                "hex": "0xB00EA1",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 11690647,
+                "hex": "0xB26297",
+                "region": "texture-data"
+              },
+              {
+                "file_offset": 13631566,
+                "hex": "0xD0004E",
+                "region": "texture-data"
+              }
+            ],
+            "size": 4
+          },
+          "be_float": {
+            "raw_hex": "4544a000",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          },
+          "le_float": {
+            "raw_hex": "00a04445",
+            "count": 0,
+            "offsets": [],
+            "size": 4
+          }
+        }
+      },
+      "record0": {
+        "index": 0,
+        "raw_hex": "00050001002200440004001d00210000",
+        "u0": 5,
+        "v0": 1,
+        "u1": 34,
+        "v1": 68,
+        "bearing_x": 4,
+        "width": 29,
+        "advance": 33,
+        "reserved": 0
+      }
+    }
+  ],
+  "index_semantics": [
+    {
+      "character": "昏",
+      "codepoint": "U+660F",
+      "charmap_value": 1751,
+      "direct_record": {
+        "index": 1751,
+        "raw_hex": "00bd06e900f7072c0004003a003e0000",
+        "u0": 189,
+        "v0": 1769,
+        "u1": 247,
+        "v1": 1836,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "previous_record": {
+        "index": 1750,
+        "raw_hex": "007e06e900b8072c0004003a003e0000",
+        "u0": 126,
+        "v0": 1769,
+        "u1": 184,
+        "v1": 1836,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "direct_bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1890,
+        "ink_bbox_exclusive": [
+          5,
+          7,
+          53,
+          59
+        ],
+        "sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167"
+      }
+    },
+    {
+      "character": "厢",
+      "codepoint": "U+53A2",
+      "charmap_value": 966,
+      "direct_record": {
+        "index": 966,
+        "raw_hex": "0f8103750fbb03b80004003a003e0000",
+        "u0": 3969,
+        "v0": 885,
+        "u1": 4027,
+        "v1": 952,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "previous_record": {
+        "index": 965,
+        "raw_hex": "0f4203750f7c03b80004003a003e0000",
+        "u0": 3906,
+        "v0": 885,
+        "u1": 3964,
+        "v1": 952,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "direct_bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 2127,
+        "ink_bbox_exclusive": [
+          3,
+          9,
+          55,
+          59
+        ],
+        "sha256": "436a84aa1eb18d78c30bbe2523896491f45e72ace6c73d5577c0b0dc71dc2798"
+      }
+    },
+    {
+      "character": "决",
+      "codepoint": "U+51B3",
+      "charmap_value": 846,
+      "direct_record": {
+        "index": 846,
+        "raw_hex": "01f80331023203740004003a003e0000",
+        "u0": 504,
+        "v0": 817,
+        "u1": 562,
+        "v1": 884,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "previous_record": {
+        "index": 845,
+        "raw_hex": "01b9033101f303740004003a003e0000",
+        "u0": 441,
+        "v0": 817,
+        "u1": 499,
+        "v1": 884,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "direct_bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1572,
+        "ink_bbox_exclusive": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "sha256": "0a171b269d0bc7d4393f70e885f683d93e1d8092b23b4e0aadb72d32fcab260a"
+      }
+    },
+    {
+      "character": "缺",
+      "codepoint": "U+7F3A",
+      "charmap_value": 2452,
+      "direct_record": {
+        "index": 2452,
+        "raw_hex": "0d4a09910d8409d40004003a003e0000",
+        "u0": 3402,
+        "v0": 2449,
+        "u1": 3460,
+        "v1": 2516,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "previous_record": {
+        "index": 2451,
+        "raw_hex": "0d0b09910d4509d40004003a003e0000",
+        "u0": 3339,
+        "v0": 2449,
+        "u1": 3397,
+        "v1": 2516,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "direct_bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1903,
+        "ink_bbox_exclusive": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "sha256": "6f9ebbdd8a4d971d227f740e3726bcabbac4f2800654a3f01c488748cf95df7a"
+      }
+    },
+    {
+      "character": "卷",
+      "codepoint": "U+5377",
+      "charmap_value": 954,
+      "direct_record": {
+        "index": 954,
+        "raw_hex": "0c8d03750cc703b80004003a003e0000",
+        "u0": 3213,
+        "v0": 885,
+        "u1": 3271,
+        "v1": 952,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "previous_record": {
+        "index": 953,
+        "raw_hex": "0c4e03750c8803b80004003a003e0000",
+        "u0": 3150,
+        "v0": 885,
+        "u1": 3208,
+        "v1": 952,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "direct_bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1932,
+        "ink_bbox_exclusive": [
+          2,
+          6,
+          55,
+          58
+        ],
+        "sha256": "eb50efd5f258f545f8c299a4e17371081cabe106a39c8ac055f2aa7df55edfc7"
+      }
+    },
+    {
+      "character": "厌",
+      "codepoint": "U+538C",
+      "charmap_value": 961,
+      "direct_record": {
+        "index": 961,
+        "raw_hex": "0e4603750e8003b80004003a003e0000",
+        "u0": 3654,
+        "v0": 885,
+        "u1": 3712,
+        "v1": 952,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "previous_record": {
+        "index": 960,
+        "raw_hex": "0e0703750e4103b80004003a003e0000",
+        "u0": 3591,
+        "v0": 885,
+        "u1": 3649,
+        "v1": 952,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "direct_bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1649,
+        "ink_bbox_exclusive": [
+          2,
+          10,
+          55,
+          59
+        ],
+        "sha256": "750ff24b8062f5f5a8434bbc80f26f4aeceb28120c6762bde0ed9dce10fc47bc"
+      }
+    }
+  ],
+  "visual_artifact": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\index_semantics_direct_vs_previous.png",
+  "record0": {
+    "index": 0,
+    "raw_hex": "00050001002200440004001d00210000",
+    "u0": 5,
+    "v0": 1,
+    "u1": 34,
+    "v1": 68,
+    "bearing_x": 4,
+    "width": 29,
+    "advance": 33,
+    "reserved": 0
+  },
+  "test4": {
+    "output": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST4_MAX_EXISTING_INDEX\\00c7c9f9.xpr",
+    "passed": true,
+    "errors": [],
+    "encrypted_sha256": "e3383e571c61aeeb164a63b1216bd0df10733df8810fca58355ed26e1acb7caa",
+    "decrypted_sha256": "b01ec4064acc1ee19e5a547a0c5bfe4478cd15130d2d71789f0885d2e8b4dc48",
+    "filename_seed": "0x3AF33BE1",
+    "target_raw_before_hex": "0000",
+    "target_raw_after_hex": "0c88",
+    "target_mapping": 3208,
+    "glyph_count": 3209,
+    "mapped_codepoint_count": 3209,
+    "user_size": 182120,
+    "atlas_sha256": "21e59f6cd1ad0d2aaa6bfd3de6d6831a32077dfa03e0574b63d0047c17955445",
+    "atlas_unchanged": true,
+    "parser_errors": [],
+    "roundtrip": true
+  },
+  "notes": [
+    "TEST-4 is the only XPR generated in this audit.",
+    "No atlas pixels, USER size, GlyphRecord table, or other mapping entries were changed in TEST-4.",
+    "All whole-file candidate offsets are retained in candidate_search JSON; report summarizes non-texture hits."
+  ]
+}

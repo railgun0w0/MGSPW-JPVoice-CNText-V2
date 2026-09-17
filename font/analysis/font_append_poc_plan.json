@@ -1,0 +1,56 @@
+{
+  "target": "厥",
+  "codepoint": "U+53A5",
+  "new_glyph_index": 3209,
+  "record_file_offset": 182264,
+  "record_file_offset_hex": "0x2C7F8",
+  "recommended_record": {
+    "u0": 0,
+    "v0": 3333,
+    "u1": 58,
+    "v1": 3400,
+    "bearing_x_raw": 4,
+    "width": 58,
+    "advance": 62,
+    "reserved": 0
+  },
+  "recommended_raster": {
+    "cell": "58x67",
+    "vertical_baseline": "use the existing 67px CJK cell baseline; glyph records have no separate bearing_y",
+    "typical_ink_bbox_relative": "roughly x=2..55, y=6..59 for existing MLG CJK glyphs; actual 厥 raster must be judged visually",
+    "reference_glyphs": [
+      "厢",
+      "决",
+      "缺",
+      "卷",
+      "厌"
+    ],
+    "bitmap_generated": false
+  },
+  "minimal_changes": [
+    {
+      "location": "USER/FontData + 0xA760",
+      "old": "u16 0",
+      "new": "u16 3209",
+      "reason": "map U+53A5 to appended glyph index; dense array already reaches U+FF5E"
+    },
+    {
+      "location": "USER/FontData + 0x2C768",
+      "old": "no record",
+      "new": "one 16-byte GlyphRecord",
+      "reason": "append after existing record 3208; preserve all old records"
+    },
+    {
+      "location": "XPR descriptor USER size",
+      "old": "0x2C768",
+      "new": "0x2C778",
+      "reason": "USER payload grows by one record"
+    },
+    {
+      "location": "XPR header/data and TX2D",
+      "old": "unchanged",
+      "new": "unchanged",
+      "reason": "one-record growth fits the existing gap before texture data"
+    }
+  ]
+}

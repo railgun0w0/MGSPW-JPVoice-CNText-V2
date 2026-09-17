@@ -1,0 +1,604 @@
+{
+  "golden": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN_CN\\00c7c9f9.xpr",
+    "encrypted_sha256": "bf1d2f6d9727a71c734e69b2f6406503818e4c5b21a7f548fbc80d9deec9b793",
+    "decrypted_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+    "encrypted_size": 16959612,
+    "decrypted_size": 16959612,
+    "filename_seed": "0x3AF33BE1",
+    "glyph_count": 3209,
+    "mapped_codepoint_count": 3208,
+    "user_size": 182120,
+    "texture_offset": 182396,
+    "data_size": 16777216
+  },
+  "donor": {
+    "character": "昏",
+    "codepoint": "U+660F",
+    "glyph_index": 1751,
+    "record": {
+      "u0": 189,
+      "v0": 1769,
+      "u1": 247,
+      "v1": 1836,
+      "bearing_x_raw": 4,
+      "bearing_x": 4,
+      "width": 58,
+      "advance": 62,
+      "reserved": 0
+    },
+    "record_raw_hex": "00bd06e900f7072c0004003a003e0000",
+    "rectangle": [
+      189,
+      1769,
+      247,
+      1836
+    ],
+    "bitmap": {
+      "width": 58,
+      "height": 67,
+      "nonzero_pixel_count": 1890,
+      "ink_bbox_exclusive": [
+        5,
+        7,
+        53,
+        59
+      ],
+      "sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167",
+      "min_nonzero": 1,
+      "max_nonzero": 255
+    }
+  },
+  "reference_glyphs": [
+    {
+      "character": "昏",
+      "codepoint": "U+660F",
+      "glyph_index": 1751,
+      "record": {
+        "u0": 189,
+        "v0": 1769,
+        "u1": 247,
+        "v1": 1836,
+        "bearing_x_raw": 4,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "record_raw_hex": "00bd06e900f7072c0004003a003e0000",
+      "rectangle": [
+        189,
+        1769,
+        247,
+        1836
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1890,
+        "ink_bbox_exclusive": [
+          5,
+          7,
+          53,
+          59
+        ],
+        "sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167",
+        "min_nonzero": 1,
+        "max_nonzero": 255
+      }
+    },
+    {
+      "character": "厢",
+      "codepoint": "U+53A2",
+      "glyph_index": 966,
+      "record": {
+        "u0": 3969,
+        "v0": 885,
+        "u1": 4027,
+        "v1": 952,
+        "bearing_x_raw": 4,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "record_raw_hex": "0f8103750fbb03b80004003a003e0000",
+      "rectangle": [
+        3969,
+        885,
+        4027,
+        952
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 2127,
+        "ink_bbox_exclusive": [
+          3,
+          9,
+          55,
+          59
+        ],
+        "sha256": "436a84aa1eb18d78c30bbe2523896491f45e72ace6c73d5577c0b0dc71dc2798",
+        "min_nonzero": 1,
+        "max_nonzero": 255
+      }
+    },
+    {
+      "character": "决",
+      "codepoint": "U+51B3",
+      "glyph_index": 846,
+      "record": {
+        "u0": 504,
+        "v0": 817,
+        "u1": 562,
+        "v1": 884,
+        "bearing_x_raw": 4,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "record_raw_hex": "01f80331023203740004003a003e0000",
+      "rectangle": [
+        504,
+        817,
+        562,
+        884
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1572,
+        "ink_bbox_exclusive": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "sha256": "0a171b269d0bc7d4393f70e885f683d93e1d8092b23b4e0aadb72d32fcab260a",
+        "min_nonzero": 1,
+        "max_nonzero": 255
+      }
+    },
+    {
+      "character": "缺",
+      "codepoint": "U+7F3A",
+      "glyph_index": 2452,
+      "record": {
+        "u0": 3402,
+        "v0": 2449,
+        "u1": 3460,
+        "v1": 2516,
+        "bearing_x_raw": 4,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "record_raw_hex": "0d4a09910d8409d40004003a003e0000",
+      "rectangle": [
+        3402,
+        2449,
+        3460,
+        2516
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1903,
+        "ink_bbox_exclusive": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "sha256": "6f9ebbdd8a4d971d227f740e3726bcabbac4f2800654a3f01c488748cf95df7a",
+        "min_nonzero": 1,
+        "max_nonzero": 255
+      }
+    },
+    {
+      "character": "卷",
+      "codepoint": "U+5377",
+      "glyph_index": 954,
+      "record": {
+        "u0": 3213,
+        "v0": 885,
+        "u1": 3271,
+        "v1": 952,
+        "bearing_x_raw": 4,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "record_raw_hex": "0c8d03750cc703b80004003a003e0000",
+      "rectangle": [
+        3213,
+        885,
+        3271,
+        952
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1932,
+        "ink_bbox_exclusive": [
+          2,
+          6,
+          55,
+          58
+        ],
+        "sha256": "eb50efd5f258f545f8c299a4e17371081cabe106a39c8ac055f2aa7df55edfc7",
+        "min_nonzero": 1,
+        "max_nonzero": 255
+      }
+    },
+    {
+      "character": "厌",
+      "codepoint": "U+538C",
+      "glyph_index": 961,
+      "record": {
+        "u0": 3654,
+        "v0": 885,
+        "u1": 3712,
+        "v1": 952,
+        "bearing_x_raw": 4,
+        "bearing_x": 4,
+        "width": 58,
+        "advance": 62,
+        "reserved": 0
+      },
+      "record_raw_hex": "0e4603750e8003b80004003a003e0000",
+      "rectangle": [
+        3654,
+        885,
+        3712,
+        952
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1649,
+        "ink_bbox_exclusive": [
+          2,
+          10,
+          55,
+          59
+        ],
+        "sha256": "750ff24b8062f5f5a8434bbc80f26f4aeceb28120c6762bde0ed9dce10fc47bc",
+        "min_nonzero": 1,
+        "max_nonzero": 255
+      }
+    }
+  ],
+  "target": {
+    "character": "厥",
+    "codepoint": "U+53A5",
+    "new_glyph_index": 3209,
+    "rectangle": [
+      0,
+      3333,
+      58,
+      3400
+    ],
+    "destination_before_sha256": "743ca3180ae984dc6034905cd4e5bb95f6c78b3af240cd1e72f58dae1b915bb9"
+  },
+  "tests": {
+    "TEST1_CHARMAP_EXISTING": {
+      "name": "TEST1_CHARMAP_EXISTING",
+      "passed": true,
+      "errors": [],
+      "target_charmap_file_offset": 42992,
+      "target_charmap_raw_hex": "06d7",
+      "record_count": 3209,
+      "mapped_codepoint_count": 3209,
+      "user_size": 182120,
+      "texture_diff": {
+        "changed_byte_count": 0,
+        "changed_range_count": 0,
+        "changed_ranges_first_20": [],
+        "changed_min": null,
+        "changed_max_exclusive": null
+      },
+      "atlas_changed_outside_target_slot": 0,
+      "old_glyph_records_byte_identical": true,
+      "old_charmap_entries_byte_identical_except_target": true,
+      "tx2d_unchanged": true,
+      "texture_offset_unchanged": true,
+      "xpr_data_size_unchanged": true,
+      "parser_errors": [],
+      "output": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics\\TEST1_CHARMAP_EXISTING\\00c7c9f9.xpr",
+      "encrypted_sha256": "3bdcfbae1e681aaf2f4e48f16d87099a056c4f0b04303632bb72e5d35110069f",
+      "decrypted_sha256": "0fc4c675f8991c00415f2b41159bc5e577b8a80b5d2a8063eda0dd2dbe8131ce",
+      "filename_seed": "0x3AF33BE1",
+      "target_mapping": 1751
+    },
+    "TEST2_APPENDED_RECORD_EXISTING_ATLAS": {
+      "name": "TEST2_APPENDED_RECORD_EXISTING_ATLAS",
+      "passed": true,
+      "errors": [],
+      "target_charmap_file_offset": 42992,
+      "target_charmap_raw_hex": "0c89",
+      "record_count": 3210,
+      "mapped_codepoint_count": 3209,
+      "user_size": 182136,
+      "texture_diff": {
+        "changed_byte_count": 0,
+        "changed_range_count": 0,
+        "changed_ranges_first_20": [],
+        "changed_min": null,
+        "changed_max_exclusive": null
+      },
+      "atlas_changed_outside_target_slot": 0,
+      "old_glyph_records_byte_identical": true,
+      "old_charmap_entries_byte_identical_except_target": true,
+      "tx2d_unchanged": true,
+      "texture_offset_unchanged": true,
+      "xpr_data_size_unchanged": true,
+      "parser_errors": [],
+      "output": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics\\TEST2_APPENDED_RECORD_EXISTING_ATLAS\\00c7c9f9.xpr",
+      "encrypted_sha256": "87e25d3ad995fecad1e6c4f18a20af46493ef2a2fe5612fbf196b93dfff9ae48",
+      "decrypted_sha256": "37aead1f053f18bf0621a7e9e077b9c3bef7bc27d98801e2acc58798bd82d233",
+      "filename_seed": "0x3AF33BE1",
+      "target_mapping": 3209
+    },
+    "TEST3_APPENDED_RECORD_NEW_ATLAS": {
+      "name": "TEST3_APPENDED_RECORD_NEW_ATLAS",
+      "passed": true,
+      "errors": [],
+      "target_charmap_file_offset": 42992,
+      "target_charmap_raw_hex": "0c89",
+      "record_count": 3210,
+      "mapped_codepoint_count": 3209,
+      "user_size": 182136,
+      "texture_diff": {
+        "changed_byte_count": 1890,
+        "changed_range_count": 162,
+        "changed_ranges_first_20": [
+          [
+            13680651,
+            13680668
+          ],
+          [
+            13680679,
+            13680686
+          ],
+          [
+            13680687,
+            13680688
+          ],
+          [
+            13684744,
+            13684746
+          ],
+          [
+            13684764,
+            13684785
+          ],
+          [
+            13688843,
+            13688879
+          ],
+          [
+            13688880,
+            13688881
+          ],
+          [
+            13692934,
+            13692935
+          ],
+          [
+            13692936,
+            13692976
+          ],
+          [
+            13692977,
+            13692978
+          ],
+          [
+            13697030,
+            13697031
+          ],
+          [
+            13697032,
+            13697074
+          ],
+          [
+            13701126,
+            13701127
+          ],
+          [
+            13701128,
+            13701169
+          ],
+          [
+            13705222,
+            13705223
+          ],
+          [
+            13705224,
+            13705258
+          ],
+          [
+            13709318,
+            13709319
+          ],
+          [
+            13709320,
+            13709345
+          ],
+          [
+            13709354,
+            13709360
+          ],
+          [
+            13713414,
+            13713415
+          ]
+        ],
+        "changed_min": 13680651,
+        "changed_max_exclusive": 13889585
+      },
+      "atlas_changed_outside_target_slot": 0,
+      "old_glyph_records_byte_identical": true,
+      "old_charmap_entries_byte_identical_except_target": true,
+      "tx2d_unchanged": true,
+      "texture_offset_unchanged": true,
+      "xpr_data_size_unchanged": true,
+      "parser_errors": [],
+      "output": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics\\TEST3_APPENDED_RECORD_NEW_ATLAS\\00c7c9f9.xpr",
+      "encrypted_sha256": "e9957ee16a66c7a3e529efca1e0780937dc781bf1a3a3f88d956952cdbe973cb",
+      "decrypted_sha256": "6b5e905046a85110668fb241477b7defed0721a7b92d02984498da4df4f45d6c",
+      "filename_seed": "0x3AF33BE1",
+      "target_mapping": 3209
+    }
+  },
+  "failed_poc_a_review": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc\\POC_A_00C7\\00c7c9f9.xpr",
+    "exists": true,
+    "encrypted_sha256": "f75498d77cae8dd5d669683bb48bd72a242b310180bb26dada9c755271775075",
+    "decrypted_sha256": "3fb40b29e21304a66695998573f60bf1afd764b5e433b0a6bab40aa68bf9cb2a",
+    "user_size": 182136,
+    "target_charmap": 3209,
+    "target_charmap_raw_hex": "0c89",
+    "target_record_raw_hex": "00000d05003a0d480004003a003e0000",
+    "target_record": {
+      "u0": 0,
+      "v0": 3333,
+      "u1": 58,
+      "v1": 3400,
+      "bearing_x_raw": 4,
+      "bearing_x": 4,
+      "width": 58,
+      "advance": 62,
+      "reserved": 0
+    },
+    "target_slot": {
+      "width": 58,
+      "height": 67,
+      "nonzero_pixel_count": 1423,
+      "ink_bbox_exclusive": [
+        2,
+        7,
+        56,
+        59
+      ],
+      "sha256": "f7399f7c0e03d27f130b00ad0e60e4db86f1d80644206d77a557e7df91a38a4f",
+      "min_nonzero": 1,
+      "max_nonzero": 255
+    },
+    "atlas_diff": {
+      "changed_byte_count": 1423,
+      "changed_range_count": 209,
+      "changed_ranges_first_20": [
+        [
+          13680646,
+          13680695
+        ],
+        [
+          13684742,
+          13684791
+        ],
+        [
+          13688838,
+          13688887
+        ],
+        [
+          13692934,
+          13692983
+        ],
+        [
+          13697030,
+          13697035
+        ],
+        [
+          13701126,
+          13701131
+        ],
+        [
+          13701136,
+          13701139
+        ],
+        [
+          13701147,
+          13701151
+        ],
+        [
+          13701158,
+          13701162
+        ],
+        [
+          13705222,
+          13705227
+        ],
+        [
+          13705230,
+          13705235
+        ],
+        [
+          13705243,
+          13705248
+        ],
+        [
+          13705254,
+          13705259
+        ],
+        [
+          13709318,
+          13709323
+        ],
+        [
+          13709327,
+          13709332
+        ],
+        [
+          13709339,
+          13709344
+        ],
+        [
+          13709350,
+          13709355
+        ],
+        [
+          13713414,
+          13713419
+        ],
+        [
+          13713423,
+          13713428
+        ],
+        [
+          13713434,
+          13713440
+        ]
+      ],
+      "changed_min": 13680646,
+      "changed_max_exclusive": 13889569
+    },
+    "atlas_changed_outside_target_slot": 0,
+    "tx2d_same_as_golden": true,
+    "texture_offset_same_as_golden": true,
+    "xpr_data_size_same_as_golden": true,
+    "parser_errors": [],
+    "outer_encrypt_decrypt_roundtrip": true,
+    "record_uv_width": 58,
+    "record_uv_height": 67,
+    "record_width_matches_uv": true,
+    "record_inside_atlas": true,
+    "slot_background_is_zero": true,
+    "slot_ink_polarity_nonzero_is_positive": true,
+    "slot_write_has_no_row_stride_overspill": true,
+    "slot_dimensions": [
+      58,
+      67
+    ],
+    "dump_pgm": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics\\failed_poc_a_00c7_slot.pgm"
+  },
+  "notes": [
+    "All variants are encrypted with the 00c7c9f9 filename seed.",
+    "No 0007/000e/001c output was created.",
+    "Only the diagnostic output directory was written."
+  ]
+}

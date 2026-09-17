@@ -1,0 +1,2765 @@
+{
+  "status": "PASS",
+  "headline": {
+    "CRASH_XPR_STRUCTURALLY_IDENTICAL_TO_D_EXCEPT_BITMAP": true,
+    "DIFFERENCES_OUTSIDE_TARGET_SLOT": 0,
+    "OUTER_ENCRYPTION_VALID": true,
+    "ATLAS_WRITE_BOUNDS_VALID": true
+  },
+  "files": {
+    "d": {
+      "encrypted_size": 16959612,
+      "decrypted_size": 16959612,
+      "encrypted_sha256": "a9b4e5e857beb61f0ca493103ba69af33cb5061d441f98e546d18a0a74a3d4bc",
+      "decrypted_sha256": "48460635dd93b6670c548867f9ab8fd21897f8fc8643b5c58ed4488405f8434f",
+      "magic": "XPR2",
+      "header_size": 182384,
+      "data_size": 16777216,
+      "resource_count": 2,
+      "texture_data_offset": 182396,
+      "font_texture": {
+        "width": 4096,
+        "height": 4096,
+        "pitch": 4096,
+        "format": 2,
+        "tiled": 0,
+        "endian": 0
+      },
+      "user": {
+        "descriptor_offset": 40,
+        "offset": 144,
+        "size": 182136,
+        "record_offset": 130776,
+        "record_count": 3210,
+        "mapped_count": 3209
+      },
+      "parser_errors": []
+    },
+    "crash": {
+      "encrypted_size": 16959612,
+      "decrypted_size": 16959612,
+      "encrypted_sha256": "353b6313fd60e395e25d00d723510371e3cb11c80ce2ce1a2f2a7a45266fe9e7",
+      "decrypted_sha256": "93cc069e0be928b490a589a3d8b0412a5d61b266e68b3ee2e24a5b4897bd6ab7",
+      "magic": "XPR2",
+      "header_size": 182384,
+      "data_size": 16777216,
+      "resource_count": 2,
+      "texture_data_offset": 182396,
+      "font_texture": {
+        "width": 4096,
+        "height": 4096,
+        "pitch": 4096,
+        "format": 2,
+        "tiled": 0,
+        "endian": 0
+      },
+      "user": {
+        "descriptor_offset": 40,
+        "offset": 144,
+        "size": 182136,
+        "record_offset": 130776,
+        "record_count": 3210,
+        "mapped_count": 3209
+      },
+      "parser_errors": []
+    }
+  },
+  "diff": {
+    "plaintext_diff_bytes": 1067,
+    "encrypted_diff_bytes": 1067,
+    "changed_target_pixels": 1067,
+    "raw_diff_runs": [
+      {
+        "offset": "0xD38882",
+        "end": "0xD388B2",
+        "length": 49,
+        "region": "texture data",
+        "old_hex": "78 cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf cf 33",
+        "new_hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+      },
+      {
+        "offset": "0xD39881",
+        "end": "0xD39882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD398B2",
+        "end": "0xD398B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "3f",
+        "new_hex": "b8"
+      },
+      {
+        "offset": "0xD3A881",
+        "end": "0xD3A882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD3A8B2",
+        "end": "0xD3A8B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "3f",
+        "new_hex": "b8"
+      },
+      {
+        "offset": "0xD3B881",
+        "end": "0xD3B882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD3B8B2",
+        "end": "0xD3B8B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "3f",
+        "new_hex": "b8"
+      },
+      {
+        "offset": "0xD3C881",
+        "end": "0xD3C882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD3C8B2",
+        "end": "0xD3C8B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "3f",
+        "new_hex": "b8"
+      },
+      {
+        "offset": "0xD3D881",
+        "end": "0xD3D882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD3D8B2",
+        "end": "0xD3D8B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "3f",
+        "new_hex": "b8"
+      },
+      {
+        "offset": "0xD3E881",
+        "end": "0xD3E882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD3E888",
+        "end": "0xD3E8B2",
+        "length": 43,
+        "region": "texture data",
+        "old_hex": "93 00 00 00 00 00 00 0b 12 00 00 00 00 00 00 52 75 35 03 00 00 00 00 00 00 06 41 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "new_hex": "ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff b8"
+      },
+      {
+        "offset": "0xD3F881",
+        "end": "0xD3F882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD3F888",
+        "end": "0xD3F8B2",
+        "length": 43,
+        "region": "texture data",
+        "old_hex": "93 00 00 00 03 46 a2 f4 97 00 00 00 00 00 00 ba ff ff f2 b5 75 1b 00 00 00 2a ff ff e5 b7 89 31 00 00 00 00 00 00 00 00 00 00 00",
+        "new_hex": "a8 20 20 20 20 20 5d 74 20 20 20 20 20 20 20 75 48 20 20 20 20 20 20 20 20 25 a1 6c 36 20 20 20 20 20 20 20 20 20 20 20 20 20 17"
+      },
+      {
+        "offset": "0xD40881",
+        "end": "0xD40882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD40888",
+        "end": "0xD40888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "93",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4088B",
+        "end": "0xD4088D",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "3b e7 ff",
+        "new_hex": "00 2e b4"
+      },
+      {
+        "offset": "0xD4088F",
+        "end": "0xD40891",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff f6 14",
+        "new_hex": "f3 1e 00"
+      },
+      {
+        "offset": "0xD40896",
+        "end": "0xD40897",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "09 f7",
+        "new_hex": "17 f8"
+      },
+      {
+        "offset": "0xD40899",
+        "end": "0xD4089D",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "ff ff ff f9 1b",
+        "new_hex": "c8 68 10 00 00"
+      },
+      {
+        "offset": "0xD408A1",
+        "end": "0xD408A1",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "4d",
+        "new_hex": "41"
+      },
+      {
+        "offset": "0xD408A5",
+        "end": "0xD408A7",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff ff 5d",
+        "new_hex": "de a8 6a"
+      },
+      {
+        "offset": "0xD41881",
+        "end": "0xD41882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD41888",
+        "end": "0xD41888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "93",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4188B",
+        "end": "0xD4188C",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "11 f8",
+        "new_hex": "9c fd"
+      },
+      {
+        "offset": "0xD41890",
+        "end": "0xD41891",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 7d",
+        "new_hex": "b7 00"
+      },
+      {
+        "offset": "0xD41896",
+        "end": "0xD41896",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "50",
+        "new_hex": "84"
+      },
+      {
+        "offset": "0xD4189B",
+        "end": "0xD4189C",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 9d",
+        "new_hex": "f8 59"
+      },
+      {
+        "offset": "0xD418A1",
+        "end": "0xD418A1",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "71",
+        "new_hex": "8a"
+      },
+      {
+        "offset": "0xD418A7",
+        "end": "0xD418A7",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "36",
+        "new_hex": "ba"
+      },
+      {
+        "offset": "0xD42881",
+        "end": "0xD42882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD42888",
+        "end": "0xD42888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "93",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4288B",
+        "end": "0xD4288C",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 a7",
+        "new_hex": "86 ff"
+      },
+      {
+        "offset": "0xD42891",
+        "end": "0xD42892",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "e4 01",
+        "new_hex": "5e 00"
+      },
+      {
+        "offset": "0xD42895",
+        "end": "0xD42896",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 a2",
+        "new_hex": "0b ec"
+      },
+      {
+        "offset": "0xD4289B",
+        "end": "0xD4289C",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "fe 29",
+        "new_hex": "e3 0d"
+      },
+      {
+        "offset": "0xD428A1",
+        "end": "0xD428A1",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "94",
+        "new_hex": "d4"
+      },
+      {
+        "offset": "0xD428A7",
+        "end": "0xD428A7",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "0f",
+        "new_hex": "71"
+      },
+      {
+        "offset": "0xD43881",
+        "end": "0xD43882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD43888",
+        "end": "0xD43888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "93",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4388B",
+        "end": "0xD4388C",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 44",
+        "new_hex": "0b e3"
+      },
+      {
+        "offset": "0xD43891",
+        "end": "0xD43892",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 3a",
+        "new_hex": "ed 16"
+      },
+      {
+        "offset": "0xD43895",
+        "end": "0xD43896",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "08 f0",
+        "new_hex": "7b ff"
+      },
+      {
+        "offset": "0xD4389B",
+        "end": "0xD4389B",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "b2",
+        "new_hex": "4f"
+      },
+      {
+        "offset": "0xD438A0",
+        "end": "0xD438A1",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 b7",
+        "new_hex": "1e ff"
+      },
+      {
+        "offset": "0xD438A6",
+        "end": "0xD438A7",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "e7 00",
+        "new_hex": "ff 28"
+      },
+      {
+        "offset": "0xD44881",
+        "end": "0xD44882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD44888",
+        "end": "0xD44888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "93",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4488C",
+        "end": "0xD4488D",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "03 ee",
+        "new_hex": "5d ff"
+      },
+      {
+        "offset": "0xD44892",
+        "end": "0xD44892",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "80",
+        "new_hex": "a9"
+      },
+      {
+        "offset": "0xD44894",
+        "end": "0xD44895",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 55",
+        "new_hex": "11 f0"
+      },
+      {
+        "offset": "0xD4489A",
+        "end": "0xD4489B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 39",
+        "new_hex": "ad 00"
+      },
+      {
+        "offset": "0xD448A0",
+        "end": "0xD448A1",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 e7",
+        "new_hex": "71 ff"
+      },
+      {
+        "offset": "0xD448A6",
+        "end": "0xD448A6",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "c0",
+        "new_hex": "e0"
+      },
+      {
+        "offset": "0xD45881",
+        "end": "0xD45882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD45888",
+        "end": "0xD45888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "93",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4588C",
+        "end": "0xD4588D",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 ac",
+        "new_hex": "01 ca"
+      },
+      {
+        "offset": "0xD45891",
+        "end": "0xD45892",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "d7 5a",
+        "new_hex": "b2 33"
+      },
+      {
+        "offset": "0xD45894",
+        "end": "0xD45895",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 b3",
+        "new_hex": "89 ff"
+      },
+      {
+        "offset": "0xD45899",
+        "end": "0xD4589A",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff bd",
+        "new_hex": "f1 1b"
+      },
+      {
+        "offset": "0xD458A0",
+        "end": "0xD458A0",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "1b",
+        "new_hex": "c7"
+      },
+      {
+        "offset": "0xD458A6",
+        "end": "0xD458B2",
+        "length": 13,
+        "region": "texture data",
+        "old_hex": "99 00 00 00 00 00 00 00 00 00 00 00 00",
+        "new_hex": "ff ff ff ff ff ff ff ff ff ff ff ff 54"
+      },
+      {
+        "offset": "0xD46881",
+        "end": "0xD46882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD46888",
+        "end": "0xD46888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "93",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4688A",
+        "end": "0xD46895",
+        "length": 12,
+        "region": "texture data",
+        "old_hex": "00 00 00 76 f3 9d 3b 00 00 00 1d fc",
+        "new_hex": "f4 ff ff ff ff ff ff ff ff ff ff ff"
+      },
+      {
+        "offset": "0xD4689A",
+        "end": "0xD4689D",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "42 00 00 00",
+        "new_hex": "ff ff ff b4"
+      },
+      {
+        "offset": "0xD4689F",
+        "end": "0xD468A0",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 50",
+        "new_hex": "1d fe"
+      },
+      {
+        "offset": "0xD468A6",
+        "end": "0xD468B2",
+        "length": 13,
+        "region": "texture data",
+        "old_hex": "77 07 07 07 07 07 07 08 2b 1a 00 00 00",
+        "new_hex": "ff ff ff ff ff ff ff ff ff ff ff ff 54"
+      },
+      {
+        "offset": "0xD47881",
+        "end": "0xD47882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD47888",
+        "end": "0xD47894",
+        "length": 13,
+        "region": "texture data",
+        "old_hex": "93 02 23 23 23 3a 30 23 23 23 23 23 8e",
+        "new_hex": "9c 00 f4 ff ff ff ff ff ff ff ff ff ff"
+      },
+      {
+        "offset": "0xD47899",
+        "end": "0xD478A0",
+        "length": 8,
+        "region": "texture data",
+        "old_hex": "d7 24 23 23 23 07 00 84",
+        "new_hex": "ff ff ff ff b4 00 74 ff"
+      },
+      {
+        "offset": "0xD478AF",
+        "end": "0xD478B2",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "fe cc 80 27",
+        "new_hex": "ff ff ff 54"
+      },
+      {
+        "offset": "0xD48881",
+        "end": "0xD48882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD48888",
+        "end": "0xD4888A",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "93 13 ff",
+        "new_hex": "9c 00 f4"
+      },
+      {
+        "offset": "0xD4889D",
+        "end": "0xD488A0",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff 33 00 bc",
+        "new_hex": "b4 00 d7 ff"
+      },
+      {
+        "offset": "0xD488B2",
+        "end": "0xD488B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "74",
+        "new_hex": "54"
+      },
+      {
+        "offset": "0xD49881",
+        "end": "0xD49882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 93",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD49888",
+        "end": "0xD4988A",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "93 13 ff",
+        "new_hex": "9c 00 f4"
+      },
+      {
+        "offset": "0xD4989D",
+        "end": "0xD498A0",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff 33 0f fa",
+        "new_hex": "b4 3d ff ff"
+      },
+      {
+        "offset": "0xD498B2",
+        "end": "0xD498B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "47",
+        "new_hex": "54"
+      },
+      {
+        "offset": "0xD4A881",
+        "end": "0xD4A882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 94",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD4A888",
+        "end": "0xD4A88A",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "93 13 ff",
+        "new_hex": "9c 00 f4"
+      },
+      {
+        "offset": "0xD4A89D",
+        "end": "0xD4A89F",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff 33 59",
+        "new_hex": "b4 a2 ff"
+      },
+      {
+        "offset": "0xD4A8A4",
+        "end": "0xD4A8AC",
+        "length": 9,
+        "region": "texture data",
+        "old_hex": "ff ff ff ff ff ff ff ff ff",
+        "new_hex": "f9 e8 e8 e8 e8 e8 e8 e8 fd"
+      },
+      {
+        "offset": "0xD4A8B2",
+        "end": "0xD4A8B2",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "19",
+        "new_hex": "4c"
+      },
+      {
+        "offset": "0xD4B881",
+        "end": "0xD4B882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 96",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD4B888",
+        "end": "0xD4B891",
+        "length": 10,
+        "region": "texture data",
+        "old_hex": "90 13 ff ff ff ff ff ff ff ff",
+        "new_hex": "9c 00 ab b4 b4 b4 b4 b4 b4 dc"
+      },
+      {
+        "offset": "0xD4B897",
+        "end": "0xD4B89F",
+        "length": 9,
+        "region": "texture data",
+        "old_hex": "ff ff ff ff ff ff ff 33 a8",
+        "new_hex": "d4 b4 b4 b4 b4 b4 99 f9 ff"
+      },
+      {
+        "offset": "0xD4B8A4",
+        "end": "0xD4B8AC",
+        "length": 9,
+        "region": "texture data",
+        "old_hex": "ff ff ff ff ff ff ff ff ff",
+        "new_hex": "7f 00 00 00 00 00 00 1c fd"
+      },
+      {
+        "offset": "0xD4B8B1",
+        "end": "0xD4B8B2",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ec 00",
+        "new_hex": "f5 0c"
+      },
+      {
+        "offset": "0xD4C881",
+        "end": "0xD4C882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 98",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD4C888",
+        "end": "0xD4C891",
+        "length": 10,
+        "region": "texture data",
+        "old_hex": "8d 13 ff ff ff ff ff ff ff ff",
+        "new_hex": "9c 00 00 00 00 00 00 00 00 88"
+      },
+      {
+        "offset": "0xD4C897",
+        "end": "0xD4C89F",
+        "length": 9,
+        "region": "texture data",
+        "old_hex": "ff ff ff ff ff ff ff 3d f1",
+        "new_hex": "6c 00 00 00 00 00 8d ff ff"
+      },
+      {
+        "offset": "0xD4C8A3",
+        "end": "0xD4C8A4",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff d6",
+        "new_hex": "fa 18"
+      },
+      {
+        "offset": "0xD4C8AB",
+        "end": "0xD4C8AC",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 52",
+        "new_hex": "76 ff"
+      },
+      {
+        "offset": "0xD4C8B1",
+        "end": "0xD4C8B1",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "bf",
+        "new_hex": "a6"
+      },
+      {
+        "offset": "0xD4D881",
+        "end": "0xD4D882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 99",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD4D888",
+        "end": "0xD4D888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "8b",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4D88B",
+        "end": "0xD4D88F",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 00",
+        "new_hex": "2d 34 34 34 0a"
+      },
+      {
+        "offset": "0xD4D891",
+        "end": "0xD4D891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD4D896",
+        "end": "0xD4D897",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "87 00",
+        "new_hex": "ff 6c"
+      },
+      {
+        "offset": "0xD4D899",
+        "end": "0xD4D89E",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 00 6f",
+        "new_hex": "10 34 34 3a f3 ff"
+      },
+      {
+        "offset": "0xD4D8A3",
+        "end": "0xD4D8A9",
+        "length": 7,
+        "region": "texture data",
+        "old_hex": "ff 75 00 00 00 00 00",
+        "new_hex": "c8 48 48 48 48 48 30"
+      },
+      {
+        "offset": "0xD4D8AB",
+        "end": "0xD4D8AC",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 7d",
+        "new_hex": "d2 ff"
+      },
+      {
+        "offset": "0xD4D8B1",
+        "end": "0xD4D8B1",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "92",
+        "new_hex": "4b"
+      },
+      {
+        "offset": "0xD4E881",
+        "end": "0xD4E882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 9e",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD4E888",
+        "end": "0xD4E888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "86",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4E88B",
+        "end": "0xD4E88F",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 00",
+        "new_hex": "e0 ff ff ff 34"
+      },
+      {
+        "offset": "0xD4E891",
+        "end": "0xD4E891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD4E896",
+        "end": "0xD4E897",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "87 00",
+        "new_hex": "ff 6c"
+      },
+      {
+        "offset": "0xD4E899",
+        "end": "0xD4E89E",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 07 e4",
+        "new_hex": "50 ff ff ff ff ff"
+      },
+      {
+        "offset": "0xD4E8A3",
+        "end": "0xD4E8AC",
+        "length": 10,
+        "region": "texture data",
+        "old_hex": "fb 4f 43 43 43 43 43 01 00 a9",
+        "new_hex": "ad ff ff ff ff ff a5 2d ff ff"
+      },
+      {
+        "offset": "0xD4E8B0",
+        "end": "0xD4E8B1",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 64",
+        "new_hex": "eb 04"
+      },
+      {
+        "offset": "0xD4F881",
+        "end": "0xD4F882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 a4",
+        "new_hex": "2c ff"
+      },
+      {
+        "offset": "0xD4F888",
+        "end": "0xD4F888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "7e",
+        "new_hex": "9c"
+      },
+      {
+        "offset": "0xD4F88A",
+        "end": "0xD4F88F",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "7f cb cb cb a2 00",
+        "new_hex": "00 e0 ff ff ff 34"
+      },
+      {
+        "offset": "0xD4F891",
+        "end": "0xD4F891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD4F896",
+        "end": "0xD4F89E",
+        "length": 9,
+        "region": "texture data",
+        "old_hex": "87 00 0c cb cb cb cb b1 ff",
+        "new_hex": "ff 6c 00 50 ff ff ff f4 fc"
+      },
+      {
+        "offset": "0xD4F8A2",
+        "end": "0xD4F8A4",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff b2 cf",
+        "new_hex": "bb 80 ff"
+      },
+      {
+        "offset": "0xD4F8A9",
+        "end": "0xD4F8AC",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff 03 00 d6",
+        "new_hex": "97 89 ff ff"
+      },
+      {
+        "offset": "0xD4F8B0",
+        "end": "0xD4F8B1",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 25",
+        "new_hex": "95 00"
+      },
+      {
+        "offset": "0xD50881",
+        "end": "0xD50882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 a9",
+        "new_hex": "2f ff"
+      },
+      {
+        "offset": "0xD50888",
+        "end": "0xD50888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "76",
+        "new_hex": "9b"
+      },
+      {
+        "offset": "0xD5088A",
+        "end": "0xD5088B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5088E",
+        "end": "0xD5088F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 34"
+      },
+      {
+        "offset": "0xD50891",
+        "end": "0xD50891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD50896",
+        "end": "0xD50899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "87 00 0f ff",
+        "new_hex": "ff 6c 00 50"
+      },
+      {
+        "offset": "0xD5089D",
+        "end": "0xD5089F",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff ff ff",
+        "new_hex": "c4 2a b6"
+      },
+      {
+        "offset": "0xD508A2",
+        "end": "0xD508A4",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff 51 cf",
+        "new_hex": "3f 89 ff"
+      },
+      {
+        "offset": "0xD508A9",
+        "end": "0xD508AC",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff 03 11 fe",
+        "new_hex": "8b e2 ff ff"
+      },
+      {
+        "offset": "0xD508B0",
+        "end": "0xD508B0",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "e2",
+        "new_hex": "3a"
+      },
+      {
+        "offset": "0xD51881",
+        "end": "0xD51882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 b1",
+        "new_hex": "33 ff"
+      },
+      {
+        "offset": "0xD51888",
+        "end": "0xD51888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "6e",
+        "new_hex": "96"
+      },
+      {
+        "offset": "0xD5188A",
+        "end": "0xD5188B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5188E",
+        "end": "0xD5188F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 34"
+      },
+      {
+        "offset": "0xD51891",
+        "end": "0xD51891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD51896",
+        "end": "0xD51899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "87 00 0f ff",
+        "new_hex": "ff 6c 00 50"
+      },
+      {
+        "offset": "0xD5189D",
+        "end": "0xD518A4",
+        "length": 8,
+        "region": "texture data",
+        "old_hex": "ff ff ff ff ff da 03 cf",
+        "new_hex": "c4 00 00 54 ab 00 92 ff"
+      },
+      {
+        "offset": "0xD518A9",
+        "end": "0xD518AD",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "ff 03 4b ff ff",
+        "new_hex": "7e 5f 94 ca f8"
+      },
+      {
+        "offset": "0xD518AF",
+        "end": "0xD518B0",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 9f",
+        "new_hex": "de 00"
+      },
+      {
+        "offset": "0xD52881",
+        "end": "0xD52882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 c0",
+        "new_hex": "38 ff"
+      },
+      {
+        "offset": "0xD52888",
+        "end": "0xD52888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "62",
+        "new_hex": "91"
+      },
+      {
+        "offset": "0xD5288A",
+        "end": "0xD5288B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5288E",
+        "end": "0xD5288F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 34"
+      },
+      {
+        "offset": "0xD52891",
+        "end": "0xD52891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD52896",
+        "end": "0xD52899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "87 00 0f ff",
+        "new_hex": "ff 6c 00 50"
+      },
+      {
+        "offset": "0xD5289D",
+        "end": "0xD528A4",
+        "length": 8,
+        "region": "texture data",
+        "old_hex": "8b e5 ff ff ff 5d 00 d1",
+        "new_hex": "c4 00 00 00 00 00 ad ff"
+      },
+      {
+        "offset": "0xD528A9",
+        "end": "0xD528B0",
+        "length": 8,
+        "region": "texture data",
+        "old_hex": "ff 02 72 ff ff ff ff 51",
+        "new_hex": "62 00 00 00 06 34 3b 00"
+      },
+      {
+        "offset": "0xD53881",
+        "end": "0xD53882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 d0",
+        "new_hex": "3d ff"
+      },
+      {
+        "offset": "0xD53888",
+        "end": "0xD53888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "4f",
+        "new_hex": "8c"
+      },
+      {
+        "offset": "0xD5388A",
+        "end": "0xD5388B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5388E",
+        "end": "0xD5388F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 34"
+      },
+      {
+        "offset": "0xD53891",
+        "end": "0xD53891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD53896",
+        "end": "0xD53899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "87 00 0f ff",
+        "new_hex": "ff 6c 00 50"
+      },
+      {
+        "offset": "0xD5389D",
+        "end": "0xD538A4",
+        "length": 8,
+        "region": "texture data",
+        "old_hex": "5b 1e d7 ff da 03 00 d4",
+        "new_hex": "c4 00 00 00 00 00 d1 ff"
+      },
+      {
+        "offset": "0xD538A9",
+        "end": "0xD538A9",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "f7",
+        "new_hex": "4a"
+      },
+      {
+        "offset": "0xD538AC",
+        "end": "0xD538B0",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "44 c3 ff f3 09",
+        "new_hex": "00 00 00 00 00"
+      },
+      {
+        "offset": "0xD54881",
+        "end": "0xD54882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 e1",
+        "new_hex": "4b ff"
+      },
+      {
+        "offset": "0xD54888",
+        "end": "0xD54888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "3d",
+        "new_hex": "87"
+      },
+      {
+        "offset": "0xD5488A",
+        "end": "0xD5488B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5488E",
+        "end": "0xD5488F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 34"
+      },
+      {
+        "offset": "0xD54891",
+        "end": "0xD54891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD54896",
+        "end": "0xD54899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "87 00 0f ff",
+        "new_hex": "ff 6c 00 50"
+      },
+      {
+        "offset": "0xD5489D",
+        "end": "0xD5489D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD5489F",
+        "end": "0xD548A1",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "18 da 5d",
+        "new_hex": "00 00 00"
+      },
+      {
+        "offset": "0xD548A3",
+        "end": "0xD548A4",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 db",
+        "new_hex": "f4 ff"
+      },
+      {
+        "offset": "0xD548A9",
+        "end": "0xD548A9",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "ec",
+        "new_hex": "30"
+      },
+      {
+        "offset": "0xD548AE",
+        "end": "0xD548AF",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "41 76",
+        "new_hex": "00 00"
+      },
+      {
+        "offset": "0xD55881",
+        "end": "0xD55882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 f1",
+        "new_hex": "5a ff"
+      },
+      {
+        "offset": "0xD55888",
+        "end": "0xD55888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "2a",
+        "new_hex": "7e"
+      },
+      {
+        "offset": "0xD5588A",
+        "end": "0xD5588B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5588E",
+        "end": "0xD5588F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 34"
+      },
+      {
+        "offset": "0xD55891",
+        "end": "0xD55891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD55896",
+        "end": "0xD55899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "87 00 0f ff",
+        "new_hex": "ff 6c 00 50"
+      },
+      {
+        "offset": "0xD5589D",
+        "end": "0xD5589D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD558A0",
+        "end": "0xD558A4",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "20 03 00 00 ea",
+        "new_hex": "00 00 1b ff ff"
+      },
+      {
+        "offset": "0xD558A9",
+        "end": "0xD558A9",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "e2",
+        "new_hex": "10"
+      },
+      {
+        "offset": "0xD56881",
+        "end": "0xD56882",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "03 fe",
+        "new_hex": "69 ff"
+      },
+      {
+        "offset": "0xD56888",
+        "end": "0xD56888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "17",
+        "new_hex": "6f"
+      },
+      {
+        "offset": "0xD5688A",
+        "end": "0xD5688B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5688E",
+        "end": "0xD5688F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 34"
+      },
+      {
+        "offset": "0xD56891",
+        "end": "0xD56891",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "d7",
+        "new_hex": "88"
+      },
+      {
+        "offset": "0xD56896",
+        "end": "0xD56899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "87 00 0f ff",
+        "new_hex": "ff 6c 00 50"
+      },
+      {
+        "offset": "0xD5689D",
+        "end": "0xD5689D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD568A2",
+        "end": "0xD568A4",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 00 fa",
+        "new_hex": "59 ff ff"
+      },
+      {
+        "offset": "0xD568A8",
+        "end": "0xD568A9",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff e2",
+        "new_hex": "fa 05"
+      },
+      {
+        "offset": "0xD57881",
+        "end": "0xD57881",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "12",
+        "new_hex": "7f"
+      },
+      {
+        "offset": "0xD57888",
+        "end": "0xD57888",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "05",
+        "new_hex": "5f"
+      },
+      {
+        "offset": "0xD5788A",
+        "end": "0xD5788B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5788E",
+        "end": "0xD57891",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "cb 00 00 d7",
+        "new_hex": "ff ff ff ff"
+      },
+      {
+        "offset": "0xD57896",
+        "end": "0xD57898",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "87 00 0f",
+        "new_hex": "ff ff ff"
+      },
+      {
+        "offset": "0xD5789D",
+        "end": "0xD5789D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD578A2",
+        "end": "0xD578A3",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 18",
+        "new_hex": "9c ff"
+      },
+      {
+        "offset": "0xD578A9",
+        "end": "0xD578AA",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 28",
+        "new_hex": "53 00"
+      },
+      {
+        "offset": "0xD58881",
+        "end": "0xD58881",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "22",
+        "new_hex": "9b"
+      },
+      {
+        "offset": "0xD58887",
+        "end": "0xD58888",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "f1 00",
+        "new_hex": "ff 50"
+      },
+      {
+        "offset": "0xD5888A",
+        "end": "0xD5888B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5888E",
+        "end": "0xD58891",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "cb 00 00 d7",
+        "new_hex": "ff ff ff ff"
+      },
+      {
+        "offset": "0xD58896",
+        "end": "0xD58898",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "87 00 0f",
+        "new_hex": "ff ff ff"
+      },
+      {
+        "offset": "0xD5889D",
+        "end": "0xD5889D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD588A2",
+        "end": "0xD588A3",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 3c",
+        "new_hex": "df ff"
+      },
+      {
+        "offset": "0xD588A9",
+        "end": "0xD588AA",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 7b",
+        "new_hex": "b6 00"
+      },
+      {
+        "offset": "0xD59881",
+        "end": "0xD59881",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "36",
+        "new_hex": "b6"
+      },
+      {
+        "offset": "0xD59887",
+        "end": "0xD59888",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "de 00",
+        "new_hex": "ff 3e"
+      },
+      {
+        "offset": "0xD5988A",
+        "end": "0xD5988B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5989D",
+        "end": "0xD5989D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD598A1",
+        "end": "0xD598A3",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 00 63",
+        "new_hex": "30 ff ff"
+      },
+      {
+        "offset": "0xD598A9",
+        "end": "0xD598AA",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff ce",
+        "new_hex": "fd 26"
+      },
+      {
+        "offset": "0xD5A881",
+        "end": "0xD5A881",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5c",
+        "new_hex": "d7"
+      },
+      {
+        "offset": "0xD5A887",
+        "end": "0xD5A888",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "cb 00",
+        "new_hex": "ff 23"
+      },
+      {
+        "offset": "0xD5A88A",
+        "end": "0xD5A88B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5A89D",
+        "end": "0xD5A89D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD5A8A1",
+        "end": "0xD5A8A3",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 00 9e",
+        "new_hex": "99 ff ff"
+      },
+      {
+        "offset": "0xD5A8AA",
+        "end": "0xD5A8AB",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 22",
+        "new_hex": "9a 00"
+      },
+      {
+        "offset": "0xD5B880",
+        "end": "0xD5B881",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 83",
+        "new_hex": "05 fb"
+      },
+      {
+        "offset": "0xD5B887",
+        "end": "0xD5B888",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ac 00",
+        "new_hex": "ff 08"
+      },
+      {
+        "offset": "0xD5B88A",
+        "end": "0xD5B88B",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f ff",
+        "new_hex": "00 e0"
+      },
+      {
+        "offset": "0xD5B89D",
+        "end": "0xD5B89D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD5B8A0",
+        "end": "0xD5B8A3",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 00 00 de",
+        "new_hex": "0d f3 ff ff"
+      },
+      {
+        "offset": "0xD5B8AA",
+        "end": "0xD5B8AB",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 83",
+        "new_hex": "f8 1e"
+      },
+      {
+        "offset": "0xD5C880",
+        "end": "0xD5C881",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 aa",
+        "new_hex": "29 ff"
+      },
+      {
+        "offset": "0xD5C887",
+        "end": "0xD5C887",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "83",
+        "new_hex": "eb"
+      },
+      {
+        "offset": "0xD5C88A",
+        "end": "0xD5C890",
+        "length": 7,
+        "region": "texture data",
+        "old_hex": "9f ff ff ff ff ff ff",
+        "new_hex": "00 49 54 54 54 54 cb"
+      },
+      {
+        "offset": "0xD5C896",
+        "end": "0xD5C899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff ff ff ff",
+        "new_hex": "dd 54 54 89"
+      },
+      {
+        "offset": "0xD5C89D",
+        "end": "0xD5C89D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD5C8A0",
+        "end": "0xD5C8A2",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 00 23",
+        "new_hex": "71 ff ff"
+      },
+      {
+        "offset": "0xD5C8AB",
+        "end": "0xD5C8AC",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ef 0d",
+        "new_hex": "a3 00"
+      },
+      {
+        "offset": "0xD5D880",
+        "end": "0xD5D881",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 d1",
+        "new_hex": "5d ff"
+      },
+      {
+        "offset": "0xD5D887",
+        "end": "0xD5D887",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "59",
+        "new_hex": "cc"
+      },
+      {
+        "offset": "0xD5D88A",
+        "end": "0xD5D890",
+        "length": 7,
+        "region": "texture data",
+        "old_hex": "95 ef ef ef ef ef f7",
+        "new_hex": "00 00 00 00 00 0e f5"
+      },
+      {
+        "offset": "0xD5D896",
+        "end": "0xD5D899",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "f2 ef f0 ff",
+        "new_hex": "92 00 00 50"
+      },
+      {
+        "offset": "0xD5D89D",
+        "end": "0xD5D89D",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5b",
+        "new_hex": "c4"
+      },
+      {
+        "offset": "0xD5D89F",
+        "end": "0xD5D8A2",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 00 00 84",
+        "new_hex": "13 ee ff ff"
+      },
+      {
+        "offset": "0xD5D8AB",
+        "end": "0xD5D8AC",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 76",
+        "new_hex": "fe 36"
+      },
+      {
+        "offset": "0xD5E880",
+        "end": "0xD5E881",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "01 f6",
+        "new_hex": "97 ff"
+      },
+      {
+        "offset": "0xD5E887",
+        "end": "0xD5E887",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "30",
+        "new_hex": "a2"
+      },
+      {
+        "offset": "0xD5E88F",
+        "end": "0xD5E890",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 a7",
+        "new_hex": "74 ff"
+      },
+      {
+        "offset": "0xD5E895",
+        "end": "0xD5E896",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "f9 08",
+        "new_hex": "ff 4c"
+      },
+      {
+        "offset": "0xD5E898",
+        "end": "0xD5E89D",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "0f ff ff ff ff 5b",
+        "new_hex": "00 30 9c 9c 9c 77"
+      },
+      {
+        "offset": "0xD5E89F",
+        "end": "0xD5E8A2",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 00 03 e5",
+        "new_hex": "97 ff ff ff"
+      },
+      {
+        "offset": "0xD5E8A6",
+        "end": "0xD5E8A6",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "ff",
+        "new_hex": "e4"
+      },
+      {
+        "offset": "0xD5E8AC",
+        "end": "0xD5E8AD",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "e8 08",
+        "new_hex": "d3 05"
+      },
+      {
+        "offset": "0xD5F880",
+        "end": "0xD5F880",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "1f",
+        "new_hex": "d2"
+      },
+      {
+        "offset": "0xD5F886",
+        "end": "0xD5F887",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "fe 09",
+        "new_hex": "ff 77"
+      },
+      {
+        "offset": "0xD5F88E",
+        "end": "0xD5F890",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 07 f2",
+        "new_hex": "0d e9 ff"
+      },
+      {
+        "offset": "0xD5F895",
+        "end": "0xD5F896",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "c7 00",
+        "new_hex": "ed 06"
+      },
+      {
+        "offset": "0xD5F898",
+        "end": "0xD5F8A1",
+        "length": 10,
+        "region": "texture data",
+        "old_hex": "0c cb cb cb cb 49 00 00 00 53",
+        "new_hex": "00 00 00 00 00 00 39 fc ff ff"
+      },
+      {
+        "offset": "0xD5F8A5",
+        "end": "0xD5F8A7",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff ff ff",
+        "new_hex": "f3 31 fd"
+      },
+      {
+        "offset": "0xD5F8AD",
+        "end": "0xD5F8AD",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "71",
+        "new_hex": "86"
+      },
+      {
+        "offset": "0xD6087F",
+        "end": "0xD60880",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 46",
+        "new_hex": "1d ff"
+      },
+      {
+        "offset": "0xD60886",
+        "end": "0xD60887",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "de 00",
+        "new_hex": "ff 4c"
+      },
+      {
+        "offset": "0xD6088E",
+        "end": "0xD6088F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 50",
+        "new_hex": "91 ff"
+      },
+      {
+        "offset": "0xD60895",
+        "end": "0xD60895",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "8d",
+        "new_hex": "96"
+      },
+      {
+        "offset": "0xD6089D",
+        "end": "0xD608A1",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 00 06 db",
+        "new_hex": "16 e4 ff ff ff"
+      },
+      {
+        "offset": "0xD608A5",
+        "end": "0xD608A8",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff ff ac fd",
+        "new_hex": "96 00 aa ff"
+      },
+      {
+        "offset": "0xD608AD",
+        "end": "0xD608AE",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "f5 24",
+        "new_hex": "fe 49"
+      },
+      {
+        "offset": "0xD6187F",
+        "end": "0xD61880",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 72",
+        "new_hex": "6a ff"
+      },
+      {
+        "offset": "0xD61886",
+        "end": "0xD61887",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "b4 00",
+        "new_hex": "ff 19"
+      },
+      {
+        "offset": "0xD6188D",
+        "end": "0xD6188F",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 04 d3",
+        "new_hex": "45 fd ff"
+      },
+      {
+        "offset": "0xD61894",
+        "end": "0xD61895",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 52",
+        "new_hex": "fe 2a"
+      },
+      {
+        "offset": "0xD6189C",
+        "end": "0xD618A0",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 74",
+        "new_hex": "04 bf ff ff ff"
+      },
+      {
+        "offset": "0xD618A4",
+        "end": "0xD618A8",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "ff ff f6 15 9d",
+        "new_hex": "fb 20 00 33 ff"
+      },
+      {
+        "offset": "0xD618AE",
+        "end": "0xD618AF",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "c4 02",
+        "new_hex": "ed 29"
+      },
+      {
+        "offset": "0xD6287F",
+        "end": "0xD62880",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 b2",
+        "new_hex": "c5 ff"
+      },
+      {
+        "offset": "0xD62886",
+        "end": "0xD62886",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "8b",
+        "new_hex": "db"
+      },
+      {
+        "offset": "0xD6288C",
+        "end": "0xD6288E",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 00 70",
+        "new_hex": "25 eb ff"
+      },
+      {
+        "offset": "0xD62894",
+        "end": "0xD62895",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ea 09",
+        "new_hex": "af 00"
+      },
+      {
+        "offset": "0xD6289B",
+        "end": "0xD628A0",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 20 f1",
+        "new_hex": "04 a5 ff ff ff ff"
+      },
+      {
+        "offset": "0xD628A4",
+        "end": "0xD628A6",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff ff 93",
+        "new_hex": "98 00 00"
+      },
+      {
+        "offset": "0xD628A8",
+        "end": "0xD628A9",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "1a f5",
+        "new_hex": "b7 ff"
+      },
+      {
+        "offset": "0xD628AF",
+        "end": "0xD628B0",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "74 00",
+        "new_hex": "e1 1b"
+      },
+      {
+        "offset": "0xD6387E",
+        "end": "0xD63880",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 03 f1",
+        "new_hex": "2b ff ff"
+      },
+      {
+        "offset": "0xD63886",
+        "end": "0xD63886",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "62",
+        "new_hex": "9d"
+      },
+      {
+        "offset": "0xD6388B",
+        "end": "0xD6388E",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 00 30 f1",
+        "new_hex": "20 e1 ff ff"
+      },
+      {
+        "offset": "0xD63893",
+        "end": "0xD63894",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 7e",
+        "new_hex": "fc 2d"
+      },
+      {
+        "offset": "0xD6389A",
+        "end": "0xD6389F",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 0b d1",
+        "new_hex": "06 ad ff ff ff ff"
+      },
+      {
+        "offset": "0xD638A3",
+        "end": "0xD638A6",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff ff f3 1c",
+        "new_hex": "ef 14 00 00"
+      },
+      {
+        "offset": "0xD638A8",
+        "end": "0xD638A9",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 82",
+        "new_hex": "26 f8"
+      },
+      {
+        "offset": "0xD638AF",
+        "end": "0xD638B1",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "f8 3f 00",
+        "new_hex": "ff dd 22"
+      },
+      {
+        "offset": "0xD6487E",
+        "end": "0xD6487F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 38",
+        "new_hex": "9d ff"
+      },
+      {
+        "offset": "0xD64886",
+        "end": "0xD64886",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "26",
+        "new_hex": "5a"
+      },
+      {
+        "offset": "0xD6488A",
+        "end": "0xD6488D",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 00 2d eb",
+        "new_hex": "34 e8 ff ff"
+      },
+      {
+        "offset": "0xD64893",
+        "end": "0xD64894",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "f5 14",
+        "new_hex": "93 00"
+      },
+      {
+        "offset": "0xD64899",
+        "end": "0xD6489E",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 00 aa",
+        "new_hex": "10 b7 ff ff ff ff"
+      },
+      {
+        "offset": "0xD648A3",
+        "end": "0xD648A5",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff ff 70",
+        "new_hex": "63 00 00"
+      },
+      {
+        "offset": "0xD648A9",
+        "end": "0xD648AA",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "0c e8",
+        "new_hex": "82 ff"
+      },
+      {
+        "offset": "0xD648B0",
+        "end": "0xD648B2",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "f5 42 00",
+        "new_hex": "ff e5 35"
+      },
+      {
+        "offset": "0xD6587D",
+        "end": "0xD6587F",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 00 84",
+        "new_hex": "25 fc ff"
+      },
+      {
+        "offset": "0xD65885",
+        "end": "0xD65886",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "e3 00",
+        "new_hex": "f8 0e"
+      },
+      {
+        "offset": "0xD65888",
+        "end": "0xD6588C",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 00 34 ea",
+        "new_hex": "01 71 f9 ff ff"
+      },
+      {
+        "offset": "0xD65892",
+        "end": "0xD65893",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ff 8e",
+        "new_hex": "de 0e"
+      },
+      {
+        "offset": "0xD65898",
+        "end": "0xD6589D",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 01 8d",
+        "new_hex": "39 e0 ff ff ff ff"
+      },
+      {
+        "offset": "0xD658A2",
+        "end": "0xD658A5",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff ff cd 03",
+        "new_hex": "b4 00 00 00"
+      },
+      {
+        "offset": "0xD658A9",
+        "end": "0xD658AA",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 66",
+        "new_hex": "08 dc"
+      },
+      {
+        "offset": "0xD658B1",
+        "end": "0xD658B3",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "f6 45 00",
+        "new_hex": "ff f8 4f"
+      },
+      {
+        "offset": "0xD6687D",
+        "end": "0xD6687F",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 01 e0",
+        "new_hex": "19 db ff"
+      },
+      {
+        "offset": "0xD66885",
+        "end": "0xD66885",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "9f",
+        "new_hex": "b3"
+      },
+      {
+        "offset": "0xD66887",
+        "end": "0xD6688B",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 08 88 fb",
+        "new_hex": "2c c9 ff ff ff"
+      },
+      {
+        "offset": "0xD66891",
+        "end": "0xD66893",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "ff d8 0a",
+        "new_hex": "fb 39 00"
+      },
+      {
+        "offset": "0xD66897",
+        "end": "0xD6689C",
+        "length": 6,
+        "region": "texture data",
+        "old_hex": "00 00 00 00 06 a5",
+        "new_hex": "4f fb ff ff ff ff"
+      },
+      {
+        "offset": "0xD668A1",
+        "end": "0xD668A4",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff ff f3 2c",
+        "new_hex": "e0 13 00 00"
+      },
+      {
+        "offset": "0xD668AA",
+        "end": "0xD668AB",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "03 cb",
+        "new_hex": "38 f8"
+      },
+      {
+        "offset": "0xD668B2",
+        "end": "0xD668B3",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "d3 02",
+        "new_hex": "f4 22"
+      },
+      {
+        "offset": "0xD6787E",
+        "end": "0xD6787F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "40 ff",
+        "new_hex": "1e e0"
+      },
+      {
+        "offset": "0xD67885",
+        "end": "0xD67885",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "5c",
+        "new_hex": "56"
+      },
+      {
+        "offset": "0xD67887",
+        "end": "0xD67889",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 1f da",
+        "new_hex": "13 c9 ff"
+      },
+      {
+        "offset": "0xD67891",
+        "end": "0xD67892",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "f0 2f",
+        "new_hex": "68 00"
+      },
+      {
+        "offset": "0xD67897",
+        "end": "0xD6789B",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 00 0e bc",
+        "new_hex": "08 ba ff ff ff"
+      },
+      {
+        "offset": "0xD678A0",
+        "end": "0xD678A3",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff ff fe 52",
+        "new_hex": "f3 31 00 00"
+      },
+      {
+        "offset": "0xD678AB",
+        "end": "0xD678AC",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "22 f0",
+        "new_hex": "63 ff"
+      },
+      {
+        "offset": "0xD678B1",
+        "end": "0xD678B2",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "ec 22",
+        "new_hex": "ff 6b"
+      },
+      {
+        "offset": "0xD6887E",
+        "end": "0xD68880",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "6b fc ff",
+        "new_hex": "00 23 e5"
+      },
+      {
+        "offset": "0xD68884",
+        "end": "0xD68885",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "f8 10",
+        "new_hex": "e1 04"
+      },
+      {
+        "offset": "0xD68888",
+        "end": "0xD6888A",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 65 f9",
+        "new_hex": "0b bd ff"
+      },
+      {
+        "offset": "0xD68890",
+        "end": "0xD68891",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "f6 3e",
+        "new_hex": "8a 00"
+      },
+      {
+        "offset": "0xD68898",
+        "end": "0xD6889B",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 00 0f 9d",
+        "new_hex": "09 bd ff ff"
+      },
+      {
+        "offset": "0xD6889F",
+        "end": "0xD688A2",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "ff ff ff 80",
+        "new_hex": "fa 46 00 00"
+      },
+      {
+        "offset": "0xD688AC",
+        "end": "0xD688AC",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "54",
+        "new_hex": "95"
+      },
+      {
+        "offset": "0xD688B0",
+        "end": "0xD688B2",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "fe 49 00",
+        "new_hex": "ff bf 01"
+      },
+      {
+        "offset": "0xD6987F",
+        "end": "0xD69881",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "1f 9b fb",
+        "new_hex": "00 2f f2"
+      },
+      {
+        "offset": "0xD69884",
+        "end": "0xD69884",
+        "length": 1,
+        "region": "texture data",
+        "old_hex": "a9",
+        "new_hex": "72"
+      },
+      {
+        "offset": "0xD69889",
+        "end": "0xD6988B",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 40 f1",
+        "new_hex": "08 b5 ff"
+      },
+      {
+        "offset": "0xD6988F",
+        "end": "0xD69890",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "e7 36",
+        "new_hex": "8e 00"
+      },
+      {
+        "offset": "0xD69899",
+        "end": "0xD698A2",
+        "length": 10,
+        "region": "texture data",
+        "old_hex": "00 00 00 5e f8 ff ff ff 95 01",
+        "new_hex": "0a c2 ff ff ff f9 50 00 00 00"
+      },
+      {
+        "offset": "0xD698AC",
+        "end": "0xD698AD",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "00 81",
+        "new_hex": "04 a8"
+      },
+      {
+        "offset": "0xD698B0",
+        "end": "0xD698B1",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "9f 00",
+        "new_hex": "f9 28"
+      },
+      {
+        "offset": "0xD6A881",
+        "end": "0xD6A884",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "29 bb ff 4b",
+        "new_hex": "49 fc de 08"
+      },
+      {
+        "offset": "0xD6A88A",
+        "end": "0xD6A88C",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 37 f1",
+        "new_hex": "07 b5 ff"
+      },
+      {
+        "offset": "0xD6A88E",
+        "end": "0xD6A88F",
+        "length": 2,
+        "region": "texture data",
+        "old_hex": "c0 1d",
+        "new_hex": "80 00"
+      },
+      {
+        "offset": "0xD6A89A",
+        "end": "0xD6A8A0",
+        "length": 7,
+        "region": "texture data",
+        "old_hex": "00 00 00 42 f3 ff 89",
+        "new_hex": "0d cb ff f5 4a 00 00"
+      },
+      {
+        "offset": "0xD6A8AD",
+        "end": "0xD6A8B0",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 92 ee 15",
+        "new_hex": "02 9b ff 86"
+      },
+      {
+        "offset": "0xD6B882",
+        "end": "0xD6B884",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "00 5c 04",
+        "new_hex": "6a 4f 00"
+      },
+      {
+        "offset": "0xD6B88B",
+        "end": "0xD6B88E",
+        "length": 4,
+        "region": "texture data",
+        "old_hex": "00 48 68 01",
+        "new_hex": "08 b5 56 00"
+      },
+      {
+        "offset": "0xD6B89B",
+        "end": "0xD6B89F",
+        "length": 5,
+        "region": "texture data",
+        "old_hex": "00 00 00 45 7b",
+        "new_hex": "13 bf 34 00 00"
+      },
+      {
+        "offset": "0xD6B8AE",
+        "end": "0xD6B8B0",
+        "length": 3,
+        "region": "texture data",
+        "old_hex": "01 36 00",
+        "new_hex": "00 77 0a"
+      }
+    ],
+    "region_counts": {
+      "texture data": 1067
+    }
+  }
+}

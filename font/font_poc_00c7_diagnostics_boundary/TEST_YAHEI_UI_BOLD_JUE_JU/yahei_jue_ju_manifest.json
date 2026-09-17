@@ -1,0 +1,138 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "input": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_UI_BOLD_JUE\\CANDIDATE_YAHEI_UI_BOLD\\00c7c9f9.xpr",
+    "encrypted_sha256": "353b6313fd60e395e25d00d723510371e3cb11c80ce2ce1a2f2a7a45266fe9e7",
+    "decrypted_sha256": "93cc069e0be928b490a589a3d8b0412a5d61b266e68b3ee2e24a5b4897bd6ab7",
+    "glyph_count": 3210,
+    "user_size": 182136
+  },
+  "font": {
+    "font_file": "C:\\Windows\\Fonts\\msyhbd.ttc",
+    "font_family": "Microsoft YaHei UI",
+    "font_style": "Bold",
+    "font_face_index": 1,
+    "font_size_px": 55,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_x": 1,
+    "baseline_y": 51,
+    "font_bbox_at_origin": [
+      0,
+      -45,
+      55,
+      8
+    ],
+    "rasterizer": "Pillow 9.0.1 FreeTypeFont/ImageDraw, layout_engine=BASIC",
+    "hinting_mode": "Pillow default FreeType load flags; hinting not explicitly disabled",
+    "antialias_mode": "8-bit L-mode grayscale antialiasing",
+    "grayscale_mapping": "direct 0..255 L-mode; zero background, nonzero ink",
+    "bitmap": {
+      "width": 58,
+      "height": 67,
+      "nonzero_pixel_count": 1787,
+      "coverage_percent": 45.986,
+      "nonzero_grayscale_mean": 224.976,
+      "bbox": [
+        1,
+        6,
+        54,
+        59
+      ],
+      "sha256": "8dfdba2c652dbb8103292b0db38cabe4fba390b4e872e43708b32819db08ff93"
+    }
+  },
+  "atlas_slot_selection": {
+    "rectangle": [
+      58,
+      3333,
+      116,
+      3400
+    ],
+    "source_scan_y": 3333,
+    "existing_records_checked": 3210,
+    "overlap": false,
+    "pitch": 4096,
+    "texture_data_offset": 182396,
+    "raw_first_row_offset": 13834422,
+    "raw_last_row_offset": 14104758
+  },
+  "glyphs": {
+    "jue": {
+      "codepoint": "U+53A5",
+      "index": 3209,
+      "record_raw_hex": "00000d05003a0d480004003a003e0000",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1956,
+        "coverage_percent": 50.335,
+        "nonzero_grayscale_mean": 217.133,
+        "bbox": [
+          1,
+          8,
+          56,
+          59
+        ],
+        "sha256": "77a4f88fd15f8d7a1ad0791e02fad33a8def552228574c6a6e63b3ccb2972edc"
+      }
+    },
+    "ju": {
+      "codepoint": "U+62D8",
+      "index": 3210,
+      "record_raw_hex": "003a0d0500740d480004003a003e0000",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1787,
+        "coverage_percent": 45.986,
+        "nonzero_grayscale_mean": 224.976,
+        "bbox": [
+          1,
+          6,
+          54,
+          59
+        ],
+        "sha256": "8dfdba2c652dbb8103292b0db38cabe4fba390b4e872e43708b32819db08ff93"
+      }
+    },
+    "shu": {
+      "codepoint": "U+675F",
+      "glyph_index": 1802,
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1856,
+        "coverage_percent": 47.761,
+        "nonzero_grayscale_mean": 174.335,
+        "bbox": [
+          3,
+          7,
+          55,
+          59
+        ],
+        "sha256": "0116697d8a27d86a27bae555ff651fdea504d838d0620585315b1a8bcd8713b4"
+      },
+      "record_raw_hex": "0d4a06e90d84072c0004003a003e0000"
+    }
+  },
+  "output": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_UI_BOLD_JUE_JU\\00c7c9f9.xpr",
+    "encrypted_sha256": "07e03dd4c104939e78b347e3bc607706fe77e804977c0213b591ef50fa2a403a",
+    "decrypted_sha256": "bd4fb3923faeb341908f1b29fc2eec03c8c292362bcd5756215545764fbe28d1",
+    "glyph_count": 3211,
+    "user_size": 182152,
+    "count_mirror_hex": "00000c8b",
+    "atlas_changed_pixels": 1787,
+    "atlas_changed_outside_slot": 0,
+    "parser_errors": []
+  },
+  "protection": {
+    "old_charmap_unchanged_except_U62D8": true,
+    "old_glyph_records_unchanged": true,
+    "jue_bitmap_unchanged": true,
+    "texture_geometry_unchanged": true,
+    "outer_roundtrip": true
+  }
+}

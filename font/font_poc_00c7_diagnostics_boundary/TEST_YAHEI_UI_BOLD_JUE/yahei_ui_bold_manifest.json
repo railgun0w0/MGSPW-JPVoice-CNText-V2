@@ -1,0 +1,425 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "control_D": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\CANDIDATE_D\\00c7c9f9.xpr",
+    "encrypted_sha256": "a9b4e5e857beb61f0ca493103ba69af33cb5061d441f98e546d18a0a74a3d4bc",
+    "runtime_status": "PASS"
+  },
+  "font_metadata": {
+    "file": "C:\\Windows\\Fonts\\msyhbd.ttc",
+    "face_index": 1,
+    "family": [
+      "Microsoft YaHei UI"
+    ],
+    "style": [
+      "Bold",
+      "Fet",
+      "Fett",
+      "Félkövér",
+      "Gras",
+      "Grassetto",
+      "Halvfet",
+      "Kalın",
+      "Krepko",
+      "Lihavoitu",
+      "Lodia",
+      "Negreta",
+      "Negrita",
+      "Negrito",
+      "Pogrubiony",
+      "Tučné",
+      "Vet",
+      "fed",
+      "tučné",
+      "Έντονα",
+      "Полужирный"
+    ],
+    "full_name": [
+      "Microsoft YaHei UI Bold",
+      "Microsoft YaHei UI Fet",
+      "Microsoft YaHei UI Fett",
+      "Microsoft YaHei UI Félkövér",
+      "Microsoft YaHei UI Gras",
+      "Microsoft YaHei UI Grassetto",
+      "Microsoft YaHei UI Halvfet",
+      "Microsoft YaHei UI Kalın",
+      "Microsoft YaHei UI Krepko",
+      "Microsoft YaHei UI Lihavoitu",
+      "Microsoft YaHei UI Lodia",
+      "Microsoft YaHei UI Negreta",
+      "Microsoft YaHei UI Negrita",
+      "Microsoft YaHei UI Negrito",
+      "Microsoft YaHei UI Pogrubiony",
+      "Microsoft YaHei UI Tučné",
+      "Microsoft YaHei UI Vet",
+      "Microsoft YaHei UI fed",
+      "Microsoft YaHei UI tučné",
+      "Microsoft YaHei UI Έντονα",
+      "Microsoft YaHei UI Полужирный",
+      "Microsoft Yahei UI Bold"
+    ],
+    "postscript_name": [
+      "MicrosoftYaHeiUI-Bold"
+    ]
+  },
+  "candidate": {
+    "font_file": "C:\\Windows\\Fonts\\msyhbd.ttc",
+    "font_face_index": 1,
+    "actual_family": [
+      "Microsoft YaHei UI"
+    ],
+    "actual_style": [
+      "Bold",
+      "Fet",
+      "Fett",
+      "Félkövér",
+      "Gras",
+      "Grassetto",
+      "Halvfet",
+      "Kalın",
+      "Krepko",
+      "Lihavoitu",
+      "Lodia",
+      "Negreta",
+      "Negrita",
+      "Negrito",
+      "Pogrubiony",
+      "Tučné",
+      "Vet",
+      "fed",
+      "tučné",
+      "Έντονα",
+      "Полужирный"
+    ],
+    "font_size_px": 55,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_x": 1,
+    "baseline_y": 52,
+    "font_bbox_at_origin": [
+      0,
+      -44,
+      55,
+      7
+    ],
+    "bbox": [
+      1,
+      8,
+      56,
+      59
+    ],
+    "rasterizer": "Pillow 9.0.1 FreeTypeFont/ImageDraw, layout_engine=BASIC",
+    "hinting_mode": "Pillow default FreeType load flags; hinting not explicitly disabled",
+    "antialias_mode": "8-bit L-mode grayscale antialiasing",
+    "grayscale_mapping": "direct 0..255 L-mode; zero background, nonzero ink",
+    "bitmap": {
+      "bbox": [
+        1,
+        8,
+        56,
+        59
+      ],
+      "coverage_percent": 50.335,
+      "nonzero_grayscale_mean": 217.133,
+      "nonzero_pixel_count": 1956,
+      "left_padding": 1,
+      "right_padding": 2,
+      "top_padding": 8,
+      "bottom_padding": 8,
+      "baseline_ink_bottom": 59,
+      "sha256": "77a4f88fd15f8d7a1ad0791e02fad33a8def552228574c6a6e63b3ccb2972edc"
+    },
+    "search_score": 9.8761
+  },
+  "target": {
+    "character": "厥",
+    "codepoint": "U+53A5",
+    "glyph_index": 3209,
+    "rectangle": [
+      0,
+      3333,
+      58,
+      3400
+    ],
+    "record_raw_hex": "00000d05003a0d480004003a003e0000",
+    "metrics_unchanged": true
+  },
+  "reference_glyphs": [
+    {
+      "character": "昏",
+      "codepoint": "U+660F",
+      "glyph_index": 1751,
+      "record_raw_hex": "00bd06e900f7072c0004003a003e0000",
+      "rectangle": [
+        189,
+        1769,
+        247,
+        1836
+      ],
+      "bitmap": {
+        "bbox": [
+          5,
+          7,
+          53,
+          59
+        ],
+        "coverage_percent": 48.636,
+        "nonzero_grayscale_mean": 181.555,
+        "nonzero_pixel_count": 1890,
+        "left_padding": 5,
+        "right_padding": 5,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167"
+      }
+    },
+    {
+      "character": "眩",
+      "codepoint": "U+7729",
+      "glyph_index": 2254,
+      "record_raw_hex": "0c8d08c50cc709080004003a003e0000",
+      "rectangle": [
+        3213,
+        2245,
+        3271,
+        2312
+      ],
+      "bitmap": {
+        "bbox": [
+          3,
+          6,
+          54,
+          58
+        ],
+        "coverage_percent": 50.077,
+        "nonzero_grayscale_mean": 178.03,
+        "nonzero_pixel_count": 1946,
+        "left_padding": 3,
+        "right_padding": 4,
+        "top_padding": 6,
+        "bottom_padding": 9,
+        "baseline_ink_bottom": 58,
+        "sha256": "958baa00bd3b51cbcc651f69721e57dab48c804baa589a7383fd373d138116b9"
+      }
+    },
+    {
+      "character": "晕",
+      "codepoint": "U+6655",
+      "glyph_index": 1764,
+      "record_raw_hex": "03f006e9042a072c0004003a003e0000",
+      "rectangle": [
+        1008,
+        1769,
+        1066,
+        1836
+      ],
+      "bitmap": {
+        "bbox": [
+          4,
+          8,
+          53,
+          58
+        ],
+        "coverage_percent": 46.5,
+        "nonzero_grayscale_mean": 194.145,
+        "nonzero_pixel_count": 1807,
+        "left_padding": 4,
+        "right_padding": 5,
+        "top_padding": 8,
+        "bottom_padding": 9,
+        "baseline_ink_bottom": 58,
+        "sha256": "eab3c7b2d9e158dc9c8f435449ca102c04200e48d51133d9067b7196dc7ae2d0"
+      }
+    },
+    {
+      "character": "棒",
+      "codepoint": "U+68D2",
+      "glyph_index": 1865,
+      "record_raw_hex": "0ccc072d0d0607700004003a003e0000",
+      "rectangle": [
+        3276,
+        1837,
+        3334,
+        1904
+      ],
+      "bitmap": {
+        "bbox": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "coverage_percent": 50.18,
+        "nonzero_grayscale_mean": 181.059,
+        "nonzero_pixel_count": 1950,
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "1f9fa218f1f83ea517fc631219fb60c6db70c28b8ef00333da54c2bafa0b9294"
+      }
+    },
+    {
+      "character": "器",
+      "codepoint": "U+5668",
+      "glyph_index": 367,
+      "record_raw_hex": "0dcd00cd0e0701100004003a003e0000",
+      "rectangle": [
+        3533,
+        205,
+        3591,
+        272
+      ],
+      "bitmap": {
+        "bbox": [
+          2,
+          9,
+          55,
+          59
+        ],
+        "coverage_percent": 53.448,
+        "nonzero_grayscale_mean": 185.293,
+        "nonzero_pixel_count": 2077,
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 9,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "0ba33c69a4e022971c24e17ccdc4a1dbe2e69093b309462866c4e59f2310ea38"
+      }
+    },
+    {
+      "character": "厢",
+      "codepoint": "U+53A2",
+      "glyph_index": 966,
+      "record_raw_hex": "0f8103750fbb03b80004003a003e0000",
+      "rectangle": [
+        3969,
+        885,
+        4027,
+        952
+      ],
+      "bitmap": {
+        "bbox": [
+          3,
+          9,
+          55,
+          59
+        ],
+        "coverage_percent": 54.735,
+        "nonzero_grayscale_mean": 181.244,
+        "nonzero_pixel_count": 2127,
+        "left_padding": 3,
+        "right_padding": 3,
+        "top_padding": 9,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "436a84aa1eb18d78c30bbe2523896491f45e72ace6c73d5577c0b0dc71dc2798"
+      }
+    },
+    {
+      "character": "厌",
+      "codepoint": "U+538C",
+      "glyph_index": 961,
+      "record_raw_hex": "0e4603750e8003b80004003a003e0000",
+      "rectangle": [
+        3654,
+        885,
+        3712,
+        952
+      ],
+      "bitmap": {
+        "bbox": [
+          2,
+          10,
+          55,
+          59
+        ],
+        "coverage_percent": 42.434,
+        "nonzero_grayscale_mean": 181.056,
+        "nonzero_pixel_count": 1649,
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 10,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "750ff24b8062f5f5a8434bbc80f26f4aeceb28120c6762bde0ed9dce10fc47bc"
+      }
+    },
+    {
+      "character": "决",
+      "codepoint": "U+51B3",
+      "glyph_index": 846,
+      "record_raw_hex": "01f80331023203740004003a003e0000",
+      "rectangle": [
+        504,
+        817,
+        562,
+        884
+      ],
+      "bitmap": {
+        "bbox": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "coverage_percent": 40.453,
+        "nonzero_grayscale_mean": 173.129,
+        "nonzero_pixel_count": 1572,
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "sha256": "0a171b269d0bc7d4393f70e885f683d93e1d8092b23b4e0aadb72d32fcab260a"
+      }
+    },
+    {
+      "character": "卷",
+      "codepoint": "U+5377",
+      "glyph_index": 954,
+      "record_raw_hex": "0c8d03750cc703b80004003a003e0000",
+      "rectangle": [
+        3213,
+        885,
+        3271,
+        952
+      ],
+      "bitmap": {
+        "bbox": [
+          2,
+          6,
+          55,
+          58
+        ],
+        "coverage_percent": 49.717,
+        "nonzero_grayscale_mean": 175.6,
+        "nonzero_pixel_count": 1932,
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 6,
+        "bottom_padding": 9,
+        "baseline_ink_bottom": 58,
+        "sha256": "eb50efd5f258f545f8c299a4e17371081cabe106a39c8ac055f2aa7df55edfc7"
+      }
+    }
+  ],
+  "runtime_status": {
+    "CONTROL_D": "PASS",
+    "YAHEI_UI_BOLD": "CRASH_USER_REPORTED",
+    "decision": "REJECT_YAHEI_UI_BOLD_KEEP_D"
+  },
+  "output": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_YAHEI_UI_BOLD_JUE\\CANDIDATE_YAHEI_UI_BOLD\\00c7c9f9.xpr",
+    "encrypted_sha256": "353b6313fd60e395e25d00d723510371e3cb11c80ce2ce1a2f2a7a45266fe9e7",
+    "decrypted_sha256": "93cc069e0be928b490a589a3d8b0412a5d61b266e68b3ee2e24a5b4897bd6ab7",
+    "static_validation": "PASS",
+    "atlas_changed_byte_count": 1067,
+    "atlas_changed_outside_target": 0,
+    "parser_errors": []
+  }
+}

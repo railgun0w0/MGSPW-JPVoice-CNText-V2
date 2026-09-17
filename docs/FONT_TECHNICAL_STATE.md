@@ -105,7 +105,7 @@ JPN_CN/000ebbe8.xpr == MLG_CN-000E byte-for-byte
 JPN_CN/00c7c9f9.xpr == MLG_CN-0007 plaintext re-encrypted with the 00c7 seed
 ```
 
-相关证据（`LOCAL-ONLY`，当前未纳入 Git）：`font/analysis/FONT_THREEWAY_CENSUS.md`、`font/analysis/FONT_SIX_UNIQUE_CHARMAP.csv`。历史 copy/rekey provenance 另见已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md)。
+相关证据位于 `font/analysis/FONT_THREEWAY_CENSUS.md`、`font/analysis/FONT_SIX_UNIQUE_CHARMAP.csv`。历史 copy/rekey provenance 另见已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md)。
 
 ## 3. 主字体 00c7 append 技术
 
@@ -152,7 +152,7 @@ big-endian u32
 
 这不是原先误判的 alignment padding。单字 append 已证明：在 patched MLG_CN0007-derived/rekeyed 00c7 baseline 上，旧 glyph index、旧 GlyphRecord、旧 charmap entry 和旧 atlas 像素可以保持不变，新增 record、count mirror、USER size、charmap entry 和新 slot 可以被 runtime 接受。该结果不能直接升级为 clean JPN00c7 `2309→2310` 的 append-only 结构证明；另有 Phase 2A clean-JPN full-rebuild fixture 已通过真实运行验证，但其证明范围不包含该 append-only 语义。
 
-相关证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`、`TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md`、`TEST3B_NEW_ATLAS_WITH_COUNT/FONT_00C7_TEST3B_NEW_ATLAS_WITH_COUNT.md`、`TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md`。
+相关证据位于 `font/font_poc_00c7_diagnostics_boundary/`；这些是实验/回归资产，不属于 production 结论入口。
 
 ## 4. Generated glyph 与风格实验
 
@@ -167,7 +167,7 @@ YAHEI_CRASH = NOT_REPRODUCIBLE
 FINAL_GLYPH_SOURCE_POLICY = SELF_OWNED_REBUILD_DECIDED
 ```
 
-相关证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font_poc_00c7_diagnostics_boundary/TEST_REAL_GLYPH_JUE_STYLE_TUNING/FONT_GLYPH_STYLE_TUNING.md`、同目录 `glyph_generation_profile_v1.json`、`TEST_YAHEI_UI_BOLD_JUE/YAHEI_UI_BOLD_JUE_TEST.md`、`TEST_YAHEI_UI_BOLD_JUE/YAHEI_CRASH_DIFF_AUDIT.md`。
+相关证据位于 `font/font_poc_00c7_diagnostics_boundary/`，包括 `TEST_REAL_GLYPH_JUE_STYLE_TUNING/` 与 `TEST_YAHEI_UI_BOLD_JUE/`；这些是实验/回归资产，不属于 production 结论入口。
 
 ## 5. JPN donor 与 generated glyph
 
@@ -213,7 +213,7 @@ LOADING_GLYPH_REPLACEMENT = RUNTIME_CONFIRMED
 
 历史收敛：旧文档曾将 `LOADING_FONT_PATH` 标为 `UNRESOLVED`，并使用 charmap coverage / selector 进行定位；该结论已被 `001c` own-TX2D runtime 替换实验取代，但旧报告保留供追溯。
 
-相关证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font/analysis/LOADING_SMALL_JPN_STATUS.md`、`font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md`、`font/analysis/SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md`、`small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`、`small_jpn_men_append_poc/small_jpn_men_manifest.json`。
+相关证据位于 `font/analysis/`、`font/small_jpn_runtime_atlas_selector_poc/` 和 `font/small_jpn_men_append_poc/`；这些仍是实验/回归资产。
 
 ## 7. Main 与 Loading/SMALL 必须分开
 

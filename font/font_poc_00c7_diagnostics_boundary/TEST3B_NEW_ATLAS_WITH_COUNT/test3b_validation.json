@@ -1,0 +1,111 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "golden": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN_CN\\00c7c9f9.xpr",
+    "encrypted_sha256": "bf1d2f6d9727a71c734e69b2f6406503818e4c5b21a7f548fbc80d9deec9b793",
+    "decrypted_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+    "atlas_sha256": "21e59f6cd1ad0d2aaa6bfd3de6d6831a32077dfa03e0574b63d0047c17955445"
+  },
+  "output": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST3B_NEW_ATLAS_WITH_COUNT\\00c7c9f9.xpr",
+    "encrypted_sha256": "b133fdd122ef150f40ee04cb624a38568c1a239ab8ccddf64844f488dcd0f1d9",
+    "decrypted_sha256": "ab6ce7abfc419421c2dd39371304c9848b0026a59f97335add6076878f7cf343",
+    "filename_seed": "0x3AF33BE1",
+    "glyph_count": 3210,
+    "mapped_count": 3209,
+    "user_size": 182136,
+    "atlas_sha256": "95dfdcc326f0271a99815bf2ec41f14ee5dba844214237db19b98c636c696e1c"
+  },
+  "donor": {
+    "character": "昏",
+    "codepoint": "U+660F",
+    "glyph_index": 1751,
+    "record_raw_hex": "00bd06e900f7072c0004003a003e0000",
+    "record": {
+      "u0": 189,
+      "v0": 1769,
+      "u1": 247,
+      "v1": 1836,
+      "bearing_x": 4,
+      "width": 58,
+      "advance": 62,
+      "reserved": 0
+    },
+    "rectangle": [
+      189,
+      1769,
+      247,
+      1836
+    ],
+    "bitmap": {
+      "width": 58,
+      "height": 67,
+      "nonzero_pixel_count": 1890,
+      "ink_bbox_exclusive": [
+        5,
+        7,
+        53,
+        59
+      ],
+      "sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167"
+    }
+  },
+  "target": {
+    "character": "厥",
+    "codepoint": "U+53A5",
+    "glyph_index": 3209,
+    "record_raw_hex": "00000d05003a0d480004003a003e0000",
+    "record": {
+      "u0": 0,
+      "v0": 3333,
+      "u1": 58,
+      "v1": 3400,
+      "bearing_x": 4,
+      "width": 58,
+      "advance": 62,
+      "reserved": 0
+    },
+    "rectangle": [
+      0,
+      3333,
+      58,
+      3400
+    ]
+  },
+  "count_mirror": {
+    "file_offset": "0x1FF64",
+    "before_hex": "00000c89",
+    "after_hex": "00000c8a",
+    "before_be_u32": 3209,
+    "after_be_u32": 3210
+  },
+  "atlas": {
+    "format": 2,
+    "tiled": 0,
+    "endian": 0,
+    "pitch": 4096,
+    "destination_rect": [
+      0,
+      3333,
+      58,
+      3400
+    ],
+    "destination_before_sha256": "743ca3180ae984dc6034905cd4e5bb95f6c78b3af240cd1e72f58dae1b915bb9",
+    "donor_bitmap_sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167",
+    "result_destination_sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167",
+    "changed_byte_count": 1890,
+    "changed_outside_destination_count": 0
+  },
+  "assertions": {
+    "readback_roundtrip": true,
+    "old_records_unchanged": true,
+    "old_mappings_unchanged_except_target": true,
+    "target_mapping": 3209,
+    "target_record_points_to_new_slot": true,
+    "target_record_metrics_equal_donor": true,
+    "target_bitmap_pixel_identical_to_donor": true,
+    "atlas_changes_only_in_destination": true,
+    "parser_errors": []
+  }
+}

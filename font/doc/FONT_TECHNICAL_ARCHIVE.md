@@ -44,7 +44,7 @@ JPN001C_4096x4096_UNSUPPORTED = RETRACTED
 
 不得再描述为“clean JPN 有四套字体”。`0007/000e` 属于 MLG/reference lane；`00c7/001c` 才是 JPN runtime native font path。仓库把多 lane 文件集中在 `font/` 下是为比较和 provenance 分析，不改变官方拓扑。
 
-主要证据：已入库的 [`FONT_SOURCE_TOPOLOGY.md`](../analysis/FONT_SOURCE_TOPOLOGY.md)；`LOCAL-ONLY` 的 `font/analysis/FONT_THREEWAY_CENSUS.md`（当前未纳入 Git）。
+主要证据：已入库的 [`FONT_SOURCE_TOPOLOGY.md`](../analysis/FONT_SOURCE_TOPOLOGY.md) 与 `font/analysis/FONT_THREEWAY_CENSUS.md`。
 
 ## 3. OuterCrypt / pure rekey — `PROVEN`
 
@@ -113,7 +113,7 @@ Confirmed mapping examples:
 
 Record `0` is unmapped by the forward charmap but contains nonzero fallback pixels; it is not a safe free glyph slot.
 
-主要证据（均为 `LOCAL-ONLY`，当前未纳入 Git）：`font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md`、`font/analysis/SMALL_JPN_APPEND_RECORD_LAYOUT.md`、`small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`。
+主要证据：`font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md`、`font/analysis/SMALL_JPN_APPEND_RECORD_LAYOUT.md`、`font/small_jpn_runtime_atlas_selector_poc/SMALL_JPN_RUNTIME_ATLAS_SELECTOR_TEST.md`。
 
 ## 5. The 2 MiB crash investigation: evidence chain
 
@@ -371,7 +371,7 @@ because clean JPN001c has no mapped `z`; no profile change is made here.
 - Clean JPN00c7 append-only `2309→2310` semantics and relocation behavior beyond the Phase 2A full rebuild remain `UNKNOWN`.
 - The exact future release font among the open-source candidates is `UNKNOWN`.
 
-主要证据：已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../analysis/FONT_V2_CODE_ARCHAEOLOGY.md)；`LOCAL-ONLY` 的 `font_poc_00c7_diagnostics_boundary/FONT_GLYPH_INDEX_BOUNDARY_AUDIT.md`、`TEST2B_COUNT_PATCH/FONT_00C7_TEST2B_COUNT_PATCH.md`、`TEST3B_NEW_ATLAS_WITH_COUNT/FONT_00C7_TEST3B_NEW_ATLAS_WITH_COUNT.md` 与 `TEST_REAL_GLYPH_JUE/FONT_REAL_GLYPH_JUE.md`。
+主要证据：已入库的 [`FONT_V2_CODE_ARCHAEOLOGY.md`](../analysis/FONT_V2_CODE_ARCHAEOLOGY.md)；实验资产位于 `font/font_poc_00c7_diagnostics_boundary/`。
 
 ## 10. Retired / retracted hypotheses
 
@@ -448,15 +448,15 @@ No item listed below is deleted by this archive pass. `SAFE TO ARCHIVE` means it
 |---|---|---|
 | `font/analysis/FONT_SOURCE_TOPOLOGY.md` | `KEEP` | Official selector/lane topology. |
 | `font/analysis/FONT_V2_CODE_ARCHAEOLOGY.md` | `KEEP` | Historical working 00c7 copy/rekey route. |
-| `font/analysis/FONT_THREEWAY_CENSUS.md` and census CSVs | `KEEP · LOCAL-ONLY` | Structural and charset inventory; not currently tracked. |
-| `font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md` | `KEEP · LOCAL-ONLY` | Clean 001c structure and mappings; not currently tracked. |
-| `small_jpn_runtime_atlas_selector_poc/` | `KEEP · LOCAL-ONLY` | Runtime proof that Loading uses 001c own TX2D; not currently tracked. |
-| `small_jpn_men_append_poc/` | `REFERENCE ONLY · LOCAL-ONLY` | One-glyph native append technique; superseded as capacity solution by full 4096 path. |
-| `font_poc_00c7_diagnostics_boundary/` | `KEEP · LOCAL-ONLY` | Patched MLG_CN0007-derived 00c7 count, new-atlas, real-glyph and style PoCs; not clean JPN00c7 provenance. |
-| `font_poc_00c7_diagnostics/` | `REFERENCE ONLY · LOCAL-ONLY` | Earlier patched-baseline diagnostics, including failures later explained by count semantics. |
-| `core/xpr_font.py`, `tests/test_xpr_font.py` | `KEEP · LOCAL-ONLY` | Current parser/rebuild and tests; not yet a production builder guarantee and not currently tracked. |
-| `tools/Build-FontXprV2.py` | `REFERENCE ONLY · LOCAL-ONLY` | Experimental selector-aware builder; current full self-owned production builder remains not productionized. |
-| font coverage/corpus CSVs under `font/analysis/` | `KEEP · LOCAL-ONLY` | Charset census inputs for the next builder phase; not currently tracked. |
+| `font/analysis/FONT_THREEWAY_CENSUS.md` and census CSVs | `KEEP` | Structural and charset inventory. |
+| `font/analysis/SMALL_JPN_FONT_PAIR_ANALYSIS.md` | `KEEP` | Clean 001c structure and mappings. |
+| `font/small_jpn_runtime_atlas_selector_poc/` | `KEEP · EXPERIMENTAL` | Runtime proof that Loading uses 001c own TX2D. |
+| `font/small_jpn_men_append_poc/` | `REFERENCE ONLY · EXPERIMENTAL` | One-glyph native append technique; superseded as capacity solution by full 4096 path. |
+| `font/font_poc_00c7_diagnostics_boundary/` | `KEEP · EXPERIMENTAL` | Patched MLG_CN0007-derived 00c7 count, new-atlas, real-glyph and style PoCs; not clean JPN00c7 provenance. |
+| `font/font_poc_00c7_diagnostics/` | `REFERENCE ONLY · EXPERIMENTAL` | Earlier patched-baseline diagnostics, including failures later explained by count semantics. |
+| `core/xpr_font.py`, `tests/test_xpr_font.py` | `KEEP` | Current parser/rebuild and tests; not yet a production builder guarantee. |
+| `tools/Build-FontXprV2.py` | `REFERENCE ONLY` | Experimental selector-aware builder; current full self-owned production builder remains not productionized. |
+| font coverage/corpus CSVs under `font/analysis/` | `KEEP` | Charset census inputs for the next builder phase. |
 
 ### Historical build scripts
 

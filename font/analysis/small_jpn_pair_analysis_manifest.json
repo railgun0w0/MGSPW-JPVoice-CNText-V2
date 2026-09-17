@@ -1,0 +1,151 @@
+{
+  "outputs": [
+    "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\analysis\\SMALL_JPN_FONT_PAIR_ANALYSIS.md",
+    "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\analysis\\small_jpn_codepoint_glyph_map.csv",
+    "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\analysis\\small_jpn_free_slots.csv",
+    "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\analysis\\SMALL_JPN_ONE_GLYPH_PATCH_PLAN.md"
+  ],
+  "unmapped_records": [
+    0
+  ],
+  "summaries": {
+    "SMALL_JPN_DATA_001C": {
+      "label": "SMALL_JPN_DATA_001C",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN\\001cbbd1.xpr",
+      "encrypted_size": 2234396,
+      "encrypted_sha256": "5625066b835e6f26f310781fbbd3ef4f9ea93a77be2a4044289c11b74a767414",
+      "decrypted_size": 2234396,
+      "decrypted_sha256": "f4fdb335a56f81bee4e4a13be71f5518827ebcf42fbfa86d30d2f1de3c6dd025",
+      "header_size": 137232,
+      "data_size": 2097152,
+      "resource_count": 2,
+      "texture_data_offset": 137244,
+      "user_offset": 144,
+      "user_size": 136394,
+      "tx2d_offset": 92,
+      "tx2d_size": 52,
+      "last_code": 65311,
+      "mapped_count": 358,
+      "record_count": 359,
+      "record_offset_rel": 130650,
+      "record_prefix_hex": "0167",
+      "texture": {
+        "width": 2048,
+        "height": 1024,
+        "pitch": 2048,
+        "format": 2,
+        "tiled": 0,
+        "endian": 0
+      }
+    },
+    "SMALL_JPN_TEXTURE_00C7": {
+      "label": "SMALL_JPN_TEXTURE_00C7",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\JPN\\00c7c9f9.xpr",
+      "encrypted_size": 16945180,
+      "encrypted_sha256": "1f7a18f28d0d67d7a6a65a5286a1e48c97d595829b4c99325fb2b5772b921e8d",
+      "decrypted_size": 16945180,
+      "decrypted_sha256": "31b8eb9a7c86b1429fb7fa0d12688c65c9123e307c5f0e8c42f1df67a7cd9e6b",
+      "header_size": 167952,
+      "data_size": 16777216,
+      "resource_count": 2,
+      "texture_data_offset": 167964,
+      "user_offset": 144,
+      "user_size": 167730,
+      "tx2d_offset": 92,
+      "tx2d_size": 52,
+      "last_code": 65379,
+      "mapped_count": 2308,
+      "record_count": 2309,
+      "record_offset_rel": 130786,
+      "record_prefix_hex": "0905",
+      "texture": {
+        "width": 4096,
+        "height": 4096,
+        "pitch": 4096,
+        "format": 2,
+        "tiled": 0,
+        "endian": 0
+      }
+    },
+    "MLG_CN_BIG_0007": {
+      "label": "MLG_CN_BIG_0007",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\MLG_CN\\0007ccd8.xpr",
+      "encrypted_size": 16959612,
+      "encrypted_sha256": "149668d9facf5491b0a8a2b93b87ef3ff3e290ac139e1404aad30aac25d8c73c",
+      "decrypted_size": 16959612,
+      "decrypted_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+      "header_size": 182384,
+      "data_size": 16777216,
+      "resource_count": 2,
+      "texture_data_offset": 182396,
+      "user_offset": 144,
+      "user_size": 182120,
+      "tx2d_offset": 92,
+      "tx2d_size": 52,
+      "last_code": 65374,
+      "mapped_count": 3208,
+      "record_count": 3209,
+      "record_offset_rel": 130776,
+      "record_prefix_hex": "",
+      "texture": {
+        "width": 4096,
+        "height": 4096,
+        "pitch": 4096,
+        "format": 2,
+        "tiled": 0,
+        "endian": 0
+      }
+    },
+    "MLG_CN_SMALL_000E": {
+      "label": "MLG_CN_SMALL_000E",
+      "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font\\MLG_CN\\000ebbe8.xpr",
+      "encrypted_size": 16959500,
+      "encrypted_sha256": "025fa6553ea4200f8f0fe4d9ccfe1ae9178f87c69e1bf87704aec84aae65fa80",
+      "decrypted_size": 16959500,
+      "decrypted_sha256": "d283efc593971187725ee18f60394a0fe053009c85b284e816e9e6d4ac119b86",
+      "header_size": 182272,
+      "data_size": 16777216,
+      "resource_count": 2,
+      "texture_data_offset": 182284,
+      "user_offset": 144,
+      "user_size": 181112,
+      "tx2d_offset": 92,
+      "tx2d_size": 52,
+      "last_code": 65374,
+      "mapped_count": 3145,
+      "record_count": 3146,
+      "record_offset_rel": 130776,
+      "record_prefix_hex": "",
+      "texture": {
+        "width": 4096,
+        "height": 4096,
+        "pitch": 4096,
+        "format": 2,
+        "tiled": 0,
+        "endian": 0
+      }
+    }
+  },
+  "targets": {
+    "中": {
+      "codepoint": "U+4E2D",
+      "small_jpn_index": 143
+    },
+    "们": {
+      "codepoint": "U+4EEC",
+      "small_jpn_index": 0
+    },
+    "陆": {
+      "codepoint": "U+9646",
+      "small_jpn_index": 0
+    },
+    "拘": {
+      "codepoint": "U+62D8",
+      "small_jpn_index": 0
+    },
+    "我": {
+      "codepoint": "U+6211",
+      "small_jpn_index": 239
+    }
+  }
+}

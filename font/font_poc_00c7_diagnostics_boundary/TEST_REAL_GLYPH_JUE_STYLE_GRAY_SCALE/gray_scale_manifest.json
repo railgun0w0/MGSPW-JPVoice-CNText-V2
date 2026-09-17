@@ -1,0 +1,139 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "source_D": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\CANDIDATE_D\\00c7c9f9.xpr",
+    "encrypted_sha256": "a9b4e5e857beb61f0ca493103ba69af33cb5061d441f98e546d18a0a74a3d4bc",
+    "decrypted_sha256": "48460635dd93b6670c548867f9ab8fd21897f8fc8643b5c58ed4488405f8434f",
+    "bitmap": {
+      "width": 58,
+      "height": 67,
+      "nonzero_pixel_count": 1852,
+      "coverage_percent": 47.658,
+      "nonzero_grayscale_mean": 215.07,
+      "bbox": [
+        2,
+        7,
+        56,
+        59
+      ],
+      "min_nonzero": 1,
+      "max_nonzero": 255,
+      "sha256": "3230446b844363c8b6bdb14bfea0689a616757386985677ea087c00d798b951e"
+    }
+  },
+  "target": {
+    "character": "厥",
+    "codepoint": "U+53A5",
+    "glyph_index": 3209,
+    "rectangle": [
+      0,
+      3333,
+      58,
+      3400
+    ],
+    "record_raw_hex": "00000d05003a0d480004003a003e0000",
+    "metrics_unchanged": true
+  },
+  "variants": [
+    {
+      "id": "D",
+      "description": "候选 D 原始灰度",
+      "gray_factor": 1.0,
+      "scaling": "unchanged source bitmap",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1852,
+        "coverage_percent": 47.658,
+        "nonzero_grayscale_mean": 215.07,
+        "bbox": [
+          2,
+          7,
+          56,
+          59
+        ],
+        "min_nonzero": 1,
+        "max_nonzero": 255,
+        "sha256": "3230446b844363c8b6bdb14bfea0689a616757386985677ea087c00d798b951e"
+      },
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_GRAY_SCALE\\D\\00c7c9f9.xpr",
+        "encrypted_sha256": "a9b4e5e857beb61f0ca493103ba69af33cb5061d441f98e546d18a0a74a3d4bc",
+        "decrypted_sha256": "48460635dd93b6670c548867f9ab8fd21897f8fc8643b5c58ed4488405f8434f",
+        "atlas_changed_byte_count_vs_D": 0,
+        "atlas_changed_outside_target_vs_D": 0,
+        "static_validation": "PASS"
+      }
+    },
+    {
+      "id": "E",
+      "description": "D 灰度线性乘 0.84",
+      "gray_factor": 0.84,
+      "scaling": "round(value*factor), clamp 0..255; original nonzero minimum 1",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1852,
+        "coverage_percent": 47.658,
+        "nonzero_grayscale_mean": 180.529,
+        "bbox": [
+          2,
+          7,
+          56,
+          59
+        ],
+        "min_nonzero": 1,
+        "max_nonzero": 214,
+        "sha256": "907870d4e043dd6999b32e7d7cf2572c8c26266dcc3516dfccd395d560723f15"
+      },
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_GRAY_SCALE\\E\\00c7c9f9.xpr",
+        "encrypted_sha256": "50c318d03c4949eebb557a8a13497205f96a05041b32b56ba0f16d36fd889758",
+        "decrypted_sha256": "59d59bcb104a664891b8e0aded1e5807eb8971cda5d69214745ecb979d1f3dcd",
+        "atlas_changed_byte_count_vs_D": 1826,
+        "atlas_changed_outside_target_vs_D": 0,
+        "static_validation": "PASS"
+      }
+    },
+    {
+      "id": "F",
+      "description": "D 灰度线性乘 0.90",
+      "gray_factor": 0.9,
+      "scaling": "round(value*factor), clamp 0..255; original nonzero minimum 1",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1852,
+        "coverage_percent": 47.658,
+        "nonzero_grayscale_mean": 193.904,
+        "bbox": [
+          2,
+          7,
+          56,
+          59
+        ],
+        "min_nonzero": 1,
+        "max_nonzero": 230,
+        "sha256": "e41f60e15a9cc033ee3eb3e5797585078a43069a05de2064af656d788521d6f8"
+      },
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_GRAY_SCALE\\F\\00c7c9f9.xpr",
+        "encrypted_sha256": "e20d9876829d83f7bd58039e10e98f63bf635ef1fced91162db9a00796610e6a",
+        "decrypted_sha256": "511cb39017edcf95d129681cd530859cf70a8856bc26f4a3ece144b0f94f8369",
+        "atlas_changed_byte_count_vs_D": 1824,
+        "atlas_changed_outside_target_vs_D": 0,
+        "static_validation": "PASS"
+      }
+    }
+  ],
+  "protection": {
+    "USER_unchanged": true,
+    "charmap_unchanged": true,
+    "glyph_count_unchanged": true,
+    "glyph_records_unchanged": true,
+    "XPR_descriptors_unchanged": true,
+    "atlas_changes_limited_to_target_slot": true
+  },
+  "preview": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_GRAY_SCALE\\glyph_jue_gray_scale_candidates.png"
+}

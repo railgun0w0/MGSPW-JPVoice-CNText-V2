@@ -1,0 +1,80 @@
+{
+  "errors": [],
+  "passed": true,
+  "old_glyph_records_byte_identical": true,
+  "old_charmap_entries_byte_identical_except_target": true,
+  "old_atlas_pixels_byte_identical_outside_target_slot": true,
+  "target_slot_nonzero": true,
+  "target_slot_sha256": "f7399f7c0e03d27f130b00ad0e60e4db86f1d80644206d77a557e7df91a38a4f",
+  "target_record": [
+    0,
+    3333,
+    58,
+    3400,
+    4,
+    58,
+    62,
+    0
+  ],
+  "target_mapping": 3209,
+  "glyph_count": 3210,
+  "mapped_codepoint_count": 3209,
+  "parser_errors": [],
+  "slot_flat_start": 13651968,
+  "output": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc\\POC_B_0007\\0007ccd8.xpr",
+  "output_filename": "0007ccd8.xpr",
+  "filename_seed": "0x3201D67",
+  "source_plain_sha256": "90ba15daced7bf7cb2b2d24731d0c99c049716f2101262510b2ae554d27157ff",
+  "output_encrypted_sha256": "c41a8b2e66f0801ddc3ce452cea100dbb23fc02bbe18cdf60c7b49e60a1764ab",
+  "output_plain_sha256": "3fb40b29e21304a66695998573f60bf1afd764b5e433b0a6bab40aa68bf9cb2a",
+  "output_encrypted_size": 16959612,
+  "output_plain_size": 16959612,
+  "source_user_size": 182120,
+  "result_user_size": 182136,
+  "source_texture_offset": 182396,
+  "result_texture_offset": 182396,
+  "original_target_map_entry_hex": "0000",
+  "raster": {
+    "character": "厥",
+    "codepoint": "U+53A5",
+    "font_path": "C:\\Windows\\Fonts\\Noto Sans SC (TrueType).otf",
+    "font_face_index": 0,
+    "font_size_px": 58,
+    "anchor": "ls",
+    "draw_x": 0,
+    "baseline_y": 53,
+    "font_bbox_at_origin": [
+      0,
+      -46,
+      58,
+      6
+    ],
+    "rendered_bbox_exclusive_in_cell": [
+      2,
+      7,
+      56,
+      59
+    ],
+    "nonzero_pixel_count": 1423,
+    "bitmap_sha256": "f7399f7c0e03d27f130b00ad0e60e4db86f1d80644206d77a557e7df91a38a4f",
+    "fill": 255,
+    "stroke_width": 0,
+    "antialias": "Pillow ImageDraw L-mode grayscale via FreeType"
+  },
+  "requested_record": [
+    0,
+    3333,
+    58,
+    3400,
+    4,
+    58,
+    62,
+    0
+  ],
+  "requested_atlas_slot": [
+    0,
+    3333,
+    58,
+    3400
+  ]
+}

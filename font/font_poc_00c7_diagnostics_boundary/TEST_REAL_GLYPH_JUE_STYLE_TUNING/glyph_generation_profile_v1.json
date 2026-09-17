@@ -1,0 +1,554 @@
+{
+  "status": "PASS",
+  "base": {
+    "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE\\00c7c9f9.xpr",
+    "encrypted_sha256": "c5b3db742e6dfc8ae0d8c4fc7f773f78b8eb8d8a1856635b7cad2cebe81f69e2",
+    "decrypted_sha256": "ea61d7eadbcf8f4bc7cf7eafe07fefb6dc498dc36561ecd1bdd269b7dd6c9ec5",
+    "runtime_status": "GENERATED_GLYPH_RUNTIME_PASS_CONFIRMED_BY_USER"
+  },
+  "target": {
+    "character": "厥",
+    "codepoint": "U+53A5",
+    "glyph_index": 3209,
+    "rectangle": [
+      0,
+      3333,
+      58,
+      3400
+    ],
+    "metrics_unchanged": true
+  },
+  "references": [
+    {
+      "character": "昏",
+      "codepoint": "U+660F",
+      "glyph_index": 1751,
+      "record_raw_hex": "00bd06e900f7072c0004003a003e0000",
+      "rectangle": [
+        189,
+        1769,
+        247,
+        1836
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1890,
+        "coverage_percent": 48.636,
+        "ink_bbox_exclusive": [
+          5,
+          7,
+          53,
+          59
+        ],
+        "left_padding": 5,
+        "right_padding": 5,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 181.555,
+        "p10_nonzero": 4,
+        "p50_nonzero": 251,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 64.233,
+        "sha256": "5a9e1499de669ec55a699988fc8ddd43a2a29ace252b4f2308e51e6f22728167"
+      },
+      "bbox_x0": 5,
+      "bbox_y0": 7,
+      "bbox_x1": 53,
+      "bbox_y1": 59,
+      "coverage": 48.636,
+      "mean_nonzero": 181.555
+    },
+    {
+      "character": "眩",
+      "codepoint": "U+7729",
+      "glyph_index": 2254,
+      "record_raw_hex": "0c8d08c50cc709080004003a003e0000",
+      "rectangle": [
+        3213,
+        2245,
+        3271,
+        2312
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1946,
+        "coverage_percent": 50.077,
+        "ink_bbox_exclusive": [
+          3,
+          6,
+          54,
+          58
+        ],
+        "left_padding": 3,
+        "right_padding": 4,
+        "top_padding": 6,
+        "bottom_padding": 9,
+        "baseline_ink_bottom": 58,
+        "mean_nonzero": 178.03,
+        "p10_nonzero": 3,
+        "p50_nonzero": 251,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 69.733,
+        "sha256": "958baa00bd3b51cbcc651f69721e57dab48c804baa589a7383fd373d138116b9"
+      },
+      "bbox_x0": 3,
+      "bbox_y0": 6,
+      "bbox_x1": 54,
+      "bbox_y1": 58,
+      "coverage": 50.077,
+      "mean_nonzero": 178.03
+    },
+    {
+      "character": "晕",
+      "codepoint": "U+6655",
+      "glyph_index": 1764,
+      "record_raw_hex": "03f006e9042a072c0004003a003e0000",
+      "rectangle": [
+        1008,
+        1769,
+        1066,
+        1836
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1807,
+        "coverage_percent": 46.5,
+        "ink_bbox_exclusive": [
+          4,
+          8,
+          53,
+          58
+        ],
+        "left_padding": 4,
+        "right_padding": 5,
+        "top_padding": 8,
+        "bottom_padding": 9,
+        "baseline_ink_bottom": 58,
+        "mean_nonzero": 194.145,
+        "p10_nonzero": 4,
+        "p50_nonzero": 249,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 64.084,
+        "sha256": "eab3c7b2d9e158dc9c8f435449ca102c04200e48d51133d9067b7196dc7ae2d0"
+      },
+      "bbox_x0": 4,
+      "bbox_y0": 8,
+      "bbox_x1": 53,
+      "bbox_y1": 58,
+      "coverage": 46.5,
+      "mean_nonzero": 194.145
+    },
+    {
+      "character": "棒",
+      "codepoint": "U+68D2",
+      "glyph_index": 1865,
+      "record_raw_hex": "0ccc072d0d0607700004003a003e0000",
+      "rectangle": [
+        3276,
+        1837,
+        3334,
+        1904
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1950,
+        "coverage_percent": 50.18,
+        "ink_bbox_exclusive": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 181.059,
+        "p10_nonzero": 4,
+        "p50_nonzero": 251,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 67.333,
+        "sha256": "1f9fa218f1f83ea517fc631219fb60c6db70c28b8ef00333da54c2bafa0b9294"
+      },
+      "bbox_x0": 2,
+      "bbox_y0": 7,
+      "bbox_x1": 55,
+      "bbox_y1": 59,
+      "coverage": 50.18,
+      "mean_nonzero": 181.059
+    },
+    {
+      "character": "器",
+      "codepoint": "U+5668",
+      "glyph_index": 367,
+      "record_raw_hex": "0dcd00cd0e0701100004003a003e0000",
+      "rectangle": [
+        3533,
+        205,
+        3591,
+        272
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 2077,
+        "coverage_percent": 53.448,
+        "ink_bbox_exclusive": [
+          2,
+          9,
+          55,
+          59
+        ],
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 9,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 185.293,
+        "p10_nonzero": 4,
+        "p50_nonzero": 252,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 63.649,
+        "sha256": "0ba33c69a4e022971c24e17ccdc4a1dbe2e69093b309462866c4e59f2310ea38"
+      },
+      "bbox_x0": 2,
+      "bbox_y0": 9,
+      "bbox_x1": 55,
+      "bbox_y1": 59,
+      "coverage": 53.448,
+      "mean_nonzero": 185.293
+    },
+    {
+      "character": "厢",
+      "codepoint": "U+53A2",
+      "glyph_index": 966,
+      "record_raw_hex": "0f8103750fbb03b80004003a003e0000",
+      "rectangle": [
+        3969,
+        885,
+        4027,
+        952
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 2127,
+        "coverage_percent": 54.735,
+        "ink_bbox_exclusive": [
+          3,
+          9,
+          55,
+          59
+        ],
+        "left_padding": 3,
+        "right_padding": 3,
+        "top_padding": 9,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 181.244,
+        "p10_nonzero": 4,
+        "p50_nonzero": 252,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 63.47,
+        "sha256": "436a84aa1eb18d78c30bbe2523896491f45e72ace6c73d5577c0b0dc71dc2798"
+      },
+      "bbox_x0": 3,
+      "bbox_y0": 9,
+      "bbox_x1": 55,
+      "bbox_y1": 59,
+      "coverage": 54.735,
+      "mean_nonzero": 181.244
+    },
+    {
+      "character": "厌",
+      "codepoint": "U+538C",
+      "glyph_index": 961,
+      "record_raw_hex": "0e4603750e8003b80004003a003e0000",
+      "rectangle": [
+        3654,
+        885,
+        3712,
+        952
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1649,
+        "coverage_percent": 42.434,
+        "ink_bbox_exclusive": [
+          2,
+          10,
+          55,
+          59
+        ],
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 10,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 181.056,
+        "p10_nonzero": 3,
+        "p50_nonzero": 252,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 66.707,
+        "sha256": "750ff24b8062f5f5a8434bbc80f26f4aeceb28120c6762bde0ed9dce10fc47bc"
+      },
+      "bbox_x0": 2,
+      "bbox_y0": 10,
+      "bbox_x1": 55,
+      "bbox_y1": 59,
+      "coverage": 42.434,
+      "mean_nonzero": 181.056
+    },
+    {
+      "character": "决",
+      "codepoint": "U+51B3",
+      "glyph_index": 846,
+      "record_raw_hex": "01f80331023203740004003a003e0000",
+      "rectangle": [
+        504,
+        817,
+        562,
+        884
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1572,
+        "coverage_percent": 40.453,
+        "ink_bbox_exclusive": [
+          2,
+          7,
+          55,
+          59
+        ],
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 173.129,
+        "p10_nonzero": 3,
+        "p50_nonzero": 251,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 65.903,
+        "sha256": "0a171b269d0bc7d4393f70e885f683d93e1d8092b23b4e0aadb72d32fcab260a"
+      },
+      "bbox_x0": 2,
+      "bbox_y0": 7,
+      "bbox_x1": 55,
+      "bbox_y1": 59,
+      "coverage": 40.453,
+      "mean_nonzero": 173.129
+    },
+    {
+      "character": "卷",
+      "codepoint": "U+5377",
+      "glyph_index": 954,
+      "record_raw_hex": "0c8d03750cc703b80004003a003e0000",
+      "rectangle": [
+        3213,
+        885,
+        3271,
+        952
+      ],
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1932,
+        "coverage_percent": 49.717,
+        "ink_bbox_exclusive": [
+          2,
+          6,
+          55,
+          58
+        ],
+        "left_padding": 2,
+        "right_padding": 3,
+        "top_padding": 6,
+        "bottom_padding": 9,
+        "baseline_ink_bottom": 58,
+        "mean_nonzero": 175.6,
+        "p10_nonzero": 4,
+        "p50_nonzero": 252,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 64.752,
+        "sha256": "eb50efd5f258f545f8c299a4e17371081cabe106a39c8ac055f2aa7df55edfc7"
+      },
+      "bbox_x0": 2,
+      "bbox_y0": 6,
+      "bbox_x1": 55,
+      "bbox_y1": 58,
+      "coverage": 49.717,
+      "mean_nonzero": 175.6
+    }
+  ],
+  "candidates": [
+    {
+      "id": "A",
+      "description": "当前成功版本：Medium 58px，原始灰度，不 embolden。",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1646,
+        "coverage_percent": 42.357,
+        "ink_bbox_exclusive": [
+          2,
+          6,
+          56,
+          59
+        ],
+        "left_padding": 2,
+        "right_padding": 2,
+        "top_padding": 6,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 210.069,
+        "p10_nonzero": 70,
+        "p50_nonzero": 255,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 36.33,
+        "sha256": "b58e98da008775a42a2be9e675cdf4f808407f687a324513d7e1b6d063d2467d"
+      },
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\CANDIDATE_A\\00c7c9f9.xpr",
+        "encrypted_sha256": "c5b3db742e6dfc8ae0d8c4fc7f773f78b8eb8d8a1856635b7cad2cebe81f69e2",
+        "decrypted_sha256": "ea61d7eadbcf8f4bc7cf7eafe07fefb6dc498dc36561ecd1bdd269b7dd6c9ec5",
+        "static_validation": "PASS",
+        "atlas_changed_byte_count": 0,
+        "atlas_changed_outside_count": 0
+      },
+      "style_similarity_score": 5.0111
+    },
+    {
+      "id": "B",
+      "description": "Medium 58px + 1px MaxFilter 加粗；笔画更重。",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 2310,
+        "coverage_percent": 59.444,
+        "ink_bbox_exclusive": [
+          1,
+          4,
+          57,
+          59
+        ],
+        "left_padding": 1,
+        "right_padding": 1,
+        "top_padding": 4,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 227.045,
+        "p10_nonzero": 131,
+        "p50_nonzero": 255,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 24.113,
+        "sha256": "6be863ead2b8b12ce4d1fafa00cddd816748250fbae08c6c6054c5bb186b2199"
+      },
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\CANDIDATE_B\\00c7c9f9.xpr",
+        "encrypted_sha256": "3ac7119e5d47b57c6152677730bf22c7edca5f4b92eb05a466bbf3e9f09cd9ee",
+        "decrypted_sha256": "0dd7dd43b97c9287a115576b0c8c20e372ee7596aabae085ef10ee048fff941c",
+        "static_validation": "PASS",
+        "atlas_changed_byte_count": 1245,
+        "atlas_changed_outside_count": 0
+      },
+      "style_similarity_score": 10.0942
+    },
+    {
+      "id": "C",
+      "description": "Medium 57px；字面略收小，baseline 保持一致。",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1634,
+        "coverage_percent": 42.048,
+        "ink_bbox_exclusive": [
+          1,
+          7,
+          55,
+          59
+        ],
+        "left_padding": 1,
+        "right_padding": 3,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 204.395,
+        "p10_nonzero": 55,
+        "p50_nonzero": 255,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 37.026,
+        "sha256": "5394e73c11d241bc52b8d131ad34250576905a53bf97c8fbab7b056d87c5b425"
+      },
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\CANDIDATE_C\\00c7c9f9.xpr",
+        "encrypted_sha256": "5f31cf67c6064c411e44f90863397b7473365d2c4f8ed1eba6ec359c805426fd",
+        "decrypted_sha256": "e1ea34789a77e6944b21456f24cef0fcc4f395f6b551cf2c660a4dbc8bbfa238",
+        "static_validation": "PASS",
+        "atlas_changed_byte_count": 915,
+        "atlas_changed_outside_count": 0
+      },
+      "style_similarity_score": 4.0342
+    },
+    {
+      "id": "D",
+      "description": "Bold 56px；字面收小、笔画密度最高。",
+      "bitmap": {
+        "width": 58,
+        "height": 67,
+        "nonzero_pixel_count": 1852,
+        "coverage_percent": 47.658,
+        "ink_bbox_exclusive": [
+          2,
+          7,
+          56,
+          59
+        ],
+        "left_padding": 2,
+        "right_padding": 2,
+        "top_padding": 7,
+        "bottom_padding": 8,
+        "baseline_ink_bottom": 59,
+        "mean_nonzero": 215.07,
+        "p10_nonzero": 72,
+        "p50_nonzero": 255,
+        "p90_nonzero": 255,
+        "partial_pixel_percent": 32.289,
+        "sha256": "3230446b844363c8b6bdb14bfea0689a616757386985677ea087c00d798b951e"
+      },
+      "xpr": {
+        "path": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\CANDIDATE_D\\00c7c9f9.xpr",
+        "encrypted_sha256": "a9b4e5e857beb61f0ca493103ba69af33cb5061d441f98e546d18a0a74a3d4bc",
+        "decrypted_sha256": "48460635dd93b6670c548867f9ab8fd21897f8fc8643b5c58ed4488405f8434f",
+        "static_validation": "PASS",
+        "atlas_changed_byte_count": 1110,
+        "atlas_changed_outside_count": 0
+      },
+      "style_similarity_score": 2.2308
+    }
+  ],
+  "recommended_candidate": "D",
+  "runtime_status": {
+    "STYLE_CANDIDATE_D_RUNTIME_COMPARED": "PASS",
+    "CURRENT_GENERATED_GLYPH_PROFILE": "D",
+    "D_runtime_result": "PASS; visually better than A",
+    "E_runtime_result": "NOT_TESTED",
+    "F_runtime_result": "NOT_TESTED",
+    "psp_same_source_donor_status": "PENDING_ARCHAEOLOGY",
+    "fallback_if_no_psp_donor": "D"
+  },
+  "preview": {
+    "references": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\existing_reference_glyphs.png",
+    "candidates": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\glyph_jue_style_candidates.png",
+    "combined": "D:\\GAME\\test\\steam 合金装备大师合集2 合金装备和平行者汉化补丁\\JPVoice_CNText_V2\\font/font_poc_00c7_diagnostics_boundary\\TEST_REAL_GLYPH_JUE_STYLE_TUNING\\glyph_jue_style_candidates_with_references.png"
+  },
+  "errors": []
+}
