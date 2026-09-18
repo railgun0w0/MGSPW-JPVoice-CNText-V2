@@ -1,5 +1,11 @@
 # V1 实机问题与下一轮修复标准
 
+> **ARCHIVED / HISTORICAL SNAPSHOT / SUPERSEDED**
+>
+> This file records an earlier full-test-package pass. Its unresolved items
+> and package references are historical evidence; current RC1 status is in
+> `docs/RELEASE_READINESS.md` and `build/rc1/`.
+
 更新时间：2026-09-14（Asia/Hong_Kong）
 
 状态：`OPEN`

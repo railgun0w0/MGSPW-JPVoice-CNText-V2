@@ -1,5 +1,11 @@
 # V2 Production Merge / Build Readiness Checkpoint
 
+> **ARCHIVED / HISTORICAL SNAPSHOT / SUPERSEDED**
+>
+> This checkpoint covers the pre-BRIEFING, old-five-class phase. Current
+> translation state and RC1 package facts are defined by `CURRENT_DIRECTION.md`,
+> `TRANSLATION_STATE.md`, and `docs/RELEASE_READINESS.md`.
+
 更新时间：2026-09-08（Asia/Hong_Kong）
 
 > 当前性说明（2026-09-13）：本文件只记录 BRIEFING 加入前的旧五类 production/build checkpoint，不是当前全局恢复点。BRIEFING 已另行完成 469 blocks / 5,645 rows 的 production merge、DAT 构建和离线 round-trip，并进入新的 21 文件 readiness 包。继续工作应先读 `CURRENT_DIRECTION.md`、`BRIEFING_BUILD_HANDOFF.md` 和 `work/luna_translation_templates/TRANSLATION_STATE.md`；不得把下述 91,609 行 manifest 或旧 20 文件测试包误认为已经包含 BRIEFING。

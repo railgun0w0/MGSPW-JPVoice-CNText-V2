@@ -1,6 +1,6 @@
 # JPVoice_CNText_V2 最终方向
 
-更新日期：2026-09-14（Asia/Hong_Kong）
+更新日期：2026-09-19（Asia/Hong_Kong）
 
 ## 一、最终目标
 
@@ -50,7 +50,7 @@ ENG/MLG_CN 的 page、tag、record、entity、reference、segment index 均不�
 
 `translation_worklist.csv` 是 file_id 级全局管理索引，负责资源规模、优先级、翻译状态、构建状态、实机状态和正式翻译文件位置。它不再按日文全局去重保存最终译文，也不直接作为构建输入。
 
-`translations/<resource_class>/<file_id>.csv` 是人工翻译权威。每个剧情资源单独保存完整上下文，包括：
+`work/luna_translation_templates/sol_translation_mappings/<resource_class>/<file_id>.json` 是六类资源统一的 canonical authoring source；BRIEFING_NBE 的物理目录名为 `BRIEFING/`。对应模板 CSV 只提供 JPN 结构、上下文和容量，迁移前的译文列仅保留历史追溯用途。每个 mapping 保存经校验的：
 
 - JPN 原文顺序。
 - 前后文。
@@ -58,17 +58,17 @@ ENG/MLG_CN 的 page、tag、record、entity、reference、segment index 均不�
 - entity 或 timing 信息。
 - 控制符。
 - ENG/CN 候选参考。
-- 最终中文和审核状态。
+- 最终中文、控制符和审核状态。
 
-`compiled_translation_manifest.csv` 是旧五类资源的正式构建输入。它由对应 `APPROVED` file_id CSV 自动生成，每行绑定一个具体 JPN record、reference 或 timed segment。BRIEFING 保留独立的物理 row topology，以 `translations/briefing/*.csv` 作为专用 oEbN builder 的直接输入，不进入现有 91,609 行 manifest。
+`translations/<resource_class>/<file_id>.csv` 是由 canonical mapping 和 JPN 模板确定性生成的 production materialization，不应直接编辑。`compiled_translation_manifest.csv` 是旧五类资源的 generated object binding，绑定具体 JPN record、reference 或 timed segment；它也不应直接编辑。BRIEFING 保留独立的物理 row topology，以 `translations/briefing/*.csv` 作为专用 oEbN builder 的直接输入，不进入现有 91,609 行 manifest。
 
 原来的全局日文去重与参考汇总保留为 `translation_text_catalog.csv`，只用于搜索重复文本、术语和 ENG/MLG_CN 候选，不决定最终译文。
 
 完整关系为：
 
-旧五类关系为：
+统一关系为：
 
-`translation_worklist.csv（管理） -> 单个 file_id CSV（翻译权威） -> compiled_translation_manifest.csv（JPN 对象绑定） -> clean JPN build`
+`JPN templates / reference masters + sol_translation_mappings JSON（canonical） -> production compiler -> translations/**/*.csv（generated） + compiled_translation_manifest.csv（generated） -> builders -> clean JPN build`
 
 BRIEFING 关系为：
 
@@ -130,11 +130,11 @@ production merge 与专用 `tools/Build-BriefingDat.py` 已完成。builder 从�
 旧五类 builder 所需的已审计底层 parser/codec 已收录在 `tools/legacy_support/`，所有正式入口默认使用仓库内副本，不再要求工作区旁存在 `JPVoice_CNText_Experimental/tools`。该目录只提供底层实现；不得直接运行其中的历史 main 或恢复已被否决的映射策略。
 
 1. 从 `translation_worklist.csv` 选择待处理 file_id。
-2. 生成 `translations/<resource_class>/<file_id>.csv` 完整 JPN 上下文工作表。
+2. 从对应 JPN 模板读取完整上下文、结构和容量信息。
 3. 重新组织 MLG_CN/ENG 候选参考，不继承旧行号。
 4. 以日文和剧情上下文完成中文翻译。
-5. 将确认译文写入 file_id CSV 的 `cn_text`，审核后标记为 `APPROVED`。
-6. 旧五类从已批准 file_id CSV 生成 `compiled_translation_manifest.csv`；BRIEFING 从模板与 mapping 确定性生成 `translations/briefing/*.csv`，保持物理 row 身份。
+5. 将确认译文写入对应 `sol_translation_mappings/<resource_class>/<file_id>.json`，保留控制符和审核状态。
+6. 由 production compiler 确定性生成 `translations/**/*.csv` 与旧五类 `compiled_translation_manifest.csv`；BRIEFING 同样从模板与 mapping 生成独立 production CSV，保持物理 row 身份。
    旧五类 compiler 的结构输入固定为已提交的 `work/luna_translation_templates/reference_masters/`；`translation_worklist.csv` 与 `compiled_translation_manifest.csv` 均从这些 master 和当前 mapping 确定性生成。`build/translation/` 只保存输出，不再要求预存本机缓存作为输入。
 7. 检查控制符、UTF-8、NUL、容量和对象覆盖。
 8. 从 clean JPN original 重建目标资源。
@@ -160,30 +160,30 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 
 ## 九、翻译数据结构当前状态
 
-- `translation_worklist.csv` 的 241/241 个 file_id 已完成，file_id 内精确去重译文为 21,041/21,041 行。
+- 六类 `translation_worklist.csv` 事实共覆盖 710/710 个 file_id、26,686/26,686 条 translation rows；其中旧五类为 241/241 个 file_id、21,041 个去重翻译行。
 - `compiled_translation_manifest.csv` 已将正式译文展开为 91,609 个真实 JPN 对象绑定。
 - 36 个 YPK/GTT、1 个 OHD、144 个 SLOT OLANG、14 个 loose OLANG、46 个 STAGEDAT OLANG file_id 均已进入 production。
 - BRIEFING 的 469 blocks / 5,645 个 JPN 物理 rows 已进入独立 production 并完成离线构建：FILES 363/4,810，MISSION 106/835；静态检查、clean-JPN build、全量 parser/text/diff round-trip 均 PASS。2026-09-14 实机已证明 FILES/MISSION 命中中文，已知两条长句加入显式 LF 后 layout audit 为 0 overflow。
 - 全体 GTT 当前为 1,812 normal fit、70 alignment spill、0 hard overflow。现有结果作为当前生产基线冻结；容量余量、alignment spill、压缩策略和进一步的文本长度优化，统一放入中文润色完成后的后续优化项目。
 - 统一 SLOT 构建从 clean JPN 合并 742 个 SLOT OLANG、77 个 YPK/GTT 和 4 个 OHD physical occurrences，共 823 个目标 tag、110 pages、0 block overflow。
-- 14 个 loose OLANG、123 个 STAGEDAT embedded OLANG entries 以及中文字库已与统一 SLOT 组成 `build/readiness/full_package/`。
+- 14 个 loose OLANG、123 个 STAGEDAT embedded OLANG entries、BRIEFING DAT 和两个 self-owned 字体已纳入当前 RC1 20-file staging；旧 `build/readiness/full_package/` 21-file 包只作为历史 reference。
 - `1C79F2AD` 和 `5D3AF52D` 的 golden 仅保留为历史/结构 regression fixture；production compiler 不读取其中文正文，也不以其覆盖当前 mapping。2026-09-14 已将剩余 16 个 Ruby canonical mismatch 按最终表同步到 JSON mapping，并重建对应 production CSV：587 个 unique JPN Ruby pairs、1,251 个目标 occurrences、`UNMAPPED_PAIR=0`、`RUBY_COUNT_MISMATCH=0`、production canonical mismatch 为 0。
 
 ## 十、接下来的执行顺序
 
-当前采用 **MVP 优先**：先形成可构建、可 round-trip、可安装验证的完整六类资源候选；旧五类翻译单元去重模型的重构不作为 MVP 前置条件。
+当前阶段为 **MVP 完成后的 RC QA / release assembly**：翻译覆盖、production compiler、BRIEFING builder、round-trip 和当前 RC1 staging 已冻结；后续重点是 clean-install smoke、gameplay QA 和 release 文档。
 
-1. 离线阶段已完成：专用 BRIEFING builder、parser/text/diff round-trip，以及包含六类资源和字体的 21 文件统一 readiness 包。
+1. 离线阶段已完成：专用 BRIEFING builder、parser/text/diff round-trip，以及当前 20-file RC1 staging；旧 21-file readiness package 仅作历史证据。
 2. 标题 UI ASCII 保留修复已于 2026-09-09 实机通过；后续翻译不得把已确认的纯 ASCII UI 再改成依赖未覆盖中文字形的 CJK。
 3. 2026-09-14 已实机确认任务结束无线电命中中文，BRIEFING 两条已知 FILES 行宽问题已通过显式 LF 修复；任务结算武器经验字段也已实机通过，但原因暂不确定。后续集中验收剧情字幕、任务说明、过场字幕、ruby、字库和日语语音。
 4. 对发现的问题记录 resource class、file_id、原文/现译文和场景；只修订对应权威 CSV/mapping，再从 production compile 开始全量重建。
-5. 实机问题清零后冻结正式发布包和恢复/安装说明。
+5. 完成 clean-install smoke 与 gameplay QA 后冻结正式发布包和恢复/安装说明。
 
 ### MVP 后润色/优化 backlog
 
 旧五类模板目前在每个 `file_id` 内按完全相同的 `jpn_text` 自动聚合，并用多个 reference/entity identity 展开回物理对象。这适合复用大量固定 UI 文本，但把“文本相同”默认等同于“译文必须相同”，不能表达部分同文异境的语气差异。
 
-该问题已记录为 MVP 后优化，不阻塞当前 BRIEFING 构建。MVP 完成并取得实机基线后，再执行：
+该问题已记录为 RC1 后的润色/schema 优化，不阻塞当前 RC1。后续再执行：
 
 1. 审计旧五类所有 `source_objects > 1` 聚合行的场景、说话者、前后文和现译文风险。
 2. 只拆分确有上下文差异或语义风险的 translation units，避免无收益地重译全部 91,609 个物理对象。

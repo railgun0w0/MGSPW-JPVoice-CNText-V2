@@ -1,5 +1,8 @@
 # SELF_OWNED FONT BUILDER — PHASE 1 Luna handoff (ARCHIVED PHASE-1 HANDOFF SNAPSHOT)
 
+> Current RC1 font production status is defined by `font/doc/README.md`,
+> `font/doc/FONT_PRODUCTION_BASELINE.md`, and `docs/RELEASE_READINESS.md`.
+
 交接时间：2026-09-16（Asia/Hong_Kong）
 仓库：`railgun0w0/MGSPW-JPVoice-CNText-V2`
 本地 checkout：`D:\GAME\test\steam 合金装备大师合集2 合金装备和平行者汉化补丁\JPVoice_CNText_V2`

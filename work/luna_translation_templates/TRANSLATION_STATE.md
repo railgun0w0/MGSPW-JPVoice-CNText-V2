@@ -1,11 +1,15 @@
 # Translation State
 
 This is the machine-recoverable resume point for the `sol-translation` branch.
-It is rebuilt from CSV templates plus committed mapping/manifest/shard files; the prose progress log is not an input.
+It is rebuilt from JPN templates plus committed canonical mappings; the prose progress log is not an input.
+`CANONICAL_TRANSLATION_SOURCE = sol_translation_mappings`; generated CSV/manifest files are materialized outputs.
+`ALL_FILE_IDS_MAPPING_BACKED = 710/710`; the 21 migrated YPK_GTT JSON mappings are now included.
+`MVP_STATUS = COMPLETE`; current work is RC QA, release assembly, and gameplay QA.
+`RC1_PACKAGE_FILE_COUNT = 20`; the historical 21-file readiness package is reference-only.
 
-Updated: `2026-09-14T14:24:55+08:00`
+Updated: `2026-09-19T04:44:57+08:00`
 Branch: `sol-translation`
-Latest validated checkpoint commit: `55ea232e8e1b446856cbd2eab2f6060769481652`
+Latest validated checkpoint commit: `438bc9f474acd0f774e6cc091edb87412d0cfbcf`
 Total rows / persisted rows: **26686 / 26686**
 Total file_ids / completed file_ids: **710 / 710**
 Current partial file_id: **(none)**
@@ -31,16 +35,16 @@ NEXT_FILE_ID: **`NONE`**
 - BRIEFING MISSION：**106 blocks / 835 JPN rows**。
 - 源模板状态：非空 `jpn_text` **5645/5645**；模板内非空 `cn_text` **0/5645**。模板保持只读，正式译文写入 `sol_translation_mappings/BRIEFING/`。
 - 正式 mapping 进度：**469/469 file_ids，5645/5645 rows**；剩余 **0 file_ids / 0 rows**。
-- 翻译队列已完成：`NEXT_FILE_ID=NONE`。正式 production CSV 已合并到 `translations/briefing/`；下一步是专用 clean-JPN oEbN builder、round-trip 与实机验证，不再创建新的 BRIEFING 翻译 mapping。
+- 翻译队列已完成：`NEXT_FILE_ID=NONE`。正式 production CSV 已合并到 `translations/briefing/`；专用 clean-JPN oEbN builder、round-trip 与 FILES/MISSION 实机验证均已通过，BRIEFING 当前为 `INGAME_PASS`。
 - 本目录没有将 ENG/FRA/DEU/ITA/ESP lane block 建成独立翻译单元，也不是 B79 全语言 oEbN census 的模板副本。
 - 旧初版统计（2,461 translation units / 42,079 全语言物理文本对象 / 42,002 rows）来自错误的六语言聚合，现已废弃，不代表当前模板。
 - 辅助覆盖：`eng_reference` **5095 rows**；旧 `mlg_cn_reference` **5085 rows**。它们只用于理解和措辞参考，不是待翻译源文或翻译权威。
 - 每行只把 JPN 权威源文 `jpn_text` 翻译到 `cn_text`；保留 markup/control tokens，并按正常流程更新翻译和控制结构状态。
 - 不得机械复制 `eng_reference` / `mlg_cn_reference`。`NO_RELIABLE_AUX_REFERENCE` 行必须依据 JPN 与本 block 上下文翻译。
 - 这些模板只是翻译输入：不得修改 JPN 字段或结构索引，也不得把它们视为 DAT/build 产物。
-- production 状态：`translations/briefing/` 已生成 469 个正式 CSV / 5,645 rows；静态合并 0 error、469/469 block fit、0 hard overflow。当前尚未写入 DAT，`ingame_status=NOT_TESTED`。
+- production 状态：`translations/briefing/` 已生成 469 个正式 CSV / 5,645 rows；静态合并、clean-JPN builder、parser/text/diff round-trip 均 PASS，469/469 block fit、0 hard overflow；FILES/MISSION 实机中文显示与已知换行修复均通过，`ingame_status=INGAME_PASS`。
 - 现有 91,609 行 `compiled_translation_manifest.csv` 不含 BRIEFING；后续 builder 必须按物理 `file_id + unique_index + stream/block/text` 身份直接读取 BRIEFING production CSV。
-- 项目优先完成 MVP：先做 BRIEFING builder、round-trip、统一包和实机验证；旧五类 `file_id + jpn_text` 自动聚合的同文异境风险列入 MVP 后润色/通用 schema 优化，当前不拆分或重译旧五类。
+- `MVP_STATUS = COMPLETE`。当前阶段是 RC QA、release assembly、clean-install smoke 与后续 gameplay QA；旧五类 `file_id + jpn_text` 自动聚合的同文异境风险属于后续润色/schema backlog，不阻塞 RC1。
 
 相关文件：
 
@@ -88,20 +92,41 @@ NEXT_FILE_ID: **`NONE`**
 ## Validation
 
 - Errors: **0**
-- Warnings: **430**
-- Progress archives audited: `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-07_10603.md` (7efda3cdd346…), `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-13_TRANSLATION_COMPLETE.md` (c66cfbe67cc1…)
-- historical cn_utf8_bytes mismatch: **421**
+- Warnings: **469**
+- Progress archives audited: `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-07_10603.md` (7efda3cdd346…), `archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-13_TRANSLATION_COMPLETE.md` (d58906af4e40…)
+- historical cn_utf8_bytes mismatch: **439**
 - legacy shifted CSV row: **7**
 - conflicting complete representations: **2**
+- WARNING: YPK_GTT/1C79F2ED: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C79F2ED.json, 1C79F2ED.csv
+- WARNING: YPK_GTT/1C79F36D: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C79F36D.json, 1C79F36D.csv
+- WARNING: YPK_GTT/1C79F3AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C79F3AD.json, 1C79F3AD.csv
+- WARNING: YPK_GTT/1C79F3ED: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C79F3ED.json, 1C79F3ED.csv
+- WARNING: YPK_GTT/1C7A73AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7A73AD.json, 1C7A73AD.csv
+- WARNING: YPK_GTT/1C7AF2AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7AF2AD.json, 1C7AF2AD.csv
+- WARNING: YPK_GTT/1C7AF2ED: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7AF2ED.json, 1C7AF2ED.csv
+- WARNING: YPK_GTT/1C7AF3AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7AF3AD.json, 1C7AF3AD.csv
 - WARNING: YPK_GTT/1C7AF3AD: 1C7AF3AD.csv: legacy CSV column shift recovered for 1 row(s): 19; translation is preserved, but a future merge/build step must normalize the row
+- WARNING: YPK_GTT/1C7B72AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7B72AD.json, 1C7B72AD.csv
 - WARNING: YPK_GTT/1C7B72AD: 1C7B72AD.csv: legacy CSV column shift recovered for 1 row(s): 28; translation is preserved, but a future merge/build step must normalize the row
+- WARNING: YPK_GTT/1C7B72ED: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7B72ED.json, 1C7B72ED.csv
+- WARNING: YPK_GTT/1C7B736D: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7B736D.json, 1C7B736D.csv
+- WARNING: YPK_GTT/1C7B73AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7B73AD.json, 1C7B73AD.csv
+- WARNING: YPK_GTT/1C7BF2AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7BF2AD.json, 1C7BF2AD.csv
 - WARNING: YPK_GTT/1C7BF2AD: 1C7BF2AD.csv: legacy CSV column shift recovered for 1 row(s): 19; translation is preserved, but a future merge/build step must normalize the row
+- WARNING: YPK_GTT/1C7BF2ED: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7BF2ED.json, 1C7BF2ED.csv
+- WARNING: YPK_GTT/1C7BF36D: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7BF36D.json, 1C7BF36D.csv
+- WARNING: YPK_GTT/1C7C72AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7C72AD.json, 1C7C72AD.csv
 - WARNING: YPK_GTT/1C7C72AD: 1C7C72AD.csv: legacy CSV column shift recovered for 1 row(s): 18; translation is preserved, but a future merge/build step must normalize the row
+- WARNING: YPK_GTT/1C7C736D: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7C736D.json, 1C7C736D.csv
 - WARNING: YPK_GTT/1C7C736D: 1C7C736D.csv: legacy CSV column shift recovered for 1 row(s): 34; translation is preserved, but a future merge/build step must normalize the row
+- WARNING: YPK_GTT/1C7C73AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7C73AD.json, 1C7C73AD.csv
 - WARNING: YPK_GTT/1C7C73AD: 1C7C73AD.csv: legacy CSV column shift recovered for 1 row(s): 24; translation is preserved, but a future merge/build step must normalize the row
+- WARNING: YPK_GTT/1C7CF2AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7CF2AD.json, 1C7CF2AD.csv
+- WARNING: YPK_GTT/1C7CF2ED: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7CF2ED.json, 1C7CF2ED.csv
+- WARNING: YPK_GTT/1C7CF3AD: duplicate complete representations are byte-equivalent at mapping-row level; the higher-priority mapping representation is canonical; the other files are NONCANONICAL legacy/reference artifacts: 1C7CF3AD.json, 1C7CF3AD.csv
 - WARNING: YPK_GTT/1C7CF3AD: 1C7CF3AD.csv: legacy CSV column shift recovered for 1 row(s): 30; translation is preserved, but a future merge/build step must normalize the row
-- WARNING: STAGEDAT_OLANG/LANG_VOCALOID_KEYBOARD.OLANG: multiple complete representations contain conflicting text/control rows; the explicit manifest is canonical: LANG_VOCALOID_KEYBOARD.OLANG.json, LANG_VOCALOID_KEYBOARD.OLANG.manifest.json
-- WARNING: SLOT_OLANG/5D06A8D5: multiple complete representations contain conflicting text/control rows; the explicit manifest is canonical: 5D06A8D5.json, 5D06A8D5.manifest.json
+- WARNING: STAGEDAT_OLANG/LANG_VOCALOID_KEYBOARD.OLANG: multiple complete representations contain conflicting text/control rows; the explicit manifest is canonical; losing representations are NONCANONICAL legacy/reference artifacts and are not production inputs: LANG_VOCALOID_KEYBOARD.OLANG.json, LANG_VOCALOID_KEYBOARD.OLANG.manifest.json
+- WARNING: SLOT_OLANG/5D06A8D5: multiple complete representations contain conflicting text/control rows; the explicit manifest is canonical; losing representations are NONCANONICAL legacy/reference artifacts and are not production inputs: 5D06A8D5.json, 5D06A8D5.manifest.json
 
 The JSON block below is authoritative for automated resume/check operations.
 The template catalog hash binds every `unique_index + jpn_text` pair without copying the Japanese text into translation mappings.
@@ -885,7 +910,7 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   },
   "completed_file_ids": 710,
   "completed_rows": 26686,
-  "latest_validated_checkpoint_commit": "55ea232e8e1b446856cbd2eab2f6060769481652",
+  "latest_validated_checkpoint_commit": "438bc9f474acd0f774e6cc091edb87412d0cfbcf",
   "legacy_tracker_snapshot": {
     "by_resource_class": {}
   },
@@ -907,9 +932,9 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
       "sha256": "7efda3cdd3466e5cf9d82aa65bb3a4c5d8790138426a165517a8d22869f2a70a"
     },
     {
-      "bytes": 204659,
+      "bytes": 204665,
       "path": "archive_docs/SOL_TRANSLATION_PROGRESS_ARCHIVE_2026-09-13_TRANSLATION_COMPLETE.md",
-      "sha256": "c66cfbe67cc12efa2cb35a7dedd116b80e53986e897150a419a7bf0df65b0ae8"
+      "sha256": "d58906af4e40c0e4fc34da6911d547e96e4ab5bad9d9fd21fbf2456c6ac62516"
     }
   ],
   "remaining": {
@@ -927,6 +952,6 @@ The template catalog hash binds every `unique_index + jpn_text` pair without cop
   "total_rows": 26686,
   "tracker_reconciliation": [],
   "validation_errors": 0,
-  "validation_warnings": 430
+  "validation_warnings": 469
 }
 END TRANSLATION STATE JSON -->

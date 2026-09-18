@@ -1,5 +1,13 @@
 # Translation Source-of-Truth Audit
 
+> **ARCHIVED / HISTORICAL SNAPSHOT / PRE-MIGRATION / SUPERSEDED**
+>
+> This audit records the repository state before the 2026-09-17 canonical
+> migration. Its reported mixed YPK authority and 21 JSON-less YPK files are
+> historical facts and must not be rewritten. Current authority is defined by
+> [`TRANSLATION_CANONICAL_UNIFICATION_REPORT.md`](TRANSLATION_CANONICAL_UNIFICATION_REPORT.md),
+> the committed `sol_translation_mappings/` tree, and the production compiler.
+
 Audit date: 2026-09-17 (Asia/Hong_Kong)  
 Repository: `railgun0w0/MGSPW-JPVoice-CNText-V2`  
 Branch / audited HEAD: `sol-translation` / `b58695fe005f50402ad31c27e2053b6d2e18801f`  

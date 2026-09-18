@@ -1,9 +1,9 @@
 # MGSPW FONT Production Baseline
 
 归档日期：2026-09-16
-用途：只记录当前已知能工作的 Golden Baseline；逆向证据链见 [`FONT_TECHNICAL_ARCHIVE.md`](FONT_TECHNICAL_ARCHIVE.md)。
+用途：记录当前 RC1 已验证的 clean-JPN self-owned font baseline；逆向证据链见 [`FONT_TECHNICAL_ARCHIVE.md`](FONT_TECHNICAL_ARCHIVE.md)。当前 package 事实以 `docs/RELEASE_READINESS.md` 和 `build/rc1/RC1_FILE_MANIFEST.csv` 为准。
 
-状态只使用：`PROVEN`、`NOT YET PRODUCTIONIZED`、`UNKNOWN`。
+状态使用：`PROVEN`、`NOT YET PRODUCTIONIZED`、`UNKNOWN`、`REFERENCE ONLY`。
 
 ## 1. JPN EXE identity
 
@@ -27,13 +27,13 @@ Another local EXE hash, `8dd0eaa5cc8d35e121612a52087399399578aeb62df1a5faff64388
 | clean authoritative input for future owned build | `font/JPN/00c7c9f9.xpr` | `PROVEN` |
 | clean encrypted SHA256 | `1f7a18f28d0d67d7a6a65a5286a1e48c97d595829b4c99325fb2b5772b921e8d` | `PROVEN` |
 | clean atlas | `4096×4096`, pitch `4096`, format `2`, linear 8-bit | `PROVEN` |
-| current proven compatibility output | patched MLG large `0007ccd8.xpr` plaintext, pure-rekeyed to the `00c7c9f9.xpr` filename seed | `PROVEN` |
+| current RC1 production output | self-owned rebuild from clean JPN `00c7c9f9.xpr`; staged as `build/rc1/rebuild/fonts/00c7/runtime_fixture_00c7/00c7c9f9.xpr` | `PROVEN` |
 | runtime dimension patch required | no | `PROVEN` |
 | patched MLG_CN0007-derived/rekeyed 00c7 append/count/new-atlas technique | TEST2B/TEST3B/`厥` PoCs pass from `3209 records / 3208 mapped` to count `3210` | `PROVEN` |
 | clean JPN00c7 full self-owned rebuild runtime compatibility | Phase 2A fixture from clean JPN00c7: `3078 records / 3077 mapped`; real-machine Chinese display confirmed | `PROVEN` |
-| full-corpus self-owned large builder/output | Phase 2A technical fixture is runtime-proven; final release asset/profile is not selected | `NOT YET PRODUCTIONIZED` |
+| self-owned large builder/output used by RC1 | clean-JPN self-owned rebuild, staged and runtime-proven for RC1 | `PROVEN` |
 
-The proven legacy compatibility output is an operational Golden, not the future release dependency. The future production large font must be rebuilt from clean JPN00c7 with owned charset/raster inputs.
+The historical patched-MLG compatibility output is retained only as an operational/reference Golden. The RC1 production large font is rebuilt from clean JPN00c7 with owned charset/raster inputs.
 
 Phase 2A runtime-proof scope (2026-09-16): this proves only clean JPN00c7 self-owned full-rebuild runtime compatibility. It does not prove clean JPN001c self-owned 4096×4096 runtime output, the final font choice, the final punctuation policy, or the final large/small raster profile.
 
@@ -47,12 +47,12 @@ Phase 2A runtime-proof scope (2026-09-16): this proves only clean JPN00c7 self-o
 | clean atlas | `2048×1024`, pitch `2048`, format `2`, linear 8-bit | `PROVEN` |
 | Loading texture path | `001cbbd1.xpr` own TX2D | `PROVEN` |
 | proven expanded atlas | `4096×4096`, `data_size=0x1000000` | `PROVEN` |
-| runtime patch required for 4096×4096 | yes; Width and Height both must become `0x1000` | `PROVEN` |
+| runtime patch required by current RC1 route | no; RC1 uses the proven clean-JPN stock `2048×1024` route | `PROVEN` |
 | patched MLG000e pure-rekey compatibility | game starts; Chinese glyphs render; old overflow and missing-glyph fallback disappear | `PROVEN` |
 | clean JPN001c stock self-owned fixture | `2048×1024`; Noto Sans SC Bold; `51px / padding 1`; `549 records / 548 mapped`; exact `LOOSE_OLANG/00D0C740` corpus; real-machine Loading validation passed | `PROVEN` |
 | `001C_STOCK_2048x1024_CAPACITY` | `SUFFICIENT`; `STOCK_PROFILE = 51px / padding 1`; `EXE_PATCH_REQUIRED = NO` | `PROVEN` |
-| reusable production runtime patch component | PoC exists; release integration/QA not complete | `NOT YET PRODUCTIONIZED` |
-| full-corpus self-owned small XPR | not built in this archive pass | `NOT YET PRODUCTIONIZED` |
+| reusable 4096×4096 runtime patch component | historical diagnostic/compatibility PoC only; not an RC1 dependency | `REFERENCE ONLY` |
+| self-owned small XPR used by RC1 | clean-JPN stock rebuild, staged and runtime-proven for the selector-specific corpus | `PROVEN` |
 
 Phase 2B.1 runtime-proof scope (2026-09-16): this proves only the exact
 selector-specific required corpus used by the fixture, especially the proven
@@ -108,8 +108,8 @@ The existing `LOCAL-ONLY` Experimental source `mgspw_001c_height_poc.cpp` implem
 | Game startup after 4096 patch | `PROVEN` |
 | Old `main+0x1DE60` overflow removed | `PROVEN` |
 | Small UI / Loading Chinese missing glyphs removed | `PROVEN` |
-| Production-ready runtime patch distribution/integration | `NOT YET PRODUCTIONIZED` |
-| Self-owned large and small full-corpus XPR pair | `NOT YET PRODUCTIONIZED` |
+| Production-ready runtime patch distribution/integration | `REFERENCE ONLY` — not an RC1 dependency |
+| Self-owned large and small XPR pair used by RC1 | `PROVEN` — staged 20-file RC1 outputs |
 | Final public-release source font choice | `UNKNOWN` |
 
 ## 6. Dependency policy
@@ -120,4 +120,4 @@ The third-party patched MLG fonts are currently retained only as:
 - reverse-engineering reference;
 - runtime-capacity proof.
 
-They must not be defined as the future production dependency. The target production baseline is a completely self-owned pair generated from clean JPN `00c7c9f9.xpr` and `001cbbd1.xpr`, using the project's own charset and an approved source font.
+They must not be defined as the production dependency. The current RC1 production baseline is a completely self-owned pair generated from clean JPN `00c7c9f9.xpr` and `001cbbd1.xpr`, using the project's own charset and approved source-font inputs. No EXE patch, 0007 font, or 000E font is required by this route.

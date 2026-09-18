@@ -5,6 +5,8 @@
 
 本文件是 MGSPW JPVoice_CNText_V2 当前字体逆向结论的技术权威档案。事实来源限于当前仓库中的字体/XPR、分析报告、manifest、测试脚本与 fixture，以及相邻 `JPVoice_CNText_Experimental` 工作区保存的 full dump 报告、runtime 导出、rekey 审计和用户已确认的实机结果。本轮没有重新进行大规模逆向，也没有修改任何 production 字体、EXE 或翻译资源。
 
+> 本档案的 Phase 1/2A/2B 章节保留各自实验时点的证据边界；它不是当前 RC1 package status 的入口。当前 release baseline 以 [`FONT_PRODUCTION_BASELINE.md`](FONT_PRODUCTION_BASELINE.md)、[`font/doc/README.md`](README.md) 和 `docs/RELEASE_READINESS.md` 为准。
+
 证据标签：
 
 | 标签 | 含义 |

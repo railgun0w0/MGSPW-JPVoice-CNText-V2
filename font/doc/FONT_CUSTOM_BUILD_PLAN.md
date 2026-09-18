@@ -1,6 +1,12 @@
 # MGSPW Self-Owned Font Build Plan
 
-Status: final release design remains open; Phase 1/2A technical builder fixtures exist, but no final release pair is productionized.
+> **POST-RC1 DESIGN / NOT CURRENT PACKAGE AUTHORITY**
+>
+> RC1 already uses the proven clean-JPN self-owned `00c7c9f9.xpr` and
+> `001cbbd1.xpr` outputs. This plan records future corpus/style expansion;
+> current production status is defined by `FONT_PRODUCTION_BASELINE.md`.
+
+Status: future corpus/style expansion remains open; the current RC1 pair is already productionized and separately documented in `FONT_PRODUCTION_BASELINE.md`.
 
 ## Current Phase 2B strategy checkpoint (2026-09-16)
 

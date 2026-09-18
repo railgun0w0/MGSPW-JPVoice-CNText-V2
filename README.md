@@ -7,7 +7,7 @@
 - YPK/GTT `1C79F2AD`：98 records / 123 timed segments，fixed-layout multi-segment repack。
 - SLOT OLANG `5D3AF52D`：110 条去重日文完成上下文翻译，显式映射回 118 个 JPN references，只重建目标 RBX body 与所在 CNF page。
 
-两条路线均从 clean JPN 构建，并已在 Steam 日语资源路径实机通过。工程现已从格式验证阶段转入按资源扩大真实中文覆盖的实施阶段。
+两条路线均从 clean JPN 构建，并已在 Steam 日语资源路径实机通过。当前 MVP 已冻结，工程进入 RC QA、release assembly 和后续 gameplay QA 阶段。
 
 技术基线：
 
@@ -42,11 +42,11 @@ V2 的硬规则：
 - 当前六类翻译共 710/710 个 file_id、26,686/26,686 条 translation rows 完成。旧五类资源仍为 241 file_ids / 21,041 个去重翻译行，对象级 `compiled_translation_manifest.csv` 共 91,609 行。
 - 旧五类 production compiler 读取 Git 已跟踪的 JPN 模板与 `sol_translation_mappings` canonical JSON，并从零生成 production CSV、worklist 与 91,609 行 manifest；被忽略的 `build/translation/` 仅为输出目录，不是前置输入。可用 `python tools/Compile-ProductionTranslations.py --check` 检查所有旧五类物化产物是否新鲜。
 - BRIEFING 已生成独立正式 production CSV，并完成专用 clean-JPN fixed-layout 构建：469 blocks / 5,645 个 JPN 物理 rows，其中 FILES 363/4,810、MISSION 106/835；静态合并、全盘 parser/text/diff round-trip 均通过。`node tools/Compile-BriefingProductionTranslations.mjs --check` 是 BRIEFING production freshness gate；2026-09-14 实机已确认 FILES/MISSION 正常显示中文；两条已知长句已加入显式 LF，layout audit 当前为 0 overflow。
-- 当前优先级是完成包含 BRIEFING 的可运行 MVP：专用 oEbN builder、round-trip、统一测试包和实机验证。旧五类模板按 `file_id + jpn_text` 自动聚合可能压掉同文异境差异，已登记为 MVP 后的翻译润色/通用 schema 优化方向；MVP 前不重做 21,041 行旧译文，也不因此阻塞构建。
+- `MVP_STATUS = COMPLETE`。BRIEFING 专用 builder、round-trip 和 FILES/MISSION 实机验证均已通过；当前优先级是 RC QA、release assembly、clean-install smoke 与 gameplay QA。旧五类模板按 `file_id + jpn_text` 自动聚合的同文异境风险属于后续翻译润色/schema 优化，不阻塞 RC1。
 - 36 个 YPK/GTT 已完成 fixed-frame repack：1,882 records、2,136 timed segments，1,812 normal fit、70 alignment spill、0 hard overflow。现有容量结果保持不变；alignment spill、容量余量和后续压缩/排版优化统一列为中文润色完成后的后续优化项目，不作为当前生产阻塞。
 - 144 个 SLOT OLANG 已覆盖 742 个 physical occurrences；OHD `1E4C1146` 已覆盖 4 个 occurrence、904 个 physical records；14 个 loose OLANG 与 123 个 STAGEDAT embedded OLANG entry 均已完成 round-trip。
 - `Build-JpnUnifiedSlot.py` 已从 clean JPN 合并 SLOT OLANG、YPK/GTT、OHD：823 个目标 tag、110 个 SLOT pages、0 block overflow，DAT 大小与 KEY 保持不变。
-- `build/readiness/full_package/` 已组成新的 21 文件统一 readiness 包：合并 SLOT DAT/KEY、14 个 loose OLANG、STAGEDAT、BRIEFING DAT 和 3 个已验证中文字库；逐文件 hash mismatch 为 0。
-- 当前 21 文件统一包已用于实机验证，BRIEFING、任务结束无线电和任务结算武器经验字段均通过当前测试；安装正式版本时仍应重新备份原始文件。
+- 当前 RC1 正式 package 是 20 files：18 个 translated resource outputs，加上 `00c7c9f9.xpr` 与 `001cbbd1.xpr` 两个 self-owned clean-JPN font outputs；`build/rc1/` 的 manifest、hash 和 staging consistency 均 PASS。
+- `build/readiness/full_package/` 的旧 21-file package 以及 0007/000E 字体行只保留为历史/reference evidence，不属于当前 RC1 production package。当前仍需执行 clean-install smoke 与更广泛 gameplay QA。
 - 标题 UI 的 `NEW GAME`、`LOAD GAME`、`DELETE` 英文标签已通过实机验证。此次 ASCII UI 回归修复共恢复/保留 351 条高风险文本，后续不得把纯 ASCII UI 默认改成依赖未覆盖中文 glyph 的译文。
 - 任务结束无线电资源已实机命中中文，BRIEFING 已完成已知长句换行修复；任务结算武器经验字段和固定 UI 长文本也已实机通过。当前剩余验收重点收敛为中文/日文缺字；GTT 容量与 alignment 优化统一留待中文润色后处理。

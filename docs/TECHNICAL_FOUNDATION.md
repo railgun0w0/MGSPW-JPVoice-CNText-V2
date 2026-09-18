@@ -2,6 +2,8 @@
 
 整理日期：2026-09-05（Asia/Hong_Kong）
 
+> 本文是格式与构建基础的历史证据汇总，不是当前进度或 release package authority。当前翻译、MVP、RC1 和字体状态以 `docs/CURRENT_DIRECTION.md`、`docs/MVP_BASELINE.md`、`docs/RELEASE_READINESS.md`、`font/doc/` 与 `build/rc1/` 为准。
+
 ## 证据优先级与范围
 
 本文件的优先级从高到低为：
@@ -279,7 +281,7 @@ V2 需要独立的 `parse_gtt_multi` / `repack_gtt_multi`；旧 `decode_gtt_text
 统一原则为：
 
 1. JPN 原文决定含义，JPN 对象决定结构；MLG_CN 只作 translation memory，ENG 只在必要时消歧。
-2. `translation_worklist.csv` 只管理 file_id 级进度；单个 `translations/<resource_class>/<file_id>.csv` 是翻译权威；所有批准文件生成 `compiled_translation_manifest.csv`，再显式回填每个 JPN record/reference/timed segment。全局日文去重表只作术语和候选参考目录。
+2. `translation_worklist.csv` 只管理 file_id 级进度；`sol_translation_mappings/<resource_class>/<file_id>.json` 是 canonical authoring source，`translations/<resource_class>/<file_id>.csv` 与 `compiled_translation_manifest.csv` 均为 generated materialization，再显式回填每个 JPN record/reference/timed segment。全局日文去重表只作术语和候选参考目录。
 3. 每次只改授权的目标 payload；其余 payload 必须 byte-identical。容器 offsets 可按格式规则重算，但 page allocation、DAT 总大小和 KEY 保持不变，除非未来另行验证 relocation。
 4. 每个资源都要通过 parser round-trip、metadata/control 检查、容器 decode-back 和 allocation fit；中间批次不安装，全部资源完成后统一实机验证，不再为已确认的底层格式反复写调查脚本。
 

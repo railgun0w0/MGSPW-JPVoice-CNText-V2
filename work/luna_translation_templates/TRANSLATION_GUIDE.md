@@ -67,7 +67,7 @@ MLG_CN 和 ENG 只能作为辅助资料，不能决定 JPN 的对象对应关系
 
 旧初版统计“2,461 个 translation unit CSV / 42,079 个全语言物理文本对象 / 42,002 行”来自尚未分离 language lane 的错误分组，现已废弃并由上述 B81 JPN-only corpus 完全替换，不得再用于翻译、进度或 production 判断。
 
-因此整个 Luna 目录当前共有 710 个 file_id / 26,686 条 translation rows。截至 `2026-09-13`，前五类 241 / 21,041 与逻辑资源类 `BRIEFING_NBE` 的 469 / 5,645 均已完成，共计 710 / 710 个 file_id、26,686 / 26,686 rows；剩余 0，`NEXT_FILE_ID=NONE`。精确进度以 `TRANSLATION_STATE.md` 为准。
+因此整个 Luna 目录当前共有 710 个 file_id / 26,686 条 translation rows；前五类 241 / 21,041 与逻辑资源类 `BRIEFING_NBE` 的 469 / 5,645 均已完成，共计 710 / 710 个 file_id、26,686 / 26,686 rows；剩余 0，`NEXT_FILE_ID=NONE`。精确进度以 `TRANSLATION_STATE.md` 为准。
 
 ### `BRIEFING/` 内容与范围
 
@@ -136,7 +136,7 @@ reference_reason
 
 当前旧五类的 `file_id + jpn_text` 自动聚合是既有实现，不是理想模型的永久约束。它可能无法表达同一 file_id 内同文异境所需的不同中文；BRIEFING 采用 5,645 个独立物理 translation rows，避免了这一限制。
 
-项目当前以 MVP 为先：MVP 前保持旧五类现有 21,041 行 production 和 91,609 个对象展开结果，不进行全量拆分或重译；先完成 BRIEFING builder、round-trip、统一包和实机验证。MVP 后再审计 `source_objects > 1` 的聚合行，并把通用译文身份迁移到稳定 object/translation-unit key。译文可以显式复用，但不得再仅凭 `jpn_text` 自动认定多个上下文必须共用同一译文。
+`MVP_STATUS = COMPLETE`。旧五类现有 21,041 行 production 和 91,609 个对象展开结果已冻结；同文异境聚合风险属于 RC1 后润色/schema backlog，不阻塞当前 RC QA、release assembly 或 gameplay QA。后续审计 `source_objects > 1` 的聚合行时，应把通用译文身份迁移到稳定 object/translation-unit key；译文可以显式复用，但不得再仅凭 `jpn_text` 自动认定多个上下文必须共用同一译文。
 
 ### 当前状态
 
@@ -163,7 +163,7 @@ node tools/Compile-BriefingProductionTranslations.mjs --write
 node tools/Compile-BriefingProductionTranslations.mjs --check
 ```
 
-现有旧五类 `compiled_translation_manifest.csv` 不包含 BRIEFING；不得按 `jpn_text` 去重或把这些 rows 直接交给 OLANG/GTT builder。BRIEFING 由专用 `tools/Build-BriefingDat.py` 读取 `translations/briefing/*.csv`，按 `file_id + unique_index` 和 `stream/block/text` 物理身份写回。clean-JPN 构建与离线 parser/text/diff round-trip 已 PASS，尚未实机测试。完整门槛和执行顺序见 `docs/BRIEFING_BUILD_HANDOFF.md`。
+现有旧五类 `compiled_translation_manifest.csv` 不包含 BRIEFING；不得按 `jpn_text` 去重或把这些 rows 直接交给 OLANG/GTT builder。BRIEFING 由专用 `tools/Build-BriefingDat.py` 读取 `translations/briefing/*.csv`，按 `file_id + unique_index` 和 `stream/block/text` 物理身份写回。clean-JPN 构建与离线 parser/text/diff round-trip 已 PASS，FILES/MISSION 实机中文显示和已知换行修复也已通过，当前 BRIEFING 状态为 `INGAME_PASS`。完整门槛和后续 RC QA 顺序见 `docs/BRIEFING_BUILD_HANDOFF.md`。
 
 ## 单个 mapping 修订方式
 

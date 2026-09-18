@@ -2,7 +2,7 @@
 
 更新时间：2026-09-14（Asia/Hong_Kong）
 
-本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip、统一 readiness 包和已知长句显式换行修订已经完成；2026-09-14 实机已确认 FILES/MISSION 能命中中文。Ruby canonical 同步记录见 `docs/RUBY_CANONICAL_CHECKPOINT_2026-09-14.md`。
+本文是当前 clean JPN BRIEFING 中文文本构建与实机交接的权威说明。专用 fixed-layout builder、离线 round-trip、RC1 staging 和已知长句显式换行修订已经完成；2026-09-14 实机已确认 FILES/MISSION 能命中中文。Ruby canonical 同步记录见 `docs/RUBY_CANONICAL_CHECKPOINT_2026-09-14.md`。
 
 ## 当前完成状态
 
@@ -16,7 +16,8 @@
 - 独立 candidate：`build/readiness/briefing/MGS_PW/mgspw/JPN/disc0_rel/0076531d.DAT`，SHA-256 `360125f3...80373eb`。
 - 离线验证：469/469 blocks、5,645/5,645 中文 rows exact；2,292 个非目标 oEbN block 不变；目标 block 外 ciphertext 改动 0；DAT size 4,142,432 不变。
 - 全量回读：945 allocations、2,761 oEbN、2,727 text-bearing、34 empty、42,079 rows、0 parser failure。
-- 统一 readiness 包：`build/readiness/full_package/`，21 files、1,134,808,848 bytes，逐文件 SHA-256 mismatch 为 0。
+- 历史统一 readiness 包：`build/readiness/full_package/`，21 files、1,134,808,848 bytes，逐文件 SHA-256 mismatch 为 0；该包及其中 0007/000E 字体行只作历史/reference evidence。
+- 当前 RC1 正式 package：`build/rc1/staging/`，20 files，包括 18 个 translated resource outputs 与 `00c7c9f9.xpr`、`001cbbd1.xpr` 两个 self-owned clean-JPN font outputs；manifest、SHA256 和 staging consistency 均 PASS。
 - 实机回归：BRIEFING FILES 和任务结束 MISSION 文本已能正常以中文显示，原“无线电仍为日文”问题已解决。
 - 实机长句排版：字幕界面不自动折行的问题已通过在对应 mapping `cn_text` 内加入显式 LF 修复；已知两条 FILES/MISSION 样本、新包重建和 layout audit 均通过。
 - BRIEFING 当前状态：469 blocks / 5,645 rows，FILES/MISSION 实机显示通过，已知 `BRIEFING_LINE_WRAP_OVERFLOW=0`；后续只保留新增场景的回归检查。
@@ -109,33 +110,33 @@ builder 已实现以下门槛，任何后续重建仍必须全部通过：
 
 - 两条已知 FILES 行宽超限已在 mapping 中仅插入 LF 修复：`BRIEFING_FILES_BLOCK_036C20#7`、`BRIEFING_FILES_BLOCK_03A280#11`。
 - 重新生成 production CSV 和 BRIEFING DAT 后，FILES/MISSION 行宽与显示行数审计均为 0 overflow；clean-JPN fixed-layout builder、容量检查、parser/text/diff round-trip 均通过。
-- 21 文件统一 readiness 包已完成实机验证；BRIEFING FILES 与任务结束 MISSION 均正常显示中文。
+- 历史 21 文件统一 readiness 包已完成实机验证；BRIEFING FILES 与任务结束 MISSION 均正常显示中文。该包不等同于当前 RC1 20-file production package。
 - BRIEFING 当前不再有已知阻塞项；后续仅对新增或改动文本执行同样的 layout audit 和实机回归。
 
-## 后续执行顺序
+## 当前 RC QA 执行顺序
 
 1. 运行 production `--check` 与全局 translation state `--check`。
-2. 用下述命令从 clean JPN 基线重建 BRIEFING；不得使用 Steam 当前 DAT、旧 Experimental 或 MLG/ENG DAT：
+2. 以 `build/rc1/staging/` 的 20-file manifest 为当前 package，执行 clean-install smoke；不得使用 Steam 当前 DAT、旧 Experimental 或 MLG/ENG DAT：
 
 ```powershell
 python tools/Build-BriefingDat.py --dat 'D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\0076531d.DAT' --check
 python tools/Build-BriefingDat.py --dat 'D:\GAME\test\JPN\MGS_PW\mgspw\JPN\disc0_rel\0076531d.DAT'
-python tools/Assemble-JpnCnTestPackage.py
+Get-Content build/rc1/RC1_FILE_MANIFEST.csv
 ```
 
-3. 安装前生成备份与 21 文件 hash 清单，安装后验证 hash。
+3. 安装前生成备份与 20 文件 hash 清单，安装后验证 hash。
 4. 分别实机检查 BRIEFING FILES 与 MISSION BRIEFING，记录 block/file_id、场景和问题行。
 5. 只在对应 mapping 中修订问题，再从 production compile 开始全量重跑。
 
-当前恢复点：翻译、production merge、专用 clean-JPN builder、全盘 round-trip、差异审计、已知长句显式换行和 21 文件统一 readiness 包均已完成；实机已证明 FILES/MISSION 运行时命中、中文显示和已知长句排版正常。BRIEFING 已收尾，后续只需对新增翻译做同等布局回归，不重新进行结构研究。
+当前恢复点：翻译、production merge、专用 clean-JPN builder、全盘 round-trip、差异审计、已知长句显式换行和当前 20-file RC1 staging 均已完成；实机已证明 FILES/MISSION 运行时命中、中文显示和已知长句排版正常。BRIEFING 已收尾，后续只需对新增翻译做同等布局回归，不重新进行结构研究。
 
-## MVP 优先级与后续优化
+## MVP 已完成与后续优化
 
-当前第一优先级是完成可运行 MVP，不在构建前扩张为旧五类翻译体系重构：
+`MVP_STATUS = COMPLETE`。当前第一优先级是 RC QA、release assembly、clean-install smoke 与 gameplay QA，不在 RC1 前扩张为旧五类翻译体系重构：
 
-- MVP 已完成（离线）：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、统一测试包集成。
-- MVP 实机进度：FILES/MISSION 运行时命中、中文显示和已知显式换行/长句排版已通过测试；BRIEFING 当前不再有已知阻塞，后续仅需随字库和新增文本继续回归。
+- MVP 已完成：BRIEFING 专用 oEbN builder、clean-JPN 重建、结构/文本 round-trip、RC1 staging 集成。
+- MVP 实机验证：FILES/MISSION 运行时命中、中文显示和已知显式换行/长句排版已通过测试；BRIEFING 当前不再有已知阻塞，后续仅需随字库和新增文本继续回归。
 - MVP 保持：BRIEFING 继续使用 5,645 个独立物理 translation rows，保证每个上下文可以单独译写并精确绑定。
 - MVP 不做：不重新拆分或重译旧五类 21,041 个聚合 translation rows，不把全局通用 schema 改造作为 BRIEFING 构建前置条件。
 
-已登记的 MVP 后优化方向：旧五类模板生成器当前以 `file_id + jpn_text` 自动聚合翻译单元，可能无法表达同一 file_id 内“日文完全相同但因上下文而需要不同中文”的情况。MVP 实机闭环后，应审计所有 `source_objects > 1` 的聚合行，并将通用翻译身份逐步改为稳定 object/translation-unit identity；译文复用必须显式声明，`jpn_text` 只用于源文校验，不再作为唯一译文主键。无论翻译维护层是否复用，构建 manifest 都必须展开并保留全部物理对象。
+已登记的 RC1 后优化方向：旧五类模板生成器当前以 `file_id + jpn_text` 自动聚合翻译单元，可能无法表达同一 file_id 内“日文完全相同但因上下文而需要不同中文”的情况。后续应审计所有 `source_objects > 1` 的聚合行，并将通用翻译身份逐步改为稳定 object/translation-unit identity；译文复用必须显式声明，`jpn_text` 只用于源文校验，不再作为唯一译文主键。无论翻译维护层是否复用，构建 manifest 都必须展开并保留全部物理对象。

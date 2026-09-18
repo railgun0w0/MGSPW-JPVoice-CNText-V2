@@ -1,6 +1,6 @@
 # FONT Technical State（Reference Summary）
 
-本文件是旧位置保留的 FONT 状态摘要。最新权威入口是 `font/doc/README.md`；正式根因归档、Golden Baseline 与下一阶段设计分别位于 `font/doc/FONT_TECHNICAL_ARCHIVE.md`、`FONT_PRODUCTION_BASELINE.md`、`FONT_CUSTOM_BUILD_PLAN.md`。涉及 JPN001c 2 MiB/4096×4096/runtime dimension 的结论以 `font/doc/` 为准。本文只整理已经存在的报告、manifest、静态读回和实机记录；不替代、删除或重写历史实验产物。
+本文件是旧位置保留的 **REFERENCE ONLY** FONT 状态摘要。当前 production status 由 `font/doc/README.md`、`font/doc/FONT_PRODUCTION_BASELINE.md`、`docs/RELEASE_READINESS.md` 和 `build/rc1/RC1_FILE_MANIFEST.csv` 定义：large `00c7c9f9.xpr` 与 small `001cbbd1.xpr` 均采用 clean-JPN self-owned rebuild，MLG/MLG_CN 仅为 reverse-engineering / compatibility reference，当前 RC1 route 不需要 EXE patch。本文不替代、删除或重写历史实验产物。
 
 整理日期：2026-09-16（Asia/Hong_Kong）
 
@@ -15,7 +15,7 @@ GENERATED_GLYPH_RUNTIME = VALIDATED
 
 LOADING_FONT_PATH = RUNTIME_CONFIRMED
 LOADING_GLYPH_REPLACEMENT = VALIDATED
-LOADING_FONT_STYLE = UNRESOLVED
+LOADING_FONT_STYLE = RC1_STOCK_PROFILE_PROVEN
 
 JPN001C_RUNTIME_DIMENSION_PATCH_PROVEN = YES
 JPN001C_4096x4096_RUNTIME_PATCH_PROVEN = YES
@@ -26,12 +26,12 @@ STOCK_PROFILE = 51PX_PADDING1
 EXE_PATCH_REQUIRED = NO
 CLEAN_JPN_001C_STOCK_SELF_OWNED_RUNTIME = PROVEN
 
-FINAL_MAIN_FONT_STYLE = UNDECIDED
-FINAL_SMALL_FONT_STYLE = UNDECIDED
+FINAL_MAIN_FONT_STYLE = RC1_SELF_OWNED_PROFILE_PROVEN
+FINAL_SMALL_FONT_STYLE = RC1_SELF_OWNED_STOCK_PROFILE_PROVEN
 FINAL_GLYPH_SOURCE_POLICY = SELF_OWNED_REBUILD_DECIDED
 
 LARGE_MULTI_GLYPH_RELOCATION = UNRESOLVED
-PRODUCTION_FONT_BUILDER = NOT_COMPLETED
+PRODUCTION_FONT_BUILDER = RC1_REBUILD_PROVEN
 ```
 
 Phase 2B.1 stock-geometry salvage is now `RUNTIME_CONFIRMED` for the exact
@@ -156,7 +156,7 @@ big-endian u32
 
 ## 4. Generated glyph 与风格实验
 
-状态：patched MLG_CN0007-derived PoC 的运行时技术链为 `RUNTIME_CONFIRMED`；production 来源策略已经决定为 `SELF_OWNED_REBUILD`，具体 source font 与 large/small raster profile 仍为 `UNDECIDED`。
+状态：patched MLG_CN0007-derived PoC 的运行时技术链为 `RUNTIME_CONFIRMED`；该句中的 source/profile `UNDECIDED` 仅指历史 PoC 的候选比较，不覆盖当前已冻结的 RC1 self-owned pair。
 
 - `Noto Sans SC Bold`：D profile，`56px`，`58×67` cell，目标 `厥` bbox 约 `[2,7,56,59]`，baseline ink bottom `y=59`。D 已实机比较通过，并保留为当前 generated fallback profile。
 - `Microsoft YaHei UI Bold`：实际 metadata 为 `C:\\Windows\\Fonts\\msyhbd.ttc` face `1`，family `Microsoft YaHei UI`，style `Bold`；`55px`、Pillow/FreeType BASIC、8-bit L 灰度。该 `厥` 版本已实机正常运行，视觉效果可接受。
@@ -257,14 +257,14 @@ endian = 0
 storage = linear 1 byte/pixel
 ```
 
-单字和少量 glyph append 已实机打通；但是一次增加大量 glyph 时，以下部分仍没有正式、可重复的 production builder：
+单字和少量 glyph append 的历史 PoC 曾有下列限制；这些限制不再定义当前 RC1 的 clean-JPN self-owned rebuild 路线。当前 RC1 builder/output 已通过独立重建和运行时验证；下列字段仅保留为 append/relocation 实验边界：
 
 ```ini
 USER_SECTION_GROWTH = NEEDS_BUILDER
 RESOURCE_RELOCATION = NEEDS_BUILDER
 TX2D_OFFSET_RELOCATION = NEEDS_BUILDER
 LARGE_MULTI_GLYPH_RELOCATION = UNRESOLVED
-PRODUCTION_FONT_BUILDER = NOT_COMPLETED
+PRODUCTION_FONT_BUILDER = RC1_REBUILD_PROVEN
 ```
 
 不要把单字 append PoC 当作大规模 relocation 已完成。
@@ -284,7 +284,7 @@ PRODUCTION_FONT_BUILDER = NOT_COMPLETED
 
 ## 11. Open design decisions
 
-production 路线已经决定为 self-owned rebuild。以下实现参数保持 `UNDECIDED`，本轮不执行：
+production 路线已经决定为 self-owned rebuild。以下是 RC1 之外的后续视觉/全覆盖设计项，不改变当前 package 已验证的 large/small 路线：
 
 ```text
 A. 正式公开版本采用哪一种开源 source font

@@ -1,6 +1,6 @@
 # FONT documentation authority
 
-`font/doc/` 是本仓库字体研究、production baseline 与下一阶段设计的最新权威文档目录。
+`font/doc/` 是本仓库字体研究、production baseline 与下一阶段设计的最新权威文档目录。当前 RC1 production 采用从 clean JPN selectors 自有重建的 large/small 字体 pair；状态与 package 事实同时受 `docs/RELEASE_READINESS.md` 和 `build/rc1/RC1_FILE_MANIFEST.csv` 约束。
 
 | document | authority scope |
 |---|---|
@@ -15,5 +15,5 @@
 3. 标为 `ARCHIVED / HISTORICAL REFERENCE` 的报告只用于追溯当时证据和实验路径。
 4. 标为 `REFERENCE ONLY` 的报告可能仍含有效静态事实，但 production 状态必须回到本目录核对。
 5. 第三方 MLG 字体只作为兼容性、逆向和容量证明，不是未来 production dependency。
-6. production 路线已决定为从 clean JPN selectors 进行 `SELF_OWNED_REBUILD`；仍未决定的是具体开源字体及 large/small raster profile。
+6. 当前 production 路线是从 clean JPN `00c7c9f9.xpr` / `001cbbd1.xpr` selectors 进行 `SELF_OWNED_REBUILD`；RC1 已验证 `EXE_PATCH_REQUIRED = NO`。MLG/MLG_CN 只作 reverse-engineering / compatibility reference，不是 production dependency。
 7. 指向未入 Git 的 Experimental、PoC、fixture 或 dump 证据必须标记 `LOCAL-ONLY`，不得形成看似可在 GitHub 打开的失效链接。
