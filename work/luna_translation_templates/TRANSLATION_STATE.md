@@ -7,7 +7,7 @@ It is rebuilt from JPN templates plus committed canonical mappings; the prose pr
 `MVP_STATUS = COMPLETE`; current work is RC QA, release assembly, and gameplay QA.
 `RC1_PACKAGE_FILE_COUNT = 20`; the historical 21-file readiness package is reference-only.
 
-Updated: `2026-09-19T04:44:57+08:00`
+Updated: `2026-09-19T17:47:35+08:00`
 Branch: `sol-translation`
 Latest validated checkpoint commit: `438bc9f474acd0f774e6cc091edb87412d0cfbcf`
 Total rows / persisted rows: **26686 / 26686**

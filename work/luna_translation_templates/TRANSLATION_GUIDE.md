@@ -289,4 +289,4 @@ node tools/Compile-BriefingProductionTranslations.mjs --check
 - YPK/OHD 容量满足要求；
 - 未生成或修改 manifest/DAT，直到人工确认完成。
 
-只有通过人工语义审核和本地结构检查后，才能把模板转为正式翻译 CSV 并标记 `APPROVED`。
+人工语义审核和本地结构检查通过后，将最终译文持久化到对应 `sol_translation_mappings/<resource_class>/<file_id>.json`，再由 production compiler 确定性生成正式 production CSV，并在 production materialization 中标记 `APPROVED` / `READY`。

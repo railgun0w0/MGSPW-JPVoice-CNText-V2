@@ -176,7 +176,7 @@ SLOT OLANG 基准：118 JPN references、110 条唯一日文和 110 条上下文
 1. 离线阶段已完成：专用 BRIEFING builder、parser/text/diff round-trip，以及当前 20-file RC1 staging；旧 21-file readiness package 仅作历史证据。
 2. 标题 UI ASCII 保留修复已于 2026-09-09 实机通过；后续翻译不得把已确认的纯 ASCII UI 再改成依赖未覆盖中文字形的 CJK。
 3. 2026-09-14 已实机确认任务结束无线电命中中文，BRIEFING 两条已知 FILES 行宽问题已通过显式 LF 修复；任务结算武器经验字段也已实机通过，但原因暂不确定。后续集中验收剧情字幕、任务说明、过场字幕、ruby、字库和日语语音。
-4. 对发现的问题记录 resource class、file_id、原文/现译文和场景；只修订对应权威 CSV/mapping，再从 production compile 开始全量重建。
+4. 对发现的问题记录 resource class、file_id、原文/现译文和场景；只修改对应 canonical mapping，然后重新运行 production compiler，再从 production compile 开始全量重建。
 5. 完成 clean-install smoke 与 gameplay QA 后冻结正式发布包和恢复/安装说明。
 
 ### MVP 后润色/优化 backlog
@@ -202,4 +202,4 @@ GTT 的容量、alignment spill、压缩余量和相关文本长度优化不在�
 
 核心路线可以概括为：
 
-**以 JPN 为唯一结构与语义主体，以 worklist 管理 file_id，以单个 file_id CSV 保存权威译文，以 compiled manifest 绑定具体 JPN 对象，并从 clean JPN 重建。**
+**以 JPN 为唯一结构与语义主体，以 worklist 管理 file_id，以 `sol_translation_mappings` JSON 保存 canonical authoring translation，由 production compiler 生成 `translations/**/*.csv` 与 `compiled_translation_manifest.csv`，再从 clean JPN 重建目标资源。**

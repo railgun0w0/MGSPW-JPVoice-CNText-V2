@@ -961,7 +961,7 @@ def render_state(payload: dict[str, Any], audits: list[FileAudit]) -> str:
         "This is the machine-recoverable resume point for the `sol-translation` branch.",
         "It is rebuilt from JPN templates plus committed canonical mappings; the prose progress log is not an input.",
         "`CANONICAL_TRANSLATION_SOURCE = sol_translation_mappings`; generated CSV/manifest files are materialized outputs.",
-        "`ALL_FILE_IDS_MAPPING_BACKED = 710/710`; the 21 migrated YPK_GTT JSON mappings are now included.",
+        f"`ALL_FILE_IDS_MAPPING_BACKED = {payload['completed_file_ids']}/{payload['total_file_ids']}`; the 21 migrated YPK_GTT JSON mappings are now included.",
         "`MVP_STATUS = COMPLETE`; current work is RC QA, release assembly, and gameplay QA.",
         "`RC1_PACKAGE_FILE_COUNT = 20`; the historical 21-file readiness package is reference-only.",
         "",
